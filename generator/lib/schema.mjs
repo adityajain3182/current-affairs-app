@@ -73,13 +73,27 @@ export const QUESTION_SCHEMA = {
   required: ['questions'],
 };
 
+/** Fisher-Yates shuffle of the options, keeping answerIndex pointing at the
+ *  correct text. Removes the model's positional bias (it tends to over-use A/B). */
+function shuffleOptions(options, answerIndex) {
+  const correct = options[answerIndex];
+  const arr = options.slice();
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return { options: arr, answerIndex: arr.indexOf(correct) };
+}
+
 /** Normalise + validate one raw question from the model. Returns null if unusable. */
 export function sanitizeQuestion(raw, idPrefix, seq) {
   if (!raw || typeof raw !== 'object') return null;
-  const options = Array.isArray(raw.options)
+  let options = Array.isArray(raw.options)
     ? raw.options.map((o) => String(o).trim()).filter(Boolean)
     : [];
   if (options.length !== 4) return null;
+  // Reject duplicate options (model occasionally repeats a distractor).
+  if (new Set(options.map((o) => o.toLowerCase())).size !== 4) return null;
 
   let answerIndex = Number(raw.answerIndex);
   if (!Number.isInteger(answerIndex) || answerIndex < 0 || answerIndex > 3) return null;
@@ -89,6 +103,8 @@ export function sanitizeQuestion(raw, idPrefix, seq) {
   if (!question || !explanation) return null;
 
   const category = CATEGORIES.includes(raw.category) ? raw.category : 'Miscellaneous';
+
+  ({ options, answerIndex } = shuffleOptions(options, answerIndex));
 
   const q = {
     id: `${idPrefix}-q${seq}`,
