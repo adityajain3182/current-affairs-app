@@ -1,0 +1,52 @@
+name: Generate weekly test
+
+on:
+  schedule:
+    # 02:00 UTC Sunday = 07:30 AM IST Sunday — covers the past week's news
+    - cron: '0 2 * * 0'
+  workflow_dispatch:
+
+concurrency:
+  group: generate-weekly
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install generator deps
+        working-directory: generator
+        run: npm ci || npm install
+
+      - name: Generate weekly paper
+        working-directory: generator
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.WEEKLY_MODEL || 'gemini-2.5-pro' }}
+        run: node generate-weekly.mjs
+
+      - name: Commit & push content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content
+          if git diff --cached --quiet; then
+            echo "No content changes."
+          else
+            git commit -m "content: weekly test $(date -u +%G-W%V)"
+            git push
+          fi
+
+      - name: Purge jsDelivr CDN cache
+        if: always()
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/content/index.json" || true

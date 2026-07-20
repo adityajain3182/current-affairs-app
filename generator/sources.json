@@ -1,0 +1,16 @@
+{
+  "_comment": "Curated RSS feeds for Indian competitive-exam current affairs. Add/remove freely. 'name' shows nowhere user-facing; it's just for source attribution. Feeds that fail are skipped automatically.",
+  "feeds": [
+    { "name": "PIB (Govt. of India)", "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3", "topic": "government" },
+    { "name": "The Hindu — National", "url": "https://www.thehindu.com/news/national/feeder/default.rss", "topic": "national" },
+    { "name": "The Hindu — Business", "url": "https://www.thehindu.com/business/feeder/default.rss", "topic": "economy" },
+    { "name": "The Hindu — Sport", "url": "https://www.thehindu.com/sport/feeder/default.rss", "topic": "sports" },
+    { "name": "The Hindu — Sci-Tech", "url": "https://www.thehindu.com/sci-tech/feeder/default.rss", "topic": "science" },
+    { "name": "The Hindu — International", "url": "https://www.thehindu.com/news/international/feeder/default.rss", "topic": "international" },
+    { "name": "Indian Express — India", "url": "https://indianexpress.com/section/india/feed/", "topic": "national" },
+    { "name": "Indian Express — Business", "url": "https://indianexpress.com/section/business/feed/", "topic": "economy" },
+    { "name": "The Economic Times — Top Stories", "url": "https://economictimes.indiatimes.com/rssfeedstopstories.cms", "topic": "economy" },
+    { "name": "Livemint — Economy", "url": "https://www.livemint.com/rss/economy", "topic": "economy" },
+    { "name": "Down To Earth — Environment", "url": "https://www.downtoearth.org.in/rss/environment", "topic": "environment" }
+  ]
+}

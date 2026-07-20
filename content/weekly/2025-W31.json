@@ -1,0 +1,91 @@
+{
+  "id": "weekly-2025-W31",
+  "type": "weekly",
+  "date": "2025-08-01",
+  "title": "Weekly Current Affairs — Sample Test",
+  "questionCount": 6,
+  "questions": [
+    {
+      "id": "weekly-2025-W31-q1",
+      "question": "The 'Nari Shakti Vandan Adhiniyam' (2023) relates to the reservation of seats for women in which bodies?",
+      "options": [
+        "Only the Rajya Sabha",
+        "Lok Sabha and State Legislative Assemblies",
+        "Panchayats only",
+        "The Union Council of Ministers"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The 106th Constitutional Amendment (Nari Shakti Vandan Adhiniyam), passed in 2023, provides for one-third reservation of seats for women in the Lok Sabha and State Legislative Assemblies, including seats reserved for SCs and STs.",
+      "background": "Its implementation is tied to the next delimitation exercise after a census. Women's reservation in local bodies (Panchayats/Municipalities) already exists via the 73rd and 74th Amendments.",
+      "examRelevance": "106th Amendment = 33% women's reservation in Lok Sabha & State Assemblies.",
+      "tags": ["Women Reservation", "Constitution", "106th Amendment"],
+      "source": { "title": "PRS Legislative Research", "url": "https://prsindia.org/" }
+    },
+    {
+      "id": "weekly-2025-W31-q2",
+      "question": "Which organisation publishes the annual 'World Economic Outlook' report?",
+      "options": ["World Bank", "International Monetary Fund (IMF)", "WTO", "OECD"],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The World Economic Outlook (WEO) is published twice a year by the International Monetary Fund (IMF), providing analysis and projections of global growth, inflation and trade.",
+      "background": "The World Bank publishes 'Global Economic Prospects' and the 'World Development Report'; the WTO publishes trade statistics. Matching report-to-publisher is a favourite exam theme.",
+      "examRelevance": "World Economic Outlook = IMF; Global Economic Prospects = World Bank.",
+      "tags": ["IMF", "Reports", "Economy"],
+      "source": { "title": "IMF", "url": "https://www.imf.org/" }
+    },
+    {
+      "id": "weekly-2025-W31-q3",
+      "question": "The Ramsar Convention is associated with the conservation of which of the following?",
+      "options": ["Deserts", "Wetlands", "Coral reefs", "Tropical rainforests"],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The Ramsar Convention (1971) is an international treaty for the conservation and sustainable use of wetlands. Sites of international importance are designated 'Ramsar Sites'.",
+      "background": "India has been steadily adding Ramsar Sites and is among the countries with the most such sites in Asia. It was signed in the Iranian city of Ramsar.",
+      "examRelevance": "Ramsar Convention (1971) = wetlands; signed in Ramsar, Iran.",
+      "tags": ["Ramsar", "Wetlands", "Environment"],
+      "source": { "title": "Ramsar", "url": "https://www.ramsar.org/" }
+    },
+    {
+      "id": "weekly-2025-W31-q4",
+      "question": "'Fit India Movement' and 'Khelo India' are initiatives of which Union Ministry?",
+      "options": [
+        "Ministry of Health & Family Welfare",
+        "Ministry of Education",
+        "Ministry of Youth Affairs & Sports",
+        "Ministry of Culture"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "Both the Fit India Movement and the Khelo India programme are run by the Ministry of Youth Affairs & Sports to promote fitness and grassroots sporting talent.",
+      "background": "Khelo India includes the Khelo India Youth Games and University Games. The Fit India Movement was launched on 29 August 2019 (National Sports Day).",
+      "examRelevance": "Khelo India & Fit India = Ministry of Youth Affairs & Sports.",
+      "tags": ["Khelo India", "Fit India", "Schemes"],
+      "source": { "title": "Ministry of Youth Affairs & Sports", "url": "https://yas.gov.in/" }
+    },
+    {
+      "id": "weekly-2025-W31-q5",
+      "question": "Which spacecraft was India's first solar observation mission?",
+      "options": ["Mangalyaan", "Aditya-L1", "Astrosat", "Gaganyaan"],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Aditya-L1, launched by ISRO in September 2023, is India's first dedicated mission to study the Sun. It was placed in a halo orbit around the Sun-Earth Lagrange point L1.",
+      "background": "The L1 point lets it observe the Sun continuously without eclipses. Mangalyaan (2013) was India's Mars mission; Astrosat (2015) is a space telescope; Gaganyaan is the crewed programme.",
+      "examRelevance": "Aditya-L1 = India's 1st solar mission; orbits Lagrange point L1.",
+      "tags": ["Aditya-L1", "ISRO", "Sun"],
+      "source": { "title": "ISRO", "url": "https://www.isro.gov.in/" }
+    },
+    {
+      "id": "weekly-2025-W31-q6",
+      "question": "The Nobel Prize in which category was first awarded in 1969, later than the original five?",
+      "options": ["Literature", "Peace", "Economic Sciences", "Medicine"],
+      "answerIndex": 2,
+      "category": "Awards & Honours",
+      "explanation": "The Prize in Economic Sciences in Memory of Alfred Nobel was established by Sweden's central bank (Sveriges Riksbank) in 1968 and first awarded in 1969, after the original five Nobel Prizes.",
+      "background": "The original five (Physics, Chemistry, Medicine, Literature, Peace) date from Alfred Nobel's 1895 will and were first awarded in 1901. The Economics prize is technically not one of Nobel's own.",
+      "examRelevance": "Economics Nobel = added 1968, first given 1969; not in Nobel's original will.",
+      "tags": ["Nobel Prize", "Economics"],
+      "source": { "title": "The Nobel Prize", "url": "https://www.nobelprize.org/" }
+    }
+  ]
+}

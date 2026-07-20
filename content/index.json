@@ -1,0 +1,23 @@
+{
+  "updatedAt": "2025-08-01T04:30:00.000Z",
+  "daily": [
+    {
+      "id": "daily-2025-08-01",
+      "type": "daily",
+      "date": "2025-08-01",
+      "title": "Current Affairs — Sample Set",
+      "path": "content/daily/2025-08-01.json",
+      "questionCount": 10
+    }
+  ],
+  "weekly": [
+    {
+      "id": "weekly-2025-W31",
+      "type": "weekly",
+      "date": "2025-08-01",
+      "title": "Weekly Current Affairs — Sample Test",
+      "path": "content/weekly/2025-W31.json",
+      "questionCount": 6
+    }
+  ]
+}

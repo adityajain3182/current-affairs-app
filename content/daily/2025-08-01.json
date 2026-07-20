@@ -1,0 +1,134 @@
+{
+  "id": "daily-2025-08-01",
+  "type": "daily",
+  "date": "2025-08-01",
+  "title": "Current Affairs — Sample Set",
+  "questionCount": 10,
+  "questions": [
+    {
+      "id": "daily-2025-08-01-q1",
+      "question": "Near which region of the Moon did India's Chandrayaan-3 mission achieve a soft landing?",
+      "options": ["The North Pole", "The South Pole", "The Sea of Tranquility", "The far side equator"],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "On 23 August 2023, Chandrayaan-3's Vikram lander touched down near the Moon's South Pole, making India the first country to land in that region and the fourth to achieve a soft lunar landing.",
+      "background": "It followed Chandrayaan-2 (2019), whose lander crashed. The success led India to declare 23 August as National Space Day. The rover was named Pragyan and the lander Vikram.",
+      "examRelevance": "Remember: India = 1st near the lunar South Pole; date 23 Aug 2023; ISRO mission.",
+      "tags": ["ISRO", "Chandrayaan-3", "Space"],
+      "source": { "title": "ISRO", "url": "https://www.isro.gov.in/" }
+    },
+    {
+      "id": "daily-2025-08-01-q2",
+      "question": "Which city hosted the 2023 G20 Leaders' Summit?",
+      "options": ["Bali", "New Delhi", "Rio de Janeiro", "Johannesburg"],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "India hosted the G20 Leaders' Summit on 9-10 September 2023 at Bharat Mandapam, New Delhi, under the theme 'Vasudhaiva Kutumbakam — One Earth, One Family, One Future'.",
+      "background": "At this summit the African Union was admitted as a permanent G20 member. India's presidency passed to Brazil (2024), then South Africa (2025).",
+      "examRelevance": "2023 G20 host = New Delhi; African Union joined here.",
+      "tags": ["G20", "New Delhi", "Diplomacy"],
+      "source": { "title": "G20 India", "url": "https://www.g20.org/" }
+    },
+    {
+      "id": "daily-2025-08-01-q3",
+      "question": "What is the highest civilian award of India?",
+      "options": ["Padma Vibhushan", "Param Vir Chakra", "Bharat Ratna", "Padma Bhushan"],
+      "answerIndex": 2,
+      "category": "Awards & Honours",
+      "explanation": "The Bharat Ratna is India's highest civilian award, given for exceptional service in any field of human endeavour. It was instituted in 1954.",
+      "background": "The Param Vir Chakra is the highest wartime military decoration, so it is a common distractor. The Padma awards (Vibhushan, Bhushan, Shri) rank below the Bharat Ratna.",
+      "examRelevance": "Highest civilian award = Bharat Ratna (1954); highest military = Param Vir Chakra.",
+      "tags": ["Bharat Ratna", "Awards"],
+      "source": { "title": "Ministry of Home Affairs", "url": "https://www.mha.gov.in/" }
+    },
+    {
+      "id": "daily-2025-08-01-q4",
+      "question": "Who was the first woman to become President of India?",
+      "options": ["Indira Gandhi", "Sarojini Naidu", "Pratibha Patil", "Droupadi Murmu"],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Pratibha Devisingh Patil served as the 12th President of India (2007-2012) and was the first woman to hold the office.",
+      "background": "Droupadi Murmu (2022) became the second woman and the first tribal person to be President. Sarojini Naidu was the first woman Governor of an Indian state, not President — a frequent trap.",
+      "examRelevance": "1st woman President = Pratibha Patil (2007); 1st tribal/2nd woman = Droupadi Murmu.",
+      "tags": ["President", "Polity"],
+      "source": { "title": "Rashtrapati Bhavan", "url": "https://presidentofindia.gov.in/" }
+    },
+    {
+      "id": "daily-2025-08-01-q5",
+      "question": "National Sports Day is observed in India on 29 August to mark the birth anniversary of which sportsperson?",
+      "options": ["Sachin Tendulkar", "Major Dhyan Chand", "Milkha Singh", "Dhanraj Pillay"],
+      "answerIndex": 1,
+      "category": "Dates & Days",
+      "explanation": "National Sports Day is celebrated on 29 August, the birth anniversary of hockey legend Major Dhyan Chand, on which the National Sports Awards are conferred.",
+      "background": "The Major Dhyan Chand Khel Ratna is now India's highest sporting honour (renamed from Rajiv Gandhi Khel Ratna in 2021). Dhyan Chand won Olympic hockey gold in 1928, 1932 and 1936.",
+      "examRelevance": "29 Aug = National Sports Day = Dhyan Chand's birthday.",
+      "tags": ["National Sports Day", "Dhyan Chand"],
+      "source": { "title": "Ministry of Youth Affairs & Sports", "url": "https://yas.gov.in/" }
+    },
+    {
+      "id": "daily-2025-08-01-q6",
+      "question": "In which city is the headquarters of the Reserve Bank of India (RBI) located?",
+      "options": ["New Delhi", "Kolkata", "Mumbai", "Chennai"],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The RBI, India's central bank, has its central office in Mumbai, Maharashtra. It was established on 1 April 1935 under the RBI Act, 1934.",
+      "background": "The RBI was originally set up in Kolkata and moved to Mumbai in 1937. It was nationalised in 1949. Its functions include monetary policy and currency issuance.",
+      "examRelevance": "RBI HQ = Mumbai; established 1 April 1935; nationalised 1949.",
+      "tags": ["RBI", "Banking"],
+      "source": { "title": "Reserve Bank of India", "url": "https://www.rbi.org.in/" }
+    },
+    {
+      "id": "daily-2025-08-01-q7",
+      "question": "Which city hosted the 2024 Summer Olympic Games?",
+      "options": ["Tokyo", "Paris", "Los Angeles", "Brisbane"],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Paris, France, hosted the Games of the XXXIII Olympiad in 2024 — the third time the city has hosted the Summer Olympics (after 1900 and 1924).",
+      "background": "Los Angeles 2028 and Brisbane 2032 are the next hosts. Tokyo hosted the delayed 2020 Games in 2021.",
+      "examRelevance": "2024 Olympics = Paris; next: LA 2028, Brisbane 2032.",
+      "tags": ["Olympics", "Paris 2024"],
+      "source": { "title": "International Olympic Committee", "url": "https://olympics.com/" }
+    },
+    {
+      "id": "daily-2025-08-01-q8",
+      "question": "INS Vikrant, commissioned in 2022, is notable as India's first what?",
+      "options": [
+        "Nuclear submarine",
+        "Indigenously built aircraft carrier",
+        "Guided-missile destroyer",
+        "Stealth frigate"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "INS Vikrant (IAC-1), commissioned in September 2022, is the first aircraft carrier to be designed and built in India, boosting the Navy's blue-water capability.",
+      "background": "It carries the name of India's first aircraft carrier, the erstwhile INS Vikrant (a British-built ship) which served in the 1971 war. It was built by Cochin Shipyard Limited.",
+      "examRelevance": "INS Vikrant (2022) = 1st indigenous aircraft carrier; built by Cochin Shipyard.",
+      "tags": ["INS Vikrant", "Indian Navy"],
+      "source": { "title": "Indian Navy", "url": "https://www.indiannavy.nic.in/" }
+    },
+    {
+      "id": "daily-2025-08-01-q9",
+      "question": "Project Tiger, India's flagship tiger-conservation programme, was launched in which year?",
+      "options": ["1969", "1973", "1985", "1991"],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Project Tiger was launched in 1973 from Jim Corbett National Park to protect Bengal tigers and their habitats through a network of tiger reserves.",
+      "background": "It is administered by the National Tiger Conservation Authority (NTCA). Tiger numbers are counted in a quadrennial census; India holds the majority of the world's wild tigers.",
+      "examRelevance": "Project Tiger = 1973; managed by NTCA.",
+      "tags": ["Project Tiger", "Conservation", "NTCA"],
+      "source": { "title": "NTCA", "url": "https://ntca.gov.in/" }
+    },
+    {
+      "id": "daily-2025-08-01-q10",
+      "question": "Who authored the book 'The Discovery of India'?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "B. R. Ambedkar"],
+      "answerIndex": 1,
+      "category": "Books & Authors",
+      "explanation": "'The Discovery of India' was written by Jawaharlal Nehru during his imprisonment at Ahmednagar Fort (1942-46). It traces India's history, philosophy and culture.",
+      "background": "Nehru also wrote 'The Glimpses of World History' and 'An Autobiography'. The TV series 'Bharat Ek Khoj' was based on 'The Discovery of India'.",
+      "examRelevance": "'The Discovery of India' = Jawaharlal Nehru; written in prison 1942-46.",
+      "tags": ["Nehru", "Books"],
+      "source": { "title": "National Archives of India", "url": "https://nationalarchives.nic.in/" }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "current-affairs-generator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Generates daily (30) and weekly (100) current-affairs MCQ papers with Gemini.",
+  "scripts": {
+    "daily": "node generate-daily.mjs",
+    "weekly": "node generate-weekly.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

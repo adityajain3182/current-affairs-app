@@ -1,0 +1,52 @@
+name: Generate daily questions
+
+on:
+  schedule:
+    # 01:30 UTC = 07:00 AM IST, every day
+    - cron: '30 1 * * *'
+  workflow_dispatch: # allow manual runs from the Actions tab
+
+concurrency:
+  group: generate-daily
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install generator deps
+        working-directory: generator
+        run: npm ci || npm install
+
+      - name: Generate daily paper
+        working-directory: generator
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.DAILY_MODEL || 'gemini-2.5-flash' }}
+        run: node generate-daily.mjs
+
+      - name: Commit & push content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content
+          if git diff --cached --quiet; then
+            echo "No content changes."
+          else
+            git commit -m "content: daily paper $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Purge jsDelivr CDN cache
+        if: always()
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/content/index.json" || true
