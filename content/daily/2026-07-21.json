@@ -1,0 +1,786 @@
+{
+  "id": "daily-2026-07-21",
+  "type": "daily",
+  "date": "2026-07-21",
+  "title": "Current Affairs — 21 Jul 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-07-21-q1",
+      "question": "Sir Garfield Sobers, celebrated as a 'father figure' in cricket, held the record for the highest individual innings in Test cricket for 36 years with his score of 365 not out. Against which country did he achieve this feat in 1958?",
+      "options": [
+        "Pakistan",
+        "England",
+        "Australia",
+        "New Zealand"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Sir Garfield Sobers scored 365 not out against Pakistan in 1958, a record that stood for 36 years as the highest individual innings in Test cricket. This monumental innings showcased his exceptional batting prowess at a young age.",
+      "background": "Sobers is widely regarded as one of the greatest all-rounders in cricket history. His long-standing record was eventually broken by Brian Lara in 1994, who scored 375 against England.",
+      "examRelevance": "Fact about a prominent sports personality and a historical record.",
+      "tags": [
+        "Sir Garfield Sobers",
+        "Test cricket",
+        "Pakistan",
+        "Cricket record"
+      ],
+      "source": {
+        "title": "Lara calls for celebration of 'father figure' Sobers",
+        "url": "https://www.thehindu.com/news/lara-calls-for-celebration-of-father-figure-sobers/article71247001.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q2",
+      "question": "Kevin Keegan, an England soccer star who also served as a player and coach for Newcastle, passed away recently at the age of 75. In which sport did he gain international renown?",
+      "options": [
+        "Rugby",
+        "Football",
+        "Cricket",
+        "Tennis"
+      ],
+      "answerIndex": 1,
+      "category": "Obituaries",
+      "explanation": "Kevin Keegan, who died on July 20 at 75, was a renowned England soccer star. He was celebrated for his career as both a player and coach, notably for his former club Newcastle.",
+      "background": "Keegan was a prominent figure in English football during the 1970s and 80s, known for his distinctive perm and celebrity status, transcending the game. He had revealed last month that he had stage four cancer.",
+      "examRelevance": "Recent obituary of a famous sports personality.",
+      "tags": [
+        "Kevin Keegan",
+        "Football",
+        "England",
+        "Newcastle",
+        "Obituary"
+      ],
+      "source": {
+        "title": "Kevin Keegan, England soccer star who transcended the game with celebrity status, dies at 75",
+        "url": "https://www.thehindu.com/news/kevin-keegan-england-soccer-star-who-transcended-the-game-with-celebrity-status-dies-at-75/article71247002.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q3",
+      "question": "The Supreme Court recently proposed a specific type of probe into the alleged donation embezzlement case concerning the Shri Ram Janmabhoomi Teerth Kshetra Trust. What kind of probe was proposed by the apex court?",
+      "options": [
+        "CBI probe",
+        "Judicial Commission",
+        "Parliamentary Committee",
+        "SIT probe"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court proposed a Special Investigation Team (SIT) probe into the Ram Temple donation embezzlement case. This comes after complainants had sought a CBI probe and the publication of all financial details of the Shri Ram Janmabhoomi Teerth Kshetra Trust.",
+      "background": "The case involves allegations of financial irregularities in donations made to the trust responsible for the construction and management of the Ram Temple in Ayodhya, a matter of significant national interest. The court advised petitioners against politicizing the issue.",
+      "examRelevance": "Important legal development concerning a high-profile case.",
+      "tags": [
+        "Supreme Court",
+        "Ram Temple",
+        "SIT probe",
+        "Donation embezzlement",
+        "Shri Ram Janmabhoomi Teerth Kshetra Trust"
+      ],
+      "source": {
+        "title": "Supreme Court proposes SIT probe into Ram Temple case",
+        "url": "https://www.thehindu.com/news/national/supreme-court-proposes-sits-probe-into-ram-temple-case/article71246107.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q4",
+      "question": "In the recently concluded 2nd Youth Test, which Indian U-19 cricketer scored a century, putting India U-19 in a commanding position at 253 for three before bad light stopped play?",
+      "options": [
+        "Kushagra Ojha",
+        "Priyam Garg",
+        "Yashasvi Jaiswal",
+        "Sarfaraz Khan"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Kushagra Ojha scored a ton (century) for India U-19 in the 2nd Youth Test. His performance helped India reach a strong position of 253 for three in 65 overs when the umpires were forced to call off the day's play.",
+      "background": "Youth cricket tests are crucial for identifying and nurturing future talent for the national team. Performances like Ojha's highlight promising players who could potentially represent India at the senior level.",
+      "examRelevance": "Recent achievement by an emerging sports talent.",
+      "tags": [
+        "Kushagra Ojha",
+        "India U-19",
+        "Youth Test",
+        "Cricket",
+        "Century"
+      ],
+      "source": {
+        "title": "2nd Youth Test: Kushagra Ojha''s ton puts India U-19 in command",
+        "url": "https://www.thehindu.com/sport/2nd-youth-test-kushagra-ojhas-ton-puts-india-u-19-in-command/article71247003.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q5",
+      "question": "A tragic landslide recently hit a mud house in Domail Dhok, claiming seven lives, and bringing the total rain-related death toll in the region to 21. Domail Dhok is located in which Indian Union Territory?",
+      "options": [
+        "Ladakh",
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Jammu and Kashmir"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "Seven people were killed in a landslide in Domail Dhok, Jammu and Kashmir. The incident contributed to a broader rain-related death toll of 21 across the Union Territory.",
+      "background": "Jammu and Kashmir is prone to landslides and floods during heavy monsoon seasons, often exacerbated by the region's mountainous terrain and unstable geological conditions. Rescue efforts are continuing in coordination with all agencies concerned.",
+      "examRelevance": "Significant natural disaster event and location.",
+      "tags": [
+        "Landslide",
+        "Jammu and Kashmir",
+        "Domail Dhok",
+        "Natural disaster",
+        "Rain"
+      ],
+      "source": {
+        "title": "7 killed in landslide in Jammu and Kashmir as rain toll hits 21",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/heavy-downpour-slows-search-and-rescue-efforts-in-flood-hit-jk-death-toll-reaches-12/article71243803.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q6",
+      "question": "The Monsoon Session of Parliament began with stormy protests from Opposition MPs. Which two major issues were primarily raised by them, leading to disruptions in the Lok Sabha?",
+      "options": [
+        "NEET paper leak and Ram Temple donation theft",
+        "Farm laws repeal and Pegasus spyware",
+        "Demonetisation and GST implementation",
+        "Electoral bonds and Manipur violence"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Opposition MPs raised concerns over the NEET paper leak and the alleged Ram Temple donation theft issues during the initial days of the Monsoon Session. These issues led to repeated disruptions and the adjournment of the Lok Sabha.",
+      "background": "Parliamentary sessions often commence with the Opposition raising pressing national issues to hold the government accountable. The NEET paper leak has been a contentious topic, affecting lakhs of students, while the Ram Temple case has national religious and political significance.",
+      "examRelevance": "Current political issues discussed in Parliament.",
+      "tags": [
+        "Monsoon Session",
+        "Parliament",
+        "NEET paper leak",
+        "Ram Temple",
+        "Opposition protests"
+      ],
+      "source": {
+        "title": "Monsoon Session off to a stormy start amid Opposition protests",
+        "url": "https://www.thehindu.com/news/national/lok-sabha-proceedings-disrupted-on-first-day-of-monsoon-session/article71245226.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q7",
+      "question": "Which major US stock market index recently experienced a slight downturn as investors focused on Middle East de-escalation and awaited second-quarter earnings reports from prominent technology companies like Alphabet, Tesla, and Intel?",
+      "options": [
+        "Dow Jones Industrial Average",
+        "S&P 500",
+        "Nasdaq Composite",
+        "Russell 2000"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The S&P 500 finished slightly lower on Monday as investors anticipated earnings reports from major technology companies. This movement reflected caution among investors ahead of key updates from technology, energy, and consumer-focused firms.",
+      "background": "The S&P 500 is one of the most widely followed equity indices, representing the performance of 500 of the largest companies listed on US stock exchanges. Its movements are often seen as a barometer for the overall health of the US economy and corporate sector.",
+      "examRelevance": "Current trends in major global financial markets.",
+      "tags": [
+        "S&P 500",
+        "US stocks",
+        "Earnings season",
+        "Stock market"
+      ],
+      "source": {
+        "title": "US stocks today: S P 500 edges down with Iran and earnings season in focus",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-edges-down-with-iran-and-earnings-season-in-focus/articleshow/132523900.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q8",
+      "question": "Four Indian seafarers were recently killed and one injured in an attack on a ship leaving which Ukrainian port, prompting India's External Affairs Ministry to condemn the incident?",
+      "options": [
+        "Odesa",
+        "Mariupol",
+        "Sevastopol",
+        "Mykolaiv"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Four Indian seafarers were killed and one injured in an attack on a ship leaving Ukraine’s Odesa port. The Ministry of External Affairs condemned the attack, reiterating India's opposition to such incidents that violate freedom of navigation.",
+      "background": "The Black Sea region, particularly around Ukrainian ports, has been a conflict zone since the full-scale Russian invasion, leading to risks for merchant shipping. Such attacks raise international concerns about maritime safety and freedom of navigation.",
+      "examRelevance": "Significant international incident affecting Indian citizens.",
+      "tags": [
+        "Ukraine",
+        "Odesa",
+        "Indian seafarers",
+        "Maritime attack",
+        "MEA"
+      ],
+      "source": {
+        "title": "Four Indian seafarers killed near Ukrainian port Odessa",
+        "url": "https://www.thehindu.com/news/international/four-indians-killed-one-injured-in-attack-on-ship-leaving-ukraines-odesa-mea-says/article71246517.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q9",
+      "question": "A Parliament march by the 'Cockroach Janata Party' (CJP) in Delhi recently faced a crackdown, resulting in scores of protesters being hospitalized with injuries. Which activist cited 'brutality' and stated his intention to continue a fast until youth leaders were met?",
+      "options": [
+        "Medha Patkar",
+        "Sonam Wangchuk",
+        "Anna Hazare",
+        "Aruna Roy"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Sonam Wangchuk cited 'brutality' following the crackdown on the Cockroach Janata Party (CJP) Parliament march in Delhi. He stated his intention to continue his fast until MPs met 'youth leaders' or him.",
+      "background": "Sonam Wangchuk is an acclaimed engineer, innovator, and education reformist from Ladakh, known for his environmental activism and advocacy for local rights. His involvement adds a significant dimension to the CJP protest.",
+      "examRelevance": "Current political protest and involved personalities.",
+      "tags": [
+        "Cockroach Janata Party",
+        "CJP",
+        "Sonam Wangchuk",
+        "Parliament march",
+        "Delhi protests"
+      ],
+      "source": {
+        "title": "Several hurt in crackdown on CJP Parliament march",
+        "url": "https://www.thehindu.com/news/national/government-cracks-down-on-cockroach-janta-party-protest-in-delhi-net-snapped/article71246087.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q10",
+      "question": "According to FIFA's Arsène Wenger, what measure, implemented in recent World Cups, did not appear to impact the results of the competition, though its future implementation remains undecided?",
+      "options": [
+        "Hydration breaks",
+        "Video Assistant Referee (VAR)",
+        "Goal-line technology",
+        "Extra time rules"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Arsène Wenger, FIFA's Chief of Global Football Development, stated that hydration breaks did not appear to change the results of the World Cup competition. However, he noted that FIFA is focused on serving the people who watch football, implying ongoing consideration for such measures.",
+      "background": "Hydration breaks were introduced in major football tournaments, especially those held in hot and humid conditions, to ensure player welfare. Their effectiveness and impact on game flow are often debated.",
+      "examRelevance": "Policy/rule discussions in major international sports.",
+      "tags": [
+        "FIFA",
+        "Arsène Wenger",
+        "World Cup",
+        "Hydration breaks",
+        "Football"
+      ],
+      "source": {
+        "title": "Soccer-Hydration breaks did not impact World Cup results but future undecided, says FIFA's Wenger",
+        "url": "https://www.thehindu.com/sport//article71242649.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q11",
+      "question": "The 'Shining Stars Awards' were recently conferred to honour academic toppers in which two districts of Andhra Pradesh?",
+      "options": [
+        "Guntur and Krishna",
+        "Visakhapatnam and Vizianagaram",
+        "Nellore and Chittoor",
+        "Alluri and Anakapalli"
+      ],
+      "answerIndex": 3,
+      "category": "Awards & Honours",
+      "explanation": "The 'Shining Stars Awards' were recently given to honour toppers in the Alluri and Anakapalli districts of Andhra Pradesh. The event aimed to felicitate meritorious students and urge them to become role models.",
+      "background": "Such awards are typically instituted by local administrations or educational bodies to encourage academic excellence and provide recognition to students who have performed exceptionally well in their examinations. This initiative motivates students to pursue higher goals.",
+      "examRelevance": "Recent awards and their recipients/locations.",
+      "tags": [
+        "Shining Stars Awards",
+        "Alluri",
+        "Anakapalli",
+        "Andhra Pradesh",
+        "Academic toppers"
+      ],
+      "source": {
+        "title": "Shining Stars Awards honour toppers in Alluri, Anakapalli districts",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/shining-stars-awards-honour-toppers-in-alluri-anakapalli-districts/article71246288.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q12",
+      "question": "Which institution recently introduced a low-cost technology to farmers for producing biochar, aimed at improving soil health, and also provided training on its usage?",
+      "options": [
+        "Indian Agricultural Research Institute (IARI)",
+        "University of Agricultural Sciences, Bengaluru (UAS-B)",
+        "National Institute of Soil Science (NISS)",
+        "Central Arid Zone Research Institute (CAZRI)"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The University of Agricultural Sciences, Bengaluru (UAS-B) introduced a low-cost technology to farmers for producing biochar. This initiative also included training for farmers on how to use biochar to improve soil health.",
+      "background": "Biochar is charcoal produced from biomass pyrolysis, and its application to soil can enhance soil fertility, agricultural productivity, and carbon sequestration. Such technologies are crucial for sustainable agriculture and climate resilience, helping farmers adopt eco-friendly practices.",
+      "examRelevance": "New agricultural technology and the institution behind it.",
+      "tags": [
+        "Biochar",
+        "Soil health",
+        "UAS-B",
+        "Farmers",
+        "Agricultural technology"
+      ],
+      "source": {
+        "title": "UAS-B introduces low-cost technology to farmers to produce biochar, trains them to improve soil health",
+        "url": "https://www.thehindu.com/news/national/karnataka/uas-b-introduces-low-cost-technology-to-farmers-to-produce-biochar-trains-them-to-improve-soil-health/article71185537.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q13",
+      "question": "Despite multiple layers of barricades and the deployment of approximately 3,000 security personnel, large crowds comprising mostly students and young people were able to reach the doorsteps of Parliament in Delhi during a recent protest. The police were reportedly taken aback by their numbers. This protest was associated with which group?",
+      "options": [
+        "Cockroach Janata Party (CJP)",
+        "Farmer Unions",
+        "Government Employees' Association",
+        "Trade Unions"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Large crowds, primarily consisting of students and young people, associated with the Cockroach Janata Party (CJP) protest, managed to reach the Parliament’s doorstep in Delhi despite extensive security measures. The police were reportedly outnumbered and taken aback.",
+      "background": "This event highlights the challenges faced by law enforcement in managing large-scale protests, especially when protesters employ unconventional tactics or demonstrate unexpected numbers and determination. It underscores the intensity of the CJP's demonstration.",
+      "examRelevance": "Important details of a significant recent protest.",
+      "tags": [
+        "Parliament",
+        "Protests",
+        "Delhi",
+        "Students",
+        "Young people",
+        "CJP"
+      ],
+      "source": {
+        "title": "Police outnumbered, taken aback by number of protesters who reached Parliament’s doorstep",
+        "url": "https://www.thehindu.com/news/national/police-outnumbered-taken-aback-by-number-of-protesters-who-reached-parliaments-doorstep/article71246561.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q14",
+      "question": "The Central Bureau of Narcotics (CBN) recently seized a significant consignment of 'fighter drug' in Delhi, with two individuals also apprehended from Kochi in connection with the case. What was the quantity of the drug seized in this operation?",
+      "options": [
+        "10 tonnes",
+        "30 tonnes",
+        "20 tonnes",
+        "40 tonnes"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "The Central Bureau of Narcotics (CBN) seized 30 tonnes of a substance referred to as 'fighter drug' in Delhi. Two individuals were also apprehended from Kochi in connection with this seizure.",
+      "background": "Such large-scale drug seizures indicate significant efforts by law enforcement agencies to combat illegal drug trafficking. The term 'fighter drug' often refers to substances used to enhance physical performance or endurance, sometimes illicitly.",
+      "examRelevance": "Factual detail of a major law enforcement operation.",
+      "tags": [
+        "Fighter drug",
+        "CBN",
+        "Delhi",
+        "Kochi",
+        "Drug seizure"
+      ],
+      "source": {
+        "title": "Two held from Kochi as CBN seizes 30 tonnes of ‘fighter drug’ in Delhi",
+        "url": "https://www.thehindu.com/news/national/kerala/two-held-from-kochi-as-cbn-seizes-30-tonnes-of-fighter-drug-in-delhi/article71246866.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q15",
+      "question": "Indian Railways recently responded to a viral video concerning stone-pelting on a particular type of train. What is the distinguishing feature of this train, which marks a significant advancement for Indian Railways?",
+      "options": [
+        "India's first bullet train",
+        "India's first driverless train",
+        "India's first double-decker train",
+        "India's first hydrogen train"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Indian Railways issued a response to a viral video showing stone-pelting on what is known as India's first hydrogen train. This train represents a significant step towards sustainable and green transportation in the country.",
+      "background": "Hydrogen trains are part of a global movement towards decarbonizing the railway sector. They operate on hydrogen fuel cells, producing electricity with water as the only byproduct, offering an environmentally friendly alternative to traditional diesel trains.",
+      "examRelevance": "Major technological advancement in Indian infrastructure.",
+      "tags": [
+        "Hydrogen train",
+        "Indian Railways",
+        "Green technology",
+        "Transportation"
+      ],
+      "source": {
+        "title": "Stone pelted on India’s first hydrogen train? Indian Railways responds to viral video",
+        "url": "https://indianexpress.com/article/india/indias-first-hydrogen-train-stone-pelting-viral-video-indian-railways-clarification-10795703/"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q16",
+      "question": "Which French firm has commenced the structural stability assessment, including non-destructive testing, of the Kerala Water Authority (KWA) reservoirs, pump houses, and other infrastructure in Kochi?",
+      "options": [
+        "Veolia",
+        "Suez",
+        "Engie",
+        "EDF"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The French firm SUEZ has begun the structural stability assessment of KWA reservoirs, pump houses, and other infrastructure in Kochi. This assessment involves non-destructive testing to evaluate the integrity of the water utility's assets.",
+      "background": "Regular structural assessments are crucial for public utility infrastructure, especially water reservoirs, to ensure safety, operational efficiency, and longevity. SUEZ is a global leader in environmental services, including water and waste management.",
+      "examRelevance": "International collaboration in infrastructure assessment.",
+      "tags": [
+        "SUEZ",
+        "Kochi",
+        "KWA",
+        "Structural assessment",
+        "Water infrastructure"
+      ],
+      "source": {
+        "title": "Structural stability assessment of KWA reservoirs in Kochi begins",
+        "url": "https://www.thehindu.com/news/national/kerala/structural-stability-assessment-of-kwa-reservoirs-in-kochi-begins/article71245873.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q17",
+      "question": "'Operation Southern Readiness' recently commenced with a specific focus. What is the primary objective of this operation?",
+      "options": [
+        "Tackling non-traditional maritime threats",
+        "Enhancing disaster relief capabilities",
+        "Countering cyber warfare threats",
+        "Promoting regional economic cooperation"
+      ],
+      "answerIndex": 0,
+      "category": "Defence",
+      "explanation": "'Operation Southern Readiness' has gotten underway with a key focus on tackling non-traditional maritime threats. This operation aims to strengthen maritime collaboration and address emerging security challenges in the seas.",
+      "background": "Non-traditional maritime threats include piracy, illegal fishing, drug trafficking, and maritime terrorism. Joint operations like 'Southern Readiness' are vital for regional security and stability, fostering interoperability among participating navies.",
+      "examRelevance": "Recent defence exercise and its objective.",
+      "tags": [
+        "Operation Southern Readiness",
+        "Maritime threats",
+        "Defence exercise",
+        "Naval operations"
+      ],
+      "source": {
+        "title": "Operation Southern Readiness gets under way with focus on tackling non-traditional maritime threats",
+        "url": "https://www.thehindu.com/news/national/kerala/call-for-maritime-collaboration-gains-strength-as-operation-southern-readiness-begins/article71246137.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q18",
+      "question": "In the context of the FIFA World Cup 2026, which national team was specifically mentioned for its distinctive style of play, characterized by 'possession and positional football,' allowing it to smother the opposition?",
+      "options": [
+        "Brazil",
+        "Spain",
+        "Germany",
+        "Argentina"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Spain was highlighted for its 'possession and positional football' style, which enabled them to smother the opposition in the context of the FIFA World Cup 2026. This tactical approach emphasizes control of the ball and strategic player positioning.",
+      "background": "Spain's national football team has been renowned for its 'tiki-taka' style, a variant of possession and positional play, which brought them significant success, including a World Cup title and two European Championships in the late 2000s and early 2010s.",
+      "examRelevance": "Current sports news related to major international tournaments.",
+      "tags": [
+        "FIFA World Cup 2026",
+        "Spain",
+        "Football",
+        "Possession football"
+      ],
+      "source": {
+        "title": "Press and play: On the FIFA World Cup 2026",
+        "url": "https://www.thehindu.com/opinion/editorial/press-and-play-on-the-fifa-world-cup-2026/article71245382.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q19",
+      "question": "The Lokayukta recently took suo motu cognisance of widespread violations related to illegal sand extraction in which district of Karnataka?",
+      "options": [
+        "Bagalkot",
+        "Mysuru",
+        "Udupi",
+        "Shivamogga"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Lokayukta took suo motu cognisance of illegal sand extraction and found widespread violations in the Bagalkot district of Karnataka. This action highlights concerns regarding unchecked mining activities.",
+      "background": "Illegal sand mining is a persistent environmental and governance issue in many parts of India, leading to ecological damage, revenue loss for the state, and often involves nexus between local officials and mining mafias. The Lokayukta is an anti-corruption ombudsman institution.",
+      "examRelevance": "Recent action by an accountability institution concerning environmental governance.",
+      "tags": [
+        "Lokayukta",
+        "Illegal sand extraction",
+        "Bagalkot",
+        "Karnataka",
+        "Environmental violations"
+      ],
+      "source": {
+        "title": "Lokayukta takes suo motu cognisance of illegal sand extraction in Bagalkot, finds widespread violations",
+        "url": "https://www.thehindu.com/news/national/karnataka/lokayukta-takes-suo-motu-cognisance-of-illegal-sand-extraction-in-bagalkot-finds-widespread-violations/article71245317.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q20",
+      "question": "Which company is making a significant push in the oil palm sector, planning to expand its oil palm cultivation area to 1.4 lakh hectares?",
+      "options": [
+        "Patanjali Foods",
+        "Ruchi Soya Industries",
+        "Adani Wilmar",
+        "Godrej Agrovet"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Godrej Agrovet is betting big on the oil palm push, with plans to expand its oil palm area to 1.4 lakh hectares. This expansion reflects the company's strategy to capitalize on rising demand for edible oils.",
+      "background": "India is a major importer of edible oils, and the government has been promoting domestic oil palm cultivation to reduce import dependency. Companies like Godrej Agrovet are aligning with this national initiative, investing in increasing local production.",
+      "examRelevance": "Major business expansion in a key agricultural sector.",
+      "tags": [
+        "Godrej Agrovet",
+        "Oil palm",
+        "Agriculture",
+        "Edible oil",
+        "Expansion"
+      ],
+      "source": {
+        "title": "Godrej Agrovet bets big on oil palm push",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/godrej-agro-to-expand-oil-palm-area-to-1-4-lakh-hectares-bets-on-rising-demand/articleshow/132523385.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q21",
+      "question": "The Bidadi township project, which envisages acquiring about 9,600 acres across 25 villages in the Bengaluru South district, is located in which Indian state?",
+      "options": [
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Telangana",
+        "Karnataka"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Bidadi township project, which involves acquiring approximately 9,600 acres across 25 villages in the Bengaluru South district, is located in the Indian state of Karnataka. The project is currently embroiled in political rivalries.",
+      "background": "Large-scale urban development projects like the Bidadi township often face challenges related to land acquisition, environmental concerns, and political opposition. Such projects aim to decongest existing urban centres and create new economic hubs.",
+      "examRelevance": "Important state-level development project and its location.",
+      "tags": [
+        "Bidadi township",
+        "Karnataka",
+        "Bengaluru South",
+        "Urban development",
+        "Land acquisition"
+      ],
+      "source": {
+        "title": "Political rivalries clash over Karnataka’s Bidadi township project",
+        "url": "https://www.thehindu.com/opinion/op-ed/political-rivalries-clash-over-karnatakas-bidadi-township-project/article71246717.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q22",
+      "question": "Who has recently taken office as the new Prime Minister of the United Kingdom, arriving at 10 Downing Street?",
+      "options": [
+        "Andy Burnham",
+        "Keir Starmer",
+        "Rishi Sunak",
+        "Liz Truss"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Andy Burnham has recently become the new Prime Minister of the United Kingdom. He was seen arriving at 10 Downing Street, marking his official assumption of the top political office.",
+      "background": "The Prime Minister of the United Kingdom is the head of government, leading the executive branch. The appointment follows a general election or a leadership contest within the ruling party. Andy Burnham was previously the Mayor of Greater Manchester.",
+      "examRelevance": "Important international political appointment.",
+      "tags": [
+        "Andy Burnham",
+        "UK Prime Minister",
+        "United Kingdom",
+        "Appointments"
+      ],
+      "source": {
+        "title": "Watch: U.K’s new Prime Minister Andy Burnham arrives at 10 Downing Street",
+        "url": "https://www.thehindu.com/shorts/watch-uks-new-prime-minister-andy-burnham-arrives-at-10-downing-street/article71246953.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q23",
+      "question": "India has stated that the Indus Waters Treaty will not remain operational in its present form and has placed it in 'abeyance' following which specific terror attack?",
+      "options": [
+        "Mumbai 26/11 attacks",
+        "Uri attack",
+        "Pulwama attack",
+        "Pahalgam terror attack"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "India has placed the Indus Waters Treaty in 'abeyance' and stated it will not remain operational in its present form, specifically after the Pahalgam terror attack. An official mentioned that there has been no change in Pakistan's sponsorship of terrorists since then.",
+      "background": "The Indus Waters Treaty, signed in 1960, governs the sharing of the Indus River system between India and Pakistan. Tensions often arise over its implementation, especially in the context of cross-border terrorism and bilateral relations.",
+      "examRelevance": "Significant development in India's international relations and treaties.",
+      "tags": [
+        "Indus Waters Treaty",
+        "India",
+        "Pakistan",
+        "Pahalgam terror attack",
+        "International relations"
+      ],
+      "source": {
+        "title": "Indus Waters Treaty will not remain operational in its present form, says official",
+        "url": "https://www.thehindu.com/news/national/indus-waters-treaty-will-not-remain-operational-in-its-present-form-says-official/article71246737.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q24",
+      "question": "New Zealander Ryan Fox recently captured the Claret Jug at Royal Birkdale in Southport, England, becoming a major champion in which sport?",
+      "options": [
+        "Golf",
+        "Tennis",
+        "Rugby",
+        "Sailing"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Ryan Fox, a New Zealander, captured the Claret Jug at Royal Birkdale in Southport, England. This victory marked him as a major champion in golf, propelling him from 56th to 22nd in the Official World Golf Ranking.",
+      "background": "The Claret Jug is the trophy awarded to the winner of The Open Championship (often referred to as the British Open), one of the four major championships in professional golf. Winning it is a career highlight for any golfer.",
+      "examRelevance": "Recent winner of a major international sports championship.",
+      "tags": [
+        "Ryan Fox",
+        "Golf",
+        "Claret Jug",
+        "Royal Birkdale",
+        "The Open Championship"
+      ],
+      "source": {
+        "title": "New Zealanders wake to a new major champion, heap praise on Ryan Fox",
+        "url": "https://www.thehindu.com/sport/new-zealanders-wake-to-a-new-major-champion-heap-praise-on-ryan-fox/article71246882.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q25",
+      "question": "A recent landslide in Sikkim trapped 27 workers in an under-construction tunnel. How many workers were reported to be trapped in this incident?",
+      "options": [
+        "15",
+        "27",
+        "20",
+        "35"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "Twenty-seven workers were reported to be trapped in an under-construction tunnel in Sikkim after a landslide occurred. Rescue operations were underway following the incident.",
+      "background": "Landslides are common in the Himalayan region, especially during the monsoon season, posing significant risks to infrastructure projects and human life. Tunnel construction, in particular, is vulnerable to such geological hazards, requiring careful planning and safety measures.",
+      "examRelevance": "Factual detail of a recent disaster.",
+      "tags": [
+        "Sikkim",
+        "Landslide",
+        "Tunnel",
+        "Trapped workers",
+        "Disaster"
+      ],
+      "source": {
+        "title": "27 trapped in Sikkim tunnel landslide",
+        "url": "https://economictimes.indiatimes.com/news/india/about-27-workers-trapped-in-under-construction-tunnel-after-landslide-in-sikkim-rescue-ops-on/articleshow/132522839.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q26",
+      "question": "Which Indian state has announced that Bengali will be made mandatory in all its government departments starting from September 1?",
+      "options": [
+        "West Bengal",
+        "Assam",
+        "Tripura",
+        "Odisha"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "West Bengal has decided to make Bengali mandatory in all its government departments, with the directive coming into effect from September 1. This move aims to ensure the use of the state's official language in administrative functions.",
+      "background": "States often implement policies to promote their regional languages in official communications and administration. This decision by West Bengal underscores the importance given to the Bengali language within the state's governance and cultural identity.",
+      "examRelevance": "Recent state government policy decision.",
+      "tags": [
+        "West Bengal",
+        "Bengali language",
+        "Government offices",
+        "Mandatory language",
+        "State policy"
+      ],
+      "source": {
+        "title": "Bengali mandatory in Govt offices from Sept 1",
+        "url": "https://economictimes.indiatimes.com/news/india/west-bengal-to-make-bengali-mandatory-in-all-govt-departments-from-september-1/articleshow/132522401.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q27",
+      "question": "The Army Chief of which country recently visited Turkiye to bolster defence ties, amidst a growing Ankara-Islamabad-Dhaka defence nexus?",
+      "options": [
+        "Pakistan",
+        "Bangladesh",
+        "Malaysia",
+        "Indonesia"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "The Bangladesh Army Chief recently visited Turkiye to enhance defence cooperation between the two nations. This visit is noted as part of a growing defence nexus involving Ankara, Islamabad, and Dhaka.",
+      "background": "Defence cooperation involves military exercises, arms sales, technology transfers, and strategic partnerships. Such visits are crucial for strengthening bilateral and multilateral security relationships and addressing common defence interests in a strategic region.",
+      "examRelevance": "Recent international defence diplomacy.",
+      "tags": [
+        "Bangladesh",
+        "Turkiye",
+        "Defence push",
+        "Army Chief",
+        "International relations"
+      ],
+      "source": {
+        "title": "Bangladesh Army Chief in Turkiye for defence push",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/bangladesh-army-chief-visits-turkiye-amid-growing-ankara-islamabad-dhaka-defence-nexus/articleshow/132522399.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q28",
+      "question": "A special court in Mumbai recently sentenced 44 Somalian pirates to life imprisonment for hijacking an Iranian-flagged fishing vessel, FV Al Kambar. Which Indian naval ships were praised for their prompt action in apprehending these pirates?",
+      "options": [
+        "INS Vikramaditya and INS Chakra",
+        "INS Kolkata and INS Chennai",
+        "INS Viraat and INS Talwar",
+        "INS Trushul and INS Sumedha"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "A special court in Mumbai sentenced 44 Somalian pirates to life imprisonment following the hijacking of the Iranian-flagged FV Al Kambar. The Indian Navy's INS Trushul and INS Sumedha were specifically praised for their prompt response and action in arresting the pirates.",
+      "background": "Piracy in the Gulf of Aden and off the coast of Somalia has been a significant threat to international shipping. The Indian Navy plays a crucial role in anti-piracy operations, ensuring the safety of maritime trade routes and upholding international law.",
+      "examRelevance": "Major legal outcome of an international maritime security operation.",
+      "tags": [
+        "Somalian pirates",
+        "Mumbai court",
+        "Indian Navy",
+        "INS Trushul",
+        "INS Sumedha",
+        "Piracy"
+      ],
+      "source": {
+        "title": "Special court in Mumbai sentences 44 Somalian pirates to life imprisonment; praises Navy for prompt action",
+        "url": "https://www.thehindu.com/news/national/special-court-in-mumbai-sentences-44-somalian-pirates-to-life-imprisonment-praises-navy-for-prompt-action/article71246213.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q29",
+      "question": "Which chess legend, widely regarded as the greatest ever female chess player, has been backed by Hungary's ruling party for the largely ceremonial role of President?",
+      "options": [
+        "Hou Yifan",
+        "Judit Polgar",
+        "Nona Gaprindashvili",
+        "Vera Menchik"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "Hungary's ruling party has backed chess legend Judit Polgar for the largely ceremonial role of President. Prime Minister Peter Magyar proposed Ms. Polgar, who is widely regarded as the greatest ever female chess player.",
+      "background": "Judit Polgar is famous for her aggressive and tactical style of play and for consistently competing with and defeating the world's top male grandmasters. Her appointment would bring a globally recognized figure from the world of sport and intellect into a significant national role.",
+      "examRelevance": "High-profile international appointment involving a renowned personality.",
+      "tags": [
+        "Judit Polgar",
+        "Hungary",
+        "President",
+        "Chess legend",
+        "Appointments"
+      ],
+      "source": {
+        "title": "Hungary’s ruling party backs chess legend Judit Polgar for President",
+        "url": "https://www.thehindu.com/news/international/hungarys-ruling-party-backs-chess-legend-judit-polgar-for-president/article71246720.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-21-q30",
+      "question": "On July 20, 2026, India became a Party to which specific agreement of the World Trade Organization (WTO) by depositing its Instrument of Acceptance with the WTO Director-General?",
+      "options": [
+        "Agreement on Fisheries Subsidies",
+        "Agreement on Trade Facilitation",
+        "Agreement on Agriculture",
+        "Agreement on Government Procurement"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "India deposited its Instrument of Acceptance of the WTO Agreement on Fisheries Subsidies (AFS) on July 20, 2026, thereby officially becoming a Party to the Agreement. This move signifies India's commitment to sustainable fishing practices and global trade rules.",
+      "background": "The AFS aims to prohibit harmful fisheries subsidies that contribute to overfishing and overcapacity, thereby promoting sustainable use of marine resources. It is a significant step towards achieving SDG 14.6, which focuses on oceans, seas, and marine resources.",
+      "examRelevance": "Important international agreement joined by India.",
+      "tags": [
+        "India",
+        "WTO",
+        "Fisheries Subsidies",
+        "AFS",
+        "International agreement",
+        "Sustainable fishing"
+      ],
+      "source": {
+        "title": "India joins WTO’s agreement on fisheries subsidies",
+        "url": "https://www.thehindu.com/business/india-joins-wtos-agreement-on-fisheries-subsidies/article71246751.ece"
+      }
+    }
+  ]
+}
