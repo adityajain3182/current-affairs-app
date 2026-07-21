@@ -25,6 +25,18 @@ export function istWeekLabel(d = new Date()) {
   return `${date.getUTCFullYear()}-W${String(weekNo).padStart(2, '0')}`;
 }
 
+/** Array of the last `days` IST dates as YYYY-MM-DD (including today). */
+export function daysInWindow(days, from = new Date()) {
+  const todayISO = istDateISO(from);
+  const base = new Date(todayISO + 'T00:00:00Z');
+  const out = [];
+  for (let i = 0; i < days; i++) {
+    const d = new Date(base.getTime() - i * 86_400_000);
+    out.push(d.toISOString().slice(0, 10));
+  }
+  return out;
+}
+
 export function prettyIST(iso) {
   const d = new Date(iso + 'T00:00:00Z');
   return new Intl.DateTimeFormat('en-IN', {

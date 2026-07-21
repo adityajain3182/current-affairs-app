@@ -83,7 +83,7 @@ export function PaperIntro({
       <Text style={styles.blurb}>
         {isDaily
           ? 'Answer each question to instantly see whether you were right, then read the full background — dates, names, awards, schemes and the links to past events that examiners love.'
-          : '100 questions curated from the whole week’s news. Attempt them all, then submit to see your score and detailed explanations for every question.'}
+          : `${paper.questionCount} questions curated from the whole week’s news. Attempt them all, then submit to see your score and detailed explanations for every question.`}
       </Text>
 
       <Button title={cta} onPress={onStart} style={styles.cta} />
