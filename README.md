@@ -88,6 +88,16 @@ When the build finishes, EAS prints a **public URL** with a **Download** button 
 `.apk` — share that link and anyone can install it (Android → allow "install from unknown
 sources"). Rebuild anytime to get a new link; bump `versionCode` in `app.json` for updates.
 
+**Or build from GitHub Actions (no local tooling):**
+
+1. Create an access token at <https://expo.dev/settings/access-tokens> → *Create token*.
+2. Add it as a repo secret named `EXPO_TOKEN` (*Settings → Secrets and variables →
+   Actions*).
+3. *Actions* tab → **Build Android APK** → *Run workflow*.
+
+The build runs on EAS; the `.apk` download link appears in the run logs and on your Expo
+dashboard (`https://expo.dev/accounts/<you>/projects/current-affairs-app/builds`).
+
 > iOS is planned for a later release. The codebase is already cross-platform; it only
 > needs an Apple Developer account and an `ios` EAS profile when you're ready.
 
