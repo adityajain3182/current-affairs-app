@@ -1,0 +1,790 @@
+{
+  "id": "weekly-2026-W30",
+  "type": "weekly",
+  "date": "2026-07-21",
+  "title": "Weekly Current Affairs — Week 30, 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "weekly-2026-W30-q1",
+      "question": "Which Indian state recently unveiled a mission to convert Muga silk waste, currently 40% unused, into high-value yarn?",
+      "options": [
+        "West Bengal",
+        "Odisha",
+        "Manipur",
+        "Assam"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Assam recently unveiled a mission to convert Muga silk waste into high-value yarn. Chief Minister Himanta Biswa Sarma highlighted that about 40% of the cocoons yielding the golden silk currently go unused due to the lack of proper processing facilities.",
+      "background": "Muga silk, known for its golden lustre, is indigenous to Assam and holds significant cultural and economic importance. This mission aims to boost the local sericulture industry, reduce waste, and create economic opportunities.",
+      "examRelevance": "Assam launched a mission to convert Muga silk waste into high-value yarn.",
+      "tags": [
+        "Assam",
+        "Muga Silk",
+        "Silk Waste",
+        "High-Value Yarn",
+        "Sericulture"
+      ],
+      "source": {
+        "title": "Assam unveils mission to convert Muga silk waste into high-value yarn",
+        "url": "https://www.thehindu.com/news/national/assam/assam-unveils-mission-to-convert-muga-silk-waste-into-high-value-yarn/article71245281.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q2",
+      "question": "Which university recently introduced a low-cost, portable drum technology to farmers for producing biochar to improve soil health?",
+      "options": [
+        "University of Agricultural Sciences, Bengaluru",
+        "Punjab Agricultural University",
+        "Tamil Nadu Agricultural University",
+        "Indian Agricultural Research Institute"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "The University of Agricultural Sciences, Bengaluru (UAS-B) recently introduced a simple and portable drum technology to farmers for producing biochar. This low-cost technology is aimed at improving soil health and training farmers in its use.",
+      "background": "Biochar is a charcoal-like material made from plant biomass, used as a soil amendment to enhance soil fertility, water retention, and carbon sequestration. UAS-B's initiative makes this sustainable agricultural practice more accessible to farmers.",
+      "examRelevance": "UAS-B introduced low-cost biochar production technology to farmers.",
+      "tags": [
+        "UAS-B",
+        "Biochar",
+        "Soil health",
+        "Agricultural technology",
+        "Karnataka"
+      ],
+      "source": {
+        "title": "UAS-B introduces low-cost technology to farmers to produce biochar, trains them to improve soil health",
+        "url": "https://www.thehindu.com/news/national/karnataka/uas-b-introduces-low-cost-technology-to-farmers-to-produce-biochar-trains-them-to-improve-soil-health/article71185537.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q3",
+      "question": "During the recent CJP protest in central Delhi, what measure was implemented in the heart of the national capital that disrupted the dissemination of visuals from the protest site?",
+      "options": [
+        "Mobile internet shutdown",
+        "Curfew enforcement",
+        "Media censorship",
+        "Public transport ban"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "During the hours-long CJP protest in central Delhi, a mobile internet shutdown was implemented in the heart of the national capital. This measure significantly slowed the dissemination of visuals and information regarding the police's crackdown on protesters.",
+      "background": "Mobile internet shutdowns are often used by authorities to control information flow and prevent further mobilisation during large-scale protests, raising concerns about freedom of speech and access to information.",
+      "examRelevance": "Mobile internet shutdown implemented in central Delhi during CJP protest.",
+      "tags": [
+        "CJP Protest",
+        "Delhi",
+        "Mobile Internet Shutdown",
+        "Freedom of Speech",
+        "Police Action"
+      ],
+      "source": {
+        "title": "Mobile net shutdown slows dissemination of visuals from central Delhi protest",
+        "url": "https://www.thehindu.com/news/cities/Delhi/mobile-net-shutdown-slows-dissemination-of-visuals-from-central-delhi-protest/article71246369.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q4",
+      "question": "A recent study by Utkal University revealed that more than half of the adult women belonging to Particularly Vulnerable Tribal Groups (PVTGs) in which state are anaemic?",
+      "options": [
+        "Madhya Pradesh",
+        "Odisha",
+        "Chhattisgarh",
+        "Jharkhand"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "A recent study conducted by Utkal University revealed that more than half of the adult women belonging to Particularly Vulnerable Tribal Groups (PVTGs) in Odisha are anaemic. The study also highlighted that the Hill Kharia PVTG shows the highest stunting prevalence at 82.76%.",
+      "background": "Anaemia and malnutrition are widespread public health concerns, particularly among vulnerable communities like PVTGs. Studies like this provide crucial data for targeted health interventions and policy formulation.",
+      "examRelevance": "Utkal University study found over half of Odisha's PVTG adult women anaemic.",
+      "tags": [
+        "Odisha",
+        "PVTG",
+        "Anaemia",
+        "Utkal University",
+        "Public Health"
+      ],
+      "source": {
+        "title": "More than half of Odisha’s PVTG adult women anaemic, says a study by Utkal University",
+        "url": "https://www.thehindu.com/news/national/odisha/more-than-half-of-odishas-pvtg-adult-women-anaemic-says-a-study-by-utkal-university/article71245884.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q5",
+      "question": "The Bidadi township project, recently in the news due to political rivalries, envisages acquiring about 9,600 acres across 25 villages in which district of Karnataka?",
+      "options": [
+        "Mysuru",
+        "Udupi",
+        "Bengaluru South",
+        "Dharwad"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The Bidadi township project in Karnataka, currently a subject of political rivalries, envisages acquiring approximately 9,600 acres across 25 villages. This significant land acquisition is planned in the Bengaluru South district.",
+      "background": "Large-scale urban development projects often face political and social challenges, including land acquisition issues and disputes over planning and execution, as seen in the Bidadi project.",
+      "examRelevance": "Bidadi township project to acquire land in Bengaluru South district, Karnataka.",
+      "tags": [
+        "Bidadi township",
+        "Karnataka",
+        "Bengaluru South",
+        "Land acquisition",
+        "Urban development"
+      ],
+      "source": {
+        "title": "Political rivalries clash over Karnataka’s Bidadi township project",
+        "url": "https://www.thehindu.com/opinion/op-ed/political-rivalries-clash-over-karnatakas-bidadi-township-project/article71246717.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q6",
+      "question": "Tata Consultancy Services (TCS) recently acquired land in which two Indian cities for establishing data sites?",
+      "options": [
+        "Vizag and Pune",
+        "Bengaluru and Chennai",
+        "Mumbai and Delhi",
+        "Hyderabad and Kolkata"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Tata Consultancy Services (TCS) recently acquired land in Visakhapatnam (Vizag) and Pune for establishing data sites. This strategic investment aims to bolster its infrastructure for data operations.",
+      "background": "The acquisition of land for data sites by a major IT services company like TCS indicates growing demand for data processing and storage capabilities, driven by digital transformation and AI-related initiatives.",
+      "examRelevance": "TCS acquired land in Vizag and Pune for data sites.",
+      "tags": [
+        "TCS",
+        "Data Sites",
+        "Visakhapatnam",
+        "Pune",
+        "IT Infrastructure"
+      ],
+      "source": {
+        "title": "TCS acquires land in Vizag, Pune for data sites",
+        "url": "https://economictimes.indiatimes.com/tech/information-tech/tcs-acquires-land-in-vizag-pune-for-openai-data-sites/articleshow/132523411.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q7",
+      "question": "In which Indian state did a recent landslide block a tunnel's entrance, leading to the deaths of eight workers?",
+      "options": [
+        "Arunachal Pradesh",
+        "Uttarakhand",
+        "Sikkim",
+        "Himachal Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Eight workers were killed after a recent landslide blocked a tunnel's entrance in Sikkim. Rescue operations were initiated following the incident.",
+      "background": "Sikkim, located in the Himalayas, is prone to landslides and other natural disasters, especially during the monsoon season, which often impact infrastructure projects and lead to casualties.",
+      "examRelevance": "Landslide in Sikkim killed eight workers at a tunnel entrance.",
+      "tags": [
+        "Sikkim",
+        "Landslide",
+        "Tunnel accident",
+        "Workers",
+        "Natural disaster"
+      ],
+      "source": {
+        "title": "8 workers killed after landslide blocks tunnel’s entrance in Sikkim",
+        "url": "https://indianexpress.com/article/india/sikkim-tunnel-landslide-workers-dead-trapped-rescue-operation-10795877/"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q8",
+      "question": "Iran’s Revolutionary Guards recently claimed to have hit U.S. military targets in which two Gulf countries?",
+      "options": [
+        "Qatar and Saudi Arabia",
+        "Bahrain and Kuwait",
+        "Iraq and Syria",
+        "UAE and Oman"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Iran’s Revolutionary Guards on Tuesday claimed to have hit U.S. military targets in Bahrain and Kuwait. This assertion was made amidst ongoing tensions and an expanding regional war.",
+      "background": "Such claims are part of a broader pattern of military posturing and engagements in the West Asia region, often involving various state and non-state actors, and contributing to regional instability.",
+      "examRelevance": "Iran’s Revolutionary Guards claimed to hit U.S. military targets in Bahrain and Kuwait.",
+      "tags": [
+        "Iran",
+        "Revolutionary Guards",
+        "US Military",
+        "Bahrain",
+        "Kuwait",
+        "West Asia War"
+      ],
+      "source": {
+        "title": "West Asia war LIVE: Iran Guards say they hit U.S. military targets in Bahrain, Kuwait",
+        "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-21-july-2026-bahrain-kuwait-donald-trump-live-news/article71247944.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q9",
+      "question": "The Indian government is currently focusing on projects on which river and renegotiation efforts related to the Indus Waters Treaty?",
+      "options": [
+        "Ravi",
+        "Sutlej",
+        "Jhelum",
+        "Chenab"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The Indian government is currently focusing on projects on the Chenab river and renegotiation efforts related to the Indus Waters Treaty. This includes advancing hydropower and other infrastructure projects on the river.",
+      "background": "The Indus Waters Treaty, signed between India and Pakistan in 1960, allocates the waters of the Indus River System. India has rights to the waters of the Eastern Rivers (Ravi, Beas, Sutlej) and limited rights for non-consumptive uses on the Western Rivers (Indus, Jhelum, Chenab).",
+      "examRelevance": "Indian government focuses on Chenab projects and renegotiation of Indus Waters Treaty.",
+      "tags": [
+        "Indus Waters Treaty",
+        "Chenab River",
+        "India",
+        "Pakistan",
+        "River Projects"
+      ],
+      "source": {
+        "title": "Indus Waters Treaty: Government focus on Chenab projects, renegotiation",
+        "url": "https://indianexpress.com/article/india/indus-waters-treaty-government-focus-on-chenab-projects-renegotiation-10795741/"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q10",
+      "question": "Kevin Keegan, a renowned England soccer star and former player/coach for Newcastle, recently passed away at the age of 75. He was known for his contributions to which sport?",
+      "options": [
+        "Tennis",
+        "Cricket",
+        "Football",
+        "Rugby"
+      ],
+      "answerIndex": 2,
+      "category": "Obituaries",
+      "explanation": "Kevin Keegan, a celebrated England soccer star and influential figure as both a player and coach for Newcastle, recently passed away at the age of 75 on July 20. He had revealed last month that he was battling stage four cancer.",
+      "background": "Keegan was a prominent figure who transcended the game with his celebrity status. His death marks the loss of a significant personality in English football history.",
+      "examRelevance": "Kevin Keegan, England soccer star and former Newcastle player/coach, passed away at 75.",
+      "tags": [
+        "Kevin Keegan",
+        "Football",
+        "England",
+        "Newcastle",
+        "Obituary"
+      ],
+      "source": {
+        "title": "Kevin Keegan, England soccer star who transcended the game with celebrity status, dies at 75",
+        "url": "https://www.thehindu.com/news/kevin-keegan-england-soccer-star-who-transcended-the-game-with-celebrity-status-dies-at-75/article71247002.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q11",
+      "question": "How many people were recently reported killed in floods and landslips in the Northeast Indian states, as per one report?",
+      "options": [
+        "Eight",
+        "Six",
+        "Ten",
+        "Four"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Six people were recently reported killed in floods and landslips in the Northeast Indian states. Additionally, railway services in Assam were affected with several passenger trains cancelled, diverted, or short-terminated.",
+      "background": "The Northeast region of India is highly susceptible to heavy rainfall, floods, and landslides during the monsoon season, leading to significant disruption and loss of life annually. Since the last week of June, at least 25 people have been killed across four states in the region.",
+      "examRelevance": "Six people killed in recent floods and landslips in Northeast Indian states.",
+      "tags": [
+        "Northeast India",
+        "Floods",
+        "Landslips",
+        "Natural Disaster",
+        "Monsoon"
+      ],
+      "source": {
+        "title": "Six killed in floods, landslips in Northeast",
+        "url": "https://www.thehindu.com/news/national/assam/six-killed-in-floods-landslips-in-northeast/article71246629.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q12",
+      "question": "Gujarat Police recently destroyed drugs worth ₹2,153 crore at which location?",
+      "options": [
+        "Ahmedabad",
+        "Surat",
+        "Gandhinagar",
+        "Dahej"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "Gujarat Police recently destroyed drugs worth ₹2,153 crore at Dahej. This decisive action was part of a major blow against international drug smuggling networks, targeting drug mafias and cartels.",
+      "background": "Drug destruction drives are regularly conducted by law enforcement agencies to eliminate seized narcotics and send a strong message against drug trafficking, underscoring commitment to combating the illicit drug trade.",
+      "examRelevance": "Gujarat Police destroyed drugs worth ₹2,153 crore at Dahej.",
+      "tags": [
+        "Gujarat Police",
+        "Drug Destruction",
+        "Dahej",
+        "Anti-Narcotics",
+        "Law Enforcement"
+      ],
+      "source": {
+        "title": "Gujarat destroys drugs worth ₹2,153 crore at Dahej",
+        "url": "https://www.thehindu.com/news/national/gujarat/gujarat-destroys-drugs-worth-2153-crore-at-dahej/article71247177.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q13",
+      "question": "Who was recently named Secretary of State for Business, Innovation, Science and Trade in the UK under new Prime Minister Andy Burnham?",
+      "options": [
+        "Jonathan Reynolds",
+        "Keir Starmer",
+        "Peter Kyle",
+        "Angela Rayner"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Jonathan Reynolds was recently named Secretary of State for Business, Innovation, Science and Trade in an expanded role within the UK government. This appointment was made by the new Prime Minister, Andy Burnham, as part of his cabinet.",
+      "background": "Reynolds had previously lost his position as business Minister to Peter Kyle in a reshuffle under former Prime Minister Keir Starmer. His new appointment signifies a prominent role in the Burnham administration.",
+      "examRelevance": "Jonathan Reynolds appointed UK Secretary of State for Business, Innovation, Science and Trade.",
+      "tags": [
+        "Jonathan Reynolds",
+        "UK Cabinet",
+        "Andy Burnham",
+        "Business Minister",
+        "International Appointments"
+      ],
+      "source": {
+        "title": "U.K. PM Burnham names Reynolds as Business Minister, Rayner for housing",
+        "url": "https://www.thehindu.com/news/international/uk-pm-burnham-names-reynolds-as-business-minister-rayner-for-housing/article71247903.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q14",
+      "question": "Which state government recently instructed Block Education Officers to appoint one 'AI guest teacher' per school to teach Artificial Intelligence in skill education in select high schools?",
+      "options": [
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh",
+        "Kerala"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The Karnataka government recently instructed Block Education Officers to appoint one 'AI guest teacher' per school in select high schools. This initiative aims to integrate Artificial Intelligence into skill education, replacing a third language in certain schools.",
+      "background": "This move is part of the state's broader effort to enhance skill development and prepare students for future technological demands, although it has faced opposition from some quarters, such as the Hindi Teachers Association.",
+      "examRelevance": "Karnataka government to appoint 'AI guest teachers' in select high schools for skill education.",
+      "tags": [
+        "Karnataka",
+        "AI guest teacher",
+        "Skill education",
+        "Artificial Intelligence",
+        "Education policy"
+      ],
+      "source": {
+        "title": "AI in skill education instead of third language in select high schools; BEOs instructed to appoint one ‘AI guest teacher’ per school",
+        "url": "https://www.thehindu.com/news/national/karnataka/ai-in-skill-education-instead-of-third-language-in-select-high-schools-hindi-teachers-association-opposes/article71245152.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q15",
+      "question": "Which protest, recently held in central Delhi, saw police action involving teargas and lathi-charges, leading to several injuries and detentions?",
+      "options": [
+        "Cockroach Janata Party (CJP) Protest",
+        "Farmers' Protest",
+        "Students' Rights Movement",
+        "Workers' Union March"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Cockroach Janata Party (CJP) protest in central Delhi on July 21, 2026, witnessed significant police action, including teargas and lathi-charges, resulting in multiple injuries and detentions of protesters. The protest aimed to raise various demands, including addressing paper leak issues.",
+      "background": "The CJP protest was one of the largest in the national capital in recent years and became a focal point for opposition parties to corner the Centre during the Parliament Monsoon Session 2026. Mobile internet services were also disrupted in central Delhi during the crackdown.",
+      "examRelevance": "Cockroach Janata Party (CJP) protest in Delhi faced police action, including teargas and lathi-charges.",
+      "tags": [
+        "CJP Protest",
+        "Delhi",
+        "Jantar Mantar",
+        "Police Action",
+        "Paper Leaks"
+      ],
+      "source": {
+        "title": "CJP protest in Delhi LIVE: Dipke apologises to CJP supporters who were 'brutally beaten' by police",
+        "url": "https://www.thehindu.com/news/national/cjp-protest-delhi-jantar-mantar-sonam-wangchuk-july-21-2026/article71247869.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q16",
+      "question": "In a recent triple murder case in Bengaluru, police investigations revealed the use of which technology in planning the crime?",
+      "options": [
+        "Virtual Reality (VR)",
+        "Augmented Reality (AR)",
+        "Blockchain",
+        "Artificial Intelligence (AI)"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "In a recent triple murder case in Bengaluru, police investigations uncovered that Artificial Intelligence (AI) tools were used in planning the crime over a period of six months. This highlights the evolving nature of criminal methodologies.",
+      "background": "The use of advanced technologies like AI in criminal activities poses new challenges for law enforcement agencies, requiring them to adapt their investigative techniques and technological capabilities.",
+      "examRelevance": "AI tool used in planning a triple murder case in Bengaluru.",
+      "tags": [
+        "Bengaluru",
+        "Triple Murder",
+        "Artificial Intelligence",
+        "AI",
+        "Crime Investigation"
+      ],
+      "source": {
+        "title": "6 months, a plan to kill & an AI tool: What police found in Bengaluru triple murder",
+        "url": "https://indianexpress.com/article/india/6-months-a-plan-to-kill-an-ai-tool-what-police-found-in-bengaluru-triple-murder-10795800/"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q17",
+      "question": "Twenty Lok Sabha MPs from the Trinamool Congress recently merged with which political party?",
+      "options": [
+        "Nationalist Citizens Party of India",
+        "Bharat Rashtra Samithi",
+        "Aam Aadmi Party",
+        "Janata Dal (United)"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Twenty Lok Sabha MPs from the Trinamool Congress, led by Kakoli Ghosh Dastidar, recently merged with the little-known Nationalist Citizens Party of India (NCPI). This move signifies a significant internal political challenge for the Trinamool Congress.",
+      "background": "The merger has led to rival Trinamool factions observing Martyrs' Day separately, with the merged faction planning to observe it at Rajghat, highlighting the deepening political divides within the party.",
+      "examRelevance": "20 Trinamool Congress Lok Sabha MPs merged with Nationalist Citizens Party of India (NCPI).",
+      "tags": [
+        "Trinamool Congress",
+        "Nationalist Citizens Party of India",
+        "NCPI",
+        "Lok Sabha",
+        "West Bengal"
+      ],
+      "source": {
+        "title": "Martyrs’ Day 2026 turns out to be show of political strength for rival Trinamool factions in West Bengal",
+        "url": "https://www.thehindu.com/news/national/west-bengal/martyrs-day-2026-turns-out-to-be-show-of-political-strength-for-rival-trinamool-factions-in-west-bengal/article71242029.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q18",
+      "question": "Which country recently experienced severe flash floods in its Nuristan Province, killing at least 20 people and leaving more than 100 missing?",
+      "options": [
+        "Bangladesh",
+        "Nepal",
+        "Pakistan",
+        "Afghanistan"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Afghanistan recently experienced severe flash floods in its Nuristan Province, particularly in Parun city and other areas. These floods resulted in the deaths of at least 20 people and left more than 100 missing, causing heavy loss of life and property.",
+      "background": "Afghanistan is highly vulnerable to natural disasters, including flash floods, droughts, and earthquakes, which often exacerbate humanitarian crises and impact already vulnerable populations.",
+      "examRelevance": "Severe flash floods in Afghanistan's Nuristan Province killed at least 20 people.",
+      "tags": [
+        "Afghanistan",
+        "Flash Floods",
+        "Nuristan Province",
+        "Natural Disaster",
+        "Humanitarian Crisis"
+      ],
+      "source": {
+        "title": "Flash floods kill at least 20 in Afghanistan and leave more than 100 missing",
+        "url": "https://www.thehindu.com/news/international/afghanistan-nuristan-province-flash-floods-kill-several-and-injure-many/article71247841.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q19",
+      "question": "In which Indian state was a doctor recently arrested in connection with a probe into fake snakebite deaths and forged autopsies?",
+      "options": [
+        "Madhya Pradesh",
+        "Uttar Pradesh",
+        "Rajasthan",
+        "Chhattisgarh"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "A doctor was recently arrested in Chhattisgarh in connection with a probe into fake snakebite deaths and forged autopsies. The investigation uncovered a widespread fraud involving manipulated records.",
+      "background": "This case highlights serious ethical and legal breaches in the medical and administrative systems, where fraudulent activities like forging autopsies can lead to miscarriages of justice and misuse of public funds.",
+      "examRelevance": "Doctor arrested in Chhattisgarh for fake snakebite deaths and forged autopsies.",
+      "tags": [
+        "Chhattisgarh",
+        "Fake deaths",
+        "Forged autopsies",
+        "Medical fraud",
+        "Doctor arrest"
+      ],
+      "source": {
+        "title": "Fake snakebite deaths, forged autopsies: Chhattisgarh probe leads to doctor’s arrest",
+        "url": "https://indianexpress.com/article/india/fake-snakebite-deaths-forged-autopsies-chhattisgarh-probe-leads-to-doctors-arrest-10795754/"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q20",
+      "question": "In the recent Pothundy double murder case, which court directed the District Legal Services Authority to initiate rehabilitation measures for the victims' orphaned children, a rare specific direction in criminal judgments?",
+      "options": [
+        "Palakkad Sessions Court",
+        "Ernakulam District Court",
+        "Kerala High Court",
+        "Supreme Court of India"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "In the Pothundy double murder case, a death penalty verdict was delivered by the Palakkad Sessions Court. Notably, the court directed the District Legal Services Authority, Palakkad, to initiate rehabilitation measures for the orphaned children of the victims, a specific direction considered rare in criminal judgments.",
+      "background": "This verdict highlights an evolving focus within the judiciary to not only deliver justice but also address the long-term well-being of victims' families, particularly vulnerable children, going beyond conventional compensation.",
+      "examRelevance": "Palakkad Sessions Court directed rehabilitation for orphaned children in Pothundy double murder case.",
+      "tags": [
+        "Pothundy case",
+        "Palakkad Sessions Court",
+        "Rehabilitation",
+        "Orphaned children",
+        "Legal precedent"
+      ],
+      "source": {
+        "title": "Pothundy double murder case: a death penalty verdict with rare focus on rehabilitating victims’ family",
+        "url": "https://www.thehindu.com/news/national/kerala/pothundy-double-murder-case-a-death-penalty-verdict-with-rare-focus-on-rehabilitating-victims-family/article71245970.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q21",
+      "question": "President Droupadi Murmu recently made the first-ever visit by any Indian head of state to which country?",
+      "options": [
+        "North Macedonia",
+        "Serbia",
+        "Albania",
+        "Bulgaria"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "President Droupadi Murmu recently arrived in North Macedonia, marking the first visit by any Indian head of state to the country. During her visit, she is scheduled to hold bilateral talks with her counterpart, Gordana Siljanovska-Davkova.",
+      "background": "Such high-level visits are crucial for strengthening bilateral ties, fostering diplomatic relations, and exploring avenues for cooperation in various sectors between India and other nations.",
+      "examRelevance": "President Droupadi Murmu made the first visit by an Indian head of state to North Macedonia.",
+      "tags": [
+        "President Droupadi Murmu",
+        "North Macedonia",
+        "State Visit",
+        "International Relations",
+        "Gordana Siljanovska-Davkova"
+      ],
+      "source": {
+        "title": "President Murmu arrives in North Macedonia; first visit by any Indian head of state",
+        "url": "https://www.thehindu.com/news/national/president-murmu-arrives-in-north-macedonia-first-visit-by-any-indian-head-of-state/article71247886.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q22",
+      "question": "India recently held discussions on UNSC reforms and the fight against terror with which European country?",
+      "options": [
+        "Lithuania",
+        "Estonia",
+        "Latvia",
+        "Moldova"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "India recently held discussions with Moldova on important global issues, including reforms of the United Nations Security Council (UNSC) and the collective fight against terror.",
+      "background": "India consistently advocates for comprehensive reforms of the UNSC to make it more representative and effective in addressing contemporary global challenges. Bilateral talks with various nations contribute to building consensus on these issues.",
+      "examRelevance": "India and Moldova discussed UNSC reforms and counter-terrorism.",
+      "tags": [
+        "India",
+        "Moldova",
+        "UNSC Reforms",
+        "Counter-terrorism",
+        "International Relations"
+      ],
+      "source": {
+        "title": "India, Moldova discuss UNSC reforms, fight against terror",
+        "url": "https://indianexpress.com/article/india/india-moldova-discuss-unsc-reforms-fight-against-terror-10795815/"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q23",
+      "question": "Bihar Chief Minister Samrat Choudhary recently flagged off a special train carrying 1,100 pilgrims to which prominent pilgrimage site?",
+      "options": [
+        "Rameshwaram Dham",
+        "Kedarnath Dham",
+        "Badrinath Dham",
+        "Somnath Dham"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Bihar Chief Minister Samrat Choudhary recently flagged off a special train carrying 1,100 pilgrims to Somnath Dham. The Bihar government will bear the entire cost of this seven-day pilgrimage, scheduled from July 20 to 26.",
+      "background": "Such initiatives by state governments aim to promote religious tourism and provide opportunities for pilgrims, especially senior citizens or those from economically weaker sections, to visit significant religious sites.",
+      "examRelevance": "Bihar CM Samrat Choudhary flagged off a special train for 1,100 pilgrims to Somnath Dham.",
+      "tags": [
+        "Bihar",
+        "Samrat Choudhary",
+        "Somnath Dham",
+        "Pilgrimage",
+        "Government Scheme"
+      ],
+      "source": {
+        "title": "Chief Minister Samrat Choudhary flags off special train carrying 1,100 pilgrims to Somnath Dham",
+        "url": "https://www.thehindu.com/news/national/bihar/chief-minister-samrat-choudhary-flags-off-special-train-carrying-1100-pilgrims-to-somnath-dham/article71245262.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q24",
+      "question": "Who recently became the new Prime Minister of the United Kingdom, succeeding Keir Starmer?",
+      "options": [
+        "Angela Rayner",
+        "Jonathan Reynolds",
+        "Andy Burnham",
+        "Rishi Sunak"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Andy Burnham recently became the new Prime Minister of the United Kingdom, succeeding Keir Starmer. Burnham has promised a new social and political model for the country.",
+      "background": "Keir Starmer, the outgoing Prime Minister, stated he left \"with good grace and a smile on my face,\" making way for Burnham's leadership. This marks a significant change in the UK's political landscape.",
+      "examRelevance": "Andy Burnham became the new Prime Minister of the United Kingdom.",
+      "tags": [
+        "Andy Burnham",
+        "UK Prime Minister",
+        "Keir Starmer",
+        "International Appointments",
+        "UK Politics"
+      ],
+      "source": {
+        "title": "Andy Burnham becomes U.K. PM, promising new social and political model",
+        "url": "https://www.hindu.com/news/international/i-go-with-good-grace-and-a-smile-on-my-face-starmer-says-making-way-for-burnham/article71244798.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q25",
+      "question": "Donald Trump, a former US President, recently ordered a new 50% tariff on various goods from which country?",
+      "options": [
+        "United Kingdom",
+        "Mexico",
+        "Canada",
+        "China"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Donald Trump, a former US President, recently ordered a new 50% tariff on many Canadian goods. The White House stated that these tariffs, covering items such as wine, hockey sticks, and cement, would take effect in 30 days.",
+      "background": "This move reflects a protectionist trade policy stance, similar to actions taken during his previous presidency, and could significantly impact trade relations between the US and Canada.",
+      "examRelevance": "Donald Trump ordered new 50% tariffs on Canadian goods.",
+      "tags": [
+        "Donald Trump",
+        "Tariffs",
+        "Canada",
+        "US Trade Policy",
+        "International Trade"
+      ],
+      "source": {
+        "title": "Trump orders new 50% tariff on many Canadian goods",
+        "url": "https://www.thehindu.com/news/international/trump-orders-new-50-tariff-on-many-canadian-goods/article71247892.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q26",
+      "question": "Transition VC recently opened its Fund-II, amounting to ₹1,500 crore, specifically targeting which sector?",
+      "options": [
+        "Edtech companies",
+        "Fintech startups",
+        "Energy tech firms",
+        "Biotechnology ventures"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Transition VC recently opened its Fund-II, which amounts to ₹1,500 crore. This fund is specifically dedicated to investing in energy tech firms.",
+      "background": "The launch of such a dedicated fund highlights the increasing investor interest and growth potential in the energy technology sector, driven by global sustainability goals and the transition to cleaner energy sources.",
+      "examRelevance": "Transition VC launched ₹1,500 crore Fund-II for energy tech firms.",
+      "tags": [
+        "Transition VC",
+        "Fund-II",
+        "Venture Capital",
+        "Energy Tech",
+        "Startup Funding"
+      ],
+      "source": {
+        "title": "Transition VC opens Rs 1,500-crore Fund-II",
+        "url": "https://economictimes.indiatimes.com/tech/startups/transition-vc-opens-rs-1500-crore-fund-ii-for-energy-tech-firms/articleshow/132522882.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q27",
+      "question": "By when are the Panchayat and local body elections in Rajasthan scheduled to be completed, as submitted by the state government to the High Court?",
+      "options": [
+        "September 30",
+        "November 15",
+        "December 10",
+        "October 31"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Bharatiya Janata Party government in Rajasthan submitted to the High Court that the Panchayat and local body elections in the state are scheduled to be completed by November 15. This schedule was presented during the hearing of public interest petitions.",
+      "background": "Elections for local self-governing bodies like Panchayats and municipalities are crucial for grassroots democracy and local administration. Their timely conduct is often a matter of public and legal scrutiny.",
+      "examRelevance": "Rajasthan Panchayat and local body elections to be completed by November 15.",
+      "tags": [
+        "Rajasthan",
+        "Panchayat Elections",
+        "Local Body Elections",
+        "Election Schedule",
+        "Polity"
+      ],
+      "source": {
+        "title": "Panchayat, local body elections in Rajasthan to be completed by November 15",
+        "url": "https://www.thehindu.com/news/national/rajasthan/panchayat-local-body-elections-in-rajasthan-to-be-completed-by-november-15/article71245758.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q28",
+      "question": "Which strategic strait was recently mentioned by Iran's Islamic Revolutionary Guard Corps as being transited by \"non-compliant oil tankers\" that they reportedly stopped?",
+      "options": [
+        "Bab-el-Mandeb Strait",
+        "Strait of Hormuz",
+        "Strait of Malacca",
+        "Strait of Gibraltar"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Iran’s Islamic Revolutionary Guard Corps recently stated that they stopped two \"non-compliant oil tankers\" attempting to transit what they described as an unsafe southern route through the Strait of Hormuz. The tankers were immobilised after reportedly exploding.",
+      "background": "The Strait of Hormuz is a critical chokepoint for global oil shipments, connecting the Persian Gulf with the Arabian Sea. Incidents in this strait often escalate geopolitical tensions, especially concerning Iran and international maritime security.",
+      "examRelevance": "Iran's Revolutionary Guards reported stopping oil tankers in the Strait of Hormuz.",
+      "tags": [
+        "Strait of Hormuz",
+        "Iran",
+        "Oil tankers",
+        "Geopolitics",
+        "Maritime security"
+      ],
+      "source": {
+        "title": "West Asia war highlights: Trump says Iran 'will pay' for killing U.S. soldiers",
+        "url": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-july-20-2026-marco-rubio-strait-of-hormuz-us-donald-trump/article71243740.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q29",
+      "question": "An Indian seafarer from Kasaragod was recently killed in an attack on a cargo ship off the coast of which country?",
+      "options": [
+        "Turkey",
+        "Romania",
+        "Russia",
+        "Ukraine"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "An Indian seafarer hailing from Kasaragod was recently killed in an attack on a cargo ship. The incident occurred off the coast of Ukraine, amidst the ongoing conflict in the region.",
+      "background": "The conflict in Ukraine has created hazardous conditions for maritime traffic in the Black Sea and surrounding areas, leading to risks for commercial shipping and seafarers.",
+      "examRelevance": "Indian seafarer from Kasaragod killed in attack on cargo ship off Ukraine.",
+      "tags": [
+        "Indian seafarer",
+        "Kasaragod",
+        "Ukraine",
+        "Cargo ship attack",
+        "International Conflict"
+      ],
+      "source": {
+        "title": "Seafarer from Kasaragod killed in attack on cargo ship off Ukraine",
+        "url": "https://www.thehindu.com/news/national/kerala/seafarer-from-kasaragod-killed-in-attack-on-cargo-ship-off-ukraine/article71246645.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W30-q30",
+      "question": "Which European capital city recently experienced Russian missile attacks that killed six people and exposed gaps in its air defences?",
+      "options": [
+        "Warsaw",
+        "Kyiv",
+        "Bucharest",
+        "Budapest"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Kyiv, the capital city of Ukraine, recently experienced Russian missile attacks that killed six people. These attacks, along with others on various cities, exposed gaps in Ukraine’s air defences.",
+      "background": "Moscow has intensified its use of ballistic missiles in recent weeks, aiming to counter Ukrainian strikes on oil facilities deep inside Russia, which have caused critical fuel shortages.",
+      "examRelevance": "Russian missile attacks killed six in Kyiv, exposing air defence gaps.",
+      "tags": [
+        "Kyiv",
+        "Russia-Ukraine War",
+        "Missile Attacks",
+        "Air Defence",
+        "International Conflict"
+      ],
+      "source": {
+        "title": "Russian attacks kill six in Kyiv, other cities; expose gaps in Ukraine’s air defences",
+        "url": "https://www.thehindu.com/news/international/russia-ukraine-war-missile-attack-on-kyiv-death-toll-injuries/article71240891.ece"
+      }
+    }
+  ]
+}
