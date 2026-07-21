@@ -55,8 +55,9 @@ npm run weekly                # writes content/weekly/<week>.json
 ```
 
 Tune the feeds in [`generator/sources.json`](generator/sources.json) — any feed that
-fails is skipped automatically. Models default to `gemini-2.5-flash` (daily) and
-`gemini-2.5-pro` (weekly); override with `GEMINI_MODEL`.
+fails is skipped automatically. Both run on `gemini-2.5-flash` (it's on the free tier);
+override with `GEMINI_MODEL`, or set a `WEEKLY_MODEL` repo variable to `gemini-2.5-pro`
+for the weekly test if you're on a paid Gemini tier.
 
 ## 3. Automate it (GitHub Actions)
 

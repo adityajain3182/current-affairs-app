@@ -13,7 +13,9 @@ if (!apiKey) {
   process.exit(1);
 }
 
-const model = process.env.GEMINI_MODEL || 'gemini-2.5-pro';
+// Flash is on the Gemini free tier (pro is not). Override with GEMINI_MODEL /
+// the WEEKLY_MODEL repo variable if you move to a paid tier.
+const model = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
 const count = Number(process.env.WEEKLY_COUNT || 100);
 const date = istDateISO();
 const week = istWeekLabel();
