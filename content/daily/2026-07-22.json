@@ -1,0 +1,765 @@
+{
+  "id": "daily-2026-07-22",
+  "type": "daily",
+  "date": "2026-07-22",
+  "title": "Current Affairs — 22 Jul 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-07-22-q1",
+      "question": "According to Mint's Emerging Markets Tracker for June, what was India's position?",
+      "options": [
+        "Top spot",
+        "Fourth spot",
+        "Third spot",
+        "Second spot"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "India secured the top spot in Mint's Emerging Markets Tracker for June. This was aided by the rupee snapping a three-month losing streak and stocks extending their rally.",
+      "background": "The tracker assesses the performance of emerging markets based on various economic indicators. Sustaining this momentum will require stronger long-term foreign capital inflows.",
+      "examRelevance": "India ranked first in Mint's Emerging Markets Tracker in June.",
+      "tags": [
+        "Mint Emerging Markets Tracker",
+        "India",
+        "Economy",
+        "Rupee"
+      ],
+      "source": {
+        "title": "Rupee, stocks cement India's top spot in Mint's Emerging Markets Tracker in June",
+        "url": "https://www.livemint.com/economy/india-mint-emerging-markets-tracker-emt-rupee-rbi-fcnr-deposits-foreign-exchange-reserves-fpi-inflows-gdp-growth-11784670589015.html"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q2",
+      "question": "Which Indian state was recently bracketed among the top five performers by NITI Aayog due to its policy-driven reforms?",
+      "options": [
+        "Gujarat",
+        "Odisha",
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Odisha was recently recognized by NITI Aayog as one of the top five performing states. The state's Chief Minister attributed this achievement to sustained focus on governance reforms, ease of doing business, institutional efficiency, and investor facilitation.",
+      "background": "NITI Aayog regularly assesses states on various parameters to encourage competitive federalism and highlight successful governance models. This recognition validates Odisha's policy approach.",
+      "examRelevance": "Odisha is among the top five performing states as recognized by NITI Aayog.",
+      "tags": [
+        "Odisha",
+        "NITI Aayog",
+        "State Performance",
+        "Governance Reforms"
+      ],
+      "source": {
+        "title": "Odisha CM attributes policy driven reforms to State being bracketed among top five performers by NITI Aayog",
+        "url": "https://www.thehindu.com/news/national/odisha/odisha-cm-attributes-policy-driven-reforms-to-state-being-bracketed-among-top-five-performers-by-niti-aayog/article71252010.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q3",
+      "question": "What new penalty has the BCCI introduced for bowlers found guilty of bowling deliberate front foot no-balls or non-landing balls?",
+      "options": [
+        "One-match ban",
+        "Warning followed by a point deduction",
+        "Financial penalty",
+        "Entire match suspension"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "The BCCI has circulated new changes, mooted by the Marylebone Cricket Club (MCC), among all state associations. Under these new rules, bowlers will face an entire match suspension for bowling deliberate front foot no-balls or non-landing balls.",
+      "background": "The Marylebone Cricket Club (MCC) is the custodian of the Laws of Cricket, and its recommendations are often adopted by national cricket boards worldwide to maintain fair play and safety standards.",
+      "examRelevance": "BCCI implemented entire match suspension for deliberate front foot no-balls/non-landing balls.",
+      "tags": [
+        "BCCI",
+        "Cricket",
+        "Rules",
+        "No-ball"
+      ],
+      "source": {
+        "title": "Bowlers face entire match suspension for deliberate front foot no balls, non-landing balls: BCCI",
+        "url": "https://www.thehindu.com/sport/cricket/bowlers-face-entire-match-suspension-for-deliberate-front-foot-no-balls-non-landing-balls-bcci/article71251047.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q4",
+      "question": "World Brain Day is observed annually on which date?",
+      "options": [
+        "July 20",
+        "August 15",
+        "September 5",
+        "July 22"
+      ],
+      "answerIndex": 3,
+      "category": "Dates & Days",
+      "explanation": "World Brain Day is observed annually on July 22. Ahead of this day, neurologists highlighted the importance of quality sleep for protecting brain health amidst rising screen time, emphasizing sleep's role in brain repair and memory consolidation.",
+      "background": "World Brain Day aims to raise public awareness and promote advocacy related to brain health. It is an initiative of the World Federation of Neurology (WFN).",
+      "examRelevance": "World Brain Day is observed on July 22.",
+      "tags": [
+        "World Brain Day",
+        "July 22",
+        "Health",
+        "Brain Health"
+      ],
+      "source": {
+        "title": "Quality sleep key to protecting brain health amid rising screen time, say neurologists",
+        "url": "https://www.thehindu.com/sci-tech/health/quality-sleep-key-to-protecting-brain-health-amid-rising-screen-time-say-neurologists/article71250063.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q5",
+      "question": "How many cadres of a banned insurgent group recently surrendered in Manipur?",
+      "options": [
+        "25",
+        "58",
+        "46",
+        "32"
+      ],
+      "answerIndex": 2,
+      "category": "Defence",
+      "explanation": "A significant mass transition occurred in Manipur where 46 cadres of a banned insurgent group surrendered. The Defence Ministry highlighted that none of these cadres were part of prior peace agreements.",
+      "background": "Such surrenders are crucial for peace and stability in conflict-affected regions, indicating a shift towards mainstream life. This event is part of ongoing efforts to address insurgency in the Northeast.",
+      "examRelevance": "46 cadres of a banned insurgent group surrendered in Manipur.",
+      "tags": [
+        "Manipur",
+        "Insurgency",
+        "Surrender",
+        "Defence"
+      ],
+      "source": {
+        "title": "46 cadres of banned insurgent group surrender in Manipur",
+        "url": "https://www.thehindu.com/news/national/46-cadres-of-banned-insurgent-group-surrender-in-manipur/article71249861.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q6",
+      "question": "Which two companies recently announced a multibillion-dollar deal for European AI expansion, where one will fund the other, and the latter will add its AI models to the former's app builder?",
+      "options": [
+        "Microsoft and Mistral",
+        "IBM and OpenAI",
+        "Amazon and Anthropic",
+        "Google and DeepMind"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Microsoft is set to fund Mistral's European AI expansion in a multibillion-dollar deal. In return, Mistral has added its AI models, Medium 3.5 and OCR 4, to Microsoft’s app builder known as Foundry.",
+      "background": "This collaboration signifies a strategic move by Microsoft to strengthen its position in the European AI market and enhance its cloud offerings with advanced AI capabilities from Mistral.",
+      "examRelevance": "Microsoft is funding Mistral's AI expansion; Mistral added Medium 3.5 and OCR 4 to Microsoft Foundry.",
+      "tags": [
+        "Microsoft",
+        "Mistral",
+        "AI",
+        "Foundry"
+      ],
+      "source": {
+        "title": "Microsoft to fund Mistral's European AI expansion in multibillion-dollar deal",
+        "url": "https://www.thehindu.com/sci-tech/technology/microsoft-to-fund-mistrals-european-ai-expansion-in-multibillion-dollar-deal/article71252012.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q7",
+      "question": "Former U.S. President Donald Trump has approved a nuclear agreement that could potentially provide which country with uranium enrichment capability for its civilian nuclear program?",
+      "options": [
+        "UAE",
+        "Iran",
+        "Egypt",
+        "Saudi Arabia"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Former U.S. President Donald Trump has approved an agreement with Saudi Arabia that could potentially provide the kingdom with uranium enrichment capability for its civilian nuclear program. The deal is expected to last 30 years and involve U.S. firms.",
+      "background": "This agreement marks a significant development in Saudi Arabia's nuclear ambitions, potentially altering the geopolitical landscape of the Middle East. It has implications for non-proliferation efforts and regional stability.",
+      "examRelevance": "Trump approved a 30-year nuclear pact allowing Saudi Arabia uranium enrichment capability.",
+      "tags": [
+        "Donald Trump",
+        "Saudi Arabia",
+        "Nuclear Agreement",
+        "Uranium Enrichment"
+      ],
+      "source": {
+        "title": "Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-approves-nuclear-agreement-that-may-allow-saudi-arabia-to-enrich-uranium/articleshow/132550452.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q8",
+      "question": "According to U.S. Defence Secretary Pete Hegseth, what is the total cost incurred by the United States so far in the ongoing conflict with Iran?",
+      "options": [
+        "$10 billion",
+        "$25 billion",
+        "$50 billion",
+        "$37.5 billion"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "U.S. Defence Secretary Pete Hegseth stated that the ongoing conflict with Iran has cost the United States $37.5 billion so far. This comes as the U.S. ended its 11th consecutive night of airstrikes on Iran.",
+      "background": "The U.S. has been conducting airstrikes in response to various attacks, and the conflict has led to nearly 100 U.S. injuries since early July. The financial cost highlights the significant resources expended in these military operations.",
+      "examRelevance": "US-Iran conflict has cost the United States $37.5 billion.",
+      "tags": [
+        "US",
+        "Iran",
+        "Airstrikes",
+        "Pete Hegseth"
+      ],
+      "source": {
+        "title": "West Asia war LIVE: Trump says 'not finished' attacking Iran",
+        "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-11th-night-attacks-ceasefire-deal-us-central-command-strait-of-hormuz-donald-trump-tehran/article71251991.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q9",
+      "question": "Which two organizations are anchoring the nationwide initiative to create Campus Biodiversity Registers across colleges and universities in India?",
+      "options": [
+        "Indian Institute of Science and Indian Council of Forestry Research and Education",
+        "Wildlife Institute of India and Botanical Survey of India",
+        "Zoological Survey of India and Ministry of Environment, Forests and Climate Change",
+        "Nature Conservation Foundation and National Biodiversity Authority"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "A nationwide initiative has been launched to create Campus Biodiversity Registers across higher education institutions in India. This exercise, aimed at documenting flora and fauna, is anchored by the Nature Conservation Foundation and the National Biodiversity Authority.",
+      "background": "The initiative seeks to involve students and faculty in documenting the biodiversity within their campuses, fostering environmental awareness, and contributing to national biodiversity conservation efforts.",
+      "examRelevance": "Campus Biodiversity Registers initiative is anchored by Nature Conservation Foundation and National Biodiversity Authority.",
+      "tags": [
+        "Campus Biodiversity Registers",
+        "Nature Conservation Foundation",
+        "National Biodiversity Authority",
+        "Biodiversity"
+      ],
+      "source": {
+        "title": "Initiative launched to create Campus Biodiversity Registers across colleges, unversities in India",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/initiative-launched-to-create-campus-biodiversity-registers-across-colleges-unversities-in-india/article71249558.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q10",
+      "question": "How many individuals were recently recruited by the Bihar government into its JEEVika program?",
+      "options": [
+        "3,120",
+        "1,870",
+        "2,000",
+        "2,446"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Bihar government recently recruited 2,446 individuals into its JEEVika program. Chief Minister Samrat Choudhary urged the new appointees to work with integrity to integrate poor people into the mainstream society.",
+      "background": "JEEVika, officially known as the Bihar Rural Livelihoods Project, is a flagship program aimed at poverty alleviation and women's empowerment through self-help groups and livelihood promotion in rural Bihar.",
+      "examRelevance": "Bihar government recruited 2,446 individuals in JEEVika.",
+      "tags": [
+        "Bihar",
+        "JEEVika",
+        "Recruitment",
+        "Government Scheme"
+      ],
+      "source": {
+        "title": "Bihar government recruits 2,446 in JEEVika",
+        "url": "https://www.thehindu.com/news/national/bihar/bihar-government-recruits-2446-in-jeevika/article71249504.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q11",
+      "question": "What has the United Nations recently called for regarding climate finance?",
+      "options": [
+        "Reduction in overall climate finance",
+        "Fair allocation to nations that need it most",
+        "Increased funding from developing countries",
+        "Prioritization of fossil fuel investments"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The United Nations has recently called for the fair allocation of climate finance, emphasizing that it must reach the nations that need it most. This call highlights the disparity in access to funds for climate action.",
+      "background": "Climate finance refers to local, national or transnational financing—drawn from public, private and alternative sources of financing—that seeks to support mitigation and adaptation actions that will address climate change.",
+      "examRelevance": "UN called for fair allocation of climate finance to nations that need it most.",
+      "tags": [
+        "UN",
+        "Climate Finance",
+        "Environment",
+        "Climate Change"
+      ],
+      "source": {
+        "title": "UN calls for fair allocation of climate finance",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/climate-finance-must-reach-nations-that-need-it-most-says-un-climate-chief/articleshow/132550063.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q12",
+      "question": "At the upcoming ASEAN meeting, U.S. Senator Marco Rubio is expected to hold talks with which Chinese official?",
+      "options": [
+        "Xi Jinping",
+        "Li Qiang",
+        "Qin Gang",
+        "Wang Yi"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "U.S. Senator Marco Rubio is scheduled to meet with China's Wang Yi on the sidelines of the upcoming ASEAN meeting. This meeting will involve regional powers joining the discussions.",
+      "background": "Such high-level meetings between U.S. and Chinese officials at international forums like ASEAN are crucial for diplomatic engagement and addressing bilateral and regional issues amidst complex geopolitical dynamics.",
+      "examRelevance": "Marco Rubio to meet China's Wang Yi at ASEAN meeting.",
+      "tags": [
+        "Marco Rubio",
+        "Wang Yi",
+        "ASEAN",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Rubio to meet China's Wang Yi at ASEAN meeting",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/marco-rubio-to-hold-talks-with-chinas-wang-yi-as-regional-powers-join-asean-meeting/articleshow/132549888.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q13",
+      "question": "Which global sportswear brand recently announced its decision to tighten online sales in China due to the fragmented marketplace?",
+      "options": [
+        "Nike",
+        "Puma",
+        "Adidas",
+        "Under Armour"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Nike, the global sportswear brand, is set to tighten its online sales operations in China. This strategic move is attributed to the increasingly fragmented marketplace in the country.",
+      "background": "The Chinese e-commerce market is highly competitive and diverse, with numerous platforms and local players. This fragmentation often presents challenges for international brands in maintaining brand consistency and controlling distribution.",
+      "examRelevance": "Nike to tighten online sales in China due to fragmented marketplace.",
+      "tags": [
+        "Nike",
+        "China",
+        "E-commerce",
+        "Business Strategy"
+      ],
+      "source": {
+        "title": "Nike to tighten online sales in China; here's why",
+        "url": "https://economictimes.indiatimes.com/news/international/business/nike-to-tighten-online-sales-in-china-amid-fragmented-marketplace/articleshow/132549812.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q14",
+      "question": "Which two companies are leading the push to organize India's domestic work sector, often referred to as its 'Uberisation'?",
+      "options": [
+        "BigBasket and Grofers",
+        "Swiggy and Zomato",
+        "Ola and Rapido",
+        "Snabbit and Urban Company"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Snabbit and Urban Company are at the forefront of efforts to organize India's domestic work sector, a process referred to as 'Uberisation.' This trend involves connecting domestic workers with clients through digital platforms, mirroring the model of ride-sharing services.",
+      "background": "The 'Uberisation' of services aims to formalize and streamline traditionally unorganized sectors, offering benefits like standardized pricing, easier access for consumers, and potentially better working conditions for service providers.",
+      "examRelevance": "Snabbit and Urban Company lead the 'Uberisation' of India's domestic work sector.",
+      "tags": [
+        "Snabbit",
+        "Urban Company",
+        "Domestic Workers",
+        "Gig Economy"
+      ],
+      "source": {
+        "title": "The Uberisation of India's domestic workers",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/snabbit-urban-company-lead-push-to-organise-indias-domestic-work-sector/articleshow/132549826.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q15",
+      "question": "Plas Johnson, who recently passed away at the age of 94, was a renowned musician famous for playing which instrument and notably associated with the iconic 'Pink Panther' theme?",
+      "options": [
+        "Saxophone",
+        "Piano",
+        "Trumpet",
+        "Guitar"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Plas Johnson, the celebrated American saxophonist and Grammy winner, passed away at 94. He was widely recognized for his distinctive saxophone solo on Henry Mancini's iconic 'Pink Panther' theme.",
+      "background": "Johnson had a prolific career, specializing in jump-blues and R&B, and was a highly respected live and studio session player, backing numerous musical greats throughout his extensive career.",
+      "examRelevance": "Plas Johnson, 'Pink Panther' saxophonist and Grammy winner, died at 94.",
+      "tags": [
+        "Plas Johnson",
+        "Saxophone",
+        "Pink Panther",
+        "Grammy Winner"
+      ],
+      "source": {
+        "title": "Plas Johnson, ‘Pink Panther’ saxophonist, Grammy winner, dies at 94",
+        "url": "https://www.thehindu.com/news/international/plas-johnson-pink-panther-saxophonist-grammy-winner-dies-at-94/article71251917.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q16",
+      "question": "What amount of stabilization facility has Pakistan recently sought from the United States to shore up its reserves?",
+      "options": [
+        "$15 billion",
+        "$10 billion",
+        "$5 billion",
+        "$20 billion"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Pakistan has recently sought a $10 billion stabilization facility from the United States. This financial assistance is intended to help shore up Pakistan's foreign exchange reserves.",
+      "background": "Pakistan has been facing significant economic challenges, including a balance of payments crisis and dwindling foreign exchange reserves, necessitating external financial support to stabilize its economy.",
+      "examRelevance": "Pakistan seeks $10 billion US stabilization facility.",
+      "tags": [
+        "Pakistan",
+        "United States",
+        "Stabilization Facility",
+        "Economy"
+      ],
+      "source": {
+        "title": "Pakistan seeks $10 billion US stabilization facility",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-seeks-10-billion-us-stabilization-facility-to-shore-up-reserves/articleshow/132549185.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q17",
+      "question": "As of July 21, what is the total flood-related death toll reported in Assam?",
+      "options": [
+        "16",
+        "31",
+        "21",
+        "42"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The flood situation in Assam worsened on July 21, leading to 21 deaths in a single day's deluge. This raised the total flood-related death toll in the state to 31. The floods have affected 5.65 lakh people across 16 districts.",
+      "background": "Assam is annually prone to severe floods during the monsoon season, caused by heavy rainfall and the overflowing of rivers, particularly the Brahmaputra and its tributaries, leading to widespread displacement and loss of life.",
+      "examRelevance": "Assam's total flood toll reached 31, with 21 deaths in a single day.",
+      "tags": [
+        "Assam",
+        "Floods",
+        "Natural Disaster",
+        "Death Toll"
+      ],
+      "source": {
+        "title": "21 dead in a day’s deluge in Assam; total flood toll 31",
+        "url": "https://www.thehindu.com/news/national/assam/several-dead-in-a-days-deluge-in-assam/article71251902.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q18",
+      "question": "By what percentage did India's coking coal import bill decrease from fiscal year 2023 to fiscal year 2026?",
+      "options": [
+        "15%",
+        "50%",
+        "25%",
+        "39%"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "India's coking coal import bill decreased by 39% from $19.2 billion in fiscal year 2023 to $11.76 billion in fiscal year 2026. This reduction was primarily helped by a shift in imports from Australia to Russia and the US, along with a low-price global cycle.",
+      "background": "Coking coal is a crucial raw material for steelmaking. Despite the reduction in import bill, domestic output remains insufficient, leaving Indian steelmakers exposed to global commodity price cycles.",
+      "examRelevance": "India's coking coal import bill decreased by 39% from FY23 to FY26.",
+      "tags": [
+        "India",
+        "Coking Coal",
+        "Imports",
+        "Economy",
+        "Russia"
+      ],
+      "source": {
+        "title": "India's coking coal import bill down 39% in three years helped by Russian discounts, low-price global cycle",
+        "url": "https://www.livemint.com/economy/imports-russia-united-states-reduce-india-coking-coal-import-bill-39-australia-steelmaking-coke-11784605013324.html"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q19",
+      "question": "Where is India's External Affairs Minister S. Jaishankar scheduled to meet his Quad counterparts on the sidelines of the ASEAN meeting?",
+      "options": [
+        "Manila",
+        "Singapore",
+        "Jakarta",
+        "Bangkok"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "India's External Affairs Minister S. Jaishankar is slated to meet his Quad counterparts in Manila. This meeting will take place on the sidelines of the ASEAN meeting, where they will discuss various regional and global issues.",
+      "background": "The Quad (Quadrilateral Security Dialogue) is a strategic security dialogue between Australia, India, Japan, and the United States, aimed at developing a new strategy to keep the critical sea routes in the Indo-Pacific free from any influence.",
+      "examRelevance": "Jaishankar to meet Quad counterparts in Manila during ASEAN meeting.",
+      "tags": [
+        "S. Jaishankar",
+        "Quad",
+        "ASEAN",
+        "Manila",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Jaishankar to meet Quad counterparts in Manila on sidelines of ASEAN meet",
+        "url": "https://indianexpress.com/article/india/jaishankar-to-meet-quad-counterparts-in-manila-on-sidelines-of-asean-meet-10797453/"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q20",
+      "question": "In the first half of July, which sector attracted the highest foreign buying from Overseas Investors (FPIs) in India, according to NSDL data?",
+      "options": [
+        "Information Technology",
+        "Healthcare",
+        "Metals and Mining",
+        "Consumer services"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Overseas investors remained net buyers across sectors in the first half of July, marking a second consecutive fortnight of inflows. Consumer services, including e-commerce and hotels, attracted the highest foreign buying during this period, followed by metals and mining, and healthcare.",
+      "background": "Foreign Portfolio Investor (FPI) inflows are a crucial indicator of international investor confidence in a country's economy and stock markets. Sustained inflows contribute to market liquidity and currency stability.",
+      "examRelevance": "Consumer services sector received highest FPI inflows in India in first half of July.",
+      "tags": [
+        "FPI",
+        "Consumer Services",
+        "Foreign Investment",
+        "Economy",
+        "NSDL"
+      ],
+      "source": {
+        "title": "FPIs stay in buying mode, consumer services lead sectoral inflows in first half of July",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-stay-in-buying-mode-consumer-services-lead-sectoral-inflows-in-first-half-of-july/articleshow/132549051.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q21",
+      "question": "Due to severe weather conditions and massive damage to civilian infrastructure, until what date have all educational institutes in Jammu and Kashmir been ordered to remain closed?",
+      "options": [
+        "July 28",
+        "August 1",
+        "July 24",
+        "July 26"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "The Jammu and Kashmir administration has decided to keep all educational institutes closed until July 26. This measure has been taken due to the region grappling with weather fury for the third consecutive day, which has resulted in massive damage to civilian infrastructure.",
+      "background": "Most pilgrimages, including the Amarnath Yatra, also remain suspended in the region, highlighting the widespread impact of the adverse weather. Such closures are critical for ensuring the safety of students and staff.",
+      "examRelevance": "All educational institutes in J&K closed till July 26 due to weather fury.",
+      "tags": [
+        "Jammu and Kashmir",
+        "Weather Fury",
+        "Educational Institutes",
+        "Closure"
+      ],
+      "source": {
+        "title": "Jammu and Kashmir grapples weather fury for third day, civilian infrastructure massively damaged",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-and-kashmir-grapples-weather-fury-for-thirdday-civilian-infrastructure-massively-damaged/article71250494.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q22",
+      "question": "Which Indian state's medical scheme has benefited patients through outbound portability, with over 5,900 claims amounting to ₹17 crore submitted for speciality treatment in other states?",
+      "options": [
+        "Uttar Pradesh",
+        "Rajasthan",
+        "Punjab",
+        "Madhya Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "Patients from Rajasthan have significantly benefited from the outbound portability feature of their state's medical scheme. Over 5,900 claims, totaling ₹17 crore, have been submitted by patients for speciality treatments in states such as Gujarat, Haryana, Maharashtra, and Delhi.",
+      "background": "Outbound portability allows beneficiaries of a state-specific health scheme to avail treatment outside their home state, ensuring access to a wider range of medical facilities and specialized care.",
+      "examRelevance": "Rajasthan's medical scheme saw ₹17 crore in claims via outbound portability.",
+      "tags": [
+        "Rajasthan",
+        "Medical Scheme",
+        "Outbound Portability",
+        "Healthcare"
+      ],
+      "source": {
+        "title": "Outbound portability of medical scheme benefits Rajasthan’s patients",
+        "url": "https://www.thehindu.com/sci-tech/health/outbound-portability-of-medical-scheme-benefits-rajasthans-patients/article71250061.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q23",
+      "question": "The Board of Anant Raj has approved the demerger of its Data Centre & Cloud Services business into a new, independently listed entity. What is the name of this new entity?",
+      "options": [
+        "Cloud Infrastructure India",
+        "Ashok Cloud Pvt. Ltd.",
+        "Raj Data Solutions",
+        "Anant Digital Services"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Board of Anant Raj has approved the demerger of its Data Centre & Cloud Services business. This operation will first consolidate all data centre and cloud operations under one entity before carving them out into Ashok Cloud Pvt. Ltd., which will be listed independently.",
+      "background": "Demergers often aim to unlock value for shareholders by separating distinct business units, allowing each to pursue its specific growth strategies and attract specialized investors. This move positions Anant Raj to focus on its core businesses while Ashok Cloud focuses on digital infrastructure.",
+      "examRelevance": "Anant Raj demerged its data centre business into Ashok Cloud Pvt. Ltd.",
+      "tags": [
+        "Anant Raj",
+        "Demerger",
+        "Data Centre",
+        "Cloud Services"
+      ],
+      "source": {
+        "title": "Anant Raj Board approves demerger of Data Centre & Cloud Services business",
+        "url": "https://www.thehindu.com/business/anant-raj-board-approves-demerger-of-data-centre-cloud-services-business/article71250782.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q24",
+      "question": "Which state's cabinet has recently approved a free scooty scheme for college girls, with eligible female students to be selected based on merit from the top 5% of female graduates?",
+      "options": [
+        "Bihar",
+        "Madhya Pradesh",
+        "Uttar Pradesh",
+        "Rajasthan"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The Uttar Pradesh cabinet has approved a free scooty scheme for college girls. This scheme aims to ensure easier access to higher education for girl students and make them self-reliant and confident. Eligible female students will be selected based on merit from the top 5% of female graduates.",
+      "background": "Such schemes are designed to promote girls' education and mobility, reducing barriers to accessing higher learning institutions and enhancing their independence.",
+      "examRelevance": "Uttar Pradesh cabinet approved a free scooty scheme for college girls.",
+      "tags": [
+        "Uttar Pradesh",
+        "Free Scooty Scheme",
+        "College Girls",
+        "Education"
+      ],
+      "source": {
+        "title": "Uttar Pradesh cabinet approves free scooty scheme for college girls",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-cabinet-approves-free-scooty-scheme-for-college-girls/article71250550.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q25",
+      "question": "Which Indian trio recently advanced to the men's singles third round on the opening day of the World Junior Squash competition?",
+      "options": [
+        "Aryaveer Dewan, Yusha Nafees, and Gurveer Singh",
+        "Velavan Senthilkumar, Harinder Pal Sandhu, and Mahesh Mangaonkar",
+        "Saurav Ghosal, Ramit Tandon, and Abhay Singh",
+        "Joshna Chinappa, Dipika Pallikal, and Tanvi Khanna"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "The Indian trio of Aryaveer Dewan, Yusha Nafees, and Gurveer Singh successfully advanced to the men's singles third round on the opening day of the World Junior Squash competition. This marks a strong start for the Indian contingent.",
+      "background": "The World Junior Squash Championship is a prestigious international tournament organized by the World Squash Federation, showcasing emerging talent in the sport from around the globe.",
+      "examRelevance": "Aryaveer Dewan, Yusha Nafees, and Gurveer Singh advanced to the third round of World Junior Squash.",
+      "tags": [
+        "World Junior Squash",
+        "Aryaveer Dewan",
+        "Yusha Nafees",
+        "Gurveer Singh"
+      ],
+      "source": {
+        "title": "Indians start well at World Junior Squash",
+        "url": "https://www.thehindu.com/sport/indians-start-well-at-world-junior-squash/article71251049.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q26",
+      "question": "Who recently won the individual time trial for back-to-back stage victories at the Tour de France?",
+      "options": [
+        "Tadej Pogačar",
+        "Jonas Vingegaard",
+        "Remco Evenepoel",
+        "Mattias Skjelmose"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Remco Evenepoel won the 26.1-kilometer individual time trial at the Tour de France, securing back-to-back stage victories. He completed the race in 32 minutes, 19 seconds, more than a minute faster than Mattias Skjelmose. Tadej Pogačar still leads the overall classification.",
+      "background": "The Tour de France is one of the most prestigious and grueling cycling races in the world, consisting of multiple stages including individual time trials. Back-to-back stage wins are a significant achievement in the sport.",
+      "examRelevance": "Remco Evenepoel won back-to-back stages, including the time trial, at Tour de France.",
+      "tags": [
+        "Remco Evenepoel",
+        "Tour de France",
+        "Cycling",
+        "Time Trial"
+      ],
+      "source": {
+        "title": "Evenepoel wins time trial for back-to-back Tour de France stage victories, Pogacar still leads",
+        "url": "https://www.thehindu.com/news/evenepoel-wins-time-trial-for-back-to-back-tour-de-france-stage-victories-pogacar-still-leads/article71251053.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q27",
+      "question": "According to Simon Stiell, Executive Secretary of UN Climate Change, what percentage of India's installed power capacity now comes from fossil-fuel-free sources?",
+      "options": [
+        "Three-quarters",
+        "Half",
+        "One-fourth",
+        "One-third"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Simon Stiell, Executive Secretary of UN Climate Change, praised India as a 'solar superpower' and highlighted that fossil-fuel-free sources now constitute half of India's installed power capacity. He stated that India's clean energy push is its answer to transition challenges.",
+      "background": "India has made significant strides in renewable energy deployment, particularly solar power, as part of its commitment to combating climate change and achieving its nationally determined contributions (NDCs) under the Paris Agreement.",
+      "examRelevance": "Half of India's installed power capacity is from fossil-fuel-free sources, as stated by UN Climate Change Executive Secretary Simon Stiell.",
+      "tags": [
+        "Simon Stiell",
+        "UN Climate Change",
+        "India",
+        "Solar Superpower",
+        "Clean Energy"
+      ],
+      "source": {
+        "title": "Clean energy push is India’s answer to transition challenges: UN climate chief",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/clean-energy-push-is-indias-answer-to-transition-challenges-un-climate-chief/article71249549.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q28",
+      "question": "Which country recently supplanted Argentina to claim the top spot in the FIFA rankings after becoming world champions?",
+      "options": [
+        "Spain",
+        "Germany",
+        "Brazil",
+        "France"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "World champions Spain have recently supplanted Argentina to claim the top spot in the FIFA rankings. This achievement follows their success in becoming world champions.",
+      "background": "FIFA rankings are a system for ranking men's national football teams, based on the results of all FIFA-recognized international matches. Topping these rankings is a significant recognition of a team's global dominance.",
+      "examRelevance": "World champions Spain topped FIFA rankings, supplanting Argentina.",
+      "tags": [
+        "Spain",
+        "FIFA Rankings",
+        "Football",
+        "World Champions"
+      ],
+      "source": {
+        "title": "World champions Spain supplant Argentina to top FIFA rankings",
+        "url": "https://www.thehindu.com/sport/football/world-champions-spain-supplant-argentina-to-top-fifa-rankings/article71251056.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q29",
+      "question": "What is the name of the new trade pact that is expected to reshape trade and investment flows, create quality jobs and growth, and transition India to a more competitive and innovation-driven economy, according to a recent opinion piece?",
+      "options": [
+        "BTIA",
+        "CETA",
+        "CEPA",
+        "FTA"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The new trade pact referred to as CETA (Comprehensive Economic and Trade Agreement) is expected to be a win-win for India and the U.K. This agreement can reshape trade and investment flows, create quality jobs and growth, and transition India to a more competitive and innovation-driven economy.",
+      "background": "While the article refers to CETA, India is negotiating a Free Trade Agreement (FTA) with the UK. The opinion piece highlights the potential benefits of such a comprehensive trade agreement for both nations.",
+      "examRelevance": "CETA is the new trade pact expected to benefit India and UK.",
+      "tags": [
+        "India",
+        "UK",
+        "Trade Pact",
+        "CETA",
+        "Economy"
+      ],
+      "source": {
+        "title": "New trade pact a win-win for India and U.K.",
+        "url": "https://www.thehindu.com/opinion/op-ed/new-trade-pact-a-win-win-for-india-and-uk/article71250852.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-22-q30",
+      "question": "In which two Indian states is a new study being conducted to evaluate the impact of heat stress on health, involving participants receiving digital watches to track body temperature?",
+      "options": [
+        "Telangana and Odisha",
+        "Gujarat and Rajasthan",
+        "Kerala and Andhra Pradesh",
+        "Tamil Nadu and Karnataka"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "A new study is being conducted in Tamil Nadu and Karnataka to evaluate the impact of heat stress on health. For this study, 1,200 households are roped in per site, and participants will receive a digital watch to keep track of their body temperature. The project sites include Perungudi and Poompuhar in Tamil Nadu, and Sirwar and Chalakarre in Karnataka.",
+      "background": "Heat stress is a growing public health concern due to climate change, leading to various health complications. This study will provide crucial data to inform public health interventions and adaptation strategies.",
+      "examRelevance": "Study on heat stress impact on health is being conducted in Tamil Nadu and Karnataka.",
+      "tags": [
+        "Heat Stress",
+        "Health",
+        "Tamil Nadu",
+        "Karnataka",
+        "Public Health"
+      ],
+      "source": {
+        "title": "Study to evaluate impact of heat stress on health in Tamil Nadu and Karnataka",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/study-to-evaluate-impact-of-heat-stress-on-health-in-tamil-nadu-and-karnataka/article71250181.ece"
+      }
+    }
+  ]
+}
