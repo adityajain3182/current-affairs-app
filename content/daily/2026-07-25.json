@@ -1,0 +1,788 @@
+{
+  "id": "daily-2026-07-25",
+  "type": "daily",
+  "date": "2026-07-25",
+  "title": "Current Affairs — 25 Jul 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-07-25-q1",
+      "question": "Which city in Saudi Arabia was recently claimed to be attacked by Houthis with missiles?",
+      "options": [
+        "Riyadh",
+        "Jizan",
+        "Dammam",
+        "Jeddah"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Houthis recently claimed a missile attack on Jizan, a city in Saudi Arabia. This development is part of the ongoing conflict in West Asia, which has seen various actors involved in missile strikes and naval actions.",
+      "background": "The conflict in West Asia involves multiple parties, including the Houthi movement in Yemen, Saudi Arabia, and the United States. The Houthis have frequently targeted Saudi Arabian territories in retaliation for Saudi-led coalition interventions in Yemen.",
+      "examRelevance": "Houthis claimed missile attack on Jizan, Saudi Arabia.",
+      "tags": [
+        "Houthis",
+        "Jizan",
+        "Saudi Arabia",
+        "West Asia Conflict"
+      ],
+      "source": {
+        "title": "West Asia war LIVE: Houthis claim missile attack on Saudi's Jizan; U.S. military 'disables' tanker trying to evade Iran port blockade",
+        "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-saudi-arabia-houthis-attack-gulf-states-strait-of-hormuz-live-updates-july-25-2026/article71265151.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q2",
+      "question": "In which two Indian states are residents currently opposing data centre projects primarily due to concerns over water supply?",
+      "options": [
+        "Karnataka and Telangana",
+        "Gujarat and Rajasthan",
+        "Uttar Pradesh and Madhya Pradesh",
+        "Andhra Pradesh and Maharashtra"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Residents in Andhra Pradesh and Maharashtra are currently opposing data centre projects. Their primary concern revolves around the potential impact of these centres on local water supply, fearing that they will deplete resources vital for the population.",
+      "background": "Data centres require significant amounts of water for cooling purposes, which can strain local resources, especially in regions already facing water scarcity. This issue often leads to environmental and social concerns among local communities.",
+      "examRelevance": "Residents in Andhra Pradesh and Maharashtra oppose data centres due to water supply concerns.",
+      "tags": [
+        "Data Centres",
+        "Andhra Pradesh",
+        "Maharashtra",
+        "Water Supply",
+        "Protests"
+      ],
+      "source": {
+        "title": "Why residents are opposing data centres in Andhra Pradesh and Maharashtra? | Explained",
+        "url": "https://www.thehindu.com/news/national/why-residents-are-opposing-data-centres-in-andhra-pradesh-and-maharashtra-explained/article71265172.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q3",
+      "question": "Who was recently arrested as the main accused in the Maharashtra Teacher Eligibility Test (TET) paper leak case?",
+      "options": [
+        "Bijendra Kumar Gupta",
+        "Sanjay Singh",
+        "Anil Kumar",
+        "Rajesh Sharma"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Bijendra Kumar Gupta was recently arrested in Bihar as the main accused in the Maharashtra Teacher Eligibility Test (TET) paper leak case. This arrest is part of a broader crackdown on exam malpractices.",
+      "background": "Paper leaks in competitive examinations have become a significant concern in India, leading to widespread student protests and calls for stricter laws. The Maharashtra TET paper leak is one such incident that has garnered national attention.",
+      "examRelevance": "Bijendra Kumar Gupta arrested as main accused in Maharashtra TET paper leak.",
+      "tags": [
+        "Maharashtra TET",
+        "Paper Leak",
+        "Bijendra Kumar Gupta",
+        "Arrest",
+        "Exam Malpractice"
+      ],
+      "source": {
+        "title": "Maharashtra TET paper leak: Main accused arrested",
+        "url": "https://economictimes.indiatimes.com/news/india/maharashtra-tet-paper-leak-main-accused-bijendra-kumar-gupta-arrested-in-bihar/articleshow/132618823.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q4",
+      "question": "What was the approximate spot gold price per ounce by 4:10 p.m. EDT (2010 GMT) on Friday, as mentioned in recent reports?",
+      "options": [
+        "$5,000.00",
+        "$4,052.78",
+        "$3,950.00",
+        "$4,070.80"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Spot gold was up 0.1% at $4,052.78 per ounce by 4:10 p.m. EDT (2010 GMT) on Friday. This movement occurred as Brent crude retreated and investors assessed Middle East developments ahead of the U.S. interest rate decision.",
+      "background": "Gold prices are often influenced by geopolitical tensions, crude oil prices, and expectations regarding interest rate decisions by central banks like the U.S. Federal Reserve. It typically acts as a safe-haven asset during times of uncertainty.",
+      "examRelevance": "Spot gold price was $4,052.78 per ounce.",
+      "tags": [
+        "Gold Price",
+        "Commodity Market",
+        "Brent Crude",
+        "Economy"
+      ],
+      "source": {
+        "title": "Gold edges up as Brent eases, Mideast developments in focus ahead of Fed meet",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-brent-eases-mideast-developments-in-focus-ahead-of-fed-meet/articleshow/132618808.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q5",
+      "question": "What was the settlement price for Brent crude futures per barrel on Friday, following reports of China's push for US-Iran peace talks?",
+      "options": [
+        "$96.78",
+        "$100.00",
+        "$90.50",
+        "$92.87"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Brent crude futures settled at $96.78 a barrel on Friday, down $3.91 or 3.88%. This decline followed reports that China had initiated a push to resume stalled peace talks between the United States and Iran.",
+      "background": "Global crude oil prices are highly sensitive to geopolitical tensions, particularly in the Middle East, and to diplomatic efforts to resolve conflicts. Supply disruptions or prospects of peace can significantly impact market prices.",
+      "examRelevance": "Brent crude futures settled at $96.78 a barrel.",
+      "tags": [
+        "Brent Crude",
+        "Oil Prices",
+        "China",
+        "US-Iran Conflict",
+        "Commodity Market"
+      ],
+      "source": {
+        "title": "Oil falls on report China pushing for end US-Iran war",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-report-china-pushing-for-end-us-iran-war/articleshow/132618787.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q6",
+      "question": "What new closing time has been announced for liquor shops in Delhi until the weekend, in view of ongoing student protests at Jantar Mantar?",
+      "options": [
+        "6 pm",
+        "8 pm",
+        "9 pm",
+        "7 pm"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "Liquor shops across Delhi will shut two hours earlier than usual, at 8 pm instead of 10 pm, until the weekend ends. This decision was taken based on police inputs flagging the prevailing situation due to the ongoing student protests at Jantar Mantar.",
+      "background": "Central Delhi has been witnessing days of protests, primarily by students, at Jantar Mantar against examination-related irregularities. Such large-scale public gatherings sometimes lead to temporary administrative measures to maintain law and order.",
+      "examRelevance": "Delhi liquor shops to close at 8 pm until weekend due to protests.",
+      "tags": [
+        "Delhi",
+        "Liquor Shops",
+        "Jantar Mantar",
+        "Student Protests",
+        "Public Order"
+      ],
+      "source": {
+        "title": "Delhi liquor shops to shut at 8 pm",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/liquor/delhi-liquor-shops-to-shut-at-8-pm-over-the-weekend-amid-student-protests/articleshow/132618782.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q7",
+      "question": "Which Indian state's health department recently stated that the current rise in COVID-19 cases is seasonal and no cause for concern?",
+      "options": [
+        "Andhra Pradesh",
+        "Telangana",
+        "Maharashtra",
+        "Karnataka"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "The Telangana health department recently clarified that the current rise in COVID-19 cases in the state is seasonal and does not present a cause for concern. They emphasized that the situation is being monitored.",
+      "background": "COVID-19 cases continue to fluctuate globally, with various regions experiencing seasonal patterns or new variant surges. Public health departments regularly issue advisories and updates to manage public perception and health responses.",
+      "examRelevance": "Telangana health department: current COVID-19 rise is seasonal.",
+      "tags": [
+        "Telangana",
+        "COVID-19",
+        "Health Department",
+        "Public Health"
+      ],
+      "source": {
+        "title": "No cause for concern as current COVID-19 rise is seasonal, says Telangana health department",
+        "url": "https://www.thehindu.com/news/national/telangana/no-cause-for-concern-as-current-covid-19-rise-is-seasonal-says-telangana-health-department/article71262814.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q8",
+      "question": "Which organizations have recently called for a ban on the use of pellet guns and electric shock batons by all police forces in India?",
+      "options": [
+        "Amnesty International India and Human Rights Watch",
+        "Doctors Without Borders and Child Rights and You",
+        "People's Union for Civil Liberties and National Human Rights Commission",
+        "Progressive Medicos and Scientific Forum (PMSF) and National Platform for the Rights of the Disabled (NPRD)"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Progressive Medicos and Scientific Forum (PMSF) and groups under the National Platform for the Rights of the Disabled (NPRD) umbrella have sought a ban on the use of pellet guns and electric shock batons by all police forces. They also called for a judicial inquiry into their alleged use against protesters on July 20.",
+      "background": "The use of certain crowd control weapons, such as pellet guns, has been controversial in India, particularly in regions like Jammu and Kashmir, due to the severe injuries they can cause. Disability rights organizations often highlight the disproportionate impact of such weapons on vulnerable populations.",
+      "examRelevance": "PMSF and NPRD demand ban on pellet guns and electric shock batons.",
+      "tags": [
+        "Pellet Guns",
+        "Electric Shock Batons",
+        "PMSF",
+        "NPRD",
+        "Police Reforms",
+        "Human Rights"
+      ],
+      "source": {
+        "title": "Ban use of pellet guns, electric shock batons by all police forces: disability rights outfits",
+        "url": "https://www.thehindu.com/news/national/ban-use-of-pellet-guns-electric-shock-batons-by-all-police-forces-disability-rights-outfits/article71261965.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q9",
+      "question": "How many officials in the National Testing Agency (NTA) have had their services terminated by the Centre as part of actions to crack down on exam malpractices?",
+      "options": [
+        "62",
+        "35",
+        "47",
+        "50"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Centre has terminated the services of up to 47 officials in the National Testing Agency (NTA) as part of a slew of actions to crack down on exam malpractices. This move aims to strengthen the anti-paper leak law and ensure integrity in examinations.",
+      "background": "The National Testing Agency (NTA) is responsible for conducting major entrance examinations in India. Recent allegations of paper leaks and irregularities have led to widespread protests and prompted the government to initiate significant reforms and punitive actions.",
+      "examRelevance": "47 NTA officials terminated for exam malpractices.",
+      "tags": [
+        "NTA",
+        "Paper Leak",
+        "Exam Reforms",
+        "Terminated Officials",
+        "Government Action"
+      ],
+      "source": {
+        "title": "Jantar Mantar protest LIVE: CJP-govt talks to continue today amid Dharmendra Pradhan's resignation demand",
+        "url": "https://www.thehindu.com/news/national/jantar-mantar-delhi-student-protest-cjp-government-talks-sonam-wangchuk-hunger-strike-live-updates-july-25-2026/article71265108.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q10",
+      "question": "Sonam Wangchuk recently stated he did not cut any deal with the government and focused on justice for students arrested after an incident in which region?",
+      "options": [
+        "Jharkhand",
+        "Bihar",
+        "Delhi",
+        "Ladakh"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Sonam Wangchuk stated he did not cut any deal with the government, emphasizing his focus on securing justice for students and young people who were arrested after an incident in Ladakh on September 24, 2025. Around 80 people were reportedly arrested then.",
+      "background": "Sonam Wangchuk, an innovator and education reformer, has been a prominent voice for environmental and constitutional rights in Ladakh. His hunger strikes and protests often highlight issues concerning the region's unique ecosystem and its people's demands.",
+      "examRelevance": "Sonam Wangchuk focused on justice for students arrested after Ladakh incident.",
+      "tags": [
+        "Sonam Wangchuk",
+        "Ladakh",
+        "Student Protests",
+        "FIRs",
+        "Justice"
+      ],
+      "source": {
+        "title": "Did not cut any deal with government: Sonam Wangchuk",
+        "url": "https://www.thehindu.com/news/national/did-not-cut-any-deal-with-government-sonam-wangchuk/article71263954.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q11",
+      "question": "After how many days of weather-related halt did the Amarnath Yatra recently resume?",
+      "options": [
+        "Five days",
+        "Three days",
+        "Ten days",
+        "Six days"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "The Amarnath Yatra, a significant pilgrimage, resumed after a six-day halt due to adverse weather conditions. Following the resumption, over 6,000 pilgrims departed from Jammu.",
+      "background": "The Amarnath Yatra is an annual pilgrimage to the Amarnath Cave Shrine in Jammu and Kashmir, typically undertaken during the monsoon months. It often faces disruptions due to unpredictable weather, including heavy rainfall and landslides in the mountainous terrain.",
+      "examRelevance": "Amarnath Yatra resumed after a six-day halt.",
+      "tags": [
+        "Amarnath Yatra",
+        "Jammu and Kashmir",
+        "Pilgrimage",
+        "Weather Halt"
+      ],
+      "source": {
+        "title": "Amarnath Yatra resumes after six-day weather halt",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/amarnath-yatra-resumes-after-six-day-weather-halt/article71265111.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q12",
+      "question": "Which former Law Minister and leader of the AIADMK rebel camp recently stayed away from an official review meeting for Villupuram?",
+      "options": [
+        "Edappadi K. Palaniswami",
+        "O. Panneerselvam",
+        "R. Kamaraj",
+        "C.Ve. Shanmugam"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Former Law Minister and leader of the AIADMK rebel camp, C.Ve. Shanmugam, recently stayed away from an official review meeting for Villupuram. This absence highlighted deepening cracks within the AIADMK dissidents' camp.",
+      "background": "The All India Anna Dravida Munnetra Kazhagam (AIADMK) has been facing internal strife and factionalism since the demise of its former leader J. Jayalalithaa. Infighting among various leaders for control of the party is a recurring theme in Tamil Nadu politics.",
+      "examRelevance": "C.Ve. Shanmugam stayed away from AIADMK meeting.",
+      "tags": [
+        "AIADMK",
+        "C.Ve. Shanmugam",
+        "Tamil Nadu Politics",
+        "Political Faction"
+      ],
+      "source": {
+        "title": "Cracks deepen in AIADMK dissidents’ camp",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/cracks-deepen-in-aiadmk-dissidents-camp/article71262780.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q13",
+      "question": "Which Indian state ranks second in RuPay card usage under the Pradhan Mantri Jan Dhan Yojana (PMJDY), as per data from the Union Finance Ministry?",
+      "options": [
+        "West Bengal",
+        "Maharashtra",
+        "Bihar",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Bihar ranks second in RuPay card usage under the Pradhan Mantri Jan Dhan Yojana (PMJDY) across the country. The state accounts for 4.98 crore RuPay card holders under this scheme, as revealed by data released by the Union Finance Ministry.",
+      "background": "The Pradhan Mantri Jan Dhan Yojana (PMJDY) is a national mission for financial inclusion launched in 2014, aiming to provide access to financial services like banking, savings, credit, insurance, and pensions. RuPay cards are indigenous debit cards issued under this scheme.",
+      "examRelevance": "Bihar ranks second in RuPay card usage under PMJDY.",
+      "tags": [
+        "Bihar",
+        "RuPay Card",
+        "PMJDY",
+        "Financial Inclusion",
+        "Union Finance Ministry"
+      ],
+      "source": {
+        "title": "Bihar ranks second in RuPay card usage under PMJDY in the country",
+        "url": "https://www.thehindu.com/news/national/bihar/bihar-ranks-second-in-rupay-card-usage-under-pmjdy-in-the-country/article71263100.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q14",
+      "question": "Which Indian judicial body is set to hear petitions against alleged police excesses during the recent 'Sansad Chalo' march led by the Cockroach Janta Party (CJP)?",
+      "options": [
+        "Delhi High Court",
+        "National Human Rights Commission",
+        "Central Bureau of Investigation",
+        "Supreme Court"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court is set to hear petitions against alleged police excesses during the 'Sansad Chalo' march led by the Cockroach Janta Party (CJP). Counsel informed the court that police are continuing to use excessive force against student protesters.",
+      "background": "The 'Sansad Chalo' march was organized by students and various groups, including the CJP, to protest against examination-related irregularities and demand accountability. Allegations of police brutality during such protests often lead to judicial intervention to uphold fundamental rights.",
+      "examRelevance": "Supreme Court to hear petitions on police excesses at CJP march.",
+      "tags": [
+        "Supreme Court",
+        "CJP March",
+        "Police Excesses",
+        "Student Protests",
+        "Judiciary"
+      ],
+      "source": {
+        "title": "Supreme Court to hear petitions against alleged police excesses at CJP march",
+        "url": "https://www.thehindu.com/news/national/media-reports-reckless-no-plea-related-to-cjp-led-protests-filed-cji/article71261480.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q15",
+      "question": "Which student organization called for a 'Bihar Bandh' on July 25 to protest against the alleged police lathi charge on students demonstrating against the NEET paper leak?",
+      "options": [
+        "Akhil Bharatiya Vidyarthi Parishad (ABVP)",
+        "Students' Federation of India (SFI)",
+        "All India Students' Association (AISA)",
+        "National Students' Union of India (NSUI)"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The All India Students' Association (AISA) called for a 'Bihar Bandh' on July 25. This protest was organized against the alleged police lathi charge on students demonstrating in Bihar against the NEET paper leak.",
+      "background": "Protests against alleged paper leaks and examination irregularities, particularly in national-level exams like NEET, have been widespread. Student organizations often mobilize such bandhs and demonstrations to exert pressure on the government and demand justice for affected students.",
+      "examRelevance": "AISA called for 'Bihar Bandh' on July 25 against police lathi charge.",
+      "tags": [
+        "AISA",
+        "Bihar Bandh",
+        "NEET Paper Leak",
+        "Student Protests",
+        "Police Lathi Charge"
+      ],
+      "source": {
+        "title": "AISA calls for ‘Bihar Bandh’ on July 25, against police lathi charge on protesting students",
+        "url": "https://www.thehindu.com/news/national/bihar/aisa-calls-for-bihar-bandh-on-july-25/article71262933.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q16",
+      "question": "Who among the following, a former chief dealer at Axis Mutual Fund, has recently been barred from the securities market by SEBI for seven years?",
+      "options": [
+        "Viresh Joshi",
+        "Nitin Kumar",
+        "Suresh Mehta",
+        "Rahul Sharma"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "SEBI has barred Viresh Joshi, the former chief dealer at Axis Mutual Fund, from the securities market for seven years. This action was taken due to alleged irregularities during his tenure.",
+      "background": "The Securities and Exchange Board of India (SEBI) is the regulatory body for the securities market in India. It frequently takes action against individuals and entities found to be involved in market manipulation, insider trading, or other violations to maintain market integrity.",
+      "examRelevance": "SEBI bars former Axis MF chief dealer Viresh Joshi for 7 years.",
+      "tags": [
+        "SEBI",
+        "Viresh Joshi",
+        "Axis Mutual Fund",
+        "Securities Market",
+        "Regulation"
+      ],
+      "source": {
+        "title": "SEBI bars former Axis MF chief dealer Viresh Joshi from market for 7 years",
+        "url": "https://indianexpress.com/article/business/sebi-bars-former-axis-mf-chief-dealer-viresh-joshi-from-market-for-7-years-10802656/"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q17",
+      "question": "On the occasion of Income Tax Day 2026, which Union Minister stated that \"honest taxpayers partner in India’s growth\" and should be allowed to correct bona fide errors?",
+      "options": [
+        "Rajnath Singh",
+        "Amit Shah",
+        "Piyush Goyal",
+        "Nirmala Sitharaman"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "On Income Tax Day 2026, Union Finance Minister Nirmala Sitharaman stated that \"honest taxpayers partner in India’s growth\" and emphasized the need to allow them to correct bona fide errors in their tax filings.",
+      "background": "Income Tax Day is observed annually to commemorate the introduction of income tax in India. The Finance Minister's statements often reflect the government's approach towards taxation, taxpayer facilitation, and economic policy.",
+      "examRelevance": "FM Nirmala Sitharaman's statement on Income Tax Day 2026.",
+      "tags": [
+        "Nirmala Sitharaman",
+        "Income Tax Day",
+        "Taxpayers",
+        "Economy",
+        "Finance Minister"
+      ],
+      "source": {
+        "title": "Honest taxpayers partner in India’s growth, let them correct bona fide errors, says FM",
+        "url": "https://indianexpress.com/article/business/fm-nirmala-sitharaman-honest-taxpayers-bona-fide-errors-income-tax-day-2026-10802653/"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q18",
+      "question": "In which city did a devotee recently die due to suffocation amid a massive rush during the Lord Jagannath return procession (Bahuda Yatra)?",
+      "options": [
+        "Bhubaneswar",
+        "Konark",
+        "Cuttack",
+        "Puri"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "A devotee died of suffocation in Puri amid a massive rush during the Lord Jagannath return procession, also known as Bahuda Yatra. The incident highlights concerns regarding crowd management during large religious gatherings.",
+      "background": "The Rath Yatra (Chariot Festival) and Bahuda Yatra (Return Car Festival) of Lord Jagannath, Balabhadra, and Subhadra in Puri, Odisha, are among the most significant Hindu festivals. They attract millions of devotees, necessitating extensive crowd control measures.",
+      "examRelevance": "Devotee died in Puri during Lord Jagannath Bahuda Yatra.",
+      "tags": [
+        "Puri",
+        "Lord Jagannath",
+        "Bahuda Yatra",
+        "Religious Festival",
+        "Odisha"
+      ],
+      "source": {
+        "title": "Devotee dies of ‘suffocation’ in Puri amid massive rush for Lord Jagannath return procession",
+        "url": "https://indianexpress.com/article/india/puri-bahuda-yatra-devotee-dies-crowd-rush-lord-jagannath-return-procession-10802626/"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q19",
+      "question": "Which country's military recently reported intercepting seven missiles and six drones launched by Iran, as the US expands its scope of attacks?",
+      "options": [
+        "Bahrain",
+        "Jordan",
+        "Saudi Arabia",
+        "Kuwait"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Jordan's military recently intercepted seven missiles and six drones that were launched by Iran. This incident occurred amidst reports of the US gradually expanding the scope of its attacks on Iran.",
+      "background": "The ongoing tensions in West Asia involve various military actions and counter-actions. Iran has claimed attacks on US bases in the region, leading to intercepts and heightened military alerts among regional allies of the US.",
+      "examRelevance": "Jordan's military intercepted missiles and drones launched by Iran.",
+      "tags": [
+        "Jordan",
+        "Iran",
+        "Missile Interception",
+        "Drones",
+        "West Asia Conflict"
+      ],
+      "source": {
+        "title": "US gradually expands scope of its attacks on Iran",
+        "url": "https://economictimes.indiatimes.com/news/defence/us-gradually-expands-the-scope-of-its-attacks-on-iran/articleshow/132617914.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q20",
+      "question": "On what date are Delhi University colleges scheduled to reopen, a factor that influenced the government's communication with Sonam Wangchuk's team to wind up the protests?",
+      "options": [
+        "August 1",
+        "July 28",
+        "July 25",
+        "July 30"
+      ],
+      "answerIndex": 1,
+      "category": "Dates & Days",
+      "explanation": "Delhi University colleges are scheduled to reopen on July 28. This upcoming date, along with the approaching weekend, influenced the government to hasten communication channels with the CJP team and Sonam Wangchuk to ensure the protest was concluded.",
+      "background": "The government often considers the broader implications of prolonged protests, including their impact on academic schedules and public order. The reopening of major universities can bring a new dynamic to student movements.",
+      "examRelevance": "Delhi University colleges to reopen on July 28.",
+      "tags": [
+        "Delhi University",
+        "College Reopening",
+        "Sonam Wangchuk",
+        "Student Protests",
+        "July 28"
+      ],
+      "source": {
+        "title": "Woken from sleep to witness Wangchuk end fast, says Ladakh leader",
+        "url": "https://www.thehindu.com/news/national/woken-from-sleep-to-witness-wangchuk-end-fast-says-ladakh-leader/article71263103.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q21",
+      "question": "Which country recently announced its decision to lift the ban on imports of Mexican cattle?",
+      "options": [
+        "China",
+        "Canada",
+        "United States",
+        "European Union"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The United States recently announced that it will lift the ban on imports of Mexican cattle. This decision marks a significant development in trade relations between the two countries.",
+      "background": "Trade bans on agricultural products are often implemented due to concerns over animal health, disease outbreaks, or sanitary standards. The lifting of such bans typically follows negotiations and assurances regarding compliance with import requirements.",
+      "examRelevance": "US to lift ban on imports of Mexican cattle.",
+      "tags": [
+        "United States",
+        "Mexico",
+        "Cattle Imports",
+        "Trade Ban",
+        "International Trade"
+      ],
+      "source": {
+        "title": "US to lift ban on imports of Mexican cattle",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-says-it-will-lift-ban-on-imports-of-mexican-cattle/articleshow/132617804.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q22",
+      "question": "Prime Minister Narendra Modi's recent outreach to the youth came four days after thousands of students led by which party took part in the 'Sansad Chalo' march?",
+      "options": [
+        "Students' Federation of India (SFI)",
+        "National Students' Union of India (NSUI)",
+        "Cockroach Janta Party (CJP)",
+        "All India Students' Association (AISA)"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Prime Minister Narendra Modi's outreach to the youth followed four days after thousands of students, led by the Cockroach Janta Party (CJP), participated in the 'Sansad Chalo' march. The march was organized to press for the resignation of Union Education Minister Dharmendra Pradhan over examination-related irregularities.",
+      "background": "Student protests against alleged paper leaks and irregularities in competitive exams have been prominent across India. The 'Sansad Chalo' march to Parliament Square was a significant demonstration of this discontent, leading to government responses and public engagement.",
+      "examRelevance": "CJP led 'Sansad Chalo' march, demanding Dharmendra Pradhan's resignation.",
+      "tags": [
+        "PM Modi",
+        "Youth Outreach",
+        "Cockroach Janta Party",
+        "Sansad Chalo March",
+        "Dharmendra Pradhan",
+        "Student Protests"
+      ],
+      "source": {
+        "title": "PM Modi thanks people for responses, positive suggestions received for midnight video",
+        "url": "https://www.thehindu.com/news/national/pm-modi-thanks-people-for-responses-positive-suggestions-received-for-midnight-video/article71265125.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q23",
+      "question": "Prime Minister Narendra Modi recently raised the issue of the safety of Indian sailors during a meeting with which world leader?",
+      "options": [
+        "Chinese President Xi Jinping",
+        "US President Trump",
+        "Saudi King Salman",
+        "Iranian President"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The Indian government confirmed that Prime Minister Narendra Modi raised the issue of the safety of Indian sailors during his recent meeting with US President Trump. This discussion likely pertained to the security situation in international waters.",
+      "background": "The safety of Indian seafarers in conflict zones and piracy-prone areas is a recurring concern for the Indian government. Diplomatic engagements are often used to address such issues with global powers and ensure the protection of Indian citizens abroad.",
+      "examRelevance": "PM Modi discussed Indian sailors' safety with US President Trump.",
+      "tags": [
+        "PM Modi",
+        "US President Trump",
+        "Indian Sailors",
+        "International Relations",
+        "Maritime Safety"
+      ],
+      "source": {
+        "title": "PM raised Indian sailors' safety with Trump: Govt",
+        "url": "https://economictimes.indiatimes.com/news/india/pm-modi-raised-issue-of-safety-of-india-sailors-during-recent-meet-with-trump-govt-to-ls/articleshow/132617770.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q24",
+      "question": "Iran recently rejected US pressure tactics at a summit of which international organization, stating it \"will not bow to bullying\"?",
+      "options": [
+        "Shanghai Cooperation Organisation (SCO)",
+        "BRICS",
+        "G7",
+        "United Nations (UN)"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Iran recently rejected US pressure tactics during the Shanghai Cooperation Organisation (SCO) summit, asserting that it \"will not bow to bullying.\" This statement highlights Iran's stance on its sovereignty and international relations.",
+      "background": "The Shanghai Cooperation Organisation (SCO) is a Eurasian political, economic, and security organization, which includes member states like China, India, Russia, and Pakistan. Iran's participation in such forums allows it to voice its geopolitical positions and build alliances.",
+      "examRelevance": "Iran rejected US tactics at SCO summit.",
+      "tags": [
+        "Iran",
+        "US",
+        "Shanghai Cooperation Organisation",
+        "SCO",
+        "International Relations"
+      ],
+      "source": {
+        "title": "'Will not bow to bullying': Iran rejects US tactics",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/will-not-bow-to-us-bullying-iran-rejects-washingtons-pressure-tactics-at-sco-summit/articleshow/132617743.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q25",
+      "question": "According to Iran's military, which three countries recently had US bases attacked by Iran?",
+      "options": [
+        "Saudi Arabia, UAE, and Qatar",
+        "Bahrain, Jordan, and Kuwait",
+        "Iraq, Syria, and Lebanon",
+        "Oman, Yemen, and Egypt"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Iran’s military recently stated that it attacked U.S. bases in Bahrain, Jordan, and Kuwait. This claim comes amid escalating tensions and military exchanges in the West Asia region.",
+      "background": "The West Asia region has been a hotbed of geopolitical conflict, with various state and non-state actors involved. Attacks on military bases in the region are often part of broader strategic maneuvers and retaliatory actions.",
+      "examRelevance": "Iran's military claims attacks on US bases in Bahrain, Jordan, Kuwait.",
+      "tags": [
+        "Iran",
+        "US Bases",
+        "Bahrain",
+        "Jordan",
+        "Kuwait",
+        "West Asia Conflict"
+      ],
+      "source": {
+        "title": "West Asia war updates: Iran’s military says attacked U.S. bases in Bahrain, Jordan, Kuwait",
+        "url": "https://www.thehindu.com/news/international/us-strikes-iran-shipping-routes-clashes-strait-of-hormuz-live-updates-july-24-2026/article71260769.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q26",
+      "question": "Approximately how many people have been evacuated due to wildfires spinning out of control in France and Spain?",
+      "options": [
+        "Over 50,000",
+        "Over 2,00,000",
+        "Over 1,66,000",
+        "Over 1,00,000"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Over 1,66,000 people have been evacuated as wildfires continue to spin out of control in France and Spain. French President Emmanuel Macron has asked the army to mobilize to help contain the blazes.",
+      "background": "Southern Europe, particularly France and Spain, frequently experiences severe wildfires during dry summer months, often exacerbated by heatwaves and climate change. These events lead to large-scale evacuations and significant environmental damage.",
+      "examRelevance": "Over 1,66,000 evacuated due to wildfires in France and Spain.",
+      "tags": [
+        "Wildfires",
+        "France",
+        "Spain",
+        "Evacuation",
+        "Environment",
+        "Natural Disaster"
+      ],
+      "source": {
+        "title": "Over 1,66,000 evacuated as wildfires spin out of control in France, Spain",
+        "url": "https://www.thehindu.com/news/international/166000-evacuated-as-wildfires-spin-out-of-control-in-france-spain/article71264193.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q27",
+      "question": "Candidates from which tribal language group are seeking a re-test of the Jharkhand staff selection exam due to alleged 'out of syllabus' questions and errors?",
+      "options": [
+        "Mundari",
+        "Oraon",
+        "Ho",
+        "Santhali"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Santhali candidates are seeking a re-test of the Jharkhand staff selection exam due to allegations of 'out of syllabus' questions and errors in the examination paper. This demand highlights concerns about fairness and transparency in state recruitment processes.",
+      "background": "Competitive examinations conducted by state staff selection commissions are crucial for government job aspirants. Issues like syllabus deviations and question errors can undermine the credibility of these exams and lead to widespread protests among candidates.",
+      "examRelevance": "Santhali candidates seek re-test of Jharkhand staff selection exam.",
+      "tags": [
+        "Santhali",
+        "Jharkhand",
+        "Staff Selection Exam",
+        "Paper Errors",
+        "Protest"
+      ],
+      "source": {
+        "title": "‘Out of syllabus’, ‘errors’ in questions: Why Santhali candidates are seeking re-test of Jharkhand staff selection exam",
+        "url": "https://indianexpress.com/article/india/out-of-syllabus-errors-in-questions-why-santhali-candidates-are-seeking-re-test-of-jharkhand-staff-selection-exam-10802471/"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q28",
+      "question": "Which company recently launched its Starship on a test flight carrying the most advanced Starlink satellites?",
+      "options": [
+        "SpaceX",
+        "United Launch Alliance",
+        "NASA",
+        "Blue Origin"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "SpaceX recently launched its Starship on another test flight, this time carrying the most advanced Starlink satellites. This launch marks a significant step in the development of both Starship and the Starlink satellite internet constellation.",
+      "background": "Starship is SpaceX's fully reusable super heavy-lift launch vehicle and spacecraft, designed for interplanetary travel and satellite deployment. Starlink is a satellite internet constellation operated by SpaceX, providing satellite internet access to over 60 countries.",
+      "examRelevance": "SpaceX launched Starship with advanced Starlink satellites.",
+      "tags": [
+        "SpaceX",
+        "Starship",
+        "Starlink",
+        "Satellite Launch",
+        "Space Technology"
+      ],
+      "source": {
+        "title": "SpaceX launches Starship on another test flight, this time with the most advanced Starlinks",
+        "url": "https://www.thehindu.com/sci-tech/science/spacex-launches-starship-on-another-test-flight-this-time-with-the-most-advanced-starlinks/article71264817.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q29",
+      "question": "The Union Cabinet recently approved a draft bill for stricter punishments in paper leak cases, proposing a maximum jail term of how many years and a fine of how much?",
+      "options": [
+        "3 years and Rs 50 lakh fine",
+        "7 years and Rs 5 crore fine",
+        "5 years and Rs 1 crore fine",
+        "10 years and Rs 10 crore fine"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Union Cabinet recently approved a draft bill for stricter punishments in paper leak cases, proposing a maximum jail term of up to 10 years and a fine of Rs 10 crore. This tough new law aims to curb exam malpractices.",
+      "background": "In response to widespread paper leaks and protests, the Centre has taken steps to strengthen the legal framework against exam irregularities. This new bill is intended to act as a strong deterrent to those involved in such crimes.",
+      "examRelevance": "New anti-paper leak law: 10 years jail, Rs 10 crore fine.",
+      "tags": [
+        "Paper Leak Law",
+        "Union Cabinet",
+        "Punishment",
+        "Exam Reforms",
+        "Legislation"
+      ],
+      "source": {
+        "title": "Jail up to 10 years, Rs 10-cr fine for exam leak: Nod for tough new law",
+        "url": "https://indianexpress.com/article/india/jail-up-to-10-years-rs-10-cr-fine-for-exam-leak-nod-for-tough-new-law-10802451/"
+      }
+    },
+    {
+      "id": "daily-2026-07-25-q30",
+      "question": "Which private equity firm recently acquired Vitabiotics, a UK nutraceutical giant, along with India's Meyer Organics, in a deal valued at $850-900 million?",
+      "options": [
+        "Blackstone",
+        "KKR",
+        "Carlyle Group",
+        "Bain Capital"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Bain Capital recently acquired Vitabiotics, a UK nutraceutical giant, along with its Indian arm, Meyer Organics. The deal is valued at approximately $850-900 million.",
+      "background": "Private equity firms frequently engage in mergers and acquisitions to expand their portfolio and capitalize on growth opportunities in various sectors. The nutraceutical market, which combines nutrition and pharmaceuticals, has seen significant investment interest globally.",
+      "examRelevance": "Bain Capital acquired Vitabiotics and Meyer Organics for $850-900 million.",
+      "tags": [
+        "Bain Capital",
+        "Vitabiotics",
+        "Meyer Organics",
+        "Acquisition",
+        "Nutraceuticals"
+      ],
+      "source": {
+        "title": "Bain Capital acquires Vitabiotics",
+        "url": "https://economictimes.indiatimes.com/news/international/business/bain-capital-acquires-vitabiotics-uk-nutraceutical-giant-with-indias-meyer-organics-valued-at-850-900-million/articleshow/132614546.cms"
+      }
+    }
+  ]
+}
