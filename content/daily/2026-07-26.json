@@ -1,0 +1,789 @@
+{
+  "id": "daily-2026-07-26",
+  "type": "daily",
+  "date": "2026-07-26",
+  "title": "Current Affairs — 26 Jul 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-07-26-q1",
+      "question": "Kargil Vijay Diwas is observed annually on July 26 to commemorate the success of which Indian Army operation?",
+      "options": [
+        "Operation Blue Star",
+        "Operation Cactus",
+        "Operation Vijay",
+        "Operation Meghdoot"
+      ],
+      "answerIndex": 2,
+      "category": "Dates & Days",
+      "explanation": "Kargil Vijay Diwas is celebrated on July 26 each year to commemorate the Indian Army's victory in 'Operation Vijay' against Pakistan in the Kargil War of 1999. This year marks the 27th anniversary of the successful culmination of the nearly three-month-long battle on the icy heights of Kargil in Ladakh.",
+      "background": "The Kargil War took place between May and July 1999 in the Kargil district of Jammu and Kashmir (now Ladakh). The day honours the sacrifices of the soldiers who laid down their lives for the nation during the conflict.",
+      "examRelevance": "Kargil Vijay Diwas = July 26, commemorates Operation Vijay (1999).",
+      "tags": [
+        "Kargil Vijay Diwas",
+        "Operation Vijay",
+        "Indian Army",
+        "Ladakh",
+        "Defence"
+      ],
+      "source": {
+        "title": "Kargil Vijay Diwas: President Murmu, PM Modi lead nation to pay tributes to war heroes on 27th anniversary of ‘Operation Vijay’",
+        "url": "https://www.thehindu.com/news/national/kargil-vijay-diwas-political-leaders-pay-tributes-to-soldiers-operation-vijay-july-26-2026/article71268590.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q2",
+      "question": "Who has been appointed as the new Union Education Minister following the resignation of Dharmendra Pradhan?",
+      "options": [
+        "Rajnath Singh",
+        "Nirmala Sitharaman",
+        "Pralhad Joshi",
+        "Amit Shah"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Following the resignation of Dharmendra Pradhan as the Union Education Minister, President Droupadi Murmu accepted his resignation and appointed Pralhad Joshi to take charge of the Education Ministry. This development came amidst widespread student protests regarding alleged paper leaks.",
+      "background": "Dharmendra Pradhan's resignation was a key demand of student organizations like the Cockroach Janta Party (CJP) protesting against alleged irregularities in competitive examinations, particularly the NEET paper leak.",
+      "examRelevance": "Pralhad Joshi = New Union Education Minister.",
+      "tags": [
+        "Pralhad Joshi",
+        "Dharmendra Pradhan",
+        "Union Education Minister",
+        "Appointments",
+        "Polity"
+      ],
+      "source": {
+        "title": "Jantar Mantar protest updates: President accepts Dharmendra Pradhan's resignation, Pralhad Joshi to take charge of Education Ministry",
+        "url": "https://www.thehindu.com/news/national/jantar-mantar-delhi-student-protest-cjp-government-talks-sonam-wangchuk-hunger-strike-live-updates-july-25-2026/article71265108.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q3",
+      "question": "What is the newly permitted maximum value for Indian currency notes of Rs 200 and Rs 500 denominations that Indian and Nepalese nationals can carry into or out of Nepal, provided they were issued after November 9, 2016?",
+      "options": [
+        "Rs 50,000",
+        "Rs 5,000",
+        "Rs 10,000",
+        "Rs 25,000"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Nepal Rastra Bank (NRB) has issued a notice permitting Indian and Nepalese nationals to carry Indian currency notes of Rs 200 and Rs 500 denominations, issued on or after November 9, 2016, up to a value of Rs 25,000 when entering or leaving Nepal. Indian currency notes of Rs 500 and Rs 1,000 denominations issued before November 9, 2016, remain prohibited.",
+      "background": "This rule change aims to streamline currency exchange and usage for individuals traveling between India and Nepal, addressing previous ambiguities regarding the legality of certain Indian denominations post-demonetisation.",
+      "examRelevance": "Nepal allows Rs 25,000 in post-2016 Rs 200/500 Indian notes.",
+      "tags": [
+        "Nepal",
+        "Indian Currency",
+        "Nepal Rastra Bank",
+        "International Relations",
+        "Economy"
+      ],
+      "source": {
+        "title": "Nepal changes rule for Indian currency",
+        "url": "https://economictimes.indiatimes.com/nri/invest/nepal-allows-citizens-indians-to-carry-up-to-rs-25000-in-post-2016-indian-currency-notes/articleshow/132636177.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q4",
+      "question": "Which country issued a red alert and evacuated over 340,000 people as Typhoon Noul approached and made landfall?",
+      "options": [
+        "Vietnam",
+        "Japan",
+        "Philippines",
+        "China"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "China issued a red alert and subsequently evacuated over 340,000 people as Typhoon Noul approached and made landfall in its southern regions. The typhoon led to the cancellation of more than 150 flights at Hong Kong airport, indicating its severe impact.",
+      "background": "Typhoons are a type of tropical cyclone that forms in the Northwest Pacific Ocean. Red alerts are the highest level of warning issued by meteorological agencies, indicating severe weather conditions requiring immediate action.",
+      "examRelevance": "China = issued red alert for Typhoon Noul, evacuated 3.4 lakh people.",
+      "tags": [
+        "Typhoon Noul",
+        "China",
+        "Red Alert",
+        "Natural Disaster",
+        "Evacuation"
+      ],
+      "source": {
+        "title": "China issues red alert as Typhoon Noul approaches",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/china-issues-red-alert-as-typhoon-noul-approaches/articleshow/132635724.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q5",
+      "question": "Who recently became the first Indian to win the World Junior Squash Championship?",
+      "options": [
+        "Joshna Chinappa",
+        "Anahat Singh",
+        "Dipika Pallikal",
+        "Saurav Ghosal"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Anahat Singh has created history by becoming the first Indian to win the World Junior Squash Championship. This achievement marks a significant milestone for Indian squash on the global stage, highlighting her exceptional talent and dedication.",
+      "background": "Anahat Singh had previously reached the World Junior Squash Championship final, a feat not achieved by an Indian since 2005. Her victory now elevates her to the status of a world champion in the junior category.",
+      "examRelevance": "Anahat Singh = First Indian World Junior Squash Champion.",
+      "tags": [
+        "Anahat Singh",
+        "Squash",
+        "World Junior Championship",
+        "Sports",
+        "India"
+      ],
+      "source": {
+        "title": "Anahat: First Indian world junior squash champ",
+        "url": "https://economictimes.indiatimes.com/news/sports/other-sports/anahat-singh-becomes-first-indian-world-junior-squash-champion/articleshow/132632313.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q6",
+      "question": "How many FIFA World Cup titles has the Spanish football team now won after their recent victory?",
+      "options": [
+        "Three",
+        "Two",
+        "Four",
+        "One"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "The Spanish football team, known as La Roja, recently won their second football World Cup. Their victory showcased a blend of aggressive defence, precise attack, and an adaptable style, building on their timeless philosophy of control.",
+      "background": "Spain is renowned for its tiki-taka style of play, emphasizing possession and short passing. Their previous World Cup victory was in 2010, making this latest win a significant addition to their footballing legacy.",
+      "examRelevance": "Spanish football team = Won second FIFA World Cup.",
+      "tags": [
+        "Spanish Football Team",
+        "FIFA World Cup",
+        "La Roja",
+        "Football",
+        "Sports"
+      ],
+      "source": {
+        "title": "Spanish football team | Masters of the midfield",
+        "url": "https://www.thehindu.com/sport/football/spanish-football-team-masters-of-the-midfield/article71267179.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q7",
+      "question": "Which ancient site in India has recently been designated as a UNESCO World Heritage Site after being on the tentative list for 28 years?",
+      "options": [
+        "Sarnath",
+        "Fatehpur Sikri",
+        "Hampi",
+        "Konark Sun Temple"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "Sarnath, a significant Buddhist pilgrimage site in Uttar Pradesh, has been officially designated as a UNESCO World Heritage Site. This recognition comes after the site had been on UNESCO's tentative list for 28 years, highlighting its global cultural and historical importance.",
+      "background": "Sarnath is where Gautama Buddha first taught the Dharma after attaining enlightenment. It is one of the four main Buddhist pilgrimage sites, alongside Lumbini, Bodh Gaya, and Kushinagar.",
+      "examRelevance": "Sarnath = UNESCO World Heritage Site.",
+      "tags": [
+        "Sarnath",
+        "UNESCO",
+        "World Heritage Site",
+        "Buddhism",
+        "Uttar Pradesh"
+      ],
+      "source": {
+        "title": "28 years on tentative list, Sarnath now a UNESCO World Heritage Site",
+        "url": "https://indianexpress.com/article/india/28-years-on-tentative-list-sarnath-now-a-unesco-world-heritage-site-10803785/"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q8",
+      "question": "Telangana Chief Minister Revanth Reddy announced his intention to push for reducing the contesting age for which elected positions to 21 years?",
+      "options": [
+        "Governor and President",
+        "Chief Minister and Prime Minister",
+        "Sarpanch and Councillor",
+        "MLA and MP"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Telangana Chief Minister Revanth Reddy stated that the Assembly in August would pass a resolution to reduce the contesting age for Member of Legislative Assembly (MLA) and Member of Parliament (MP) to 21 years. He plans to send this resolution to Prime Minister Narendra Modi.",
+      "background": "The Chief Minister recalled that former Prime Minister Rajiv Gandhi reduced the voting age from 21 to 18 through the 61st Constitutional Amendment, recognizing the importance of youth participation in democracy.",
+      "examRelevance": "Telangana CM Revanth Reddy = Push to reduce MLA/MP contesting age to 21.",
+      "tags": [
+        "Telangana",
+        "Revanth Reddy",
+        "MLA",
+        "MP",
+        "Contesting Age"
+      ],
+      "source": {
+        "title": "Credit to Gen Z for making the Centre bow down: Telangana CM",
+        "url": "https://www.thehindu.com/news/national/telangana/credit-to-gen-z-for-making-the-centre-bow-down-revanth-reddy/article71267151.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q9",
+      "question": "Canva founders Melanie Perkins and Cliff Obrecht are donating $150 million to establish what is touted as the world's largest unconditional cash transfer program in a low-income country. What is the total amount being donated?",
+      "options": [
+        "$200 million",
+        "$150 million",
+        "$100 million",
+        "$50 million"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Melanie Perkins and Cliff Obrecht, the founders of Canva, are donating $150 million to fund what is described as the world's largest unconditional cash transfer program. This initiative aims to provide direct financial aid with no conditions in a low-income country.",
+      "background": "Unconditional cash transfers are a form of social welfare provision where a government or organization regularly gives a sum of money to people without requiring them to do anything in return. They are often seen as an effective way to alleviate poverty and empower recipients.",
+      "examRelevance": "Canva founders = donating $150 million for unconditional cash transfer.",
+      "tags": [
+        "Canva",
+        "Melanie Perkins",
+        "Cliff Obrecht",
+        "Cash Transfer",
+        "Philanthropy"
+      ],
+      "source": {
+        "title": "Canva's $150million for world's biggest cash aid",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/canva-billionaires-melanie-perkins-and-cliff-obrecht-are-giving-away-150-million-in-cash-with-no-conditions-for-the-worlds-largest-unconditional-cash-transfer-program-in-a-low-income-country/articleshow/132635733.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q10",
+      "question": "The West Bengal Assembly recently passed a Bill that deprives which local elected officials of their financial powers?",
+      "options": [
+        "Zila Parishad Chairpersons",
+        "Block Development Officers",
+        "Panchayat Pradhans",
+        "Municipal Councillors"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The West Bengal Assembly passed a Bill with 169 votes in favour, effectively depriving Panchayat Pradhans of their financial powers. This legislative move alters the fiscal authority traditionally held by these local elected officials.",
+      "background": "Panchayat Pradhans are the elected heads of Gram Panchayats, the lowest tier of local self-governance in rural India. Such legislative changes can significantly impact local governance, accountability, and the operational autonomy of grassroots bodies.",
+      "examRelevance": "West Bengal Assembly = Passed Bill depriving Panchayat Pradhans of financial powers.",
+      "tags": [
+        "West Bengal Assembly",
+        "Panchayat Pradhans",
+        "Financial Powers",
+        "Local Governance",
+        "Polity"
+      ],
+      "source": {
+        "title": "West Bengal Assembly passes Bill depriving panchayat pradhans of financial powers",
+        "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-assembly-passes-bill-depriving-panchayat-pradhans-of-financial-powers/article71267136.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q11",
+      "question": "Who recently announced his retirement from active politics, handing over the party affairs to his son Anbumani Ramadoss?",
+      "options": [
+        "S. Ramadoss",
+        "M. Karunanidhi",
+        "K. Chandrashekar Rao",
+        "P. Chidambaram"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "S. Ramadoss, the founder of the Pattali Makkal Katchi (PMK) party, announced his retirement from active politics. He stated that his son, Anbumani Ramadoss, who is currently the PMK president, will now manage the party's affairs.",
+      "background": "S. Ramadoss founded PMK in 1989, focusing on the welfare of various communities in Tamil Nadu. Anbumani Ramadoss has served as a Union Health Minister and has been actively involved in the party for many years, indicating a smooth leadership transition.",
+      "examRelevance": "S. Ramadoss = PMK founder retires, Anbumani Ramadoss takes over.",
+      "tags": [
+        "S. Ramadoss",
+        "Anbumani Ramadoss",
+        "PMK",
+        "Political Retirement",
+        "Tamil Nadu"
+      ],
+      "source": {
+        "title": "PMK founder S. Ramadoss to retire from active politics",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/pmk-founder-s-ramadoss-to-retire-from-active-politics/article71267260.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q12",
+      "question": "The 11th phase of excavation at which archaeological site in Tamil Nadu recently unearthed more continuous brick structures and important features?",
+      "options": [
+        "Keeladi",
+        "Kodumanal",
+        "Arikamedu",
+        "Adichanallur"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "During the 11th phase of excavation, which began on March 18 this year, the Keeladi archaeological site in Tamil Nadu unearthed more continuous brick structures and other important features. These findings contribute to understanding the ancient Vaigai River civilization.",
+      "background": "Keeladi is an urban settlement of the Sangam Age on the banks of the Vaigai River. Excavations here have provided significant insights into the urbanisation, literacy, and cultural practices of ancient Tamil society, pushing back the timeline of Tamil civilization.",
+      "examRelevance": "Keeladi archaeological site = 11th phase excavation, continuous brick structures.",
+      "tags": [
+        "Keeladi",
+        "Archaeology",
+        "Tamil Nadu",
+        "Sangam Age",
+        "Excavation"
+      ],
+      "source": {
+        "title": "More brick structures, important features unearthed at Keeladi archaeological site in Tamil Nadu",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/more-brick-structures-important-features-unearthed-at-keeladi-archaeological-site-in-tamil-nadu/article71266815.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q13",
+      "question": "The 'Telugu Mahotsavam', a two-day event celebrating literature and heritage, recently began in which Indian state?",
+      "options": [
+        "Tamil Nadu",
+        "Telangana",
+        "Andhra Pradesh",
+        "Karnataka"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "The 'Telugu Mahotsavam', a two-day event dedicated to celebrating Telugu literature and heritage, recently commenced in Andhra Pradesh. It is organized by the Andhra Pradesh State Creativity and Culture Society with the aim of preserving and promoting the richness of the Telugu language and culture.",
+      "background": "Such cultural festivals play a vital role in fostering linguistic pride, encouraging artistic expression, and educating younger generations about their heritage. They serve as platforms for showcasing traditional arts and literature.",
+      "examRelevance": "Telugu Mahotsavam = began in Andhra Pradesh, promotes Telugu language/culture.",
+      "tags": [
+        "Telugu Mahotsavam",
+        "Andhra Pradesh",
+        "Culture",
+        "Literature",
+        "Heritage"
+      ],
+      "source": {
+        "title": "Telugu Mahotsavam begins with a celebration of literature and heritage",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/telugu-mahotsavam-begins-with-a-celebration-of-literature-and-heritage/article71266951.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q14",
+      "question": "According to recent reports, the U.S. naval blockade remains in 'full effect' against which country in the Strait of Hormuz?",
+      "options": [
+        "Saudi Arabia",
+        "Iran",
+        "Iraq",
+        "Yemen"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Recent reports indicate that the U.S. naval blockade against Iran remains in 'full effect' even as the two sides have paused airstrikes in the ongoing West Asia conflict. Iran's Guards also reported stopping four ships trying to transit the Strait of Hormuz, underscoring the tensions in the region.",
+      "background": "The Strait of Hormuz is a strategically vital waterway connecting the Persian Gulf with the Gulf of Oman and the Arabian Sea. It is a critical choke point for global oil shipments, making any conflict there a matter of international concern.",
+      "examRelevance": "U.S. naval blockade = against Iran in Strait of Hormuz.",
+      "tags": [
+        "US",
+        "Iran",
+        "Strait of Hormuz",
+        "Naval Blockade",
+        "West Asia Conflict"
+      ],
+      "source": {
+        "title": "West Asia war LIVE: U.S. naval blockade against Iran remains in 'full effect' even as the two sides pause airstrikes",
+        "url": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-paused-donald-trump-gulf-countries-strait-of-hormuz-live-updates-july-26-2026/article71268545.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q15",
+      "question": "An attack involving a van slamming into people gathered for an LGBTQIA+ event recently occurred in which major European city?",
+      "options": [
+        "Rome",
+        "London",
+        "Berlin",
+        "Paris"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "In Berlin, Germany, a van slammed into people gathered for an LGBTQIA+ event, resulting in at least one fatality and 16 injuries. Police investigations indicated that the suspect had ties to Islamic 'circles' in the German capital, raising concerns about potential extremist motives.",
+      "background": "Such incidents raise concerns about security at public gatherings and the rise of extremism targeting specific communities. The LGBTQIA+ community often faces threats and violence globally, making such events particularly sensitive.",
+      "examRelevance": "Berlin = site of van attack at LGBTQIA+ event.",
+      "tags": [
+        "Berlin",
+        "Germany",
+        "LGBTQIA+",
+        "Attack",
+        "International News"
+      ],
+      "source": {
+        "title": "At least one killed, 16 others injured as van slams into people gathered for Berlin's LGBTQIA+ event",
+        "url": "https://www.thehindu.com/news/international/germany-berlin-lgbtqia-event-van-accident-police-casualties-updates-july-26-2026/article71268535.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q16",
+      "question": "The Union Ministry recently ruled out a Metro Rail system for Coimbatore and Madurai, instead recommending which alternative public transport system?",
+      "options": [
+        "Monorail",
+        "High-Speed Rail",
+        "Bus Rapid Transit System (BRTS)",
+        "Light Rail Transit"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The Centre has once again ruled out the implementation of a Metro Rail system for Coimbatore and Madurai, stating that it would not offer significant time savings for commuters. Instead, the Ministry recommended strengthening the existing bus system, specifically suggesting a Bus Rapid Transit System (BRTS).",
+      "background": "BRTS involves dedicated lanes, priority signaling, and specialized buses to provide faster and more efficient bus services. It is often considered a more cost-effective and adaptable solution for urban transport compared to Metro Rail, especially for cities with specific demographic and traffic patterns.",
+      "examRelevance": "Centre = recommended BRTS for Coimbatore/Madurai, not Metro Rail.",
+      "tags": [
+        "Metro Rail",
+        "BRTS",
+        "Coimbatore",
+        "Madurai",
+        "Urban Transport"
+      ],
+      "source": {
+        "title": "Centre yet again rules out Metro Rail for Coimbatore and Madurai; recommends BRTS",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/centre-yet-again-rules-out-metro-rail-for-coimbatore-and-madurai-recommends-brts/article71266075.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q17",
+      "question": "In which newly constituted district has the District Legal Services Authority (DLSA) recently begun functioning to provide free legal aid?",
+      "options": [
+        "Kalaburagi",
+        "Mysuru",
+        "Vijayanagara",
+        "Bengaluru"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The newly constituted District Legal Services Authority (DLSA) has begun functioning in Vijayanagara district. Karnataka High Court Judge Justice Pradeep Singh Yerur stated that the DLSA aims to provide free legal aid to the poor and promote amicable settlement of disputes before they reach courts.",
+      "background": "The Legal Services Authorities Act, 1987, mandates the establishment of DLSAs in every district to provide free and competent legal services to eligible persons, ensuring access to justice for all, particularly the marginalized sections of society.",
+      "examRelevance": "Vijayanagara = new DLSA begins functioning.",
+      "tags": [
+        "Vijayanagara",
+        "DLSA",
+        "Legal Aid",
+        "Karnataka",
+        "Justice"
+      ],
+      "source": {
+        "title": "District Legal Services Authority begins functioning in Vijayanagara",
+        "url": "https://www.thehindu.com/news/national/karnataka/district-legal-services-authority-begins-functioning-in-vijayanagara/article71266429.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q18",
+      "question": "Which two public sector oil marketing companies recently launched 5kg and 10kg LPG cylinders in Chennai?",
+      "options": [
+        "ONGC and OIL",
+        "BPCL and GAIL",
+        "HPCL and IOCL",
+        "IBP and EIL"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Hindustan Petroleum Corporation Limited (HPCL) and Indian Oil Corporation Limited (IOCL) jointly launched 5kg and 10kg LPG cylinders in Chennai. These smaller cylinders aim to cater to diverse consumer needs, including smaller families and those requiring portable solutions, enhancing convenience and accessibility.",
+      "background": "LPG (Liquefied Petroleum Gas) cylinders are a common fuel source for cooking in Indian households. The introduction of smaller sizes offers more flexibility and accessibility to consumers, especially in urban areas or for migrant populations.",
+      "examRelevance": "HPCL & IOCL = launched 5kg/10kg LPG cylinders in Chennai.",
+      "tags": [
+        "HPCL",
+        "IOCL",
+        "LPG Cylinders",
+        "Chennai",
+        "Energy"
+      ],
+      "source": {
+        "title": "HPCL, IOCL launch 5kg, 10kg LPG cylinders in Chennai",
+        "url": "https://www.thehindu.com/news/cities/chennai/hpcl-iocl-launch-5kg-10kg-lpg-cylinders-in-chennai/article71267036.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q19",
+      "question": "Work has begun to construct a new 33/11 KV sub-station in which popular hill station in Tamil Nadu?",
+      "options": [
+        "Kodaikanal",
+        "Yercaud",
+        "Ooty",
+        "Yelagiri Hills"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Work has commenced on the construction of a new 33/11 KV sub-station in Yelagiri Hills, Tamil Nadu. Tangedco officials stated that this new sub-station will significantly improve the power supply infrastructure and enable immediate response to power faults in the region.",
+      "background": "Reliable electricity infrastructure is crucial for both residents and the tourism industry in hill stations, which often face challenges due to terrain and weather. Sub-stations play a key role in stepping down high voltage electricity for local distribution.",
+      "examRelevance": "Yelagiri Hills = new 33/11 KV sub-station under construction.",
+      "tags": [
+        "Yelagiri Hills",
+        "Sub-station",
+        "Tangedco",
+        "Power Infrastructure",
+        "Tamil Nadu"
+      ],
+      "source": {
+        "title": "Work to construct 33/11 KV sub-station in Yelagiri Hills begins",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/work-to-construct-3311-kv-sub-station-in-yelagiri-hills-begins/article71266557.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q20",
+      "question": "Protests over the Ken-Betwa project primarily highlight environmental concerns regarding its impact on which protected area?",
+      "options": [
+        "Bandhavgarh National Park",
+        "Pench Tiger Reserve",
+        "Kanha National Park",
+        "Panna Tiger Reserve"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Protests surrounding the Ken-Betwa project primarily focus on environmental concerns, particularly its potential impact on the Panna Tiger Reserve. Conservationists and tribal communities have raised issues regarding the displacement of people, compensation for affected families, and the ecological consequences for the wildlife habitat.",
+      "background": "The Ken-Betwa River Interlinking Project is India's first river interlinking project. It aims to transfer surplus water from the Ken river in Madhya Pradesh to the Betwa river in Uttar Pradesh to address drought in the Bundelkhand region, but faces significant environmental scrutiny.",
+      "examRelevance": "Ken-Betwa project protests = environmental impact on Panna Tiger Reserve.",
+      "tags": [
+        "Ken-Betwa Project",
+        "Panna Tiger Reserve",
+        "River Interlinking",
+        "Environment",
+        "Conservation"
+      ],
+      "source": {
+        "title": "Why are there protests over the Ken-Betwa project?",
+        "url": "https://www.thehindu.com/news/national/why-are-there-protests-over-the-ken-betwa-project/article71267449.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q21",
+      "question": "The inclusion of 'Kambala', a traditional buffalo race, in the upcoming Mysuru Dasara celebrations has sparked debate over its cultural significance and what other aspect?",
+      "options": [
+        "Cost",
+        "Venue",
+        "Participants",
+        "Duration"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "The proposal to include 'Kambala', a traditional buffalo race, in the Mysuru Dasara celebrations has generated debate, focusing on both its cultural significance and the associated costs. Preparations for laying a slush track and other facilities have already begun, raising questions about the financial implications.",
+      "background": "Kambala is an annual buffalo race held in the coastal districts of Karnataka. It is a traditional sport deeply embedded in the local culture, but has also faced scrutiny regarding animal welfare and organizational expenses, leading to ongoing discussions.",
+      "examRelevance": "Kambala in Mysuru Dasara = debate over culture and cost.",
+      "tags": [
+        "Kambala",
+        "Mysuru Dasara",
+        "Karnataka",
+        "Traditional Sport",
+        "Culture"
+      ],
+      "source": {
+        "title": "Kambala in Mysuru Dasara: Debate over culture and cost",
+        "url": "https://www.thehindu.com/news/national/karnataka/kambalain-mysuru-dasara-debate-over-culture-and-cost/article71265958.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q22",
+      "question": "Which writer, remembered for exposing injustice, was recently commemorated on his 14th death anniversary in Kalaburagi?",
+      "options": [
+        "U.R. Ananthamurthy",
+        "Shivaram Karanth",
+        "Linganna Satyampete",
+        "Kuvempu"
+      ],
+      "answerIndex": 2,
+      "category": "Obituaries",
+      "explanation": "Writer Linganna Satyampete, known for his impactful works exposing injustice in society, was remembered on his 14th death anniversary. The commemorative event was organized by Sharana Marga Charitable Trust in Kalaburagi, honoring his literary and social contributions.",
+      "background": "Linganna Satyampete was a prominent literary figure whose writings often highlighted social issues and advocated for justice, making a significant impact on Kannada literature and social discourse. His work continues to inspire discussions on societal inequalities.",
+      "examRelevance": "Linganna Satyampete = writer, 14th death anniversary, remembered in Kalaburagi.",
+      "tags": [
+        "Linganna Satyampete",
+        "Writer",
+        "Obituary",
+        "Kalaburagi",
+        "Kannada Literature"
+      ],
+      "source": {
+        "title": "Writer Linganna Satyampete remembered for exposing injustice",
+        "url": "https://www.thehindu.com/news/national/karnataka/writer-linganna-satyampete-remembered-for-exposing-injustice/article71266718.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q23",
+      "question": "The jail diary of which slain Ayatollah is reportedly selling well at this year's Kashmir book festival, due to increased interest in Iran's spiritual leadership?",
+      "options": [
+        "Ayatollah Ali Sistani",
+        "Ayatollah Ali Khamenei",
+        "Ayatollah Ruhollah Khomeini",
+        "Ayatollah Mohammad Beheshti"
+      ],
+      "answerIndex": 1,
+      "category": "Books & Authors",
+      "explanation": "The jail diary of the slain Ayatollah Ali Khamenei is reportedly selling like hotcakes at this year's Kashmir book festival. The ongoing conflict between Iran and the U.S. has generated significant interest among readers in Kashmir to learn about Iran's spiritual leadership and its historical context.",
+      "background": "Ayatollah Ali Khamenei was a prominent figure in Iran's political and religious landscape. His writings and experiences offer insights into the ideological underpinnings of the Iranian state and its revolutionary history.",
+      "examRelevance": "Ayatollah Ali Khamenei's jail diary = popular at Kashmir book festival.",
+      "tags": [
+        "Ayatollah Ali Khamenei",
+        "Jail Diary",
+        "Kashmir Book Festival",
+        "Iran",
+        "Books"
+      ],
+      "source": {
+        "title": "Slain Ayatollah Ali Khamenei’s jail diary sells like hot cakes in this year’s Kashmir book festival",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/slain-ayatollah-ali-khameneis-jail-diary-sells-like-hot-cakes-in-this-years-kashmir-book-festival/article71266791.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q24",
+      "question": "Haryana recently completed Phase-I of its State Identity Register (SIR) project, leaving out over 33 lakh names due to reasons like relocation, death, and duplication. What is the approximate number of names left out?",
+      "options": [
+        "40 lakh",
+        "50 lakh",
+        "33 lakh",
+        "20 lakh"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Haryana has completed Phase-I of its State Identity Register (SIR) project. During this phase, over 33 lakh names were left out of the register due to various reasons, including relocation, death, and duplication. The CEO mentioned that 20,629 Booth Level Officers distributed forms to over 2 crore electors.",
+      "background": "The SIR aims to create a comprehensive database of residents within the state, crucial for efficient governance, service delivery, and election management. Such large-scale exercises often encounter challenges related to data accuracy and updating, leading to discrepancies.",
+      "examRelevance": "Haryana SIR Phase-I = over 33 lakh names left out.",
+      "tags": [
+        "Haryana",
+        "State Identity Register",
+        "SIR",
+        "Data Management",
+        "Governance"
+      ],
+      "source": {
+        "title": "Haryana completes SIR phase-I; over 33 lakh names left out due to relocation, death, duplication",
+        "url": "https://www.thehindu.com/news/national/haryana/haryana-completes-sir-phase-i-over-33-lakh-names-left-out-due-to-relocation-death-duplication/article71266389.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q25",
+      "question": "The Tamil Nadu Collegiate Education Department recently released a list of 129 associate professors for promotion to which academic post in Grade II colleges?",
+      "options": [
+        "Head of Department",
+        "Dean",
+        "Principal",
+        "Professor"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "The Tamil Nadu Collegiate Education Department released a list of 129 eligible associate professors for promotion to the post of principal Grade II for the academic year 2026-27. This promotion, however, is subject to the outcome of ongoing court cases.",
+      "background": "Promotions in academic institutions are often governed by specific rules and regulations, and sometimes face legal challenges, which can delay the process. This move aims to fill leadership positions in colleges, strengthening the educational administration.",
+      "examRelevance": "TN Collegiate Education Dept = released list of 129 associate professors for Principal Grade II promotion.",
+      "tags": [
+        "Tamil Nadu",
+        "Collegiate Education",
+        "Promotions",
+        "Principal",
+        "Associate Professor"
+      ],
+      "source": {
+        "title": "Collegiate Education Department releases list of 129 associate professors for promotion as principals to Grade II colleges",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/collegiate-education-department-releases-list-of-129-associate-professors-for-promotion-as-principals-to-grade-ii-colleges/article71267044.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q26",
+      "question": "An SDM in Madhya Pradesh recently sparked controversy by sending a delivery executive to jail for which reason?",
+      "options": [
+        "Refusing to deliver",
+        "Traffic violation",
+        "Misbehaving with customers",
+        "Receiving less items in a parcel"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "An SDM (Sub-Divisional Magistrate) in Madhya Pradesh recently sent a delivery executive to jail after receiving fewer items than expected in a parcel. This action has sparked controversy and raised questions about administrative authority and due process, drawing public scrutiny.",
+      "background": "SDMs hold significant administrative and judicial powers at the sub-divisional level. Actions like this can lead to public debate regarding the appropriate use of official powers and the rights of citizens and workers.",
+      "examRelevance": "MP SDM = jailed delivery executive over incomplete parcel.",
+      "tags": [
+        "Madhya Pradesh",
+        "SDM",
+        "Delivery Executive",
+        "Controversy",
+        "Judicial Powers"
+      ],
+      "source": {
+        "title": "Madhya Pradesh SDM sends delivery executive to jail after receiving less items in parcel",
+        "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-sdm-sends-delivery-executive-to-jail-after-receiving-less-items-in-parcel/article71267086.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q27",
+      "question": "The Greater Bengaluru Authority recently directed a real estate company to prepare a demolition action plan for a tilted wing of an 18-storey apartment building. Which company was issued this directive?",
+      "options": [
+        "Prestige Group",
+        "Brigade Group",
+        "SNN Raj Etternia",
+        "Sobha Developers"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Greater Bengaluru Authority has directed SNN Raj Etternia to prepare an action plan for demolishing a tilted wing of an 18-storey apartment complex located in south Bengaluru’s Harlur. The company must obtain final approval for the demolition before proceeding.",
+      "background": "Building safety and adherence to construction regulations are critical in urban development. Such directives are issued to ensure public safety and structural integrity of buildings, especially when structural flaws or deviations from approved plans are identified.",
+      "examRelevance": "Greater Bengaluru Authority = directed SNN Raj Etternia to demolish tilted wing of 18-storey building.",
+      "tags": [
+        "Bengaluru",
+        "SNN Raj Etternia",
+        "Demolition",
+        "Building Safety",
+        "Real Estate"
+      ],
+      "source": {
+        "title": "Greater Bengaluru Authority seeks demolition action plan for tilted wing of 18-storey building",
+        "url": "https://www.thehindu.com/news/cities/bangalore/greater-bengaluru-authority-seeks-demolition-action-plan-for-tilted-wing-of-18-storey-building/article71267294.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q28",
+      "question": "According to data from Tracxn, in which year did the pet industry in India reach a high, coinciding with a period of financial, physical, and mental hurdles for people?",
+      "options": [
+        "2020",
+        "2019",
+        "2022",
+        "2021"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Data from Tracxn indicates that the pet industry in India experienced a significant high in the year 2021. This growth occurred precisely when people were facing various challenges, including financial, physical, and mental hurdles, suggesting a correlation between pet ownership and well-being during difficult times.",
+      "background": "The pet industry encompasses various segments like pet food, accessories, grooming, veterinary services, and pet care products. The growth reflects changing lifestyles and increased emotional support sought from pets, particularly during periods of stress and isolation.",
+      "examRelevance": "Pet industry = hit high in 2021 (Tracxn data).",
+      "tags": [
+        "Pet Industry",
+        "India",
+        "Tracxn",
+        "Economy",
+        "Wellness"
+      ],
+      "source": {
+        "title": "Pet wellness becomes underlying theme as industry grows steady",
+        "url": "https://www.thehindu.com/business/pet-wellness-becomes-underlying-theme-as-industry-grows-steady/article71265997.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q29",
+      "question": "A demolition notice against 38 buildings of Mohammad Ali Jauhar University has triggered student protests in which Indian state?",
+      "options": [
+        "Uttar Pradesh",
+        "Bihar",
+        "Rajasthan",
+        "Madhya Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Student protests have been triggered in Uttar Pradesh following a demolition notice issued against 38 buildings of the Mohammad Ali Jauhar University. The university alleges political targeting, while the administration insists on enforcing planning laws, leading to a heated debate.",
+      "background": "Mohammad Ali Jauhar University is a private university located in Rampur, Uttar Pradesh, founded by former minister Azam Khan. It has been involved in various legal and political controversies over the years, often becoming a focal point in state politics.",
+      "examRelevance": "Mohammad Ali Jauhar University = demolition notice, protests in Uttar Pradesh.",
+      "tags": [
+        "Mohammad Ali Jauhar University",
+        "Uttar Pradesh",
+        "Demolition",
+        "Student Protests",
+        "Azam Khan"
+      ],
+      "source": {
+        "title": "Bulldozers versus books",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/bulldozers-versus-books/article71265953.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-26-q30",
+      "question": "Following the end of recent student agitations, the Delhi Police is likely to withdraw FIRs filed against which group?",
+      "options": [
+        "Shopkeepers",
+        "Political leaders",
+        "Protesting students",
+        "Local residents"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Following the culmination of recent student agitations, particularly those related to alleged paper leaks, the Delhi Police has indicated that it is likely to withdraw the First Information Reports (FIRs) filed against the protesting students. This move is part of the government's concessions to end the protests.",
+      "background": "The withdrawal of FIRs was one of the key demands of the protesting students and activists, including the Cockroach Janta Party (CJP), who had gathered at Jantar Mantar. This signals a de-escalation of tensions and a step towards addressing student grievances.",
+      "examRelevance": "Delhi Police = likely to withdraw FIRs against protesting students.",
+      "tags": [
+        "Delhi Police",
+        "FIRs",
+        "Student Protests",
+        "Jantar Mantar",
+        "Polity"
+      ],
+      "source": {
+        "title": "Delhi Police likely to withdraw FIRs as agitation ends, says DCP",
+        "url": "https://www.thehindu.com/news/cities/Delhi/delhi-police-likely-to-withdraw-firs-as-agitation-ends-says-dcp/article71267499.ece"
+      }
+    }
+  ]
+}
