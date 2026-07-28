@@ -1,0 +1,787 @@
+{
+  "id": "daily-2026-07-28",
+  "type": "daily",
+  "date": "2026-07-28",
+  "title": "Current Affairs — 28 Jul 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-07-28-q1",
+      "question": "What new service has Elon Musk's X (formerly Twitter) recently added as part of its 'everything app' strategy, allowing users to hold deposits and send peer-to-peer payments?",
+      "options": [
+        "Food delivery",
+        "Banking",
+        "Ride-sharing",
+        "E-commerce marketplace"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Elon Musk's social media platform X (formerly Twitter) has launched banking services as part of its ambition to become an 'everything app.' This new feature, called 'X Money,' allows users to hold deposits, send peer-to-peer payments, pay bills, transfer money by wire, and mail checks.",
+      "background": "The move signifies X's broader strategy to integrate various functionalities beyond social networking, following a trend seen in apps like WeChat in China that offer a wide array of services including communication, payments, and e-commerce.",
+      "examRelevance": "X (formerly Twitter) has launched 'X Money' for banking services.",
+      "tags": [
+        "X",
+        "Elon Musk",
+        "fintech",
+        "digital banking",
+        "X Money"
+      ],
+      "source": {
+        "title": "Elon Musk's X adds banking in 'everything app' push",
+        "url": "https://www.thehindu.com/sci-tech/technology/elon-musks-x-adds-banking-in-everything-app-push/article71275388.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q2",
+      "question": "According to its FY26 Annual Report, which of the following is NOT one of the four key focus areas identified by Tata Sons?",
+      "options": [
+        "Advanced Manufacturing",
+        "Artificial Intelligence",
+        "Biotechnology",
+        "Semiconductors"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "According to its FY26 Annual Report, Tata Sons plans to focus on four key areas: Artificial Intelligence (AI), semiconductors, aviation, and advanced manufacturing. These sectors are identified as critical for the group's future growth and strategic direction.",
+      "background": "Tata Sons, the holding company of the Tata Group, regularly outlines its strategic priorities in its annual reports to guide its various operating companies and inform shareholders about long-term growth vectors. The group also reported outperforming benchmark equity markets, with total shareholder returns of 287% compared to 253% for the Nifty 50.",
+      "examRelevance": "Tata Sons' FY26 strategic focus includes AI, semiconductors, aviation, and advanced manufacturing.",
+      "tags": [
+        "Tata Sons",
+        "AI",
+        "semiconductors",
+        "aviation",
+        "advanced manufacturing"
+      ],
+      "source": {
+        "title": "Tata Sons to focus on AI, semiconductors, aviation and advanced manufacturing: FY26 Annual Report",
+        "url": "https://www.thehindu.com/business/tata-sons-to-focus-on-ai-semiconductors-aviation-and-advanced-manufacturing-fy26-annual-report/article71275453.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q3",
+      "question": "Which two key bills are scheduled for discussion and passing in the Lok Sabha and Rajya Sabha, respectively, during the current Parliament Monsoon Session?",
+      "options": [
+        "Right to Education Amendment Bill (Lok Sabha) and Consumer Protection Bill (Rajya Sabha)",
+        "Public Examinations Amendment Bill (Lok Sabha) and Prevention of Insults to National Honour (Amendment) Bill (Rajya Sabha)",
+        "Goods and Services Tax Amendment Bill (Lok Sabha) and Environmental Protection Bill (Rajya Sabha)",
+        "Anti-Defection Bill (Lok Sabha) and Criminal Procedure Code Amendment Bill (Rajya Sabha)"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "During the Monsoon Session, the Lok Sabha is expected to debate the Public Examinations Amendment Bill, while the Rajya Sabha is scheduled to discuss and pass the Prevention of Insults to National Honour (Amendment) Bill. These bills address important legislative matters.",
+      "background": "The Public Examinations Amendment Bill likely aims to curb malpractices in public examinations, a topic of significant public concern following recent paper leak incidents. The Prevention of Insults to National Honour (Amendment) Bill seeks to update or strengthen existing laws protecting national symbols.",
+      "examRelevance": "Lok Sabha to debate Public Examinations Amendment Bill; Rajya Sabha to discuss Prevention of Insults to National Honour (Amendment) Bill.",
+      "tags": [
+        "Parliament",
+        "Monsoon Session",
+        "Public Examinations Amendment Bill",
+        "Prevention of Insults to National Honour (Amendment) Bill",
+        "Lok Sabha",
+        "Rajya Sabha"
+      ],
+      "source": {
+        "title": "Parliament Monsoon Session Day 7 LIVE: Lok Sabha likely to debate Public Examinations Amendment Bill",
+        "url": "https://www.thehindu.com/news/national/parliament-monsoon-lok-sabha-live-updates-2026-july-28-2026-exam-amendment-bill-news/article71275442.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q4",
+      "question": "Which department is collaborating with animal protection organizations to conduct medical camps for farmed and companion animals in flood-affected Assam?",
+      "options": [
+        "Health Department",
+        "Forest Department",
+        "Animal Husbandry Department",
+        "Disaster Management Authority"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "As floodwaters recede in Assam, the Animal Husbandry Department is collaborating with various animal protection organizations to establish and conduct medical camps for both farmed and companion animals affected by the floods. This initiative aims to provide necessary veterinary care and relief.",
+      "background": "Assam experiences annual floods, which devastate human settlements and livestock. Efforts to provide relief often include rescue operations and medical aid for animals, which are crucial for the livelihoods of many residents.",
+      "examRelevance": "Assam's Animal Husbandry Department is leading animal relief efforts post-floods.",
+      "tags": [
+        "Assam floods",
+        "animal relief",
+        "Animal Husbandry Department",
+        "medical camps"
+      ],
+      "source": {
+        "title": "As Assam floodwaters recede, focus on relief for animals",
+        "url": "https://www.thehindu.com/news/national/assam/as-assam-floodwaters-recede-focus-on-relief-for-animals/article71273418.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q5",
+      "question": "Which three districts in Assam, historically less affected by floods, have recently borne the brunt of the annual phenomenon?",
+      "options": [
+        "Nagaon, Hojai, Cachar",
+        "Barpeta, Goalpara, Dhubri",
+        "Dhemaji, Lakhimpur, Sonitpur",
+        "Charaideo, Jorhat, Sivasagar"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The three districts in Assam that have recently borne the brunt of severe flooding, despite historically being less affected, are Charaideo, Jorhat, and Sivasagar. These areas faced unexpected and extensive inundation.",
+      "background": "While floods are an annual occurrence in many parts of Assam, the unusual severity in these specific districts highlights changing flood patterns or increased vulnerability, drawing attention to regional disaster preparedness.",
+      "examRelevance": "Charaideo, Jorhat, and Sivasagar are the three Assam districts recently most affected by floods.",
+      "tags": [
+        "Assam floods",
+        "Charaideo",
+        "Jorhat",
+        "Sivasagar",
+        "natural disaster"
+      ],
+      "source": {
+        "title": "Why have three Assam districts borne the brunt of floods | Explained",
+        "url": "https://www.thehindu.com/news/national/assam/why-have-three-assam-districts-borne-the-brunt-of-floods-explained/article71271472.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q6",
+      "question": "Which city's Corporation in Kerala has directed an audit of its Smart City assets as the Smart City Mission Limited (CSML) prepares to wind up its operations?",
+      "options": [
+        "Thiruvananthapuram",
+        "Kozhikode",
+        "Thrissur",
+        "Kochi"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Kerala's Kochi Corporation has directed its superintendent engineer to submit a comprehensive report on the efficiency and utility of assets and projects developed under the Smart City project, as the Kochi Smart City Mission Limited (CSML) prepares to wind up its operations.",
+      "background": "The Smart Cities Mission, launched by the Government of India, aimed to promote cities that provide core infrastructure and give a decent quality of life to their citizens. As the mission concludes, cities are auditing the implemented projects.",
+      "examRelevance": "Kochi Corporation is auditing Smart City assets as CSML winds up.",
+      "tags": [
+        "Kochi",
+        "Smart City Mission",
+        "CSML",
+        "Kerala",
+        "urban development"
+      ],
+      "source": {
+        "title": "Kerala’s Kochi Corporation to audit Smart City assets as CSML winds up",
+        "url": "https://www.thehindu.com/news/national/kerala/keralas-kochi-corporation-to-audit-smart-city-assets-as-csml-winds-up/article71275438.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q7",
+      "question": "Which specific type of weapon was reportedly used for the first time by security forces against unarmed protesters in the national capital, Delhi, as per recent reports?",
+      "options": [
+        "Lathi charge",
+        "Water cannon",
+        "Pellet gun",
+        "Tear gas"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Recent reports indicate that a pellet gun was used against unarmed protesters in the national capital, Delhi, for the first time. Documents suggest the Rapid Action Force (RAF) fired the pellet gun under the directions of a Delhi Police officer.",
+      "background": "The use of pellet guns for crowd control has been a contentious issue, particularly in regions like Jammu and Kashmir, due to the severe injuries they can inflict. Its alleged use in Delhi against protesters has reignited debates on appropriate crowd control measures.",
+      "examRelevance": "Pellet guns were reportedly used for the first time against protesters in Delhi.",
+      "tags": [
+        "Delhi protests",
+        "pellet gun",
+        "Rapid Action Force",
+        "crowd control",
+        "law enforcement"
+      ],
+      "source": {
+        "title": "RAF fired pellet gun at protesters on the directions of a Delhi Police officer, document shows",
+        "url": "https://www.thehindu.com/news/national/raf-fired-pellet-gun-at-protesters-on-the-directions-of-a-delhi-police-officer-document-shows/article71275391.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q8",
+      "question": "What significant component for India's space rockets is expected to be sourced domestically soon, as announced by Union Minister Ashwini Vaishnaw?",
+      "options": [
+        "Homegrown chips",
+        "Reusable rocket stages",
+        "Satellite navigation modules",
+        "Advanced propulsion systems"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Union Minister Ashwini Vaishnaw announced that India's space rockets will soon be equipped with domestically manufactured chips. This move is part of India's broader push towards self-reliance in critical technologies.",
+      "background": "Developing indigenous capabilities in semiconductor manufacturing is crucial for India's strategic sectors, including space and defence, reducing reliance on foreign imports and enhancing national security.",
+      "examRelevance": "India's space rockets will soon use homegrown chips.",
+      "tags": [
+        "Space technology",
+        "homegrown chips",
+        "Ashwini Vaishnaw",
+        "self-reliance",
+        "semiconductor"
+      ],
+      "source": {
+        "title": "India's space rockets to get homegrown chips soon",
+        "url": "https://economictimes.indiatimes.com/news/science/indias-space-rockets-to-get-homegrown-chips-soon-ashwini-vaishnaw/articleshow/132674714.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q9",
+      "question": "Former President Donald Trump recently visited a General Motors facility in Milford, Michigan, to defend which of his economic policies?",
+      "options": [
+        "Tariffs",
+        "Free trade agreements",
+        "Deregulation",
+        "Tax cuts"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "During a recent visit to a General Motors facility in Milford, Michigan, former U.S. President Donald Trump defended his economic policies, specifically his imposition of sweeping tariffs, arguing they have revived the auto industry and American manufacturing.",
+      "background": "Tariffs were a hallmark of Trump's economic policy during his presidency, aimed at protecting domestic industries and jobs, though they also faced criticism for potentially hurting some businesses and consumers.",
+      "examRelevance": "Donald Trump defended his tariffs during a visit to Michigan.",
+      "tags": [
+        "Donald Trump",
+        "tariffs",
+        "Michigan",
+        "economic policy",
+        "General Motors"
+      ],
+      "source": {
+        "title": "Trump defends tariffs during Michigan stop",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-defends-his-sweeping-tariffs-and-watches-america-first-drag-races-during-michigan-stop/articleshow/132673116.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q10",
+      "question": "According to U.S. Assistant Secretary of State S. Paul Kapur, in which two key sectors are the U.S. and India expanding cooperation, including the adoption of trusted AI and other emerging technologies?",
+      "options": [
+        "Education and healthcare",
+        "Space exploration and cyber security",
+        "Agriculture and renewable energy",
+        "Defence and civil nuclear sector"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "U.S. Assistant Secretary of State S. Paul Kapur stated that the United States and India are expanding their cooperation in the defence and civil nuclear sectors. This expansion includes the adoption of trusted AI and other emerging technologies.",
+      "background": "India and the U.S. have been steadily strengthening their strategic partnership, especially in defence and technology, as evidenced by various agreements and joint initiatives aimed at enhancing regional security and technological collaboration.",
+      "examRelevance": "US and India are expanding cooperation in defence and civil nuclear sectors.",
+      "tags": [
+        "India-US",
+        "defence cooperation",
+        "civil nuclear",
+        "S. Paul Kapur",
+        "strategic partnership"
+      ],
+      "source": {
+        "title": "U.S., India expanding cooperation in defence, civil nuclear sector",
+        "url": "https://www.thehindu.com/news/national/us-india-expanding-cooperation-in-defence-civil-nuclear-sector/article71275449.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q11",
+      "question": "Who is the incoming CEO of Apple Inc. who aims to build on the company's progress in movie and TV content?",
+      "options": [
+        "Luca Maestri",
+        "Tim Cook",
+        "Jeff Williams",
+        "John Ternus"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "John Ternus has been identified as the incoming CEO of Apple Inc. His stated aim is to build upon the company's existing progress in movie and TV content, indicating a continued focus on Apple's entertainment offerings.",
+      "background": "Apple has been increasingly investing in its services division, including Apple TV+ and other content platforms, as part of its strategy to diversify revenue streams beyond hardware sales. A new CEO often signals a shift or reinforcement of strategic priorities.",
+      "examRelevance": "John Ternus is the incoming CEO of Apple Inc.",
+      "tags": [
+        "Apple",
+        "CEO",
+        "John Ternus",
+        "technology",
+        "entertainment"
+      ],
+      "source": {
+        "title": "New Apple CEO to expand movie, TV progress",
+        "url": "https://economictimes.indiatimes.com/news/international/business/incoming-apple-ceo-john-ternus-aims-to-build-on-movie-and-tv-progress/articleshow/132674461.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q12",
+      "question": "Which U.S. state's Attorney General's office has filed a lawsuit alleging that Meta disregarded its own research on teen harm, specifically seeking modifications to Instagram?",
+      "options": [
+        "Tennessee",
+        "New York",
+        "Texas",
+        "California"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "The Attorney General's office of Tennessee has filed a lawsuit alleging that Meta Platforms disregarded its own internal research concerning the harm caused to teenagers by its platforms, specifically seeking modifications to Instagram.",
+      "background": "This lawsuit is part of a broader trend of legal and regulatory scrutiny faced by social media companies regarding their impact on youth mental health and their internal practices related to user safety.",
+      "examRelevance": "Tennessee Attorney General sued Meta over teen harm on Instagram.",
+      "tags": [
+        "Meta",
+        "Instagram",
+        "teen harm",
+        "Tennessee",
+        "social media regulation"
+      ],
+      "source": {
+        "title": "Meta disregarded its own research on teen harm, Tennessee tells jury",
+        "url": "https://www.thehindu.com/sci-tech/technology/meta-disregarded-its-own-research-on-teen-harm-tennessee-tells-jury/article71275394.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q13",
+      "question": "Who has been named the captain of the Indian Test squad for the upcoming series against Sri Lanka?",
+      "options": [
+        "Jasprit Bumrah",
+        "Rohit Sharma",
+        "Shubman Gill",
+        "Hardik Pandya"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Shubman Gill has been named the captain of the Indian Test squad for the upcoming series against Sri Lanka. This marks a significant leadership role for the young cricketer.",
+      "background": "The selection of a new captain often reflects a team's long-term strategy and succession planning, especially for Test cricket which demands consistent performance and leadership over extended periods.",
+      "examRelevance": "Shubman Gill is the new captain of the Indian Test squad for the Sri Lanka series.",
+      "tags": [
+        "Cricket",
+        "Indian Test squad",
+        "Shubman Gill",
+        "Sri Lanka series",
+        "captain"
+      ],
+      "source": {
+        "title": "India announces Test squad for Sri Lanka series",
+        "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-announces-test-squad-for-sri-lanka-series-shubman-gill-named-captain/articleshow/132674487.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q14",
+      "question": "The elections in Pakistan-occupied Kashmir (PoK), which recently saw violent clashes, are scheduled to be held in how many phases from July 27 to August 10?",
+      "options": [
+        "Four phases",
+        "Single phase",
+        "Two phases",
+        "Three phases"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The elections in Pakistan-occupied Kashmir (PoK), which have recently been marked by violent clashes resulting in casualties and injuries, are scheduled to be held in three distinct phases from July 27 to August 10.",
+      "background": "Elections in PoK are often contentious, reflecting the complex political dynamics and the disputed status of the region. The phased approach is typical for managing logistical and security challenges in such polls.",
+      "examRelevance": "PoK elections are being held in three phases from July 27 to August 10.",
+      "tags": [
+        "PoK elections",
+        "violent clashes",
+        "political process",
+        "July 27",
+        "August 10"
+      ],
+      "source": {
+        "title": "1 killed, several injured in violent clashes in PoK polls",
+        "url": "https://www.thehindu.com/news/national/several-injured-in-violent-clashes-in-pok-election-polls/article71275361.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q15",
+      "question": "What has been identified as the primary reason for the recent 1TB data leak from Bank of Baroda on the darknet?",
+      "options": [
+        "Malware attack",
+        "Third-party vendor breach",
+        "Employee email compromise",
+        "System malfunction"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "A recent 1TB data leak from Bank of Baroda, which appeared on the darknet, has been attributed primarily to an employee email compromise. This cyber incident highlights vulnerabilities in digital security.",
+      "background": "Data breaches in the banking sector are a major concern, often leading to financial fraud and loss of customer trust. Such incidents prompt investigations into cybersecurity protocols and employee training.",
+      "examRelevance": "Bank of Baroda data leak was caused by employee email compromise.",
+      "tags": [
+        "Bank of Baroda",
+        "data leak",
+        "cybersecurity",
+        "employee email compromise",
+        "darknet"
+      ],
+      "source": {
+        "title": "Bank of Baroda Data Leak: The reason is out",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-of-baroda-1tb-data-leak-on-darknet-reason-is-employee-email-compromise-core-banking-systems-cyber-insurance-claim-forensic-investigation/articleshow/132674252.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q16",
+      "question": "Amritsar Airport has recently launched a hub-and-spoke model for international transit, providing seamless global connectivity via which major Indian city?",
+      "options": [
+        "Mumbai",
+        "Chennai",
+        "Bengaluru",
+        "Delhi"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "Amritsar Airport has introduced a new hub-and-spoke model for international transit, enabling seamless global connectivity for passengers via Delhi. This initiative aims to enhance international travel options from Amritsar.",
+      "background": "The hub-and-spoke model is a common strategy in aviation where smaller airports (spokes) feed passengers to a larger central airport (hub) for onward international connections, thereby improving overall connectivity.",
+      "examRelevance": "Amritsar Airport offers international transit via Delhi using a hub-and-spoke model.",
+      "tags": [
+        "Amritsar Airport",
+        "Delhi",
+        "international transit",
+        "hub-and-spoke model",
+        "aviation"
+      ],
+      "source": {
+        "title": "Amritsar gets seamless global transit via Delhi",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/amritsar-airport-launches-hub-and-spoke-model-for-international-transit-via-delhi/articleshow/132674301.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q17",
+      "question": "Which university in Telangana is set to establish its second incubation centre under a Corporate Social Responsibility (CSR) initiative?",
+      "options": [
+        "Kakatiya University",
+        "Osmania University",
+        "University of Hyderabad",
+        "Jawaharlal Nehru Technological University"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Kakatiya University in Telangana is set to establish its second incubation centre under a Corporate Social Responsibility (CSR) initiative, as announced by Vice Chancellor Pratap Reddy. The university is also exploring academic collaboration with Germany’s Reutlingen University.",
+      "background": "Incubation centres play a vital role in fostering entrepreneurship and innovation within academic institutions by providing support, mentorship, and resources to startups and aspiring entrepreneurs.",
+      "examRelevance": "Kakatiya University is establishing its second incubation centre under CSR.",
+      "tags": [
+        "Kakatiya University",
+        "incubation centre",
+        "CSR",
+        "Telangana",
+        "entrepreneurship"
+      ],
+      "source": {
+        "title": "Kakatiya University to set up second incubation centre under CSR initiative: VC Pratap Reddy",
+        "url": "https://www.thehindu.com/news/national/telangana/kakatiya-university-to-set-up-second-incubation-centre-under-csr-initiative-vc-pratap-reddy/article71275425.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q18",
+      "question": "Which Indian airport, despite currently having no commercial flights, recently achieved the distinction of being rated as India's best airport?",
+      "options": [
+        "Shimla Airport",
+        "Puducherry Airport",
+        "Khajuraho Airport",
+        "Jaisalmer Airport"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Khajuraho Airport, despite currently having no commercial flights, has been rated as India's best airport. This distinction is based on passenger feedback and operational efficiency metrics, even without active flight services.",
+      "background": "Airport rankings often consider various factors including cleanliness, passenger facilities, staff courtesy, and efficiency. Khajuraho is a UNESCO World Heritage site, and the airport serves as a gateway for tourists, even if commercial flights are intermittent.",
+      "examRelevance": "Khajuraho Airport, despite no flights, is rated India's best.",
+      "tags": [
+        "Khajuraho Airport",
+        "best rated",
+        "aviation",
+        "Madhya Pradesh",
+        "tourism"
+      ],
+      "source": {
+        "title": "Zero-flight Khajuraho airport became India's No. 1",
+        "url": "https://economictimes.indiatimes.com/news/india/zero-flights-full-marks-how-khajuraho-airport-with-not-a-single-flight-became-indias-best-rated/articleshow/132674186.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q19",
+      "question": "Which Union Ministry's Secretary, A.P. Das Joshi, was present during deliberations in Rajasthan on new strategies for value addition to farm produce and expansion of the food processing sector?",
+      "options": [
+        "Union Ministry of Rural Development",
+        "Union Ministry of Food Processing Industries",
+        "Union Ministry of Commerce & Industry",
+        "Union Ministry of Agriculture & Farmers Welfare"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Rajasthan is actively formulating new strategies to enhance value addition to its farm produce, with detailed deliberations on expanding the food processing sector and necessary policy reforms. A.P. Das Joshi, Secretary of the Union Ministry of Food Processing Industries, was present during these discussions.",
+      "background": "The food processing sector is crucial for increasing farmers' income, reducing post-harvest losses, and creating employment opportunities in rural areas. State governments often work with central ministries to align policies and leverage support.",
+      "examRelevance": "Rajasthan is developing new strategies for value addition in farm produce with input from the Union Ministry of Food Processing Industries.",
+      "tags": [
+        "Rajasthan",
+        "food processing",
+        "farm produce",
+        "value addition",
+        "A.P. Das Joshi"
+      ],
+      "source": {
+        "title": "Rajasthan formulating new strategies for value addition to farm produce",
+        "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-formulating-new-strategies-for-value-addition-to-farm-produce/article71273400.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q20",
+      "question": "Which city in Iraq recently experienced multiple explosions near the U.S. consulate, reportedly due to Iranian drone attacks?",
+      "options": [
+        "Basra",
+        "Mosul",
+        "Erbil",
+        "Baghdad"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Multiple explosions recently rocked Erbil, a city in Iraq, near the U.S. consulate. These incidents were reportedly caused by Iranian drones targeting locations within Iraq.",
+      "background": "Erbil, the capital of the Kurdistan Region of Iraq, has frequently been a target of drone and missile attacks, often attributed to Iranian-backed groups, amid ongoing regional tensions and conflicts.",
+      "examRelevance": "Erbil, Iraq, saw explosions near the US consulate due to Iranian drone attacks.",
+      "tags": [
+        "Erbil",
+        "Iraq",
+        "US consulate",
+        "Iranian drones",
+        "regional conflict"
+      ],
+      "source": {
+        "title": "Multiple explosions rock Erbil near US consulate",
+        "url": "https://economictimes.indiatimes.com/news/defence/multiple-explosions-rock-erbil-near-us-consulate-as-iranian-drones-target-iraq/articleshow/132673909.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q21",
+      "question": "According to former U.S. President Donald Trump, with which country is the U.S. currently engaged in 'very deep talks' to potentially end a conflict in West Asia?",
+      "options": [
+        "Iraq",
+        "Syria",
+        "Iran",
+        "Yemen"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Former U.S. President Donald Trump indicated that the U.S. is engaged in 'very deep talks' with Iran, suggesting a 'good chance' of progress in resolving the West Asia conflict, even as both sides have held fire.",
+      "background": "Diplomatic efforts to de-escalate tensions in West Asia, particularly involving Iran, are complex and frequently involve multiple intermediaries. Trump's comments hint at a potential shift in diplomatic engagement.",
+      "examRelevance": "Donald Trump stated the US is in 'very deep talks' with Iran to resolve the West Asia conflict.",
+      "tags": [
+        "Donald Trump",
+        "Iran talks",
+        "West Asia conflict",
+        "US diplomacy"
+      ],
+      "source": {
+        "title": "West Asia war LIVE: Trump says 'good chance' of progress in Iran talks as foes hold fire",
+        "url": "https://www.thehindu.com/news/international/iran-israel-us-war-july-28-2026-latest-updates-strait-of-hormuz-donald-trump-oil-prices-today/article71275308.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q22",
+      "question": "Sarvesh Kushare recently became the first Indian to win a silver medal in which event at the Commonwealth Games?",
+      "options": [
+        "Men's triple jump",
+        "Men's discus throw",
+        "Men's high jump",
+        "Men's long jump"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Sarvesh Kushare achieved a historic milestone by becoming the first Indian athlete to win a silver medal in the men's high jump event at the Commonwealth Games.",
+      "background": "The Commonwealth Games are a major international multi-sport event involving athletes from the Commonwealth of Nations. Winning a medal, especially a silver in a track and field event like high jump, is a significant achievement for Indian athletics.",
+      "examRelevance": "Sarvesh Kushare won India's first silver in CWG men's high jump.",
+      "tags": [
+        "Sarvesh Kushare",
+        "Commonwealth Games",
+        "high jump",
+        "silver medal",
+        "athletics"
+      ],
+      "source": {
+        "title": "Kushare wins silver in CWG men's high jump",
+        "url": "https://economictimes.indiatimes.com/news/sports/other-sports/sarvesh-kushare-becomes-1st-indian-to-win-silver-in-cwg-mens-high-jump/articleshow/132673686.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q23",
+      "question": "Who has been appointed as the new Union Education Minister following the resignation of Dharmendra Pradhan?",
+      "options": [
+        "Nirmala Sitharaman",
+        "Amit Shah",
+        "Rajnath Singh",
+        "Pralhad Joshi"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Following the resignation of Dharmendra Pradhan, Pralhad Joshi has been appointed by the President as the new Union Education Minister. This appointment was made amidst significant public protests related to alleged paper leaks in public examinations.",
+      "background": "Ministerial appointments and reshuffles are a common feature of parliamentary democracies, often occurring in response to political developments, performance assessments, or to bring in new leadership. Pralhad Joshi previously held other ministerial portfolios.",
+      "examRelevance": "Pralhad Joshi has been appointed as the new Union Education Minister.",
+      "tags": [
+        "Pralhad Joshi",
+        "Union Education Minister",
+        "Dharmendra Pradhan",
+        "ministerial appointment"
+      ],
+      "source": {
+        "title": "Dharmendra Pradhan tenders resignation as Union Education Minister; CJP calls off protests",
+        "url": "https://www.thehindu.com/news/national/dharmendra-pradhan-quit-resign-as-union-education-minister-jantar-mantar-protest-july-25-2026/article71265711.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q24",
+      "question": "Which state government recently announced that it would withdraw all FIRs and release individuals jailed in connection with protests over the NEET paper leak?",
+      "options": [
+        "Bihar",
+        "West Bengal",
+        "Uttar Pradesh",
+        "Rajasthan"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Bihar government announced its decision to withdraw all First Information Reports (FIRs) and other criminal complaints, and release individuals who were jailed in connection with the protests against the NEET paper leak. This action is intended to address the grievances of the protesting students.",
+      "background": "Student protests against alleged irregularities in national examinations like NEET have been widespread, leading to arrests and legal cases. Government responses, such as withdrawing cases, are often aimed at de-escalating tensions and addressing public discontent.",
+      "examRelevance": "Bihar government will withdraw FIRs and release those jailed over NEET protests.",
+      "tags": [
+        "Bihar government",
+        "NEET protests",
+        "FIR withdrawal",
+        "student protests",
+        "legal action"
+      ],
+      "source": {
+        "title": "Bihar government to withdraw cases lodged against protesters over NEET paper leak, release those jailed",
+        "url": "https://www.thehindu.com/news/national/bihar/bihar-government-to-withdraw-cases-lodged-against-protesters-over-neet-paper-leak-release-those-jailed/article71274645.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q25",
+      "question": "Which country has recently requested consultations with the World Trade Organization (WTO) regarding what it describes as 'unjustified and inconsistent' U.S. tariffs?",
+      "options": [
+        "India",
+        "Brazil",
+        "European Union",
+        "China"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Brazil has officially requested consultations with the World Trade Organization (WTO) concerning tariffs imposed by the United States. Brazil contends that these measures are 'unjustified and inconsistent' with the U.S.'s obligations under the WTO's General Agreement on Tariffs and Trade 1994 and the Understanding on Rules and Procedures Governing the Settlement of Disputes.",
+      "background": "WTO consultations are the first step in the dispute settlement process, allowing countries to discuss issues and seek a mutually agreeable solution before formal litigation. Trade disputes over tariffs are common among WTO members.",
+      "examRelevance": "Brazil requested WTO consultations over 'unjustified' U.S. tariffs.",
+      "tags": [
+        "Brazil",
+        "WTO",
+        "U.S. tariffs",
+        "trade dispute",
+        "international trade law"
+      ],
+      "source": {
+        "title": "Brazil requests WTO consultations over U.S. tariffs",
+        "url": "https://www.thehindu.com/news/international/brazil-requests-wto-consultations-over-us-tariffs/article71275304.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q26",
+      "question": "Who recently contributed ₹1 crore to the CJP (Cockroach Janta Party) for providing legal aid to students booked over protests?",
+      "options": [
+        "Kapil Sibal",
+        "Shashi Tharoor",
+        "Abhishek Manu Singhvi",
+        "P. Chidambaram"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Senior advocate and politician Kapil Sibal has contributed ₹1 crore to the Cockroach Janta Party (CJP). This donation is intended to provide legal aid to students who have been booked or detained in connection with recent protests.",
+      "background": "The CJP has been at the forefront of organizing and supporting student protests against alleged irregularities in public examinations. Legal support for protesters is crucial, especially when facing government action.",
+      "examRelevance": "Kapil Sibal donated ₹1 crore to CJP for legal aid to student protesters.",
+      "tags": [
+        "Kapil Sibal",
+        "CJP",
+        "legal aid",
+        "student protests",
+        "donations"
+      ],
+      "source": {
+        "title": "Kapil Sibal donates ₹1 cr to CJP for legal aid",
+        "url": "https://economictimes.indiatimes.com/news/india/kapil-sibal-contributes-rs-1-crore-to-cjp-for-students-booked-over-protests/articleshow/132673430.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q27",
+      "question": "Sharmila Dhankar recently won a historic gold medal for India in which category at the Commonwealth Games?",
+      "options": [
+        "Wrestling",
+        "Weightlifting",
+        "Boxing",
+        "Para athletics"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Sharmila Dhankar secured a historic gold medal for India in para athletics at the Commonwealth Games. Her achievement significantly boosted India's medal tally at the event.",
+      "background": "Para athletics events are an integral part of major international multi-sport competitions like the Commonwealth Games, showcasing the talent and determination of athletes with disabilities. Her gold medal is a landmark achievement for India in this category.",
+      "examRelevance": "Sharmila Dhankar won historic gold for India in CWG para athletics.",
+      "tags": [
+        "Sharmila Dhankar",
+        "Commonwealth Games",
+        "gold medal",
+        "para athletics",
+        "India"
+      ],
+      "source": {
+        "title": "Sharmila's historic gold lifts India's CWG tally",
+        "url": "https://economictimes.indiatimes.com/news/sports/other-sports/sharmila-dhankar-wins-historic-gold-as-india-bags-6-medals-on-commonwealth-games-day-5/articleshow/132673362.cms"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q28",
+      "question": "India's Foreign Secretary Vikram Misri recently met with a Vice Minister of the Chinese Communist Party in which city?",
+      "options": [
+        "Beijing",
+        "Shanghai",
+        "Guangzhou",
+        "Shenzhen"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "India's Foreign Secretary Vikram Misri recently held a meeting with a Vice Minister of the Chinese Communist Party in Beijing. The discussions focused on ways to deepen the implementation of guidance from leaders for bilateral relations between India and China.",
+      "background": "High-level diplomatic engagements are crucial for managing complex bilateral relationships, especially between India and China, which share a long border and have multifaceted economic and strategic ties.",
+      "examRelevance": "Foreign Secretary Vikram Misri met a Chinese Communist Party Vice Minister in Beijing.",
+      "tags": [
+        "Vikram Misri",
+        "Foreign Secretary",
+        "Chinese Communist Party",
+        "Beijing",
+        "India-China relations"
+      ],
+      "source": {
+        "title": "Foreign Secretary Vikram Misri meets Vice Minister of Chinese Communist Party in Beijing",
+        "url": "https://www.thehindu.com/news/international/foreign-secretary-vikram-misri-meets-vice-minister-of-chinese-communist-party-in-beijing/article71273973.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q29",
+      "question": "The U.S. Federal Aviation Administration (FAA) recently issued an airworthiness directive concerning incorrectly installed seats on hundreds of which Boeing aircraft model?",
+      "options": [
+        "Boeing 787 Dreamliner",
+        "Boeing 777",
+        "Boeing 747",
+        "Boeing 737 MAX"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The U.S. Federal Aviation Administration (FAA) has issued a proposed airworthiness directive concerning hundreds of Boeing 737 MAX jets, stating that seats on these aircraft were incorrectly installed. The directive applies to 453 jets registered in the U.S.",
+      "background": "The Boeing 737 MAX series has faced intense scrutiny and regulatory actions following two fatal crashes. This latest issue highlights ongoing safety concerns and the rigorous oversight by aviation authorities.",
+      "examRelevance": "FAA issued a directive for incorrectly installed seats on Boeing 737 MAX jets.",
+      "tags": [
+        "FAA",
+        "Boeing 737 MAX",
+        "aviation safety",
+        "airworthiness directive",
+        "aircraft manufacturing"
+      ],
+      "source": {
+        "title": "FAA says seats on hundreds of Boeing 737 MAX jets were incorrectly installed",
+        "url": "https://www.thehindu.com/business/Industry/faa-says-seats-on-hundreds-of-boeing-737-max-jets-were-incorrectly-installed/article71275319.ece"
+      }
+    },
+    {
+      "id": "daily-2026-07-28-q30",
+      "question": "Ukrainian President Volodymyr Zelenskyy recently visited which country, where he met with the new Prime Minister to signal increased support for Kyiv?",
+      "options": [
+        "Britain",
+        "Germany",
+        "Poland",
+        "France"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Ukrainian President Volodymyr Zelenskyy recently visited Britain, where he met with the new Prime Minister. The visit signals increased support for Kyiv from the new British leadership.",
+      "background": "Ukraine has been seeking continuous international support, particularly from Western allies, in its conflict. Visits by its president to key allied nations are vital for reinforcing diplomatic and military assistance.",
+      "examRelevance": "Ukrainian President Zelenskyy visited Britain to meet the new PM and secure more support.",
+      "tags": [
+        "Volodymyr Zelenskyy",
+        "Britain",
+        "Ukraine",
+        "international support",
+        "diplomatic visit"
+      ],
+      "source": {
+        "title": "Zelenskyy visits Britain as new PM signals more support for Kyiv",
+        "url": "https://www.thehindu.com/news/international/zelenskyy-visits-britain-as-new-pm-signals-more-support-for-kyiv/article71274647.ece"
+      }
+    }
+  ]
+}
