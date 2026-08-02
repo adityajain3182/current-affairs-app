@@ -1,0 +1,770 @@
+{
+  "id": "daily-2026-08-02",
+  "type": "daily",
+  "date": "2026-08-02",
+  "title": "Current Affairs — 02 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-02-q1",
+      "question": "Which U.S. city was forecast to experience its hottest temperature of the year, 115°F (46°C), on August 1 due to a heat wave?",
+      "options": [
+        "Los Angeles",
+        "Las Vegas",
+        "Dallas",
+        "Phoenix"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Las Vegas, Nevada, was forecast to reach a high of 115° Fahrenheit (46° Celsius) on August 1, marking its hottest temperature of the year amid a dangerous heat wave affecting parts of the western U.S.",
+      "background": "The western United States has been experiencing a severe heat wave, bringing record-breaking temperatures and heightened wildfire risks to the region. Such extreme weather events are becoming more frequent globally, often linked to climate change.",
+      "examRelevance": "Las Vegas = 115°F (46°C) on August 1, hottest temp of the year.",
+      "tags": [
+        "Heat Wave",
+        "Las Vegas",
+        "USA",
+        "Record Temperature"
+      ],
+      "source": {
+        "title": "Heat wave bringing record-breaking temps, heightened wildfire risk to parts of western U.S.",
+        "url": "https://www.thehindu.com/news/international/heat-wave-bringing-record-breaking-temps-heightened-wildfire-risk-to-parts-of-western-us/article71297047.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q2",
+      "question": "In which city did a recent restaurant bombing kill 3 people and wound at least 21, according to Russian officials?",
+      "options": [
+        "Moscow",
+        "Saint Petersburg",
+        "Kyiv",
+        "Minsk"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "A restaurant bombing in Moscow, Russia, resulted in the deaths of 3 people and wounded at least 21 others. An unidentified woman attempting to carry the explosive device into the restaurant died in the blast, along with a security guard and a patron.",
+      "background": "Such incidents of bombings, though less frequent in major Russian cities in recent years, highlight ongoing security concerns. The event prompted a swift response from Russian officials.",
+      "examRelevance": "Moscow = Restaurant bombing, 3 killed, 21 wounded.",
+      "tags": [
+        "Moscow",
+        "Bombing",
+        "Russia",
+        "Terrorism"
+      ],
+      "source": {
+        "title": "3 people killed, at least 21 wounded in Moscow restaurant bombing, Russian officials say",
+        "url": "https://www.thehindu.com/news/international/moscow-restaurant-explosion-in-russia-kills-people-injures-more-than-a-dozen/article71295966.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q3",
+      "question": "Who became the first Indian to win two athletic medals in the Commonwealth Games by securing a bronze in the 5000m event?",
+      "options": [
+        "Gulveer Singh",
+        "Kipchumba Kipsang",
+        "Avinash Sable",
+        "Murli Gavit"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Gulveer Singh won a bronze medal in the 5000m event at the Commonwealth Games, making him the first Indian to win two athletic medals in the history of the Games. Mathew Kipchumba Kipsang of Kenya won the gold, and Ky Robinson of Australia bagged the silver.",
+      "background": "Gulveer Singh's achievement is significant for Indian athletics, marking a historic milestone at the Commonwealth Games. His previous medal contributed to this unique distinction.",
+      "examRelevance": "Gulveer Singh = First Indian to win two athletic medals in CWG (bronze in 5000m).",
+      "tags": [
+        "Gulveer Singh",
+        "Commonwealth Games",
+        "Athletics",
+        "5000m"
+      ],
+      "source": {
+        "title": "Gulveer wins bronze in 5000m, first Indian to win two athletic medals in CWG",
+        "url": "https://www.thehindu.com/sport/gulveer-shines-with-historic-5000m-bronze-for-his-2nd-medal-para-shot-putter-rana-wins-gold/article71295975.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q4",
+      "question": "Which Indian state has become the first to implement a digital medical emergency referral system where a referred patient’s medical history reaches the control room online before they arrive at the hospital?",
+      "options": [
+        "Madhya Pradesh",
+        "Gujarat",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "Rajasthan has become the first state in India to implement a digital medical emergency referral system. This model ensures that a referred patient’s medical history is sent online to the control room before their arrival at the hospital, aiming to transform patient care.",
+      "background": "The initiative is part of broader efforts to integrate technology into healthcare services, improving efficiency and patient outcomes during emergencies. This digital system is expected to streamline the referral process and enhance preparedness at receiving hospitals.",
+      "examRelevance": "Rajasthan = First state to implement digital medical emergency referral system.",
+      "tags": [
+        "Rajasthan",
+        "Digital Health",
+        "Emergency Services",
+        "Healthcare Technology"
+      ],
+      "source": {
+        "title": "Digital medical emergency referral system set to transform patient care in Rajasthan",
+        "url": "https://www.thehindu.com/news/national/rajasthan/digital-medical-emergency-referral-system-set-to-transform-patient-care-in-rajasthan/article71295052.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q5",
+      "question": "Which tribal dance form, performed by 13,750 schoolchildren at the Bhogapuram airport inaugural, set a Guinness World Record?",
+      "options": [
+        "Garba",
+        "Bhangra",
+        "Ghoomar",
+        "Dhimsa"
+      ],
+      "answerIndex": 3,
+      "category": "Art & Culture",
+      "explanation": "The Dhimsa tribal dance form was performed flawlessly by around 13,750 schoolchildren at the inaugural event of the Bhogapuram airport in Andhra Pradesh, setting a Guinness World Record. The 'Dhimsa jamboree' highlighted the tribal heritage of the state.",
+      "background": "Dhimsa is a traditional tribal dance originating from the Araku Valley region of Andhra Pradesh. Such large-scale cultural performances at significant public events aim to promote local heritage and achieve international recognition.",
+      "examRelevance": "Dhimsa dance = Guinness World Record by 13,750 schoolchildren at Bhogapuram airport inaugural.",
+      "tags": [
+        "Dhimsa",
+        "Tribal Dance",
+        "Andhra Pradesh",
+        "Guinness World Record",
+        "Bhogapuram Airport"
+      ],
+      "source": {
+        "title": "Dhimsa ‘jamboree’ highlights tribal heritage of A.P. at Bhogapuram airport inaugural",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/dhimsa-jamboree-highlights-tribal-heritage-of-ap-at-bhogapuram-airport-inaugural/article71294600.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q6",
+      "question": "Who is the current Union Civil Aviation Minister who commented on the significance of Bhogapuram airport for Uttarandhra?",
+      "options": [
+        "Rammohan Naidu",
+        "Piyush Goyal",
+        "Hardeep Singh Puri",
+        "Jyotiraditya Scindia"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Union Civil Aviation Minister Rammohan Naidu stated that the new international airport at Bhogapuram would open up unprecedented opportunities in investment, tourism, trade, industry, and employment for the Uttarandhra region, placing it prominently on the global map.",
+      "background": "The Union Civil Aviation Minister plays a crucial role in the development and regulation of air transport in India. Statements regarding new airport projects highlight the government's focus on improving connectivity and regional development.",
+      "examRelevance": "Rammohan Naidu = Union Civil Aviation Minister.",
+      "tags": [
+        "Rammohan Naidu",
+        "Union Minister",
+        "Civil Aviation",
+        "Bhogapuram Airport"
+      ],
+      "source": {
+        "title": "Bhogapuram airport a historic chapter for Uttarandhra, says Union Civil Aviation Minister",
+        "url": "https://www.thehindu.com/news/cities/Visakhapatnam/bhogapuram-airport-a-historic-chapter-for-uttarandhra-says-union-civil-aviation-minister/article71294463.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q7",
+      "question": "How many gold medals were won by Indian pugilists at the recent Commonwealth Games?",
+      "options": [
+        "8",
+        "5",
+        "6",
+        "7"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Indian pugilists achieved a magnificent haul of seven gold medals at the recent Commonwealth Games. Preeti, Jaismine, Sakshi, Priya, Arundhati, Sachin, and Ankush were among those who secured the yellow metal.",
+      "background": "This performance marked India's best-ever Commonwealth Games showing in boxing, with the contingent also securing three silver medals, leading to a total of ten boxing medals.",
+      "examRelevance": "Indian pugilists = 7 gold medals at CWG.",
+      "tags": [
+        "Commonwealth Games",
+        "Boxing",
+        "India",
+        "Gold Medals"
+      ],
+      "source": {
+        "title": "Commonwealth Games: Magnificent seven as the Indian pugilists put on a show",
+        "url": "https://www.thehindu.com/sport/cwg-2026-preeti-pawar-wins-gold-in-womens-54kg-boxing/article71294185.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q8",
+      "question": "Which Indian Union Territory is speeding up the implementation of the Forest Rights Act (FRA) and warned its Forest Department against eviction notices?",
+      "options": [
+        "Andaman & Nicobar Islands",
+        "Puducherry",
+        "Jammu & Kashmir",
+        "Ladakh"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Jammu & Kashmir is expediting the implementation of the Forest Rights Act (FRA) and has issued warnings to its Forest Department against issuing eviction notices. This move follows previous disagreements over eviction drives in areas like Sunjwan, Bathindi, Raika, and Sidhra in Jammu.",
+      "background": "The Forest Rights Act, 2006, recognizes and vests the forest rights and occupation in forest land to forest-dwelling Scheduled Tribes and other traditional forest dwellers. Its implementation aims to address historical injustices and secure land rights for these communities.",
+      "examRelevance": "Jammu & Kashmir = Speeding up Forest Rights Act (FRA) implementation.",
+      "tags": [
+        "Jammu & Kashmir",
+        "Forest Rights Act",
+        "FRA",
+        "Governance"
+      ],
+      "source": {
+        "title": "J&K speeds up FRA implementation; warns Forest Dept. against eviction notices",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-speeds-up-fra-implementation-warns-forest-dept-against-eviction-notices/article71295725.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q9",
+      "question": "Which group constructed the new international airport at Bhogapuram, Andhra Pradesh, six months ahead of its deadline?",
+      "options": [
+        "GMR Group",
+        "Adani Group",
+        "Larsen & Toubro",
+        "Reliance Infrastructure"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The GMR Group constructed the new international airport at Bhogapuram in Andhra Pradesh, completing the project six months ahead of its December deadline. The airport is expected to significantly boost investment, tourism, and trade in the Uttarandhra region.",
+      "background": "The Bhogapuram airport project has been a subject of political discussion regarding its progress. The GMR Group is a major Indian infrastructure company with extensive experience in developing and operating airports, including Delhi and Hyderabad international airports.",
+      "examRelevance": "GMR Group = Constructed Bhogapuram airport six months ahead of schedule.",
+      "tags": [
+        "GMR Group",
+        "Bhogapuram Airport",
+        "Andhra Pradesh",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "Bhogapuram airport built six months ahead of schedule: GMR Group Chairman",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/bhogapuram-airport-built-six-months-ahead-of-schedule-gmr-group-chairman/article71294683.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q10",
+      "question": "In which country did a plane carrying European tourists crash near the Nazca Lines, killing 13 people?",
+      "options": [
+        "Mexico",
+        "Peru",
+        "Chile",
+        "Brazil"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "A plane carrying European tourists crashed in Peru, killing 13 people, during a Nazca Lines viewing flight. The Nazca Lines are ancient geoglyphs in the desert that can only be fully appreciated from above.",
+      "background": "The Nazca Lines are a UNESCO World Heritage site, created by Peru's Indigenous inhabitants hundreds of years ago. Sightseeing flights are a popular way to view these intricate designs, but such accidents highlight the risks associated with aerial tourism.",
+      "examRelevance": "Peru = Plane crash near Nazca Lines, 13 killed.",
+      "tags": [
+        "Peru",
+        "Nazca Lines",
+        "Plane Crash",
+        "Tourism"
+      ],
+      "source": {
+        "title": "Plane carrying European tourists crashes in Peru, killing 13 people on Nazca Lines viewing flight",
+        "url": "https://www.thehindu.com/news/international/tourist-plane-crashes-in-peru-killing-13-on-nazca-lines-sightseeing-flight/article71295978.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q11",
+      "question": "Who is the current FIFA President facing a crisis over a scrapped FIFA World Cup stake deal?",
+      "options": [
+        "Gianni Infantino",
+        "Sepp Blatter",
+        "Arsène Wenger",
+        "Aleksander Čeferin"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "FIFA President Gianni Infantino is facing a crisis after the organization scrapped its plan to sell stakes in the World Cup. This decision has led to a declaration of lost confidence from UEFA and CONCACAF.",
+      "background": "The proposal to sell stakes in the World Cup was intended to generate significant revenue for FIFA and its member associations. However, it faced strong opposition from various confederations, leading to its eventual withdrawal and creating internal challenges for FIFA's leadership.",
+      "examRelevance": "Gianni Infantino = FIFA President, facing crisis over scrapped World Cup stake deal.",
+      "tags": [
+        "Gianni Infantino",
+        "FIFA",
+        "World Cup",
+        "Football"
+      ],
+      "source": {
+        "title": "Infantino faces crisis over scrapped FIFA deal",
+        "url": "https://economictimes.indiatimes.com/news/sports/football/infantino-faces-crisis-as-uefa-concacaf-declare-lost-confidence-over-scrapped-fifa-world-cup-deal/articleshow/132798965.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q12",
+      "question": "An oil leak is spreading from a sanctioned tanker grounded off the coast of which country?",
+      "options": [
+        "Qatar",
+        "Yemen",
+        "Iran",
+        "Oman"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "An oil leak is spreading from a sanctioned tanker that is grounded off the coast of Oman. The incident raises environmental concerns in the region.",
+      "background": "Oil spills from tankers pose significant threats to marine ecosystems and coastal economies. Sanctioned vessels often face challenges in maintenance and access to repair facilities, potentially increasing the risk of such incidents.",
+      "examRelevance": "Oman = Oil leak from sanctioned tanker off its coast.",
+      "tags": [
+        "Oil Leak",
+        "Oman",
+        "Environmental Disaster",
+        "Tanker"
+      ],
+      "source": {
+        "title": "Oil leak spreads from sanctioned tanker near Oman",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/oil-leak-spreads-from-sanctioned-tanker-grounded-off-oman-coast/articleshow/132798933.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q13",
+      "question": "Which Chief Minister recently announced that students in Kolkata schools would receive eggs twice a week as part of mid-day meals?",
+      "options": [
+        "Naveen Patnaik",
+        "Mamata Banerjee",
+        "Hemant Soren",
+        "Suvendu Adhikari"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "West Bengal Chief Minister Suvendu Adhikari announced that students in Kolkata schools would receive eggs twice a week as part of the mid-day meal scheme. He made this announcement while inaugurating an ISKCON kitchen in Kolkata, which will prepare meals for 44,000 students.",
+      "background": "The provision of eggs in mid-day meals aims to improve the nutritional intake of schoolchildren. The Chief Minister also clarified that ISKCON, known for serving pure vegetarian food, would not be asked to alter its practices, implying alternative arrangements for students receiving meals from ISKCON.",
+      "examRelevance": "Suvendu Adhikari = West Bengal CM, announced eggs twice a week for Kolkata school mid-day meals.",
+      "tags": [
+        "Suvendu Adhikari",
+        "West Bengal",
+        "Mid-day Meal Scheme",
+        "Education"
+      ],
+      "source": {
+        "title": "Eggs twice a week for students in Kolkata schools, says Bengal CM Suvendu Adhikari",
+        "url": "https://www.thehindu.com/news/national/west-bengal/suvendu-inaugurates-iskcons-kitchen-in-kolkata-for-school-mid-day-meals-to-benefit-44000-students/article71294219.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q14",
+      "question": "Who has been recently appointed as the Water Resources Secretary?",
+      "options": [
+        "S. Ramsundar Reddy",
+        "Rammohan Naidu",
+        "Prashant M. Wadnere",
+        "Uttam Kumar"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Prashant M. Wadnere has been posted as the Water Resources Secretary. This is a key administrative appointment overseeing water management and related policies.",
+      "background": "The role of Water Resources Secretary is critical for managing the state's water infrastructure, irrigation projects, and addressing water-related issues. Such appointments are part of regular administrative reshuffles.",
+      "examRelevance": "Prashant M. Wadnere = Water Resources Secretary.",
+      "tags": [
+        "Prashant M. Wadnere",
+        "Appointment",
+        "Water Resources",
+        "Bureaucracy"
+      ],
+      "source": {
+        "title": "Prashant M. Wadnere posted as Water Resources Secretary",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/prashant-m-wadnere-posted-as-water-resources-secretary/article71294793.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q15",
+      "question": "On what date is the NEET-UG counselling scheduled to begin?",
+      "options": [
+        "September 8",
+        "August 8",
+        "August 1",
+        "August 4"
+      ],
+      "answerIndex": 3,
+      "category": "Dates & Days",
+      "explanation": "The NEET-UG counselling is scheduled to begin on August 4, with the first round of AIQ counselling for deemed and central universities running until August 17. The academic session for NEET-UG 2026 will commence from September 8.",
+      "background": "NEET-UG (National Eligibility cum Entrance Test - Undergraduate) is the qualifying examination for admission to MBBS and BDS courses in India. The counselling process is crucial for seat allocation based on merit and preferences.",
+      "examRelevance": "NEET-UG counselling = Begins August 4.",
+      "tags": [
+        "NEET-UG",
+        "Counselling",
+        "Education",
+        "Dates"
+      ],
+      "source": {
+        "title": "NEET-UG counselling to begin on August 4, academic session from September 8",
+        "url": "https://www.thehindu.com/education/neet-ug-counselling-to-begin-on-august-4-academic-session-from-september-8/article71295945.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q16",
+      "question": "Which traditional musical instrument, crafted in Bobbili, Vizianagaram district, was recently praised by PM Narendra Modi?",
+      "options": [
+        "Sitar",
+        "Sarod",
+        "Tanpura",
+        "Bobbili Veena"
+      ],
+      "answerIndex": 3,
+      "category": "Art & Culture",
+      "explanation": "Prime Minister Narendra Modi recently praised the artisans of the Bobbili Veena. This traditional stringed musical instrument is crafted in the heritage city of Bobbili in Vizianagaram district of Andhra Pradesh and has gained nationwide prominence.",
+      "background": "The Bobbili Veena is known for its distinctive craftsmanship and rich musical heritage. Such recognition from the Prime Minister helps in promoting traditional Indian crafts and supporting local artisans.",
+      "examRelevance": "Bobbili Veena = Traditional instrument from Vizianagaram, praised by PM Modi.",
+      "tags": [
+        "Bobbili Veena",
+        "Musical Instrument",
+        "Artisans",
+        "Andhra Pradesh",
+        "Narendra Modi"
+      ],
+      "source": {
+        "title": "Narendra Modi all praise for Bobbili Veena artisans",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/narendra-modi-all-praise-for-bobbili-veena-artisans/article71294655.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q17",
+      "question": "Who won a bronze medal in judo at the recent Commonwealth Games, contributing to India's record haul in the sport?",
+      "options": [
+        "Tulika Maan",
+        "Unnati",
+        "Shushila Devi Likmabam",
+        "Vijay Kumar Yadav"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Unnati bagged a bronze medal in judo at the recent Commonwealth Games, defeating South Africa's Skye Knoester by ippon in just 1 minute and 7 seconds. Her medal contributed to India's record haul of four medals in judo at the Games.",
+      "background": "India's performance in judo at the Commonwealth Games has seen significant improvement, with the four medals marking a new record for the contingent. This success highlights the growing talent in the sport within the country.",
+      "examRelevance": "Unnati = Bronze medal in judo at CWG.",
+      "tags": [
+        "Unnati",
+        "Judo",
+        "Commonwealth Games",
+        "Bronze Medal"
+      ],
+      "source": {
+        "title": "Unnati bags bronze, India's record CWG haul in judo rises to four medals",
+        "url": "https://www.thehindu.com/sport/unnati-bags-bronze-indias-record-cwg-haul-in-judo-rises-to-four-medals/article71295903.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q18",
+      "question": "Which country advised its citizens to leave the Middle East due to rising tensions with Iran?",
+      "options": [
+        "United States",
+        "France",
+        "Germany",
+        "United Kingdom"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The United States advised its citizens to leave the Middle East, citing rising tensions with Iran and warning that Iran was unpredictable. This advisory reflects the escalating geopolitical situation in the region.",
+      "background": "Tensions between the US and Iran have been high, with ongoing discussions about a potential deal and threats of strikes. Such travel advisories are issued by governments to protect their citizens in regions facing significant security risks.",
+      "examRelevance": "United States = Advised citizens to leave Middle East due to Iran tensions.",
+      "tags": [
+        "USA",
+        "Middle East",
+        "Iran",
+        "Travel Advisory"
+      ],
+      "source": {
+        "title": "US tells Americans to leave Middle East",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-tells-americans-to-leave-middle-east-warns-iran-unpredictable-amid-rising-tensions/articleshow/132800327.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q19",
+      "question": "Which village in Phagwara, Punjab, is mentioned as a symbol of rising social, economic, religious, and political assertiveness of the Dalits?",
+      "options": [
+        "Jalandhar",
+        "Amritsar",
+        "Chak Hakim",
+        "Ludhiana"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Guru Ghar in Chak Hakim village of Phagwara, Punjab, is highlighted as a symbol of the rising social, economic, religious, and political assertiveness of the Dalits in the state. Dalits constitute approximately one-third of Punjab's population.",
+      "background": "The article discusses how Dalits in rural Punjab are increasingly influencing politics and society, moving beyond traditional caste hierarchies. Their growing assertiveness is a significant factor ahead of the state's Assembly election.",
+      "examRelevance": "Chak Hakim village (Phagwara, Punjab) = Symbol of rising Dalit assertiveness.",
+      "tags": [
+        "Chak Hakim",
+        "Phagwara",
+        "Punjab",
+        "Dalits",
+        "Social Movement"
+      ],
+      "source": {
+        "title": "Punjab’s Dalits power politics with the purse",
+        "url": "https://www.thehindu.com/news/national/punjab/punjabsdalitspower-politics-with-the-purse/article71285072.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q20",
+      "question": "What was the total medal count for the Indian para sports contingent at the recent Commonwealth Games, marking their best-ever performance?",
+      "options": [
+        "6 medals (3 gold, 1 silver, 2 bronze)",
+        "8 medals (4 gold, 2 silver, 2 bronze)",
+        "7 medals (3 gold, 2 silver, 2 bronze)",
+        "5 medals (2 gold, 2 silver, 1 bronze)"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "The 28-member Indian para sports contingent delivered their best-ever performance at the recent Commonwealth Games, securing a total of seven medals. This haul included 3 gold, 2 silver, and 2 bronze medals, equaling the medals from all past editions combined.",
+      "background": "This historic achievement underscores the growing talent and support for para-sports in India. The Commonwealth Games provide a significant platform for para-athletes to showcase their abilities and inspire future generations.",
+      "examRelevance": "Indian para sports contingent = 7 medals (3 gold, 2 silver, 2 bronze) at CWG, best-ever performance.",
+      "tags": [
+        "Indian Para Team",
+        "Commonwealth Games",
+        "Para-sports",
+        "Medal Count"
+      ],
+      "source": {
+        "title": "With 7 medals, Indian para team delivers best-ever CWG show, equals medals from all past editions",
+        "url": "https://www.thehindu.com/sport/with-7-medals-indian-para-team-delivers-best-ever-cwg-show-equals-medals-from-all-past-editions/article71295877.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q21",
+      "question": "Which institution has introduced low-cost drum technology to farmers for producing biochar to improve soil health?",
+      "options": [
+        "Central Arid Zone Research Institute (CAZRI)",
+        "University of Agricultural Sciences, Bengaluru (UAS-B)",
+        "National Institute of Agricultural Extension Management (MANAGE)",
+        "Indian Agricultural Research Institute (IARI)"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The University of Agricultural Sciences, Bengaluru (UAS-B), has introduced a low-cost, portable drum technology to farmers for producing biochar. This initiative aims to train farmers in improving soil health through the use of biochar.",
+      "background": "Biochar is charcoal used as a soil amendment. It can enhance soil fertility, water retention, and carbon sequestration. UAS-B's effort focuses on making this sustainable agricultural practice accessible and affordable for farmers.",
+      "examRelevance": "UAS-B = Introduced low-cost technology for biochar production to farmers.",
+      "tags": [
+        "UAS-B",
+        "Biochar",
+        "Agriculture",
+        "Soil Health",
+        "Technology"
+      ],
+      "source": {
+        "title": "UAS-B introduces low-cost technology to farmers to produce biochar, trains them to improve soil health",
+        "url": "https://www.thehindu.com/news/national/karnataka/uas-b-introduces-low-cost-technology-to-farmers-to-produce-biochar-trains-them-to-improve-soil-health/article71185537.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q22",
+      "question": "In which city in Colombia did a recent truck bomb wound 14 people, with the National Liberation Army (ELN) being blamed?",
+      "options": [
+        "Cali",
+        "Medellín",
+        "Bogota",
+        "Cucuta"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "A truck bomb in the northern Colombian city of Cucuta wounded 14 people ahead of a presidential inauguration. The government in Bogota blamed rebels from the National Liberation Army (ELN), the country's largest active guerrilla group, for the early-morning blast.",
+      "background": "The National Liberation Army (ELN) is a left-wing armed group that has been in conflict with the Colombian government for decades. Bombings by such groups often aim to destabilize the region and exert political pressure.",
+      "examRelevance": "Cucuta, Colombia = Truck bomb, 14 wounded, ELN blamed.",
+      "tags": [
+        "Colombia",
+        "Cucuta",
+        "ELN",
+        "Bombing",
+        "Terrorism"
+      ],
+      "source": {
+        "title": "Colombia truck bomb wounds 14 ahead of presidential inauguration",
+        "url": "https://www.thehindu.com/news/international/colombia-truck-bomb-wounds-14-ahead-of-presidential-inauguration/article71297051.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q23",
+      "question": "Which public sector undertaking's employees are facing issues with continuously delayed salaries and are seeking the Centre to implement a long-pending revival package?",
+      "options": [
+        "Bharat Sanchar Nigam Limited (BSNL)",
+        "Bharat Heavy Electricals Limited (BHEL)",
+        "Air India",
+        "Hindustan Machine Tools (HMT)"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Employees of Hindustan Machine Tools (HMT) are facing a crisis due to continuously delayed salaries and are urging the Centre to implement a long-pending HMT revival package. The HMT Employees Union (CITU) sought intervention from an MP regarding this issue.",
+      "background": "HMT, once a diversified manufacturing company, has faced financial difficulties over the years. Revival packages are often proposed by the government to support ailing public sector undertakings and protect employee livelihoods.",
+      "examRelevance": "Hindustan Machine Tools (HMT) = Employees facing delayed salaries, seeking revival package.",
+      "tags": [
+        "HMT",
+        "Public Sector Undertaking",
+        "Delayed Salaries",
+        "Revival Package"
+      ],
+      "source": {
+        "title": "HMT crisis: employees seek MP’s intervention",
+        "url": "https://www.thehindu.com/news/cities/Kochi/hmt-crisis-employees-seek-mps-intervention/article71295799.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q24",
+      "question": "Who has been named the captain of Central Zone for the upcoming Duleep Trophy?",
+      "options": [
+        "Saransh Jain",
+        "Shivam Dube",
+        "Rinku Singh",
+        "Rajat Patidar"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Rajat Patidar has been named the captain of Central Zone for the upcoming Duleep Trophy. Rinku Singh will serve as the vice-captain of the team.",
+      "background": "The Duleep Trophy is a premier first-class cricket competition in India, featuring teams representing geographical zones. Appointments of captains and vice-captains are crucial for team leadership and strategy in such tournaments.",
+      "examRelevance": "Rajat Patidar = Captain of Central Zone for Duleep Trophy.",
+      "tags": [
+        "Rajat Patidar",
+        "Duleep Trophy",
+        "Cricket",
+        "Central Zone"
+      ],
+      "source": {
+        "title": "Rajat Patidar to lead Central Zone in Duleep Trophy, Rinku Singh named vice-captain",
+        "url": "https://www.thehindu.com/sport/cricket/rajat-patidar-to-lead-central-zone-in-duleep-trophy-rinku-singh-named-vice-captain/article71295934.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q25",
+      "question": "Which Union Minister's downfall was attributed to the Cockroach Janta Party’s protest, driven by Abhijeet Dipke, Ashutosh Ranka, and Saurav Das?",
+      "options": [
+        "Amit Shah",
+        "Rajnath Singh",
+        "Nitin Gadkari",
+        "Dharmendra Pradhan"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Union Education Minister Dharmendra Pradhan's downfall was attributed to the national protest organized by the Cockroach Janta Party (CJP). The movement was driven by three individuals: Abhijeet Dipke, Ashutosh Ranka, and Saurav Das.",
+      "background": "The Cockroach Janta Party started as a satirical online campaign that evolved into a significant national protest. Such movements, often fueled by social media outrage and youth activism, can have considerable political impact.",
+      "examRelevance": "Dharmendra Pradhan = Union Education Minister, downfall linked to CJP protest.",
+      "tags": [
+        "Dharmendra Pradhan",
+        "Cockroach Janta Party",
+        "CJP",
+        "Protest",
+        "Union Minister"
+      ],
+      "source": {
+        "title": "Abhijeet Dipke, Ashutosh Ranka and Saurav Das | The three faces of a revolt",
+        "url": "https://www.thehindu.com/news/national/abhijeet-dipke-ashutosh-ranka-and-saurav-das-the-three-faces-of-a-revolt/article71295809.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q26",
+      "question": "The All Kerala School Teachers’ Union (AKSTU) recently protested against which central government scheme?",
+      "options": [
+        "National Education Policy",
+        "PM SHRI Scheme",
+        "PM POSHAN Scheme",
+        "Samagra Shiksha Abhiyan"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The All Kerala School Teachers’ Union (AKSTU) took out a march to the District Deputy Director of Education (DDE) office in Thiruvananthapuram to protest against the central government's PM SHRI scheme. The protest demanded that both the Union and State governments abandon moves to 'weaken' the public education sector.",
+      "background": "The PM SHRI (PM Schools for Rising India) scheme aims to upgrade existing schools across India to serve as model schools, incorporating modern infrastructure and pedagogy. However, some teacher unions express concerns about its potential impact on public education structures.",
+      "examRelevance": "AKSTU = Protested against PM SHRI Scheme.",
+      "tags": [
+        "PM SHRI Scheme",
+        "AKSTU",
+        "Education",
+        "Kerala",
+        "Protest"
+      ],
+      "source": {
+        "title": "All Kerala School Teachers’ Union takes out march to DDE office in protest against PM SHRI",
+        "url": "https://www.thehindu.com/news/national/kerala/all-kerala-school-teachers-union-takes-out-march-to-dde-office-in-protest-against-pm-shri/article71295405.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q27",
+      "question": "Which paramilitary force of Iran recently claimed to have struck two tankers in the Strait of Hormuz?",
+      "options": [
+        "Basij Resistance Force",
+        "Iranian Ground Force",
+        "Army of the Guardians of the Islamic Revolution (IRGC)",
+        "Iranian Navy"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Iran’s paramilitary Revolutionary Guard (IRGC) claimed on July 31, 2026, that it had struck two tankers in the Strait of Hormuz. This incident occurred amidst heightened tensions in the West Asia region.",
+      "background": "The Strait of Hormuz is a crucial strategic waterway for global oil shipments. Incidents involving tankers in this area often lead to increased international concern and can impact global energy markets. The IRGC is a major military, political, and economic force in Iran.",
+      "examRelevance": "Iran's Revolutionary Guard (IRGC) = Struck two tankers in Strait of Hormuz.",
+      "tags": [
+        "Iran",
+        "Revolutionary Guard",
+        "IRGC",
+        "Strait of Hormuz",
+        "International Relations"
+      ],
+      "source": {
+        "title": "West Asia war LIVE: U.S. embassies urge citizens to ‘consider departing’ from West Asia",
+        "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-tehran-mojtaba-khamenei-fresh-strikes-irgc-strait-of-hormuz-ceasefire-deal/article71293385.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q28",
+      "question": "Which organization recently held a conference in the United States that highlighted Telugu language and culture?",
+      "options": [
+        "American Telugu Association (ATA)",
+        "Telugu Association of North America (TANA)",
+        "Global Telugu Association (GTA)",
+        "Federation of Telugu Associations in North America (FATNA)"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "The American Telugu Association (ATA) recently held a conference in the United States where Telugu language and culture took center stage. Such conferences aim to preserve and promote the cultural heritage of the Telugu diaspora.",
+      "background": "Diaspora organizations play a vital role in maintaining cultural ties and promoting linguistic heritage among expatriate communities. These events often feature cultural performances, literary discussions, and community gatherings.",
+      "examRelevance": "American Telugu Association (ATA) = Held conference in US highlighting Telugu language and culture.",
+      "tags": [
+        "American Telugu Association",
+        "ATA",
+        "Telugu Culture",
+        "USA",
+        "Diaspora"
+      ],
+      "source": {
+        "title": "Telugu language, culture take centre stage at ATA conference in the United States",
+        "url": "https://www.thehindu.com/news/national/telangana/telugu-language-culture-takes-centre-stage-at-ata-conference-in-the-united-states/article71294387.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q29",
+      "question": "How many districts in Kerala were issued an orange alert by the Indian Meteorological Department (IMD) for heavy rains on August 2?",
+      "options": [
+        "10",
+        "12",
+        "11",
+        "13"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The Indian Meteorological Department (IMD) issued an orange alert for 13 districts in Kerala for heavy rains and the possibility of flash floods, mudslides, and inundation on August 2. The districts included Thiruvananthapuram, Pathanamthitta, Alappuzha, Kottayam, Ernakulam, Idukki, Thrissur, Palakkad, Malappuram, Kozhikode, Wayanad, Kannur, and Kasargod.",
+      "background": "Kerala frequently experiences heavy monsoon rains, leading to flood warnings and disaster preparedness measures. Orange alerts signify that authorities should 'be prepared' for adverse weather conditions.",
+      "examRelevance": "Kerala = 13 districts issued orange alert for heavy rains on August 2.",
+      "tags": [
+        "Kerala",
+        "Heavy Rains",
+        "IMD",
+        "Orange Alert",
+        "Monsoon"
+      ],
+      "source": {
+        "title": "Kerala heavy rains highlights: Eight killed as heavy rain triggers floods across Kerala",
+        "url": "https://www.thehindu.com/news/national/kerala/kerala-rain-live-updates-imd-forecast-monsoon-red-orange-alert-idukki-kottayam-pathanamthitta-kannur-wayanad/article71293574.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-02-q30",
+      "question": "India has been drawn with which two countries in its group for the SAFF Championship 2026?",
+      "options": [
+        "Maldives and Pakistan",
+        "Afghanistan and Bangladesh",
+        "Bangladesh and Nepal",
+        "Sri Lanka and Bhutan"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "India has been drawn in a group with Maldives and Pakistan for the SAFF Championship 2026. India, chasing a record-extending 10th title, will begin their campaign against Maldives on November 5 and then face Pakistan on November 11.",
+      "background": "The SAFF Championship is the primary competition for men's national football teams governed by the South Asian Football Federation (SAFF). India has historically been a dominant force in the tournament.",
+      "examRelevance": "SAFF Championship 2026 = India drawn with Maldives and Pakistan.",
+      "tags": [
+        "SAFF Championship",
+        "Football",
+        "India",
+        "Maldives",
+        "Pakistan"
+      ],
+      "source": {
+        "title": "India drawn with Maldives, Pakistan in SAFF Championship 2026",
+        "url": "https://www.thehindu.com/sport/football/india-drawn-with-maldives-pakistan-in-saff-championship-2026/article71295943.ece"
+      }
+    }
+  ]
+}
