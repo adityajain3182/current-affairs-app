@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T04:50:32.610Z",
+  "updatedAt": "2026-08-02T05:39:56.196Z",
   "daily": [
     {
       "id": "daily-2026-08-02",
@@ -75,6 +75,14 @@
     }
   ],
   "weekly": [
+    {
+      "id": "weekly-2026-W31",
+      "type": "weekly",
+      "date": "2026-08-02",
+      "title": "Weekly Current Affairs — Week 31, 2026",
+      "path": "content/weekly/2026-W31.json",
+      "questionCount": 90
+    },
     {
       "id": "weekly-2026-W30",
       "type": "weekly",
