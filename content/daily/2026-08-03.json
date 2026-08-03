@@ -1,0 +1,783 @@
+{
+  "id": "daily-2026-08-03",
+  "type": "daily",
+  "date": "2026-08-03",
+  "title": "Current Affairs — 03 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-03-q1",
+      "question": "Which Indian city officially took over as the host for the 2030 Commonwealth Games during the closing ceremony in Glasgow?",
+      "options": [
+        "Bengaluru",
+        "Ahmedabad",
+        "Mumbai",
+        "New Delhi"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Ahmedabad, India, officially received the baton as the host city for the 2030 Commonwealth Games during the closing ceremony held in Glasgow. This marks a significant moment for India in the international sporting arena.",
+      "background": "The Commonwealth Games are a multi-sport event held every four years, involving athletes from the Commonwealth of Nations. This handover signifies India's role as the upcoming host, following Glasgow.",
+      "examRelevance": "Ahmedabad = Host city for 2030 Commonwealth Games.",
+      "tags": [
+        "Commonwealth Games",
+        "Ahmedabad",
+        "Glasgow",
+        "Sports"
+      ],
+      "source": {
+        "title": "Glasgow bids farewell to Commonwealth Games with handover to Ahmedabad",
+        "url": "https://www.thehindu.com/sport/glasgow-bids-farewell-to-commonwealth-games-with-handover-to-ahmedabad/article71299150.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q2",
+      "question": "Which cricketer has been named as the replacement for Jasprit Bumrah in India's Test squad for the series against Sri Lanka?",
+      "options": [
+        "Auqib Nabi",
+        "Umesh Yadav",
+        "Shardul Thakur",
+        "Mohammed Shami"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Auqib Nabi has been drafted into India's Test squad for the upcoming series against Sri Lanka, replacing Jasprit Bumrah who has been ruled out due to a knee injury. This change was announced following an assessment by the Sports Science team.",
+      "background": "Jasprit Bumrah is a key fast bowler for the Indian cricket team, and his absence due to injury often leads to opportunities for other promising pacers to step into the squad. The Sports Science team at Bengaluru's Centre of Excellence advised against rushing him back to the grind of international cricket.",
+      "examRelevance": "Auqib Nabi = Replaced Jasprit Bumrah in Test squad vs Sri Lanka.",
+      "tags": [
+        "Cricket",
+        "Jasprit Bumrah",
+        "Auqib Nabi",
+        "Sri Lanka",
+        "Test series"
+      ],
+      "source": {
+        "title": "Bumrah ruled out of Sri Lanka Test series, Auqib Nabi set to be drafted in",
+        "url": "https://www.hindu.com/sport/cricket/bumrah-ruled-out-of-sri-lanka-test-series-auqib-nabi-set-to-be-drafted-in/article71298971.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q3",
+      "question": "Danny Welbeck, a former England striker, recently joined which football club from Brighton?",
+      "options": [
+        "Liverpool",
+        "Manchester United",
+        "Arsenal",
+        "Chelsea"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Former England international striker Danny Welbeck, aged 35, has joined Chelsea Football Club from Brighton. He will immediately join his new team-mates on their pre-season tour in Hong Kong.",
+      "background": "Danny Welbeck has played for several prominent English clubs, including Manchester United and Arsenal, and has represented England 42 times. His move to Chelsea marks another significant transfer in his career.",
+      "examRelevance": "Danny Welbeck = Joined Chelsea from Brighton.",
+      "tags": [
+        "Football",
+        "Danny Welbeck",
+        "Chelsea",
+        "Brighton",
+        "Transfer"
+      ],
+      "source": {
+        "title": "Former England striker Welbeck joins Chelsea from Brighton",
+        "url": "https://www.thehindu.com/sport/football/former-england-striker-welbeck-joins-chelsea-from-brighton/article71298993.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q4",
+      "question": "Which Indian football club, winners of the ISL Winners' Shield in the 2021-22 season, recently announced its withdrawal from the Indian Super League (ISL)?",
+      "options": [
+        "Bengaluru FC",
+        "Jamshedpur FC",
+        "ATK Mohun Bagan",
+        "Mumbai City FC"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Jamshedpur FC, the winners of the ISL Winners' Shield in the 2021-22 season, announced its withdrawal from the Indian Super League (ISL) on July 31, after missing the deadline for payment of the participation fee for the upcoming season.",
+      "background": "The Indian Super League is the premier professional football league in India. The withdrawal of a former champion club like Jamshedpur FC is a significant development for the league and its fans, impacting the league's competitive landscape.",
+      "examRelevance": "Jamshedpur FC = Withdrew from Indian Super League.",
+      "tags": [
+        "Football",
+        "Indian Super League",
+        "ISL",
+        "Jamshedpur FC"
+      ],
+      "source": {
+        "title": "Jamshedpur FC pulling out of ISL a punch in the gut: Sunil Chhetri",
+        "url": "https://www.thehindu.com/sport/football/jamshedpur-fc-pulling-out-of-isl-a-punch-in-the-gut-sunil-chhetri/article71298995.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q5",
+      "question": "Josh Kerr, who won the mile gold at the Commonwealth Games in Glasgow, recently broke whose 27-year-old record in the mile event?",
+      "options": [
+        "Steve Ovett",
+        "Hicham El Guerrouj",
+        "Roger Bannister",
+        "Sebastian Coe"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Josh Kerr, the mile gold medalist at the Commonwealth Games in Glasgow, broke Hicham El Guerrouj's 27-year-old record in the mile event last month in London, setting a new mark of 3 minutes 42.66 seconds.",
+      "background": "Hicham El Guerrouj is a Moroccan former middle-distance runner who holds multiple world records and is considered one of the greatest milers of all time. Breaking his long-standing record is a major achievement in athletics, highlighting Kerr's exceptional talent.",
+      "examRelevance": "Josh Kerr = Broke Hicham El Guerrouj's 27-year-old mile record.",
+      "tags": [
+        "Josh Kerr",
+        "Commonwealth Games",
+        "Mile record",
+        "Hicham El Guerrouj",
+        "Athletics"
+      ],
+      "source": {
+        "title": "Commonwealth Games poster boy Kerr delivers mile gold in Glasgow",
+        "url": "https://www.thehindu.com/sport/commonwealth-games-poster-boy-kerr-delivers-mile-gold-in-glasgow/article71298958.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q6",
+      "question": "Which racer, riding a TVS RTR 450cc, recently secured a victory for Team Petronas TVS Racing?",
+      "options": [
+        "Rehan Khan Rasheed",
+        "Gaurav Gill",
+        "Tanveer",
+        "Aaruthran"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Mysuru racer Tanveer, riding a TVS RTR 450cc, recently secured a victory for Team Petronas TVS Racing. He fought hard at the start to gain an early lead and maintained it throughout the race to cross the finish line first.",
+      "background": "Team Petronas TVS Racing is a prominent team in Indian motorsports, known for its performance in various racing categories. Such victories highlight the team's and the rider's capabilities in competitive racing.",
+      "examRelevance": "Tanveer = Won race for Team Petronas TVS Racing.",
+      "tags": [
+        "Motorsports",
+        "Tanveer",
+        "TVS Racing",
+        "Racing"
+      ],
+      "source": {
+        "title": "Tanveer does it again for Team Petronas TVS Racing",
+        "url": "https://www.thehindu.com/sport/tanveer-does-it-again-for-team-petronas-tvs-racing/article71298214.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q7",
+      "question": "Bypolls were recently held in Bankipur (Bihar), Manjalpur (Gujarat), and Datia (Madhya Pradesh) on July 30. In which of these constituencies was the bypoll necessitated due to the death of a senior BJP MLA and former state Minister?",
+      "options": [
+        "Manjalpur",
+        "Khandwa",
+        "Datia",
+        "Bankipur"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The bypoll in Manjalpur, Gujarat, was necessitated due to the death of senior BJP MLA and former Gujarat Minister Yogesh Patel on June 2 following a prolonged illness. Bypolls were also held in Bankipur (Bihar) and Datia (Madhya Pradesh) on July 30.",
+      "background": "Bypolls are elections held to fill a vacant seat in a legislative body between general elections. Reasons for vacancies include death, resignation, or disqualification of the incumbent member, as seen in this case with Yogesh Patel.",
+      "examRelevance": "Manjalpur bypoll = Necessitated by death of BJP MLA Yogesh Patel.",
+      "tags": [
+        "Bypoll",
+        "Manjalpur",
+        "Gujarat",
+        "Yogesh Patel",
+        "Polity"
+      ],
+      "source": {
+        "title": "Counting of votes begins for Manjalpur Assembly bypoll in Gujarat",
+        "url": "https://www.thehindu.com/news/national/gujarat/manjalpur-assembly-bypoll-in-gujarat-result/article71299773.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q8",
+      "question": "The Reserve Bank of India's Monetary Policy Committee (MPC) is expected to hold its repo rate and policy stance unchanged at its meeting on August 5. What is the primary concern influencing this decision?",
+      "options": [
+        "Rising inflation risks from West Asia war and El Niño",
+        "Rising export demand",
+        "Strong domestic consumption growth",
+        "Decreasing global crude oil prices"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Reserve Bank of India's Monetary Policy Committee (MPC) is expected to keep the repo rate and policy stance unchanged at its meeting on August 5, primarily due to rising inflation risks stemming from the West Asia war and the El Niño phenomenon.",
+      "background": "The MPC, comprising six members, meets periodically to decide on key interest rates and monetary policy to achieve inflation targets while supporting economic growth. Global geopolitical events and climatic conditions significantly impact inflation and policy decisions.",
+      "examRelevance": "RBI MPC = Expected to hold repo rate due to West Asia war & El Niño inflation risks.",
+      "tags": [
+        "RBI",
+        "Monetary Policy Committee",
+        "Repo Rate",
+        "Inflation",
+        "El Niño",
+        "West Asia war"
+      ],
+      "source": {
+        "title": "RBI set to hold rates on 5 Aug as global risks cloud outlook: Mint poll",
+        "url": "https://www.livemint.com/economy/rbi-monetary-policy-august-2026-repo-rate-unchanged-inflation-gdp-growth-outlook-11785650989998.html"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q9",
+      "question": "Urban Company reported a consolidated net loss of Rs 92 crore for Q1 FY27, despite its revenue from operations jumping 44% year-on-year to Rs 528 crore. Which new service was primarily cited for leading to the sharp losses?",
+      "options": [
+        "Home Repairs",
+        "Appliance Servicing",
+        "InstaHelp (instant maid services)",
+        "Beauty & Wellness"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Urban Company reported a consolidated net loss of Rs 92 crore for Q1 FY27, with its revenue from operations increasing by 44% year-on-year to Rs 528 crore. The sharp losses were primarily attributed to InstaHelp, the company’s latest instant maid services.",
+      "background": "Urban Company is a significant player in the home services market. The launch of new services like InstaHelp represents expansion efforts, but often comes with initial operational costs and losses before achieving profitability, impacting overall financial performance.",
+      "examRelevance": "Urban Company Q1 FY27 losses = Led by InstaHelp service.",
+      "tags": [
+        "Urban Company",
+        "Q1 Results",
+        "InstaHelp",
+        "Financial Performance"
+      ],
+      "source": {
+        "title": "Urban Company shares zoom 15% after Q1 results. Why Motilal Oswal raised target price",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/urban-company-shares-zoom-15-after-q1-results-why-motilal-oswal-raised-target-price/articleshow/132818367.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q10",
+      "question": "For the April-June quarter of FY27, ITC reported a standalone net profit decline of 27% year-on-year to Rs 3,579 crore. However, its revenue saw a significant increase. What was the percentage increase in ITC's revenue year-on-year for Q1 FY27?",
+      "options": [
+        "28%",
+        "20%",
+        "35%",
+        "15%"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "For the April-June quarter of FY27, ITC reported a 27% year-on-year decline in standalone net profit to Rs 3,579 crore. Despite this, the company's revenue from operations increased significantly by 28% year-on-year to Rs 26,943 crore.",
+      "background": "ITC Limited is an Indian conglomerate with diverse interests including FMCG, hotels, paperboards, packaging, and agriculture. Financial results are closely watched indicators of its performance and market sentiment, reflecting both challenges and growth areas.",
+      "examRelevance": "ITC Q1 FY27 = 28% YoY revenue increase, despite 27% profit decline.",
+      "tags": [
+        "ITC",
+        "Q1 Results",
+        "Revenue",
+        "Net Profit",
+        "FMCG"
+      ],
+      "source": {
+        "title": "ITC shares gain 3% after Q1 results. Here’s why Nomura upgraded the stock to Buy",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/itc-shares-gain-3-after-q1-results-heres-why-nomura-upgraded-the-stock-to-buy/articleshow/132818173.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q11",
+      "question": "TVS Motor Company reported a significant jump in its EV sales in July. By what percentage did TVS Motor's EV sales increase in July?",
+      "options": [
+        "158%",
+        "125%",
+        "100%",
+        "180%"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "TVS Motor Company's Electric Vehicle (EV) sales saw a record high jump of 158% in July, driven by increasing fuel prices and growing consumer demand for sustainable transportation.",
+      "background": "The rising cost of traditional fuels is a major factor pushing consumers towards electric vehicles. This trend is beneficial for EV manufacturers like TVS Motor, contributing to increased adoption of sustainable mobility solutions and market growth.",
+      "examRelevance": "TVS Motor EV sales in July = Jumped 158%.",
+      "tags": [
+        "TVS Motor",
+        "EV Sales",
+        "Electric Vehicles",
+        "Automobile Industry"
+      ],
+      "source": {
+        "title": "Costly fuel drives TVS Motor EV sales in July",
+        "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/tvs-motor-ev-sales-jump-158-to-record-high-in-july-as-pricey-fuel- drives-demand/articleshow/132818542.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q12",
+      "question": "According to DPIIT data for April 2025-March 2026 (FY26), how many Foreign Direct Investment (FDI) proposals from China did India approve, and what was their total value?",
+      "options": [
+        "2 proposals, ₹2 crore",
+        "10 proposals, ₹10 crore",
+        "1 proposal, ₹1 crore",
+        "5 proposals, ₹50 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "During April 2025-March 2026 (FY26), India approved only one Foreign Direct Investment (FDI) proposal from China, valued at ₹1 crore. In contrast, 13 proposals from Hong Kong were approved, indicating a selective approach to investments from certain regions.",
+      "background": "Foreign Direct Investment is crucial for economic growth and job creation. India's approach to Chinese FDI has been under scrutiny due to geopolitical tensions, leading to stricter regulations and fewer approvals compared to other countries.",
+      "examRelevance": "India approved 1 Chinese FDI proposal worth ₹1 crore in FY26.",
+      "tags": [
+        "FDI",
+        "Foreign Direct Investment",
+        "China",
+        "India",
+        "DPIIT",
+        "Economy"
+      ],
+      "source": {
+        "title": "India approves just 1 Chinese FDI proposal worth ₹1 crore in FY26; 13 from Hong Kong",
+        "url": "https://www.thehindu.com/news/national/india-approves-just-1-chinese-fdi-proposal-worth-1-crore-in-fy26-13-from-hong-kong/article71299151.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q13",
+      "question": "Shiprocket is expected to launch its Initial Public Offering (IPO) in 1-2 weeks. What is the anticipated valuation of Shiprocket for this IPO?",
+      "options": [
+        "₹6,000 crore",
+        "₹5,000 crore",
+        "₹8,000 crore",
+        "₹7,000 crore"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Shiprocket is slated to launch its Initial Public Offering (IPO) within the next one to two weeks, with an anticipated valuation of ₹7,000 crore. This marks a significant step for the company in raising public capital.",
+      "background": "An IPO marks a company's transition from private to public ownership, allowing it to raise capital from public investors. Shiprocket is a leading e-commerce logistics and shipping platform, and its IPO reflects investor confidence in the logistics tech sector.",
+      "examRelevance": "Shiprocket IPO = Anticipated valuation of ₹7,000 crore.",
+      "tags": [
+        "Shiprocket",
+        "IPO",
+        "Initial Public Offering",
+        "Valuation",
+        "Startups"
+      ],
+      "source": {
+        "title": "Shiprocket to launch IPO in 1-2 weeks",
+        "url": "https://economictimes.indiatimes.com/tech/startups/shiprocket-to-launch-ipo-in-1-2-weeks-at-a-valuation-of-rs-7000-crore/articleshow/132810230.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q14",
+      "question": "Japan recently confirmed a joint yen intervention with the U.S. This is the first such coordinated action since which year?",
+      "options": [
+        "2018",
+        "2008",
+        "2015",
+        "2011"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Japan confirmed a joint yen intervention with the United States, marking the first such coordinated action since 2011. The previous intervention in 2011 was undertaken to weaken the yen following a devastating earthquake in eastern Japan.",
+      "background": "Currency intervention is a monetary policy tool where a central bank buys or sells foreign currency in exchange for its own currency, typically to influence exchange rates. Coordinated interventions by multiple countries are less common but significant, indicating severe market imbalances.",
+      "examRelevance": "Japan-U.S. joint yen intervention = First since 2011.",
+      "tags": [
+        "Japan",
+        "United States",
+        "Yen",
+        "Currency Intervention",
+        "Economy"
+      ],
+      "source": {
+        "title": "Japan confirms joint yen intervention with U.S., signals readiness for more action",
+        "url": "https://www.thehindu.com/news/international/japan-confirms-joint-yen-intervention-with-us-signals-readiness-for-more-action/article71299725.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q15",
+      "question": "On August 3, Brent crude futures fell by over 5% following U.S. President Donald Trump's decision to hold off on attacking Iran. What was the price of Brent crude futures per barrel after this decline?",
+      "options": [
+        "$86.56",
+        "$83.56",
+        "$80.56",
+        "$89.56"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "On August 3, Brent crude futures fell by $4.37, or 5%, to $83.56 a barrel, after U.S. President Donald Trump refrained from launching a fresh attack on Iran and instead signaled a willingness to pursue a quick agreement aimed at ending Tehran's nuclear ambitions.",
+      "background": "Geopolitical tensions, particularly in the Middle East, significantly impact global oil prices due to the region's role as a major oil producer and transit point. Diplomatic developments can lead to rapid shifts in market sentiment and crude oil valuations.",
+      "examRelevance": "Brent crude futures on August 3 = Fell to $83.56/barrel.",
+      "tags": [
+        "Oil Prices",
+        "Brent Crude",
+        "Iran",
+        "Donald Trump",
+        "Economy"
+      ],
+      "source": {
+        "title": "Oil's war trade runs out of fuel, slumps 5%",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-3-crude-oil-crashes-5-below-84-as-trump-delays-attack-on-iran-what-are-experts-saying/articleshow/132816732.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q16",
+      "question": "What percentage of the construction of the Nandi Hill cable car project has reportedly been completed despite pending forest clearance?",
+      "options": [
+        "20%",
+        "10%",
+        "30%",
+        "40%"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "An official informed that nearly 20% of the construction of the Nandi Hill cable car project, also known as the LTP, has been completed, even though forest clearance for the project is still pending.",
+      "background": "The Nandi Hill cable car project is aimed at enhancing tourism and accessibility to the popular Nandi Hills in Karnataka. Projects requiring forest clearance often face scrutiny regarding environmental impact assessments and regulatory compliance before construction can fully proceed.",
+      "examRelevance": "Nandi Hill cable car = 20% construction completed despite pending forest clearance.",
+      "tags": [
+        "Nandi Hill",
+        "Cable Car",
+        "Karnataka",
+        "Infrastructure",
+        "Forest Clearance"
+      ],
+      "source": {
+        "title": "Nandi Hill cable car: Forest clearance pending, but construction has begun",
+        "url": "https://www.thehindu.com/news/national/karnataka/nandi-hill-cable-car-forest-clearance-pending-but-construction-has-begun-bengaluru/article71277272.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q17",
+      "question": "Tribals residing atop which hillock in Vellore are set to receive a new government health centre?",
+      "options": [
+        "Kolli",
+        "Alleri",
+        "Yelagiri",
+        "Jawadhu"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "Tribals residing atop the Alleri hillock in Vellore are set to get a government health centre, which aims to improve healthcare access for the community and address their long-standing medical needs.",
+      "background": "Improving healthcare infrastructure in remote and tribal areas is a key focus of government initiatives to ensure equitable access to medical services. This project addresses a critical need for the Alleri hillock residents, who often face geographical barriers to healthcare.",
+      "examRelevance": "Alleri hillock (Vellore) = To get government health centre.",
+      "tags": [
+        "Healthcare",
+        "Tribal Welfare",
+        "Vellore",
+        "Alleri Hillock",
+        "Government Scheme"
+      ],
+      "source": {
+        "title": "Tribals atop Alleri hillock in Vellore to get government health centre",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tribals-atop-alleri-hillock-in-vellore-to-get-government-health-centre/article71297729.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q18",
+      "question": "Clement Delangue, head of which platform, stated that companies making mistakes leading to cyberattacks by rogue AI should be held accountable?",
+      "options": [
+        "Microsoft AI",
+        "Google DeepMind",
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Clement Delangue, the head of the Hugging Face platform, stated that companies responsible for errors leading to cyberattacks by rogue AI should be held accountable. This comment was made in the context of recent intrusions targeting the platform.",
+      "background": "The rapid advancement of Artificial Intelligence (AI) brings new legal and ethical challenges, particularly concerning accountability when AI systems cause harm or engage in malicious activities like cyberattacks. Hugging Face is a prominent platform for AI and machine learning development.",
+      "examRelevance": "Clement Delangue (Hugging Face) = Advocated for holding companies accountable for AI-led cyberattacks.",
+      "tags": [
+        "AI",
+        "Cyberattack",
+        "Legal Responsibility",
+        "Hugging Face",
+        "Clement Delangue"
+      ],
+      "source": {
+        "title": "When rogue AI launches a cyberattack, who is legally responsible?",
+        "url": "https://www.thehindu.com/sci-tech/technology/when-rogue-ai-launches-a-cyberattack-who-is-legally-responsible/article71299777.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q19",
+      "question": "What specific aspect of space activities do the new IN-SPACe rules reportedly expose an \"insurance crunch\" for?",
+      "options": [
+        "Space tourism",
+        "Satellite manufacturing",
+        "Rocket launches",
+        "Satellite re-entry"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "The new IN-SPACe re-entry rules have reportedly exposed an \"insurance crunch,\" highlighting challenges in securing adequate insurance coverage for satellite re-entry operations. This indicates a gap in the existing insurance market for this specific risk.",
+      "background": "IN-SPACe (Indian National Space Promotion and Authorization Centre) is a government agency responsible for promoting, authorizing, and supervising space activities by non-governmental private entities. New regulations often bring to light existing gaps in supporting industries like insurance.",
+      "examRelevance": "IN-SPACe re-entry rules = Exposed insurance crunch for satellite re-entry.",
+      "tags": [
+        "IN-SPACe",
+        "Satellite Re-entry",
+        "Space Technology",
+        "Insurance",
+        "Space Policy"
+      ],
+      "source": {
+        "title": "IN-SPACe re-entry rules expose insurance crunch",
+        "url": "https://economictimes.indiatimes.com/tech/technology/in-space-re-entry-rules-expose-insurance-crunch/articleshow/132810278.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q20",
+      "question": "The next tranche of the ECMS (Electronics Component Manufacturing Scheme) is expected to greenlight plants for the manufacturing of what critical components?",
+      "options": [
+        "Rare earth magnets",
+        "Lithium-ion batteries",
+        "Semiconductor chips",
+        "Solar panels"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "The upcoming tranche of the Electronics Component Manufacturing Scheme (ECMS) is anticipated to give approval for the establishment of rare earth magnet manufacturing plants. This move aims to bolster domestic production of critical components and reduce import dependency.",
+      "background": "Rare earth elements are crucial for various high-tech industries, including electronics, electric vehicles, and defense. Reducing dependence on specific countries for these materials is a strategic priority for many nations to ensure supply chain security.",
+      "examRelevance": "ECMS tranche = Expected to greenlight rare earth magnet plants.",
+      "tags": [
+        "ECMS",
+        "Rare Earth Magnets",
+        "Electronics Manufacturing",
+        "Critical Minerals",
+        "Make in India"
+      ],
+      "source": {
+        "title": "ECMS tranche may focus on rare earth magnet plants",
+        "url": "https://economictimes.indiatimes.com/tech/technology/next-ecms-tranche-may-greenlight-rare-earth-magnet-plants/articleshow/132812570.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q21",
+      "question": "Myanmar's detained Nobel Peace Prize winner, Aung San Suu Kyi, recently met with an official from which international organization?",
+      "options": [
+        "Amnesty International",
+        "Doctors Without Borders",
+        "United Nations",
+        "International Committee of the Red Cross"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Myanmar's government reported that the detained Nobel Peace Prize winner, Aung San Suu Kyi, recently met with an official from the International Committee of the Red Cross (ICRC). This meeting occurred amid concerns over her health and conditions of detention.",
+      "background": "Aung San Suu Kyi, 81, has been in detention since the military coup in February 2021. The ICRC often facilitates humanitarian visits to political detainees to monitor their well-being and ensure their treatment adheres to international standards.",
+      "examRelevance": "Aung San Suu Kyi = Met with International Committee of the Red Cross official.",
+      "tags": [
+        "Aung San Suu Kyi",
+        "Myanmar",
+        "Nobel Peace Prize",
+        "Red Cross",
+        "Detention"
+      ],
+      "source": {
+        "title": "Myanmar’s Aung San Suu Kyi meets Red Cross official, government says",
+        "url": "https://www.thehindu.com/news/international/myanmars-aung-san-suu-kyi-meets-red-cross-official-government-says/article71299861.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q22",
+      "question": "A ferry fire in Indonesia recently resulted in five deaths and 41 people missing. How many people on the vessel were rescued, according to the regional Surabaya Search and Rescue Agency?",
+      "options": [
+        "180",
+        "200",
+        "225",
+        "250"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "A ferry fire in Indonesia led to five fatalities and 41 individuals missing. The regional Surabaya Search and Rescue Agency reported that a total of 225 people on board the vessel were successfully rescued.",
+      "background": "Ferry accidents are unfortunately not uncommon in Indonesia, an archipelago nation heavily reliant on sea transport. Safety regulations and emergency response capabilities are critical in such situations to minimize casualties.",
+      "examRelevance": "Indonesia ferry fire = 225 people rescued.",
+      "tags": [
+        "Indonesia",
+        "Ferry Fire",
+        "Maritime Accident",
+        "Surabaya Search and Rescue"
+      ],
+      "source": {
+        "title": "Five dead, 41 missing in Indonesia ferry fire",
+        "url": "https://www.thehindu.com/news/international/ferry-fire-in-indonesia-leaves-few-dead-and-many-missing/article71297598.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q23",
+      "question": "U.S. Senate leaders recently reached a funding deal to avoid a government shutdown. When is the Senate likely to vote on this measure?",
+      "options": [
+        "After the upcoming elections",
+        "Before its traditional August recess",
+        "Before the end of the year",
+        "In the next fiscal quarter"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "U.S. Senate leaders have reached a funding deal to prevent a government shutdown. The Senate is likely to vote on this measure before leaving Washington at week's end for its traditional August recess.",
+      "background": "Government shutdowns in the U.S. occur when Congress fails to pass appropriations bills or continuing resolutions, leading to disruptions in government services. Avoiding a shutdown is crucial, especially during campaign season, to prevent economic uncertainty.",
+      "examRelevance": "U.S. Senate funding deal = Vote expected before August recess.",
+      "tags": [
+        "U.S. Senate",
+        "Government Shutdown",
+        "Funding Deal",
+        "August Recess"
+      ],
+      "source": {
+        "title": "U.S. Senate leaders reach funding deal to avoid shutdown during campaign season",
+        "url": "https://www.thehindu.com/news/international/us-senate-leaders-reach-funding-deal-to-avoid-shutdown-during-campaign-season/article71299454.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q24",
+      "question": "The recent exchange of strikes between Ukraine and Russia resulted in at least how many fatalities?",
+      "options": [
+        "14",
+        "10",
+        "12",
+        "16"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The recent exchange of strikes between Ukraine and Russia, occurring nearly four-and-a-half years into their conflict, resulted in at least 14 deaths. Both sides appear to be increasing the scale and intensity of their attacks.",
+      "background": "The conflict between Ukraine and Russia has been ongoing since 2022, with both nations engaging in regular military strikes. Civilian casualties often result from these escalating attacks, highlighting the humanitarian cost of the war.",
+      "examRelevance": "Ukraine-Russia strikes = At least 14 dead.",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "Conflict",
+        "Fatalities",
+        "Geopolitics"
+      ],
+      "source": {
+        "title": "At least 14 dead as Ukraine, Russia exchange strikes",
+        "url": "https://www.thehindu.com/news/international/several-killed-as-ukraine-russia-exchange-strikes-august-3-2026/article71299756.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q25",
+      "question": "An earthquake recently struck Egypt. What was the magnitude of this earthquake?",
+      "options": [
+        "5.1",
+        "5.4",
+        "5.7",
+        "4.8"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "An earthquake of magnitude 5.4 recently struck Egypt. The Egyptian Red Crescent activated its emergency response plan in affected governorates but reported no initial casualties or property damage.",
+      "background": "Egypt is located in a seismically active region, though major earthquakes are less frequent than in some other parts of the world. Earthquakes are measured on the Richter scale, with magnitudes indicating the energy released at the source.",
+      "examRelevance": "Egypt earthquake = Magnitude 5.4.",
+      "tags": [
+        "Egypt",
+        "Earthquake",
+        "Natural Disaster",
+        "Magnitude"
+      ],
+      "source": {
+        "title": "Earthquake of magnitude 5.4 strikes Egypt",
+        "url": "https://www.thehindu.com/news/international/egypt-earthquake-toll-updates-damage-august-3-2026/article71299726.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q26",
+      "question": "The Mayor of Moscow recently described a deadly bomb attack on a restaurant in the city as a \"terrorist act.\" In which city did this attack occur?",
+      "options": [
+        "Moscow",
+        "Minsk",
+        "St. Petersburg",
+        "Kyiv"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The Mayor of Moscow officially labeled a deadly bomb attack on a restaurant in the city as a \"terrorist act.\" Footage released by Russian state media showed heavily armed law-enforcement officers, several ambulances, and other emergency vehicles at the site.",
+      "background": "Terrorist acts are deliberate acts of violence, typically against civilians, intended to create fear and achieve political or ideological goals. Such incidents often lead to heightened security measures and extensive investigations.",
+      "examRelevance": "Moscow Mayor = Called restaurant bomb attack a \"terrorist act\".",
+      "tags": [
+        "Moscow",
+        "Terrorist Act",
+        "Bomb Attack",
+        "Restaurant",
+        "Russia"
+      ],
+      "source": {
+        "title": "Moscow Mayor calls deadly bomb attack on a restaurant a 'terrorist act'",
+        "url": "https://www.thehindu.com/news/international/moscow-mayor-calls-deadly-bomb-attack-on-a-restaurant-a-terrorist-act/article71299021.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q27",
+      "question": "Which district in Kerala has been issued a flash flood warning due to intense rainfall over the past couple of days?",
+      "options": [
+        "Kozhikode",
+        "Pathanamthitta",
+        "Thrissur",
+        "Kannur"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "A flash flood warning has been issued for Pathanamthitta district in Kerala, following intense rainfall recorded over the past couple of days. The state continues to experience moderate to heavy rain, leading to rising river levels.",
+      "background": "Kerala is prone to heavy monsoon rains and associated flooding and landslides, especially in low-lying and hilly regions. The state government often holds emergency meetings and issues alerts to manage the situation and ensure public safety.",
+      "examRelevance": "Pathanamthitta (Kerala) = Issued flash flood warning due to intense rainfall.",
+      "tags": [
+        "Kerala",
+        "Monsoon",
+        "Flash Flood",
+        "Pathanamthitta",
+        "Rainfall"
+      ],
+      "source": {
+        "title": "Moderate heavy rain continues in Kerala; CM to chair emergency meeting",
+        "url": "https://www.thehindu.com/news/national/kerala/moderate-heavy-rain-monsoon-weather-updates-august-3-2026/article71299802.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q28",
+      "question": "Which district in Assam is currently the worst-hit by floods, affecting over 55,000 people?",
+      "options": [
+        "Charaideo",
+        "Lakhimpur",
+        "Jorhat",
+        "Sivasagar"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Sivasagar district is currently the worst-hit by floods in Assam, with over 55,000 people affected. The floods continue to impact 1.35 lakh people across the state, and the death toll has risen to 85.",
+      "background": "Assam frequently experiences severe floods during the monsoon season, leading to widespread displacement and loss of life and property. Flood relief and rehabilitation efforts are ongoing challenges for the state administration and disaster management agencies.",
+      "examRelevance": "Sivasagar = Worst-hit district by floods in Assam (over 55,000 affected).",
+      "tags": [
+        "Assam",
+        "Floods",
+        "Sivasagar",
+        "Natural Disaster",
+        "Monsoon"
+      ],
+      "source": {
+        "title": "1.35 lakh affected still affected by floods in Assam; 3 more deaths take toll to 85",
+        "url": "https://www.thehindu.com/news/national/assam/135-lakh-affected-still-affected-by-floods-in-assam-3-more-deaths-take-toll-to-85/article71299014.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q29",
+      "question": "Which municipal corporation recently launched a comprehensive campaign to monitor illegal waste dumping through CCTV surveillance?",
+      "options": [
+        "Kolkata Municipal Corporation",
+        "Greater Chennai Corporation",
+        "Brihanmumbai Municipal Corporation (BMC)",
+        "Delhi Municipal Corporation"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "The Solid Waste Management Department of the Brihanmumbai Municipal Corporation (BMC) launched a comprehensive campaign to improve visible cleanliness across Mumbai and its suburbs, which includes monitoring illegal waste dumping through CCTV surveillance.",
+      "background": "Illegal waste dumping is a significant environmental and public health issue in urban areas. Utilizing technology like CCTV surveillance is a modern approach to enforce waste management regulations and deter offenders, aiming for a cleaner city environment.",
+      "examRelevance": "BMC (Mumbai) = To monitor illegal waste dumping using CCTV surveillance.",
+      "tags": [
+        "BMC",
+        "Mumbai",
+        "Waste Management",
+        "CCTV Surveillance",
+        "Environment"
+      ],
+      "source": {
+        "title": "BMC to monitor illegal waste dumping through CCTV surveillance",
+        "url": "https://www.thehindu.com/news/cities/mumbai/bmc-to-monitor-illegal-waste-dumping-through-cctv-surveillance/article71298217.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-03-q30",
+      "question": "In which district of Kerala was a hunger strike against a laterite quarry suspended after the District Collector issued a temporary stop memo?",
+      "options": [
+        "Kozhikode",
+        "Kannur",
+        "Wayanad",
+        "Kasaragod"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "A hunger strike against a laterite quarry in Kannur district, Kerala, was suspended after the District Collector issued a temporary stop memo. Residents alleged the quarry threatened around 50 Scheduled Tribe families and community facilities on an ecologically sensitive hill.",
+      "background": "Mining activities, particularly in ecologically sensitive areas, often lead to protests from local communities concerned about environmental degradation and displacement. Administrative intervention, like a stop memo, provides temporary relief and allows for further inquiry into the permit and its implications.",
+      "examRelevance": "Kannur (Kerala) = Hunger strike against laterite quarry suspended by Collector's stop memo.",
+      "tags": [
+        "Kannur",
+        "Laterite Quarry",
+        "Environmental Protest",
+        "Stop Memo",
+        "Kerala"
+      ],
+      "source": {
+        "title": "Hunger strike against laterite quarry in Kannur suspended after Collector issues stop memo",
+        "url": "https://www.thehindu.com/news/national/kerala/hunger-strike-against-laterite-quarry-in-kannur-suspended-after-collector-issues-stop-memo/article71297605.ece"
+      }
+    }
+  ]
+}
