@@ -1,0 +1,797 @@
+{
+  "id": "daily-2026-08-05",
+  "type": "daily",
+  "date": "2026-08-05",
+  "title": "Current Affairs — 05 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-05-q1",
+      "question": "Who recently presented the TVK government's maiden Budget for Tamil Nadu for the year 2026?",
+      "options": [
+        "M.K. Stalin",
+        "Harpal Singh Cheema",
+        "N. Marie Wilson",
+        "Udhayanidhi Stalin"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Tamil Nadu Finance Minister N. Marie Wilson recently presented the TVK-led government's maiden Budget for the year 2026. This budget follows the release of a White Paper on the State’s finances by the TVK government.",
+      "background": "The presentation of the state budget is a significant annual event, outlining the government's financial plans and priorities. Finance Minister N. Marie Wilson's presentation marks a key financial milestone for the TVK government, which had previously highlighted financial irregularities under the preceding administration.",
+      "examRelevance": "N. Marie Wilson presented the TVK government's maiden Budget for Tamil Nadu in 2026.",
+      "tags": [
+        "Tamil Nadu",
+        "Budget",
+        "N. Marie Wilson",
+        "TVK Government"
+      ],
+      "source": {
+        "title": "Tamil Nadu Budget 2026 LIVE updates: State Finance Minister N. Marie Wilson to present TVK government's maiden Budget",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-budget-2026-finance-minister-n-marie-wilson-present-tvk-government-maiden-financial-plan-live-updates-august-5-2026/article71307860.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q2",
+      "question": "The Indian Meteorological Department (IMD) has compiled a 125-year rainfall dataset, covering 110 weather stations from 1901 to 2025, for which Indian state?",
+      "options": [
+        "Karnataka",
+        "Tamil Nadu",
+        "Kerala",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "The IMD has compiled a comprehensive 125-year rainfall dataset for Kerala, which includes data from 110 weather stations across the state, spanning from 1901 to 2025. This dataset provides crucial insights into the state's monsoon patterns and vulnerable regions.",
+      "background": "This extensive dataset is a valuable tool for understanding long-term climatic trends and preparing for future rain-induced calamities. Despite its availability, experts note that the state government has been criticized for lacking long-term mitigation plans and waiting for immediate weather alerts.",
+      "examRelevance": "IMD's 125-year rainfall dataset (1901-2025) is for Kerala, covering 110 weather stations.",
+      "tags": [
+        "IMD",
+        "Kerala",
+        "Rainfall Data",
+        "Monsoon",
+        "Climate"
+      ],
+      "source": {
+        "title": "Lack of long-term plans to mitigate rain-induced calamities worrying for Kerala",
+        "url": "https://www.thehindu.com/news/national/kerala/lack-of-long-term-plans-to-mitigate-rain-inducted-calamities-worrying-for-kerala/article71302266.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q3",
+      "question": "The Chola idols of Gajasamharamurti, recently highlighted for depicting Lord Shiva’s valour and ferocity, are primarily found in which Indian state?",
+      "options": [
+        "Andhra Pradesh",
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "Chola idols of Gajasamharamurti, representing Lord Shiva's fierce and destructive aspect, are primarily found in Tamil Nadu. These sculptures are renowned for depicting the deity's valour and ferocity.",
+      "background": "The Chola dynasty, which ruled parts of South India from the 9th to the 13th century CE, was a prolific patron of art and architecture, particularly temple building and bronze sculpture. Their bronze idols, including various forms of Shiva like Nataraja and Samharamurti, are celebrated for their artistic excellence and iconographic significance.",
+      "examRelevance": "Chola idols of Gajasamharamurti depicting Lord Shiva are found in Tamil Nadu.",
+      "tags": [
+        "Chola Idols",
+        "Gajasamharamurti",
+        "Lord Shiva",
+        "Tamil Nadu",
+        "Art History"
+      ],
+      "source": {
+        "title": "Chola idols of Gajasamharamurti in Tamil Nadu depict Lord Shiva’s valour and ferocity",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/chola-idols-of-gajasamharamurti-in-tn-depict-lord-shiva-valour-and-ferocity/article71306172.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q4",
+      "question": "Which two key financial bills were scheduled to be taken up by the Lok Sabha during Day 13 of the Monsoon Session, as reported recently?",
+      "options": [
+        "Goods and Services Tax Bill & Insolvency and Bankruptcy Code Bill",
+        "Negotiable Instruments Bill & Companies Amendment Bill",
+        "Bankers' Books Evidence Bill & Taxation Amendment Bill",
+        "Reserve Bank of India Bill & Banking Regulation Bill"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "During Day 13 of the Parliament's Monsoon Session, the Lok Sabha was scheduled to take up the Bankers' Books Evidence Bill and the Taxation Amendment Bill. These bills are crucial for financial reforms and legislative updates.",
+      "background": "Parliamentary sessions often involve the deliberation and passage of various bills, including financial legislation. The Bankers' Books Evidence Bill typically deals with the admissibility of entries in bankers' books as evidence, while Taxation Amendment Bills update the country's tax laws.",
+      "examRelevance": "Lok Sabha scheduled to take up Bankers' Books Evidence Bill and Taxation Amendment Bill during Monsoon Session.",
+      "tags": [
+        "Lok Sabha",
+        "Monsoon Session",
+        "Bankers' Books Evidence Bill",
+        "Taxation Amendment Bill",
+        "Legislation"
+      ],
+      "source": {
+        "title": "Parliament Monsoon Session Day 13 LIVE: Lok Sabha to take up Bankers' Books, Taxation Bills today",
+        "url": "https://www.thehindu.com/news/national/parliament-monsoon-session-lok-sabha-rajya-sabha-day-13-live-updates-bankers-books-evidence-bill-taxation-amendment-bill-august-5-2026/article71307974.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q5",
+      "question": "After how many years are student body polls scheduled to be held in Madhya Pradesh universities, according to the academic calendar of 2026-27?",
+      "options": [
+        "Eleven years",
+        "Seven years",
+        "Five years",
+        "Nine years"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Student body polls are scheduled to be held in Madhya Pradesh universities in September 2026, marking their return after a gap of nine years. The state government shared this information with a Division Bench in Jabalpur as part of the 2026-27 academic calendar.",
+      "background": "Student elections are a vital part of democratic functioning within educational institutions, providing a platform for student representation and leadership. The resumption of these polls after a prolonged hiatus is a significant development for university students in Madhya Pradesh.",
+      "examRelevance": "Student body polls to be held in Madhya Pradesh universities after nine years in September 2026.",
+      "tags": [
+        "Madhya Pradesh",
+        "Student Body Polls",
+        "Universities",
+        "Academic Calendar"
+      ],
+      "source": {
+        "title": "Student body polls to be held in Madhya Pradesh universities after nine years",
+        "url": "https://www.thehindu.com/news/national/madhya-pradesh/student-body-polls-to-be-held-in-madhya-pradesh-universities-after-nine-years/article71306334.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q6",
+      "question": "India's Ministry of External Affairs (MEA) clarified that the recent press event involving Bangladesh's deposed Prime Minister Sheikh Hasina on Indian territory was organized by whom?",
+      "options": [
+        "The Indian government",
+        "The United Nations",
+        "The Bangladesh High Commission",
+        "A private media entity"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The Ministry of External Affairs (MEA) clarified that the recent press event featuring Bangladesh's deposed Prime Minister Sheikh Hasina on Indian soil was organized by a 'private media entity', asserting that the Indian government had no role in it. Bangladesh has expressed concerns that continued political activities by Sheikh Hasina on Indian territory could harm bilateral ties.",
+      "background": "Diplomatic protocols often dictate how political figures from other nations conduct activities on foreign soil. The MEA's statement underscores the Indian government's position on not being directly involved in the political engagements of foreign leaders in exile or opposition, especially when it could impact bilateral relations with their home country.",
+      "examRelevance": "MEA stated Sheikh Hasina's press event in India was organized by a 'private media entity'.",
+      "tags": [
+        "Sheikh Hasina",
+        "MEA",
+        "Bangladesh",
+        "India",
+        "Press Event",
+        "Diplomacy"
+      ],
+      "source": {
+        "title": "Government has no role; event being organised by ‘private media entity’: MEA on Sheikh Hasina’s press event",
+        "url": "https://www.thehindu.com/news/national/government-has-no-role-event-being-organised-by-private-media-entity-mea-on-sheikh-hasinas-press-event/article71306147.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q7",
+      "question": "Zinedine Zidane has recently taken over as the manager of which national football team?",
+      "options": [
+        "Germany",
+        "France",
+        "Italy",
+        "Portugal"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Legendary midfielder Zinedine Zidane has recently taken over the French national football team, replacing Didier Deschamps as manager. This appointment is part of a significant managerial carousel in international football.",
+      "background": "Zidane is one of football's most decorated figures, both as a player and as a manager, having achieved considerable success with Real Madrid. His move to the French national team brings high expectations, given his status and the team's strong recent performances.",
+      "examRelevance": "Zinedine Zidane is the new manager of the France national football team.",
+      "tags": [
+        "Zinedine Zidane",
+        "Football",
+        "Manager",
+        "France",
+        "Sports Appointments"
+      ],
+      "source": {
+        "title": "Football’s managerial carousel is up and running",
+        "url": "https://www.thehindu.com/sport/football/footballs-managerial-carousel-is-up-and-running/article71306890.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q8",
+      "question": "Jürgen Klopp has recently been appointed as the manager of which national football team?",
+      "options": [
+        "Portugal",
+        "Italy",
+        "Germany",
+        "France"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Jürgen Klopp has recently been appointed as the manager of the German national football team. He faces the significant responsibility of guiding a team that has been underperforming in recent times.",
+      "background": "Klopp is widely regarded as one of the best football managers in the world, known for his 'Gegenpressing' style and success with clubs like Borussia Dortmund and Liverpool. His appointment to the national side signals a strong intent to rejuvenate Germany's football fortunes.",
+      "examRelevance": "Jürgen Klopp is the new manager of the Germany national football team.",
+      "tags": [
+        "Jürgen Klopp",
+        "Football",
+        "Manager",
+        "Germany",
+        "Sports Appointments"
+      ],
+      "source": {
+        "title": "Football’s managerial carousel is up and running",
+        "url": "https://www.thehindu.com/sport/football/footballs-managerial-carousel-is-up-and-running/article71306890.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q9",
+      "question": "Roberto Mancini has recently been appointed as the manager of which national football team?",
+      "options": [
+        "Germany",
+        "France",
+        "Portugal",
+        "Italy"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Roberto Mancini has recently taken on the role of manager for the Italian national football team. He is tasked with leading a squad that has been considered an under-achiever in recent major tournaments.",
+      "background": "Mancini previously led Italy to victory in the UEFA European Championship. His return or new appointment to the national team indicates a desire to bring back past successes and stabilize the team's performance on the international stage.",
+      "examRelevance": "Roberto Mancini is the new manager of the Italy national football team.",
+      "tags": [
+        "Roberto Mancini",
+        "Football",
+        "Manager",
+        "Italy",
+        "Sports Appointments"
+      ],
+      "source": {
+        "title": "Football’s managerial carousel is up and running",
+        "url": "https://www.thehindu.com/sport/football/footballs-managerial-carousel-is-up-and-running/article71306890.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q10",
+      "question": "Jorge Jesus has recently been tasked with guiding which national football team in its quest for the biggest prize?",
+      "options": [
+        "France",
+        "Italy",
+        "Portugal",
+        "Germany"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Jorge Jesus has recently been appointed to guide the Portugal national football team. His primary task is to lead the team in its pursuit of major international honors.",
+      "background": "Jorge Jesus is a well-known Portuguese football manager with extensive experience at club level, having managed several prominent teams including Benfica and Flamengo. His appointment to the national team reflects a strategic move to bring in experienced leadership for their international campaigns.",
+      "examRelevance": "Jorge Jesus is the new manager of the Portugal national football team.",
+      "tags": [
+        "Jorge Jesus",
+        "Football",
+        "Manager",
+        "Portugal",
+        "Sports Appointments"
+      ],
+      "source": {
+        "title": "Football’s managerial carousel is up and running",
+        "url": "https://www.thehindu.com/sport/football/footballs-managerial-carousel-is-up-and-running/article71306890.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q11",
+      "question": "English football club Fulham recently signed Gonzalo and Palacios from which prominent Spanish club?",
+      "options": [
+        "Valencia CF",
+        "Sevilla FC",
+        "Atletico Madrid",
+        "Real Madrid"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "English football club Fulham recently completed the signing of Gonzalo and Palacios from the prominent Spanish club Real Madrid. This transfer strengthens Fulham's squad for the upcoming season.",
+      "background": "Football transfers are a regular feature of the sport's calendar, with clubs buying and selling players to enhance their teams. Real Madrid is one of the most successful football clubs globally, and players moving from such a high-profile club often bring significant talent and experience.",
+      "examRelevance": "Fulham signed Gonzalo and Palacios from Real Madrid.",
+      "tags": [
+        "Fulham",
+        "Real Madrid",
+        "Gonzalo",
+        "Palacios",
+        "Football Transfers"
+      ],
+      "source": {
+        "title": "Fulham sign Gonzalo, Palacios from Real Madrid",
+        "url": "https://www.thehindu.com/sport/football/fulham-sign-gonzalo-palacios-from-real-madrid/article71306996.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q12",
+      "question": "Which two countries are reportedly working on a plan to reopen the Strait of Hormuz, with the US also nearing an interim deal?",
+      "options": [
+        "Iran and Saudi Arabia",
+        "Yemen and Egypt",
+        "Qatar and UAE",
+        "Iran and Oman"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Iran and Oman are reportedly working on a plan to reopen the Strait of Hormuz, with reports also indicating that the US is nearing an interim deal with Iran and Oman on this matter. Qatar has also stated that mediators are making progress in these talks.",
+      "background": "The Strait of Hormuz is a strategically vital waterway connecting the Persian Gulf with the Arabian Sea, through which a significant portion of the world's oil supply passes. Its closure or disruption would have major global economic implications. Diplomatic efforts to ensure its free passage are ongoing, especially amidst regional tensions.",
+      "examRelevance": "Iran and Oman are working on a plan to reopen the Strait of Hormuz, with US involvement.",
+      "tags": [
+        "Strait of Hormuz",
+        "Iran",
+        "Oman",
+        "US",
+        "Diplomatic Engagement",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Iran, Oman working on plan to reopen Strait of Hormuz",
+        "url": "https://www.thehindu.com/news/international/iran-oman-working-on-plan-to-reopen-strait-of-hormuz/article71307975.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q13",
+      "question": "A new technique using 'ghost particles' has been developed to track what type of material to detect clandestine removal for plutonium extraction?",
+      "options": [
+        "Radioactive waste",
+        "Heavy water",
+        "Spent nuclear fuel",
+        "Uranium ore"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "A new technique utilizing the signature of 'ghost particles' (neutrinos) has been developed to track spent nuclear fuel. This method can determine if a state has clandestinely removed fuel assemblies from a cooling pool, potentially to extract plutonium, a key component for nuclear weapons.",
+      "background": "Monitoring nuclear materials is crucial for non-proliferation efforts and international security. Traditional methods can be circumvented, making new detection technologies vital. This 'ghost particle' technique offers a novel way to enhance verification, addressing concerns about covert nuclear activities.",
+      "examRelevance": "New technique using 'ghost particles' tracks spent nuclear fuel to prevent plutonium extraction.",
+      "tags": [
+        "Ghost Particles",
+        "Nuclear Fuel",
+        "Plutonium",
+        "Nuclear Weapons",
+        "Science & Technology"
+      ],
+      "source": {
+        "title": "‘Ghost particles’ signature can track where spent nuclear fuel goes",
+        "url": "https://www.thehindu.com/sci-tech/science/ghost-particles-signature-can-track-where-spent-nuclear-fuel-goes/article71307970.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q14",
+      "question": "Which state assembly recently passed a resolution urging the Centre to suspend the mandatory rollout of E20 fuel?",
+      "options": [
+        "Punjab",
+        "Rajasthan",
+        "Haryana",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Punjab Assembly recently passed a resolution urging the Centre to suspend the mandatory rollout of E20 fuel. Finance Minister Harpal Singh Cheema questioned why the implementation of the E20 fuel policy has been advanced from its earlier target of 2030.",
+      "background": "E20 fuel, a blend of 20% ethanol with petrol, is part of India's strategy to reduce crude oil imports and carbon emissions. However, its mandatory rollout has faced concerns regarding its impact on older vehicles, fuel efficiency, and the agricultural sector, leading to calls for reconsideration from various states and groups.",
+      "examRelevance": "Punjab Assembly passed a resolution urging the Centre to suspend mandatory rollout of E20 fuel.",
+      "tags": [
+        "Punjab Assembly",
+        "E20 Fuel",
+        "Resolution",
+        "Centre-State Relations",
+        "Fuel Policy"
+      ],
+      "source": {
+        "title": "Punjab Assembly passes resolution urging Centre to suspend mandatory rollout of E20 fuel",
+        "url": "https://www.thehindu.com/news/national/punjab/punjab-assembly-passes-resolution-urging-centre-to-suspend-mandatory-rollout-of-e20-fuel/article71307003.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q15",
+      "question": "The upcoming BRICS Summit, scheduled to be held in New Delhi in September, has adopted what theme?",
+      "options": [
+        "Strengthening Multilateralism for Global Stability",
+        "Global Partnership for Sustainable Development",
+        "Building for Resilience, Innovation, Cooperation and Sustainability",
+        "Towards a Fairer and More Equitable World Order"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The BRICS Summit, set to take place in New Delhi in September, has adopted the theme 'Building for Resilience, Innovation, Cooperation and Sustainability'. This theme aims to leverage the collective strength of member countries to address global challenges.",
+      "background": "BRICS is an acronym for the powerful bloc of emerging economies: Brazil, Russia, India, China, and South Africa. The annual summit provides a platform for leaders to discuss economic cooperation, political coordination, and global governance issues. India hosting the summit reinforces its role in the global South.",
+      "examRelevance": "BRICS Summit in New Delhi (September) theme: 'Building for Resilience, Innovation, Cooperation and Sustainability'.",
+      "tags": [
+        "BRICS Summit",
+        "New Delhi",
+        "Theme",
+        "International Relations",
+        "Global Challenges"
+      ],
+      "source": {
+        "title": "What key issues of the BRICS Summit to be held in New Delhi in September? | Explained",
+        "url": "https://www.thehindu.com/news/international/what-key-issues-of-the-brics-summit-to-be-held-in-new-delhi-in-september-explained/article71307180.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q16",
+      "question": "The Supreme Court recently ordered the implementation of automatic challans for which type of vehicles, using cameras?",
+      "options": [
+        "Uninsured vehicles",
+        "Vehicles without pollution certificates",
+        "Over-speeding vehicles",
+        "Vehicles with expired licenses"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently issued an order for the implementation of automatic challans for uninsured vehicles, utilizing cameras for detection. This initiative aims to ensure compliance with motor insurance regulations and enhance road safety.",
+      "background": "Motor vehicle insurance is mandatory in India to provide financial protection against accidents. The use of technology like cameras for automatic challans represents a move towards stricter enforcement of traffic laws and insurance requirements, reducing manual intervention and increasing accountability.",
+      "examRelevance": "Supreme Court ordered automatic challans for uninsured vehicles using cameras.",
+      "tags": [
+        "Supreme Court",
+        "Automatic Challans",
+        "Uninsured Vehicles",
+        "Road Safety",
+        "Traffic Laws"
+      ],
+      "source": {
+        "title": "SC orders automatic challans for uninsured vehicles",
+        "url": "https://economictimes.indiatimes.com/news/india/supreme-court-orders-automatic-challans-for-uninsured-vehicles-using-cameras/articleshow/132886813.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q17",
+      "question": "Indian boxers Sachin Siwach (men's 60 kg gold) and Preeti Pawar, who had a record-breaking medal haul at the Commonwealth Games 2026, are now aiming for a gold medal in which upcoming major event?",
+      "options": [
+        "Olympic Games",
+        "World Championships",
+        "Asian Games",
+        "Youth Commonwealth Games"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Indian boxers Sachin Siwach, who secured a gold medal in the men's 60 kg final, and Preeti Pawar, both of whom achieved a record-breaking medal haul at the Commonwealth Games 2026, are now setting their sights on winning gold at the upcoming Asian Games.",
+      "background": "Commonwealth Games are a major multi-sport event, and a strong performance there often serves as a stepping stone for athletes to target other prestigious competitions like the Asian Games and the Olympics. Their success highlights India's growing prominence in amateur boxing.",
+      "examRelevance": "Sachin Siwach and Preeti Pawar (CWG 2026 medalists) are now targeting gold at the Asian Games.",
+      "tags": [
+        "Sachin Siwach",
+        "Preeti Pawar",
+        "Boxing",
+        "Commonwealth Games 2026",
+        "Asian Games",
+        "Sports"
+      ],
+      "source": {
+        "title": "Sachin Siwach, Preeti Pawar eye Asian Games gold after record-breaking Boxing medal haul at CWG 2026",
+        "url": "https://www.thehindu.com/sport/other-sports/sachin-siwach-preeti-pawar-eye-asian-games-gold-after-record-breaking-boxing-medal-haul-at-cwg-2026/article71306998.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q18",
+      "question": "Brent crude, the international standard, recently saw its price ease significantly, sinking to what value per barrel?",
+      "options": [
+        "$85.00",
+        "$75.20",
+        "$79.64",
+        "$82.15"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Brent crude, the international benchmark for oil prices, recently experienced a significant easing, sinking by 4.9% to $79.64 per barrel. This drop reflects a shift from fear to hope in the global oil market.",
+      "background": "Global oil prices are highly sensitive to geopolitical events, economic outlooks, and supply-demand dynamics. Fluctuations in Brent crude prices can have wide-ranging impacts on national economies, inflation, and consumer costs worldwide.",
+      "examRelevance": "Brent crude price sank to $79.64 per barrel.",
+      "tags": [
+        "Brent Crude",
+        "Oil Prices",
+        "Global Markets",
+        "Economy",
+        "Commodities"
+      ],
+      "source": {
+        "title": "U.S. stocks leap toward record as profits keep piling up, oil prices ease",
+        "url": "https://www.thehindu.com/business/markets/us-stocks-leap-toward-record-as-profits-keep-piling-up-oil-prices-ease/article71307016.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q19",
+      "question": "The runway at Cape Town airport was recently closed due to which incident involving an aircraft?",
+      "options": [
+        "Engine failure",
+        "Tyres failure",
+        "Bird strike",
+        "Landing gear malfunction"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "The runway at Cape Town airport was recently closed after an incident involving a plane's tyres failure. All arriving flights were diverted to other airports, though domestic departures continued to operate.",
+      "background": "Airport runway closures due to aircraft incidents can cause significant disruptions to air travel, affecting thousands of passengers and flight schedules. Safety protocols require immediate action to ensure the integrity of the runway and the safety of subsequent flights.",
+      "examRelevance": "Cape Town airport runway closed due to a plane's tyres failure.",
+      "tags": [
+        "Cape Town Airport",
+        "Runway Closure",
+        "Aircraft Incident",
+        "South Africa",
+        "Air Travel"
+      ],
+      "source": {
+        "title": "Cape Town airport runway closed after plane's tyres fail, passengers safe",
+        "url": "https://www.thehindu.com/news/international/cape-town-airport-runway-closed-after-planes-tyres-fail-passengers-safe/article71307006.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q20",
+      "question": "The Trump administration recently revoked the visa of the Ambassador to the U.S. from which country, amid a spat with its President Lula?",
+      "options": [
+        "Argentina",
+        "Canada",
+        "Brazil",
+        "Mexico"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The Trump administration recently revoked the visa of Brazil's Ambassador to the U.S. This decision was stated as a reciprocal response to Brazil's actions, occurring amid a diplomatic spat with Brazilian President Lula.",
+      "background": "The revocation of a diplomat's visa is a serious diplomatic measure, often indicative of strained relations between countries. Such actions typically follow escalating tensions or specific disagreements between governments, in this case, between the U.S. and Brazil.",
+      "examRelevance": "Trump administration revoked Brazil's Ambassador's visa amid spat with President Lula.",
+      "tags": [
+        "Trump Administration",
+        "Brazil",
+        "Ambassador",
+        "Visa Revocation",
+        "Lula",
+        "Diplomacy"
+      ],
+      "source": {
+        "title": "Trump administration revokes visa of Brazil's Ambassador to U.S. in spat with Lula",
+        "url": "https://www.thehindu.com/news/international/trump-administration-revokes-visa-of-brazils-ambassador-to-us-in-spat-with-lula/article71307922.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q21",
+      "question": "How many unrecognised political parties were recently removed by the Election Commission from the list of registered parties in Uttarakhand?",
+      "options": [
+        "25",
+        "20",
+        "17",
+        "12"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Election Commission recently removed 17 unrecognised political parties from the list of registered parties in Uttarakhand. These parties were delisted because they did not contest any Lok Sabha or assembly elections after 2019 and their office addresses could not be traced during physical verification.",
+      "background": "The Election Commission of India regularly reviews the status of registered political parties to maintain the integrity of the electoral process. Parties that fail to meet certain criteria, such as contesting elections or maintaining verifiable addresses, can be delisted, which impacts their eligibility for electoral symbols and other benefits.",
+      "examRelevance": "Election Commission removed 17 unrecognised political parties from Uttarakhand list.",
+      "tags": [
+        "Election Commission",
+        "Uttarakhand",
+        "Political Parties",
+        "De-registration",
+        "Electoral Reforms"
+      ],
+      "source": {
+        "title": "EC removes 17 parties from Uttarakhand list",
+        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/ec-removes-17-unrecognised-parties-from-list-of-registered-political-parties-in-uttarakhand/articleshow/132885853.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q22",
+      "question": "Former Home Secretary G.K. Pillai-led group was recently denied police permission to release its annual report on Jammu and Kashmir in which city?",
+      "options": [
+        "Srinagar",
+        "Gulmarg",
+        "Leh",
+        "Jammu"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "A group led by former Home Secretary G.K. Pillai was recently denied police permission to release its annual report on human rights in Jammu and Kashmir in Srinagar. The report was scheduled to be released on August 7.",
+      "background": "The release of reports on human rights situations, especially in sensitive regions like Jammu and Kashmir, often attracts significant attention and can sometimes face administrative hurdles. G.K. Pillai has been involved with the Forum for Human Rights in Jammu and Kashmir, which produces such annual assessments.",
+      "examRelevance": "G.K. Pillai-led group denied police permission to release J&K human rights report in Srinagar.",
+      "tags": [
+        "G.K. Pillai",
+        "Jammu & Kashmir",
+        "Human Rights Report",
+        "Srinagar",
+        "Freedom of Expression"
+      ],
+      "source": {
+        "title": "Former Home Secretary G.K. Pillai-led group denied ‘police permission’ to release J&K report in Srinagar",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/former-home-secretary-gk-pillai-led-group-denied-police-permission-torelease-jk-report-in-srinagar/article71306456.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q23",
+      "question": "The International Agency for Research on Cancer (IARC) recently classified three common medicines as carcinogenic. Which of the following, routinely prescribed for hypertension, was mentioned as one of them?",
+      "options": [
+        "Metformin",
+        "Ibuprofen",
+        "Hydrochlorothiazide",
+        "Paracetamol"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "The International Agency for Research on Cancer (IARC) recently classified three common medicines as carcinogenic, with Hydrochlorothiazide being specifically mentioned as one of them. Hydrochlorothiazide is an inexpensive and widely available medicine routinely prescribed in India for managing hypertension.",
+      "background": "IARC, an agency of the World Health Organization (WHO), evaluates cancer risks from various substances and exposures. While such classifications are important for public health, experts often advise patients not to discontinue prescribed medications without consulting their doctors, as the benefits may still outweigh the potential risks.",
+      "examRelevance": "IARC classified Hydrochlorothiazide, a common hypertension medicine, as carcinogenic.",
+      "tags": [
+        "IARC",
+        "Carcinogenic",
+        "Medicines",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Health"
+      ],
+      "source": {
+        "title": "Three common medicines classified as carcinogenic by IARC; experts urge patients not to stop treatment | Explained",
+        "url": "https://www.thehindu.com/sci-tech/health/three-common-medicines-classified-as-carcinogenic-by-iarc-experts-urge-patients-not-to-stop-treatment-explained/article71307894.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q24",
+      "question": "Which Indian state is being proposed as a co-host for the 2030 Commonwealth Games (CWG) due to its sportspersons' recent performance, having bagged seven of India's 13 gold medals at CWG 2026?",
+      "options": [
+        "Uttar Pradesh",
+        "Punjab",
+        "Maharashtra",
+        "Haryana"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Haryana is being proposed as a co-host for the 2030 Commonwealth Games (CWG) due to the exceptional performance of its sportspersons. Athletes from the state bagged seven of India’s 13 gold medals and a total of 11 medals at the CWG 2026.",
+      "background": "Hosting major international sporting events like the Commonwealth Games requires significant infrastructure and organizational capacity. States with strong sporting traditions and successful athletes often advocate for co-hosting opportunities to leverage their existing facilities and promote sports development.",
+      "examRelevance": "Haryana proposed as co-host for 2030 Commonwealth Games after winning 7 gold medals at CWG 2026.",
+      "tags": [
+        "Haryana",
+        "Commonwealth Games",
+        "2030 CWG",
+        "Sports",
+        "Sports Infrastructure"
+      ],
+      "source": {
+        "title": "CWG high fuels calls to make Haryana co-host for 2030 games",
+        "url": "https://www.thehindu.com/news/national/haryana/cwg-high-fuels-calls-to-make-haryana-co-host-for-2030-games/article71306098.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q25",
+      "question": "Which regulatory body recently issued prohibition-of-sale orders against certain liquor makers and banned '100% pure' claims on Dabur products for being ambiguous and misleading?",
+      "options": [
+        "Food Safety and Standards Authority of India (FSSAI)",
+        "Bureau of Indian Standards (BIS)",
+        "Department of Consumer Affairs (DCA)",
+        "Advertising Standards Council of India (ASCI)"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Food Safety and Standards Authority of India (FSSAI) recently issued prohibition-of-sale orders against several liquor makers, stating that some rum and whisky brands were wrongly labeled as aged. Concurrently, FSSAI also banned '100% pure' claims on Dabur products, citing them as ambiguous, unverifiable, and likely to mislead consumers.",
+      "background": "FSSAI is India's apex food regulator, responsible for protecting and promoting public health through the regulation and supervision of food safety. Its actions against misleading labels and improper product descriptions are crucial for consumer protection and fair trade practices in the food and beverage industry.",
+      "examRelevance": "FSSAI issued prohibition-of-sale orders against liquor makers and banned '100% pure' claims on Dabur products.",
+      "tags": [
+        "FSSAI",
+        "Dabur",
+        "Liquor Makers",
+        "Food Safety",
+        "Misleading Labels",
+        "Consumer Protection"
+      ],
+      "source": {
+        "title": "Why has FSSAI issued prohibition-of-sale orders against liquor makers? | Explained",
+        "url": "https://www.thehindu.com/business/Industry/why-has-fssai-issued-prohibition-of-sale-orders-against-liquor-makers-explained/article71306955.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q26",
+      "question": "Which global technology company has recently plugged into India's sovereign AI stack by joining Sarvam AI's $75 million raise?",
+      "options": [
+        "Microsoft",
+        "Nvidia",
+        "Intel",
+        "Google"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Nvidia, a leading global technology company, has recently plugged into India's sovereign AI stack by participating in Sarvam AI's $75 million funding round. This investment signifies a major collaboration in the Indian AI ecosystem.",
+      "background": "India's 'sovereign AI stack' refers to the country's efforts to develop its own AI infrastructure, models, and applications, reducing reliance on foreign technologies. Nvidia's investment in Sarvam AI, an Indian AI startup, underscores the growing global interest and confidence in India's AI capabilities and market potential.",
+      "examRelevance": "Nvidia plugged into India's sovereign AI stack by joining Sarvam AI's $75 million raise.",
+      "tags": [
+        "Nvidia",
+        "Sarvam AI",
+        "India",
+        "Sovereign AI Stack",
+        "Investment",
+        "Artificial Intelligence"
+      ],
+      "source": {
+        "title": "Nvidia plugs into India's sovereign AI stack",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-plugs-into-indias-sovereign-ai-stack-joins-sarvams-75-million-raise/articleshow/132869263.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q27",
+      "question": "Assam Chief Minister Himanta Biswa Sarma announced that he would take up the issue of illegal mining with the Centre, citing it as a cause for floods in Assam. Which neighboring state was implicated in this context?",
+      "options": [
+        "Nagaland",
+        "Meghalaya",
+        "Arunachal Pradesh",
+        "Mizoram"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Assam Chief Minister Himanta Biswa Sarma announced that he would take up the issue of illegal mining in Nagaland with the Centre. He stated that mining activities in the neighboring state were contributing to floods in Assam, despite Nagaland-based organizations trashing the theory.",
+      "background": "Inter-state environmental issues, especially those related to resource extraction, can often lead to disputes and calls for central intervention. Floods are a recurring problem in Assam, and identifying and addressing their causes, whether natural or anthropogenic, is a critical concern for the state government.",
+      "examRelevance": "Assam CM Himanta Biswa Sarma to take up Nagaland mining issue with Centre for Assam floods.",
+      "tags": [
+        "Assam Floods",
+        "Himanta Biswa Sarma",
+        "Nagaland",
+        "Illegal Mining",
+        "Environment",
+        "Inter-State Dispute"
+      ],
+      "source": {
+        "title": "Assam floods: CM to take up Nagaland mining issue with Centre",
+        "url": "https://www.thehindu.com/news/national/assam/flood-in-assam-due-to-nagaland-mining-will-take-up-with-centre-himanta-biswa-sarma/article71305770.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q28",
+      "question": "Palestinians recently held a mass funeral for 112 bodies finally recovered from a 2023 strike in which region?",
+      "options": [
+        "Golan Heights",
+        "East Jerusalem",
+        "Gaza",
+        "West Bank"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Palestinians recently held a mass funeral for 112 bodies that were finally recovered from a 2023 strike in Gaza. The recovery and funeral highlight the ongoing impact of past conflicts in the region.",
+      "background": "The Gaza Strip has been a focal point of conflict for many years, leading to significant humanitarian crises and loss of life. Mass funerals for recovered victims underscore the human cost of these conflicts and the community's efforts to provide dignity to the deceased.",
+      "examRelevance": "Palestinians held mass funeral for 112 bodies recovered from a 2023 Gaza strike.",
+      "tags": [
+        "Palestinians",
+        "Gaza",
+        "Mass Funeral",
+        "Conflict",
+        "Humanitarian Crisis"
+      ],
+      "source": {
+        "title": "Palestinians hold mass funeral for 112 bodies finally recovered from a 2023 Gaza strike",
+        "url": "https://www.thehindu.com/news/international/palestinians-hold-mass-funeral-for-112-bodies-finally-recovered-from-a-2023-gaza-strike/article71307862.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q29",
+      "question": "A new seahorse species was recently identified by Kerala researchers and named after which noted marine biologist?",
+      "options": [
+        "Sylvia Earle",
+        "Rachel Carson",
+        "Eugenie Clark",
+        "Amanda Vincent"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Kerala researchers recently identified a new seahorse species and named it after noted marine biologist Amanda Vincent. The species was collected from the fish bycatch at the Tuticorin fisheries harbour.",
+      "background": "The discovery of new species is crucial for understanding biodiversity and marine ecosystems. Naming a species after a prominent scientist is a way to honor their contributions to the field. Amanda Vincent is known for her work on seahorse conservation and marine biology.",
+      "examRelevance": "New seahorse species identified by Kerala researchers named after marine biologist Amanda Vincent.",
+      "tags": [
+        "Seahorse",
+        "New Species",
+        "Marine Biology",
+        "Amanda Vincent",
+        "Kerala",
+        "Biodiversity"
+      ],
+      "source": {
+        "title": "New seahorse species identified by Kerala researchers",
+        "url": "https://www.thehindu.com/news/national/kerala/new-seahorse-species-identified-by-kerala-researchers/article71305925.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-05-q30",
+      "question": "Lebanon and Israel recently held a new round of direct talks in which European capital?",
+      "options": [
+        "Vienna",
+        "Berlin",
+        "Paris",
+        "Rome"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Lebanon and Israel recently held a new round of direct talks in Rome, the capital of Italy. Delegations from both countries arrived at the U.S. embassy in Rome for discussions scheduled to run for several days.",
+      "background": "Direct talks between Lebanon and Israel are significant given their historically tense relations and unresolved border issues. Such discussions, often mediated by international partners like the U.S., aim to de-escalate tensions and potentially work towards long-term stability in the region.",
+      "examRelevance": "Lebanon and Israel held new round of direct talks in Rome.",
+      "tags": [
+        "Lebanon",
+        "Israel",
+        "Direct Talks",
+        "Rome",
+        "International Relations",
+        "Diplomacy"
+      ],
+      "source": {
+        "title": "Lebanon and Israel hold new round of direct talks in Rome",
+        "url": "https://www.thehindu.com/news/international/lebanon-and-israel-hold-new-round-of-direct-talks-in-rome/article71307182.ece"
+      }
+    }
+  ]
+}
