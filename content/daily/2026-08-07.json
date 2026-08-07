@@ -1,0 +1,787 @@
+{
+  "id": "daily-2026-08-07",
+  "type": "daily",
+  "date": "2026-08-07",
+  "title": "Current Affairs — 07 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-07-q1",
+      "question": "A recent school shooting with reported fatalities, where the perpetrator was identified as a student, occurred in which country?",
+      "options": [
+        "Brazil",
+        "United States",
+        "Thailand",
+        "Germany"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Thai police recently reported fatalities in a school shooting where the perpetrator was identified as a student. Further details regarding the exact number of casualties were not immediately available.",
+      "background": "School shootings are tragic events that highlight issues related to gun control, mental health, and security in educational institutions globally. Such incidents often lead to widespread public debate and calls for policy changes.",
+      "examRelevance": "Recent international event involving a school shooting in Thailand.",
+      "tags": [
+        "Thailand",
+        "School Shooting",
+        "International Incident",
+        "Crime"
+      ],
+      "source": {
+        "title": "Thai police report fatalities in school shooting, number unconfirmed",
+        "url": "https://www.thehindu.com/news/international/shooting-at-a-school-in-thailand-august-7-2026/article71316169.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q2",
+      "question": "What amount was Meta recently ordered to pay to a U.S. state to abate 'public nuisance' and child harm?",
+      "options": [
+        "$345 million",
+        "$789 million",
+        "$567 million",
+        "$912 million"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Meta was ordered to pay $567 million to a U.S. state to abate 'public nuisance' and child harm. Meta has stated its disagreement with the ruling and intends to appeal.",
+      "background": "This ruling comes amid growing scrutiny and legal challenges against social media companies regarding their platforms' impact on mental health, privacy, and safety, particularly for younger users. Several U.S. states have initiated lawsuits against tech giants over these concerns.",
+      "examRelevance": "Meta's recent legal fine amount and reason.",
+      "tags": [
+        "Meta",
+        "Legal Ruling",
+        "Child Harm",
+        "Public Nuisance",
+        "Fine"
+      ],
+      "source": {
+        "title": "Meta ordered to pay U.S. state $567 million to abate 'public nuisance' and child harm",
+        "url": "https://www.thehindu.com/sci-tech/technology/meta-ordered-to-pay-us-state-567-million-to-abate-public-nuisance-and-child-harm/article71316170.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q3",
+      "question": "Which Union Minister recently assured Christian bodies that the Foreign Contribution (Regulation) Act (FCRA) Bill is ‘religion-neutral’?",
+      "options": [
+        "S. Jaishankar",
+        "Nirmala Sitharaman",
+        "Amit Shah",
+        "Rajnath Singh"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Union Home Minister Amit Shah recently met with Christian bodies and assured them that the Foreign Contribution (Regulation) Act (FCRA) Bill is ‘religion-neutral’. He conveyed that the government has “no intention to harass the Christian community” through this Bill.",
+      "background": "The FCRA regulates the acceptance and utilization of foreign contributions by individuals and associations in India. The Bill, which could be discussed in Parliament on August 12, has been a subject of concern for various religious and non-governmental organizations regarding its potential impact on their operations.",
+      "examRelevance": "Union Home Minister's statement on FCRA Bill.",
+      "tags": [
+        "Amit Shah",
+        "FCRA Bill",
+        "Christian Bodies",
+        "Polity",
+        "Legislation"
+      ],
+      "source": {
+        "title": "FCRA Bill is ‘religion-neutral’, Shah assures Christian bodies",
+        "url": "https://www.thehindu.com/news/national/fcra-bill-is-religion-neutral-shah-assures-christian-bodies/article71314671.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q4",
+      "question": "Which political party recently laid down conditions to support the Centre's Delimitation Bill?",
+      "options": [
+        "Shiv Sena (UBT)",
+        "Aam Aadmi Party (AAP)",
+        "Dravida Munnetra Kazhagam (DMK)",
+        "All India Trinamool Congress (AITC)"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Dravida Munnetra Kazhagam (DMK) recently laid down conditions for its support to the Centre's Delimitation Bill. This comes amidst renewed efforts by the Centre to gather support for the Bill.",
+      "background": "Delimitation is the act of redrawing boundaries of Lok Sabha and state assembly constituencies to represent changes in population. It is a politically sensitive process, especially for southern states that fear losing parliamentary representation due to successful population control measures.",
+      "examRelevance": "DMK's stance on the Delimitation Bill.",
+      "tags": [
+        "DMK",
+        "Delimitation Bill",
+        "Parliament",
+        "Polity",
+        "Opposition"
+      ],
+      "source": {
+        "title": "DMK lays down conditions to support delimitation Bill",
+        "url": "https://www.thehindu.com/news/national/dmk-lays-down-conditions-as-government-steps-up-efforts-to-pass-delimitation-bill/article71313993.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q5",
+      "question": "Which country's innovation model, described as a market-state hybrid, is currently driving its push in AI and humanoid robotics by bridging the ‘valley of death’ for research commercialization?",
+      "options": [
+        "United States",
+        "Japan",
+        "China",
+        "South Korea"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "China's innovation model, a market-state hybrid, is currently driving its push in Artificial Intelligence (AI) and humanoid robotics. This ecosystem integrates universities, start-ups, industry, and the state, utilizing state-backed funding, talent, and industrial clusters to bridge the ‘valley of death’ and turn research into commercially viable technologies.",
+      "background": "The 'valley of death' refers to the difficult stage where scientific research has proven potential but struggles to secure funding and resources to become a commercial product. China's approach aims to overcome this gap through strategic governmental support and integration across various sectors.",
+      "examRelevance": "China's innovation strategy in AI and robotics.",
+      "tags": [
+        "China",
+        "Innovation Model",
+        "AI",
+        "Humanoid Robotics",
+        "Science & Technology"
+      ],
+      "source": {
+        "title": "How Beijing innovates: Lessons from China’s market-state hybrid model",
+        "url": "https://www.thehindu.com/news/international/the-beijing-model-of-innovation/article71313438.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q6",
+      "question": "In a recent development in West Asia, which group claimed responsibility for missile attacks that killed 58 Saudi-backed Yemeni government forces?",
+      "options": [
+        "Hezbollah",
+        "Al-Qaeda",
+        "ISIS",
+        "Houthi rebels"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Houthi missile attacks recently killed 58 Saudi-backed Yemeni government forces in West Asia. This incident further escalated tensions in the ongoing conflict in the region.",
+      "background": "The conflict in Yemen has been ongoing for years, primarily involving the Houthi movement and the internationally recognized Yemeni government, backed by a Saudi-led coalition. Houthi forces frequently launch missile and drone attacks targeting Saudi Arabia and allied forces.",
+      "examRelevance": "Key belligerent group in the Yemen conflict and recent attack.",
+      "tags": [
+        "Houthi rebels",
+        "Yemen",
+        "Saudi Arabia",
+        "West Asia Conflict",
+        "Missile Attack"
+      ],
+      "source": {
+        "title": "West Asia LIVE: Houthi missile attacks kill 58 Saudi-backed Yemeni government forces, says source",
+        "url": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-war-iran-oman-talks-tehran-washington-peace-deal-houthis-saudi-arabia-live-updates-august-7-2026/article71316113.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q7",
+      "question": "Which Indian state is currently experiencing predictions of heavy to very heavy rainfall until August 10, 2026?",
+      "options": [
+        "Kerala",
+        "Maharashtra",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "The India Meteorological Department (IMD) has predicted heavy to very heavy rainfall in Kerala until August 10, 2026. This forecast indicates continued wet weather for the state.",
+      "background": "Kerala often experiences intense monsoon rains, which can lead to floods and landslides. The IMD regularly issues weather alerts and advisories to help residents and authorities prepare for such conditions.",
+      "examRelevance": "Current weather forecast for a specific Indian state.",
+      "tags": [
+        "Kerala",
+        "IMD",
+        "Heavy Rain",
+        "Weather Forecast",
+        "Monsoon"
+      ],
+      "source": {
+        "title": "Kerala Weather: Rain to continue till Aug 10",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/kerala-weather-today-imd-predicts-heavy-to-very-heavy-rain-in-13-districts-check-district-wise-rain-forecast-till-august-10/articleshow/133019972.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q8",
+      "question": "National Handloom Day 2026 was observed on August 7, marking which edition of the annual observance?",
+      "options": [
+        "11th edition",
+        "12th edition",
+        "13th edition",
+        "10th edition"
+      ],
+      "answerIndex": 1,
+      "category": "Dates & Days",
+      "explanation": "National Handloom Day 2026 was observed on August 7, marking the 12th edition of the annual observance. This year's celebrations focused on innovation, sustainability, technology, and the changing role of handlooms in contemporary India.",
+      "background": "National Handloom Day is celebrated on August 7 each year to commemorate the Swadeshi Movement, which was launched on this day in 1905. The objective is to honor the handloom weaving community and highlight the contribution of the sector to India's socio-economic development.",
+      "examRelevance": "Edition of National Handloom Day and its date.",
+      "tags": [
+        "National Handloom Day",
+        "August 7",
+        "Handloom",
+        "Textile Heritage",
+        "Swadeshi Movement"
+      ],
+      "source": {
+        "title": "National Handloom Day 2026: Theme",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/national-handloom-day-2026-theme-significance-history-and-celebrations/articleshow/133019599.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q9",
+      "question": "Which political party in Jammu & Kashmir recently had an FIR filed against its leaders by the J&K Police for holding an Article 370 anniversary rally without prior permission?",
+      "options": [
+        "Indian National Congress (INC)",
+        "Jammu & Kashmir Apni Party (JKAP)",
+        "Peoples Democratic Party (PDP)",
+        "Jammu & Kashmir National Conference (JKNC)"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Jammu & Kashmir Police recently filed an FIR against leaders of the Peoples Democratic Party (PDP), including former J&K Chief Minister Mufti, for taking out a rally on August 4 and August 5 without prior police permission to mark the seventh anniversary of the abrogation of Article 370.",
+      "background": "Article 370 of the Indian Constitution, which granted special status to Jammu and Kashmir, was abrogated on August 5, 2019. This event remains a politically charged issue in the region, with various political parties organizing events to mark its anniversary.",
+      "examRelevance": "Political party involved in a recent legal action concerning Article 370 anniversary.",
+      "tags": [
+        "PDP",
+        "Jammu & Kashmir",
+        "Article 370",
+        "FIR",
+        "Political Rally"
+      ],
+      "source": {
+        "title": "J&K Police file FIR over PDP’s Article 370 anniversary rally, party says ‘blatant misuse of power, authority’",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-police-file-fir-over-pdps-article-370-anniversary-rally-party-says-blatant-misuse-of-power-authority/article71314569.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q10",
+      "question": "On National Handloom Day, the 'Ringa' weaving tradition, defining the identity of the Bonda tribe, was highlighted. The Bonda tribe is primarily found in which Indian state?",
+      "options": [
+        "Odisha",
+        "West Bengal",
+        "Jharkhand",
+        "Chhattisgarh"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "The Bonda tribe, known for preserving the 'Ringa' weaving tradition that defines their identity, is primarily found in Odisha. This unique cultural heritage was highlighted on National Handloom Day.",
+      "background": "The Bonda tribe is one of the most ancient and primitive tribes of India, residing in the Malkangiri district of Odisha. Their handwoven 'Ringa' fabric is not just clothing but a significant part of their cultural and social identity, often made by women of the tribe.",
+      "examRelevance": "Location of Bonda tribe and their unique weaving tradition.",
+      "tags": [
+        "Bonda Tribe",
+        "Ringa Weaving",
+        "Odisha",
+        "National Handloom Day",
+        "Tribal Culture"
+      ],
+      "source": {
+        "title": "National Handloom Day: Inside the Bonda tribe’s enduring Ringa weaving tradition",
+        "url": "https://www.thehindu.com/society/history-and-culture/national-handloom-day-inside-the-bonda-tribes-enduring-ringa-weaving-tradition/article71312118.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q11",
+      "question": "Which Indian city is being developed as Andhra Pradesh's greenfield capital?",
+      "options": [
+        "Visakhapatnam",
+        "Amaravati",
+        "Kurnool",
+        "Tirupati"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "Amaravati is being developed as Andhra Pradesh's greenfield capital. The city's construction involves efforts to balance development with social and environmental concerns, impacting the lives of migrant workers and local communities.",
+      "background": "After the bifurcation of Andhra Pradesh in 2014, Hyderabad became the joint capital for Telangana and Andhra Pradesh for a period, with Andhra Pradesh deciding to build a new capital. Amaravati was chosen for this purpose, with plans for it to be a modern, sustainable city.",
+      "examRelevance": "Andhra Pradesh's greenfield capital city.",
+      "tags": [
+        "Amaravati",
+        "Andhra Pradesh",
+        "Greenfield Capital",
+        "City Development"
+      ],
+      "source": {
+        "title": "The hands that are shaping Amaravati",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/the-hands-that-are-shaping-amaravati/article71313841.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q12",
+      "question": "Which company's data centre subsidiary, Nxtra, is planning to acquire up to 85% stake in two data centre firms?",
+      "options": [
+        "Vodafone Idea",
+        "Airtel",
+        "BSNL",
+        "Reliance Jio"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Airtel's data centre subsidiary, Nxtra, is planning to acquire up to 85% stake in two data centre firms. This move signifies Airtel's strategic expansion in the data centre market.",
+      "background": "The data centre industry is experiencing rapid growth in India, driven by increasing digitalization, cloud adoption, and the demand for localized data storage. Companies like Airtel are investing heavily to strengthen their infrastructure and market position in this sector.",
+      "examRelevance": "Airtel's recent business acquisition plan.",
+      "tags": [
+        "Airtel",
+        "Nxtra",
+        "Data Centre",
+        "Acquisition",
+        "Telecom"
+      ],
+      "source": {
+        "title": "Airtel’s Nxtra bets big on two data centre firms",
+        "url": "https://economictimes.indiatimes.com/industry/telecom/airtels-nxtra-to-acquire-up-to-85-in-two-data-centre-firms/articleshow/133019057.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q13",
+      "question": "In which Indian state are property owners facing issues with their land being locked out of sale, mortgage, or transfer due to being included in the Section 22A prohibited list?",
+      "options": [
+        "Maharashtra",
+        "Telangana",
+        "Andhra Pradesh",
+        "Karnataka"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "In Telangana, several property owners are finding themselves unable to sell, mortgage, or transfer their legally purchased plots, houses, and apartments. This is because entire survey numbers containing prohibited categories such as Bhoodan, waqf, ceiling surplus, and assigned lands were brought under the Section 22A prohibited list.",
+      "background": "Section 22A of the Registration Act in many states lists categories of land that cannot be registered or transferred. The issue in Telangana stems from broad inclusion of survey numbers, affecting even legally owned properties, leading to significant hardship for owners.",
+      "examRelevance": "Specific land ownership issue in Telangana related to Section 22A.",
+      "tags": [
+        "Telangana",
+        "Section 22A",
+        "Property Rights",
+        "Land Records",
+        "Governance"
+      ],
+      "source": {
+        "title": "In Telangana, property owners locked out of their own land",
+        "url": "https://www.thehindu.com/news/national/telangana/in-telangana-property-owners-locked-out-of-their-own-land/article71315140.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q14",
+      "question": "Which U.S. President recently signed new orders aimed at limiting birthright citizenship and curbing commercial 'birth tourism'?",
+      "options": [
+        "Donald Trump",
+        "George W. Bush",
+        "Joe Biden",
+        "Barack Obama"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "U.S. President Donald Trump recently signed new orders to limit birthright citizenship and curb commercial 'birth tourism'. One order specifically targets people who engage in commercial 'birth tourism' by seeking to deny them access to the country.",
+      "background": "Birth tourism refers to the practice of traveling to another country for the purpose of giving birth there, so that the child will be a citizen of that country. Birthright citizenship, enshrined in the 14th Amendment, grants citizenship to nearly all individuals born on U.S. soil.",
+      "examRelevance": "U.S. President's recent immigration policy action.",
+      "tags": [
+        "Donald Trump",
+        "Birthright Citizenship",
+        "Birth Tourism",
+        "Immigration Policy",
+        "United States"
+      ],
+      "source": {
+        "title": "U.S. President Trump signs new orders to limit birthright citizenship",
+        "url": "https://www.thehindu.com/news/international/trump-signs-2-immigration-actions-to-limit-birthright-citizenship-and-curb-birth-tourism/article71315274.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q15",
+      "question": "The Enforcement Directorate (ED) recently conducted raids at five locations in Munger, Bihar, in connection with which type of scam?",
+      "options": [
+        "Digital job scam",
+        "Bank loan fraud",
+        "Illegal mining racket",
+        "Land acquisition scam"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Enforcement Directorate (ED) recently conducted raids at five locations in Munger, Bihar, in connection with a digital job scam. Incriminating documents related to immovable property, bank accounts, agreements, and investment details were recovered during these search operations.",
+      "background": "Digital job scams typically involve fraudsters luring individuals with promises of high-paying online jobs, often requiring an initial investment or personal data. The ED's involvement indicates a money laundering aspect under the Prevention of Money Laundering Act (PMLA), 2002.",
+      "examRelevance": "ED's recent action against a specific type of scam in Bihar.",
+      "tags": [
+        "ED",
+        "Munger",
+        "Bihar",
+        "Digital Job Scam",
+        "PMLA"
+      ],
+      "source": {
+        "title": "ED raids five locations in Bihar’s Muger in digital job scam",
+        "url": "https://www.thehindu.com/news/national/bihar/ed-raids-five-locations-in-bihars-muger-in-digital-job-scam/article71314696.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q16",
+      "question": "The Supreme Court of India recently closed a long-pending plea by the Hinduja brothers related to which infamous case?",
+      "options": [
+        "2G Spectrum case",
+        "Bofors case",
+        "Fodder scam",
+        "Coal Allocation scam"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court of India recently closed a long-pending plea by the Hinduja brothers related to the infamous Bofors case. This decision brings an end to a significant chapter in the long-running legal battle.",
+      "background": "The Bofors scandal, a major political controversy in India in the late 1980s, involved allegations of kickbacks in a ₹1,437 crore deal between India and the Swedish arms manufacturer Bofors for the sale of 155 mm howitzer guns. The Hinduja brothers were among those accused in the case.",
+      "examRelevance": "Supreme Court's recent action on a historic corruption case.",
+      "tags": [
+        "Supreme Court",
+        "Hinduja Brothers",
+        "Bofors Case",
+        "Corruption",
+        "Legal"
+      ],
+      "source": {
+        "title": "SC closes long-pending Hinduja plea in Bofors case",
+        "url": "https://economictimes.indiatimes.com/news/india/supreme-court-ends-long-pending-plea-against-hinduja-brothers-relief-in-bofors-case/articleshow/133018926.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q17",
+      "question": "The India Meteorological Department (IMD) recently issued a 'yellow alert' for which two major Indian cities due to anticipated rainfall?",
+      "options": [
+        "Kolkata and Bhubaneswar",
+        "Bengaluru and Chennai",
+        "Mumbai and Pune",
+        "Delhi and Gurugram"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "The India Meteorological Department (IMD) recently issued a 'yellow alert' for Delhi and Gurugram. This alert indicates the possibility of moderate to heavy rainfall in these two major cities.",
+      "background": "Weather alerts are color-coded (Green, Yellow, Orange, Red) by the IMD to signify the intensity of expected weather phenomena and the level of preparedness required. A yellow alert advises residents to 'be aware' of potential adverse weather conditions.",
+      "examRelevance": "Recent IMD weather alert for specific cities.",
+      "tags": [
+        "IMD",
+        "Yellow Alert",
+        "Delhi",
+        "Gurugram",
+        "Rainfall"
+      ],
+      "source": {
+        "title": "IMD issues yellow alert for Delhi, Gurugram",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/delhi-ncr-weather-today-yellow-alert-in-delhi-gurugram-as-noida-and-ghaziabad-brace-for-more-rain-check-full-imd-forecast/articleshow/133018902.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q18",
+      "question": "Which Indian-origin NASA astronaut recently undertook his first spacewalk, alongside Jessica Meir, to upgrade the International Space Station?",
+      "options": [
+        "Kalpana Chawla",
+        "Raja Chari",
+        "Anil Menon",
+        "Sunita Williams"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Indian-origin NASA astronaut Anil Menon recently undertook his first spacewalk on August 5, 2026. He was accompanied by Jessica Meir, who completed her sixth spacewalk, to upgrade the International Space Station (ISS). This was the 281st spacewalk in support of the space station.",
+      "background": "Anil Menon is a physician and former SpaceX flight surgeon who was selected by NASA as an astronaut candidate in 2021. Spacewalks (Extravehicular Activities or EVAs) are crucial for maintaining, repairing, and upgrading the ISS, allowing astronauts to work outside the spacecraft.",
+      "examRelevance": "Indian-origin astronaut's first spacewalk and its purpose.",
+      "tags": [
+        "Anil Menon",
+        "NASA",
+        "Spacewalk",
+        "International Space Station",
+        "Jessica Meir"
+      ],
+      "source": {
+        "title": "NASA astronauts Anil Menon, Jessica Meir undertake spacewalk to upgrade space station",
+        "url": "https://www.thehindu.com/sci-tech/science/nasa-astronauts-anil-menon-jessica-meir-undertake-spacewalk-to-upgrade-space-station/article71316085.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q19",
+      "question": "Which country recently announced plans to screen the social media accounts of foreign journalists applying for visas?",
+      "options": [
+        "United Kingdom",
+        "Canada",
+        "Australia",
+        "United States"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The United States recently announced plans to screen the social media accounts of foreign journalists applying for visas. This measure is intended to vet applicants and is part of broader immigration screening processes.",
+      "background": "The U.S. government has increasingly been scrutinizing social media as part of its visa application process for various categories of visitors. This particular move concerning journalists has drawn criticism from media and rights bodies over concerns about media freedom and privacy.",
+      "examRelevance": "U.S. policy change regarding foreign journalists' visas.",
+      "tags": [
+        "United States",
+        "Visa Policy",
+        "Journalists",
+        "Social Media Screening",
+        "International Relations"
+      ],
+      "source": {
+        "title": "US to screen journalists' social media over visas",
+        "url": "https://economictimes.indiatimes.com/nri/work/us-to-vet-social-media-of-foreign-journalists-applying-for-visas-report-says/articleshow/133018597.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q20",
+      "question": "Foreign Portfolio Investors (FPIs) and Indian arms of international trading companies recently urged which Indian regulatory body and government department to prune Securities Transaction Tax (STT)?",
+      "options": [
+        "RBI and Ministry of Finance",
+        "SEBI and Department of Economic Affairs",
+        "PFRDA and NITI Aayog",
+        "IRDAI and Ministry of Corporate Affairs"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Foreign Portfolio Investors (FPIs) and Indian arms of international trading companies recently urged the Securities & Exchange Board of India (SEBI) and officials of the Department of Economic Affairs to prune Securities Transaction Tax (STT). They argued that STT, along with capital gains tax, creates a 'double whammy' for investors.",
+      "background": "Securities Transaction Tax (STT) is a tax levied on every transaction of purchase or sale of securities listed on Indian stock exchanges. Investors and high-frequency trading firms often advocate for its reduction or removal, arguing it impacts market liquidity and competitiveness.",
+      "examRelevance": "Demand by FPIs for STT reduction and the bodies addressed.",
+      "tags": [
+        "FPIs",
+        "STT",
+        "SEBI",
+        "Department of Economic Affairs",
+        "Taxation"
+      ],
+      "source": {
+        "title": "FPIs, trading companies tap Sebi, centre for tax breather",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-trading-companies-tap-sebi-centre-for-tax-breather/articleshow/133018389.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q21",
+      "question": "Which major Indian conglomerate's electronics arm recently announced plans to rejig its cybersecurity, tapping an Adani executive to rebuild trust?",
+      "options": [
+        "Reliance",
+        "Tata",
+        "Adani",
+        "Birla"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Tata Electronics, the electronics arm of the Tata Group, recently announced plans to rejig its cybersecurity infrastructure. As part of this initiative, it is reportedly tapping an Adani executive, Mehta, to rebuild trust and enhance its security protocols.",
+      "background": "Cybersecurity has become a critical concern for businesses globally, especially in the manufacturing and technology sectors, due to increasing threats and the need to protect sensitive data and intellectual property. Major conglomerates are continuously evolving their strategies to counter these risks.",
+      "examRelevance": "Tata Electronics' recent cybersecurity revamp plans.",
+      "tags": [
+        "Tata Electronics",
+        "Cybersecurity",
+        "Tata Group",
+        "Corporate News",
+        "Technology"
+      ],
+      "source": {
+        "title": "Tata Electronics to rejig cybersecurity",
+        "url": "https://economictimes.indiatimes.com/tech/technology/tata-electronics-to-rejig-cybersecurity-taps-adani-executive-mehta-to-rebuild-trust/articleshow/133012851.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q22",
+      "question": "The D2C activewear brand BlissClub recently raised ₹160 crore in funding. This funding round was led by which investment firm?",
+      "options": [
+        "Accel",
+        "Sequoia Capital",
+        "Singularity Growth Opportunities Fund",
+        "Tiger Global"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The D2C (Direct-to-Consumer) activewear brand BlissClub recently raised ₹160 crore in funding. This funding round was led by Singularity Growth Opportunities Fund, indicating investor confidence in the activewear market and D2C brands.",
+      "background": "D2C brands have gained significant traction in India, leveraging online channels to directly reach consumers and offer specialized products. BlissClub focuses on activewear for women, a growing segment in the Indian retail market.",
+      "examRelevance": "Recent funding for a D2C brand and the lead investor.",
+      "tags": [
+        "BlissClub",
+        "D2C",
+        "Activewear",
+        "Funding",
+        "Singularity Growth Opportunities Fund"
+      ],
+      "source": {
+        "title": "BlissClub raises Rs 160 crore in funding",
+        "url": "https://economictimes.indiatimes.com/tech/funding/d2c-activewear-brand-blissclub-raises-rs-160-crore-funding-led-by-singularity/articleshow/133012970.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q23",
+      "question": "The company M2P recently raised ₹100 crore in debt funding from Alteria. For what primary purpose will this funding be used?",
+      "options": [
+        "Market expansion into new countries",
+        "Acquisition of rival companies",
+        "Diversification into new product lines",
+        "Funding AI expansion"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "M2P, a company focused on fintech infrastructure, recently raised ₹100 crore in debt funding from Alteria. This funding is primarily earmarked to finance the company's AI expansion initiatives.",
+      "background": "Fintech companies are increasingly leveraging Artificial Intelligence (AI) to enhance their services, improve efficiency, and develop innovative solutions for areas like fraud detection, personalized banking, and automated customer support. Debt funding provides a non-dilutive capital option for growth.",
+      "examRelevance": "M2P's recent debt funding and its intended use for AI expansion.",
+      "tags": [
+        "M2P",
+        "Alteria",
+        "Debt Funding",
+        "AI Expansion",
+        "Fintech"
+      ],
+      "source": {
+        "title": "M2P raises Rs 100 crore debt from Alteria",
+        "url": "https://economictimes.indiatimes.com/tech/funding/m2p-raises-rs-100-crore-debt-from-alteria-to-fund-ai-expansion/articleshow/133001086.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q24",
+      "question": "India's real estate sector is witnessing a new wave of Initial Public Offerings (IPOs) driven by specialised platforms. Which of the following is NOT mentioned as a type of asset expanding into public markets in this trend?",
+      "options": [
+        "Student housing",
+        "Traditional residential apartments",
+        "Logistics parks",
+        "Co-working spaces"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "India's real estate sector is expanding the range of assets being brought to the public markets through IPOs, focusing on specialised platforms. These include co-working spaces, real estate investment trusts (REITs), student housing, education infrastructure, logistics parks, and managed development platforms. Traditional residential apartments are not specifically highlighted as driving this new wave of IPOs for specialized platforms.",
+      "background": "The real estate market is evolving beyond conventional property developers, with institutional investors showing interest in recurring revenue models offered by specialized realty platforms. This shift reflects a maturing public market and diverse investor appetite.",
+      "examRelevance": "New trends in India's real estate IPO market.",
+      "tags": [
+        "Real Estate",
+        "IPOs",
+        "Co-working",
+        "REITs",
+        "Logistics Parks"
+      ],
+      "source": {
+        "title": "Specialised realty platforms drive India's next wave of IPOs",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/specialised-realty-platforms-drive-indias-next-wave-of-ipos/article71309887.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q25",
+      "question": "The Andhra Pradesh government recently instructed officials to speed up the auction of properties to disburse compensation to victims of which financial fraud case?",
+      "options": [
+        "Saradha scam",
+        "AgriGold scam",
+        "Rose Valley scam",
+        "Sahara scam"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Andhra Pradesh government recently instructed officials to speed up the auction of properties to disburse compensation to the victims of the AgriGold financial fraud case. Chief Minister Naidu emphasized firm action against those obstructing relief measures.",
+      "background": "The AgriGold scam involved a large-scale collective investment scheme that allegedly defrauded millions of depositors, primarily from Andhra Pradesh, Telangana, and Karnataka. The government's efforts are aimed at providing long-awaited relief to the affected investors.",
+      "examRelevance": "Andhra Pradesh government's action concerning a major financial scam.",
+      "tags": [
+        "Andhra Pradesh",
+        "AgriGold Scam",
+        "Financial Fraud",
+        "Compensation",
+        "Government Initiative"
+      ],
+      "source": {
+        "title": "Justice for AgriGold victims brooks no delay, Naidu officials",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/justice-for-agrigold-victims-brooks-no-delay-naidu-officials/article71314361.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q26",
+      "question": "Which country's cabinet recently approved a white paper labeling Beijing as its 'greatest strategic challenge'?",
+      "options": [
+        "India",
+        "South Korea",
+        "Australia",
+        "Japan"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Japan's cabinet recently approved a white paper on Tuesday (August 4) that labeled Beijing as its 'greatest strategic challenge'. The paper stated that China's growing military actions are Japan’s top security concern and must be addressed through overall national strength and cooperation with allies.",
+      "background": "Japan and China have long-standing territorial disputes and historical tensions. Japan's defense white papers periodically outline its security perceptions and strategies, and this explicit labeling of China reflects a significant hardening of its strategic outlook.",
+      "examRelevance": "Japan's recent strategic assessment of China.",
+      "tags": [
+        "Japan",
+        "China",
+        "Strategic Challenge",
+        "Defense White Paper",
+        "International Relations"
+      ],
+      "source": {
+        "title": "China-Japan tensions escalate after Tokyo labels Beijing as its 'greatest strategic challenge'",
+        "url": "https://www.thehindu.com/news/international/china-japan-tensions-escalate-after-tokyo-labels-beijing-as-its-greatest-strategic-challenge/article71315074.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q27",
+      "question": "The Central Bureau of Investigation (CBI) recently arrested four persons and raided 10 locations in Punjab and Delhi in connection with which type of fraud case?",
+      "options": [
+        "Insurance fraud case",
+        "Tech-support fraud case",
+        "Cryptocurrency fraud case",
+        "Bank loan fraud case"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Central Bureau of Investigation (CBI) recently arrested four accused persons and raided 10 locations across Punjab and Delhi in connection with a tech-support fraud case. The raids included a call centre operated from the premises of the main accused in Mohali.",
+      "background": "Tech-support fraud typically involves scammers posing as technical support representatives from legitimate companies to trick victims into paying for unnecessary services or installing malicious software. The CBI's action highlights a crackdown on organized cybercrime operations.",
+      "examRelevance": "CBI's recent action against a specific type of fraud.",
+      "tags": [
+        "CBI",
+        "Tech-Support Fraud",
+        "Punjab",
+        "Delhi",
+        "Cybercrime"
+      ],
+      "source": {
+        "title": "CBI arrests four accused persons in tech-support fraud case",
+        "url": "https://www.thehindu.com/news/national/cbi-arrests-four-accused-persons-in-tech-support-fraud-case/article71314883.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q28",
+      "question": "Who recently delivered the YGP Centenary Year Memorial Lecture on Indian Civilisation?",
+      "options": [
+        "S. Gurumurthy",
+        "Ramachandra Guha",
+        "Bibek Debroy",
+        "Arun Shourie"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "S. Gurumurthy recently delivered the YGP Centenary Year Memorial Lecture on Indian Civilisation. The lecture was part of the ongoing centenary celebrations.",
+      "background": "YGP refers to Y. G. Parthasarathy, a renowned educationist and founder of Padma Seshadri Bala Bhavan (PSBB) Group of Schools. Centenary lectures often invite prominent personalities to speak on significant topics, commemorating the legacy of the individual.",
+      "examRelevance": "Speaker at a notable centenary memorial lecture.",
+      "tags": [
+        "S. Gurumurthy",
+        "YGP Centenary",
+        "Indian Civilisation",
+        "Lecture",
+        "Memorial"
+      ],
+      "source": {
+        "title": "Gurumurthy delivers YGP Centenary Year Memorial Lecture on Indian Civilisation",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/gurumurthy-delivers-ygp-centenary-year-memorial-lecture-on-indian-civilisation/article71313747.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q29",
+      "question": "Which Indian state recently extended the application period for industrial land conversion under its HILTP (Hyderabad Industrial Land Transfer Policy) until October?",
+      "options": [
+        "Telangana",
+        "Gujarat",
+        "Andhra Pradesh",
+        "Karnataka"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "Telangana recently extended the application period for industrial land conversion under its HILTP (Hyderabad Industrial Land Transfer Policy) until October. The government also announced that the SRO (Sub-Registrar Office) rates prevailing prior to June 5 will apply to these applications.",
+      "background": "The HILTP is a policy aimed at facilitating the conversion of land for industrial use, promoting ease of doing business and industrial growth. Extensions to such application periods are often provided to allow more stakeholders to benefit from the policy.",
+      "examRelevance": "Telangana's recent policy extension for industrial land conversion.",
+      "tags": [
+        "Telangana",
+        "HILTP",
+        "Industrial Land",
+        "Land Conversion",
+        "Government Policy"
+      ],
+      "source": {
+        "title": "Telangana extends industrial land conversion applications under HILTP till October",
+        "url": "https://www.thehindu.com/news/national/telangana/telangana-extends-industrial-land-conversion-applications-under-hiltp-till-october/article71314862.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-07-q30",
+      "question": "Which renowned football club recently sealed a 7-year deal to sign Ivory Coast World Cup standout Yan Diomande?",
+      "options": [
+        "FC Barcelona",
+        "Paris Saint-Germain",
+        "Manchester United",
+        "Real Madrid"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Real Madrid recently sealed a 7-year deal to sign Yan Diomande, an Ivory Coast World Cup standout. Diomande had an outstanding World Cup performance, attracting interest from several top clubs.",
+      "background": "Real Madrid is one of the most successful football clubs globally, known for signing top talent from around the world. Long-term deals like this signify a club's commitment to a player and their potential future contributions.",
+      "examRelevance": "Major football club's recent player signing.",
+      "tags": [
+        "Real Madrid",
+        "Yan Diomande",
+        "Football",
+        "Player Transfer",
+        "Sports"
+      ],
+      "source": {
+        "title": "Real Madrid seals 7-year deal for Ivory Coast World Cup standout Yan Diomande",
+        "url": "https://www.thehindu.com/sport/football/real-madrid-seals-7-year-deal-for-ivory-coast-world-cup-standout-yan-diomande/article71315138.ece"
+      }
+    }
+  ]
+}
