@@ -1,0 +1,2349 @@
+{
+  "id": "weekly-2026-W32",
+  "type": "weekly",
+  "date": "2026-08-09",
+  "title": "Weekly Current Affairs — Week 32, 2026",
+  "questionCount": 90,
+  "questions": [
+    {
+      "id": "weekly-2026-W32-q1",
+      "question": "The Mayor of Moscow recently described a deadly bomb attack on a restaurant in the city as a \"terrorist act.\" In which city did this attack occur?",
+      "options": [
+        "Moscow",
+        "Minsk",
+        "St. Petersburg",
+        "Kyiv"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The Mayor of Moscow officially labeled a deadly bomb attack on a restaurant in the city as a \"terrorist act.\" Footage released by Russian state media showed heavily armed law-enforcement officers, several ambulances, and other emergency vehicles at the site.",
+      "background": "Terrorist acts are deliberate acts of violence, typically against civilians, intended to create fear and achieve political or ideological goals. Such incidents often lead to heightened security measures and extensive investigations.",
+      "examRelevance": "Moscow Mayor = Called restaurant bomb attack a \"terrorist act\".",
+      "tags": [
+        "Moscow",
+        "Terrorist Act",
+        "Bomb Attack",
+        "Restaurant",
+        "Russia"
+      ],
+      "source": {
+        "title": "Moscow Mayor calls deadly bomb attack on a restaurant a 'terrorist act'",
+        "url": "https://www.thehindu.com/news/international/moscow-mayor-calls-deadly-bomb-attack-on-a-restaurant-a-terrorist-act/article71299021.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q2",
+      "question": "Which country's innovation model, described as a market-state hybrid, is currently driving its push in AI and humanoid robotics by bridging the ‘valley of death’ for research commercialization?",
+      "options": [
+        "United States",
+        "Japan",
+        "China",
+        "South Korea"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "China's innovation model, a market-state hybrid, is currently driving its push in Artificial Intelligence (AI) and humanoid robotics. This ecosystem integrates universities, start-ups, industry, and the state, utilizing state-backed funding, talent, and industrial clusters to bridge the ‘valley of death’ and turn research into commercially viable technologies.",
+      "background": "The 'valley of death' refers to the difficult stage where scientific research has proven potential but struggles to secure funding and resources to become a commercial product. China's approach aims to overcome this gap through strategic governmental support and integration across various sectors.",
+      "examRelevance": "China's innovation strategy in AI and robotics.",
+      "tags": [
+        "China",
+        "Innovation Model",
+        "AI",
+        "Humanoid Robotics",
+        "Science & Technology"
+      ],
+      "source": {
+        "title": "How Beijing innovates: Lessons from China’s market-state hybrid model",
+        "url": "https://www.thehindu.com/news/international/the-beijing-model-of-innovation/article71313438.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q3",
+      "question": "Who recently delivered the YGP Centenary Year Memorial Lecture on Indian Civilisation?",
+      "options": [
+        "S. Gurumurthy",
+        "Ramachandra Guha",
+        "Bibek Debroy",
+        "Arun Shourie"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "S. Gurumurthy recently delivered the YGP Centenary Year Memorial Lecture on Indian Civilisation. The lecture was part of the ongoing centenary celebrations.",
+      "background": "YGP refers to Y. G. Parthasarathy, a renowned educationist and founder of Padma Seshadri Bala Bhavan (PSBB) Group of Schools. Centenary lectures often invite prominent personalities to speak on significant topics, commemorating the legacy of the individual.",
+      "examRelevance": "Speaker at a notable centenary memorial lecture.",
+      "tags": [
+        "S. Gurumurthy",
+        "YGP Centenary",
+        "Indian Civilisation",
+        "Lecture",
+        "Memorial"
+      ],
+      "source": {
+        "title": "Gurumurthy delivers YGP Centenary Year Memorial Lecture on Indian Civilisation",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/gurumurthy-delivers-ygp-centenary-year-memorial-lecture-on-indian-civilisation/article71313747.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q4",
+      "question": "Which Indian state is currently experiencing predictions of heavy to very heavy rainfall until August 10, 2026?",
+      "options": [
+        "Kerala",
+        "Maharashtra",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "The India Meteorological Department (IMD) has predicted heavy to very heavy rainfall in Kerala until August 10, 2026. This forecast indicates continued wet weather for the state.",
+      "background": "Kerala often experiences intense monsoon rains, which can lead to floods and landslides. The IMD regularly issues weather alerts and advisories to help residents and authorities prepare for such conditions.",
+      "examRelevance": "Current weather forecast for a specific Indian state.",
+      "tags": [
+        "Kerala",
+        "IMD",
+        "Heavy Rain",
+        "Weather Forecast",
+        "Monsoon"
+      ],
+      "source": {
+        "title": "Kerala Weather: Rain to continue till Aug 10",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/kerala-weather-today-imd-predicts-heavy-to-very-heavy-rain-in-13-districts-check-district-wise-rain-forecast-till-august-10/articleshow/133019972.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q5",
+      "question": "Zinedine Zidane has recently taken over as the manager of which national football team?",
+      "options": [
+        "Germany",
+        "France",
+        "Italy",
+        "Portugal"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Legendary midfielder Zinedine Zidane has recently taken over the French national football team, replacing Didier Deschamps as manager. This appointment is part of a significant managerial carousel in international football.",
+      "background": "Zidane is one of football's most decorated figures, both as a player and as a manager, having achieved considerable success with Real Madrid. His move to the French national team brings high expectations, given his status and the team's strong recent performances.",
+      "examRelevance": "Zinedine Zidane is the new manager of the France national football team.",
+      "tags": [
+        "Zinedine Zidane",
+        "Football",
+        "Manager",
+        "France",
+        "Sports Appointments"
+      ],
+      "source": {
+        "title": "Football’s managerial carousel is up and running",
+        "url": "https://www.thehindu.com/sport/football/footballs-managerial-carousel-is-up-and-running/article71306890.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q6",
+      "question": "A new technique using 'ghost particles' has been developed to track what type of material to detect clandestine removal for plutonium extraction?",
+      "options": [
+        "Radioactive waste",
+        "Heavy water",
+        "Spent nuclear fuel",
+        "Uranium ore"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "A new technique utilizing the signature of 'ghost particles' (neutrinos) has been developed to track spent nuclear fuel. This method can determine if a state has clandestinely removed fuel assemblies from a cooling pool, potentially to extract plutonium, a key component for nuclear weapons.",
+      "background": "Monitoring nuclear materials is crucial for non-proliferation efforts and international security. Traditional methods can be circumvented, making new detection technologies vital. This 'ghost particle' technique offers a novel way to enhance verification, addressing concerns about covert nuclear activities.",
+      "examRelevance": "New technique using 'ghost particles' tracks spent nuclear fuel to prevent plutonium extraction.",
+      "tags": [
+        "Ghost Particles",
+        "Nuclear Fuel",
+        "Plutonium",
+        "Nuclear Weapons",
+        "Science & Technology"
+      ],
+      "source": {
+        "title": "‘Ghost particles’ signature can track where spent nuclear fuel goes",
+        "url": "https://www.thehindu.com/sci-tech/science/ghost-particles-signature-can-track-where-spent-nuclear-fuel-goes/article71307970.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q7",
+      "question": "For the April-June quarter of FY27, ITC reported a standalone net profit decline of 27% year-on-year to Rs 3,579 crore. However, its revenue saw a significant increase. What was the percentage increase in ITC's revenue year-on-year for Q1 FY27?",
+      "options": [
+        "28%",
+        "20%",
+        "35%",
+        "15%"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "For the April-June quarter of FY27, ITC reported a 27% year-on-year decline in standalone net profit to Rs 3,579 crore. Despite this, the company's revenue from operations increased significantly by 28% year-on-year to Rs 26,943 crore.",
+      "background": "ITC Limited is an Indian conglomerate with diverse interests including FMCG, hotels, paperboards, packaging, and agriculture. Financial results are closely watched indicators of its performance and market sentiment, reflecting both challenges and growth areas.",
+      "examRelevance": "ITC Q1 FY27 = 28% YoY revenue increase, despite 27% profit decline.",
+      "tags": [
+        "ITC",
+        "Q1 Results",
+        "Revenue",
+        "Net Profit",
+        "FMCG"
+      ],
+      "source": {
+        "title": "ITC shares gain 3% after Q1 results. Here’s why Nomura upgraded the stock to Buy",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/itc-shares-gain-3-after-q1-results-heres-why-nomura-upgraded-the-stock-to-buy/articleshow/132818173.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q8",
+      "question": "Which Indian city officially took over as the host for the 2030 Commonwealth Games during the closing ceremony in Glasgow?",
+      "options": [
+        "Bengaluru",
+        "Ahmedabad",
+        "Mumbai",
+        "New Delhi"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Ahmedabad, India, officially received the baton as the host city for the 2030 Commonwealth Games during the closing ceremony held in Glasgow. This marks a significant moment for India in the international sporting arena.",
+      "background": "The Commonwealth Games are a multi-sport event held every four years, involving athletes from the Commonwealth of Nations. This handover signifies India's role as the upcoming host, following Glasgow.",
+      "examRelevance": "Ahmedabad = Host city for 2030 Commonwealth Games.",
+      "tags": [
+        "Commonwealth Games",
+        "Ahmedabad",
+        "Glasgow",
+        "Sports"
+      ],
+      "source": {
+        "title": "Glasgow bids farewell to Commonwealth Games with handover to Ahmedabad",
+        "url": "https://www.thehindu.com/sport/glasgow-bids-farewell-to-commonwealth-games-with-handover-to-ahmedabad/article71299150.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q9",
+      "question": "Which district in Assam is currently the worst-hit by floods, affecting over 55,000 people?",
+      "options": [
+        "Charaideo",
+        "Lakhimpur",
+        "Jorhat",
+        "Sivasagar"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Sivasagar district is currently the worst-hit by floods in Assam, with over 55,000 people affected. The floods continue to impact 1.35 lakh people across the state, and the death toll has risen to 85.",
+      "background": "Assam frequently experiences severe floods during the monsoon season, leading to widespread displacement and loss of life and property. Flood relief and rehabilitation efforts are ongoing challenges for the state administration and disaster management agencies.",
+      "examRelevance": "Sivasagar = Worst-hit district by floods in Assam (over 55,000 affected).",
+      "tags": [
+        "Assam",
+        "Floods",
+        "Sivasagar",
+        "Natural Disaster",
+        "Monsoon"
+      ],
+      "source": {
+        "title": "1.35 lakh affected still affected by floods in Assam; 3 more deaths take toll to 85",
+        "url": "https://www.thehindu.com/news/national/assam/135-lakh-affected-still-affected-by-floods-in-assam-3-more-deaths-take-toll-to-85/article71299014.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q10",
+      "question": "On August 3, Brent crude futures fell by over 5% following U.S. President Donald Trump's decision to hold off on attacking Iran. What was the price of Brent crude futures per barrel after this decline?",
+      "options": [
+        "$86.56",
+        "$83.56",
+        "$80.56",
+        "$89.56"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "On August 3, Brent crude futures fell by $4.37, or 5%, to $83.56 a barrel, after U.S. President Donald Trump refrained from launching a fresh attack on Iran and instead signaled a willingness to pursue a quick agreement aimed at ending Tehran's nuclear ambitions.",
+      "background": "Geopolitical tensions, particularly in the Middle East, significantly impact global oil prices due to the region's role as a major oil producer and transit point. Diplomatic developments can lead to rapid shifts in market sentiment and crude oil valuations.",
+      "examRelevance": "Brent crude futures on August 3 = Fell to $83.56/barrel.",
+      "tags": [
+        "Oil Prices",
+        "Brent Crude",
+        "Iran",
+        "Donald Trump",
+        "Economy"
+      ],
+      "source": {
+        "title": "Oil's war trade runs out of fuel, slumps 5%",
+        "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-3-crude-oil-crashes-5-below-84-as-trump-delays-attack-on-iran-what-are-experts-saying/articleshow/132816732.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q11",
+      "question": "What specific aspect of space activities do the new IN-SPACe rules reportedly expose an \"insurance crunch\" for?",
+      "options": [
+        "Space tourism",
+        "Satellite manufacturing",
+        "Rocket launches",
+        "Satellite re-entry"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "The new IN-SPACe re-entry rules have reportedly exposed an \"insurance crunch,\" highlighting challenges in securing adequate insurance coverage for satellite re-entry operations. This indicates a gap in the existing insurance market for this specific risk.",
+      "background": "IN-SPACe (Indian National Space Promotion and Authorization Centre) is a government agency responsible for promoting, authorizing, and supervising space activities by non-governmental private entities. New regulations often bring to light existing gaps in supporting industries like insurance.",
+      "examRelevance": "IN-SPACe re-entry rules = Exposed insurance crunch for satellite re-entry.",
+      "tags": [
+        "IN-SPACe",
+        "Satellite Re-entry",
+        "Space Technology",
+        "Insurance",
+        "Space Policy"
+      ],
+      "source": {
+        "title": "IN-SPACe re-entry rules expose insurance crunch",
+        "url": "https://economictimes.indiatimes.com/tech/technology/in-space-re-entry-rules-expose-insurance-crunch/articleshow/132810278.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q12",
+      "question": "Danny Welbeck, a former England striker, recently joined which football club from Brighton?",
+      "options": [
+        "Liverpool",
+        "Manchester United",
+        "Arsenal",
+        "Chelsea"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Former England international striker Danny Welbeck, aged 35, has joined Chelsea Football Club from Brighton. He will immediately join his new team-mates on their pre-season tour in Hong Kong.",
+      "background": "Danny Welbeck has played for several prominent English clubs, including Manchester United and Arsenal, and has represented England 42 times. His move to Chelsea marks another significant transfer in his career.",
+      "examRelevance": "Danny Welbeck = Joined Chelsea from Brighton.",
+      "tags": [
+        "Football",
+        "Danny Welbeck",
+        "Chelsea",
+        "Brighton",
+        "Transfer"
+      ],
+      "source": {
+        "title": "Former England striker Welbeck joins Chelsea from Brighton",
+        "url": "https://www.thehindu.com/sport/football/former-england-striker-welbeck-joins-chelsea-from-brighton/article71298993.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q13",
+      "question": "Which country recently announced plans to screen the social media accounts of foreign journalists applying for visas?",
+      "options": [
+        "United Kingdom",
+        "Canada",
+        "Australia",
+        "United States"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The United States recently announced plans to screen the social media accounts of foreign journalists applying for visas. This measure is intended to vet applicants and is part of broader immigration screening processes.",
+      "background": "The U.S. government has increasingly been scrutinizing social media as part of its visa application process for various categories of visitors. This particular move concerning journalists has drawn criticism from media and rights bodies over concerns about media freedom and privacy.",
+      "examRelevance": "U.S. policy change regarding foreign journalists' visas.",
+      "tags": [
+        "United States",
+        "Visa Policy",
+        "Journalists",
+        "Social Media Screening",
+        "International Relations"
+      ],
+      "source": {
+        "title": "US to screen journalists' social media over visas",
+        "url": "https://economictimes.indiatimes.com/nri/work/us-to-vet-social-media-of-foreign-journalists-applying-for-visas-report-says/articleshow/133018597.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q14",
+      "question": "How many unrecognised political parties were recently removed by the Election Commission from the list of registered parties in Uttarakhand?",
+      "options": [
+        "25",
+        "20",
+        "17",
+        "12"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Election Commission recently removed 17 unrecognised political parties from the list of registered parties in Uttarakhand. These parties were delisted because they did not contest any Lok Sabha or assembly elections after 2019 and their office addresses could not be traced during physical verification.",
+      "background": "The Election Commission of India regularly reviews the status of registered political parties to maintain the integrity of the electoral process. Parties that fail to meet certain criteria, such as contesting elections or maintaining verifiable addresses, can be delisted, which impacts their eligibility for electoral symbols and other benefits.",
+      "examRelevance": "Election Commission removed 17 unrecognised political parties from Uttarakhand list.",
+      "tags": [
+        "Election Commission",
+        "Uttarakhand",
+        "Political Parties",
+        "De-registration",
+        "Electoral Reforms"
+      ],
+      "source": {
+        "title": "EC removes 17 parties from Uttarakhand list",
+        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/ec-removes-17-unrecognised-parties-from-list-of-registered-political-parties-in-uttarakhand/articleshow/132885853.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q15",
+      "question": "Brent crude, the international standard, recently saw its price ease significantly, sinking to what value per barrel?",
+      "options": [
+        "$85.00",
+        "$75.20",
+        "$79.64",
+        "$82.15"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Brent crude, the international benchmark for oil prices, recently experienced a significant easing, sinking by 4.9% to $79.64 per barrel. This drop reflects a shift from fear to hope in the global oil market.",
+      "background": "Global oil prices are highly sensitive to geopolitical events, economic outlooks, and supply-demand dynamics. Fluctuations in Brent crude prices can have wide-ranging impacts on national economies, inflation, and consumer costs worldwide.",
+      "examRelevance": "Brent crude price sank to $79.64 per barrel.",
+      "tags": [
+        "Brent Crude",
+        "Oil Prices",
+        "Global Markets",
+        "Economy",
+        "Commodities"
+      ],
+      "source": {
+        "title": "U.S. stocks leap toward record as profits keep piling up, oil prices ease",
+        "url": "https://www.thehindu.com/business/markets/us-stocks-leap-toward-record-as-profits-keep-piling-up-oil-prices-ease/article71307016.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q16",
+      "question": "Indian boxers Sachin Siwach (men's 60 kg gold) and Preeti Pawar, who had a record-breaking medal haul at the Commonwealth Games 2026, are now aiming for a gold medal in which upcoming major event?",
+      "options": [
+        "Olympic Games",
+        "World Championships",
+        "Asian Games",
+        "Youth Commonwealth Games"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Indian boxers Sachin Siwach, who secured a gold medal in the men's 60 kg final, and Preeti Pawar, both of whom achieved a record-breaking medal haul at the Commonwealth Games 2026, are now setting their sights on winning gold at the upcoming Asian Games.",
+      "background": "Commonwealth Games are a major multi-sport event, and a strong performance there often serves as a stepping stone for athletes to target other prestigious competitions like the Asian Games and the Olympics. Their success highlights India's growing prominence in amateur boxing.",
+      "examRelevance": "Sachin Siwach and Preeti Pawar (CWG 2026 medalists) are now targeting gold at the Asian Games.",
+      "tags": [
+        "Sachin Siwach",
+        "Preeti Pawar",
+        "Boxing",
+        "Commonwealth Games 2026",
+        "Asian Games",
+        "Sports"
+      ],
+      "source": {
+        "title": "Sachin Siwach, Preeti Pawar eye Asian Games gold after record-breaking Boxing medal haul at CWG 2026",
+        "url": "https://www.thehindu.com/sport/other-sports/sachin-siwach-preeti-pawar-eye-asian-games-gold-after-record-breaking-boxing-medal-haul-at-cwg-2026/article71306998.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q17",
+      "question": "A new seahorse species was recently identified by Kerala researchers and named after which noted marine biologist?",
+      "options": [
+        "Sylvia Earle",
+        "Rachel Carson",
+        "Eugenie Clark",
+        "Amanda Vincent"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Kerala researchers recently identified a new seahorse species and named it after noted marine biologist Amanda Vincent. The species was collected from the fish bycatch at the Tuticorin fisheries harbour.",
+      "background": "The discovery of new species is crucial for understanding biodiversity and marine ecosystems. Naming a species after a prominent scientist is a way to honor their contributions to the field. Amanda Vincent is known for her work on seahorse conservation and marine biology.",
+      "examRelevance": "New seahorse species identified by Kerala researchers named after marine biologist Amanda Vincent.",
+      "tags": [
+        "Seahorse",
+        "New Species",
+        "Marine Biology",
+        "Amanda Vincent",
+        "Kerala",
+        "Biodiversity"
+      ],
+      "source": {
+        "title": "New seahorse species identified by Kerala researchers",
+        "url": "https://www.thehindu.com/news/national/kerala/new-seahorse-species-identified-by-kerala-researchers/article71305925.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q18",
+      "question": "The International Agency for Research on Cancer (IARC) recently classified three common medicines as carcinogenic. Which of the following, routinely prescribed for hypertension, was mentioned as one of them?",
+      "options": [
+        "Metformin",
+        "Ibuprofen",
+        "Hydrochlorothiazide",
+        "Paracetamol"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "The International Agency for Research on Cancer (IARC) recently classified three common medicines as carcinogenic, with Hydrochlorothiazide being specifically mentioned as one of them. Hydrochlorothiazide is an inexpensive and widely available medicine routinely prescribed in India for managing hypertension.",
+      "background": "IARC, an agency of the World Health Organization (WHO), evaluates cancer risks from various substances and exposures. While such classifications are important for public health, experts often advise patients not to discontinue prescribed medications without consulting their doctors, as the benefits may still outweigh the potential risks.",
+      "examRelevance": "IARC classified Hydrochlorothiazide, a common hypertension medicine, as carcinogenic.",
+      "tags": [
+        "IARC",
+        "Carcinogenic",
+        "Medicines",
+        "Hydrochlorothiazide",
+        "Hypertension",
+        "Health"
+      ],
+      "source": {
+        "title": "Three common medicines classified as carcinogenic by IARC; experts urge patients not to stop treatment | Explained",
+        "url": "https://www.thehindu.com/sci-tech/health/three-common-medicines-classified-as-carcinogenic-by-iarc-experts-urge-patients-not-to-stop-treatment-explained/article71307894.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q19",
+      "question": "In which district of Kerala was a hunger strike against a laterite quarry suspended after the District Collector issued a temporary stop memo?",
+      "options": [
+        "Kozhikode",
+        "Kannur",
+        "Wayanad",
+        "Kasaragod"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "A hunger strike against a laterite quarry in Kannur district, Kerala, was suspended after the District Collector issued a temporary stop memo. Residents alleged the quarry threatened around 50 Scheduled Tribe families and community facilities on an ecologically sensitive hill.",
+      "background": "Mining activities, particularly in ecologically sensitive areas, often lead to protests from local communities concerned about environmental degradation and displacement. Administrative intervention, like a stop memo, provides temporary relief and allows for further inquiry into the permit and its implications.",
+      "examRelevance": "Kannur (Kerala) = Hunger strike against laterite quarry suspended by Collector's stop memo.",
+      "tags": [
+        "Kannur",
+        "Laterite Quarry",
+        "Environmental Protest",
+        "Stop Memo",
+        "Kerala"
+      ],
+      "source": {
+        "title": "Hunger strike against laterite quarry in Kannur suspended after Collector issues stop memo",
+        "url": "https://www.thehindu.com/news/national/kerala/hunger-strike-against-laterite-quarry-in-kannur-suspended-after-collector-issues-stop-memo/article71297605.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q20",
+      "question": "In a recent development in West Asia, which group claimed responsibility for missile attacks that killed 58 Saudi-backed Yemeni government forces?",
+      "options": [
+        "Hezbollah",
+        "Al-Qaeda",
+        "ISIS",
+        "Houthi rebels"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Houthi missile attacks recently killed 58 Saudi-backed Yemeni government forces in West Asia. This incident further escalated tensions in the ongoing conflict in the region.",
+      "background": "The conflict in Yemen has been ongoing for years, primarily involving the Houthi movement and the internationally recognized Yemeni government, backed by a Saudi-led coalition. Houthi forces frequently launch missile and drone attacks targeting Saudi Arabia and allied forces.",
+      "examRelevance": "Key belligerent group in the Yemen conflict and recent attack.",
+      "tags": [
+        "Houthi rebels",
+        "Yemen",
+        "Saudi Arabia",
+        "West Asia Conflict",
+        "Missile Attack"
+      ],
+      "source": {
+        "title": "West Asia LIVE: Houthi missile attacks kill 58 Saudi-backed Yemeni government forces, says source",
+        "url": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-war-iran-oman-talks-tehran-washington-peace-deal-houthis-saudi-arabia-live-updates-august-7-2026/article71316113.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q21",
+      "question": "Which global technology company has recently plugged into India's sovereign AI stack by joining Sarvam AI's $75 million raise?",
+      "options": [
+        "Microsoft",
+        "Nvidia",
+        "Intel",
+        "Google"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Nvidia, a leading global technology company, has recently plugged into India's sovereign AI stack by participating in Sarvam AI's $75 million funding round. This investment signifies a major collaboration in the Indian AI ecosystem.",
+      "background": "India's 'sovereign AI stack' refers to the country's efforts to develop its own AI infrastructure, models, and applications, reducing reliance on foreign technologies. Nvidia's investment in Sarvam AI, an Indian AI startup, underscores the growing global interest and confidence in India's AI capabilities and market potential.",
+      "examRelevance": "Nvidia plugged into India's sovereign AI stack by joining Sarvam AI's $75 million raise.",
+      "tags": [
+        "Nvidia",
+        "Sarvam AI",
+        "India",
+        "Sovereign AI Stack",
+        "Investment",
+        "Artificial Intelligence"
+      ],
+      "source": {
+        "title": "Nvidia plugs into India's sovereign AI stack",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-plugs-into-indias-sovereign-ai-stack-joins-sarvams-75-million-raise/articleshow/132869263.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q22",
+      "question": "Which company's data centre subsidiary, Nxtra, is planning to acquire up to 85% stake in two data centre firms?",
+      "options": [
+        "Vodafone Idea",
+        "Airtel",
+        "BSNL",
+        "Reliance Jio"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Airtel's data centre subsidiary, Nxtra, is planning to acquire up to 85% stake in two data centre firms. This move signifies Airtel's strategic expansion in the data centre market.",
+      "background": "The data centre industry is experiencing rapid growth in India, driven by increasing digitalization, cloud adoption, and the demand for localized data storage. Companies like Airtel are investing heavily to strengthen their infrastructure and market position in this sector.",
+      "examRelevance": "Airtel's recent business acquisition plan.",
+      "tags": [
+        "Airtel",
+        "Nxtra",
+        "Data Centre",
+        "Acquisition",
+        "Telecom"
+      ],
+      "source": {
+        "title": "Airtel’s Nxtra bets big on two data centre firms",
+        "url": "https://economictimes.indiatimes.com/industry/telecom/airtels-nxtra-to-acquire-up-to-85-in-two-data-centre-firms/articleshow/133019057.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q23",
+      "question": "Bypolls were recently held in Bankipur (Bihar), Manjalpur (Gujarat), and Datia (Madhya Pradesh) on July 30. In which of these constituencies was the bypoll necessitated due to the death of a senior BJP MLA and former state Minister?",
+      "options": [
+        "Manjalpur",
+        "Khandwa",
+        "Datia",
+        "Bankipur"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The bypoll in Manjalpur, Gujarat, was necessitated due to the death of senior BJP MLA and former Gujarat Minister Yogesh Patel on June 2 following a prolonged illness. Bypolls were also held in Bankipur (Bihar) and Datia (Madhya Pradesh) on July 30.",
+      "background": "Bypolls are elections held to fill a vacant seat in a legislative body between general elections. Reasons for vacancies include death, resignation, or disqualification of the incumbent member, as seen in this case with Yogesh Patel.",
+      "examRelevance": "Manjalpur bypoll = Necessitated by death of BJP MLA Yogesh Patel.",
+      "tags": [
+        "Bypoll",
+        "Manjalpur",
+        "Gujarat",
+        "Yogesh Patel",
+        "Polity"
+      ],
+      "source": {
+        "title": "Counting of votes begins for Manjalpur Assembly bypoll in Gujarat",
+        "url": "https://www.thehindu.com/news/national/gujarat/manjalpur-assembly-bypoll-in-gujarat-result/article71299773.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q24",
+      "question": "Which state assembly recently passed a resolution urging the Centre to suspend the mandatory rollout of E20 fuel?",
+      "options": [
+        "Punjab",
+        "Rajasthan",
+        "Haryana",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Punjab Assembly recently passed a resolution urging the Centre to suspend the mandatory rollout of E20 fuel. Finance Minister Harpal Singh Cheema questioned why the implementation of the E20 fuel policy has been advanced from its earlier target of 2030.",
+      "background": "E20 fuel, a blend of 20% ethanol with petrol, is part of India's strategy to reduce crude oil imports and carbon emissions. However, its mandatory rollout has faced concerns regarding its impact on older vehicles, fuel efficiency, and the agricultural sector, leading to calls for reconsideration from various states and groups.",
+      "examRelevance": "Punjab Assembly passed a resolution urging the Centre to suspend mandatory rollout of E20 fuel.",
+      "tags": [
+        "Punjab Assembly",
+        "E20 Fuel",
+        "Resolution",
+        "Centre-State Relations",
+        "Fuel Policy"
+      ],
+      "source": {
+        "title": "Punjab Assembly passes resolution urging Centre to suspend mandatory rollout of E20 fuel",
+        "url": "https://www.thehindu.com/news/national/punjab/punjab-assembly-passes-resolution-urging-centre-to-suspend-mandatory-rollout-of-e20-fuel/article71307003.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q25",
+      "question": "Which two key financial bills were scheduled to be taken up by the Lok Sabha during Day 13 of the Monsoon Session, as reported recently?",
+      "options": [
+        "Goods and Services Tax Bill & Insolvency and Bankruptcy Code Bill",
+        "Negotiable Instruments Bill & Companies Amendment Bill",
+        "Bankers' Books Evidence Bill & Taxation Amendment Bill",
+        "Reserve Bank of India Bill & Banking Regulation Bill"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "During Day 13 of the Parliament's Monsoon Session, the Lok Sabha was scheduled to take up the Bankers' Books Evidence Bill and the Taxation Amendment Bill. These bills are crucial for financial reforms and legislative updates.",
+      "background": "Parliamentary sessions often involve the deliberation and passage of various bills, including financial legislation. The Bankers' Books Evidence Bill typically deals with the admissibility of entries in bankers' books as evidence, while Taxation Amendment Bills update the country's tax laws.",
+      "examRelevance": "Lok Sabha scheduled to take up Bankers' Books Evidence Bill and Taxation Amendment Bill during Monsoon Session.",
+      "tags": [
+        "Lok Sabha",
+        "Monsoon Session",
+        "Bankers' Books Evidence Bill",
+        "Taxation Amendment Bill",
+        "Legislation"
+      ],
+      "source": {
+        "title": "Parliament Monsoon Session Day 13 LIVE: Lok Sabha to take up Bankers' Books, Taxation Bills today",
+        "url": "https://www.thehindu.com/news/national/parliament-monsoon-session-lok-sabha-rajya-sabha-day-13-live-updates-bankers-books-evidence-bill-taxation-amendment-bill-august-5-2026/article71307974.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q26",
+      "question": "According to DPIIT data for April 2025-March 2026 (FY26), how many Foreign Direct Investment (FDI) proposals from China did India approve, and what was their total value?",
+      "options": [
+        "2 proposals, ₹2 crore",
+        "10 proposals, ₹10 crore",
+        "1 proposal, ₹1 crore",
+        "5 proposals, ₹50 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "During April 2025-March 2026 (FY26), India approved only one Foreign Direct Investment (FDI) proposal from China, valued at ₹1 crore. In contrast, 13 proposals from Hong Kong were approved, indicating a selective approach to investments from certain regions.",
+      "background": "Foreign Direct Investment is crucial for economic growth and job creation. India's approach to Chinese FDI has been under scrutiny due to geopolitical tensions, leading to stricter regulations and fewer approvals compared to other countries.",
+      "examRelevance": "India approved 1 Chinese FDI proposal worth ₹1 crore in FY26.",
+      "tags": [
+        "FDI",
+        "Foreign Direct Investment",
+        "China",
+        "India",
+        "DPIIT",
+        "Economy"
+      ],
+      "source": {
+        "title": "India approves just 1 Chinese FDI proposal worth ₹1 crore in FY26; 13 from Hong Kong",
+        "url": "https://www.thehindu.com/news/national/india-approves-just-1-chinese-fdi-proposal-worth-1-crore-in-fy26-13-from-hong-kong/article71299151.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q27",
+      "question": "Foreign Portfolio Investors (FPIs) and Indian arms of international trading companies recently urged which Indian regulatory body and government department to prune Securities Transaction Tax (STT)?",
+      "options": [
+        "RBI and Ministry of Finance",
+        "SEBI and Department of Economic Affairs",
+        "PFRDA and NITI Aayog",
+        "IRDAI and Ministry of Corporate Affairs"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Foreign Portfolio Investors (FPIs) and Indian arms of international trading companies recently urged the Securities & Exchange Board of India (SEBI) and officials of the Department of Economic Affairs to prune Securities Transaction Tax (STT). They argued that STT, along with capital gains tax, creates a 'double whammy' for investors.",
+      "background": "Securities Transaction Tax (STT) is a tax levied on every transaction of purchase or sale of securities listed on Indian stock exchanges. Investors and high-frequency trading firms often advocate for its reduction or removal, arguing it impacts market liquidity and competitiveness.",
+      "examRelevance": "Demand by FPIs for STT reduction and the bodies addressed.",
+      "tags": [
+        "FPIs",
+        "STT",
+        "SEBI",
+        "Department of Economic Affairs",
+        "Taxation"
+      ],
+      "source": {
+        "title": "FPIs, trading companies tap Sebi, centre for tax breather",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-trading-companies-tap-sebi-centre-for-tax-breather/articleshow/133018389.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q28",
+      "question": "Which renowned football club recently sealed a 7-year deal to sign Ivory Coast World Cup standout Yan Diomande?",
+      "options": [
+        "FC Barcelona",
+        "Paris Saint-Germain",
+        "Manchester United",
+        "Real Madrid"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Real Madrid recently sealed a 7-year deal to sign Yan Diomande, an Ivory Coast World Cup standout. Diomande had an outstanding World Cup performance, attracting interest from several top clubs.",
+      "background": "Real Madrid is one of the most successful football clubs globally, known for signing top talent from around the world. Long-term deals like this signify a club's commitment to a player and their potential future contributions.",
+      "examRelevance": "Major football club's recent player signing.",
+      "tags": [
+        "Real Madrid",
+        "Yan Diomande",
+        "Football",
+        "Player Transfer",
+        "Sports"
+      ],
+      "source": {
+        "title": "Real Madrid seals 7-year deal for Ivory Coast World Cup standout Yan Diomande",
+        "url": "https://www.thehindu.com/sport/football/real-madrid-seals-7-year-deal-for-ivory-coast-world-cup-standout-yan-diomande/article71315138.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q29",
+      "question": "The upcoming BRICS Summit, scheduled to be held in New Delhi in September, has adopted what theme?",
+      "options": [
+        "Strengthening Multilateralism for Global Stability",
+        "Global Partnership for Sustainable Development",
+        "Building for Resilience, Innovation, Cooperation and Sustainability",
+        "Towards a Fairer and More Equitable World Order"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The BRICS Summit, set to take place in New Delhi in September, has adopted the theme 'Building for Resilience, Innovation, Cooperation and Sustainability'. This theme aims to leverage the collective strength of member countries to address global challenges.",
+      "background": "BRICS is an acronym for the powerful bloc of emerging economies: Brazil, Russia, India, China, and South Africa. The annual summit provides a platform for leaders to discuss economic cooperation, political coordination, and global governance issues. India hosting the summit reinforces its role in the global South.",
+      "examRelevance": "BRICS Summit in New Delhi (September) theme: 'Building for Resilience, Innovation, Cooperation and Sustainability'.",
+      "tags": [
+        "BRICS Summit",
+        "New Delhi",
+        "Theme",
+        "International Relations",
+        "Global Challenges"
+      ],
+      "source": {
+        "title": "What key issues of the BRICS Summit to be held in New Delhi in September? | Explained",
+        "url": "https://www.thehindu.com/news/international/what-key-issues-of-the-brics-summit-to-be-held-in-new-delhi-in-september-explained/article71307180.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q30",
+      "question": "Which political party in Jammu & Kashmir recently had an FIR filed against its leaders by the J&K Police for holding an Article 370 anniversary rally without prior permission?",
+      "options": [
+        "Indian National Congress (INC)",
+        "Jammu & Kashmir Apni Party (JKAP)",
+        "Peoples Democratic Party (PDP)",
+        "Jammu & Kashmir National Conference (JKNC)"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Jammu & Kashmir Police recently filed an FIR against leaders of the Peoples Democratic Party (PDP), including former J&K Chief Minister Mufti, for taking out a rally on August 4 and August 5 without prior police permission to mark the seventh anniversary of the abrogation of Article 370.",
+      "background": "Article 370 of the Indian Constitution, which granted special status to Jammu and Kashmir, was abrogated on August 5, 2019. This event remains a politically charged issue in the region, with various political parties organizing events to mark its anniversary.",
+      "examRelevance": "Political party involved in a recent legal action concerning Article 370 anniversary.",
+      "tags": [
+        "PDP",
+        "Jammu & Kashmir",
+        "Article 370",
+        "FIR",
+        "Political Rally"
+      ],
+      "source": {
+        "title": "J&K Police file FIR over PDP’s Article 370 anniversary rally, party says ‘blatant misuse of power, authority’",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-police-file-fir-over-pdps-article-370-anniversary-rally-party-says-blatant-misuse-of-power-authority/article71314569.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q31",
+      "question": "In which Indian state are property owners facing issues with their land being locked out of sale, mortgage, or transfer due to being included in the Section 22A prohibited list?",
+      "options": [
+        "Maharashtra",
+        "Telangana",
+        "Andhra Pradesh",
+        "Karnataka"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "In Telangana, several property owners are finding themselves unable to sell, mortgage, or transfer their legally purchased plots, houses, and apartments. This is because entire survey numbers containing prohibited categories such as Bhoodan, waqf, ceiling surplus, and assigned lands were brought under the Section 22A prohibited list.",
+      "background": "Section 22A of the Registration Act in many states lists categories of land that cannot be registered or transferred. The issue in Telangana stems from broad inclusion of survey numbers, affecting even legally owned properties, leading to significant hardship for owners.",
+      "examRelevance": "Specific land ownership issue in Telangana related to Section 22A.",
+      "tags": [
+        "Telangana",
+        "Section 22A",
+        "Property Rights",
+        "Land Records",
+        "Governance"
+      ],
+      "source": {
+        "title": "In Telangana, property owners locked out of their own land",
+        "url": "https://www.thehindu.com/news/national/telangana/in-telangana-property-owners-locked-out-of-their-own-land/article71315140.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q32",
+      "question": "Clement Delangue, head of which platform, stated that companies making mistakes leading to cyberattacks by rogue AI should be held accountable?",
+      "options": [
+        "Microsoft AI",
+        "Google DeepMind",
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Clement Delangue, the head of the Hugging Face platform, stated that companies responsible for errors leading to cyberattacks by rogue AI should be held accountable. This comment was made in the context of recent intrusions targeting the platform.",
+      "background": "The rapid advancement of Artificial Intelligence (AI) brings new legal and ethical challenges, particularly concerning accountability when AI systems cause harm or engage in malicious activities like cyberattacks. Hugging Face is a prominent platform for AI and machine learning development.",
+      "examRelevance": "Clement Delangue (Hugging Face) = Advocated for holding companies accountable for AI-led cyberattacks.",
+      "tags": [
+        "AI",
+        "Cyberattack",
+        "Legal Responsibility",
+        "Hugging Face",
+        "Clement Delangue"
+      ],
+      "source": {
+        "title": "When rogue AI launches a cyberattack, who is legally responsible?",
+        "url": "https://www.thehindu.com/sci-tech/technology/when-rogue-ai-launches-a-cyberattack-who-is-legally-responsible/article71299777.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q33",
+      "question": "Which country's cabinet recently approved a white paper labeling Beijing as its 'greatest strategic challenge'?",
+      "options": [
+        "India",
+        "South Korea",
+        "Australia",
+        "Japan"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Japan's cabinet recently approved a white paper on Tuesday (August 4) that labeled Beijing as its 'greatest strategic challenge'. The paper stated that China's growing military actions are Japan’s top security concern and must be addressed through overall national strength and cooperation with allies.",
+      "background": "Japan and China have long-standing territorial disputes and historical tensions. Japan's defense white papers periodically outline its security perceptions and strategies, and this explicit labeling of China reflects a significant hardening of its strategic outlook.",
+      "examRelevance": "Japan's recent strategic assessment of China.",
+      "tags": [
+        "Japan",
+        "China",
+        "Strategic Challenge",
+        "Defense White Paper",
+        "International Relations"
+      ],
+      "source": {
+        "title": "China-Japan tensions escalate after Tokyo labels Beijing as its 'greatest strategic challenge'",
+        "url": "https://www.thehindu.com/news/international/china-japan-tensions-escalate-after-tokyo-labels-beijing-as-its-greatest-strategic-challenge/article71315074.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q34",
+      "question": "Josh Kerr, who won the mile gold at the Commonwealth Games in Glasgow, recently broke whose 27-year-old record in the mile event?",
+      "options": [
+        "Steve Ovett",
+        "Hicham El Guerrouj",
+        "Roger Bannister",
+        "Sebastian Coe"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Josh Kerr, the mile gold medalist at the Commonwealth Games in Glasgow, broke Hicham El Guerrouj's 27-year-old record in the mile event last month in London, setting a new mark of 3 minutes 42.66 seconds.",
+      "background": "Hicham El Guerrouj is a Moroccan former middle-distance runner who holds multiple world records and is considered one of the greatest milers of all time. Breaking his long-standing record is a major achievement in athletics, highlighting Kerr's exceptional talent.",
+      "examRelevance": "Josh Kerr = Broke Hicham El Guerrouj's 27-year-old mile record.",
+      "tags": [
+        "Josh Kerr",
+        "Commonwealth Games",
+        "Mile record",
+        "Hicham El Guerrouj",
+        "Athletics"
+      ],
+      "source": {
+        "title": "Commonwealth Games poster boy Kerr delivers mile gold in Glasgow",
+        "url": "https://www.thehindu.com/sport/commonwealth-games-poster-boy-kerr-delivers-mile-gold-in-glasgow/article71298958.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q35",
+      "question": "The runway at Cape Town airport was recently closed due to which incident involving an aircraft?",
+      "options": [
+        "Engine failure",
+        "Tyres failure",
+        "Bird strike",
+        "Landing gear malfunction"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "The runway at Cape Town airport was recently closed after an incident involving a plane's tyres failure. All arriving flights were diverted to other airports, though domestic departures continued to operate.",
+      "background": "Airport runway closures due to aircraft incidents can cause significant disruptions to air travel, affecting thousands of passengers and flight schedules. Safety protocols require immediate action to ensure the integrity of the runway and the safety of subsequent flights.",
+      "examRelevance": "Cape Town airport runway closed due to a plane's tyres failure.",
+      "tags": [
+        "Cape Town Airport",
+        "Runway Closure",
+        "Aircraft Incident",
+        "South Africa",
+        "Air Travel"
+      ],
+      "source": {
+        "title": "Cape Town airport runway closed after plane's tyres fail, passengers safe",
+        "url": "https://www.thehindu.com/news/international/cape-town-airport-runway-closed-after-planes-tyres-fail-passengers-safe/article71307006.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q36",
+      "question": "The India Meteorological Department (IMD) recently issued a 'yellow alert' for which two major Indian cities due to anticipated rainfall?",
+      "options": [
+        "Kolkata and Bhubaneswar",
+        "Bengaluru and Chennai",
+        "Mumbai and Pune",
+        "Delhi and Gurugram"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "The India Meteorological Department (IMD) recently issued a 'yellow alert' for Delhi and Gurugram. This alert indicates the possibility of moderate to heavy rainfall in these two major cities.",
+      "background": "Weather alerts are color-coded (Green, Yellow, Orange, Red) by the IMD to signify the intensity of expected weather phenomena and the level of preparedness required. A yellow alert advises residents to 'be aware' of potential adverse weather conditions.",
+      "examRelevance": "Recent IMD weather alert for specific cities.",
+      "tags": [
+        "IMD",
+        "Yellow Alert",
+        "Delhi",
+        "Gurugram",
+        "Rainfall"
+      ],
+      "source": {
+        "title": "IMD issues yellow alert for Delhi, Gurugram",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/delhi-ncr-weather-today-yellow-alert-in-delhi-gurugram-as-noida-and-ghaziabad-brace-for-more-rain-check-full-imd-forecast/articleshow/133018902.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q37",
+      "question": "The Andhra Pradesh government recently instructed officials to speed up the auction of properties to disburse compensation to victims of which financial fraud case?",
+      "options": [
+        "Saradha scam",
+        "AgriGold scam",
+        "Rose Valley scam",
+        "Sahara scam"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Andhra Pradesh government recently instructed officials to speed up the auction of properties to disburse compensation to the victims of the AgriGold financial fraud case. Chief Minister Naidu emphasized firm action against those obstructing relief measures.",
+      "background": "The AgriGold scam involved a large-scale collective investment scheme that allegedly defrauded millions of depositors, primarily from Andhra Pradesh, Telangana, and Karnataka. The government's efforts are aimed at providing long-awaited relief to the affected investors.",
+      "examRelevance": "Andhra Pradesh government's action concerning a major financial scam.",
+      "tags": [
+        "Andhra Pradesh",
+        "AgriGold Scam",
+        "Financial Fraud",
+        "Compensation",
+        "Government Initiative"
+      ],
+      "source": {
+        "title": "Justice for AgriGold victims brooks no delay, Naidu officials",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/justice-for-agrigold-victims-brooks-no-delay-naidu-officials/article71314361.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q38",
+      "question": "The Chola idols of Gajasamharamurti, recently highlighted for depicting Lord Shiva’s valour and ferocity, are primarily found in which Indian state?",
+      "options": [
+        "Andhra Pradesh",
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "Chola idols of Gajasamharamurti, representing Lord Shiva's fierce and destructive aspect, are primarily found in Tamil Nadu. These sculptures are renowned for depicting the deity's valour and ferocity.",
+      "background": "The Chola dynasty, which ruled parts of South India from the 9th to the 13th century CE, was a prolific patron of art and architecture, particularly temple building and bronze sculpture. Their bronze idols, including various forms of Shiva like Nataraja and Samharamurti, are celebrated for their artistic excellence and iconographic significance.",
+      "examRelevance": "Chola idols of Gajasamharamurti depicting Lord Shiva are found in Tamil Nadu.",
+      "tags": [
+        "Chola Idols",
+        "Gajasamharamurti",
+        "Lord Shiva",
+        "Tamil Nadu",
+        "Art History"
+      ],
+      "source": {
+        "title": "Chola idols of Gajasamharamurti in Tamil Nadu depict Lord Shiva’s valour and ferocity",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/chola-idols-of-gajasamharamurti-in-tn-depict-lord-shiva-valour-and-ferocity/article71306172.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q39",
+      "question": "Which Indian state is being proposed as a co-host for the 2030 Commonwealth Games (CWG) due to its sportspersons' recent performance, having bagged seven of India's 13 gold medals at CWG 2026?",
+      "options": [
+        "Uttar Pradesh",
+        "Punjab",
+        "Maharashtra",
+        "Haryana"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Haryana is being proposed as a co-host for the 2030 Commonwealth Games (CWG) due to the exceptional performance of its sportspersons. Athletes from the state bagged seven of India’s 13 gold medals and a total of 11 medals at the CWG 2026.",
+      "background": "Hosting major international sporting events like the Commonwealth Games requires significant infrastructure and organizational capacity. States with strong sporting traditions and successful athletes often advocate for co-hosting opportunities to leverage their existing facilities and promote sports development.",
+      "examRelevance": "Haryana proposed as co-host for 2030 Commonwealth Games after winning 7 gold medals at CWG 2026.",
+      "tags": [
+        "Haryana",
+        "Commonwealth Games",
+        "2030 CWG",
+        "Sports",
+        "Sports Infrastructure"
+      ],
+      "source": {
+        "title": "CWG high fuels calls to make Haryana co-host for 2030 games",
+        "url": "https://www.thehindu.com/news/national/haryana/cwg-high-fuels-calls-to-make-haryana-co-host-for-2030-games/article71306098.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q40",
+      "question": "The Central Bureau of Investigation (CBI) recently arrested four persons and raided 10 locations in Punjab and Delhi in connection with which type of fraud case?",
+      "options": [
+        "Insurance fraud case",
+        "Tech-support fraud case",
+        "Cryptocurrency fraud case",
+        "Bank loan fraud case"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Central Bureau of Investigation (CBI) recently arrested four accused persons and raided 10 locations across Punjab and Delhi in connection with a tech-support fraud case. The raids included a call centre operated from the premises of the main accused in Mohali.",
+      "background": "Tech-support fraud typically involves scammers posing as technical support representatives from legitimate companies to trick victims into paying for unnecessary services or installing malicious software. The CBI's action highlights a crackdown on organized cybercrime operations.",
+      "examRelevance": "CBI's recent action against a specific type of fraud.",
+      "tags": [
+        "CBI",
+        "Tech-Support Fraud",
+        "Punjab",
+        "Delhi",
+        "Cybercrime"
+      ],
+      "source": {
+        "title": "CBI arrests four accused persons in tech-support fraud case",
+        "url": "https://www.thehindu.com/news/national/cbi-arrests-four-accused-persons-in-tech-support-fraud-case/article71314883.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q41",
+      "question": "The Reserve Bank of India's Monetary Policy Committee (MPC) is expected to hold its repo rate and policy stance unchanged at its meeting on August 5. What is the primary concern influencing this decision?",
+      "options": [
+        "Rising inflation risks from West Asia war and El Niño",
+        "Rising export demand",
+        "Strong domestic consumption growth",
+        "Decreasing global crude oil prices"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Reserve Bank of India's Monetary Policy Committee (MPC) is expected to keep the repo rate and policy stance unchanged at its meeting on August 5, primarily due to rising inflation risks stemming from the West Asia war and the El Niño phenomenon.",
+      "background": "The MPC, comprising six members, meets periodically to decide on key interest rates and monetary policy to achieve inflation targets while supporting economic growth. Global geopolitical events and climatic conditions significantly impact inflation and policy decisions.",
+      "examRelevance": "RBI MPC = Expected to hold repo rate due to West Asia war & El Niño inflation risks.",
+      "tags": [
+        "RBI",
+        "Monetary Policy Committee",
+        "Repo Rate",
+        "Inflation",
+        "El Niño",
+        "West Asia war"
+      ],
+      "source": {
+        "title": "RBI set to hold rates on 5 Aug as global risks cloud outlook: Mint poll",
+        "url": "https://www.livemint.com/economy/rbi-monetary-policy-august-2026-repo-rate-unchanged-inflation-gdp-growth-outlook-11785650989998.html"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q42",
+      "question": "Who recently presented the TVK government's maiden Budget for Tamil Nadu for the year 2026?",
+      "options": [
+        "M.K. Stalin",
+        "Harpal Singh Cheema",
+        "N. Marie Wilson",
+        "Udhayanidhi Stalin"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Tamil Nadu Finance Minister N. Marie Wilson recently presented the TVK-led government's maiden Budget for the year 2026. This budget follows the release of a White Paper on the State’s finances by the TVK government.",
+      "background": "The presentation of the state budget is a significant annual event, outlining the government's financial plans and priorities. Finance Minister N. Marie Wilson's presentation marks a key financial milestone for the TVK government, which had previously highlighted financial irregularities under the preceding administration.",
+      "examRelevance": "N. Marie Wilson presented the TVK government's maiden Budget for Tamil Nadu in 2026.",
+      "tags": [
+        "Tamil Nadu",
+        "Budget",
+        "N. Marie Wilson",
+        "TVK Government"
+      ],
+      "source": {
+        "title": "Tamil Nadu Budget 2026 LIVE updates: State Finance Minister N. Marie Wilson to present TVK government's maiden Budget",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-budget-2026-finance-minister-n-marie-wilson-present-tvk-government-maiden-financial-plan-live-updates-august-5-2026/article71307860.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q43",
+      "question": "National Handloom Day 2026 was observed on August 7, marking which edition of the annual observance?",
+      "options": [
+        "11th edition",
+        "12th edition",
+        "13th edition",
+        "10th edition"
+      ],
+      "answerIndex": 1,
+      "category": "Dates & Days",
+      "explanation": "National Handloom Day 2026 was observed on August 7, marking the 12th edition of the annual observance. This year's celebrations focused on innovation, sustainability, technology, and the changing role of handlooms in contemporary India.",
+      "background": "National Handloom Day is celebrated on August 7 each year to commemorate the Swadeshi Movement, which was launched on this day in 1905. The objective is to honor the handloom weaving community and highlight the contribution of the sector to India's socio-economic development.",
+      "examRelevance": "Edition of National Handloom Day and its date.",
+      "tags": [
+        "National Handloom Day",
+        "August 7",
+        "Handloom",
+        "Textile Heritage",
+        "Swadeshi Movement"
+      ],
+      "source": {
+        "title": "National Handloom Day 2026: Theme",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/national-handloom-day-2026-theme-significance-history-and-celebrations/articleshow/133019599.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q44",
+      "question": "India's Ministry of External Affairs (MEA) clarified that the recent press event involving Bangladesh's deposed Prime Minister Sheikh Hasina on Indian territory was organized by whom?",
+      "options": [
+        "The Indian government",
+        "The United Nations",
+        "The Bangladesh High Commission",
+        "A private media entity"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The Ministry of External Affairs (MEA) clarified that the recent press event featuring Bangladesh's deposed Prime Minister Sheikh Hasina on Indian soil was organized by a 'private media entity', asserting that the Indian government had no role in it. Bangladesh has expressed concerns that continued political activities by Sheikh Hasina on Indian territory could harm bilateral ties.",
+      "background": "Diplomatic protocols often dictate how political figures from other nations conduct activities on foreign soil. The MEA's statement underscores the Indian government's position on not being directly involved in the political engagements of foreign leaders in exile or opposition, especially when it could impact bilateral relations with their home country.",
+      "examRelevance": "MEA stated Sheikh Hasina's press event in India was organized by a 'private media entity'.",
+      "tags": [
+        "Sheikh Hasina",
+        "MEA",
+        "Bangladesh",
+        "India",
+        "Press Event",
+        "Diplomacy"
+      ],
+      "source": {
+        "title": "Government has no role; event being organised by ‘private media entity’: MEA on Sheikh Hasina’s press event",
+        "url": "https://www.thehindu.com/news/national/government-has-no-role-event-being-organised-by-private-media-entity-mea-on-sheikh-hasinas-press-event/article71306147.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q45",
+      "question": "Former Home Secretary G.K. Pillai-led group was recently denied police permission to release its annual report on Jammu and Kashmir in which city?",
+      "options": [
+        "Srinagar",
+        "Gulmarg",
+        "Leh",
+        "Jammu"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "A group led by former Home Secretary G.K. Pillai was recently denied police permission to release its annual report on human rights in Jammu and Kashmir in Srinagar. The report was scheduled to be released on August 7.",
+      "background": "The release of reports on human rights situations, especially in sensitive regions like Jammu and Kashmir, often attracts significant attention and can sometimes face administrative hurdles. G.K. Pillai has been involved with the Forum for Human Rights in Jammu and Kashmir, which produces such annual assessments.",
+      "examRelevance": "G.K. Pillai-led group denied police permission to release J&K human rights report in Srinagar.",
+      "tags": [
+        "G.K. Pillai",
+        "Jammu & Kashmir",
+        "Human Rights Report",
+        "Srinagar",
+        "Freedom of Expression"
+      ],
+      "source": {
+        "title": "Former Home Secretary G.K. Pillai-led group denied ‘police permission’ to release J&K report in Srinagar",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/former-home-secretary-gk-pillai-led-group-denied-police-permission-torelease-jk-report-in-srinagar/article71306456.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q46",
+      "question": "What percentage of the construction of the Nandi Hill cable car project has reportedly been completed despite pending forest clearance?",
+      "options": [
+        "20%",
+        "10%",
+        "30%",
+        "40%"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "An official informed that nearly 20% of the construction of the Nandi Hill cable car project, also known as the LTP, has been completed, even though forest clearance for the project is still pending.",
+      "background": "The Nandi Hill cable car project is aimed at enhancing tourism and accessibility to the popular Nandi Hills in Karnataka. Projects requiring forest clearance often face scrutiny regarding environmental impact assessments and regulatory compliance before construction can fully proceed.",
+      "examRelevance": "Nandi Hill cable car = 20% construction completed despite pending forest clearance.",
+      "tags": [
+        "Nandi Hill",
+        "Cable Car",
+        "Karnataka",
+        "Infrastructure",
+        "Forest Clearance"
+      ],
+      "source": {
+        "title": "Nandi Hill cable car: Forest clearance pending, but construction has begun",
+        "url": "https://www.thehindu.com/news/national/karnataka/nandi-hill-cable-car-forest-clearance-pending-but-construction-has-begun-bengaluru/article71277272.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q47",
+      "question": "Which political party recently laid down conditions to support the Centre's Delimitation Bill?",
+      "options": [
+        "Shiv Sena (UBT)",
+        "Aam Aadmi Party (AAP)",
+        "Dravida Munnetra Kazhagam (DMK)",
+        "All India Trinamool Congress (AITC)"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Dravida Munnetra Kazhagam (DMK) recently laid down conditions for its support to the Centre's Delimitation Bill. This comes amidst renewed efforts by the Centre to gather support for the Bill.",
+      "background": "Delimitation is the act of redrawing boundaries of Lok Sabha and state assembly constituencies to represent changes in population. It is a politically sensitive process, especially for southern states that fear losing parliamentary representation due to successful population control measures.",
+      "examRelevance": "DMK's stance on the Delimitation Bill.",
+      "tags": [
+        "DMK",
+        "Delimitation Bill",
+        "Parliament",
+        "Polity",
+        "Opposition"
+      ],
+      "source": {
+        "title": "DMK lays down conditions to support delimitation Bill",
+        "url": "https://www.thehindu.com/news/national/dmk-lays-down-conditions-as-government-steps-up-efforts-to-pass-delimitation-bill/article71313993.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q48",
+      "question": "Assam Chief Minister Himanta Biswa Sarma announced that he would take up the issue of illegal mining with the Centre, citing it as a cause for floods in Assam. Which neighboring state was implicated in this context?",
+      "options": [
+        "Nagaland",
+        "Meghalaya",
+        "Arunachal Pradesh",
+        "Mizoram"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Assam Chief Minister Himanta Biswa Sarma announced that he would take up the issue of illegal mining in Nagaland with the Centre. He stated that mining activities in the neighboring state were contributing to floods in Assam, despite Nagaland-based organizations trashing the theory.",
+      "background": "Inter-state environmental issues, especially those related to resource extraction, can often lead to disputes and calls for central intervention. Floods are a recurring problem in Assam, and identifying and addressing their causes, whether natural or anthropogenic, is a critical concern for the state government.",
+      "examRelevance": "Assam CM Himanta Biswa Sarma to take up Nagaland mining issue with Centre for Assam floods.",
+      "tags": [
+        "Assam Floods",
+        "Himanta Biswa Sarma",
+        "Nagaland",
+        "Illegal Mining",
+        "Environment",
+        "Inter-State Dispute"
+      ],
+      "source": {
+        "title": "Assam floods: CM to take up Nagaland mining issue with Centre",
+        "url": "https://www.thehindu.com/news/national/assam/flood-in-assam-due-to-nagaland-mining-will-take-up-with-centre-himanta-biswa-sarma/article71305770.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q49",
+      "question": "Myanmar's detained Nobel Peace Prize winner, Aung San Suu Kyi, recently met with an official from which international organization?",
+      "options": [
+        "Amnesty International",
+        "Doctors Without Borders",
+        "United Nations",
+        "International Committee of the Red Cross"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Myanmar's government reported that the detained Nobel Peace Prize winner, Aung San Suu Kyi, recently met with an official from the International Committee of the Red Cross (ICRC). This meeting occurred amid concerns over her health and conditions of detention.",
+      "background": "Aung San Suu Kyi, 81, has been in detention since the military coup in February 2021. The ICRC often facilitates humanitarian visits to political detainees to monitor their well-being and ensure their treatment adheres to international standards.",
+      "examRelevance": "Aung San Suu Kyi = Met with International Committee of the Red Cross official.",
+      "tags": [
+        "Aung San Suu Kyi",
+        "Myanmar",
+        "Nobel Peace Prize",
+        "Red Cross",
+        "Detention"
+      ],
+      "source": {
+        "title": "Myanmar’s Aung San Suu Kyi meets Red Cross official, government says",
+        "url": "https://www.thehindu.com/news/international/myanmars-aung-san-suu-kyi-meets-red-cross-official-government-says/article71299861.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q50",
+      "question": "An earthquake recently struck Egypt. What was the magnitude of this earthquake?",
+      "options": [
+        "5.1",
+        "5.4",
+        "5.7",
+        "4.8"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "An earthquake of magnitude 5.4 recently struck Egypt. The Egyptian Red Crescent activated its emergency response plan in affected governorates but reported no initial casualties or property damage.",
+      "background": "Egypt is located in a seismically active region, though major earthquakes are less frequent than in some other parts of the world. Earthquakes are measured on the Richter scale, with magnitudes indicating the energy released at the source.",
+      "examRelevance": "Egypt earthquake = Magnitude 5.4.",
+      "tags": [
+        "Egypt",
+        "Earthquake",
+        "Natural Disaster",
+        "Magnitude"
+      ],
+      "source": {
+        "title": "Earthquake of magnitude 5.4 strikes Egypt",
+        "url": "https://www.thehindu.com/news/international/egypt-earthquake-toll-updates-damage-august-3-2026/article71299726.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q51",
+      "question": "Jorge Jesus has recently been tasked with guiding which national football team in its quest for the biggest prize?",
+      "options": [
+        "France",
+        "Italy",
+        "Portugal",
+        "Germany"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Jorge Jesus has recently been appointed to guide the Portugal national football team. His primary task is to lead the team in its pursuit of major international honors.",
+      "background": "Jorge Jesus is a well-known Portuguese football manager with extensive experience at club level, having managed several prominent teams including Benfica and Flamengo. His appointment to the national team reflects a strategic move to bring in experienced leadership for their international campaigns.",
+      "examRelevance": "Jorge Jesus is the new manager of the Portugal national football team.",
+      "tags": [
+        "Jorge Jesus",
+        "Football",
+        "Manager",
+        "Portugal",
+        "Sports Appointments"
+      ],
+      "source": {
+        "title": "Football’s managerial carousel is up and running",
+        "url": "https://www.thehindu.com/sport/football/footballs-managerial-carousel-is-up-and-running/article71306890.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q52",
+      "question": "Tribals residing atop which hillock in Vellore are set to receive a new government health centre?",
+      "options": [
+        "Kolli",
+        "Alleri",
+        "Yelagiri",
+        "Jawadhu"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "Tribals residing atop the Alleri hillock in Vellore are set to get a government health centre, which aims to improve healthcare access for the community and address their long-standing medical needs.",
+      "background": "Improving healthcare infrastructure in remote and tribal areas is a key focus of government initiatives to ensure equitable access to medical services. This project addresses a critical need for the Alleri hillock residents, who often face geographical barriers to healthcare.",
+      "examRelevance": "Alleri hillock (Vellore) = To get government health centre.",
+      "tags": [
+        "Healthcare",
+        "Tribal Welfare",
+        "Vellore",
+        "Alleri Hillock",
+        "Government Scheme"
+      ],
+      "source": {
+        "title": "Tribals atop Alleri hillock in Vellore to get government health centre",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tribals-atop-alleri-hillock-in-vellore-to-get-government-health-centre/article71297729.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q53",
+      "question": "The Supreme Court of India recently closed a long-pending plea by the Hinduja brothers related to which infamous case?",
+      "options": [
+        "2G Spectrum case",
+        "Bofors case",
+        "Fodder scam",
+        "Coal Allocation scam"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court of India recently closed a long-pending plea by the Hinduja brothers related to the infamous Bofors case. This decision brings an end to a significant chapter in the long-running legal battle.",
+      "background": "The Bofors scandal, a major political controversy in India in the late 1980s, involved allegations of kickbacks in a ₹1,437 crore deal between India and the Swedish arms manufacturer Bofors for the sale of 155 mm howitzer guns. The Hinduja brothers were among those accused in the case.",
+      "examRelevance": "Supreme Court's recent action on a historic corruption case.",
+      "tags": [
+        "Supreme Court",
+        "Hinduja Brothers",
+        "Bofors Case",
+        "Corruption",
+        "Legal"
+      ],
+      "source": {
+        "title": "SC closes long-pending Hinduja plea in Bofors case",
+        "url": "https://economictimes.indiatimes.com/news/india/supreme-court-ends-long-pending-plea-against-hinduja-brothers-relief-in-bofors-case/articleshow/133018926.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q54",
+      "question": "What amount was Meta recently ordered to pay to a U.S. state to abate 'public nuisance' and child harm?",
+      "options": [
+        "$345 million",
+        "$789 million",
+        "$567 million",
+        "$912 million"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Meta was ordered to pay $567 million to a U.S. state to abate 'public nuisance' and child harm. Meta has stated its disagreement with the ruling and intends to appeal.",
+      "background": "This ruling comes amid growing scrutiny and legal challenges against social media companies regarding their platforms' impact on mental health, privacy, and safety, particularly for younger users. Several U.S. states have initiated lawsuits against tech giants over these concerns.",
+      "examRelevance": "Meta's recent legal fine amount and reason.",
+      "tags": [
+        "Meta",
+        "Legal Ruling",
+        "Child Harm",
+        "Public Nuisance",
+        "Fine"
+      ],
+      "source": {
+        "title": "Meta ordered to pay U.S. state $567 million to abate 'public nuisance' and child harm",
+        "url": "https://www.thehindu.com/sci-tech/technology/meta-ordered-to-pay-us-state-567-million-to-abate-public-nuisance-and-child-harm/article71316170.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q55",
+      "question": "The Indian Meteorological Department (IMD) has compiled a 125-year rainfall dataset, covering 110 weather stations from 1901 to 2025, for which Indian state?",
+      "options": [
+        "Karnataka",
+        "Tamil Nadu",
+        "Kerala",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "The IMD has compiled a comprehensive 125-year rainfall dataset for Kerala, which includes data from 110 weather stations across the state, spanning from 1901 to 2025. This dataset provides crucial insights into the state's monsoon patterns and vulnerable regions.",
+      "background": "This extensive dataset is a valuable tool for understanding long-term climatic trends and preparing for future rain-induced calamities. Despite its availability, experts note that the state government has been criticized for lacking long-term mitigation plans and waiting for immediate weather alerts.",
+      "examRelevance": "IMD's 125-year rainfall dataset (1901-2025) is for Kerala, covering 110 weather stations.",
+      "tags": [
+        "IMD",
+        "Kerala",
+        "Rainfall Data",
+        "Monsoon",
+        "Climate"
+      ],
+      "source": {
+        "title": "Lack of long-term plans to mitigate rain-induced calamities worrying for Kerala",
+        "url": "https://www.thehindu.com/news/national/kerala/lack-of-long-term-plans-to-mitigate-rain-inducted-calamities-worrying-for-kerala/article71302266.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q56",
+      "question": "The next tranche of the ECMS (Electronics Component Manufacturing Scheme) is expected to greenlight plants for the manufacturing of what critical components?",
+      "options": [
+        "Rare earth magnets",
+        "Lithium-ion batteries",
+        "Semiconductor chips",
+        "Solar panels"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "The upcoming tranche of the Electronics Component Manufacturing Scheme (ECMS) is anticipated to give approval for the establishment of rare earth magnet manufacturing plants. This move aims to bolster domestic production of critical components and reduce import dependency.",
+      "background": "Rare earth elements are crucial for various high-tech industries, including electronics, electric vehicles, and defense. Reducing dependence on specific countries for these materials is a strategic priority for many nations to ensure supply chain security.",
+      "examRelevance": "ECMS tranche = Expected to greenlight rare earth magnet plants.",
+      "tags": [
+        "ECMS",
+        "Rare Earth Magnets",
+        "Electronics Manufacturing",
+        "Critical Minerals",
+        "Make in India"
+      ],
+      "source": {
+        "title": "ECMS tranche may focus on rare earth magnet plants",
+        "url": "https://economictimes.indiatimes.com/tech/technology/next-ecms-tranche-may-greenlight-rare-earth-magnet-plants/articleshow/132812570.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q57",
+      "question": "The D2C activewear brand BlissClub recently raised ₹160 crore in funding. This funding round was led by which investment firm?",
+      "options": [
+        "Accel",
+        "Sequoia Capital",
+        "Singularity Growth Opportunities Fund",
+        "Tiger Global"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The D2C (Direct-to-Consumer) activewear brand BlissClub recently raised ₹160 crore in funding. This funding round was led by Singularity Growth Opportunities Fund, indicating investor confidence in the activewear market and D2C brands.",
+      "background": "D2C brands have gained significant traction in India, leveraging online channels to directly reach consumers and offer specialized products. BlissClub focuses on activewear for women, a growing segment in the Indian retail market.",
+      "examRelevance": "Recent funding for a D2C brand and the lead investor.",
+      "tags": [
+        "BlissClub",
+        "D2C",
+        "Activewear",
+        "Funding",
+        "Singularity Growth Opportunities Fund"
+      ],
+      "source": {
+        "title": "BlissClub raises Rs 160 crore in funding",
+        "url": "https://economictimes.indiatimes.com/tech/funding/d2c-activewear-brand-blissclub-raises-rs-160-crore-funding-led-by-singularity/articleshow/133012970.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q58",
+      "question": "Which Union Minister recently assured Christian bodies that the Foreign Contribution (Regulation) Act (FCRA) Bill is ‘religion-neutral’?",
+      "options": [
+        "S. Jaishankar",
+        "Nirmala Sitharaman",
+        "Amit Shah",
+        "Rajnath Singh"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Union Home Minister Amit Shah recently met with Christian bodies and assured them that the Foreign Contribution (Regulation) Act (FCRA) Bill is ‘religion-neutral’. He conveyed that the government has “no intention to harass the Christian community” through this Bill.",
+      "background": "The FCRA regulates the acceptance and utilization of foreign contributions by individuals and associations in India. The Bill, which could be discussed in Parliament on August 12, has been a subject of concern for various religious and non-governmental organizations regarding its potential impact on their operations.",
+      "examRelevance": "Union Home Minister's statement on FCRA Bill.",
+      "tags": [
+        "Amit Shah",
+        "FCRA Bill",
+        "Christian Bodies",
+        "Polity",
+        "Legislation"
+      ],
+      "source": {
+        "title": "FCRA Bill is ‘religion-neutral’, Shah assures Christian bodies",
+        "url": "https://www.thehindu.com/news/national/fcra-bill-is-religion-neutral-shah-assures-christian-bodies/article71314671.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q59",
+      "question": "Palestinians recently held a mass funeral for 112 bodies finally recovered from a 2023 strike in which region?",
+      "options": [
+        "Golan Heights",
+        "East Jerusalem",
+        "Gaza",
+        "West Bank"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Palestinians recently held a mass funeral for 112 bodies that were finally recovered from a 2023 strike in Gaza. The recovery and funeral highlight the ongoing impact of past conflicts in the region.",
+      "background": "The Gaza Strip has been a focal point of conflict for many years, leading to significant humanitarian crises and loss of life. Mass funerals for recovered victims underscore the human cost of these conflicts and the community's efforts to provide dignity to the deceased.",
+      "examRelevance": "Palestinians held mass funeral for 112 bodies recovered from a 2023 Gaza strike.",
+      "tags": [
+        "Palestinians",
+        "Gaza",
+        "Mass Funeral",
+        "Conflict",
+        "Humanitarian Crisis"
+      ],
+      "source": {
+        "title": "Palestinians hold mass funeral for 112 bodies finally recovered from a 2023 Gaza strike",
+        "url": "https://www.thehindu.com/news/international/palestinians-hold-mass-funeral-for-112-bodies-finally-recovered-from-a-2023-gaza-strike/article71307862.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q60",
+      "question": "Which two countries are reportedly working on a plan to reopen the Strait of Hormuz, with the US also nearing an interim deal?",
+      "options": [
+        "Iran and Saudi Arabia",
+        "Yemen and Egypt",
+        "Qatar and UAE",
+        "Iran and Oman"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Iran and Oman are reportedly working on a plan to reopen the Strait of Hormuz, with reports also indicating that the US is nearing an interim deal with Iran and Oman on this matter. Qatar has also stated that mediators are making progress in these talks.",
+      "background": "The Strait of Hormuz is a strategically vital waterway connecting the Persian Gulf with the Arabian Sea, through which a significant portion of the world's oil supply passes. Its closure or disruption would have major global economic implications. Diplomatic efforts to ensure its free passage are ongoing, especially amidst regional tensions.",
+      "examRelevance": "Iran and Oman are working on a plan to reopen the Strait of Hormuz, with US involvement.",
+      "tags": [
+        "Strait of Hormuz",
+        "Iran",
+        "Oman",
+        "US",
+        "Diplomatic Engagement",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Iran, Oman working on plan to reopen Strait of Hormuz",
+        "url": "https://www.thehindu.com/news/international/iran-oman-working-on-plan-to-reopen-strait-of-hormuz/article71307975.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q61",
+      "question": "A ferry fire in Indonesia recently resulted in five deaths and 41 people missing. How many people on the vessel were rescued, according to the regional Surabaya Search and Rescue Agency?",
+      "options": [
+        "180",
+        "200",
+        "225",
+        "250"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "A ferry fire in Indonesia led to five fatalities and 41 individuals missing. The regional Surabaya Search and Rescue Agency reported that a total of 225 people on board the vessel were successfully rescued.",
+      "background": "Ferry accidents are unfortunately not uncommon in Indonesia, an archipelago nation heavily reliant on sea transport. Safety regulations and emergency response capabilities are critical in such situations to minimize casualties.",
+      "examRelevance": "Indonesia ferry fire = 225 people rescued.",
+      "tags": [
+        "Indonesia",
+        "Ferry Fire",
+        "Maritime Accident",
+        "Surabaya Search and Rescue"
+      ],
+      "source": {
+        "title": "Five dead, 41 missing in Indonesia ferry fire",
+        "url": "https://www.thehindu.com/news/international/ferry-fire-in-indonesia-leaves-few-dead-and-many-missing/article71297598.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q62",
+      "question": "Which Indian city is being developed as Andhra Pradesh's greenfield capital?",
+      "options": [
+        "Visakhapatnam",
+        "Amaravati",
+        "Kurnool",
+        "Tirupati"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "Amaravati is being developed as Andhra Pradesh's greenfield capital. The city's construction involves efforts to balance development with social and environmental concerns, impacting the lives of migrant workers and local communities.",
+      "background": "After the bifurcation of Andhra Pradesh in 2014, Hyderabad became the joint capital for Telangana and Andhra Pradesh for a period, with Andhra Pradesh deciding to build a new capital. Amaravati was chosen for this purpose, with plans for it to be a modern, sustainable city.",
+      "examRelevance": "Andhra Pradesh's greenfield capital city.",
+      "tags": [
+        "Amaravati",
+        "Andhra Pradesh",
+        "Greenfield Capital",
+        "City Development"
+      ],
+      "source": {
+        "title": "The hands that are shaping Amaravati",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/the-hands-that-are-shaping-amaravati/article71313841.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q63",
+      "question": "After how many years are student body polls scheduled to be held in Madhya Pradesh universities, according to the academic calendar of 2026-27?",
+      "options": [
+        "Eleven years",
+        "Seven years",
+        "Five years",
+        "Nine years"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Student body polls are scheduled to be held in Madhya Pradesh universities in September 2026, marking their return after a gap of nine years. The state government shared this information with a Division Bench in Jabalpur as part of the 2026-27 academic calendar.",
+      "background": "Student elections are a vital part of democratic functioning within educational institutions, providing a platform for student representation and leadership. The resumption of these polls after a prolonged hiatus is a significant development for university students in Madhya Pradesh.",
+      "examRelevance": "Student body polls to be held in Madhya Pradesh universities after nine years in September 2026.",
+      "tags": [
+        "Madhya Pradesh",
+        "Student Body Polls",
+        "Universities",
+        "Academic Calendar"
+      ],
+      "source": {
+        "title": "Student body polls to be held in Madhya Pradesh universities after nine years",
+        "url": "https://www.thehindu.com/news/national/madhya-pradesh/student-body-polls-to-be-held-in-madhya-pradesh-universities-after-nine-years/article71306334.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q64",
+      "question": "Which municipal corporation recently launched a comprehensive campaign to monitor illegal waste dumping through CCTV surveillance?",
+      "options": [
+        "Kolkata Municipal Corporation",
+        "Greater Chennai Corporation",
+        "Brihanmumbai Municipal Corporation (BMC)",
+        "Delhi Municipal Corporation"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "The Solid Waste Management Department of the Brihanmumbai Municipal Corporation (BMC) launched a comprehensive campaign to improve visible cleanliness across Mumbai and its suburbs, which includes monitoring illegal waste dumping through CCTV surveillance.",
+      "background": "Illegal waste dumping is a significant environmental and public health issue in urban areas. Utilizing technology like CCTV surveillance is a modern approach to enforce waste management regulations and deter offenders, aiming for a cleaner city environment.",
+      "examRelevance": "BMC (Mumbai) = To monitor illegal waste dumping using CCTV surveillance.",
+      "tags": [
+        "BMC",
+        "Mumbai",
+        "Waste Management",
+        "CCTV Surveillance",
+        "Environment"
+      ],
+      "source": {
+        "title": "BMC to monitor illegal waste dumping through CCTV surveillance",
+        "url": "https://www.thehindu.com/news/cities/mumbai/bmc-to-monitor-illegal-waste-dumping-through-cctv-surveillance/article71298217.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q65",
+      "question": "Which major Indian conglomerate's electronics arm recently announced plans to rejig its cybersecurity, tapping an Adani executive to rebuild trust?",
+      "options": [
+        "Reliance",
+        "Tata",
+        "Adani",
+        "Birla"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Tata Electronics, the electronics arm of the Tata Group, recently announced plans to rejig its cybersecurity infrastructure. As part of this initiative, it is reportedly tapping an Adani executive, Mehta, to rebuild trust and enhance its security protocols.",
+      "background": "Cybersecurity has become a critical concern for businesses globally, especially in the manufacturing and technology sectors, due to increasing threats and the need to protect sensitive data and intellectual property. Major conglomerates are continuously evolving their strategies to counter these risks.",
+      "examRelevance": "Tata Electronics' recent cybersecurity revamp plans.",
+      "tags": [
+        "Tata Electronics",
+        "Cybersecurity",
+        "Tata Group",
+        "Corporate News",
+        "Technology"
+      ],
+      "source": {
+        "title": "Tata Electronics to rejig cybersecurity",
+        "url": "https://economictimes.indiatimes.com/tech/technology/tata-electronics-to-rejig-cybersecurity-taps-adani-executive-mehta-to-rebuild-trust/articleshow/133012851.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q66",
+      "question": "A recent school shooting with reported fatalities, where the perpetrator was identified as a student, occurred in which country?",
+      "options": [
+        "Brazil",
+        "United States",
+        "Thailand",
+        "Germany"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Thai police recently reported fatalities in a school shooting where the perpetrator was identified as a student. Further details regarding the exact number of casualties were not immediately available.",
+      "background": "School shootings are tragic events that highlight issues related to gun control, mental health, and security in educational institutions globally. Such incidents often lead to widespread public debate and calls for policy changes.",
+      "examRelevance": "Recent international event involving a school shooting in Thailand.",
+      "tags": [
+        "Thailand",
+        "School Shooting",
+        "International Incident",
+        "Crime"
+      ],
+      "source": {
+        "title": "Thai police report fatalities in school shooting, number unconfirmed",
+        "url": "https://www.thehindu.com/news/international/shooting-at-a-school-in-thailand-august-7-2026/article71316169.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q67",
+      "question": "The Enforcement Directorate (ED) recently conducted raids at five locations in Munger, Bihar, in connection with which type of scam?",
+      "options": [
+        "Digital job scam",
+        "Bank loan fraud",
+        "Illegal mining racket",
+        "Land acquisition scam"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Enforcement Directorate (ED) recently conducted raids at five locations in Munger, Bihar, in connection with a digital job scam. Incriminating documents related to immovable property, bank accounts, agreements, and investment details were recovered during these search operations.",
+      "background": "Digital job scams typically involve fraudsters luring individuals with promises of high-paying online jobs, often requiring an initial investment or personal data. The ED's involvement indicates a money laundering aspect under the Prevention of Money Laundering Act (PMLA), 2002.",
+      "examRelevance": "ED's recent action against a specific type of scam in Bihar.",
+      "tags": [
+        "ED",
+        "Munger",
+        "Bihar",
+        "Digital Job Scam",
+        "PMLA"
+      ],
+      "source": {
+        "title": "ED raids five locations in Bihar’s Muger in digital job scam",
+        "url": "https://www.thehindu.com/news/national/bihar/ed-raids-five-locations-in-bihars-muger-in-digital-job-scam/article71314696.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q68",
+      "question": "Which Indian state recently extended the application period for industrial land conversion under its HILTP (Hyderabad Industrial Land Transfer Policy) until October?",
+      "options": [
+        "Telangana",
+        "Gujarat",
+        "Andhra Pradesh",
+        "Karnataka"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "Telangana recently extended the application period for industrial land conversion under its HILTP (Hyderabad Industrial Land Transfer Policy) until October. The government also announced that the SRO (Sub-Registrar Office) rates prevailing prior to June 5 will apply to these applications.",
+      "background": "The HILTP is a policy aimed at facilitating the conversion of land for industrial use, promoting ease of doing business and industrial growth. Extensions to such application periods are often provided to allow more stakeholders to benefit from the policy.",
+      "examRelevance": "Telangana's recent policy extension for industrial land conversion.",
+      "tags": [
+        "Telangana",
+        "HILTP",
+        "Industrial Land",
+        "Land Conversion",
+        "Government Policy"
+      ],
+      "source": {
+        "title": "Telangana extends industrial land conversion applications under HILTP till October",
+        "url": "https://www.thehindu.com/news/national/telangana/telangana-extends-industrial-land-conversion-applications-under-hiltp-till-october/article71314862.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q69",
+      "question": "Which Indian-origin NASA astronaut recently undertook his first spacewalk, alongside Jessica Meir, to upgrade the International Space Station?",
+      "options": [
+        "Kalpana Chawla",
+        "Raja Chari",
+        "Anil Menon",
+        "Sunita Williams"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Indian-origin NASA astronaut Anil Menon recently undertook his first spacewalk on August 5, 2026. He was accompanied by Jessica Meir, who completed her sixth spacewalk, to upgrade the International Space Station (ISS). This was the 281st spacewalk in support of the space station.",
+      "background": "Anil Menon is a physician and former SpaceX flight surgeon who was selected by NASA as an astronaut candidate in 2021. Spacewalks (Extravehicular Activities or EVAs) are crucial for maintaining, repairing, and upgrading the ISS, allowing astronauts to work outside the spacecraft.",
+      "examRelevance": "Indian-origin astronaut's first spacewalk and its purpose.",
+      "tags": [
+        "Anil Menon",
+        "NASA",
+        "Spacewalk",
+        "International Space Station",
+        "Jessica Meir"
+      ],
+      "source": {
+        "title": "NASA astronauts Anil Menon, Jessica Meir undertake spacewalk to upgrade space station",
+        "url": "https://www.thehindu.com/sci-tech/science/nasa-astronauts-anil-menon-jessica-meir-undertake-spacewalk-to-upgrade-space-station/article71316085.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q70",
+      "question": "The recent exchange of strikes between Ukraine and Russia resulted in at least how many fatalities?",
+      "options": [
+        "14",
+        "10",
+        "12",
+        "16"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The recent exchange of strikes between Ukraine and Russia, occurring nearly four-and-a-half years into their conflict, resulted in at least 14 deaths. Both sides appear to be increasing the scale and intensity of their attacks.",
+      "background": "The conflict between Ukraine and Russia has been ongoing since 2022, with both nations engaging in regular military strikes. Civilian casualties often result from these escalating attacks, highlighting the humanitarian cost of the war.",
+      "examRelevance": "Ukraine-Russia strikes = At least 14 dead.",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "Conflict",
+        "Fatalities",
+        "Geopolitics"
+      ],
+      "source": {
+        "title": "At least 14 dead as Ukraine, Russia exchange strikes",
+        "url": "https://www.thehindu.com/news/international/several-killed-as-ukraine-russia-exchange-strikes-august-3-2026/article71299756.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q71",
+      "question": "On National Handloom Day, the 'Ringa' weaving tradition, defining the identity of the Bonda tribe, was highlighted. The Bonda tribe is primarily found in which Indian state?",
+      "options": [
+        "Odisha",
+        "West Bengal",
+        "Jharkhand",
+        "Chhattisgarh"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "The Bonda tribe, known for preserving the 'Ringa' weaving tradition that defines their identity, is primarily found in Odisha. This unique cultural heritage was highlighted on National Handloom Day.",
+      "background": "The Bonda tribe is one of the most ancient and primitive tribes of India, residing in the Malkangiri district of Odisha. Their handwoven 'Ringa' fabric is not just clothing but a significant part of their cultural and social identity, often made by women of the tribe.",
+      "examRelevance": "Location of Bonda tribe and their unique weaving tradition.",
+      "tags": [
+        "Bonda Tribe",
+        "Ringa Weaving",
+        "Odisha",
+        "National Handloom Day",
+        "Tribal Culture"
+      ],
+      "source": {
+        "title": "National Handloom Day: Inside the Bonda tribe’s enduring Ringa weaving tradition",
+        "url": "https://www.thehindu.com/society/history-and-culture/national-handloom-day-inside-the-bonda-tribes-enduring-ringa-weaving-tradition/article71312118.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q72",
+      "question": "Roberto Mancini has recently been appointed as the manager of which national football team?",
+      "options": [
+        "Germany",
+        "France",
+        "Portugal",
+        "Italy"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Roberto Mancini has recently taken on the role of manager for the Italian national football team. He is tasked with leading a squad that has been considered an under-achiever in recent major tournaments.",
+      "background": "Mancini previously led Italy to victory in the UEFA European Championship. His return or new appointment to the national team indicates a desire to bring back past successes and stabilize the team's performance on the international stage.",
+      "examRelevance": "Roberto Mancini is the new manager of the Italy national football team.",
+      "tags": [
+        "Roberto Mancini",
+        "Football",
+        "Manager",
+        "Italy",
+        "Sports Appointments"
+      ],
+      "source": {
+        "title": "Football’s managerial carousel is up and running",
+        "url": "https://www.thehindu.com/sport/football/footballs-managerial-carousel-is-up-and-running/article71306890.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q73",
+      "question": "Shiprocket is expected to launch its Initial Public Offering (IPO) in 1-2 weeks. What is the anticipated valuation of Shiprocket for this IPO?",
+      "options": [
+        "₹6,000 crore",
+        "₹5,000 crore",
+        "₹8,000 crore",
+        "₹7,000 crore"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Shiprocket is slated to launch its Initial Public Offering (IPO) within the next one to two weeks, with an anticipated valuation of ₹7,000 crore. This marks a significant step for the company in raising public capital.",
+      "background": "An IPO marks a company's transition from private to public ownership, allowing it to raise capital from public investors. Shiprocket is a leading e-commerce logistics and shipping platform, and its IPO reflects investor confidence in the logistics tech sector.",
+      "examRelevance": "Shiprocket IPO = Anticipated valuation of ₹7,000 crore.",
+      "tags": [
+        "Shiprocket",
+        "IPO",
+        "Initial Public Offering",
+        "Valuation",
+        "Startups"
+      ],
+      "source": {
+        "title": "Shiprocket to launch IPO in 1-2 weeks",
+        "url": "https://economictimes.indiatimes.com/tech/startups/shiprocket-to-launch-ipo-in-1-2-weeks-at-a-valuation-of-rs-7000-crore/articleshow/132810230.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q74",
+      "question": "Lebanon and Israel recently held a new round of direct talks in which European capital?",
+      "options": [
+        "Vienna",
+        "Berlin",
+        "Paris",
+        "Rome"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Lebanon and Israel recently held a new round of direct talks in Rome, the capital of Italy. Delegations from both countries arrived at the U.S. embassy in Rome for discussions scheduled to run for several days.",
+      "background": "Direct talks between Lebanon and Israel are significant given their historically tense relations and unresolved border issues. Such discussions, often mediated by international partners like the U.S., aim to de-escalate tensions and potentially work towards long-term stability in the region.",
+      "examRelevance": "Lebanon and Israel held new round of direct talks in Rome.",
+      "tags": [
+        "Lebanon",
+        "Israel",
+        "Direct Talks",
+        "Rome",
+        "International Relations",
+        "Diplomacy"
+      ],
+      "source": {
+        "title": "Lebanon and Israel hold new round of direct talks in Rome",
+        "url": "https://www.thehindu.com/news/international/lebanon-and-israel-hold-new-round-of-direct-talks-in-rome/article71307182.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q75",
+      "question": "English football club Fulham recently signed Gonzalo and Palacios from which prominent Spanish club?",
+      "options": [
+        "Valencia CF",
+        "Sevilla FC",
+        "Atletico Madrid",
+        "Real Madrid"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "English football club Fulham recently completed the signing of Gonzalo and Palacios from the prominent Spanish club Real Madrid. This transfer strengthens Fulham's squad for the upcoming season.",
+      "background": "Football transfers are a regular feature of the sport's calendar, with clubs buying and selling players to enhance their teams. Real Madrid is one of the most successful football clubs globally, and players moving from such a high-profile club often bring significant talent and experience.",
+      "examRelevance": "Fulham signed Gonzalo and Palacios from Real Madrid.",
+      "tags": [
+        "Fulham",
+        "Real Madrid",
+        "Gonzalo",
+        "Palacios",
+        "Football Transfers"
+      ],
+      "source": {
+        "title": "Fulham sign Gonzalo, Palacios from Real Madrid",
+        "url": "https://www.thehindu.com/sport/football/fulham-sign-gonzalo-palacios-from-real-madrid/article71306996.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q76",
+      "question": "U.S. Senate leaders recently reached a funding deal to avoid a government shutdown. When is the Senate likely to vote on this measure?",
+      "options": [
+        "After the upcoming elections",
+        "Before its traditional August recess",
+        "Before the end of the year",
+        "In the next fiscal quarter"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "U.S. Senate leaders have reached a funding deal to prevent a government shutdown. The Senate is likely to vote on this measure before leaving Washington at week's end for its traditional August recess.",
+      "background": "Government shutdowns in the U.S. occur when Congress fails to pass appropriations bills or continuing resolutions, leading to disruptions in government services. Avoiding a shutdown is crucial, especially during campaign season, to prevent economic uncertainty.",
+      "examRelevance": "U.S. Senate funding deal = Vote expected before August recess.",
+      "tags": [
+        "U.S. Senate",
+        "Government Shutdown",
+        "Funding Deal",
+        "August Recess"
+      ],
+      "source": {
+        "title": "U.S. Senate leaders reach funding deal to avoid shutdown during campaign season",
+        "url": "https://www.thehindu.com/news/international/us-senate-leaders-reach-funding-deal-to-avoid-shutdown-during-campaign-season/article71299454.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q77",
+      "question": "Urban Company reported a consolidated net loss of Rs 92 crore for Q1 FY27, despite its revenue from operations jumping 44% year-on-year to Rs 528 crore. Which new service was primarily cited for leading to the sharp losses?",
+      "options": [
+        "Home Repairs",
+        "Appliance Servicing",
+        "InstaHelp (instant maid services)",
+        "Beauty & Wellness"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Urban Company reported a consolidated net loss of Rs 92 crore for Q1 FY27, with its revenue from operations increasing by 44% year-on-year to Rs 528 crore. The sharp losses were primarily attributed to InstaHelp, the company’s latest instant maid services.",
+      "background": "Urban Company is a significant player in the home services market. The launch of new services like InstaHelp represents expansion efforts, but often comes with initial operational costs and losses before achieving profitability, impacting overall financial performance.",
+      "examRelevance": "Urban Company Q1 FY27 losses = Led by InstaHelp service.",
+      "tags": [
+        "Urban Company",
+        "Q1 Results",
+        "InstaHelp",
+        "Financial Performance"
+      ],
+      "source": {
+        "title": "Urban Company shares zoom 15% after Q1 results. Why Motilal Oswal raised target price",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/urban-company-shares-zoom-15-after-q1-results-why-motilal-oswal-raised-target-price/articleshow/132818367.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q78",
+      "question": "Japan recently confirmed a joint yen intervention with the U.S. This is the first such coordinated action since which year?",
+      "options": [
+        "2018",
+        "2008",
+        "2015",
+        "2011"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Japan confirmed a joint yen intervention with the United States, marking the first such coordinated action since 2011. The previous intervention in 2011 was undertaken to weaken the yen following a devastating earthquake in eastern Japan.",
+      "background": "Currency intervention is a monetary policy tool where a central bank buys or sells foreign currency in exchange for its own currency, typically to influence exchange rates. Coordinated interventions by multiple countries are less common but significant, indicating severe market imbalances.",
+      "examRelevance": "Japan-U.S. joint yen intervention = First since 2011.",
+      "tags": [
+        "Japan",
+        "United States",
+        "Yen",
+        "Currency Intervention",
+        "Economy"
+      ],
+      "source": {
+        "title": "Japan confirms joint yen intervention with U.S., signals readiness for more action",
+        "url": "https://www.thehindu.com/news/international/japan-confirms-joint-yen-intervention-with-us-signals-readiness-for-more-action/article71299725.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q79",
+      "question": "The company M2P recently raised ₹100 crore in debt funding from Alteria. For what primary purpose will this funding be used?",
+      "options": [
+        "Market expansion into new countries",
+        "Acquisition of rival companies",
+        "Diversification into new product lines",
+        "Funding AI expansion"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "M2P, a company focused on fintech infrastructure, recently raised ₹100 crore in debt funding from Alteria. This funding is primarily earmarked to finance the company's AI expansion initiatives.",
+      "background": "Fintech companies are increasingly leveraging Artificial Intelligence (AI) to enhance their services, improve efficiency, and develop innovative solutions for areas like fraud detection, personalized banking, and automated customer support. Debt funding provides a non-dilutive capital option for growth.",
+      "examRelevance": "M2P's recent debt funding and its intended use for AI expansion.",
+      "tags": [
+        "M2P",
+        "Alteria",
+        "Debt Funding",
+        "AI Expansion",
+        "Fintech"
+      ],
+      "source": {
+        "title": "M2P raises Rs 100 crore debt from Alteria",
+        "url": "https://economictimes.indiatimes.com/tech/funding/m2p-raises-rs-100-crore-debt-from-alteria-to-fund-ai-expansion/articleshow/133001086.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q80",
+      "question": "Which U.S. President recently signed new orders aimed at limiting birthright citizenship and curbing commercial 'birth tourism'?",
+      "options": [
+        "Donald Trump",
+        "George W. Bush",
+        "Joe Biden",
+        "Barack Obama"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "U.S. President Donald Trump recently signed new orders to limit birthright citizenship and curb commercial 'birth tourism'. One order specifically targets people who engage in commercial 'birth tourism' by seeking to deny them access to the country.",
+      "background": "Birth tourism refers to the practice of traveling to another country for the purpose of giving birth there, so that the child will be a citizen of that country. Birthright citizenship, enshrined in the 14th Amendment, grants citizenship to nearly all individuals born on U.S. soil.",
+      "examRelevance": "U.S. President's recent immigration policy action.",
+      "tags": [
+        "Donald Trump",
+        "Birthright Citizenship",
+        "Birth Tourism",
+        "Immigration Policy",
+        "United States"
+      ],
+      "source": {
+        "title": "U.S. President Trump signs new orders to limit birthright citizenship",
+        "url": "https://www.thehindu.com/news/international/trump-signs-2-immigration-actions-to-limit-birthright-citizenship-and-curb-birth-tourism/article71315274.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q81",
+      "question": "Jürgen Klopp has recently been appointed as the manager of which national football team?",
+      "options": [
+        "Portugal",
+        "Italy",
+        "Germany",
+        "France"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Jürgen Klopp has recently been appointed as the manager of the German national football team. He faces the significant responsibility of guiding a team that has been underperforming in recent times.",
+      "background": "Klopp is widely regarded as one of the best football managers in the world, known for his 'Gegenpressing' style and success with clubs like Borussia Dortmund and Liverpool. His appointment to the national side signals a strong intent to rejuvenate Germany's football fortunes.",
+      "examRelevance": "Jürgen Klopp is the new manager of the Germany national football team.",
+      "tags": [
+        "Jürgen Klopp",
+        "Football",
+        "Manager",
+        "Germany",
+        "Sports Appointments"
+      ],
+      "source": {
+        "title": "Football’s managerial carousel is up and running",
+        "url": "https://www.thehindu.com/sport/football/footballs-managerial-carousel-is-up-and-running/article71306890.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q82",
+      "question": "India's real estate sector is witnessing a new wave of Initial Public Offerings (IPOs) driven by specialised platforms. Which of the following is NOT mentioned as a type of asset expanding into public markets in this trend?",
+      "options": [
+        "Student housing",
+        "Traditional residential apartments",
+        "Logistics parks",
+        "Co-working spaces"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "India's real estate sector is expanding the range of assets being brought to the public markets through IPOs, focusing on specialised platforms. These include co-working spaces, real estate investment trusts (REITs), student housing, education infrastructure, logistics parks, and managed development platforms. Traditional residential apartments are not specifically highlighted as driving this new wave of IPOs for specialized platforms.",
+      "background": "The real estate market is evolving beyond conventional property developers, with institutional investors showing interest in recurring revenue models offered by specialized realty platforms. This shift reflects a maturing public market and diverse investor appetite.",
+      "examRelevance": "New trends in India's real estate IPO market.",
+      "tags": [
+        "Real Estate",
+        "IPOs",
+        "Co-working",
+        "REITs",
+        "Logistics Parks"
+      ],
+      "source": {
+        "title": "Specialised realty platforms drive India's next wave of IPOs",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/specialised-realty-platforms-drive-indias-next-wave-of-ipos/article71309887.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q83",
+      "question": "The Trump administration recently revoked the visa of the Ambassador to the U.S. from which country, amid a spat with its President Lula?",
+      "options": [
+        "Argentina",
+        "Canada",
+        "Brazil",
+        "Mexico"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The Trump administration recently revoked the visa of Brazil's Ambassador to the U.S. This decision was stated as a reciprocal response to Brazil's actions, occurring amid a diplomatic spat with Brazilian President Lula.",
+      "background": "The revocation of a diplomat's visa is a serious diplomatic measure, often indicative of strained relations between countries. Such actions typically follow escalating tensions or specific disagreements between governments, in this case, between the U.S. and Brazil.",
+      "examRelevance": "Trump administration revoked Brazil's Ambassador's visa amid spat with President Lula.",
+      "tags": [
+        "Trump Administration",
+        "Brazil",
+        "Ambassador",
+        "Visa Revocation",
+        "Lula",
+        "Diplomacy"
+      ],
+      "source": {
+        "title": "Trump administration revokes visa of Brazil's Ambassador to U.S. in spat with Lula",
+        "url": "https://www.thehindu.com/news/international/trump-administration-revokes-visa-of-brazils-ambassador-to-us-in-spat-with-lula/article71307922.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q84",
+      "question": "Which cricketer has been named as the replacement for Jasprit Bumrah in India's Test squad for the series against Sri Lanka?",
+      "options": [
+        "Auqib Nabi",
+        "Umesh Yadav",
+        "Shardul Thakur",
+        "Mohammed Shami"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Auqib Nabi has been drafted into India's Test squad for the upcoming series against Sri Lanka, replacing Jasprit Bumrah who has been ruled out due to a knee injury. This change was announced following an assessment by the Sports Science team.",
+      "background": "Jasprit Bumrah is a key fast bowler for the Indian cricket team, and his absence due to injury often leads to opportunities for other promising pacers to step into the squad. The Sports Science team at Bengaluru's Centre of Excellence advised against rushing him back to the grind of international cricket.",
+      "examRelevance": "Auqib Nabi = Replaced Jasprit Bumrah in Test squad vs Sri Lanka.",
+      "tags": [
+        "Cricket",
+        "Jasprit Bumrah",
+        "Auqib Nabi",
+        "Sri Lanka",
+        "Test series"
+      ],
+      "source": {
+        "title": "Bumrah ruled out of Sri Lanka Test series, Auqib Nabi set to be drafted in",
+        "url": "https://www.hindu.com/sport/cricket/bumrah-ruled-out-of-sri-lanka-test-series-auqib-nabi-set-to-be-drafted-in/article71298971.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q85",
+      "question": "Which Indian football club, winners of the ISL Winners' Shield in the 2021-22 season, recently announced its withdrawal from the Indian Super League (ISL)?",
+      "options": [
+        "Bengaluru FC",
+        "Jamshedpur FC",
+        "ATK Mohun Bagan",
+        "Mumbai City FC"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Jamshedpur FC, the winners of the ISL Winners' Shield in the 2021-22 season, announced its withdrawal from the Indian Super League (ISL) on July 31, after missing the deadline for payment of the participation fee for the upcoming season.",
+      "background": "The Indian Super League is the premier professional football league in India. The withdrawal of a former champion club like Jamshedpur FC is a significant development for the league and its fans, impacting the league's competitive landscape.",
+      "examRelevance": "Jamshedpur FC = Withdrew from Indian Super League.",
+      "tags": [
+        "Football",
+        "Indian Super League",
+        "ISL",
+        "Jamshedpur FC"
+      ],
+      "source": {
+        "title": "Jamshedpur FC pulling out of ISL a punch in the gut: Sunil Chhetri",
+        "url": "https://www.thehindu.com/sport/football/jamshedpur-fc-pulling-out-of-isl-a-punch-in-the-gut-sunil-chhetri/article71298995.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q86",
+      "question": "Which district in Kerala has been issued a flash flood warning due to intense rainfall over the past couple of days?",
+      "options": [
+        "Kozhikode",
+        "Pathanamthitta",
+        "Thrissur",
+        "Kannur"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "A flash flood warning has been issued for Pathanamthitta district in Kerala, following intense rainfall recorded over the past couple of days. The state continues to experience moderate to heavy rain, leading to rising river levels.",
+      "background": "Kerala is prone to heavy monsoon rains and associated flooding and landslides, especially in low-lying and hilly regions. The state government often holds emergency meetings and issues alerts to manage the situation and ensure public safety.",
+      "examRelevance": "Pathanamthitta (Kerala) = Issued flash flood warning due to intense rainfall.",
+      "tags": [
+        "Kerala",
+        "Monsoon",
+        "Flash Flood",
+        "Pathanamthitta",
+        "Rainfall"
+      ],
+      "source": {
+        "title": "Moderate heavy rain continues in Kerala; CM to chair emergency meeting",
+        "url": "https://www.thehindu.com/news/national/kerala/moderate-heavy-rain-monsoon-weather-updates-august-3-2026/article71299802.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q87",
+      "question": "Which racer, riding a TVS RTR 450cc, recently secured a victory for Team Petronas TVS Racing?",
+      "options": [
+        "Rehan Khan Rasheed",
+        "Gaurav Gill",
+        "Tanveer",
+        "Aaruthran"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Mysuru racer Tanveer, riding a TVS RTR 450cc, recently secured a victory for Team Petronas TVS Racing. He fought hard at the start to gain an early lead and maintained it throughout the race to cross the finish line first.",
+      "background": "Team Petronas TVS Racing is a prominent team in Indian motorsports, known for its performance in various racing categories. Such victories highlight the team's and the rider's capabilities in competitive racing.",
+      "examRelevance": "Tanveer = Won race for Team Petronas TVS Racing.",
+      "tags": [
+        "Motorsports",
+        "Tanveer",
+        "TVS Racing",
+        "Racing"
+      ],
+      "source": {
+        "title": "Tanveer does it again for Team Petronas TVS Racing",
+        "url": "https://www.thehindu.com/sport/tanveer-does-it-again-for-team-petronas-tvs-racing/article71298214.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q88",
+      "question": "The Supreme Court recently ordered the implementation of automatic challans for which type of vehicles, using cameras?",
+      "options": [
+        "Uninsured vehicles",
+        "Vehicles without pollution certificates",
+        "Over-speeding vehicles",
+        "Vehicles with expired licenses"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently issued an order for the implementation of automatic challans for uninsured vehicles, utilizing cameras for detection. This initiative aims to ensure compliance with motor insurance regulations and enhance road safety.",
+      "background": "Motor vehicle insurance is mandatory in India to provide financial protection against accidents. The use of technology like cameras for automatic challans represents a move towards stricter enforcement of traffic laws and insurance requirements, reducing manual intervention and increasing accountability.",
+      "examRelevance": "Supreme Court ordered automatic challans for uninsured vehicles using cameras.",
+      "tags": [
+        "Supreme Court",
+        "Automatic Challans",
+        "Uninsured Vehicles",
+        "Road Safety",
+        "Traffic Laws"
+      ],
+      "source": {
+        "title": "SC orders automatic challans for uninsured vehicles",
+        "url": "https://economictimes.indiatimes.com/news/india/supreme-court-orders-automatic-challans-for-uninsured-vehicles-using-cameras/articleshow/132886813.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q89",
+      "question": "Which regulatory body recently issued prohibition-of-sale orders against certain liquor makers and banned '100% pure' claims on Dabur products for being ambiguous and misleading?",
+      "options": [
+        "Food Safety and Standards Authority of India (FSSAI)",
+        "Bureau of Indian Standards (BIS)",
+        "Department of Consumer Affairs (DCA)",
+        "Advertising Standards Council of India (ASCI)"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Food Safety and Standards Authority of India (FSSAI) recently issued prohibition-of-sale orders against several liquor makers, stating that some rum and whisky brands were wrongly labeled as aged. Concurrently, FSSAI also banned '100% pure' claims on Dabur products, citing them as ambiguous, unverifiable, and likely to mislead consumers.",
+      "background": "FSSAI is India's apex food regulator, responsible for protecting and promoting public health through the regulation and supervision of food safety. Its actions against misleading labels and improper product descriptions are crucial for consumer protection and fair trade practices in the food and beverage industry.",
+      "examRelevance": "FSSAI issued prohibition-of-sale orders against liquor makers and banned '100% pure' claims on Dabur products.",
+      "tags": [
+        "FSSAI",
+        "Dabur",
+        "Liquor Makers",
+        "Food Safety",
+        "Misleading Labels",
+        "Consumer Protection"
+      ],
+      "source": {
+        "title": "Why has FSSAI issued prohibition-of-sale orders against liquor makers? | Explained",
+        "url": "https://www.thehindu.com/business/Industry/why-has-fssai-issued-prohibition-of-sale-orders-against-liquor-makers-explained/article71306955.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W32-q90",
+      "question": "TVS Motor Company reported a significant jump in its EV sales in July. By what percentage did TVS Motor's EV sales increase in July?",
+      "options": [
+        "158%",
+        "125%",
+        "100%",
+        "180%"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "TVS Motor Company's Electric Vehicle (EV) sales saw a record high jump of 158% in July, driven by increasing fuel prices and growing consumer demand for sustainable transportation.",
+      "background": "The rising cost of traditional fuels is a major factor pushing consumers towards electric vehicles. This trend is beneficial for EV manufacturers like TVS Motor, contributing to increased adoption of sustainable mobility solutions and market growth.",
+      "examRelevance": "TVS Motor EV sales in July = Jumped 158%.",
+      "tags": [
+        "TVS Motor",
+        "EV Sales",
+        "Electric Vehicles",
+        "Automobile Industry"
+      ],
+      "source": {
+        "title": "Costly fuel drives TVS Motor EV sales in July",
+        "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/tvs-motor-ev-sales-jump-158-to-record-high-in-july-as-pricey-fuel- drives-demand/articleshow/132818542.cms"
+      }
+    }
+  ]
+}
