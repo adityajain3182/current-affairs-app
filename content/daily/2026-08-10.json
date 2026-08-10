@@ -1,0 +1,792 @@
+{
+  "id": "daily-2026-08-10",
+  "type": "daily",
+  "date": "2026-08-10",
+  "title": "Current Affairs — 10 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-10-q1",
+      "question": "The high-stakes federal trial against Meta, focusing on legal proceedings targeting social networks, is set to begin with jury selection on August 12, 2026, in which U.S. city?",
+      "options": [
+        "New York City",
+        "San Francisco",
+        "Los Angeles",
+        "Oakland"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Meta will face a high-stakes federal trial in the U.S., with jury selection beginning on August 12, 2026, at a federal court in Oakland. This trial is one of the most consequential legal proceedings targeting social networks in the United States.",
+      "background": "Social media companies like Meta (formerly Facebook) frequently face legal challenges concerning data privacy, antitrust, and content moderation across various jurisdictions. This trial is part of ongoing scrutiny of major tech firms in the U.S. and globally.",
+      "examRelevance": "Meta's federal trial in Oakland, starting August 12, 2026, is a key legal development in the tech sector.",
+      "tags": [
+        "Meta",
+        "Trial",
+        "Oakland",
+        "Social Networks",
+        "U.S. Law"
+      ],
+      "source": {
+        "title": "Meta will soon face another high-stakes trial in U.S.",
+        "url": "https://www.thehindu.com/news/international/meta-will-soon-face-another-high-stakes-trial-in-us/article71326861.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q2",
+      "question": "India recently formally named 27 places in Arunachal Pradesh, a move that drew strong criticism and a statement urging India to avoid turning the border issue into a larger dispute from which country?",
+      "options": [
+        "Bangladesh",
+        "Nepal",
+        "Pakistan",
+        "China"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "China strongly criticized India's decision to formally name 27 places in Arunachal Pradesh. China stated that India should avoid escalating the border issue, as such actions could negatively impact improving political ties between the two nations.",
+      "background": "The border between India and China, particularly concerning Arunachal Pradesh, has been a long-standing point of contention. China claims Arunachal Pradesh as part of 'South Tibet' and has historically objected to Indian administrative activities or naming of places in the region, while India asserts its sovereignty over the entire state.",
+      "examRelevance": "India's naming of 27 places in Arunachal Pradesh and China's protest is a significant development in India-China bilateral relations.",
+      "tags": [
+        "Arunachal Pradesh",
+        "India-China",
+        "Border Dispute",
+        "International Relations"
+      ],
+      "source": {
+        "title": "China slams India’s move of formally naming 27 places in Arunachal Pradesh",
+        "url": "https://www.thehindu.com/news/international/china-slams-indias-move-of-formally-naming-27-places-in-arunachal-pradesh/article71326872.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q3",
+      "question": "According to the existing provisions of Articles 81 and 82 of the Indian Constitution, a fresh delimitation of Lok Sabha constituencies will be triggered after the publication of data from which upcoming Census?",
+      "options": [
+        "2037 Census",
+        "2027 Census",
+        "2021 Census",
+        "2031 Census"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "A fresh delimitation exercise for Lok Sabha constituencies will be triggered by the existing provisions of Articles 81 and 82 of the Constitution after the data of the 2027 Census is published, provided these articles are not amended. This will lead to reallocation of Lok Sabha constituencies to States based on the 2027 Census data.",
+      "background": "Delimitation is the process of redrawing boundaries of Lok Sabha and State Assembly constituencies to ensure that each constituency has roughly the same number of voters. The last major delimitation was based on the 2001 Census, with a freeze until the first census after 2026. The 2027 Census data will be crucial for the next delimitation exercise.",
+      "examRelevance": "The 2027 Census data will trigger the next delimitation process for Lok Sabha constituencies, as per Articles 81 and 82.",
+      "tags": [
+        "Delimitation",
+        "Census 2027",
+        "Lok Sabha",
+        "Indian Constitution",
+        "Polity"
+      ],
+      "source": {
+        "title": "What happens if there is no Constitutional Amendment on Delimitation?",
+        "url": "https://www.thehindu.com/news/national/what-happens-if-there-is-no-constitutional-amendment-on-delimitation/article71321760.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q4",
+      "question": "A trial recently opened in the killing of which legendary American rapper and artist, nearly 30 years after his death on September 7, 1996?",
+      "options": [
+        "Jam Master Jay",
+        "The Notorious B.I.G.",
+        "Tupac Shakur",
+        "Eazy-E"
+      ],
+      "answerIndex": 2,
+      "category": "Obituaries",
+      "explanation": "Proceedings for a trial in the killing of legendary rapper Tupac Shakur recently opened, nearly 30 years after he was shot and killed on September 7, 1996. The trial is expected to last a month.",
+      "background": "Tupac Shakur was one of the most influential and best-selling music artists of all time. His unsolved murder has been the subject of numerous theories and investigations for decades. The opening of a trial marks a significant development in this long-standing case.",
+      "examRelevance": "The trial opening for Tupac Shakur's killing is a major development concerning a prominent cultural figure.",
+      "tags": [
+        "Tupac Shakur",
+        "Trial",
+        "Music",
+        "Rapper",
+        "Obituary"
+      ],
+      "source": {
+        "title": "Thirty years on, a trial finally opens in Tupac Shakur's killing",
+        "url": "https://www.thehindu.com/news/international/thirty-years-on-a-trial-finally-opens-in-tupac-shakurs-killing/article71326846.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q5",
+      "question": "Which Indian digital payment system is reportedly looking to expand its global reach, potentially starting with the Indian diaspora abroad?",
+      "options": [
+        "Aadhaar Pay",
+        "UPI",
+        "BHIM",
+        "RuPay"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Unified Payments Interface (UPI) is aiming to expand its global footprint, with initial efforts focusing on enabling transactions for the Indian diaspora abroad. This move is seen as UPI's ticket to becoming a global payments map.",
+      "background": "UPI has revolutionized digital payments in India, offering instant real-time payments. Its success has led to interest in replicating the model internationally, with countries like Singapore, France, and UAE already integrating or exploring UPI-like systems. Expanding to NRIs is a strategic step for global adoption.",
+      "examRelevance": "UPI's global expansion, starting with Indians abroad, is a key development in India's digital economy and international financial integration.",
+      "tags": [
+        "UPI",
+        "Digital Payments",
+        "Global Expansion",
+        "Indian Diaspora",
+        "Fintech"
+      ],
+      "source": {
+        "title": "UPI’s global game may start with Indians abroad",
+        "url": "https://economictimes.indiatimes.com/nri/latest-updates/indian-diaspora-could-be-upis-ticket-to-the-global-payments-map/articleshow/133077722.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q6",
+      "question": "Which Chief Justice of India's invitation to be the chief guest at NALSAR University's convocation recently sparked dissent among students?",
+      "options": [
+        "U.U. Lalit",
+        "Surya Kant",
+        "N.V. Ramana",
+        "D.Y. Chandrachud"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Students at NALSAR University of Law expressed dissent and urged the university to reconsider the invitation extended to Chief Justice of India Surya Kant as the chief guest for their convocation. The invitation sparked controversy and discussion within the student body.",
+      "background": "Chief Justices of India are often invited as chief guests for significant academic events like convocations. However, such invitations can sometimes become points of contention if there are underlying student grievances or political sensitivities related to the judiciary or specific rulings.",
+      "examRelevance": "CJI Surya Kant's invitation to NALSAR and the subsequent student dissent highlights current issues in judicial perception and student activism.",
+      "tags": [
+        "CJI Surya Kant",
+        "NALSAR",
+        "Judiciary",
+        "Student Protest",
+        "Polity"
+      ],
+      "source": {
+        "title": "CJI Surya Kant invite sparks dissent at NALSAR",
+        "url": "https://economictimes.indiatimes.com/news/india/nalsar-students-urge-university-to-reconsider-cji-surya-kant-as-convocation-chief-guest/articleshow/133077469.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q7",
+      "question": "A recent Houthi attack in Yemen resulted in 7 deaths in which city?",
+      "options": [
+        "Mocha",
+        "Hodeidah",
+        "Aden",
+        "Sanaa"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "A recent Houthi attack in the Yemeni city of Mocha resulted in the deaths of 7 people. The Yemeni military reported the casualties, along with 30 wounded individuals in the incident.",
+      "background": "Yemen has been embroiled in a protracted civil war since 2014, primarily between the Houthi movement and the internationally recognized government, backed by a Saudi-led coalition. Mocha, a port city, has been a strategic location and frequently a target of conflict.",
+      "examRelevance": "The Houthi attack in Mocha, Yemen, is a current event in the ongoing conflict in West Asia.",
+      "tags": [
+        "Houthi",
+        "Yemen",
+        "Mocha",
+        "Conflict",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Houthi attack on Mocha kills 7 in Yemen",
+        "url": "https://economictimes.indiatimes.com/news/defence/yemeni-military-says-houthi-attack-on-mocha-kills-7-wounds-30/articleshow/133077465.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q8",
+      "question": "Don Nelson, an NBA Hall of Famer who won five NBA titles as a player and was a three-time Coach of the Year, recently passed away at the age of 86. In which sport was he a legend?",
+      "options": [
+        "Baseball",
+        "Basketball",
+        "American Football",
+        "Ice Hockey"
+      ],
+      "answerIndex": 1,
+      "category": "Obituaries",
+      "explanation": "NBA legend Don Nelson, a Hall of Famer and three-time Coach of the Year, passed away at 86. He won five NBA titles as a player and ranks second in NBA history with 1,335 regular-season coaching wins, having coached teams like the Milwaukee Bucks, Golden State Warriors, New York Knicks, and Dallas Mavericks.",
+      "background": "Don Nelson was inducted into the Naismith Memorial Basketball Hall of Fame in 2012. His career spanned 31 years as a coach, making him one of the most influential figures in NBA history, known for his innovative 'small-ball' strategies.",
+      "examRelevance": "Don Nelson's passing marks the loss of a significant figure in NBA history, recognized for his achievements as both a player and a coach.",
+      "tags": [
+        "Don Nelson",
+        "NBA",
+        "Basketball",
+        "Hall of Fame",
+        "Coach of the Year"
+      ],
+      "source": {
+        "title": "NBA legend Don Nelson dies at 86",
+        "url": "https://economictimes.indiatimes.com/news/sports/basketball/don-nelson-hall-of-fame-coach-and-five-time-nba-champion-as-a-player-dies-at-86/articleshow/133077468.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q9",
+      "question": "An investigation has been launched into a near-miss collision between a Jetstar and a Qatar Airways plane on the tarmac at which major international airport?",
+      "options": [
+        "Sydney Airport",
+        "Brisbane Airport",
+        "Melbourne Airport",
+        "Perth Airport"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Australia is investigating a near-miss collision involving a Jetstar plane and a Qatar Airways plane on the tarmac at Sydney Airport. The Jetstar flight crew spotted the Qatar Airways plane, which was being towed, very close on a crossing taxiway while taxiing for takeoff.",
+      "background": "Incidents of near-misses on airport tarmacs, though rare, are taken very seriously by aviation authorities globally due to the potential for catastrophic consequences. Such events often lead to thorough investigations to identify causes and implement preventative measures.",
+      "examRelevance": "The near-miss incident at Sydney Airport highlights aviation safety concerns and international incident reporting.",
+      "tags": [
+        "Sydney Airport",
+        "Aviation Safety",
+        "Near-Miss",
+        "Australia",
+        "International Incident"
+      ],
+      "source": {
+        "title": "Australia probes near-miss collision of two planes on tarmac at Sydney airport",
+        "url": "https://www.thehindu.com/news/international/australia-probes-near-miss-collision-of-two-planes-on-tarmac-at-sydney-airport/article71326818.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q10",
+      "question": "I Squared Capital is set to acquire oOh!media for A$1 billion. In which country is oOh!media, an out-of-home media company, primarily based?",
+      "options": [
+        "New Zealand",
+        "United Kingdom",
+        "Australia",
+        "Canada"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "I Squared Capital, a global infrastructure investment firm, is set to acquire oOh!media for A$1 billion. oOh!media is a prominent Australian out-of-home media company, known for its advertising assets across various public spaces.",
+      "background": "oOh!media is one of Australia's leading media companies, specializing in advertising on billboards, bus shelters, airports, and other public venues. This acquisition by I Squared Capital reflects a significant investment in the Australian media and advertising sector.",
+      "examRelevance": "I Squared Capital's acquisition of Australia's oOh!media for A$1 billion is a major business deal in the media sector.",
+      "tags": [
+        "I Squared Capital",
+        "oOh!media",
+        "Acquisition",
+        "Australia",
+        "Economy & Business"
+      ],
+      "source": {
+        "title": "I Squared Capital to acquire oOh!media for A$1bn",
+        "url": "https://economictimes.indiatimes.com/news/international/business/i-squared-wins-bidding-war-for-australias-oohmedia-with-735-million-deal/articleshow/133077241.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q11",
+      "question": "Suspected cartel boss Daniel Kinahan was recently extradited from Dubai to which country to face alleged serious organised crime offences?",
+      "options": [
+        "Ireland",
+        "Spain",
+        "United States",
+        "United Kingdom"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Daniel Kinahan, a suspected cartel boss, was recently extradited from Dubai and landed in Ireland. He had been held in custody in Dubai since April after Ireland issued a warrant for alleged serious organised crime offences.",
+      "background": "Daniel Kinahan is a high-profile figure associated with organized crime, and his extradition marks a significant development in international efforts to combat transnational criminal networks. His arrest and extradition follow extensive legal and diplomatic cooperation between Ireland and the UAE.",
+      "examRelevance": "The extradition of Daniel Kinahan from Dubai to Ireland is a notable event in international law enforcement and combating organized crime.",
+      "tags": [
+        "Daniel Kinahan",
+        "Extradition",
+        "Dubai",
+        "Ireland",
+        "Organized Crime"
+      ],
+      "source": {
+        "title": "Suspected cartel boss Kinahan lands in Ireland after extradition from Dubai",
+        "url": "https://www.thehindu.com/news/international/daniel-kinahan-ireland-crime-gang-boss-extradition-dubai-dublin-august-9-2026/article71325895.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q12",
+      "question": "Iran has recently tied the reopening of which strategically vital strait to U.S. concessions on several demands, amid ongoing tensions?",
+      "options": [
+        "Strait of Gibraltar",
+        "Strait of Hormuz",
+        "Strait of Malacca",
+        "Bab-el-Mandeb Strait"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Iran has stated that it will tie the reopening of the Strait of Hormuz to U.S. concessions on several demands. This statement comes amidst reports of messages being exchanged between Iran and the U.S. through intermediaries, as direct talks are currently not ongoing.",
+      "background": "The Strait of Hormuz is a crucial chokepoint for global oil shipments, connecting the Persian Gulf to the open ocean. Iran has periodically threatened to close it in response to international pressure or sanctions, making it a flashpoint in geopolitical tensions, particularly with the U.S.",
+      "examRelevance": "Iran's stance on the Strait of Hormuz and its linkage to U.S. concessions is a critical development in West Asian geopolitics.",
+      "tags": [
+        "Iran",
+        "Strait of Hormuz",
+        "U.S. Relations",
+        "Geopolitics",
+        "Oil Trade"
+      ],
+      "source": {
+        "title": "West Asia war LIVE: Iran ties Strait of Hormuz reopening to U.S. concessions on several demands",
+        "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-10-2026-hormuz-strait-reopen-us-iran-talks/article71326809.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q13",
+      "question": "Who was awarded the first Oommen Chandy memorial award for contributions to the farm sector at the recent Kerala State Farm Awards?",
+      "options": [
+        "K.M. Mani",
+        "Anitha M. Kasim",
+        "P.C. Chacko",
+        "Cheruvayal Raman"
+      ],
+      "answerIndex": 3,
+      "category": "Awards & Honours",
+      "explanation": "Cheruvayal Raman won the first Oommen Chandy memorial award for his significant contributions to the farm sector at the recently announced Kerala State Farm Awards. Additionally, Anitha M. Kasim received a new award for being the best 'Urban rooftop farmer'.",
+      "background": "The Oommen Chandy memorial award is a new category introduced in the Kerala State Farm Awards, honoring the legacy of the former Chief Minister of Kerala, Oommen Chandy, who passed away recently. The awards recognize excellence and innovation in various aspects of agriculture within the state.",
+      "examRelevance": "Cheruvayal Raman received the inaugural Oommen Chandy memorial award at the Kerala State Farm Awards for his contributions to agriculture.",
+      "tags": [
+        "Cheruvayal Raman",
+        "Oommen Chandy Award",
+        "Kerala State Farm Awards",
+        "Agriculture",
+        "Awards"
+      ],
+      "source": {
+        "title": "Kerala State Farm Awards announced, Cheruvayal Raman wins first Oommen Chandy memorial award for contributions to farm sector",
+        "url": "https://www.thehindu.com/news/national/kerala/kerala-state-farm-awards-announced-cheruvayal-raman-wins-first-oommen-chandy-memorial-award-for-contributions-to-farm-sector/article71325147.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q14",
+      "question": "Regarding the upcoming Census 2027, what concern has been raised about an open-ended method of counting caste?",
+      "options": [
+        "It may cause significant delays in census publication",
+        "It may not yield usable data",
+        "It may be too expensive to implement",
+        "It may lead to political instability"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "A concern has been raised that an open-ended method of counting caste in the upcoming Census 2027 may not yield usable data. This method involves allowing individuals to self-identify their caste without pre-defined categories, which could lead to inconsistencies in reporting.",
+      "background": "The Census of India has historically collected data on Scheduled Castes and Scheduled Tribes, but not on other castes since 1931. The demand for a caste census has intensified, with various proposals on how to conduct it. The debate centers on the methodology to ensure accuracy and usability of the collected data.",
+      "examRelevance": "The debate over the methodology for caste enumeration in Census 2027, particularly concerns about usable data from an open-ended method, is a key issue in Indian polity.",
+      "tags": [
+        "Census 2027",
+        "Caste Enumeration",
+        "Polity",
+        "Data Collection",
+        "Social Justice"
+      ],
+      "source": {
+        "title": "Checkbox caste: On the counting of caste, Census 2027",
+        "url": "https://www.thehindu.com/opinion/editorial/checkbox-caste-on-the-counting-of-caste-census-2027/article71198212.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q15",
+      "question": "Various Christian bodies, including the Catholic Bishops Conference of India, along with the Mizoram CM, recently appealed to the Home Minister to roll back which bill?",
+      "options": [
+        "Citizenship Amendment Bill",
+        "Foreign Contribution (Regulation) Act Bill",
+        "Data Protection Bill",
+        "Uniform Civil Code Bill"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Christian bodies, including the Catholic Bishops Conference of India, the National Council of Churches in India, and the Council of Churches in Mizoram, made synchronous social media appeals to the Home Minister, along with the Mizoram CM, to roll back the Foreign Contribution (Regulation) Act (FCRA) Bill.",
+      "background": "The FCRA regulates the acceptance and utilization of foreign contributions by individuals, associations, and companies in India. Amendments to the FCRA have been controversial, with critics arguing they restrict civil society organizations and religious bodies' ability to receive foreign funding for their activities.",
+      "examRelevance": "The appeal by Christian bodies and Mizoram CM to roll back the FCRA Bill highlights ongoing debates on foreign funding regulations for religious and civil society organizations.",
+      "tags": [
+        "FCRA Bill",
+        "Christian Bodies",
+        "Mizoram CM",
+        "Home Minister",
+        "Polity"
+      ],
+      "source": {
+        "title": "Christian bodies, Mizoram CM make synchronous social media appeals to Home Minister to roll back FCRA Bill",
+        "url": "https://www.thehindu.com/news/national/christian-bodies-mizoram-cm-make-synchronous-social-media-appeals-to-home-minister-to-roll-back-fcra-bill/article71325770.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q16",
+      "question": "Who recently received a one-year extension as the Director of the Enforcement Directorate (ED)?",
+      "options": [
+        "S.K. Singh",
+        "Karnal Singh",
+        "Sanjay Kumar Mishra",
+        "Rahul Navin"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Rahul Navin, a 1993-batch Indian Revenue Service officer of the Income Tax cadre, recently received a one-year extension as the Director of the Enforcement Directorate (ED). He has been serving as the full-time chief of the federal anti-money laundering agency since August 14, 2024.",
+      "background": "The Director of the Enforcement Directorate is a crucial post, leading India's primary agency for enforcing economic laws and combating financial crimes, including money laundering. Extensions to such high-profile positions often draw significant attention and debate.",
+      "examRelevance": "Rahul Navin's one-year extension as ED Director is a key appointment in India's financial enforcement sector.",
+      "tags": [
+        "Rahul Navin",
+        "ED Director",
+        "Enforcement Directorate",
+        "Appointments",
+        "IRS"
+      ],
+      "source": {
+        "title": "ED Director Rahul Navin gets one-year extension",
+        "url": "https://www.thehindu.com/news/national/ed-director-rahul-navin-gets-one-year-extension/article71325601.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q17",
+      "question": "Donald Trump recently announced that who will be his new White House counsel, effective September 1?",
+      "options": [
+        "Will Scharf",
+        "David Warrington",
+        "Rudy Giuliani",
+        "John Eastman"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Donald Trump announced that Will Scharf, who currently serves as his staff secretary, will assume the role of his new White House counsel. Scharf's appointment is effective from September 1, replacing David Warrington, who is transitioning to the private sector.",
+      "background": "The White House counsel is a senior staff position in the office of the President of the United States, responsible for advising the President on all legal matters. This appointment is significant, especially given the various legal challenges faced by Donald Trump.",
+      "examRelevance": "Will Scharf's appointment as the new White House counsel for Donald Trump, effective September 1, is a key international political appointment.",
+      "tags": [
+        "Will Scharf",
+        "Donald Trump",
+        "White House Counsel",
+        "Appointments",
+        "U.S. Politics"
+      ],
+      "source": {
+        "title": "Trump names Scharf as new White House counsel",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-announces-staff-secretary-will-scharf-will-be-his-new-white-house-counsel/articleshow/133077040.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q18",
+      "question": "Which prominent Indian cricketer was recently replaced as India's Test vice-captain?",
+      "options": [
+        "Jasprit Bumrah",
+        "Shreyas Iyer",
+        "Rishabh Pant",
+        "KL Rahul"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Rishabh Pant has been replaced as India's Test vice-captain. This change will allow him to focus on his primary disciplines without the additional responsibilities of team discussions and leadership distractions, with the aim of bringing forth his most potent performance.",
+      "background": "The role of vice-captain in cricket is significant, involving leadership responsibilities and supporting the captain. Changes in leadership roles often reflect strategic decisions by team management to optimize player performance and team dynamics, especially for players recovering from injuries or in crucial phases of their career.",
+      "examRelevance": "Rishabh Pant's replacement as India's Test vice-captain is a notable development in Indian cricket.",
+      "tags": [
+        "Rishabh Pant",
+        "Indian Cricket",
+        "Test Cricket",
+        "Vice-captain",
+        "Sports"
+      ],
+      "source": {
+        "title": "Pant — an enigma at the crossroads",
+        "url": "https://www.thehindu.com/sport/pant-an-enigma-at-the-crossroads/article71325824.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q19",
+      "question": "India plans to construct over 5,000 km of border highways with an investment exceeding ₹2 trillion over the next 3-5 years. What is the primary objective of this project?",
+      "options": [
+        "To connect remote villages to urban centers for better public services",
+        "To enhance military mobility and open remote regions to trade, tourism, and investment",
+        "To promote religious tourism in border areas",
+        "To develop agricultural corridors for increased food production"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "India plans to undertake a massive border highway push, constructing more than 5,000 km of border highways over the next 3-5 years, with an investment exceeding ₹2 trillion. The dual objective of this project is to speed up military mobilization and simultaneously open remote regions to trade, tourism, and investment.",
+      "background": "Improving border infrastructure is a strategic priority for India, especially in the context of geopolitical challenges along its borders with China and Pakistan. These highways are crucial for rapid troop movement and logistics, as well as for integrating remote border areas into the national economy.",
+      "examRelevance": "India's ₹2 trillion plan to build over 5,000 km of border highways aims to boost military mobility and economic development in remote regions.",
+      "tags": [
+        "Border Highways",
+        "Infrastructure",
+        "Military Mobility",
+        "Trade",
+        "Schemes & Projects"
+      ],
+      "source": {
+        "title": "India plans 5,000-km border highway push to boost military mobility, trade",
+        "url": "https://www.livemint.com/economy/india-border-highways-5000-km-2-trillion-plan-china-border-pakistan-border-11786246983336.html"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q20",
+      "question": "According to the LinkedIn CEO, which sector's job market is experiencing a boom in India, with engineering roles growing 51% annually?",
+      "options": [
+        "Fintech",
+        "Biotechnology",
+        "Renewable Energy",
+        "Artificial Intelligence"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The CEO of LinkedIn stated that the Artificial Intelligence (AI) job market is booming in India. Engineering roles within the AI sector are particularly experiencing significant growth, with an annual increase of 51%.",
+      "background": "India is emerging as a significant hub for technological innovation and talent, particularly in fields like AI. The rapid adoption of AI across various industries is driving demand for skilled professionals, leading to a surge in job opportunities and making it a critical sector for economic growth and employment.",
+      "examRelevance": "The AI job market boom in India, with 51% annual growth in engineering roles, is a significant economic and technological trend.",
+      "tags": [
+        "AI",
+        "Job Market",
+        "India",
+        "LinkedIn",
+        "Technology",
+        "Economy"
+      ],
+      "source": {
+        "title": "AI job market booming in India: LinkedIn CEO",
+        "url": "https://economictimes.indiatimes.com/tech/technology/ai-job-market-booming-in-india-engineering-roles-growing-51-every-year-linkedin-ceo-dan-shapero/articleshow/133071330.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q21",
+      "question": "Molbio Diagnostics plans to raise how much capital through a fresh issue for capital expenditure in its upcoming IPO?",
+      "options": [
+        "₹200 crore",
+        "₹940 crore",
+        "₹740 crore",
+        "₹400 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Molbio Diagnostics, a molecular diagnostics manufacturer, plans to raise ₹200 crore through a fresh issue of shares for capital expenditure in its upcoming Initial Public Offering (IPO). Additionally, it will raise ₹740 crore through an offer for sale.",
+      "background": "An IPO is the process by which a private company can go public by offering its shares to the public for the first time. The funds raised through a fresh issue are typically used for business expansion, capital expenditure, or debt repayment, while an offer for sale allows existing shareholders to sell their shares.",
+      "examRelevance": "Molbio Diagnostics' IPO plans to raise ₹200 crore via a fresh issue for capital expenditure, a key detail for financial market aspirants.",
+      "tags": [
+        "Molbio Diagnostics",
+        "IPO",
+        "Capital Expenditure",
+        "Economy",
+        "Healthcare"
+      ],
+      "source": {
+        "title": "Can Molbio Diagnostics IPO deliver long-term growth for high risk investors?",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-molbio-diagnostics-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133076987.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q22",
+      "question": "Foreign banks in India have significantly ramped up which type of deposits, with HSBC and Standard Chartered being among the biggest gainers, narrowing the gap with local banks?",
+      "options": [
+        "Recurring Deposits",
+        "FCNR Deposits",
+        "Current Account Deposits",
+        "Savings Bank Deposits"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Foreign banks in India have significantly ramped up their FCNR (Foreign Currency Non-Resident) deposits. These deposits surged nearly 15-fold to $8.97 billion by July 30, from $603 million on June 5, with HSBC mobilising $6.26 billion and Standard Chartered mobilising $1.86 billion.",
+      "background": "FCNR deposits are term deposits offered by banks in India to Non-Resident Indians (NRIs), denominated in foreign currencies. They are attractive for NRIs due to currency protection and competitive interest rates. The surge indicates a concerted effort by foreign banks to attract these deposits.",
+      "examRelevance": "Foreign banks significantly increased FCNR deposits, led by HSBC and Standard Chartered, indicating a shift in banking trends for NRIs.",
+      "tags": [
+        "FCNR Deposits",
+        "Foreign Banks",
+        "HSBC",
+        "Standard Chartered",
+        "NRI",
+        "Economy"
+      ],
+      "source": {
+        "title": "Dollar race: Foreign banks ramp up FCNR deposits, narrow gap with locals",
+        "url": "https://www.livemint.com/economy/dollar-race-foreign-banks-ramp-up-fcnr-deposits-narrow-gap-with-locals-11786255279367.html"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q23",
+      "question": "Which two historically safer districts in Assam were significantly affected by recent floods, leading to 99 deaths and affecting 7.21 lakh people?",
+      "options": [
+        "Sivasagar and Charaideo",
+        "Kamrup and Goalpara",
+        "Nagaon and Morigaon",
+        "Dhemaji and Lakhimpur"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Sivasagar and Charaideo, two historically safer districts along the Assam-Nagaland border, were severely impacted by recent floods following heavy rainfall from July 18 to 22. The devastation led to 99 deaths and affected 7.21 lakh people.",
+      "background": "Assam is prone to floods during the monsoon season, but the recent devastation in traditionally less affected districts like Sivasagar and Charaideo highlights the changing patterns and increased intensity of rainfall events. The scale of damage underscores the challenge of recovery for the affected population.",
+      "examRelevance": "Sivasagar and Charaideo districts in Assam were severely affected by recent floods, causing 99 deaths and impacting 7.21 lakh people.",
+      "tags": [
+        "Assam Floods",
+        "Sivasagar",
+        "Charaideo",
+        "Natural Disaster",
+        "Environment"
+      ],
+      "source": {
+        "title": "A flood of woes in Assam",
+        "url": "https://www.thehindu.com/news/national/assam/a-flood-of-woes-in-assam/article71324998.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q24",
+      "question": "In July 2026, Foreign Portfolio Investors (FPIs) turned net buyers in which Indian sector for the first time this year, investing ₹3,358 crore?",
+      "options": [
+        "Automobile",
+        "Information Technology",
+        "Banking & Financial Services",
+        "Pharmaceuticals"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Foreign Portfolio Investors (FPIs) turned net buyers in India's Information Technology (IT) sector in July 2026 for the first time this year, investing ₹3,358 crore. This includes ₹3,298 crore in the second half of the month, signaling a renewed appetite for Indian stocks.",
+      "background": "FPIs play a crucial role in India's capital markets. Their buying or selling trends in specific sectors often indicate investor sentiment and economic outlook. The shift to net buying in the IT sector, after a period of outflows, suggests a potential recovery or renewed confidence in the sector's prospects.",
+      "examRelevance": "FPIs turned net buyers in the Indian IT sector in July 2026, investing ₹3,358 crore, marking a significant shift in investment trends.",
+      "tags": [
+        "FPIs",
+        "IT Stocks",
+        "Foreign Investment",
+        "Indian Markets",
+        "Economy"
+      ],
+      "source": {
+        "title": "FPIs turn buyers in IT stocks for first time in 2026, invest Rs 3,358 crore in July",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-buyers-in-it-stocks-for-first-time-in-2026-invest-rs-3358-crore-in-july/articleshow/133076951.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q25",
+      "question": "The US Senate recently passed an Act that could allow the US president to impose tariffs up to 100% on countries among the top five importers of Russian oil and gas. What is this Act called?",
+      "options": [
+        "Global Sanctions Act of 2026",
+        "Russia-Iran Accountability Act of 2026",
+        "Energy Security Act of 2026",
+        "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The US Senate recently passed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026. This Act, if passed by the House of Representatives, would empower the US president to impose tariffs of up to 100% on countries that are among the top five importers of Russian oil and gas.",
+      "background": "The Act is part of broader U.S. efforts to exert economic pressure on Russia following its actions in Ukraine and to curb its energy revenues. Such sanctions can have significant implications for global energy markets and for countries heavily reliant on Russian oil and gas imports.",
+      "examRelevance": "The Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, passed by the US Senate, could impose tariffs on top importers of Russian oil and gas.",
+      "tags": [
+        "US Senate",
+        "Russia Sanctions",
+        "Iran Sanctions",
+        "Lindsey O. Graham Act",
+        "International Politics"
+      ],
+      "source": {
+        "title": "Indian refiners brace for pricier crude after September as Russia sanctions loom",
+        "url": "https://www.livemint.com/economy/indian-refiners-brace-for-pricier-crude-after-september-as-russia-sanctions-loom-11786269393838.html"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q26",
+      "question": "The Russian Defence Ministry recently claimed to have captured which two villages in eastern Ukraine?",
+      "options": [
+        "Kherson and Zaporizhzhia",
+        "Kupiansk and Lyman",
+        "Bakhmut and Avdiivka",
+        "Vasyutinske and Toretsk"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The Russian Defence Ministry recently announced that its forces had seized two villages in eastern Ukraine: Vasyutinske, located a few kilometers east of Kramatorsk, and Toretsk, southwest of Druzhkivka. Kyiv, however, reported ongoing frontline battles.",
+      "background": "The conflict in eastern Ukraine has been characterized by intense fighting and territorial shifts. Capturing villages like Vasyutinske and Toretsk would represent tactical gains for Russian forces in their ongoing offensive operations in the Donbas region.",
+      "examRelevance": "Russia claimed to capture Vasyutinske and Toretsk in eastern Ukraine, a current development in the Russia-Ukraine conflict.",
+      "tags": [
+        "Russia-Ukraine War",
+        "Vasyutinske",
+        "Toretsk",
+        "Eastern Ukraine",
+        "International Conflict"
+      ],
+      "source": {
+        "title": "Russia says it captures two villages in eastern Ukraine, Kyiv reports frontline battles",
+        "url": "https://www.thehindu.com/news/international/russia-says-it-captures-two-villages-in-eastern-ukraine-kyiv-reports-frontline-battles/article71326149.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q27",
+      "question": "Under the 'One Health' approach, Uttar Pradesh successfully conducted active surveillance for Avian Influenza among wild migratory birds at how many Ramsar and other important wetland sites?",
+      "options": [
+        "10",
+        "19",
+        "15",
+        "25"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Under the 'RISE Global Health Security (RISE GHS) Project', the Animal Husbandry Department of Uttar Pradesh, in collaboration with the Forest and Wildlife Department, successfully conducted active surveillance for Avian Influenza among wild migratory birds at 19 Ramsar and other important wetland sites.",
+      "background": "The 'One Health' approach recognizes that the health of humans, animals, and the environment are interconnected. Active surveillance for zoonotic diseases like Avian Influenza in wildlife populations is crucial for early identification and reporting, preventing potential outbreaks and ensuring public health.",
+      "examRelevance": "Uttar Pradesh conducted Avian Influenza surveillance at 19 wetland sites under the 'One Health' approach, a key environmental and public health initiative.",
+      "tags": [
+        "One Health",
+        "Uttar Pradesh",
+        "Avian Influenza",
+        "Ramsar Sites",
+        "Wildlife",
+        "Environment"
+      ],
+      "source": {
+        "title": "Pushing One Health approach, U.P. priorities early identification and reporting of emerging zoonotic diseases",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/pushing-one-health-approach-up-priorities-early-identification-and-reporting-of-emerging-zoonotic-diseases/article71325413.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q28",
+      "question": "Which state's Food and Drug Administration (FDA) is set to introduce an end-to-end digitisation initiative for milk traceability to combat adulteration?",
+      "options": [
+        "Gujarat",
+        "Uttar Pradesh",
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Maharashtra's Food and Drug Administration (FDA) is set to introduce an end-to-end digitisation initiative aimed at ensuring milk traceability. This project will connect milk to milch animals and trace anomalies, thereby helping to arrest the adulteration process and ensure quality.",
+      "background": "Milk adulteration is a significant concern in India, posing health risks to consumers and economic losses to dairy farmers. Digitisation and traceability systems are modern technological solutions being adopted to enhance food safety and regulatory oversight in the dairy sector.",
+      "examRelevance": "Maharashtra FDA's end-to-end digitisation for milk traceability is a key state-level initiative against adulteration.",
+      "tags": [
+        "Maharashtra FDA",
+        "Milk Traceability",
+        "Digitisation",
+        "Food Adulteration",
+        "Schemes & Projects"
+      ],
+      "source": {
+        "title": "Maharashtra FDA to introduce end-to-end traceability of milk to fight adulteration",
+        "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-to-introduce-end-to-end-traceability-of-milk-to-fight-adulteration/article71325631.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q29",
+      "question": "Which political leader recently opposed the idea of a 'creamy layer' for Scheduled Castes and Scheduled Tribes in reservation, describing it as a reflection of a 'casteist mindset'?",
+      "options": [
+        "Naveen Patnaik",
+        "Mayawati",
+        "M.K. Stalin",
+        "Rahul Gandhi"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "BSP president Mayawati recently opposed the idea of applying a 'creamy layer' concept for Scheduled Castes (SCs) and Scheduled Tribes (STs) in reservation policies. She criticized the RSS's position on this matter, calling it a reflection of a 'casteist mindset' that would undermine constitutional objectives.",
+      "background": "The 'creamy layer' concept excludes individuals from reservation benefits if they belong to the economically advanced section of a backward community. While applied to OBCs, its application to SCs/STs has been a contentious legal and political debate, with arguments focusing on socio-economic disparities and constitutional guarantees.",
+      "examRelevance": "Mayawati's opposition to the 'creamy layer' for SCs/STs in reservation highlights a significant ongoing debate in Indian polity and social justice.",
+      "tags": [
+        "Mayawati",
+        "Creamy Layer",
+        "SCs/STs",
+        "Reservation",
+        "Polity",
+        "Social Justice"
+      ],
+      "source": {
+        "title": "BSP president Mayawati opposes ‘creamy layer’ idea for SCs, STs, hits out at RSS",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-opposes-creamy-layer-for-scs-sts-in-reservation-hits-out-at-rss/article71324123.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-10-q30",
+      "question": "Which Union Territory is set to lead the first caste enumeration in Independent India as part of Census 2027?",
+      "options": [
+        "Chandigarh",
+        "Jammu & Kashmir",
+        "Ladakh",
+        "Puducherry"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Ladakh is set to lead the first caste enumeration in Independent India as part of Census 2027. The upcoming census form is likely to include around 40 questions, with provisions for recording defence structures on paper.",
+      "background": "While India has conducted a census for Scheduled Castes and Scheduled Tribes, a comprehensive caste enumeration for all castes has not been done since 1931. Ladakh leading this initiative for Census 2027 marks a significant shift in data collection policy and could have wide-ranging implications for social and political discourse.",
+      "examRelevance": "Ladakh will lead the first caste enumeration in Independent India as part of Census 2027, a significant development in national demographic data collection.",
+      "tags": [
+        "Ladakh",
+        "Census 2027",
+        "Caste Enumeration",
+        "Polity",
+        "Union Territory"
+      ],
+      "source": {
+        "title": "Census 2027: Ladakh to lead Independent India’s first caste enumeration",
+        "url": "https://www.thehindu.com/news/national/ladakh/census-2027-ladakh-to-lead-caste-enumeration-in-independent-india/article71325361.ece"
+      }
+    }
+  ]
+}
