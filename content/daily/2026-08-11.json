@@ -1,0 +1,767 @@
+{
+  "id": "daily-2026-08-11",
+  "type": "daily",
+  "date": "2026-08-11",
+  "title": "Current Affairs — 11 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-11-q1",
+      "question": "A U.S. judge recently dismissed a criminal case against which prominent Indian businessman?",
+      "options": [
+        "Mukesh Ambani",
+        "Gautam Adani",
+        "Anil Ambani",
+        "Ratan Tata"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "A U.S. judge recently dismissed a criminal case against Indian businessman Gautam Adani. The dismissal came after the U.S. Attorney’s Office in Brooklyn moved to dismiss the case, citing a lack of prosecutorial interest.",
+      "background": "Gautam Adani, chairman of the Adani Group, has been under scrutiny regarding various business practices. The dismissal of this U.S. graft case is a significant development for his business empire, which had faced allegations and market challenges previously.",
+      "examRelevance": "U.S. judge dismissed graft case against Gautam Adani.",
+      "tags": [
+        "Gautam Adani",
+        "U.S. criminal case",
+        "Adani Group",
+        "Economy"
+      ],
+      "source": {
+        "title": "U.S. judge ends graft case against Gautam Adani",
+        "url": "https://www.thehindu.com/news/international/us-judge-ends-graft-case-against-gautam-adani/article71330857.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q2",
+      "question": "India recently demanded accountability from Slovenian authorities after its embassy premises were defaced in which capital city?",
+      "options": [
+        "Ljubljana",
+        "Vienna",
+        "Zagreb",
+        "Bratislava"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "India has strongly taken up the matter with Slovenian authorities, both in New Delhi and in Ljubljana, after its embassy premises were defaced in the Slovenian capital, Ljubljana.",
+      "background": "Such incidents involving diplomatic premises are considered serious breaches of international diplomatic norms and often lead to formal protests and demands for accountability from the host nation.",
+      "examRelevance": "Indian embassy in Ljubljana, Slovenia defaced.",
+      "tags": [
+        "Slovenia",
+        "Ljubljana",
+        "Indian Embassy",
+        "Diplomacy"
+      ],
+      "source": {
+        "title": "India demands accountability after embassy premises defaced in Slovenian capital",
+        "url": "https://www.thehindu.com/news/national/india-demands-accountability-after-embassy-premises-defaced-in-slovenian-capital/article71330829.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q3",
+      "question": "In which Indian state is the RSS scheduled to hold its all-India coordination meeting?",
+      "options": [
+        "Andhra Pradesh",
+        "Telangana",
+        "Karnataka",
+        "Odisha"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Rashtriya Swayamsevak Sangh (RSS) is scheduled to hold its all-India coordination meeting in Andhra Pradesh. RSS chief Mohan Bhagwat and general secretary Dattatreya Hosabale are expected to attend.",
+      "background": "The RSS holds annual coordination meetings to discuss organizational matters, national issues, and future strategies. These meetings are attended by senior office bearers and are significant for setting the agenda for the organization.",
+      "examRelevance": "RSS all-India coordination meeting to be held in Andhra Pradesh.",
+      "tags": [
+        "RSS",
+        "Andhra Pradesh",
+        "Mohan Bhagwat",
+        "Dattatreya Hosabale"
+      ],
+      "source": {
+        "title": "RSS to hold all-india coordination meeting in Andhra Pradesh",
+        "url": "https://www.thehindu.com/news/national/rss-to-hold-all-india-coordination-meeting-in-andhra-pradesh/article71329671.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q4",
+      "question": "On what date did the Supreme Court uphold the CBI's clean chit to Dr. Manmohan Singh in the alleged coal block allocation scam, as mentioned by Sonia Gandhi?",
+      "options": [
+        "June 15, 2026",
+        "August 10, 2026",
+        "September 5, 2026",
+        "July 29, 2026"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Sonia Gandhi stated that July 29, 2026, was an important day in political history as the Supreme Court upheld CBI's clean chit to Dr. Manmohan Singh in the alleged coal block allocation scam.",
+      "background": "The coal block allocation scam, often referred to as 'Coalgate', was a major political controversy during the UPA government's tenure. The Supreme Court's decision to uphold the clean chit was a significant legal and political development for Dr. Manmohan Singh.",
+      "examRelevance": "Supreme Court upheld CBI clean chit to Dr. Manmohan Singh in coal scam on July 29, 2026.",
+      "tags": [
+        "Manmohan Singh",
+        "Coal Block Allocation Scam",
+        "Supreme Court",
+        "CBI"
+      ],
+      "source": {
+        "title": "History will indeed remember Manmohan Singh kindly as most consequential PM: Sonia Gandhi",
+        "url": "https://www.thehindu.com/news/national/history-will-indeed-remember-manmohan-singh-kindly-as-most-consequential-pm-sonia-gandhi/article71330884.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q5",
+      "question": "Uruguay defender Ronald Araújo recently joined which football club on a season-long loan from Barcelona?",
+      "options": [
+        "Manchester United",
+        "Paris Saint-Germain",
+        "Liverpool",
+        "Real Madrid"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Uruguay defender Ronald Araújo has made a season-long loan move to Liverpool from Barcelona. He believes this is an 'ideal move' for his career.",
+      "background": "Ronald Araújo is a prominent defender known for his physical presence and defensive capabilities. His move to Liverpool signifies a significant transfer in European football, allowing him to gain experience in the Premier League.",
+      "examRelevance": "Ronald Araújo joined Liverpool on loan from Barcelona.",
+      "tags": [
+        "Ronald Araújo",
+        "Liverpool",
+        "Barcelona",
+        "Football Transfer"
+      ],
+      "source": {
+        "title": "Araújo calls Liverpool loan an ‘ideal move’ after leaving Barcelona on pay-cut deal",
+        "url": "https://www.thehindu.com/sport/football/araujo-calls-liverpool-loan-an-ideal-move-after-leaving-barcelona-on-pay-cut-deal/article71330881.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q6",
+      "question": "Police in which district of Maharashtra recently arrested a retired government doctor for allegedly orchestrating a female foeticide ring?",
+      "options": [
+        "Kolhapur",
+        "Nashik",
+        "Pune",
+        "Nagpur"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "The Kolhapur police in Maharashtra arrested a retired government doctor on July 31 for allegedly orchestrating a sophisticated female foeticide ring, highlighting the continued operation of illegal abortion networks.",
+      "background": "Female foeticide remains a serious social issue in parts of India, driven by son preference. Authorities continue to crack down on illegal networks that facilitate such practices, with arrests often revealing deeper organized rackets.",
+      "examRelevance": "Retired doctor arrested in Kolhapur, Maharashtra for female foeticide.",
+      "tags": [
+        "Female Foeticide",
+        "Maharashtra",
+        "Kolhapur",
+        "Illegal Abortion"
+      ],
+      "source": {
+        "title": "Protectors turn predators: how son preference fuels female foeticide rackets in Maharashtra",
+        "url": "https://www.thehindu.com/news/national/maharashtra/protectors-turn-predators-how-son-preference-fuels-female-foeticide-rackets-in-maharashtra/article71329924.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q7",
+      "question": "During the recent Kanwar Yatra, which district in Uttar Pradesh reported the highest number of casualties from road accidents involving pilgrims?",
+      "options": [
+        "Kaushambi",
+        "Varanasi",
+        "Meerut",
+        "Ghaziabad"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "During the Kanwar Yatra, the highest number of casualties from road accidents was reported from Kaushambi district in Uttar Pradesh, where one pilgrim was killed and 30 others were injured.",
+      "background": "The Kanwar Yatra is an annual pilgrimage of devotees of Shiva, where 'Kanwariyas' collect water from the Ganga and carry it to offer at Shiva temples. Due to the large number of participants and long distances covered, road accidents are a recurring concern during the Yatra, leading to traffic advisories in several states.",
+      "examRelevance": "Kaushambi district reported highest casualties in UP during Kanwar Yatra accidents.",
+      "tags": [
+        "Kanwar Yatra",
+        "Uttar Pradesh",
+        "Road Accidents",
+        "Kaushambi"
+      ],
+      "source": {
+        "title": "U.P.: 5 killed, 41 injured in separate road accidents involving devotees, Kanwars",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-5-killed-41-injured-in-separate-road-accidents-involving-devotees-kanwars/article71330861.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q8",
+      "question": "Which former U.S. President recently ordered a revamp of the childhood vaccine schedule?",
+      "options": [
+        "Barack Obama",
+        "George W. Bush",
+        "Joe Biden",
+        "Donald Trump"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Former U.S. President Donald Trump recently took aim at the childhood vaccine schedule and ordered a revamp of it.",
+      "background": "The childhood vaccine schedule in the U.S. is determined by public health agencies and medical experts. Any revamp or changes to it often become a subject of public and political debate, especially concerning vaccine hesitancy.",
+      "examRelevance": "Donald Trump ordered a revamp of the U.S. childhood vaccine schedule.",
+      "tags": [
+        "Donald Trump",
+        "U.S. Politics",
+        "Vaccine Schedule",
+        "Healthcare Policy"
+      ],
+      "source": {
+        "title": "Trump takes aim at childhood vaccine schedule",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-takes-aim-at-childhood-vaccine-schedule-orders-revamp/articleshow/133140301.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q9",
+      "question": "Which country is set to make the filing of all immigration applications mandatory online?",
+      "options": [
+        "United States",
+        "Canada",
+        "Australia",
+        "United Kingdom"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The United States is set to make online filing of all immigration applications mandatory. This move aims to streamline the application process.",
+      "background": "Many countries are moving towards digitalizing government services, including immigration processes, to improve efficiency, reduce paperwork, and enhance accessibility. This change in the U.S. will impact a large number of applicants globally.",
+      "examRelevance": "U.S. to make immigration applications online-only.",
+      "tags": [
+        "United States",
+        "Immigration",
+        "Online Applications",
+        "Digitalization"
+      ],
+      "source": {
+        "title": "US to make immigration applications online-only",
+        "url": "https://economictimes.indiatimes.com/nri/migrate/us-set-to-make-online-filing-of-immigration-applications-mandatory/articleshow/133140279.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q10",
+      "question": "Which former U.S. President recently stated he would demand conflict compensation from Iran?",
+      "options": [
+        "Barack Obama",
+        "George W. Bush",
+        "Donald Trump",
+        "Joe Biden"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Donald Trump announced that he would demand conflict compensation from Iran. This statement was a direct response to Iran’s insistence that U.S. payment of war reparations is a precondition to any resolution of ongoing hostilities.",
+      "background": "Relations between the U.S. and Iran have been strained for decades, marked by sanctions, geopolitical tensions, and proxy conflicts in the West Asia region. Demands for reparations are a recurring theme in discussions about resolving these hostilities.",
+      "examRelevance": "Donald Trump stated he would demand conflict compensation from Iran.",
+      "tags": [
+        "Donald Trump",
+        "Iran",
+        "U.S. Foreign Policy",
+        "West Asia"
+      ],
+      "source": {
+        "title": "West Asia war LIVE: Trump says will demand conflict compensation from Iran",
+        "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-11-2026-hormuz-strait-reopen-us-iran-talks/article71330825.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q11",
+      "question": "Which agency recently informed about the likelihood of swell waves and sea erosion along the coasts of Thiruvananthapuram district?",
+      "options": [
+        "Indian Meteorological Department (IMD)",
+        "National Centre for Oceanographic Studies and Research (INCOIS)",
+        "National Disaster Response Force (NDRF)",
+        "Coastal Security Group (CSG)"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The National Centre for Oceanographic Studies and Research (INCOIS) issued alerts to fishermen and coastal residents about the likelihood of swell waves ranging from 1.0 to 1.6 meters and sea erosion along the coasts from Kappil to Pozhiyur in Thiruvananthapuram district.",
+      "background": "INCOIS is an autonomous organization under the Ministry of Earth Sciences, Government of India, responsible for providing ocean information and advisory services. Swell surges are a natural phenomenon that can cause significant coastal erosion and pose risks to marine activities.",
+      "examRelevance": "INCOIS issued swell wave alert for Thiruvananthapuram coast.",
+      "tags": [
+        "INCOIS",
+        "Thiruvananthapuram",
+        "Swell Waves",
+        "Coastal Erosion",
+        "Kerala"
+      ],
+      "source": {
+        "title": "Swell waves likely along coast of Thiruvananthapuram on Tuesday",
+        "url": "https://www.thehindu.com/news/national/kerala/swell-waves-likely-along-coast-of-thiruvananthapuram-on-tuesday/article71328839.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q12",
+      "question": "The recent Air India incident, involving a 300-foot altitude drop, occurred in which aircraft model?",
+      "options": [
+        "Airbus A320",
+        "Airbus A350",
+        "Boeing 737",
+        "Boeing 787"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "An Air India A320 aircraft suffered a rare flight-control event, leading to a 300-foot altitude drop. The incident involved nine technical snags in a minute, including autopilot disconnect and hydraulic failures.",
+      "background": "This incident has been classified as a serious incident and is currently under investigation by the Aircraft Accident Investigation Bureau (AAIB). Such events highlight the complexities of modern aviation systems and the importance of stringent safety protocols.",
+      "examRelevance": "Air India A320 aircraft suffered 300-foot altitude drop due to flight-control event.",
+      "tags": [
+        "Air India",
+        "Airbus A320",
+        "Aviation Safety",
+        "Aircraft Accident Investigation Bureau"
+      ],
+      "source": {
+        "title": "Not turbulence: Air India A320 suffered rare flight-control event before 300-foot altitude drop",
+        "url": "https://www.thehindu.com/news/national/air-india-phuketdelhi-flight-cascade-of-tech-failures-preceded-300-ft-plunge-not-turbulence-sources-say/article71327617.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q13",
+      "question": "Todd Blanche, former personal lawyer to Donald Trump, was recently sworn in as the Attorney General of which country?",
+      "options": [
+        "United Kingdom",
+        "Canada",
+        "Australia",
+        "United States"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Todd Blanche, who previously served as Donald Trump's personal lawyer, was recently sworn in as the Attorney General of the United States.",
+      "background": "The Attorney General is the chief law enforcement officer and chief lawyer of the U.S. government, heading the Department of Justice. This is a high-profile appointment, especially given Blanche's prior association with a former President.",
+      "examRelevance": "Todd Blanche sworn in as U.S. Attorney General.",
+      "tags": [
+        "Todd Blanche",
+        "Attorney General",
+        "United States",
+        "Appointments"
+      ],
+      "source": {
+        "title": "Trump’s ex-lawyer Blanche sworn in as AG",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/todd-blanche-trumps-former-personal-lawyer-sworn-in-as-attorney-general-after-bruising-confirmation-fight/articleshow/133140104.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q14",
+      "question": "Devendra Nath Mahato recently joined the 'Vidhan Sabha gherao' march in which Indian state, protesting against alleged irregularities in examinations?",
+      "options": [
+        "Jharkhand",
+        "Chhattisgarh",
+        "Bihar",
+        "Odisha"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Devendra Nath Mahato joined the 'Vidhan Sabha gherao' march in Jharkhand, where students and job aspirants are protesting against alleged irregularities in examinations like JSSC-CGL and demanding a CBI probe.",
+      "background": "Jharkhand has seen significant student protests over alleged paper leaks and exam cancellations, leading to calls for a CBI investigation into recruitment anomalies. The march to the Assembly highlights the growing discontent among job aspirants.",
+      "examRelevance": "Devendra Nath Mahato joined 'Vidhan Sabha gherao' march in Jharkhand.",
+      "tags": [
+        "Devendra Nath Mahato",
+        "Jharkhand",
+        "Student Protest",
+        "JSSC-CGL"
+      ],
+      "source": {
+        "title": "‘Govt. will have to listen to us’: Devendra Nath Mahato joins ‘Vidhan Sabha gherao’ march",
+        "url": "https://www.thehindu.com/news/national/jharkhand/devendra-nath-mahato-vidhan-sabha-gherao-march-jharkhand/article71327344.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q15",
+      "question": "According to recent RTI responses, pellet injuries were reported during a stir at Jantar Mantar on which date?",
+      "options": [
+        "July 30",
+        "July 15",
+        "July 20",
+        "July 25"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "RTI responses from two hospitals confirmed that 10 people were brought in with pellet injuries during the Jantar Mantar stir on July 20. The Delhi Police had authorized the use of pellet guns against protestors on that day.",
+      "background": "The use of pellet guns for crowd control has been a contentious issue in India, particularly after their extensive use in Jammu and Kashmir. The Supreme Court has stated that their use should be in 'exceptional circumstances' as part of a graded police response.",
+      "examRelevance": "Pellet injuries reported on July 20 during Jantar Mantar stir.",
+      "tags": [
+        "Jantar Mantar",
+        "Pellet Guns",
+        "RTI",
+        "Delhi Police",
+        "Protest"
+      ],
+      "source": {
+        "title": "At least 10 people injured by pellets on July 20, shows RTI response",
+        "url": "https://www.thehindu.com/news/national/at-least-10-people-injured-by-pellets-on-july-20-shows-rti-response/article71329189.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q16",
+      "question": "A recent 7.4 magnitude earthquake that killed at least 111 people and injured 87, occurred in which country?",
+      "options": [
+        "Chile",
+        "Colombia",
+        "Peru",
+        "Ecuador"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "A 7.4 magnitude earthquake recently struck Colombia's coastal Choco region, killing at least 111 people and injuring 87. President Abelardo de la Espriella declared an emergency, and rescue teams rushed to search for survivors.",
+      "background": "Colombia is located in a seismically active zone, prone to earthquakes. Major earthquakes often lead to significant casualties and infrastructure damage, prompting emergency responses and international aid.",
+      "examRelevance": "7.4 magnitude earthquake in Colombia killed at least 111 people.",
+      "tags": [
+        "Colombia",
+        "Earthquake",
+        "Natural Disaster",
+        "Choco region"
+      ],
+      "source": {
+        "title": "Colombia earthquake: at least 111 people killed; President declares emergency",
+        "url": "https://www.thehindu.com/news/international/74-magnitude-earthquake-shakes-colombia-and-ecuador-prompting-people-to-evacuate-buildings/article71328788.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q17",
+      "question": "Approximately what total value of Initial Public Offerings (IPOs) are 34 companies racing to launch by September 30?",
+      "options": [
+        "Rs 45,000 crore",
+        "Rs 35,000 crore",
+        "Rs 55,000 crore",
+        "Rs 25,000 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "At least 34 companies are racing to launch Initial Public Offerings (IPOs) collectively worth around Rs 45,000 crore by an end-of-September deadline. They face the challenge of initiating share sales within the next 35 trading sessions.",
+      "background": "Companies typically have a one-year window from the date of regulatory approvals to launch their IPOs. Missing this deadline can result in the need for fresh regulatory approvals, causing potential delays in fundraising plans.",
+      "examRelevance": "34 companies racing to launch IPOs worth Rs 45,000 crore by September 30.",
+      "tags": [
+        "IPO",
+        "Initial Public Offering",
+        "Capital Market",
+        "Economy"
+      ],
+      "source": {
+        "title": "IPO Rush: 34 companies race to launch issues worth Rs 45,000 crore by September 30",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-34-companies-race-to-launch-issues-worth-rs-45000-crore-by-september-30/articleshow/133139967.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q18",
+      "question": "As per the Q1 (June 2026) Earnings Scorecard, what was a key highlight across sectors?",
+      "options": [
+        "Stable revenue with increased profitability",
+        "Marginal increase in revenue with stable profitability",
+        "Significant decrease in revenue due to low demand",
+        "Double-digit increase in revenue but lower profitability"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Q1 (June 2026) Earnings Scorecard highlighted a double-digit increase in revenue across sectors, but this was coupled with lower profitability primarily due to input cost pressure.",
+      "background": "Quarterly earnings reports provide crucial insights into the health of various sectors and the overall economy. While strong top-line growth indicates sustained demand, rising input costs can compress profit margins for businesses.",
+      "examRelevance": "Q1 2026 earnings showed double-digit revenue increase but lower profitability.",
+      "tags": [
+        "Q1 Earnings",
+        "Economy",
+        "Revenue Growth",
+        "Profitability",
+        "Input Costs"
+      ],
+      "source": {
+        "title": "Q1 Earnings Scorecard: Strong demand drives revenue, input costs hit profits",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/q1-earnings-scorecard-strong-demand-drives-revenue-input-costs-hit-profits/articleshow/133139903.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q19",
+      "question": "Which capital city recently experienced multiple blasts after being under a ballistic missile attack?",
+      "options": [
+        "Kyiv",
+        "Moscow",
+        "Minsk",
+        "Warsaw"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Kyiv, the capital of Ukraine, experienced multiple blasts after being under a ballistic missile attack. Kyiv Mayor Vitali Klitschko confirmed the attack, which wounded at least one person.",
+      "background": "Kyiv has been a frequent target of missile and drone attacks since the start of the Russia-Ukraine conflict. These attacks often lead to civilian casualties and damage to infrastructure, intensifying the ongoing hostilities.",
+      "examRelevance": "Kyiv experienced multiple blasts after ballistic missile attack.",
+      "tags": [
+        "Kyiv",
+        "Ukraine",
+        "Russia-Ukraine War",
+        "Missile Attack"
+      ],
+      "source": {
+        "title": "Multiple blasts heard in Kyiv after missile alert",
+        "url": "https://www.thehindu.com/news/international/russia-ukraine-war-kyiv-missile-attack-injuries/article71330155.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q20",
+      "question": "Which son of Union Minister Nitin Gadkari filed a defamation case against 'The Caravan' magazine regarding articles linking him to the sale of beef?",
+      "options": [
+        "Saurabh Gadkari",
+        "Nitin Gadkari Jr.",
+        "Nikhil Gadkari",
+        "Rahul Gadkari"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Nikhil Gadkari, son of Union Minister Nitin Gadkari, along with his company Cian Agro Industries and Infrastructure Ltd, filed a defamation case against 'The Caravan' magazine. The lawsuit seeks directions to take down articles linking him and his company to the sale of beef or bovine meat products.",
+      "background": "Defamation cases are common in the media landscape, especially when articles touch upon sensitive topics or link individuals to controversial businesses. The Delhi High Court is currently seeking The Caravan's stand in this matter.",
+      "examRelevance": "Nikhil Gadkari filed defamation case against 'The Caravan' over beef sale articles.",
+      "tags": [
+        "Nikhil Gadkari",
+        "Nitin Gadkari",
+        "The Caravan",
+        "Defamation Case",
+        "Delhi High Court"
+      ],
+      "source": {
+        "title": "Delhi High Court seeks The Caravan’s stand in defamation case by Nitin Gadkari’s son",
+        "url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-seeks-the-caravans-stand-in-defamation-case-by-nitin-gadkaris-son/article71329352.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q21",
+      "question": "Which NCP(SP) leader recently met Prime Minister Modi to discuss Maharashtra-related issues?",
+      "options": [
+        "Sharad Pawar",
+        "Jayant Patil",
+        "Supriya Sule",
+        "Ajit Pawar"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Supriya Sule, an NCP(SP) leader and Member of Parliament, recently met Prime Minister Modi to discuss Maharashtra-related issues. Fadnavis later stated that 'nothing was wrong' with the meeting.",
+      "background": "Meetings between opposition leaders and the Prime Minister, even for state-related issues, often generate political speculation, especially regarding party alignments and stances on legislative matters like the delimitation Bill.",
+      "examRelevance": "NCP(SP) leader Supriya Sule met PM Modi to discuss Maharashtra issues.",
+      "tags": [
+        "Supriya Sule",
+        "NCP(SP)",
+        "PM Modi",
+        "Maharashtra Politics",
+        "Devendra Fadnavis"
+      ],
+      "source": {
+        "title": "‘Nothing wrong’, says Fadnavis on NCP(SP) MPs meeting PM Modi",
+        "url": "https://www.thehindu.com/news/national/maharashtra/nothing-wrong-says-fadnavis-on-ncpsp-mps-meeting-pm-modi/article71329177.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q22",
+      "question": "Odisha CM Mohan Charan Majhi stated that investment proposals worth approximately ₹21 lakh crore are expected to generate how many employment opportunities in the state?",
+      "options": [
+        "15 lakh",
+        "10 lakh",
+        "20 lakh",
+        "5 lakh"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Odisha Chief Minister Mohan Charan Majhi announced that investment proposals worth approximately ₹21 lakh crore are expected to generate 20 lakh employment opportunities in the state.",
+      "background": "Employment generation is a key focus for state governments, often linked to attracting investments and industrial development. Such figures are crucial for assessing economic growth and job creation efforts.",
+      "examRelevance": "Odisha expects 20 lakh employment opportunities from ₹21 lakh crore investment proposals.",
+      "tags": [
+        "Odisha",
+        "Mohan Charan Majhi",
+        "Employment Generation",
+        "Investment Proposals"
+      ],
+      "source": {
+        "title": "BJP, BJD at tug-of-war over employment in Odisha",
+        "url": "https://www.thehindu.com/news/national/odisha/bjp-bjd-at-tug-of-war-over-employment-in-odisha/article71328538.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q23",
+      "question": "In which district of Maharashtra did three students die of snakebite at a residential ashram school?",
+      "options": [
+        "Gadchiroli",
+        "Nanded",
+        "Yavatmal",
+        "Chandrapur"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "Three students died of snakebite in the early hours of Monday at the Japatlai Residential Ashram School in Dhanora taluka, Gadchiroli district, Maharashtra. The snake is suspected to be a krait.",
+      "background": "Residential ashram schools in remote tribal areas often face challenges related to infrastructure and safety, including protection from wildlife. This tragic incident highlights the need for improved safety measures in such institutions.",
+      "examRelevance": "Three students died of snakebite in Gadchiroli, Maharashtra.",
+      "tags": [
+        "Gadchiroli",
+        "Maharashtra",
+        "Snakebite",
+        "Ashram School"
+      ],
+      "source": {
+        "title": "Three students die of snakebite at Maharashtra school",
+        "url": "https://www.thehindu.com/news/national/maharashtra/snake-bites-tribal-girls-at-school-in-maharashtras-gadchiroli-some-dead-probe-ordered/article71327311.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q24",
+      "question": "A committee recently reached Jammu to study demographic changes near the Pakistan border, planning to visit settlements in which two districts?",
+      "options": [
+        "Udhampur and Reasi",
+        "Doda and Kishtwar",
+        "Kathua and Samba",
+        "Poonch and Rajouri"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "A committee recently reached Jammu to study demographic changes near the Pakistan border. It is likely to visit settlements along the border in Kathua and Samba districts over the next two days.",
+      "background": "Studies on demographic changes in border areas are crucial for understanding security implications, socio-economic dynamics, and potential challenges. These assessments often inform policy decisions related to border management and regional development.",
+      "examRelevance": "Panel reached Jammu to study demographic changes in Kathua and Samba districts near Pakistan border.",
+      "tags": [
+        "Jammu",
+        "Kathua",
+        "Samba",
+        "Demographic Changes",
+        "Pakistan Border"
+      ],
+      "source": {
+        "title": "Panel reaches Jammu to study demographic changes near border",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/panel-reaches-jammu-to-study-demographic-changes-near-border/article71329746.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q25",
+      "question": "According to the Periodic Labour Force Survey (PLFS), what was the rural unemployment rate in India during the April-June quarter?",
+      "options": [
+        "4.3%",
+        "4.8%",
+        "6.7%",
+        "5.2%"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "As per the Periodic Labour Force Survey (PLFS), the rural unemployment rate in India was 4.8% in the April-June quarter. This marked a marginal increase from 4.3% in the January-March quarter.",
+      "background": "The PLFS is conducted by the National Statistical Office (NSO) and provides key employment and unemployment indicators for both urban and rural areas. These figures are vital for economic analysis and policy formulation related to labor markets.",
+      "examRelevance": "Rural unemployment rate was 4.8% in April-June quarter as per PLFS.",
+      "tags": [
+        "PLFS",
+        "Unemployment Rate",
+        "Rural Economy",
+        "National Statistical Office"
+      ],
+      "source": {
+        "title": "Marginal increase in unemployment rate April-June quarter: PLFS",
+        "url": "https://www.thehindu.com/business/Economy/marginal-increase-in-unemployment-rate-april-june-quarter-plfs/article71329678.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q26",
+      "question": "Which company's board has approved the acquisition of the Portfolio Management Services (PMS) business of ICICI Securities?",
+      "options": [
+        "Axis Asset Management Co.",
+        "SBI Funds Management",
+        "HDFC Asset Management Co.",
+        "ICICI Prudential Asset Management Co."
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "ICICI Prudential Asset Management Co. announced that its board has approved the acquisition of the Portfolio Management Services (PMS) business of ICICI Securities through a slump sale. The PMS business caters primarily to high net worth individuals (HNIs).",
+      "background": "Acquisitions and mergers are common in the financial services sector as companies seek to expand their market share and product offerings. This acquisition will strengthen ICICI Prudential AMC's position in the wealth management segment.",
+      "examRelevance": "ICICI Prudential AMC to acquire PMS business of ICICI Securities.",
+      "tags": [
+        "ICICI Prudential AMC",
+        "ICICI Securities",
+        "PMS Business",
+        "Acquisition",
+        "Financial Services"
+      ],
+      "source": {
+        "title": "ICICI Prudential AMC to buy ISecs' PMS biz",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/icici-prudential-amc-to-buy-isecs-pms-business/articleshow/133136886.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q27",
+      "question": "The Tribunals Reforms Bill, recently passed by the Lok Sabha, aims to set up a panel for what purpose?",
+      "options": [
+        "To establish new appellate tribunals",
+        "To streamline the functioning of district courts",
+        "To oversee appointments to various national tribunals",
+        "To review judicial appointments in High Courts"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Tribunals Reforms Bill, passed by the Lok Sabha, aims to set up a panel to oversee appointments to various national tribunals. According to the Law Minister, it will bring uniformity to the selection process and improve transparency.",
+      "background": "Tribunals play a crucial role in the justice delivery system, dealing with specialized matters. Reforming the appointment process for these bodies is intended to enhance their independence, efficiency, and public trust.",
+      "examRelevance": "Tribunals Reforms Bill aims to set up panel for tribunal appointments.",
+      "tags": [
+        "Tribunals Reforms Bill",
+        "Lok Sabha",
+        "Judicial Appointments",
+        "Transparency"
+      ],
+      "source": {
+        "title": "Lok Sabha passes Tribunals Reforms Bill amid din",
+        "url": "https://www.thehindu.com/news/national/lok-sabha-passes-bill-to-set-up-panel-to-appoint-chiefs-members-of-tribunals-without-debate/article71328064.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q28",
+      "question": "How many total medals did India win at the U-23 Commonwealth Fencing Championship?",
+      "options": [
+        "17",
+        "20",
+        "15",
+        "12"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Team India captured a total of 17 medals at the U-23 Commonwealth Fencing Championship, comprising four gold, four silver, and nine bronze medals after the opening day of the event.",
+      "background": "The Commonwealth Fencing Championship is an important event for fencers from Commonwealth nations, providing a platform for young athletes to showcase their talent and gain international experience. India's performance indicates a growing presence in the sport.",
+      "examRelevance": "India won 17 medals (4 Gold, 4 Silver, 9 Bronze) at U-23 Commonwealth Fencing Championship.",
+      "tags": [
+        "Fencing",
+        "Commonwealth Championship",
+        "India",
+        "Medal Tally"
+      ],
+      "source": {
+        "title": "India wins 17 medals at U-23 Commonwealth fencing Championship",
+        "url": "https://www.thehindu.com/sport/india-wins-17-medals-at-u-23-commonwealth-fencing-championship/article71329933.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q29",
+      "question": "Which England and Bayern Munich star is set to receive his second 'Golden Shoe' award, joining an elite list of players?",
+      "options": [
+        "Robert Lewandowski",
+        "Erling Haaland",
+        "Kylian Mbappé",
+        "Harry Kane"
+      ],
+      "answerIndex": 3,
+      "category": "Awards & Honours",
+      "explanation": "England and Bayern Munich star Harry Kane is set to receive his second 'Golden Shoe' award. He joins an elite list of players, with only Lionel Messi and Cristiano Ronaldo having won it more times.",
+      "background": "The Golden Shoe is awarded annually to the leading goalscorer in league matches from the top division of every European national league. Winning it twice is a significant achievement, highlighting a player's consistent scoring prowess at the highest level.",
+      "examRelevance": "Harry Kane to receive his second 'Golden Shoe' award.",
+      "tags": [
+        "Harry Kane",
+        "Golden Shoe",
+        "Bayern Munich",
+        "Football",
+        "Awards"
+      ],
+      "source": {
+        "title": "England, Bayern Munich star Harry Kane set to receive 'Golden Shoe' award",
+        "url": "https://www.thehindu.com/sport/football/england-bayern-munich-star-harry-kane-set-to-receive-golden-shoe-award/article71329894.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-11-q30",
+      "question": "Which national-level scheme, stalled since 2021, was recently termed a 'severe blow' to the talent pipeline by a parliamentary panel?",
+      "options": [
+        "National Talent Search Examination (NTSE)",
+        "Rashtriya Madhyamik Shiksha Abhiyan (RMSA)",
+        "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+        "Sarva Shiksha Abhiyan (SSA)"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "A parliamentary panel recently flagged the stalling of the National Talent Search Examination (NTSE) since 2021 as a 'severe blow' to the talent pipeline, citing delays in financial approval.",
+      "background": "The NTSE is a national-level scholarship program in India to identify and nurture talented students. Its suspension impacts thousands of meritorious students who aspire for financial aid and recognition for higher studies.",
+      "examRelevance": "National Talent Search Examination (NTSE) stalled since 2021.",
+      "tags": [
+        "NTSE",
+        "National Talent Search Examination",
+        "Education Scheme",
+        "Parliamentary Panel"
+      ],
+      "source": {
+        "title": "NTSE stalled: Panel flags 'severe blow'",
+        "url": "https://economictimes.indiatimes.com/news/india/ntse-stalled-since-2021-parliamentary-panel-calls-schemes-suspension-a-severe-blow-to-talent-pipeline-flags-financial-approval-delay/articleshow/133129174.cms"
+      }
+    }
+  ]
+}
