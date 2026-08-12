@@ -1,0 +1,801 @@
+{
+  "id": "daily-2026-08-12",
+  "type": "daily",
+  "date": "2026-08-12",
+  "title": "Current Affairs — 12 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-12-q1",
+      "question": "Which Chief Minister recently urged Union Home Minister Amit Shah to reconsider the Foreign Contribution (Regulation) Act (FCRA) amendments and sought a parliamentary panel review?",
+      "options": [
+        "Zoramthanga",
+        "Conrad Sangma",
+        "Pema Khandu",
+        "Neiphiu Rio"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Nagaland Chief Minister Neiphiu Rio recently urged Union Home Minister Amit Shah to reconsider the Foreign Contribution (Regulation) Act (FCRA) amendments. He also sought a parliamentary panel review to address genuine concerns, remove apprehensions, and build public confidence while protecting transparency, accountability, and national interest.",
+      "background": "The FCRA regulates foreign contributions to individuals and associations in India. Amendments to the Act have been a subject of debate, with various stakeholders expressing concerns about their impact on NGOs and civil society organizations.",
+      "examRelevance": "Nagaland CM Neiphiu Rio requested reconsideration of FCRA amendments from Union Home Minister Amit Shah.",
+      "tags": [
+        "FCRA",
+        "Nagaland",
+        "Neiphiu Rio",
+        "Amit Shah",
+        "Amendments"
+      ],
+      "source": {
+        "title": "Nagaland CM urges Shah to reconsider FCRA amendments, seeks parliamentary panel review",
+        "url": "https://www.thehindu.com/news/national/nagaland-cm-urges-shah-to-reconsider-fcra-amendments-seeks-parliamentary-panel-review/article71334913.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q2",
+      "question": "A U.S. helicopter recently fired on a ship attempting to break a ports blockade against which country, marking the third such incident since July 14?",
+      "options": [
+        "Iran",
+        "Yemen",
+        "Syria",
+        "Lebanon"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "A United States helicopter recently fired on a ship that attempted to break a ports blockade against Iran. This incident marks the third time the U.S. has forcibly halted a vessel since reinstating the ports blockade on July 14, in a months-long conflict against Iran.",
+      "background": "The U.S. has imposed a blockade on Iranian ports as part of its ongoing conflict with Iran, aiming to exert economic pressure. Such actions escalate tensions in the West Asia region.",
+      "examRelevance": "US helicopter fired on a ship attempting to break Iran's ports blockade.",
+      "tags": [
+        "US",
+        "Iran",
+        "Blockade",
+        "West Asia",
+        "Military action"
+      ],
+      "source": {
+        "title": "West Asia war LIVE: U.S. helicopter fired on ship that tried to break Iran ports blockade",
+        "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-12-2026/article71334841.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q3",
+      "question": "Which Indian port is currently experiencing significant cargo delays, reportedly up to 40 days, which is putting India’s rice export boom at risk?",
+      "options": [
+        "Kandla",
+        "Paradip",
+        "Mundra",
+        "Chennai"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "India's rice export boom is currently at risk due to a significant cargo pile-up at the Kandla port. The port is experiencing delays of up to 40 days, impacting the timely shipment of rice.",
+      "background": "Kandla Port, officially known as Deendayal Port, is a major port in Gujarat, India, located on the Gulf of Kutch. It is one of the largest ports in India by cargo handled and is crucial for India's trade, including agricultural exports.",
+      "examRelevance": "Kandla port faces 40-day cargo delays, affecting India's rice exports.",
+      "tags": [
+        "Kandla Port",
+        "Rice exports",
+        "India",
+        "Cargo delays",
+        "Economy"
+      ],
+      "source": {
+        "title": "Port pile-up puts India’s rice export boom at risk",
+        "url": "https://economictimes.indiatimes.com/news/economy/agriculture/kandla-ports-40-day-cargo-delays-put-indias-rice-exports-at-risk/articleshow/133168258.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q4",
+      "question": "In which country are seven healthcare professionals currently on trial for potential negligence related to the death of football legend Diego Maradona?",
+      "options": [
+        "Spain",
+        "Brazil",
+        "Argentina",
+        "Italy"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Seven healthcare professionals are currently on trial in Argentina since mid-April for potential negligence that may have contributed to the death of football legend Diego Maradona. The court heard allegations that doctors ignored \"warning signs\" before his death.",
+      "background": "Diego Maradona, an iconic Argentine footballer, passed away in November 2020. His death led to an investigation into the circumstances, resulting in charges of culpable homicide against the medical team involved in his care.",
+      "examRelevance": "Healthcare professionals are on trial in Argentina for negligence in Diego Maradona's death.",
+      "tags": [
+        "Diego Maradona",
+        "Argentina",
+        "Healthcare",
+        "Negligence",
+        "Trial"
+      ],
+      "source": {
+        "title": "Doctors ignored 'warning signs' before Maradona's death, court hears",
+        "url": "https://www.thehindu.com/sport/football/doctors-ignored-warning-signs-before-maradonas-death-court-hears/article71334861.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q5",
+      "question": "Which renowned Portuguese soccer star recently married Georgina Rodriguez in a civil ceremony after a 10-year relationship?",
+      "options": [
+        "Neymar Jr.",
+        "Robert Lewandowski",
+        "Lionel Messi",
+        "Cristiano Ronaldo"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Portuguese soccer star Cristiano Ronaldo and Georgina Rodriguez tied the knot on Tuesday in a private and intimate civil ceremony, attended by their five children. They had been together for 10 years before their marriage.",
+      "background": "Cristiano Ronaldo is one of the most famous and successful footballers globally, having played for clubs like Manchester United, Real Madrid, and Juventus, and currently for Al Nassr. His personal life often garners significant media attention.",
+      "examRelevance": "Cristiano Ronaldo married Georgina Rodriguez.",
+      "tags": [
+        "Cristiano Ronaldo",
+        "Georgina Rodriguez",
+        "Marriage",
+        "Football",
+        "Portugal"
+      ],
+      "source": {
+        "title": "Cristiano Ronaldo and Georgina Rodriguez tie the knot after 10 years",
+        "url": "https://www.thehindu.com/sport/football/cristiano-ronaldo-and-georgina-rodriguez-tie-the-knot-after-10-years/article71334860.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q6",
+      "question": "Uttar Pradesh Chief Minister Yogi Adityanath recently stated that the 'Har Ghar Tiranga' campaign serves as a tribute to the sacrifices of freedom fighters. This campaign encourages citizens to display which national symbol at their homes?",
+      "options": [
+        "National Song",
+        "National Flag",
+        "National Anthem",
+        "National Emblem"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "Uttar Pradesh Chief Minister Yogi Adityanath highlighted the 'Har Ghar Tiranga' campaign as a tribute to the sacrifices made by freedom fighters. The campaign encourages citizens to display the national flag at their homes, fostering a sense of pride and patriotism.",
+      "background": "The 'Har Ghar Tiranga' campaign was launched under the Azadi Ka Amrit Mahotsav initiative to commemorate 75 years of India's independence. It aimed to encourage people to hoist the national flag at their homes to mark the occasion.",
+      "examRelevance": "'Har Ghar Tiranga' campaign encourages displaying the National Flag, as stated by UP CM Yogi Adityanath.",
+      "tags": [
+        "Har Ghar Tiranga",
+        "Yogi Adityanath",
+        "National Flag",
+        "Azadi Ka Amrit Mahotsav",
+        "Uttar Pradesh"
+      ],
+      "source": {
+        "title": "'Har Ghar Tiranga' campaign tribute to freedom fighters' sacrifices: CM Adityanath",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/har-ghar-tiranga-campaign-tribute-to-freedom-fighters-sacrifices-cm-adityanath/article71327352.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q7",
+      "question": "The visibility of which astronomical event in India in 2026 was recently discussed, described as an alignment where the Moon passes directly between the Sun and Earth?",
+      "options": [
+        "Solar eclipse",
+        "Lunar eclipse",
+        "Planetary conjunction",
+        "Meteor shower"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Discussions recently took place regarding the visibility of a solar eclipse in India in 2026. A solar eclipse occurs when the Sun, Moon, and Earth are in alignment, and the Moon passes directly between the Sun and Earth, casting a shadow on our planet and blocking some of the Sun's light.",
+      "background": "Solar eclipses are relatively rare and highly anticipated astronomical events. Their visibility depends on the specific geometry of the Sun, Moon, and Earth, and varies by geographical location.",
+      "examRelevance": "Solar eclipse visibility in India in 2026 was recently discussed.",
+      "tags": [
+        "Solar eclipse",
+        "Astronomy",
+        "India",
+        "Moon",
+        "Sun",
+        "Earth"
+      ],
+      "source": {
+        "title": "Solar eclipse 2026: Will it be visible from India?",
+        "url": "https://www.thehindu.com/sci-tech/science/solar-eclipse-2026-surya-grahan-india-august-12-2026/article71331174.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q8",
+      "question": "Which Chief Minister is likely to move a resolution in the State Assembly seeking to freeze the number of Lok Sabha seats at 543?",
+      "options": [
+        "K. Chandrashekar Rao",
+        "Vijay (Tamil Nadu)",
+        "M.K. Stalin",
+        "Pinarayi Vijayan"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Tamil Nadu Chief Minister Vijay is likely to move a resolution in the State Assembly. This resolution will seek to freeze the number of Lok Sabha seats at 543, addressing concerns about potential changes in parliamentary representation.",
+      "background": "The delimitation of Lok Sabha constituencies is based on population, and there are concerns that a new delimitation exercise could reduce the representation of southern states which have successfully controlled population growth. Freezing the seats at 543 would maintain the current distribution.",
+      "examRelevance": "Tamil Nadu CM Vijay likely to move resolution to freeze Lok Sabha seats at 543.",
+      "tags": [
+        "Lok Sabha",
+        "Delimitation",
+        "Tamil Nadu",
+        "CM Vijay",
+        "Parliamentary seats"
+      ],
+      "source": {
+        "title": "CM Vijay likely to move resolution in Assembly seeking freeze on Lok Sabha seats at 543",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-likely-to-move-resolution-in-assembly-seeking-freeze-on-lok-sabha-seats-at-543/article71333417.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q9",
+      "question": "Which authority recently endorsed the Cauvery Water Regulation Committee’s (CWRC) direction to Karnataka to release 12,000 cusecs of water per day for 15 days to Tamil Nadu?",
+      "options": [
+        "Central Water Commission (CWC)",
+        "Cauvery Water Management Authority (CWMA)",
+        "Ministry of Jal Shakti",
+        "Supreme Court of India"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Cauvery Water Management Authority (CWMA) recently endorsed the direction issued by the Cauvery Water Regulation Committee (CWRC). This direction mandates Karnataka to release 12,000 cusecs of water per day for a period of 15 days to Tamil Nadu.",
+      "background": "The Cauvery River dispute is a long-standing inter-state water dispute between Karnataka and Tamil Nadu. The CWMA and CWRC were constituted by the Union Government following a Supreme Court order to implement the Cauvery Water Disputes Tribunal's final award.",
+      "examRelevance": "CWMA endorsed CWRC's direction for Karnataka to release 12,000 cusecs of Cauvery water to Tamil Nadu.",
+      "tags": [
+        "Cauvery Water Dispute",
+        "CWMA",
+        "CWRC",
+        "Karnataka",
+        "Tamil Nadu",
+        "Water release"
+      ],
+      "source": {
+        "title": "CWMA endorses CWRC’s direction to Karnataka to release 12,000 cusecs of water a day for 15 days to Tamil Nadu",
+        "url": "https://www.thehindu.com/news/national/cwma-endorses-cwrcs-direction-to-karnataka-to-release-12000-cusecs-of-water-a-day-for-15-days-to-tamil-nadu/article71333241.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q10",
+      "question": "In July, the Cauvery water received by Tamil Nadu reached a 50-year low. Approximately how much water, in Thousand Million Cubic Feet (tmcft), did Biligundulu receive against the stipulated share of 31.24 tmcft for the month?",
+      "options": [
+        "3.100 tmcft",
+        "2.300 tmcft",
+        "1.500 tmcft",
+        "0.698 tmcft"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "In July, Tamil Nadu received an unprecedented low of 0.698 tmcft of Cauvery water at Biligundulu, against its stipulated share of 31.24 tmcft for the month. This marks the lowest realization for July in 50 years.",
+      "background": "The Biligundulu gauging station is a critical point for measuring the inflow of Cauvery water into Tamil Nadu from Karnataka. The significant deficit highlights the severe water stress faced by the state, further intensifying the inter-state water dispute.",
+      "examRelevance": "Tamil Nadu received 0.698 tmcft of Cauvery water in July, a 50-year low.",
+      "tags": [
+        "Cauvery Water",
+        "Tamil Nadu",
+        "Water shortage",
+        "Biligundulu",
+        "50-year low"
+      ],
+      "source": {
+        "title": "Cauvery water received by T.N. in July hits 50-year low",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/cauvery-water-received-by-tn-in-july-hits-50-year-low/article71302066.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q11",
+      "question": "The 25th anniversary of a tragic event was recently observed, where five DMK members were killed in a police firing. This incident occurred on August 12, 2001, at which prominent location in Chennai?",
+      "options": [
+        "Anna Salai",
+        "Marina Beach",
+        "Guindy",
+        "T Nagar"
+      ],
+      "answerIndex": 1,
+      "category": "Dates & Days",
+      "explanation": "The 25th anniversary of a police firing incident at Marina in Chennai was recently observed. On August 12, 2001, a rally organized by the DMK in Chennai turned deadly when police opened fire on the crowd, resulting in the deaths of five party members.",
+      "background": "This incident remains a significant and controversial event in Tamil Nadu's political history, highlighting periods of intense political rivalry and law enforcement actions during protests.",
+      "examRelevance": "August 12, 2001, marks 25 years since police firing at Marina, Chennai, killed five DMK members.",
+      "tags": [
+        "DMK",
+        "Marina",
+        "Chennai",
+        "Police Firing",
+        "August 12, 2001"
+      ],
+      "source": {
+        "title": "When five DMK men were killed in a police firing at the Marina 25 years ago",
+        "url": "https://www.thehindu.com/news/cities/chennai/when-five-dmk-men-were-killed-in-a-police-firing-at-the-marina-25-years-ago/article71334143.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q12",
+      "question": "The ISM 2.0 initiative is set to offer a significant capital subsidy and a five-year Production Linked Incentive (PLI) for the chip ecosystem. What percentage of capital subsidy will be provided under ISM 2.0?",
+      "options": [
+        "50%",
+        "30%",
+        "25%",
+        "40%"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The ISM 2.0 initiative is designed to bolster India's semiconductor manufacturing capabilities by offering a 30% capital subsidy. Additionally, it will provide a five-year Production Linked Incentive (PLI) scheme to support the entire chip ecosystem.",
+      "background": "India Semiconductor Mission (ISM) is a specialized and independent business division within the Digital India Corporation, established to drive India's long-term strategy for developing a sustainable semiconductor and display ecosystem. ISM 2.0 is an enhanced version of this mission.",
+      "examRelevance": "ISM 2.0 offers a 30% capital subsidy and five-year PLI for the chip ecosystem.",
+      "tags": [
+        "ISM 2.0",
+        "Semiconductor",
+        "Capital subsidy",
+        "PLI",
+        "Chip ecosystem",
+        "Science & Tech"
+      ],
+      "source": {
+        "title": "ISM 2.0 will offer 30% capital subsidy, five-year PLI",
+        "url": "https://economictimes.indiatimes.com/tech/technology/ism-2-0-will-offer-30-capital-subsidy-five-year-pli-for-chip-ecosystem/articleshow/133162077.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q13",
+      "question": "Accel, a prominent venture capital firm, recently announced raising a substantial amount for its India fund, maintaining an early-stage focus as AI reshapes deal flow. What was the amount raised for this India fund?",
+      "options": [
+        "$600 million",
+        "$550 million",
+        "$750 million",
+        "$400 million"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Accel has successfully raised $550 million for its India fund. The firm intends to maintain its early-stage investment focus, adapting to the evolving deal flow influenced by advancements in artificial intelligence.",
+      "background": "Accel is a global venture capital firm that has been a significant investor in the Indian startup ecosystem, backing companies across various sectors, particularly in early-stage funding rounds. This new fund underscores its continued commitment to the Indian market.",
+      "examRelevance": "Accel raised $550 million for its India fund.",
+      "tags": [
+        "Accel",
+        "Venture Capital",
+        "India fund",
+        "Startup",
+        "Economy"
+      ],
+      "source": {
+        "title": "Accel raises $550 million for India",
+        "url": "https://economictimes.indiatimes.com/tech/startups/accel-raises-550-million-for-india-keeps-early-stage-focus-as-ai-reshapes-deal-flow/articleshow/133161666.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q14",
+      "question": "According to recent reports, what was the total inflow into mutual fund Systematic Investment Plans (SIPs) in July, indicating continued steady growth from the previous month?",
+      "options": [
+        "₹31,961 crore",
+        "₹24,697 crore",
+        "₹28,973 crore",
+        "₹1.88 lakh crore"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "In July, mutual fund Systematic Investment Plans (SIPs) recorded a steady inflow of ₹31,961 crore. This figure slightly increased from the ₹31,781 crore recorded in June, indicating consistent investor confidence in SIPs.",
+      "background": "SIPs are a popular investment method for retail investors in India, allowing them to invest a fixed amount regularly in mutual funds. Their consistent growth often reflects broader investor sentiment and financial discipline.",
+      "examRelevance": "Mutual fund SIP inflows in July were ₹31,961 crore.",
+      "tags": [
+        "Mutual Funds",
+        "SIP",
+        "Equity",
+        "Debt Funds",
+        "Economy",
+        "Investment"
+      ],
+      "source": {
+        "title": "Equity MF bets lose some zip, seasonal debt flow lifts AUM",
+        "url": "https://economictimes.indiatimes.com/mf/analysis/equity-mf-bets-lose-some-zip-seasonal-debt-flow-lifts-aum/articleshow/133167381.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q15",
+      "question": "According to data compiled by Nuvama Alternative & Quantitative Research, what is the estimated worth of shares that are set to be unlocked on D-Street between August 12 and September-end, due to the expiry of post-IPO lock-in periods?",
+      "options": [
+        "$5.2 billion",
+        "$9.1 billion",
+        "$7.6 billion",
+        "$10.5 billion"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Shares of at least 45 recently listed companies, worth approximately $7.6 billion, are set to become eligible for trading between August 12 and September-end. This is due to the expiry of their post-IPO lock-in periods, potentially adding to the supply of shares on the market.",
+      "background": "IPO lock-in periods restrict promoters, anchor investors, and other pre-IPO shareholders from selling their holdings for a certain duration after a company's initial public offering. The expiry of these periods can lead to increased liquidity and potential price volatility in the market.",
+      "examRelevance": "Shares worth $7.6 billion are set to be unlocked on D-Street between August 12 and September-end due to IPO lock-in expiry.",
+      "tags": [
+        "IPO",
+        "Lock-in expiry",
+        "D-Street",
+        "Share market",
+        "Economy",
+        "Nuvama Research"
+      ],
+      "source": {
+        "title": "IPO lock-in expiry could bring shares worth $7.6 billion to D-Street",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-lock-in-expiry-could-bring-7-6-billion-of-shares-to-d-street/articleshow/133167350.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q16",
+      "question": "The Enforcement Directorate (ED) recently arrested Mr. Bijnoriya in connection with the Nexa Evergreen money laundering case. He is accused of being one of the principal architects and operators of which group?",
+      "options": [
+        "Rose Valley Group",
+        "Nexa Evergreen Group",
+        "Sahara Group",
+        "Saradha Group"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Enforcement Directorate (ED) recently arrested Mr. Bijnoriya, one of the principal architects and operators of the Nexa Evergreen Group, in the Nexa Evergreen money laundering case. He is accused of carrying out fraudulent operations along with another partner in the firm.",
+      "background": "Money laundering cases involve concealing the origins of illegally obtained money, typically by passing it through a complex sequence of banking transfers or commercial transactions. The ED is India's primary agency for investigating economic crimes.",
+      "examRelevance": "ED arrested Bijnoriya, a principal operator of Nexa Evergreen Group, in a money laundering case.",
+      "tags": [
+        "ED",
+        "Bijnoriya",
+        "Nexa Evergreen",
+        "Money Laundering",
+        "Arrest"
+      ],
+      "source": {
+        "title": "ED arrests Bijnoriya in Nexa Evergreen money laundering case",
+        "url": "https://www.thehindu.com/news/national/rajasthan/ed-arrests-bijnoriya-in-nexa-evergreen-money-laundering-case/article71332893.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q17",
+      "question": "The Chandigarh administration recently sought the Vice-President’s help to halt the auction of heritage furniture belonging to which Indian university, listed for sale by a Chicago-based auction house?",
+      "options": [
+        "Jawaharlal Nehru University",
+        "Delhi University",
+        "Panjab University",
+        "Aligarh Muslim University"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "The Chandigarh administration has appealed to the Vice-President to intervene and halt the auction of heritage furniture from Panjab University. A Chicago-based auction house has listed these items for sale, including student residence chairs of PU with an estimated price of $12,000-$15,000.",
+      "background": "Panjab University has a rich architectural and design heritage, with many of its buildings and furniture designed by renowned architects like Le Corbusier. Such heritage items often become targets for international auctions, leading to efforts for their repatriation.",
+      "examRelevance": "Panjab University heritage furniture is listed for auction in a Chicago-based auction house, prompting intervention.",
+      "tags": [
+        "Panjab University",
+        "Chandigarh",
+        "Heritage furniture",
+        "Auction",
+        "U.S.",
+        "Vice President"
+      ],
+      "source": {
+        "title": "Chandigarh body seeks Vice-Presidents’ help to halt auction of Panjab University heritage furniture in U.S.",
+        "url": "https://www.thehindu.com/news/national/chandigarh/chandigarh-body-seeks-vice-presidents-help-to-halt-auction-of-panjab-university-heritage-furniture-in-us/article71332624.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q18",
+      "question": "Following reports of snake bite deaths, the Chief Minister of which state recently ordered the cancellation of the license of a tribal residential school and the suspension of the inspecting official?",
+      "options": [
+        "Jharkhand",
+        "Maharashtra",
+        "Chhattisgarh",
+        "Odisha"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Maharashtra Chief Minister Fadnavis recently ordered the cancellation of the license of a tribal residential school in the state, following tragic snake bite deaths. He also mandated the suspension of the official who had previously inspected the school and submitted a report.",
+      "background": "Tribal residential schools, often located in remote areas, cater to the educational needs of tribal children. Ensuring their safety and proper infrastructure is crucial, and incidents like snake bite deaths highlight critical oversight failures.",
+      "examRelevance": "Maharashtra CM Fadnavis ordered cancellation of a tribal residential school's license due to snake bite deaths.",
+      "tags": [
+        "Maharashtra",
+        "Fadnavis",
+        "Tribal school",
+        "Snake bite",
+        "School license"
+      ],
+      "source": {
+        "title": "Maharashtra snake bite deaths: Fadnavis orders cancellation of licence of tribal residential school",
+        "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-snake-bite-deaths-fadnavis-orders-cancellation-of-licence-of-tribal-residential-school/article71333583.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q19",
+      "question": "Ahead of Independence Day, an anti-militancy operation was recently initiated in which sector of Poonch, Jammu and Kashmir, after suspected movement was spotted near an under-construction tunnel?",
+      "options": [
+        "Shahpur Sector",
+        "Balakote Sector",
+        "Krishna Ghati Sector",
+        "Mendhar Sector"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "An anti-militancy operation was recently launched in Poonch’s Mendhar Sector in Jammu and Kashmir, ahead of Independence Day. This operation was initiated after a security guard spotted suspected movement near an under-construction tunnel, connecting the Pir Panjal valley with Kashmir.",
+      "background": "Jammu and Kashmir frequently experiences anti-terror operations, especially around significant national events like Independence Day, due to persistent security challenges and cross-border infiltration attempts. Poonch is a sensitive border district.",
+      "examRelevance": "Anti-militancy operation launched in Poonch’s Mendhar Sector, J&K, ahead of Independence Day.",
+      "tags": [
+        "J&K",
+        "Poonch",
+        "Mendhar Sector",
+        "Anti-militancy",
+        "Independence Day",
+        "Defence"
+      ],
+      "source": {
+        "title": "Security stepped up, anti-terror ops launched ahead of Independence Day in J&K",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/security-stepped-up-anti-terror-ops-launched-ahead-of-independence-day-in-jk/article71333476.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q20",
+      "question": "Amidst significant backlash and demands for its withdrawal, to which parliamentary committee is the Centre likely to refer the Foreign Contribution (Regulation) Act (FCRA) Bill?",
+      "options": [
+        "Estimates Committee",
+        "Standing Committee on Home Affairs",
+        "Joint Parliamentary Committee (JPC)",
+        "Select Committee"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Centre is likely to move a resolution in the Lok Sabha to refer the Foreign Contribution (Regulation) Act (FCRA) Bill to a Joint Parliamentary Committee (JPC). This decision comes amidst widespread backlash, including a resolution from the Tamil Nadu Assembly urging its withdrawal and a mass rally by Mizoram Christians.",
+      "background": "A Joint Parliamentary Committee (JPC) is an ad-hoc committee formed to investigate a particular matter or bill. Referring a bill to a JPC allows for detailed scrutiny, public input, and consensus-building among different political parties.",
+      "examRelevance": "Centre likely to refer FCRA Bill to Joint Parliamentary Committee (JPC).",
+      "tags": [
+        "FCRA Bill",
+        "JPC",
+        "Parliament",
+        "Legislation",
+        "Polity & Governance"
+      ],
+      "source": {
+        "title": "Amid backlash, Centre set to refer FCRA Bill to JPC",
+        "url": "https://www.thehindu.com/news/national/centre-likely-to-send-fcra-amendment-bill-to-jpc-amid-opposition-demand-for-withdrawal/article71333056.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q21",
+      "question": "Which international space agency recently extended an official invitation to the Indian Space Research Organisation (ISRO) to collaborate on its ambitious Moon Base programme?",
+      "options": [
+        "NASA",
+        "Roscosmos",
+        "JAXA",
+        "ESA"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "NASA has officially invited the Indian Space Research Organisation (ISRO) to collaborate on its ambitious Moon Base programme. This invitation was announced during the recent ninth meeting of the India-U.S. Civil Space Joint Working Group, held in Bengaluru.",
+      "background": "The Moon Base programme aims to establish a sustained human presence on the lunar surface, paving the way for future deep-space exploration. Collaboration with ISRO signifies growing international cooperation in space exploration.",
+      "examRelevance": "NASA invited ISRO to join its Moon Base programme.",
+      "tags": [
+        "NASA",
+        "ISRO",
+        "Moon Base programme",
+        "Space collaboration",
+        "Science & Tech",
+        "India-U.S."
+      ],
+      "source": {
+        "title": "NASA invites ISRO to join Moon Base programme",
+        "url": "https://www.thehindu.com/sci-tech/science/nasa-invites-isro-to-join-moon-base-programme/article71332292.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q22",
+      "question": "President Droupadi Murmu recently gave her assent to a Bill that criminalizes the insult to which national symbol, expanding upon existing legislation that prohibits insults to the national anthem?",
+      "options": [
+        "National Flower",
+        "Vande Mataram",
+        "National Emblem",
+        "National Pledge"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "President Droupadi Murmu has given her assent to a Bill that criminalizes the insult to 'Vande Mataram'. This new legislation builds upon the Prevention of Insults to National Honour Act, which previously prohibited intentionally preventing the singing of the national anthem or causing disturbance to its singing.",
+      "background": "'Vande Mataram' is India's national song, a patriotic poem written by Bankim Chandra Chattopadhyay. This legislative step aims to further protect and uphold the respect associated with national symbols.",
+      "examRelevance": "President Murmu assented to a Bill criminalizing insult to Vande Mataram.",
+      "tags": [
+        "President Murmu",
+        "Vande Mataram",
+        "National Honour Act",
+        "Legislation",
+        "Polity & Governance"
+      ],
+      "source": {
+        "title": "President Murmu gives assent to Bill criminalising insult to Vande Mataram",
+        "url": "https://www.thehindu.com/news/national/president-murmu-gives-assent-to-bill-criminalising-insult-to-vande-mataram/article71332000.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q23",
+      "question": "A task force, headed by the Secretary, Social Justice and Empowerment, recently suggested amendments to the Rules framed under which Act to provide enhanced relief and counselling for victims, including the establishment of relief and rehabilitation cells?",
+      "options": [
+        "Juvenile Justice Act",
+        "SC/ST Act",
+        "Rights of Persons with Disabilities Act",
+        "Protection of Civil Rights Act"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "A task force, led by the Secretary, Social Justice and Empowerment, has proposed amendments to the Rules framed under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act. These recommendations aim to enhance relief and counselling provisions for SC/ST victims and include the establishment of dedicated relief and rehabilitation cells.",
+      "background": "The SC/ST (Prevention of Atrocities) Act, 1989, is a crucial legislation enacted to prevent atrocities against members of Scheduled Castes and Scheduled Tribes and to provide for special courts for the trial of such offences and for the relief and rehabilitation of victims.",
+      "examRelevance": "Task force suggests amendments to SC/ST Act rules for enhanced victim relief and counselling.",
+      "tags": [
+        "SC/ST Act",
+        "Social Justice",
+        "Empowerment",
+        "Task Force",
+        "Amendments",
+        "Victim relief"
+      ],
+      "source": {
+        "title": "Panel seeks enhanced relief, counselling for SC/ST victims",
+        "url": "https://www.thehindu.com/news/national/panel-seeks-enhanced-relief-counselling-for-scst-victims/article71332779.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q24",
+      "question": "The count of Samastha madrasas recently increased, with new recognitions in locations such as Bengaluru, Kasaragod, Malappuram, Palakkad, Dindigul, and Tirunelveli. What is the new total number of Samastha madrasas?",
+      "options": [
+        "9,999",
+        "12,050",
+        "11,134",
+        "10,876"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "The total count of Samastha madrasas has increased to 11,134. This rise follows the recognition of new madrasas in various locations, including Bengaluru, Kasaragod, Malappuram, Palakkad, Dindigul, and Tirunelveli.",
+      "background": "Samastha Kerala Jem-iyyathul Ulama is a prominent Sunni Muslim scholarly body in Kerala, India, that oversees a vast network of madrasas, providing religious and secular education.",
+      "examRelevance": "Samastha madrasa count rises to 11,134 after new recognitions.",
+      "tags": [
+        "Samastha",
+        "Madrasa",
+        "Education",
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "source": {
+        "title": "Samastha madrasa count rises to 11,134",
+        "url": "https://www.thehindu.com/news/national/kerala/samastha-madrasa-count-rises-to-11134/article71332180.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q25",
+      "question": "On Day 2 of the U-23 Commonwealth Fencing, Indian fencers significantly increased their medal tally. How many additional medals did they secure, comprising one gold, two silver, and four bronze?",
+      "options": [
+        "Eight",
+        "Six",
+        "Five",
+        "Seven"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Indian fencers added a total of seven more medals on Day 2 of the U-23 Commonwealth Fencing. These medals included one gold, two silver, and four bronze, won across senior individual events in women’s Sabre, women’s Epee, and men’s Foil.",
+      "background": "The Commonwealth Fencing Championship is a major international competition for fencers from Commonwealth nations. The U-23 category provides a platform for young athletes to showcase their talent and gain international exposure.",
+      "examRelevance": "Indian fencers won 7 medals (1 gold, 2 silver, 4 bronze) on Day 2 of U-23 Commonwealth Fencing.",
+      "tags": [
+        "Fencing",
+        "Commonwealth Fencing",
+        "India",
+        "Medals",
+        "Sports"
+      ],
+      "source": {
+        "title": "Indian fencers add seven more medals on Day 2 of U-23 Commonwealth Fencing",
+        "url": "https://www.thehindu.com/sport/indian-fencers-add-seven-more-medals-on-day-2-of-u-23-commonwealth-fencing/article71333981.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q26",
+      "question": "Pune is set to host the upcoming Junior Women’s National Hockey Championship, featuring 30 competing teams across Divisions A, B, and C. Which edition of this championship will be held in Pune?",
+      "options": [
+        "17th",
+        "16th",
+        "15th",
+        "18th"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "The 16th edition of the Junior Women’s National Hockey Championship will be held in Pune. This championship will feature 30 teams competing across Division ‘A’, Division ‘B’, and Division ‘C’, providing a structured pathway for teams to progress through the national system.",
+      "background": "National hockey championships are vital for identifying and nurturing young talent in India, feeding into the national teams. Hosting such events in different cities promotes the sport regionally.",
+      "examRelevance": "Pune to host the 16th Junior Women’s National Hockey Championship.",
+      "tags": [
+        "Hockey",
+        "Junior Women's National",
+        "Pune",
+        "Sports",
+        "Championship"
+      ],
+      "source": {
+        "title": "30 teams to compete in 16th Junior Women’s National Hockey in Pune",
+        "url": "https://www.thehindu.com/sport/hockey/30-teams-to-compete-in-16th-junior-womens-national-hockey-in-pune/article71333973.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q27",
+      "question": "The Tamil Nadu government recently allocated a significant amount for the Member of Legislative Assembly Constituency Development Scheme (MLACDS). What is the total amount, in crores, sanctioned for this scheme?",
+      "options": [
+        "₹680.10 crore",
+        "₹915.60 crore",
+        "₹750.25 crore",
+        "₹828.36 crore"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Tamil Nadu government has allocated ₹828.36 crore for the Member of Legislative Assembly Constituency Development Scheme (MLACDS). This amount will be used to implement a select list of works across all 234 Assembly segments, with each segment receiving ₹3.54 crore.",
+      "background": "Constituency Development Schemes empower elected representatives to address local infrastructure and development needs. Such allocations are crucial for grassroots development and responsive governance.",
+      "examRelevance": "Tamil Nadu government allocated ₹828.36 crore for MLACDS, ₹3.54 crore per Assembly segment.",
+      "tags": [
+        "Tamil Nadu",
+        "MLACDS",
+        "Scheme",
+        "Allocation",
+        "Legislative Assembly",
+        "Development"
+      ],
+      "source": {
+        "title": "T.N. govt. allocates ₹828.36 crore for MLACDS",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-allocates-82836-crore-for-mlacds/article71333524.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q28",
+      "question": "Which cricket team recently secured a direct berth for the 2027 World Cup after their win in Belfast, joining other teams like Australia, India, and England?",
+      "options": [
+        "Scotland",
+        "Afghanistan",
+        "Ireland",
+        "Netherlands"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Afghanistan sealed a direct berth for the 2027 World Cup following their win in Belfast. This ensures they will finish among the qualifying teams, joining Australia, India, New Zealand, Pakistan, Sri Lanka, England, and Bangladesh.",
+      "background": "The ICC Cricket World Cup is the pinnacle of One Day International (ODI) cricket. Direct qualification is crucial for teams, as it avoids the rigorous and often unpredictable qualifying tournaments. West Indies, a former champion, will have to go through qualifiers again.",
+      "examRelevance": "Afghanistan sealed a direct berth for the 2027 Cricket World Cup.",
+      "tags": [
+        "Afghanistan",
+        "Cricket World Cup 2027",
+        "Direct Qualification",
+        "Sports"
+      ],
+      "source": {
+        "title": "Afghanistan seal 2027 World Cup berth, West Indies to go through qualifiers again",
+        "url": "https://www.thehindu.com/sport/cricket/afghanistan-seal-2027-world-cup-berth-west-indies-to-go-through-qualifiers-again/article71333967.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q29",
+      "question": "The works of which renowned archaeologist, published by the Tamil Arts Academy, will now be made available under open access? He was also the first Director of the Department of Archaeology in Tamil Nadu and received the Padma Bhushan in 2018.",
+      "options": [
+        "K.V. Raman",
+        "T. Satyamurthy",
+        "R. Nagaswamy",
+        "S. Rajavelu"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "The works of archaeologist R. Nagaswamy, published by the Tamil Arts Academy, are now set to be available under open access. Nagaswamy, who received the Padma Bhushan in 2018 for his immense contribution to archaeology and epigraphy, was the first Director of the Department of Archaeology in Tamil Nadu.",
+      "background": "Open access initiatives make academic research and publications freely available online, increasing their reach and impact. R. Nagaswamy was a towering figure in South Indian archaeology, known for his extensive work on temple architecture, inscriptions, and art history.",
+      "examRelevance": "Archaeologist R. Nagaswamy's works (published by Tamil Arts Academy) to be open access.",
+      "tags": [
+        "R. Nagaswamy",
+        "Archaeology",
+        "Tamil Arts Academy",
+        "Open Access",
+        "Padma Bhushan",
+        "Tamil Nadu"
+      ],
+      "source": {
+        "title": "Archaeologist R. Nagaswamy’s works published by Tamil Arts Academy to be available under open access",
+        "url": "https://www.thehindu.com/news/cities/chennai/archaeologist-r-nagaswamys-works-published-by-tamil-arts-academy-to-be-available-under-open-access/article71333338.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-12-q30",
+      "question": "Indigenous drones and unmanned systems are set to be showcased by the defence industry and the Indian Air Force at a significant event. In which location will this showcase take place?",
+      "options": [
+        "Bengaluru",
+        "Visakhapatnam",
+        "Pokhran",
+        "Chandipur"
+      ],
+      "answerIndex": 2,
+      "category": "Defence",
+      "explanation": "The Indian defence industry and the Indian Air Force will showcase indigenous drones and unmanned systems at an event in Pokhran. This initiative highlights India's growing capabilities in advanced defence technologies and self-reliance in unmanned aerial vehicles.",
+      "background": "Pokhran in Rajasthan is historically significant as India's nuclear test site. It is also a key testing and demonstration ground for various defence systems and technologies. Showcasing indigenous capabilities aligns with the 'Make in India' and 'Atmanirbhar Bharat' initiatives in the defence sector.",
+      "examRelevance": "Indigenous drones and unmanned systems to be showcased at Pokhran.",
+      "tags": [
+        "Drones",
+        "Unmanned Systems",
+        "Pokhran",
+        "Defence",
+        "Indian Air Force",
+        "Indigenous"
+      ],
+      "source": {
+        "title": "Indigenous drones to be showcased at Pokhran event",
+        "url": "https://economictimes.indiatimes.com/news/defence/defence-industry-to-showcase-indigenous-unmanned-systems-at-pokhran-event-indian-air-force/articleshow/133164825.cms"
+      }
+    }
+  ]
+}
