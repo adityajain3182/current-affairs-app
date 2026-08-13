@@ -1,0 +1,781 @@
+{
+  "id": "daily-2026-08-13",
+  "type": "daily",
+  "date": "2026-08-13",
+  "title": "Current Affairs — 13 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-13-q1",
+      "question": "Who has been appointed as the Netherlands national football team's first foreign-born coach since 1978?",
+      "options": [
+        "Louis van Gaal",
+        "Frank de Boer",
+        "Xavi Hernandez",
+        "Ronald Koeman"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Spain great Xavi Hernandez has been hired as the Netherlands coach, becoming the first foreign-born leader of the national team in nearly 50 years. This marks a significant shift in the coaching tradition for the Dutch national team.",
+      "background": "The Netherlands national football team has historically preferred domestic coaches. Xavi Hernandez is a legendary Spanish midfielder known for his illustrious playing career with Barcelona and the Spanish national team, and his recent coaching stints.",
+      "examRelevance": "Xavi Hernandez appointed as Netherlands national football team coach.",
+      "tags": [
+        "Xavi Hernandez",
+        "Netherlands",
+        "Football",
+        "Coach"
+      ],
+      "source": {
+        "title": "Netherlands hires Spain great Xavi Hernandez as first foreign-born coach since 1978",
+        "url": "https://www.thehindu.com/sport/football/netherlands-hires-spain-great-xavi-hernandez-as-first-foreign-born-coach-since-1978/article71339352.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q2",
+      "question": "Who is set to leave her role as White House press secretary at the end of the month, as announced by U.S. President Donald Trump?",
+      "options": [
+        "Jen Psaki",
+        "Karoline Leavitt",
+        "Sarah Huckabee Sanders",
+        "Kayleigh McEnany"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "U.S. President Donald Trump announced that White House press secretary Karoline Leavitt will be leaving the administration at the end of the month. She is stepping down to spend time with her young family.",
+      "background": "Karoline Leavitt was noted as the youngest person to hold the role of White House press secretary. The position is a high-profile one, serving as the primary spokesperson for the U.S. President and the executive branch.",
+      "examRelevance": "Karoline Leavitt to leave role as White House press secretary.",
+      "tags": [
+        "Karoline Leavitt",
+        "White House",
+        "Press Secretary",
+        "Donald Trump"
+      ],
+      "source": {
+        "title": "White House press secretary Karoline Leavitt, youngest person to hold role, to leave at month’s end",
+        "url": "https://www.thehindu.com/news/international/karoline-leavitt-whjte-house-press-secretary-to-step-down-usa-donald-trump/article71338380.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q3",
+      "question": "Who has replaced Lowdon as the Cadillac F1 team principal?",
+      "options": [
+        "Andreas Seidl",
+        "Otmar Szafnauer",
+        "Frederic Vasseur",
+        "Adam Budkowski"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Adam Budkowski, a 49-year-old Polish-French engineer, has replaced Lowdon as the Cadillac F1 team principal. Budkowski has previously held significant positions at various Formula 1 teams, including Ferrari and McLaren, as well as with the governing body FIA.",
+      "background": "Team principal roles in Formula 1 are crucial for managing the team's operations, strategy, and development. Cadillac's entry into Formula 1 is a relatively new development, and this appointment is part of building its leadership structure.",
+      "examRelevance": "Adam Budkowski appointed as Cadillac F1 team principal.",
+      "tags": [
+        "Adam Budkowski",
+        "Cadillac F1",
+        "Team Principal",
+        "Motorsport"
+      ],
+      "source": {
+        "title": "Budkowski replaces Lowdon as Cadillac F1 team principal",
+        "url": "https://www.thehindu.com/sport/motorsport/budkowski-replaces-lowdon-as-cadillac-f1-team-principal/article71338341.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q4",
+      "question": "Which national event's reception at Rashtrapati Bhavan will showcase India's cultural heritage with folk dances and musical traditions from four states?",
+      "options": [
+        "Republic Day",
+        "Diwali",
+        "Gandhi Jayanti",
+        "Independence Day"
+      ],
+      "answerIndex": 3,
+      "category": "Dates & Days",
+      "explanation": "For the upcoming Independence Day Reception ('At Home'), Rashtrapati Bhavan is set to showcase the country’s rich cultural heritage. Around 35 artists from Chhattisgarh, Goa, Madhya Pradesh, and Maharashtra will present folk dances and musical traditions, including Maharashtra’s Lavani and Songhi Mukhawate.",
+      "background": "The 'At Home' reception at Rashtrapati Bhavan is a traditional event held on Independence Day, hosted by the President of India. It typically features cultural performances and is attended by dignitaries, officials, and invited guests, reflecting the nation's diversity and achievements.",
+      "examRelevance": "Independence Day Reception at Rashtrapati Bhavan to showcase cultural heritage.",
+      "tags": [
+        "Independence Day",
+        "Rashtrapati Bhavan",
+        "Cultural Heritage",
+        "Folk Dances"
+      ],
+      "source": {
+        "title": "For Independence Day Reception (At Home), Rashtrapati Bhavan to showcase country’s cultural heritage",
+        "url": "https://www.thehindu.com/news/national/for-i-day-reception-at-home-at-rashtrapati-bhavan-to-showcase-countrys-cultural-heritage/article71335842.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q5",
+      "question": "Which football club recently retained the UEFA Super Cup with a 2-1 win over Aston Villa?",
+      "options": [
+        "Bayern Munich",
+        "PSG",
+        "Real Madrid",
+        "Manchester City"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "PSG successfully retained the UEFA Super Cup by defeating Aston Villa with a score of 2-1. This victory places PSG alongside AC Milan and Real Madrid as the only teams to have retained this prestigious trophy. Luis Enrique, PSG's coach, won his 13th trophy since joining the club in 2023.",
+      "background": "The UEFA Super Cup is an annual football match organized by UEFA, contested by the winners of the UEFA Champions League and the UEFA Europa League. Retaining the trophy is a rare feat, highlighting PSG's consistent performance in European club football.",
+      "examRelevance": "PSG retained the UEFA Super Cup, defeating Aston Villa 2-1.",
+      "tags": [
+        "PSG",
+        "UEFA Super Cup",
+        "Aston Villa",
+        "Football"
+      ],
+      "source": {
+        "title": "PSG retain UEFA Super Cup with 2-1 win over Aston Villa",
+        "url": "https://www.thehindu.com/sport/football/psg-retain-uefa-super-cup-with-2-1-win-over-aston-villa/article71339332.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q6",
+      "question": "Chelsea Football Club recently signed defender Chavarria on a five-year contract from which club?",
+      "options": [
+        "Barcelona",
+        "Atletico Madrid",
+        "Rayo Vallecano",
+        "Real Madrid"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Chelsea Football Club has signed defender Chavarria from Rayo Vallecano on a five-year contract. While financial details were not officially disclosed, British media reported that Chelsea paid an initial £16.3 million, with an additional £1.7 million in add-ons, for the 28-year-old player.",
+      "background": "Chelsea is a prominent English Premier League club known for significant transfers in the international football market. Rayo Vallecano is a Spanish football club. Major transfers like this are common during transfer windows as clubs aim to strengthen their squads.",
+      "examRelevance": "Chelsea signed defender Chavarria from Rayo Vallecano.",
+      "tags": [
+        "Chelsea",
+        "Chavarria",
+        "Rayo Vallecano",
+        "Football Transfer"
+      ],
+      "source": {
+        "title": "Chelsea sign defender Chavarria from Rayo Vallecano on five-year contract",
+        "url": "https://www.thehindu.com/sport/football/chelsea-sign-defender-chavarria-from-rayo-vallecano-on-five-year-contract/article71338358.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q7",
+      "question": "Indian Grandmaster Praggnanandhaa recently defeated which player in the Sinquefield Cup?",
+      "options": [
+        "Magnus Carlsen",
+        "Alireza Firouzja",
+        "Fabiano Caruana",
+        "Javokhir Sindarov"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Indian chess Grandmaster Praggnanandhaa emerged as the star of the day by defeating Javokhir Sindarov in the Sinquefield Cup. Praggnanandhaa secured his point inch-by-inch during the endgame, which arose from a queen pawn opening.",
+      "background": "The Sinquefield Cup is a prestigious annual chess tournament featuring some of the world's top players. Praggnanandhaa is a rising star in Indian chess, known for his aggressive and strategic play against established Grandmasters.",
+      "examRelevance": "Praggnanandhaa defeated Javokhir Sindarov in the Sinquefield Cup.",
+      "tags": [
+        "Praggnanandhaa",
+        "Javokhir Sindarov",
+        "Sinquefield Cup",
+        "Chess"
+      ],
+      "source": {
+        "title": "Praggnanandhaa beats Sindarov in Sinquefield Cup",
+        "url": "https://www.thehindu.com/sport/praggnanandhaa-beats-sindarov-in-sinquefield-cup/article71338357.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q8",
+      "question": "How many total medals (Gold, Silver, Bronze combined) has the Indian fencing team secured so far at the Commonwealth Championships?",
+      "options": [
+        "7",
+        "8",
+        "29",
+        "14"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "The Indian fencing team had a stellar day three performance at the Commonwealth Championships, securing five more medals. This brought the nation’s overall combined medal count to an extraordinary 29 medals, comprising 8 Gold, 7 Silver, and 14 Bronze.",
+      "background": "The Commonwealth Fencing Championships are a significant event for Commonwealth nations, providing a platform for fencers to compete internationally. India's strong performance highlights the growing talent and development in the sport within the country.",
+      "examRelevance": "Indian fencing team secured 29 total medals (8 Gold, 7 Silver, 14 Bronze) at Commonwealth Championships.",
+      "tags": [
+        "Indian Fencing Team",
+        "Commonwealth Championships",
+        "Medals",
+        "Sports"
+      ],
+      "source": {
+        "title": "Indian fencing team secures five more medals at Commonwealth championships",
+        "url": "https://www.thehindu.com/sport/indian-fencing-team-secures-five-more-medals-at-commonwealth-championships/article71338356.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q9",
+      "question": "Josh Kushner and Bob Iger have agreed to purchase which professional sports team for $12.5 billion?",
+      "options": [
+        "Boston Celtics",
+        "Golden State Warriors",
+        "Chicago Bulls",
+        "Los Angeles Lakers"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Josh Kushner and Bob Iger have agreed to a blockbuster deal to purchase the Los Angeles Lakers for $12.5 billion. This acquisition marks a significant change in ownership for one of the most iconic teams in professional sports.",
+      "background": "The Los Angeles Lakers were valued at $10 billion last year when Mark Walter purchased a controlling stake from the Buss family, who had owned the team since 1979. This new deal represents a record valuation for a professional sports team.",
+      "examRelevance": "Josh Kushner and Bob Iger to buy Los Angeles Lakers for $12.5 billion.",
+      "tags": [
+        "Josh Kushner",
+        "Bob Iger",
+        "Los Angeles Lakers",
+        "NBA",
+        "Sports Business"
+      ],
+      "source": {
+        "title": "A blockbuster $12.5B deal as Josh Kushner and Bob Iger agree to buy the Lakers, AP source says",
+        "url": "https://www.thehindu.com/sport/a-blockbuster-125b-deal-as-josh-kushner-and-bob-iger-agree-to-buy-the-lakers-ap-source-says/article71338336.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q10",
+      "question": "India's first 'private, branded' train will run as 'Sprite' Tejas Express after IRCTC awarded advertising rights to which company?",
+      "options": [
+        "PepsiCo",
+        "Thums Up",
+        "M/s Sprite",
+        "Coca-Cola"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "IRCTC has awarded train branding advertising rights to M/s Sprite for six months, leading to India’s first 'private, branded' train, which will run as the 'Sprite' Tejas Express. The branding will be announced at originating and en route stations on both sides of the journey.",
+      "background": "This initiative represents a new trend in railway advertising and revenue generation, allowing private brands to associate directly with specific train services. Tejas Express trains are known for their semi-high-speed and premium services.",
+      "examRelevance": "India's first private branded train is 'Sprite' Tejas Express.",
+      "tags": [
+        "Sprite Tejas Express",
+        "IRCTC",
+        "Train Branding",
+        "Advertising"
+      ],
+      "source": {
+        "title": "India’s first ‘private, branded’ train to run as ‘Sprite’ Tejas Express",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/indias-first-private-branded-train-to-run-as-sprite-tejas-express/article71337893.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q11",
+      "question": "According to SEBI Chairman Tuhin Kanta Pandey, what new mechanism has not shown any manipulation since its introduction?",
+      "options": [
+        "Initial Public Offerings (IPOs)",
+        "Algorithmic Trading",
+        "Futures and Options (F&O)",
+        "Closing Auction Sessions (CAS)"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "SEBI Chairman Tuhin Kanta Pandey stated that the Securities and Exchange Board of India (SEBI) has not observed any manipulation in the newly introduced closing auction sessions (CAS). He attributed the recent divergence in two major indices to circumspect trader participation in the initial days of the new system and indicated that SEBI is considering inputs to increase participation.",
+      "background": "The Closing Auction Session is a mechanism designed to determine closing prices of securities, aiming for greater fairness and transparency. Any new market mechanism typically undergoes scrutiny to ensure its integrity and effectiveness in preventing manipulation.",
+      "examRelevance": "SEBI Chairman Tuhin Kanta Pandey confirmed no manipulation in Closing Auction Sessions (CAS).",
+      "tags": [
+        "SEBI",
+        "Closing Auction Sessions",
+        "CAS",
+        "Stock Market",
+        "Tuhin Kanta Pandey"
+      ],
+      "source": {
+        "title": "Sebi sees no CAS manipulation, eyes more participation",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-sees-no-cas-manipulation-eyes-more-participation/articleshow/133195469.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q12",
+      "question": "What was the Q1 net profit reported by Tata Motors, representing an 83% surge?",
+      "options": [
+        "₹2,556 crore",
+        "₹1,396 crore",
+        "₹3,100 crore",
+        "₹1,875 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Tata Motors reported a Q1 net profit of ₹2,556 crore, marking a significant 83% surge. During the same quarter, the company's revenue from operations grew by 19% to ₹20,667 crore, and vehicle sales increased by 26% to 1,08,700 units.",
+      "background": "Tata Motors is a leading Indian automotive manufacturer. Quarterly financial results provide key indicators of a company's performance, reflecting sales, revenue, and profitability, which are closely watched by investors and market analysts.",
+      "examRelevance": "Tata Motors Q1 net profit surged 83% to ₹2,556 crore.",
+      "tags": [
+        "Tata Motors",
+        "Q1 Results",
+        "Net Profit",
+        "Automotive"
+      ],
+      "source": {
+        "title": "Tata Motors Q1 net profit surges 83% to ₹2,556 crore",
+        "url": "https://www.thehindu.com/business/Industry/tata-motors-q1-net-profit-surges-83-to-2556-crore/article71337591.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q13",
+      "question": "The Adani Group briefed Andhra Pradesh CM Naidu about a proposed titanium plant in which district?",
+      "options": [
+        "Guntur",
+        "Visakhapatnam",
+        "Nellore",
+        "Srikakulam"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Adani Group briefed Andhra Pradesh Chief Minister Naidu about their proposal for a titanium plant in the Srikakulam district. This plant is expected to involve a substantial investment of ₹16,000 crore, aligning with the CM's call for value addition to beach sand minerals.",
+      "background": "Andhra Pradesh has significant reserves of beach sand minerals, which are valuable for industries like titanium production. Such large-scale industrial projects are crucial for regional economic development and job creation, often requiring state government support and clearances.",
+      "examRelevance": "Adani Group proposed titanium plant in Srikakulam district (AP) with ₹16,000 crore investment.",
+      "tags": [
+        "Adani Group",
+        "Titanium Plant",
+        "Srikakulam",
+        "Andhra Pradesh",
+        "Investment"
+      ],
+      "source": {
+        "title": "A.P. CM Naidu calls for value addition to beach sand minerals",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-cm-naidu-calls-for-value-addition-to-beach-sand-minerals/article71336988.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q14",
+      "question": "The Delhi High Court recently sought clarity from Meta regarding its policy on access to which copyright-protection mechanism?",
+      "options": [
+        "Content ID",
+        "Brand Rights Protection",
+        "Rights Manager",
+        "Copyright Match Tool"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "The Delhi High Court recently sought clarity from Meta regarding its policy on access to 'Rights Manager', a copyright-protection mechanism. This direction came after concerns were raised that fraudulent actors have allegedly exploited the platform’s copyright-protection mechanism to target original content.",
+      "background": "Rights Manager is a tool provided by Meta (Facebook, Instagram) to help creators and rights holders protect their copyrighted content on its platforms. The misuse of such tools raises significant legal and ethical questions regarding content moderation and intellectual property rights in the digital age.",
+      "examRelevance": "Delhi High Court sought clarity from Meta on 'Rights Manager' policy.",
+      "tags": [
+        "Delhi High Court",
+        "Meta",
+        "Rights Manager",
+        "Copyright Protection",
+        "Technology"
+      ],
+      "source": {
+        "title": "Delhi High Court seeks clarity over Meta’s policy on access to Rights Manager",
+        "url": "https://www.thehindu.com/sci-tech/technology/delhi-hc-seeks-clarity-over-metas-policy-on-access-to-rights-manager/article71337186.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q15",
+      "question": "Millions of people gathered in Iceland and northern Spain to witness Western Europe’s first total solar eclipse in how many years?",
+      "options": [
+        "50 years",
+        "10 years",
+        "100 years",
+        "27 years"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Millions of people in Iceland and northern Spain gathered to witness Western Europe’s first total solar eclipse in 27 years. This rare astronomical event drew significant public attention and was observed by many across the region.",
+      "background": "A total solar eclipse occurs when the Moon passes between the Sun and Earth, completely blocking the face of the Sun. Such events are infrequent in specific geographical regions and are often subjects of scientific study and public fascination.",
+      "examRelevance": "Western Europe's first total solar eclipse in 27 years was witnessed in Iceland and northern Spain.",
+      "tags": [
+        "Solar Eclipse",
+        "Iceland",
+        "Spain",
+        "Astronomy",
+        "Science"
+      ],
+      "source": {
+        "title": "Total darkness, then sunset as full eclipse wows spectators in Spain",
+        "url": "https://www.thehindu.com/news/international/millions-of-people-in-iceland-and-spain-set-for-event-of-the-century-eclipse/article71336848.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q16",
+      "question": "According to IT Secretary N. Manjula, what is an economic imperative for the government?",
+      "options": [
+        "Cybersecurity",
+        "Quantum Computing",
+        "Digital Literacy",
+        "Artificial Intelligence Development"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "IT Secretary N. Manjula stated that cybersecurity is an economic imperative for the government. She emphasized its critical role in the context of India's digital economy and national security.",
+      "background": "Cybersecurity has become a paramount concern for governments worldwide due to the increasing reliance on digital infrastructure and the rising threat of cyberattacks. Ensuring robust cybersecurity measures is essential for protecting critical data, maintaining economic stability, and fostering trust in digital services.",
+      "examRelevance": "IT Secretary N. Manjula stated cybersecurity is an economic imperative for the government.",
+      "tags": [
+        "Cybersecurity",
+        "N. Manjula",
+        "IT Secretary",
+        "Government Policy",
+        "Digital Economy"
+      ],
+      "source": {
+        "title": "Cybersecurity is an economic imperative for the government: IT Secretary N. Manjula",
+        "url": "https://www.thehindu.com/news/national/karnataka/cybersecurity-is-an-economic-imperative-for-the-government-it-secretary-n-manjula-no-pic-on-dcx/article71337692.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q17",
+      "question": "Morocco recently beefed up security at the borders of which two Spanish enclaves after online calls for new crossings?",
+      "options": [
+        "Ceuta and Melilla",
+        "Balearic Islands and Sardinia",
+        "Gibraltar and Tangier",
+        "Canary Islands and Azores"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Morocco recently beefed up security at the borders of the Spanish enclaves of Ceuta and Melilla. This action was taken following online calls for new attempts at illegal crossings into these territories. Spain’s Defense Minister Margarita Robles highlighted the responsibility of dealing with those directing these movements, including through social media.",
+      "background": "Ceuta and Melilla are two Spanish autonomous cities located on the northern coast of Africa, sharing borders with Morocco. They are the only land borders between the European Union and an African country, making them frequent points for irregular migration attempts.",
+      "examRelevance": "Morocco beefed up security at Ceuta and Melilla borders.",
+      "tags": [
+        "Morocco",
+        "Ceuta",
+        "Melilla",
+        "Spain",
+        "Border Security",
+        "Migration"
+      ],
+      "source": {
+        "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings",
+        "url": "https://www.thehindu.com/news/international/morocco-beefs-up-security-at-ceuta-and-melilla-borders-after-online-calls-for-new-crossings/article71339367.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q18",
+      "question": "Ten fishermen from Rameswaram were recently apprehended by the Navy of which country?",
+      "options": [
+        "Maldives",
+        "Pakistan",
+        "Sri Lanka",
+        "Bangladesh"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Ten fishermen hailing from Rameswaram, Tamil Nadu, were apprehended by the Sri Lankan Navy in the early hours of Thursday. They were subsequently taken to a port in Sri Lanka.",
+      "background": "The issue of Indian fishermen being apprehended by the Sri Lankan Navy is a recurring diplomatic and humanitarian concern. It often arises due to fishing boats inadvertently crossing international maritime boundaries in the Palk Strait, which is rich in marine resources.",
+      "examRelevance": "Ten fishermen from Rameswaram held by Sri Lankan Navy.",
+      "tags": [
+        "Indian Fishermen",
+        "Sri Lankan Navy",
+        "Rameswaram",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Ten fishermen from Rameswaram held by Lankan Navy",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/ten-fishermen-from-rameswaram-held-by-lankan-navy/article71339334.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q19",
+      "question": "The Interior Minister of Pakistan is visiting which country to discuss regional security, stability and other developments?",
+      "options": [
+        "Turkey",
+        "Iran",
+        "Afghanistan",
+        "Saudi Arabia"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Pakistan’s Interior Minister is currently visiting Iran to engage in discussions concerning regional security, stability, and other pertinent developments. This visit aims to foster cooperation and address shared challenges between the two nations.",
+      "background": "Pakistan and Iran share a border and have a history of diplomatic engagement on regional issues. High-level visits between the two countries are common for discussing matters of mutual interest, including counter-terrorism, border management, and economic cooperation.",
+      "examRelevance": "Pakistan's Interior Minister is visiting Iran to discuss regional security.",
+      "tags": [
+        "Pakistan",
+        "Iran",
+        "Interior Minister",
+        "Regional Security",
+        "Diplomacy"
+      ],
+      "source": {
+        "title": "West Asia war highlights: Iranian-backed Houthis kill 6 in attack on vessel",
+        "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-12-2026/article71334841.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q20",
+      "question": "A report states that India is fueling global growth in planned coal mining capacity. What is the context of India's action?",
+      "options": [
+        "India halts all new coal projects",
+        "India reduces coal consumption due to environmental concerns",
+        "India ramps up coal plans despite demand outlook",
+        "India shifts completely to renewable energy"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "According to a report, India is fueling global growth in planned coal mining capacity, indicating that the country is ramping up its coal plans. This is happening despite the prevailing demand outlook for coal, suggesting a strategic decision to strengthen energy security or meet industrial needs.",
+      "background": "India is one of the world's largest producers and consumers of coal, which is a primary source of energy for its power sector and various industries. The country faces the dual challenge of meeting its growing energy demands while also addressing environmental concerns and commitments to renewable energy transition.",
+      "examRelevance": "India is fueling global growth in planned coal mining capacity.",
+      "tags": [
+        "India",
+        "Coal Mining",
+        "Energy Policy",
+        "Environment",
+        "Economy"
+      ],
+      "source": {
+        "title": "India ramps up coal plans despite demand outlook",
+        "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/india-fuels-global-growth-in-planned-coal-mining-capacity-report-says/articleshow/133195738.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q21",
+      "question": "Statues of Dr. B.R. Ambedkar were recently vandalised in which two districts of Uttar Pradesh?",
+      "options": [
+        "Prayagraj and Kanpur",
+        "Lucknow and Varanasi",
+        "Agra and Meerut",
+        "Unnao and Etawah"
+      ],
+      "answerIndex": 3,
+      "category": "Art & Culture",
+      "explanation": "Statues of Dr. B.R. Ambedkar were recently vandalised in two separate incidents in Uttar Pradesh, specifically in the districts of Unnao and Etawah. In both cases, the local administration intervened to pacify villagers and installed new statues.",
+      "background": "Dr. B.R. Ambedkar is a revered figure in India, known as the chief architect of the Indian Constitution and a champion of social justice and Dalit rights. Incidents of statue vandalism often spark social and political protests, highlighting ongoing sensitivities around historical figures and community identities.",
+      "examRelevance": "Dr. B.R. Ambedkar statues vandalised in Unnao and Etawah (Uttar Pradesh).",
+      "tags": [
+        "B.R. Ambedkar",
+        "Statue Vandalism",
+        "Uttar Pradesh",
+        "Unnao",
+        "Etawah",
+        "Social Issues"
+      ],
+      "source": {
+        "title": "Uproar erupts as Ambedkar statues vandalised in Uttar Pradesh’s Unnao, Etawah",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/uproar-erupts-as-ambedkar-statues-vandalised-in-uttar-pradeshs-unnao-etawah/article71337404.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q22",
+      "question": "Bills for the delimitation of which two municipal corporations were recently passed in the West Bengal Assembly?",
+      "options": [
+        "Durgapur and Asansol",
+        "Malda and Murshidabad",
+        "Kolkata and Howrah",
+        "Siliguri and Haldia"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Bills for the delimitation of the Kolkata and Howrah Municipal Corporations were recently passed in the West Bengal Assembly. Following the passage of these bills, the number of wards in Kolkata Municipal Corporation will increase from 144 to 209, and in Howrah Municipal Corporation, it will increase from 50 to 68.",
+      "background": "Delimitation is the process of fixing the limits or boundaries of territorial constituencies in a country or a province with a legislative body. This process is undertaken to ensure fair representation based on population changes and administrative convenience, often preceding local body elections.",
+      "examRelevance": "West Bengal Assembly passed bills for delimitation of Kolkata and Howrah Municipal Corporations.",
+      "tags": [
+        "West Bengal",
+        "Kolkata Municipal Corporation",
+        "Howrah Municipal Corporation",
+        "Delimitation",
+        "Polity"
+      ],
+      "source": {
+        "title": "Bills for delimitation of Kolkata and Howrah municipal corporation passed in West Bengal Assembly",
+        "url": "https://www.thehindu.com/news/national/west-bengal/bills-for-delimitation-kolkata-and-howrah-municipal-corporation-passed-in-wb-assembly/article71337052.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q23",
+      "question": "A Lok Sabha panel stated that charges against which High Court Justice regarding a cash discovery case were 'proved'?",
+      "options": [
+        "Justice A.K. Sikri",
+        "Justice N.V. Ramana",
+        "Justice Yashwant Varma",
+        "Justice U.U. Lalit"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "A Lok Sabha panel concluded that charges against Justice Yashwant Varma regarding a cash discovery case were 'proved'. The three-member inquiry committee stated that his explanation did not demonstrate the candour, transparency, and institutional responsibility expected of a judge in such circumstances. Following this, the CJI formed another three-member committee for a deeper probe.",
+      "background": "The allegations against Justice Varma stemmed from a significant amount of cash allegedly found at his home during a fire incident. Such inquiries against sitting judges are rare and are part of a confidential procedure for institutional credibility, typically initiated under the charge of the Chief Justice of India.",
+      "examRelevance": "Lok Sabha panel stated charges against Justice Yashwant Varma were 'proved' in cash discovery case.",
+      "tags": [
+        "Justice Yashwant Varma",
+        "Lok Sabha Panel",
+        "Judiciary",
+        "Cash Discovery Case",
+        "Polity"
+      ],
+      "source": {
+        "title": "Cash discovery case: Charges against Justice Yashwant Varma “proved”, says Lok Sabha panel",
+        "url": "https://www.thehindu.com/news/national/parliament-panel-findings-on-justice-yashwant-varma-cash-row/article71335931.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q24",
+      "question": "The Lok Sabha has adopted a motion to send the Foreign Contribution (Regulation) Amendment Bill, 2026, to which committee for further review?",
+      "options": [
+        "Select Committee",
+        "Standing Committee",
+        "Estimates Committee",
+        "Joint Parliamentary Committee (JPC)"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Lok Sabha has adopted a motion to send the Foreign Contribution (Regulation) Amendment Bill, 2026, to a Joint Parliamentary Committee (JPC) for further review. This decision came amid opposition demands for its withdrawal and appeals from minority groups, with the JPC mandated to submit its report in the first week of the Winter Session.",
+      "background": "The Foreign Contribution (Regulation) Act (FCRA) governs the acceptance and utilisation of foreign contributions by individuals, associations, and companies in India. Amendments to the FCRA often draw significant attention due to their potential impact on NGOs, civil society organizations, and religious bodies.",
+      "examRelevance": "Foreign Contribution (Regulation) Amendment Bill, 2026, referred to Joint Parliamentary Committee (JPC).",
+      "tags": [
+        "FCRA Bill",
+        "Joint Parliamentary Committee",
+        "JPC",
+        "Lok Sabha",
+        "Polity",
+        "Foreign Contribution"
+      ],
+      "source": {
+        "title": "Centre softens stance on FCRA Bill following appeals by minority groups",
+        "url": "https://www.thehindu.com/news/national/centre-softens-stance-on-fcra-bill-following-appeals-by-minority-groups/article71337440.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q25",
+      "question": "The Rajya Sabha was adjourned amid a row over a 'lungiwala' remark made against which CPI(M) MP?",
+      "options": [
+        "John Brittas",
+        "Elamaram Kareem",
+        "A.A. Rahim",
+        "K.K. Ragesh"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Rajya Sabha proceedings were disrupted and subsequently adjourned amid a row over a 'lungiwala' remark. CPI(M) MP John Brittas alleged that BJP’s Sushmita Dev repeatedly used the term against him during a parliamentary debate, leading to calls for respect for regional identities from the Chair.",
+      "background": "Parliamentary proceedings often witness heated debates and exchanges between members. Remarks perceived as derogatory or offensive, especially those related to regional identity or attire, can lead to protests and disruptions, emphasizing the need for decorum and mutual respect in the legislative body.",
+      "examRelevance": "Rajya Sabha adjourned over 'lungiwala' remark against CPI(M) MP John Brittas.",
+      "tags": [
+        "Rajya Sabha",
+        "John Brittas",
+        "CPI(M)",
+        "Sushmita Dev",
+        "Parliament"
+      ],
+      "source": {
+        "title": "Rajya Sabha adjourned amid row over ‘lungiwala’ remark against CPI(M) MP John Brittas",
+        "url": "https://www.thehindu.com/news/national/rajya-sabha-adjourned-amid-row-over-lungiwala-remark-against-cpim-mp-john-brittas/article71336195.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q26",
+      "question": "Punjab CM Mann met the Governor to seek parole for which former CM Beant Singh assassination convict?",
+      "options": [
+        "Paramjit Singh Bheora",
+        "Jagtar Singh Hawara",
+        "Gurmeet Singh",
+        "Balwant Singh Rajoana"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Punjab Chief Minister Mann met the Punjab Governor to request parole for Jagtar Singh Hawara, a convict in the assassination case of former CM Beant Singh. Mr. Mann requested a 10-day parole on humanitarian grounds, citing Hawara's ailing mother's renewed hope of meeting her son after 31 years.",
+      "background": "Jagtar Singh Hawara is a prominent figure in the context of the 1995 assassination of then-Punjab Chief Minister Beant Singh. Parole requests for high-profile convicts often involve complex legal and political considerations, balancing humanitarian concerns with justice and public order.",
+      "examRelevance": "Punjab CM Mann sought parole for Beant Singh assassination convict Jagtar Singh Hawara.",
+      "tags": [
+        "Punjab CM Mann",
+        "Jagtar Singh Hawara",
+        "Beant Singh",
+        "Parole",
+        "Polity"
+      ],
+      "source": {
+        "title": "Punjab CM Mann meets Governor, seeks parole for ex-CM Beant Singh assassination convict Hawara",
+        "url": "https://www.thehindu.com/news/national/punjab/punjab-cm-mann-meets-governor-seeks-parole-for-ex-cm-beant-singh-assassination-convict-hawara/article71336755.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q27",
+      "question": "Which state government has made Marathi language proficiency mandatory for cab aggregators' drivers?",
+      "options": [
+        "Goa",
+        "Karnataka",
+        "Maharashtra",
+        "Gujarat"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Maharashtra State Transport Minister announced that Marathi language proficiency is now mandatory for cab aggregators’ drivers in the state. The transport department will conduct verification drives and take stricter action against those who fail to comply with this rule after August 15.",
+      "background": "This policy aims to ensure better communication between drivers and local passengers and to promote the regional language. Such regulations often reflect cultural and linguistic priorities of state governments, impacting employment and service standards in the transport sector.",
+      "examRelevance": "Maharashtra government made Marathi language mandatory for cab aggregators' drivers.",
+      "tags": [
+        "Maharashtra",
+        "Marathi Language",
+        "Cab Aggregators",
+        "Transport Policy",
+        "State Government"
+      ],
+      "source": {
+        "title": "Marathi language requirement is mandatory for Cab aggregators’ drivers: State Transport Minister",
+        "url": "https://www.thehindu.com/news/national/maharashtra/marathi-language-requirement-is-mandatory-for-cab-aggregators-drivers-state-transport-minister/article71337409.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q28",
+      "question": "West Bengal CM directed police to arrest those making derogatory remarks against Netaji. Which leader, nominated to Rajya Sabha from West Bengal, was mentioned in this context?",
+      "options": [
+        "Sukhendu Sekhar Ray",
+        "Nagendra Roy alias Ananta Maharaj",
+        "Derek O'Brien",
+        "Santanu Sen"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "West Bengal Chief Minister directed the police to arrest individuals making derogatory remarks against Netaji Subhas Chandra Bose. Nagendra Roy alias Ananta Maharaj, a leader from Cooch Behar who was nominated to the Rajya Sabha from West Bengal in July 2023 with BJP backing, was specifically mentioned for making such remarks.",
+      "background": "Netaji Subhas Chandra Bose is an iconic national figure, revered across India, particularly in West Bengal. Derogatory comments against historical figures often lead to strong public and political reactions, prompting governmental action to uphold respect for national heroes.",
+      "examRelevance": "Nagendra Roy alias Ananta Maharaj made derogatory remarks against Netaji Subhas Chandra Bose.",
+      "tags": [
+        "Netaji Subhas Chandra Bose",
+        "Nagendra Roy Ananta Maharaj",
+        "West Bengal",
+        "Rajya Sabha",
+        "Polity"
+      ],
+      "source": {
+        "title": "Bengal CM directs police to arrest those making derogatory remarks against Netaji",
+        "url": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-directs-police-to-arrest-those-making-derogatory-remarks-against-netaji/article71337572.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q29",
+      "question": "The Madhya Pradesh High Court recently clarified that rape survivors do not need court approval to terminate pregnancies up to how many weeks?",
+      "options": [
+        "12 weeks",
+        "20 weeks",
+        "18 weeks",
+        "24 weeks"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Madhya Pradesh High Court recently clarified that under the Medical Termination of Pregnancy (MTP) Act, 1971, survivors of sexual assault, rape, or incest, with pregnancies up to 24 weeks, do not require judicial proceedings under Article 226 of the Constitution to undergo an abortion. This ruling simplifies the process for vulnerable individuals seeking to terminate pregnancies resulting from sexual violence.",
+      "background": "The MTP Act, 1971, and its subsequent amendments, govern legal abortions in India. Judicial interventions often arise to interpret the provisions of the Act, especially concerning sensitive cases like those involving rape survivors, aiming to ensure timely access to medical services while upholding legal frameworks.",
+      "examRelevance": "Madhya Pradesh High Court ruled rape survivors do not need court approval for abortions up to 24 weeks.",
+      "tags": [
+        "Madhya Pradesh High Court",
+        "MTP Act",
+        "Rape Survivors",
+        "Abortion Rights",
+        "Judiciary"
+      ],
+      "source": {
+        "title": "Rape survivors don’t need court approval to terminate pregnancies up to 24 weeks: Madhya Pradesh High Court",
+        "url": "https://www.thehindu.com/news/national/madhya-pradesh/rape-survivors-dont-need-court-approval-to-terminate-pregnancies-up-to-24-weeks-madhya-pradesh-high-court/article71337419.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-13-q30",
+      "question": "How many people died in a recent landslip incident in Mumbai, where soil and debris collapsed onto houses?",
+      "options": [
+        "Three",
+        "Five",
+        "Seven",
+        "Ten"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "A landslip incident in Mumbai resulted in the deaths of seven people. The soil and debris from the hillside collapsed onto two to three nearby houses, as reported by BMC Mayor Ritu Tawde. Rescue operations were initiated following the tragedy.",
+      "background": "Landslides and landslips are not uncommon in hilly or undulating terrains, especially during heavy monsoon seasons. Mumbai, with its densely populated areas and proximity to hillsides, has experienced such incidents in the past, often leading to significant casualties and property damage.",
+      "examRelevance": "Seven people died in a Mumbai landslip incident.",
+      "tags": [
+        "Mumbai",
+        "Landslip",
+        "Casualties",
+        "Disaster",
+        "Maharashtra"
+      ],
+      "source": {
+        "title": "Seven dead, many injured in Mumbai landslip",
+        "url": "https://www.thehindu.com/news/cities/mumbai/kurla-landslide-in-mumbai-death-toll-bmc-ndrf-rescue-efforts-august-12-2026/article71334944.ece"
+      }
+    }
+  ]
+}
