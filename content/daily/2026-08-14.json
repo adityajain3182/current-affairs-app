@@ -1,0 +1,779 @@
+{
+  "id": "daily-2026-08-14",
+  "type": "daily",
+  "date": "2026-08-14",
+  "title": "Current Affairs — 14 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-14-q1",
+      "question": "Donald Trump recently announced tariffs of up to 100% on imported drones. This maximum tariff rate applies to drones with which specific characteristic?",
+      "options": [
+        "Takeoff weight over 15 kilograms and surveillance capabilities",
+        "Takeoff weight over 10 kilograms and commercial delivery capabilities",
+        "Takeoff weight over 25 kilograms and national security capabilities",
+        "Takeoff weight over 50 kilograms and advanced navigation capabilities"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Former U.S. President Donald Trump announced tariffs of up to 100% on imported drones. The highest tariff rate of 100% will be applied to drones with a takeoff weight of more than 25 kilograms and possessing national security capabilities such as thermal cameras and docking stations.",
+      "background": "This announcement reflects a continuation of Trump's protectionist trade policies, aiming to bolster domestic manufacturing and address perceived national security risks from foreign-made technology. Tariffs are a common tool in international trade to influence import volumes.",
+      "examRelevance": "Donald Trump announced 100% tariffs on imported drones over 25 kg with national security capabilities.",
+      "tags": [
+        "Donald Trump",
+        "Tariffs",
+        "Drones",
+        "Trade Policy"
+      ],
+      "source": {
+        "title": "Trump announces tariffs of up to 100% on imported drones",
+        "url": "https://www.thehindu.com/news/international/trump-announces-tariffs-of-up-to-100-on-imported-drones/article71343943.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q2",
+      "question": "Approximately how much waste, in tonnes, was left behind in Haridwar after the recent Kanwar Yatra, leading to a major cleanup drive?",
+      "options": [
+        "5,000 tonnes",
+        "3,000 tonnes",
+        "7,000 tonnes",
+        "9,000 tonnes"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "The recent Kanwar Yatra in Haridwar left behind approximately 7,000 tonnes of waste, including urine-filled bottles found at Har Ki Pauri. The municipal administration launched a cleanup drive with about 1,000 additional sanitation workers and over 80 vehicles to manage the refuse.",
+      "background": "The Kanwar Yatra is an annual pilgrimage of devotees of Shiva, who collect holy water from the Ganges River. While a significant religious event, it often poses environmental challenges due to the large number of participants and inadequate waste management infrastructure, especially in pilgrimage towns like Haridwar.",
+      "examRelevance": "Kanwar Yatra left 7,000 tonnes of waste in Haridwar.",
+      "tags": [
+        "Kanwar Yatra",
+        "Haridwar",
+        "Waste Management",
+        "Environment"
+      ],
+      "source": {
+        "title": "Kanwar Yatra leaves 7,000 tonnes of waste in Haridwar; urine-filled bottles found at Har Ki Pauri",
+        "url": "https://www.thehindu.com/news/national/kanwar-yatra-leaves-7000-tonnes-of-waste-in-haridwar-urine-filled-bottles-found-at-har-ki-pauri/article71340848.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q3",
+      "question": "Which High Court recently criticized a trial court's 'noticeable silence' regarding the use of a victim’s past sexual history to attack her credibility in a rape trial?",
+      "options": [
+        "Madras High Court",
+        "Calcutta High Court",
+        "Bombay High Court",
+        "Delhi High Court"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Bombay High Court, in a scathing indictment in the Tarun Tejpal conviction case, found the trial court’s 'noticeable silence' striking as 'graphic details of the victim’s past sexual history' were used to attack her credibility, despite a legal bar.",
+      "background": "Indian law, specifically Section 146 of the Indian Evidence Act, generally restricts the use of a victim's past sexual history in rape trials to challenge their credibility. The High Court's observation underscores the persistent challenge of ensuring fair trials and protecting victims from irrelevant character assassination.",
+      "examRelevance": "Bombay High Court criticized the use of victim's sexual history in rape trials in the Tarun Tejpal case.",
+      "tags": [
+        "Bombay High Court",
+        "Rape Trials",
+        "Legal Bar",
+        "Tarun Tejpal"
+      ],
+      "source": {
+        "title": "Sexual history of survivors continues to shadow rape trials despite legal bar, say experts",
+        "url": "https://www.thehindu.com/news/national/sexual-history-of-survivors-continues-to-shadow-rape-trials-despite-legal-bar-say-experts/article71336475.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q4",
+      "question": "What term is being used by experts to describe the obsessive behaviour of schoolchildren in Kerala towards cosmetics?",
+      "options": [
+        "Cosmeticorexia",
+        "Vanity Syndrome",
+        "Dermomania",
+        "Makeup Obsessia"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "Experts are using the term 'Cosmeticorexia' to describe the early and morbid fascination towards cosmetics observed among a large number of schoolchildren in Kerala. This obsessive behaviour has mental and physical consequences.",
+      "background": "This phenomenon highlights a growing concern about body image issues and the influence of social media and marketing on young minds. It underscores the need for awareness and intervention regarding the psychological impact of cosmetic use at a young age.",
+      "examRelevance": "Cosmeticorexia describes schoolchildren's obsessive use of cosmetics in Kerala.",
+      "tags": [
+        "Cosmeticorexia",
+        "Kerala",
+        "Schoolchildren",
+        "Cosmetics Addiction"
+      ],
+      "source": {
+        "title": "Messy make-up: cosmetics addiction takes the sheen out of childhood",
+        "url": "https://www.thehindu.com/news/national/kerala/messy-make-up-cosmetics-addiction-takes-the-sheen-out-of-childhood/article71333474.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q5",
+      "question": "In which district of Uttarakhand did a recent tunnel accident claim the lives of seven workers and injure fourteen others due to water and debris entry?",
+      "options": [
+        "Rudraprayag",
+        "Tehri Garhwal",
+        "Chamoli",
+        "Uttarkashi"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "A recent tunnel accident in Uttarakhand's Chamoli district resulted in the death of seven workers and injuries to fourteen others. The incident occurred when water and debris entered the under-construction THDC tunnel, trapping 22 people initially.",
+      "background": "Uttarakhand, a Himalayan state, is prone to such accidents due to its challenging terrain and extensive infrastructure development, including hydro-power projects and road tunnels. Safety protocols in such projects are crucial to prevent loss of life.",
+      "examRelevance": "Tunnel accident in Chamoli, Uttarakhand, killed seven workers.",
+      "tags": [
+        "Chamoli",
+        "Uttarakhand",
+        "Tunnel Accident",
+        "THDC"
+      ],
+      "source": {
+        "title": "Seven workers dead, 14 injured as water, debris enter tunnel in Uttarakhand’s Chamoli",
+        "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-chamoli-workers-feared-inside-under-construction-thdc-tunnel/article71342539.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q6",
+      "question": "Fishers in Kerala are vowing to resist the Centre's proposed amendments related to which natural resource, fearing a threat to coastal rights and the fishing community?",
+      "options": [
+        "Marine fishing zones for deep-sea trawling",
+        "Coastal wetlands for aquaculture",
+        "Black sand wealth for corporate mining",
+        "Freshwater lakes for commercial farming"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Fishers in Kerala are vowing to resist the Centre's proposed amendments that they believe threaten to open Kerala’s black sand wealth to corporates. They argue that these moves pose a significant threat to Kerala’s coastal rights and the livelihoods of the fishing community.",
+      "background": "Black sand, rich in rare earth minerals like monazite, ilmenite, and rutile, is a valuable resource found along Kerala's coast. The dispute highlights the conflict between industrial development, environmental protection, and the traditional rights of local communities over natural resources.",
+      "examRelevance": "Kerala fishers resist opening black sand wealth to corporates.",
+      "tags": [
+        "Kerala",
+        "Black Sand",
+        "Coastal Rights",
+        "Fishermen",
+        "Mining"
+      ],
+      "source": {
+        "title": "Fishers vow to resist move to open Kerala’s black sand wealth to corporates",
+        "url": "https://www.thehindu.com/news/national/kerala/fishers-vow-to-resist-move-to-open-keralas-black-sand-wealth-to-corporates/article71341451.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q7",
+      "question": "Which Indian state's Chief Minister recently termed the Mines and Minerals (Development and Regulation) Amendment Bill, 2026, a 'black bill' and an injustice to his state and its people?",
+      "options": [
+        "Chhattisgarh",
+        "Odisha",
+        "Jharkhand",
+        "Madhya Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Jharkhand Chief Minister Hemant Soren vehemently condemned the recently passed Mines and Minerals (Development and Regulation) Amendment Bill, 2026. He termed it a 'black bill' and an injustice to Jharkhand and its people, arguing that it undermines the state’s authority to tax mineral rights and land.",
+      "background": "Jharkhand is a mineral-rich state, and the control over mineral resources and the revenue generated from them is a significant point of contention between the state and central governments. The Bill seeks to restrict states’ powers to levy taxes on mineral rights and mineral-bearing lands, leading to concerns about fiscal federalism.",
+      "examRelevance": "Jharkhand CM Hemant Soren opposed the Mines and Minerals (Development and Regulation) Amendment Bill, 2026.",
+      "tags": [
+        "Hemant Soren",
+        "Jharkhand",
+        "Mines and Minerals Amendment Bill",
+        "Polity"
+      ],
+      "source": {
+        "title": "Hemant Soren opposes Mines and Minerals Amendment Bill",
+        "url": "https://www.thehindu.com/news/national/jharkhand-cm-soren-urges-pm-modi-to-reconsider-mining-bill-flags-impact-on-states-finances/article71342730.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q8",
+      "question": "The U.S. has recently announced tightening economic sanctions against which country, citing its procurement of weapons and assistance to other individuals and entities?",
+      "options": [
+        "North Korea",
+        "Iran",
+        "Syria",
+        "Yemen"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The U.S. has tightened economic sanctions against Iran and other individuals and entities that it says are helping Iran procure weapons. These measures were announced by U.S. officials amid ongoing tensions in West Asia.",
+      "background": "Economic sanctions are a key tool in U.S. foreign policy to exert pressure on countries perceived to be engaging in activities contrary to U.S. interests, such as nuclear proliferation or support for terrorism. Tensions between the U.S. and Iran have been long-standing, often revolving around Iran's nuclear program and regional influence.",
+      "examRelevance": "U.S. tightened economic sanctions against Iran over weapons procurement.",
+      "tags": [
+        "U.S. Sanctions",
+        "Iran",
+        "West Asia",
+        "Economic Sanctions"
+      ],
+      "source": {
+        "title": "West Asia war LIVE: Bessent says U.S. to apply measures never seen on Iran",
+        "url": "https://www.thehindu.com/news/international/iran-us-war-west-asia-donald-trump-live-updates-august-14-2026/article71343866.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q9",
+      "question": "Which sector's exports from India shrank in Q1, attributed to factors such as a PCB crunch and US tariffs?",
+      "options": [
+        "Electronic Components",
+        "Textile and Apparel",
+        "Automotive Parts",
+        "Pharmaceuticals"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "India's electronic component exports shrank in Q1. This decline is attributed to several factors, including a PCB (Printed Circuit Board) crunch and the impact of US tariffs.",
+      "background": "The electronic components sector is crucial for India's 'Make in India' initiative and its aspirations to become a global manufacturing hub. A contraction in exports highlights challenges related to global supply chains, trade policies, and domestic production capabilities.",
+      "examRelevance": "India's electronic component exports shrank in Q1 due to PCB crunch and US tariffs.",
+      "tags": [
+        "Electronic Components",
+        "Exports",
+        "Q1",
+        "Economy",
+        "PCB Crunch"
+      ],
+      "source": {
+        "title": "Q1 electronic component exports shrinks",
+        "url": "https://economictimes.indiatimes.com/tech/technology/pcb-crunch-us-tariffs-shrink-q1-electronic-component-exports/articleshow/133227224.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q10",
+      "question": "The contribution of which historical figure is set to be included in West Bengal school textbooks from next year, following efforts by the new state government?",
+      "options": [
+        "Ishwar Chandra Vidyasagar",
+        "Syama Prasad Mookerjee",
+        "Rabindranath Tagore",
+        "Subhas Chandra Bose"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "The contribution of Syama Prasad Mookerjee is set to be included in West Bengal school textbooks from next year. This initiative follows the BJP coming to power in West Bengal, with the new government actively working to build statues and memorials in his name.",
+      "background": "Syama Prasad Mookerjee was an Indian politician, barrister, and academician who served as the Minister for Industry and Supply in Prime Minister Jawaharlal Nehru's first cabinet. He was also the founder of the Bharatiya Jana Sangh, the predecessor to the Bharatiya Janata Party (BJP). His legacy is a subject of political and historical debate.",
+      "examRelevance": "Syama Prasad Mookerjee's contribution to be included in West Bengal school textbooks.",
+      "tags": [
+        "Syama Prasad Mookerjee",
+        "West Bengal",
+        "School Textbooks",
+        "BJP"
+      ],
+      "source": {
+        "title": "Contribution of Syama Prasad to be included in school textbooks from next year: Adhikari",
+        "url": "https://www.thehindu.com/news/national/west-bengal/contribution-of-syama-prasad-to-be-included-in-school-textbooks-from-next-year-adhikari/article71341565.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q11",
+      "question": "Which country recently cancelled a conference on Tibetan studies, sparking a controversy over whether its government has succumbed to pressure from Beijing?",
+      "options": [
+        "Bhutan",
+        "Nepal",
+        "India",
+        "Sri Lanka"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Nepal recently cancelled a conference on Tibetan studies, which was expected to host around 700 participants, including scholars from China. This cancellation has sparked controversy and debate over whether the Nepal government has succumbed to pressure from Beijing, which has steadily expanded its influence in Kathmandu.",
+      "background": "Tibet is a sensitive issue for China, which views it as an integral part of its territory and is wary of any international discussions that might be perceived as legitimizing Tibetan independence movements or culture outside its control. Nepal, sharing a long border with Tibet, often navigates a delicate balance in its foreign policy between India and China.",
+      "examRelevance": "Nepal cancelled a conference on Tibetan studies amid China pressure debate.",
+      "tags": [
+        "Nepal",
+        "Tibetan Studies",
+        "China Pressure",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Analysis: Nepal cancels conference on Tibetan studies amid China pressure debate",
+        "url": "https://www.thehindu.com/news/international/analysis-nepal-cancels-conference-on-tibetan-studies-amid-china-pressure-debate/article71341394.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q12",
+      "question": "Which two ride-hailing companies recently had failed merger talks regarding their India operations, reportedly due to disputes over control?",
+      "options": [
+        "Ola and Rapido",
+        "Uber and Meru",
+        "Uber and Rapido",
+        "Ola and BluSmart"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Uber and Rapido recently held talks to combine their India operations, but these merger discussions ultimately failed. The breakdown in talks was reportedly due to disputes over control of the combined entity.",
+      "background": "Consolidation in the ride-hailing market is a global trend, often driven by the desire to reduce competition, achieve economies of scale, and increase market share. Such mergers in India's competitive ride-hailing sector could significantly alter the market landscape.",
+      "examRelevance": "Uber and Rapido failed merger talks for India operations.",
+      "tags": [
+        "Uber",
+        "Rapido",
+        "Merger Talks",
+        "Ride-hailing",
+        "India Operations"
+      ],
+      "source": {
+        "title": "Failed Uber-Rapido merger talks; Honasa’s strong Q1",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/inside-failed-uber-rapido-merger-talks-honasas-strong-q1-report/articleshow/133227064.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q13",
+      "question": "Which regulatory body was recently slammed by the Supreme Court for its 'noticeable silence' and inaction regarding the introduction of front-of-pack warning labels on packaged food products?",
+      "options": [
+        "Ministry of Health and Family Welfare",
+        "Food Safety and Standards Authority of India (FSSAI)",
+        "Indian Council of Medical Research (ICMR)",
+        "Bureau of Indian Standards (BIS)"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently slammed the Food Safety and Standards Authority of India (FSSAI) for not introducing front-of-pack warning labels on packaged food products. The Bench questioned FSSAI on its commitment to public health, asking if it does not want children to grow up healthy.",
+      "background": "Front-of-pack labeling is a global best practice to help consumers, especially children and those with health conditions, make informed choices about packaged foods high in sugar, salt, and fat. FSSAI is India's apex food regulator responsible for setting standards and regulating the manufacturing, storage, distribution, sale, and import of food items.",
+      "examRelevance": "Supreme Court slammed FSSAI for not introducing front-of-pack warning labels.",
+      "tags": [
+        "Supreme Court",
+        "FSSAI",
+        "Food Labels",
+        "Public Health",
+        "Packaged Food"
+      ],
+      "source": {
+        "title": "Supreme Court slams FSSAI for not introducing front-of-pack warning labels on packaged food products",
+        "url": "https://www.thehindu.com/news/national/supreme-court-slams-fssai-for-not-introducing-front-of-pack-warning-labels-on-packaged-food-products/article71342214.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q14",
+      "question": "Who has recently been appointed as an Adviser to the U.K. Prime Minister, bringing over three decades of experience at the BBC?",
+      "options": [
+        "Vikram Singh",
+        "Ramesh Sharma",
+        "Sunil Kapoor",
+        "Gautam Rangarajan"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Gautam Rangarajan, the son of a former Indian diplomat and a BBC executive, has recently been appointed as an Adviser to the U.K. Prime Minister. He brings over three decades of experience at the BBC, including a tenure as Group Director, Strategy and Performance.",
+      "background": "Advisers to the Prime Minister play a crucial role in shaping policy and strategy within the government. This appointment highlights the growing presence of Indian-origin professionals in high-level positions in global politics and administration.",
+      "examRelevance": "Gautam Rangarajan appointed U.K. Prime Minister's Adviser.",
+      "tags": [
+        "Gautam Rangarajan",
+        "UK Prime Minister",
+        "Adviser",
+        "Appointments",
+        "BBC"
+      ],
+      "source": {
+        "title": "Gautam Rangarajan, former Indian diplomat’s son and BBC exec appointed U.K. PM’s Adviser",
+        "url": "https://www.thehindu.com/news/international/gautam-rangarajan-former-indian-diplomats-son-and-bbc-exec-appointed-uk-pms-adviser/article71342499.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q15",
+      "question": "Which Indian state recently logged an inflation rate of 6.32%, primarily attributed to rising food prices fueled by LPG costs, impacting 'Thalinomics'?",
+      "options": [
+        "Karnataka",
+        "Telangana",
+        "Andhra Pradesh",
+        "Tamil Nadu"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Telangana recently logged an inflation rate of 6.32%. This rise is primarily attributed to increasing food prices, which are fueled by the rising costs of LPG (Liquefied Petroleum Gas), consequently impacting 'Thalinomics', a term used to describe the affordability of a plate of food.",
+      "background": "Inflation, particularly food inflation, directly affects household budgets and purchasing power. 'Thalinomics' is an economic term introduced in the Economic Survey of India to gauge the affordability of a 'Thali' (a typical Indian meal), serving as a proxy for the common person's cost of living.",
+      "examRelevance": "Telangana recorded 6.32% inflation due to food and LPG price hikes.",
+      "tags": [
+        "Telangana",
+        "Inflation",
+        "Food Prices",
+        "LPG Costs",
+        "Thalinomics"
+      ],
+      "source": {
+        "title": "Thalinomics goes for a toss as LPG fuels food price rise, Telangana logs 6.32% inflation",
+        "url": "https://www.thehindu.com/news/national/telangana/thalinomics-goes-for-a-toss-as-lpg-fuels-food-price-rise-telangana-logs-632-inflation/article71340827.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q16",
+      "question": "The 'Indiramma Housing scheme' is a flagship housing program in which Indian state, where beneficiaries are facing challenges due to construction costs exceeding the ₹5 lakh subsidy?",
+      "options": [
+        "Telangana",
+        "Karnataka",
+        "Kerala",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The 'Indiramma Housing scheme' is a flagship housing program implemented in Telangana. Under this scheme, thousands of people await selection for housing benefits, but many beneficiaries are struggling as the provided ₹5 lakh subsidy often falls short of the actual construction costs, forcing them to incur additional debts.",
+      "background": "Government housing schemes aim to provide affordable shelter to economically weaker sections. However, rising construction material costs and other expenses can lead to a gap between the sanctioned subsidy and the actual expenditure, creating financial burden for beneficiaries, as seen in the Indiramma Housing scheme.",
+      "examRelevance": "Indiramma Housing scheme is a flagship program in Telangana.",
+      "tags": [
+        "Indiramma Housing Scheme",
+        "Telangana",
+        "Housing Schemes",
+        "Government Projects"
+      ],
+      "source": {
+        "title": "Dream homes, mounting debts in Telangana",
+        "url": "https://www.thehindu.com/news/national/telangana/dream-homes-mounting-debts-in-telangana/article71341299.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q17",
+      "question": "According to a Prime Database study, what percentage of the top 20 Foreign Portfolio Investors (FPIs) saw their disclosed India portfolio values increase in the June quarter?",
+      "options": [
+        "90%",
+        "65%",
+        "50%",
+        "75%"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "A Prime Database study revealed that at least 75% of the top 20 Foreign Portfolio Investors (FPIs) saw their disclosed India portfolio values increase between 10% and 37% in the June quarter. This performance outpaced gains from the Sensex and Nifty during the same period, despite a general exit of overseas investors after the Iran crisis.",
+      "background": "Foreign Portfolio Investors (FPIs) play a significant role in India's capital markets. Their investment trends are closely watched as indicators of global investor confidence in the Indian economy. The June quarter saw resilience from top FPIs, suggesting targeted investments despite broader market volatility.",
+      "examRelevance": "75% of top 20 FPIs increased India portfolio values in Q1.",
+      "tags": [
+        "FPIs",
+        "Indian Equities",
+        "Prime Database",
+        "Sensex",
+        "Nifty"
+      ],
+      "source": {
+        "title": "Top FPIs ride out storm, outrun Nifty Sensex in Q1",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/top-fpis-ride-out-stormoutrun-nifty-sensex-in-q1/articleshow/133226731.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q18",
+      "question": "Which strategic waterway was recently the subject of a dispute between Iran and former U.S. President Donald Trump regarding U.S. control?",
+      "options": [
+        "Strait of Hormuz",
+        "Strait of Malacca",
+        "Bab-el-Mandeb Strait",
+        "Suez Canal"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The Strait of Hormuz was recently the subject of a dispute, with Iran rejecting former U.S. President Donald Trump's claims of U.S. total control over the strategic waterway. Trump had stated on his Truth Social platform that the U.S. had 'total control' of the strait.",
+      "background": "The Strait of Hormuz is a globally critical chokepoint, connecting the Persian Gulf with the Arabian Sea and the open ocean. A significant portion of the world's oil supply passes through this strait, making its control and security a major geopolitical concern for international powers, particularly the U.S. and Iran.",
+      "examRelevance": "Strait of Hormuz was disputed between Iran and Donald Trump over U.S. control.",
+      "tags": [
+        "Strait of Hormuz",
+        "Iran",
+        "Donald Trump",
+        "U.S. Control",
+        "Geopolitics"
+      ],
+      "source": {
+        "title": "West Asia war updates: Iran rejects Trump claims of U.S. control over Strait of Hormuz as ‘lies’",
+        "url": "https://www.thehindu.com/news/international/iran-us-war-west-asia-live-updates-donald-trump-august-13-2026/article71339299.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q19",
+      "question": "What type of merger and acquisition (M&A) deals are reported to be nearing the $1-billion mark this year, indicating a significant trend in the tech sector?",
+      "options": [
+        "Fintech M&A deals",
+        "AI M&A deals",
+        "E-commerce M&A deals",
+        "Biotech M&A deals"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Merger and acquisition (M&A) deals in the Artificial Intelligence (AI) sector are reported to be nearing the $1-billion mark this year. This trend signifies a substantial increase in investment and consolidation within the rapidly evolving tech sector.",
+      "background": "The surge in AI M&A deals reflects the growing importance of artificial intelligence across various industries and the competition among companies to acquire cutting-edge technology and talent. It indicates a maturing AI market and strategic moves by larger corporations to integrate AI capabilities.",
+      "examRelevance": "AI M&A deals are nearing the $1-billion mark this year.",
+      "tags": [
+        "AI",
+        "M&A Deals",
+        "Tech Sector",
+        "Economy",
+        "Artificial Intelligence"
+      ],
+      "source": {
+        "title": "AI M A deals nearing $1-billion mark this year",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-mas-are-through-the-roof-this-year-with-deals-nearing-1-billion-mark/articleshow/133219854.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q20",
+      "question": "In July, Indian mutual fund managers largely pared down their holdings in which sector, while significantly increasing exposure to IT, auto, and pharma stocks?",
+      "options": [
+        "PSU bank sector",
+        "FMCG sector",
+        "Real Estate sector",
+        "Infrastructure sector"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "In July, Indian mutual fund managers reshuffled their portfolios, largely paring down holdings in the PSU bank sector. Concurrently, they increased their exposure to select IT, auto, and pharmaceutical names, as well as financial services plays including NBFCs and private sector lenders.",
+      "background": "Mutual fund investment trends often reflect broader market sentiment and expectations for sector performance. This shift suggests a preference for sectors with better earnings visibility and specific growth opportunities, moving away from public sector banks, possibly due to perceived risks or lower growth prospects.",
+      "examRelevance": "Mutual funds cut PSU bank exposure, increased IT, auto, pharma in July.",
+      "tags": [
+        "Mutual Funds",
+        "PSU Banks",
+        "IT Sector",
+        "Auto Sector",
+        "Pharma Sector"
+      ],
+      "source": {
+        "title": "MFs cut PSU bank exposure, raise bets on IT, auto pharma in July",
+        "url": "https://economictimes.indiatimes.com/mf/analysis/mfs-buy-into-it-auto-andpharma-cut-psu-bank-bets/articleshow/133226656.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q21",
+      "question": "Which country's surfers dominated the recent Shore Temple Classic, with Ryuichi Inoue posting the highest score in the Men’s QS 2000 Round of 32 and Shohei Kato in the Round of 16?",
+      "options": [
+        "Australia",
+        "USA",
+        "Japan",
+        "Indonesia"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Japanese surfers dominated the recent Shore Temple Classic. Ryuichi Inoue posted the highest score of 13.17 in the Men’s QS 2000 Round of 32, while Shohei Kato produced the best effort with 14.50 in the Round of 16.",
+      "background": "The Shore Temple Classic is likely part of a professional surfing circuit, attracting international talent. Japan has a growing presence in surfing, with its athletes increasingly performing well in global competitions, indicating the sport's development in the country.",
+      "examRelevance": "Japan dominated the Shore Temple Classic surfing event.",
+      "tags": [
+        "Shore Temple Classic",
+        "Surfing",
+        "Japan",
+        "Ryuichi Inoue",
+        "Shohei Kato"
+      ],
+      "source": {
+        "title": "Japan dominates Shore Temple Classic",
+        "url": "https://www.thehindu.com/sport/japan-dominates-shore-temple-classic/article71341277.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q22",
+      "question": "The Uttar Pradesh government is accelerating the disposal of revenue cases, particularly those pending under which specific section related to demarcation/measurement?",
+      "options": [
+        "Section 48",
+        "Section 36",
+        "Section 24",
+        "Section 12"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Uttar Pradesh government is accelerating the disposal of revenue cases, with a particular focus on cases pending under Section 24, which relates to demarcation/measurement. As of December 31, 2025, 28,556 such cases were pending, and from January 1 to July 31, 2026, 39,645 cases were disposed of out of 91,472 new cases received.",
+      "background": "Revenue cases, especially those concerning land demarcation and measurement, are critical for property rights and often lead to disputes if not resolved efficiently. The acceleration in disposal reflects an effort by the state government to improve land administration and reduce backlogs in the judicial system.",
+      "examRelevance": "Uttar Pradesh government accelerates disposal of revenue cases under Section 24 (demarcation/measurement).",
+      "tags": [
+        "Uttar Pradesh",
+        "Revenue Cases",
+        "Section 24",
+        "Demarcation",
+        "Governance"
+      ],
+      "source": {
+        "title": "Uttar Pradesh government accelerates disposal of revenue cases",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-government-accelerates-disposal-of-revenue-cases/article71342168.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q23",
+      "question": "In which district of Uttar Pradesh were two individuals arrested in connection with the death of a 27-year-old Muslim man following an alleged assault by Kanwariyas after a road accident?",
+      "options": [
+        "Meerut",
+        "Hapur",
+        "Bulandshahr",
+        "Ghaziabad"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "Hapur Police in Uttar Pradesh have arrested two men, Lokesh and Shivam, in connection with the death of 27-year-old Mohd Azeem. He died from injuries sustained during an alleged assault by Kanwariyas following a road accident in the district.",
+      "background": "This incident highlights concerns about law and order and potential communal tensions, especially during large religious gatherings like the Kanwar Yatra. Police investigations and arrests are crucial to ensure justice and maintain social harmony.",
+      "examRelevance": "Two arrested in Hapur, Uttar Pradesh, for alleged assault by Kanwariyas leading to a man's death.",
+      "tags": [
+        "Hapur",
+        "Uttar Pradesh",
+        "Kanwariyas",
+        "Assault",
+        "Law and Order"
+      ],
+      "source": {
+        "title": "Two arrested after Muslim man dies following alleged assault by Kanwariyas",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/two-arrested-after-muslim-man-dies-following-alleged-assault-by-kanwariyas/article71342269.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q24",
+      "question": "The West Bengal government recently withdrew the 'Banga Bibhusan' award from which BJP MP?",
+      "options": [
+        "Locket Chatterjee",
+        "Nagendra Roy",
+        "Sukanta Majumdar",
+        "Dilip Ghosh"
+      ],
+      "answerIndex": 1,
+      "category": "Awards & Honours",
+      "explanation": "The West Bengal government recently withdrew the 'Banga Bibhusan' award from BJP MP Nagendra Roy. He was conferred the award in February this year by the Trinamool Congress government but was later nominated to the Upper House from West Bengal in July 2023 as a candidate backed by the BJP.",
+      "background": "The 'Banga Bibhusan' is one of the highest civilian honors conferred by the Government of West Bengal. The withdrawal of such an award from a political figure, especially one who changed political affiliations, can be indicative of political tensions and disputes between the state government and opposition parties.",
+      "examRelevance": "West Bengal government withdrew Banga Bibhusan from BJP MP Nagendra Roy.",
+      "tags": [
+        "Banga Bibhusan",
+        "West Bengal",
+        "Nagendra Roy",
+        "BJP MP",
+        "Awards"
+      ],
+      "source": {
+        "title": "Bengal government withdraws Banga Bibhusan to BJP MP Nagendra Roy",
+        "url": "https://www.thehindu.com/news/national/west-bengal/bengal-government-withdraws-banga-bibhusan-to-bjp-mp-nagendra-roy/article71341237.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q25",
+      "question": "A tribal body in which Indian state has urged the government to protect farmers' rights before proceeding with a ₹1,800-crore integrated cement plant and limestone mining project?",
+      "options": [
+        "Arunachal Pradesh",
+        "Mizoram",
+        "Meghalaya",
+        "Manipur"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "A tribal body in Meghalaya has urged the government to protect farmers' rights before proceeding with a ₹1,800-crore integrated cement plant and limestone mining project. Public hearings for the project in East Jaintia Hills have been stalled since May due to opposition.",
+      "background": "Large industrial projects, especially those involving mining, often face opposition from local communities due to concerns about land displacement, environmental degradation, and impact on traditional livelihoods. The demand for protecting farmers' rights highlights the importance of inclusive development and addressing local grievances.",
+      "examRelevance": "Meghalaya tribal body opposes ₹1,800-crore cement plant and limestone mining project over farmers' rights.",
+      "tags": [
+        "Meghalaya",
+        "Tribal Body",
+        "Cement Plant",
+        "Limestone Mining",
+        "Farmers' Rights"
+      ],
+      "source": {
+        "title": "Protect farmers’ rights before pushing cement project: Meghalaya tribal body tells government",
+        "url": "https://www.thehindu.com/news/national/meghalaya/protect-farmers-rights-before-pushing-cement-project-meghalaya-tribal-body-tells-government/article71341628.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q26",
+      "question": "Which former Prime Minister of Nepal recently returned to the country after over five months abroad for medical treatment, having been seriously injured during violent protests in September 2025?",
+      "options": [
+        "Pushpa Kamal Dahal 'Prachanda'",
+        "Madhav Kumar Nepal",
+        "K.P. Sharma Oli",
+        "Sher Bahadur Deuba"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Nepal’s former Prime Minister Sher Bahadur Deuba recently returned to the country after spending over five months abroad for medical treatment. He and his wife, Arzu Rana Deuba, were seriously injured during violent anti-government protests on September 9, 2025, which led to the fall of the K.P. Sharma Oli government.",
+      "background": "Sher Bahadur Deuba is a prominent figure in Nepali politics, having served multiple terms as Prime Minister. His return after a period of significant political upheaval and personal injury marks an important event in Nepal's political landscape, potentially influencing future political dynamics.",
+      "examRelevance": "Former Nepal PM Sher Bahadur Deuba returned after medical treatment.",
+      "tags": [
+        "Sher Bahadur Deuba",
+        "Nepal",
+        "Former PM",
+        "Medical Treatment",
+        "Political Protests"
+      ],
+      "source": {
+        "title": "Nepal’s former PM Deuba returns after over five months abroad for treatment",
+        "url": "https://www.thehindu.com/news/international/nepals-former-pm-deuba-returns-after-over-five-months-abroad-for-treatment/article71342758.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q27",
+      "question": "The European Union's recently enacted legislation, the Artificial Intelligence (AI) Act, is seen as an opportunity for India to build an industry around which aspect?",
+      "options": [
+        "AI research and development",
+        "AI paperwork and proof of compliance",
+        "AI hardware manufacturing",
+        "AI ethical guidelines formulation"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Europe's Artificial Intelligence (AI) Act, a recently enacted legislation, is seen as an opportunity for India. India could potentially build an industry around the extensive paperwork and proof of compliance required under this new EU regulation.",
+      "background": "The EU AI Act is the world's first comprehensive legal framework for artificial intelligence, establishing strict rules for high-risk AI systems. This creates a new market for services related to compliance, auditing, and documentation, which India, with its strong IT services sector, could leverage.",
+      "examRelevance": "India can build an industry around paperwork and proof required by EU AI Act.",
+      "tags": [
+        "EU AI Act",
+        "India",
+        "Artificial Intelligence",
+        "Compliance",
+        "Tech Opportunity"
+      ],
+      "source": {
+        "title": "Europe’s AI rules may become India’s opportunity",
+        "url": "https://www.thehindu.com/opinion/op-ed/europes-ai-rules-may-become-indias-opportunity/article71342087.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q28",
+      "question": "India recently emerged as overall champions in which international sporting event, winning 13 gold, 8 silver, and 14 bronze medals across U-23 and senior competitions?",
+      "options": [
+        "Commonwealth Fencing",
+        "World Fencing Championships",
+        "Asian Fencing Championships",
+        "South Asian Games Fencing"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "India recently emerged as the overall champions in the Commonwealth Fencing event. Indian fencers secured an impressive medal tally of 13 gold, eight silver, and 14 bronze medals across both the U-23 and senior competitions.",
+      "background": "Fencing, a combat sport, has been gaining prominence in India, with increasing participation and international success. This victory at the Commonwealth Fencing Championships marks a significant achievement for Indian fencing, showcasing the growing talent and potential in the sport.",
+      "examRelevance": "India emerged overall champions in Commonwealth Fencing.",
+      "tags": [
+        "Commonwealth Fencing",
+        "India",
+        "Fencing",
+        "Sports",
+        "Medals"
+      ],
+      "source": {
+        "title": "India emerge overall champions in Commonwealth Fencing",
+        "url": "https://www.thehindu.com/sport/india-emerge-overall-champions-in-commonwealth-fencing/article71342745.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q29",
+      "question": "Which popular social media platform recently changed its wordmark logo for the first time in over a decade, aiming for a 'sharper and more modern' look?",
+      "options": [
+        "Twitter (X)",
+        "Snapchat",
+        "Instagram",
+        "Facebook"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Instagram recently changed its wordmark logo for the first time in over a decade. The change was announced by Instagram head Adam Mosseri, who described the new logo as 'sharper and more modern' while still referencing the original design and maintaining simplicity.",
+      "background": "Brand identity, including logos and wordmarks, is crucial for social media platforms to maintain relevance and appeal to their user base. Such changes often reflect evolving design trends, technological advancements, and strategic rebranding efforts to refresh the platform's image.",
+      "examRelevance": "Instagram changed its wordmark logo after over a decade.",
+      "tags": [
+        "Instagram",
+        "Wordmark Logo",
+        "Social Media",
+        "Technology",
+        "Adam Mosseri"
+      ],
+      "source": {
+        "title": "Instagram changes its wordmark logo after over a decade",
+        "url": "https://www.thehindu.com/sci-tech/technology/internet/instagram-changes-its-wordmark-logo-after-over-a-decade/article71342724.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-14-q30",
+      "question": "Sumit Sarkar, who recently passed away at 87, was an eminent scholar specializing in which field?",
+      "options": [
+        "World History",
+        "Ancient Indian History",
+        "Modern Indian History",
+        "Medieval Indian History"
+      ],
+      "answerIndex": 2,
+      "category": "Obituaries",
+      "explanation": "Sumit Sarkar, an eminent scholar of modern Indian history, recently passed away at the age of 87. He was known for his influential works such as 'Swadeshi Movement in Bengal, 1903-1908' (1973), 'Modern India' (1989), and 'Writing Social History' (1998).",
+      "background": "Sumit Sarkar was a distinguished historian whose critical analyses and extensive research significantly shaped the understanding of modern Indian social and political history, particularly the nationalist movement and colonial period. His contributions are widely recognized in academic circles.",
+      "examRelevance": "Sumit Sarkar, eminent scholar of modern Indian history, passed away at 87.",
+      "tags": [
+        "Sumit Sarkar",
+        "Obituary",
+        "Modern Indian History",
+        "Historian",
+        "Academician"
+      ],
+      "source": {
+        "title": "Sumit Sarkar, eminent scholar of modern Indian history, dies at 87",
+        "url": "https://www.thehindu.com/news/national/sumit-sarkar-eminent-scholar-of-modern-indian-history-dies-at-87/article71342624.ece"
+      }
+    }
+  ]
+}
