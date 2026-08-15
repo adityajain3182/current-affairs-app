@@ -1,0 +1,802 @@
+{
+  "id": "daily-2026-08-15",
+  "type": "daily",
+  "date": "2026-08-15",
+  "title": "Current Affairs — 15 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-15-q1",
+      "question": "Who among the following recently stated that the Strait of Hormuz will be opened and closed only under Iran's command?",
+      "options": [
+        "Hossein Amir-Abdollahian",
+        "Mohammad Javad Zarif",
+        "Ali Bagheri Kani",
+        "Kazem Gharibabadi"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Iran's Deputy Foreign Minister Kazem Gharibabadi recently stated that the Strait of Hormuz will be opened and closed solely under Iran's command, asserting the nation's control over the crucial waterway. This declaration was made amidst escalating tensions in the West Asia region.",
+      "background": "The Strait of Hormuz is a strategically vital waterway connecting the Persian Gulf with the Arabian Sea, through which a significant portion of the world's oil supply passes. Iran has historically threatened to close the strait in response to perceived threats or sanctions from the West.",
+      "examRelevance": "Kazem Gharibabadi, Iran's Deputy Foreign Minister, made a statement regarding Iran's control over the Strait of Hormuz.",
+      "tags": [
+        "Iran",
+        "Strait of Hormuz",
+        "Kazem Gharibabadi",
+        "International Relations"
+      ],
+      "source": {
+        "title": "West Asia war LIVE: Iran defiant on strait as Trump tells Americans to accept high gas prices",
+        "url": "https://www.thehindu.com/news/international/iran-us-war-west-asia-conflict-donald-trump-strait-of-hormuz-rising-oil-prices-live-updates-august-15-2026/article71348347.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q2",
+      "question": "What did former U.S. President Donald Trump recently announce regarding the Strait of Hormuz?",
+      "options": [
+        "He would propose joint U.S.-Iran control.",
+        "He would advocate for UN administration of the strait.",
+        "He would declare it an international demilitarized zone.",
+        "He would declare it U.S. territory."
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Former U.S. President Donald Trump recently announced his intention to 'soon' declare the Strait of Hormuz as U.S. territory. This statement comes amid heightened tensions in the West Asia region, particularly concerning Iran.",
+      "background": "The Strait of Hormuz is a critical chokepoint for global oil shipments. Declaring it U.S. territory would be an unprecedented and highly provocative move, likely to escalate international tensions, especially with Iran which views the strait as its sovereign maritime space.",
+      "examRelevance": "Donald Trump announced his intent to declare the Strait of Hormuz U.S. territory.",
+      "tags": [
+        "Donald Trump",
+        "Strait of Hormuz",
+        "US Foreign Policy",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Trump says will ‘soon’ declare Hormuz Strait U.S. territory",
+        "url": "https://www.thehindu.com/news/international/trump-says-will-soon-declare-hormuz-strait-us-territory/article71348358.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q3",
+      "question": "Which country recently signed a memorandum allowing private companies to spy on and attack transnational criminal organizations to combat cybercrime?",
+      "options": [
+        "United States",
+        "China",
+        "Russia",
+        "United Kingdom"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The United States, under President Donald Trump, recently signed a memorandum directing its departments of Justice and Homeland Security to allow certain US companies to spy on and attack transnational criminal organizations. This unprecedented measure aims to curb cybercrime, including ransomware, sextortion, and online fraud.",
+      "background": "The White House justified this approach by citing the substantial damage caused by cybercrime, which reportedly cost Americans over $20 billion in 2025. This move has divided experts, with some seeing potential for success and others warning of potential for escalation or loss of control.",
+      "examRelevance": "The US authorized private companies to hack foreign cybercriminal groups.",
+      "tags": [
+        "United States",
+        "Cybercrime",
+        "Donald Trump",
+        "Cybersecurity",
+        "International"
+      ],
+      "source": {
+        "title": "US bets on pvt 'pirates' to curb cybercrime",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-takes-risky-bet-on-private-pirates-to-combat-cybercrime/articleshow/133253889.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q4",
+      "question": "What was the estimated cost of damage caused by ransomware, 'sextortion,' and online fraud to Americans in 2025, as cited by the White House?",
+      "options": [
+        "Over $20 billion",
+        "Over $5 billion",
+        "Over $15 billion",
+        "Over $10 billion"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The White House cited that ransomware, 'sextortion,' and online fraud caused Americans damage exceeding $20 billion in 2025. This figure was used to justify the new measure allowing private companies to spy on and attack transnational criminal organizations.",
+      "background": "The increasing financial impact of cybercrime highlights the growing threat to national economies and individual citizens. Governments worldwide are exploring various strategies, including unconventional ones, to counter these sophisticated criminal networks.",
+      "examRelevance": "Cybercrime cost to Americans in 2025 was over $20 billion.",
+      "tags": [
+        "Cybercrime",
+        "Ransomware",
+        "Online Fraud",
+        "US Economy",
+        "Statistics"
+      ],
+      "source": {
+        "title": "US bets on pvt 'pirates' to curb cybercrime",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-takes-risky-bet-on-private-pirates-to-combat-cybercrime/articleshow/133253889.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q5",
+      "question": "Which anniversary of Independence Day is India commemorating on August 15, 2026?",
+      "options": [
+        "81st",
+        "79th",
+        "80th",
+        "78th"
+      ],
+      "answerIndex": 2,
+      "category": "Dates & Days",
+      "explanation": "India is commemorating its 80th Independence Day on August 15, 2026, marking a significant milestone in the nation's history since gaining freedom from colonial rule. The Prime Minister extended greetings to the people on this occasion.",
+      "background": "India achieved independence from British rule on August 15, 1947. The Independence Day celebrations across the country involve flag hoisting ceremonies, parades, and cultural events, with the Prime Minister addressing the nation from the Red Fort in Delhi.",
+      "examRelevance": "India's 80th Independence Day is being commemorated on August 15, 2026.",
+      "tags": [
+        "Independence Day",
+        "India",
+        "August 15",
+        "National Day",
+        "80th Anniversary"
+      ],
+      "source": {
+        "title": "Independence Day LIVE updates: PM Modi greets people",
+        "url": "https://www.thehindu.com/news/national/india-80th-independence-day-2026-live-updates-on-august-15-pm-modi-speech-red-fort/article71348349.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q6",
+      "question": "Which company reported that one of its vessels was recently attacked while transiting the Strait of Hormuz?",
+      "options": [
+        "ADNOC",
+        "Saudi Aramco",
+        "Kuwait Petroleum Corporation",
+        "QatarEnergy"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "ADNOC, the United Arab Emirates' national oil company, reported that one of its vessels came under attack while transiting the Strait of Hormuz. This incident occurred amidst escalating tensions in the West Asia region.",
+      "background": "The Strait of Hormuz is a crucial maritime chokepoint for global oil shipments, and incidents involving commercial vessels in this area often lead to heightened geopolitical concerns and impact oil markets. ADNOC is a major global energy company.",
+      "examRelevance": "ADNOC vessel was attacked in the Strait of Hormuz.",
+      "tags": [
+        "ADNOC",
+        "Strait of Hormuz",
+        "Maritime Security",
+        "West Asia",
+        "Energy"
+      ],
+      "source": {
+        "title": "ADNOC says one of its vessels attacked in Hormuz",
+        "url": "https://economictimes.indiatimes.com/news/defence/uaes-adnoc-says-one-of-its-vessels-came-under-attack-while-transiting-hormuz/articleshow/133253801.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q7",
+      "question": "What was the magnitude of the earthquake that recently struck off Indonesia, prompting a tsunami warning?",
+      "options": [
+        "7.7",
+        "8.1",
+        "7.0",
+        "6.5"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "A strong earthquake with a magnitude of 7.7 struck off Indonesia on August 15, 2026, leading to a tsunami warning issued by the country's Meteorology, Climatology, and Geophysics Agency (BMKG). The earthquake's epicenter was located in a seismically active region.",
+      "background": "Indonesia is situated on the Pacific Ring of Fire, a highly active seismic zone, making it prone to frequent earthquakes and tsunamis. The BMKG's prompt warning is crucial for coastal communities in such scenarios to take necessary precautions.",
+      "examRelevance": "The magnitude of the recent earthquake off Indonesia was 7.7.",
+      "tags": [
+        "Earthquake",
+        "Indonesia",
+        "Tsunami Warning",
+        "BMKG",
+        "Natural Disaster"
+      ],
+      "source": {
+        "title": "Magnitude 7.7 earthquake strikes off Indonesia",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/magnitude-7-7-earthquake-strikes-off-indonesia-tsunami-warning-issued/articleshow/133253731.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q8",
+      "question": "Which institution did the Supreme Court recently bar from taking coercive action against NALSAR students, faculty, or administration?",
+      "options": [
+        "Bar Council of India (BCI)",
+        "Ministry of Education",
+        "All India Council for Technical Education (AICTE)",
+        "University Grants Commission (UGC)"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently barred the Bar Council of India (BCI) from taking coercive action against NALSAR University of Law students, faculty, or administration. The court's decision came after a plea by NALSAR alumni, who argued that BCI letters created a chilling effect on freedom of speech.",
+      "background": "The BCI is the statutory body that regulates legal education and legal practice in India. Its interference in academic matters of law universities has sometimes led to conflicts, prompting judicial intervention to protect academic autonomy and freedom of expression.",
+      "examRelevance": "Supreme Court barred BCI from taking coercive action against NALSAR.",
+      "tags": [
+        "Supreme Court",
+        "Bar Council of India",
+        "BCI",
+        "NALSAR",
+        "Legal Education",
+        "Judiciary"
+      ],
+      "source": {
+        "title": "CJI criticises BCI’s interference in ‘dialogue’ between him and students",
+        "url": "https://www.thehindu.com/news/national/supreme-court-condemns-bar-council-nalsar-enrolment-freeze-circulars-withdrawal-cji-surya-kant/article71344255.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q9",
+      "question": "Who recently pleaded guilty to federal stalking charges in connection with the killing of UnitedHealthcare CEO Brian Thompson?",
+      "options": [
+        "John Smith",
+        "Robert Johnson",
+        "David Miller",
+        "Luigi Mangione"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "Luigi Mangione recently pleaded guilty to federal stalking charges on August 14, 2026, in connection with the killing of UnitedHealthcare CEO Brian Thompson. Mangione had long denied his role in the killing before his confession.",
+      "background": "Brian Thompson, CEO of UnitedHealthcare, was killed in an incident that garnered significant public attention. The guilty plea by Luigi Mangione marks a major development in the legal proceedings surrounding the high-profile case.",
+      "examRelevance": "Luigi Mangione pleaded guilty to stalking charges in Brian Thompson's killing.",
+      "tags": [
+        "Luigi Mangione",
+        "Brian Thompson",
+        "UnitedHealthcare",
+        "Homicide",
+        "Legal Case"
+      ],
+      "source": {
+        "title": "‘I shot Mr. Thompson’: Luigi Mangione’s stunning confession UnitedHealthcare CEO Brian Thompson’s killing",
+        "url": "https://www.thehindu.com/news/international/i-shot-mr-thompson-luigi-mangiones-stunning-confession-unitedhealthcare-ceo-brian-thompsons-killing/article71347247.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q10",
+      "question": "Which Indonesian agency warned of a potential tsunami following the recent 7.7-magnitude earthquake off its coast?",
+      "options": [
+        "Meteorology, Climatology, and Geophysics Agency (BMKG)",
+        "Geological Agency of Indonesia (Badan Geologi)",
+        "National Disaster Management Agency (BNPB)",
+        "National Search and Rescue Agency (BASARNAS)"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Indonesia’s Meteorology, Climatology, and Geophysics Agency (BMKG) warned of the possibility of tsunami waves being generated by the 7.7-magnitude earthquake that struck off Indonesia on August 15, 2026. The agency plays a crucial role in monitoring seismic activity and issuing warnings.",
+      "background": "As an archipelago nation highly susceptible to geological hazards, Indonesia relies heavily on agencies like BMKG for timely warnings to mitigate the impact of natural disasters. The prompt issuance of a tsunami warning allows coastal communities to take necessary precautions.",
+      "examRelevance": "BMKG (Indonesia's Meteorology, Climatology, and Geophysics Agency) issued a tsunami warning after the earthquake.",
+      "tags": [
+        "Indonesia",
+        "Earthquake",
+        "Tsunami",
+        "BMKG",
+        "Natural Disaster",
+        "Warning"
+      ],
+      "source": {
+        "title": "Strong 7.7-magnitude quake strikes off Indonesia: USGS",
+        "url": "https://www.thehindu.com/news/international/indonesia-earthquake-august-15-2026/article71347456.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q11",
+      "question": "What is the estimated value of Kashmir's famed bat-making industry, which supports at least 50,000 livelihoods?",
+      "options": [
+        "₹700 crore",
+        "₹900 crore",
+        "₹300 crore",
+        "₹500 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Kashmir's renowned bat-making industry is estimated to be worth ₹700 crore and supports at least 50,000 livelihoods. Since 2021, Kashmir willow bats have gained international recognition, with 47 international players reportedly using them in major tournaments.",
+      "background": "The industry, centered on Kashmir willow, faces challenges such as a shortage of willow, climate change, and smuggling, which threaten its future despite its recent global rise. It is a significant contributor to the local economy of Jammu and Kashmir.",
+      "examRelevance": "Kashmir's bat-making industry has an estimated value of ₹700 crore.",
+      "tags": [
+        "Kashmir",
+        "Bat-making",
+        "Cricket",
+        "Economy",
+        "Jammu & Kashmir",
+        "Willow"
+      ],
+      "source": {
+        "title": "Deflating the wind in the willows",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmirs-bat-making-industry-deflating-the-wind-in-the-willows/article71346986.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q12",
+      "question": "In which Indian city were four individuals recently arrested in connection with a ₹30 crore Ponzi and multi-level marketing scheme?",
+      "options": [
+        "Chennai",
+        "Bengaluru",
+        "Mumbai",
+        "Delhi"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Mumbai police recently arrested four individuals in connection with a ₹30 crore Ponzi and multi-level marketing scheme. The company involved was accused of accepting illegal investments, including cash, and promising fixed monthly returns of 5-7% without proper regulatory licenses.",
+      "background": "Ponzi schemes are fraudulent investment operations that pay returns to earlier investors with money taken from later investors. Regulatory bodies like the RBI and SEBI mandate licenses for companies accepting public deposits and investments to protect investors from such scams.",
+      "examRelevance": "Mumbai police arrested four individuals in a ₹30 crore Ponzi scheme.",
+      "tags": [
+        "Mumbai",
+        "Ponzi Scheme",
+        "Multi-level Marketing",
+        "Economic Crime",
+        "Fraud"
+      ],
+      "source": {
+        "title": "Four arrested in Mumbai in connection with ₹30 crore Ponzi, multi-level marketing scheme",
+        "url": "https://www.thehindu.com/news/cities/mumbai/four-arrested-in-mumbai-in-connection-with-30-crore-ponzi-multi-level-marketing-scheme/article71347096.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q13",
+      "question": "Which Chief Minister recently accused the Centre of dilly-dallying on the issue of Transaction of Business Rules for Jammu and Kashmir?",
+      "options": [
+        "Farooq Abdullah",
+        "Omar Abdullah",
+        "Ghulam Nabi Azad",
+        "Mehbooba Mufti"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Jammu and Kashmir Chief Minister Omar Abdullah recently accused the Centre of dilly-dallying on the issue of Transaction of Business Rules. These rules are mandatory to be drafted as per the J&K Reorganisation Act to define the roles and domains of the office of Chief Minister, the Council of Ministers, and the Lok Bhavan.",
+      "background": "The J&K Reorganisation Act, 2019, reorganized the erstwhile state of Jammu and Kashmir into the Union Territories of Jammu and Kashmir and Ladakh. The drafting of Transaction of Business Rules is crucial for the proper functioning of the legislative assembly and government in the Union Territory with a legislature.",
+      "examRelevance": "J&K CM Omar Abdullah criticized the Centre on Transaction of Business Rules for J&K.",
+      "tags": [
+        "Omar Abdullah",
+        "Jammu & Kashmir",
+        "J&K Reorganisation Act",
+        "Polity",
+        "Governance"
+      ],
+      "source": {
+        "title": "Upset by Centre’s response on business rules, reservation report, Omar Abdullah warns of Gen Z-style agitation in J&K",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/upset-by-centres-response-on-business-rules-reservationreport-omar-abdullah-warns-of-gen-z-styleagitationin-jk/article71346920.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q14",
+      "question": "Which High Court recently granted protection from arrest to an ex-TISS student, with the anticipatory bail plea scheduled to be heard on August 31?",
+      "options": [
+        "Madras High Court",
+        "Bombay High Court",
+        "Calcutta High Court",
+        "Delhi High Court"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Bombay High Court recently granted protection from arrest to an ex-TISS (Tata Institute of Social Sciences) student. The court scheduled the hearing for the anticipatory bail plea on August 31.",
+      "background": "Anticipatory bail is a pre-arrest bail, allowing a person to seek bail in anticipation of an arrest on accusation of having committed a non-bailable offence. High Courts and Sessions Courts have the power to grant such bail under Section 438 of the Criminal Procedure Code.",
+      "examRelevance": "Bombay High Court granted protection from arrest to an ex-TISS student.",
+      "tags": [
+        "Bombay High Court",
+        "TISS",
+        "Anticipatory Bail",
+        "Legal News",
+        "Judiciary"
+      ],
+      "source": {
+        "title": "Bombay High Court grants protection from arrest to ex-TISS student",
+        "url": "https://www.thehindu.com/news/national/bombay-high-court-grants-protection-from-arrest-to-ex-tiss-student/article71346538.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q15",
+      "question": "Which Chief Minister led a Tiranga Yatra as part of the 'Har Ghar Tiranga' campaign-2026 in Munger district?",
+      "options": [
+        "Tejashwi Yadav",
+        "Jitan Ram Manjhi",
+        "Nitish Kumar",
+        "Samrat Choudhary"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Bihar Chief Minister Samrat Choudhary led a Tiranga Yatra in Munger district as part of the 'Har Ghar Tiranga' campaign-2026. This initiative aims to foster patriotism and national integration, with thousands participating across Bihar and Jharkhand.",
+      "background": "The 'Har Ghar Tiranga' campaign encourages citizens to hoist the national flag at their homes during Independence Day celebrations. It was launched as part of Azadi Ka Amrit Mahotsav to commemorate 75 years of India's independence, and continues to be observed annually.",
+      "examRelevance": "Bihar CM Samrat Choudhary led a Tiranga Yatra in Munger district.",
+      "tags": [
+        "Samrat Choudhary",
+        "Bihar",
+        "Tiranga Yatra",
+        "Har Ghar Tiranga",
+        "Munger",
+        "Independence Day"
+      ],
+      "source": {
+        "title": "Thousands participate in Tiranga Yatra in Bihar, Jharkhand",
+        "url": "https://www.thehindu.com/news/national/thousands-participate-in-tiranga-yatra-in-bihar-jharkhand/article71345887.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q16",
+      "question": "Which state government recently announced its decision to set up a task force for drone policy implementation?",
+      "options": [
+        "Maharashtra",
+        "Gujarat",
+        "Karnataka",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The Maharashtra government recently announced its decision to set up a task force for drone policy implementation. Chief Minister Devendra Fadnavis stated that the policy aims to strengthen the existing drone ecosystem and attract new investments in the sector.",
+      "background": "Drones are emerging as a significant technology with applications in various fields, including agriculture, surveillance, logistics, and disaster management. Many states are developing drone policies to regulate their use, promote innovation, and ensure safety and security.",
+      "examRelevance": "Maharashtra government will set up a task force for drone policy implementation.",
+      "tags": [
+        "Maharashtra",
+        "Drone Policy",
+        "Task Force",
+        "Devendra Fadnavis",
+        "Technology",
+        "Governance"
+      ],
+      "source": {
+        "title": "Maharashtra government to set a task force for drone policy implementation",
+        "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-government-to-set-a-task-force-for-drone-policy-implementation/article71344469.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q17",
+      "question": "Who is the current President of World Athletics who recently warned against political interference in sport?",
+      "options": [
+        "Gianni Infantino",
+        "Thomas Bach",
+        "David Haggerty",
+        "Sebastian Coe"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Sebastian Coe, the President of World Athletics, recently warned against political interference in sport, stating that politicians should be 'on the bus but out of the driver’s seat.' He discussed various topics including the ban on Russian athletes and private equity in sports.",
+      "background": "Sebastian Coe is a former Olympic middle-distance runner and a prominent figure in international sports administration. His remarks highlight ongoing debates about the autonomy of sports organizations and the influence of national governments in sporting decisions.",
+      "examRelevance": "Sebastian Coe is the President of World Athletics.",
+      "tags": [
+        "Sebastian Coe",
+        "World Athletics",
+        "Sports Governance",
+        "International Sports",
+        "Appointments"
+      ],
+      "source": {
+        "title": "Sebastian Coe warns on interference in sport: Keep politicians on the bus but out of the driver’s seat",
+        "url": "https://www.thehindu.com/sport/sebastian-coe-warns-on-interference-in-sport-keep-politicians-on-the-bus-but-out-of-the-drivers-seat/article71347307.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q18",
+      "question": "Who won the men's PSA Challenger Tour in Kolkata recently, defeating top seed Mohamed Gohar?",
+      "options": [
+        "Refaay",
+        "Saurav Ghosal",
+        "Ramit Tandon",
+        "Omar Mosaad"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Third seed Refaay recently won the men's PSA Challenger Tour in Kolkata, defeating top seed compatriot Mohamed Gohar with a score of 6-11, 11-7, 11-7, 11-4. Sohayla also won in the women's category at the same event.",
+      "background": "The PSA Challenger Tour is a series of international squash tournaments organized by the Professional Squash Association (PSA), providing a platform for rising squash players to earn ranking points and prize money. Kolkata has been a host city for such events.",
+      "examRelevance": "Refaay won the men's PSA Challenger Tour in Kolkata.",
+      "tags": [
+        "Refaay",
+        "PSA Challenger Tour",
+        "Squash",
+        "Kolkata",
+        "Sports Winners"
+      ],
+      "source": {
+        "title": "Refaay, Sohayla win PSA Challenger Tour, Kolkata",
+        "url": "https://www.thehindu.com/sport/refaay-sohayla-win-psa-challenger-tour-kolkata/article71347306.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q19",
+      "question": "Which two-time European Cup-winning goalkeeper, who played for Manchester United and Aston Villa, recently passed away at age 78?",
+      "options": [
+        "Jimmy Rimmer",
+        "Ray Clemence",
+        "Peter Shilton",
+        "Gordon Banks"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Jimmy Rimmer, a two-time European Cup-winning goalkeeper who played for Manchester United and Aston Villa, recently passed away at the age of 78. He was with Manchester United from 1965-74, then Arsenal for three years, before joining Aston Villa from 1977-83.",
+      "background": "Rimmer was part of the Manchester United squad that won the European Cup in 1968 and also played a key role for Aston Villa when they won the European Cup in 1982. His career spanned several top English clubs, making him a respected figure in football history.",
+      "examRelevance": "Jimmy Rimmer, two-time European Cup-winning goalkeeper, passed away at 78.",
+      "tags": [
+        "Jimmy Rimmer",
+        "Obituary",
+        "Football",
+        "European Cup",
+        "Manchester United",
+        "Aston Villa"
+      ],
+      "source": {
+        "title": "Jimmy Rimmer, European Cup winner with Man United and Aston Villa, dies at age 78",
+        "url": "https://www.thehindu.com/sport/football/jimmy-rimmer-european-cup-winner-with-man-united-and-aston-villa-dies-at-age-78/article71347296.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q20",
+      "question": "Which Indian cricketer was recently ruled out of the Asia Cup and Asian Games due to a high-grade hamstring tear?",
+      "options": [
+        "Smriti Mandhana",
+        "Jemimah Rodrigues",
+        "Shafali Verma",
+        "Harmanpreet Kaur"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "The 25-year-old Indian cricketer Jemimah Rodrigues was recently ruled out of both the Asia Cup and the Asian Games due to a high-grade hamstring tear. The BCCI medical team assessed her injury.",
+      "background": "Jemimah Rodrigues is a prominent batter in the Indian women's cricket team, known for her attacking style. Her absence from major tournaments like the Asia Cup and Asian Games is a significant setback for the team, requiring other players to step up.",
+      "examRelevance": "Jemimah Rodrigues was ruled out of the Asia Cup and Asian Games due to a hamstring injury.",
+      "tags": [
+        "Jemimah Rodrigues",
+        "Cricket",
+        "Indian Women's Cricket",
+        "Asia Cup",
+        "Asian Games",
+        "Injury"
+      ],
+      "source": {
+        "title": "Jemimah Rodrigues ruled out of Asia Cup and Asian Games due to hamstring injury",
+        "url": "https://www.thehindu.com/sport/cricket/jemimah-rodrigues-ruled-out-of-asia-cup-and-asian-games-due-to-hamstring-injury/article71347295.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q21",
+      "question": "When is the WTA Chennai Open tennis tournament scheduled to be held in its third year?",
+      "options": [
+        "December 2-8",
+        "November 2-8",
+        "October 2-8",
+        "January 2-8 (next year)"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "The WTA Chennai Open tennis tournament is scheduled to be held from November 2 to 8. This marks the third year of the event, with strong corporate support, as announced by TNTA president Vijay Amritraj.",
+      "background": "The WTA Chennai Open is an international women's tennis tournament, part of the WTA Tour. It provides a significant platform for women tennis players and promotes the sport in India, particularly in Tamil Nadu, fostering local talent and interest.",
+      "examRelevance": "WTA Chennai Open is scheduled from November 2 to 8.",
+      "tags": [
+        "WTA Chennai Open",
+        "Tennis",
+        "WTA Tour",
+        "Chennai",
+        "Sports Event",
+        "Vijay Amritraj"
+      ],
+      "source": {
+        "title": "WTA Chennai Open from November 2 to 8",
+        "url": "https://www.thehindu.com/sport/tennis/wta-chennai-open-from-november-2-to-8/article71345144.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q22",
+      "question": "What regulatory cap was recently removed by the Indian government for television channels, citing adequate competition in the industry?",
+      "options": [
+        "Cap on total ad duration per hour",
+        "Cap on local content production",
+        "Cap on viewership ratings",
+        "Cap on foreign investment"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Indian government recently removed the 12-minute ad duration cap for television channels. The Ministry stated that this decision was made due to adequate competition within the TV industry and between TV and digital media.",
+      "background": "The 12-minute per hour cap on advertising was a regulatory measure aimed at improving viewer experience and ensuring a balance between content and commercials. Its removal signifies a shift in regulatory approach, recognizing the evolving media landscape and market dynamics.",
+      "examRelevance": "The government removed the 12-minute ad duration cap for TV channels.",
+      "tags": [
+        "TV Channels",
+        "Advertising",
+        "Regulatory Policy",
+        "Media Industry",
+        "Ministry of Information and Broadcasting"
+      ],
+      "source": {
+        "title": "Government removes 12-minute ad duration cap for TV channels",
+        "url": "https://www.thehindu.com/news/national/government-removes-12-minute-ad-duration-cap-for-tv-channels/article71346958.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q23",
+      "question": "How many CBI personnel were recently awarded medals for distinguished service by the President on the occasion of Independence Day?",
+      "options": [
+        "28",
+        "15",
+        "21",
+        "35"
+      ],
+      "answerIndex": 2,
+      "category": "Awards & Honours",
+      "explanation": "A total of 21 CBI personnel were recently awarded medals for distinguished service by the President on the occasion of Independence Day. Among the recipients of the President's Medal for Distinguished Service were Assistant Inspector General of Police Shobha Dutta and Additional Superintendents of Police Manoj Banerjee and Ginni Rana.",
+      "background": "These awards recognize the exceptional dedication, courage, and professionalism of personnel in various law enforcement and investigative agencies. The President's Medal for Distinguished Service is one of the highest honors for police and other public service personnel in India.",
+      "examRelevance": "21 CBI personnel were awarded medals for distinguished service.",
+      "tags": [
+        "CBI",
+        "President's Medal",
+        "Awards",
+        "Distinguished Service",
+        "Independence Day",
+        "Law Enforcement"
+      ],
+      "source": {
+        "title": "21 CBI personnel awarded medals for distinguished service",
+        "url": "https://www.thehindu.com/news/national/21-cbi-personnel-awarded-medals-for-distinguished-service/article71345107.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q24",
+      "question": "Which former Cambridge University professor, who became its youngest black professor in 2023, was recently found dead amidst a plagiarism scandal?",
+      "options": [
+        "Jason Arday",
+        "Cornel West",
+        "bell hooks",
+        "Henry Louis Gates Jr."
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Jason Arday, a former Cambridge University professor, was recently found dead in south London. Arday had become Cambridge's youngest black professor in 2023 but was later at the center of a plagiarism scandal involving parts of his doctoral thesis.",
+      "background": "Jason Arday's academic journey was notable for his rapid ascent and his achievement of becoming the youngest black professor at Cambridge. The subsequent plagiarism allegations, however, brought controversy to his career. His death marks a tragic end to a complex public life.",
+      "examRelevance": "Jason Arday, former Cambridge professor and youngest black professor in 2023, passed away amidst a plagiarism scandal.",
+      "tags": [
+        "Jason Arday",
+        "Cambridge University",
+        "Professor",
+        "Plagiarism",
+        "Obituary",
+        "UK"
+      ],
+      "source": {
+        "title": "Jason Arday, former Cambridge University professor at centre of plagiarism scandal, found dead",
+        "url": "https://www.thehindu.com/news/international/jason-arday-former-cambridge-university-professor-at-centre-of-plagiarism-scandal-found-dead-uk-media/article71347279.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q25",
+      "question": "Who was recently and unanimously elected as the Speaker of the Karnataka Assembly?",
+      "options": [
+        "G.S. Patil",
+        "Siddaramaiah",
+        "Basavaraj Bommai",
+        "D.K. Shivakumar"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "G.S. Patil, also known as 'Ron Gowdru', was recently and unanimously elected as the Speaker of the Karnataka Assembly. Besides being a politician, he is known as a farmer, educationist, sportsperson, and cooperative leader.",
+      "background": "The election of the Speaker is a key procedural step after a new legislative assembly is formed. The Speaker presides over the sittings of the assembly, maintains decorum, and ensures the smooth conduct of business, holding a crucial constitutional position.",
+      "examRelevance": "G.S. Patil was unanimously elected as the Speaker of the Karnataka Assembly.",
+      "tags": [
+        "G.S. Patil",
+        "Karnataka Assembly",
+        "Speaker",
+        "Appointments",
+        "Polity & Governance"
+      ],
+      "source": {
+        "title": "‘Ron Gowdru’ G.S. Patil unanimously elected Karnataka Assembly Speaker",
+        "url": "https://www.thehindu.com/news/national/karnataka/ron-gowdru-gs-patil-unanimously-elected-karnataka-assembly-speaker/article71345157.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q26",
+      "question": "Which High Court recently issued a revised circular regarding the singing of 'Tamil Thai Vazhthu' and 'Vande Mataram' during Independence Day 2026 celebrations in courts across Tamil Nadu and Puducherry?",
+      "options": [
+        "Kerala High Court",
+        "Madras High Court",
+        "Karnataka High Court",
+        "Andhra Pradesh High Court"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "The Madras High Court recently issued a revised circular clarifying that 'Tamil Thai Vazhthu' will be played first, followed by 'Vande Mataram', before the hoisting of the national flag during Independence Day 2026 celebrations in courts across Tamil Nadu and Puducherry.",
+      "background": "'Tamil Thai Vazhthu' is the State song of Tamil Nadu, and 'Vande Mataram' is India's national song. The circular provides a clear protocol for the sequence of these songs during official ceremonies, addressing previous ambiguities or debates.",
+      "examRelevance": "Madras High Court issued a circular on the sequence of 'Tamil Thai Vazhthu' and 'Vande Mataram' for Independence Day celebrations.",
+      "tags": [
+        "Madras High Court",
+        "Tamil Thai Vazhthu",
+        "Vande Mataram",
+        "Independence Day",
+        "Art & Culture",
+        "Polity"
+      ],
+      "source": {
+        "title": "Tamil Thai Vazhthu and Vande Mataram to be sung during Independence Day 2026 celebrations in courts across T.N. and Puducherry",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-to-play-vande-mataram-during-independence-day-2026-celebrations/article71344661.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q27",
+      "question": "What is the total value of the Army contracts for loiter munitions recently bagged by TASL and NIBE under the 'Buy Indian' category?",
+      "options": [
+        "₹2,000 crore",
+        "₹1,577 crore",
+        "₹1,850 crore",
+        "₹1,200 crore"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "TASL (Tata Advanced Systems Ltd) and NIBE recently bagged Army contracts worth ₹1,577 crore for loiter munitions. These contracts were processed under the 'Buy Indian' category through the Fast Track Procedure and were signed in the presence of Defence Secretary Rajesh Kumar Singh.",
+      "background": "Loiter munitions, also known as 'kamikaze' or 'suicide' drones, are a class of aerial weapon systems that can loiter around a target area for an extended period before identifying and attacking targets. The 'Buy Indian' category prioritizes indigenous defence procurement to boost domestic manufacturing and self-reliance in defense.",
+      "examRelevance": "TASL and NIBE secured ₹1,577 crore Army contracts for loiter munitions.",
+      "tags": [
+        "TASL",
+        "NIBE",
+        "Loiter Munitions",
+        "Army Contracts",
+        "Defence Procurement",
+        "Buy Indian"
+      ],
+      "source": {
+        "title": "TASL, NIBE bag ₹1,577-crore Army contracts for loiter munitions",
+        "url": "https://www.thehindu.com/news/national/tasl-nibe-bag-1577-crore-army-contracts-for-loiter-munitions/article71346174.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q28",
+      "question": "Who was recently chosen for the 'Thagaisal Thamizhar Award'?",
+      "options": [
+        "M. Krishnasamy",
+        "K. Anbazhagan",
+        "M. Karunanidhi",
+        "C.N. Annadurai"
+      ],
+      "answerIndex": 0,
+      "category": "Awards & Honours",
+      "explanation": "Former Tamil Nadu Congress Committee (TNCC) president M. Krishnasamy was recently chosen for the 'Thagaisal Thamizhar Award'. Hailing from a political family, he represented the erstwhile Vandavasi Lok Sabha constituency from 1991 to 1996 and the Arani Lok Sabha constituency from 2009 to 2014.",
+      "background": "The 'Thagaisal Thamizhar Award' is an honour bestowed by the Tamil Nadu government to recognize distinguished individuals who have made significant contributions to the state and its people. Such awards celebrate public service and political careers.",
+      "examRelevance": "M. Krishnasamy was chosen for the 'Thagaisal Thamizhar Award'.",
+      "tags": [
+        "M. Krishnasamy",
+        "Thagaisal Thamizhar Award",
+        "TNCC",
+        "Awards",
+        "Tamil Nadu",
+        "Politics"
+      ],
+      "source": {
+        "title": "Former TNCC president M. Krishnasamy chosen for Thagaisal Thamizhar Award",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/former-tncc-president-m-krishnasamy-chosen-for-thagaisal-thamizhar-award/article71346617.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q29",
+      "question": "According to Defence Minister Rajnath Singh, what is the reported value of India's defence production, which has risen nearly four-fold over the past 12 years?",
+      "options": [
+        "₹2.00 lakh crore",
+        "₹1.25 lakh crore",
+        "₹1.78 lakh crore",
+        "₹1.50 lakh crore"
+      ],
+      "answerIndex": 2,
+      "category": "Defence",
+      "explanation": "Defence Minister Rajnath Singh stated that India's defence production has risen nearly four-fold to ₹1.78 lakh crore over the past 12 years. He highlighted this achievement while addressing soldiers on the eve of the 80th Independence Day.",
+      "background": "This significant increase in defence production is attributed to initiatives like 'Aatmanirbhar Bharat' (Self-Reliant India) and 'Make in India', aimed at boosting indigenous manufacturing capabilities in the defence sector. Enhanced domestic production reduces reliance on foreign imports and strengthens national security.",
+      "examRelevance": "India's defence production value is ₹1.78 lakh crore (nearly four-fold rise in 12 years).",
+      "tags": [
+        "Defence Production",
+        "Rajnath Singh",
+        "Aatmanirbhar Bharat",
+        "Make in India",
+        "Defence Sector",
+        "Economy"
+      ],
+      "source": {
+        "title": "Defence production rises nearly four-fold to ₹1.78 lakh crore, says Rajnath Singh",
+        "url": "https://www.thehindu.com/news/national/defence-production-rises-nearly-four-fold-to-178-lakh-crore-says-rajnath-singh/article71346269.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-15-q30",
+      "question": "What capacity of biodegradable waste will the new plant approved by the Kochi Corporation Council at Brahmapuram be able to treat?",
+      "options": [
+        "100 tonnes",
+        "175 tonnes",
+        "125 tonnes",
+        "150 tonnes"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The Kochi Corporation Council recently approved a proposal for a new plant at Brahmapuram with the capacity to treat 150 tonnes of biodegradable waste. The proposal was passed through voting despite stiff opposition from LDF councillors.",
+      "background": "The Brahmapuram waste treatment plant has been a point of contention and environmental concern due to past issues with waste management and fires. The approval of a new plant with specific capacity aims to address the city's growing biodegradable waste management challenges.",
+      "examRelevance": "Kochi's new Brahmapuram plant will treat 150 tonnes of biodegradable waste.",
+      "tags": [
+        "Kochi",
+        "Brahmapuram",
+        "Waste Management",
+        "Biodegradable Waste",
+        "Environment",
+        "Kerala"
+      ],
+      "source": {
+        "title": "Kochi Corporation Council approves proposal for new plant at Brahmapuram",
+        "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-council-approves-proposal-for-new-plant-at-brahmapuram/article71346474.ece"
+      }
+    }
+  ]
+}
