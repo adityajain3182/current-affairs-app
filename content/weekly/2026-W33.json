@@ -1,0 +1,2612 @@
+{
+  "id": "weekly-2026-W33",
+  "type": "weekly",
+  "date": "2026-08-16",
+  "title": "Weekly Current Affairs — Week 33, 2026",
+  "questionCount": 100,
+  "questions": [
+    {
+      "id": "weekly-2026-W33-q1",
+      "question": "When is the WTA Chennai Open tennis tournament scheduled to be held in its third year?",
+      "options": [
+        "December 2-8",
+        "November 2-8",
+        "October 2-8",
+        "January 2-8 (next year)"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "The WTA Chennai Open tennis tournament is scheduled to be held from November 2 to 8. This marks the third year of the event, with strong corporate support, as announced by TNTA president Vijay Amritraj.",
+      "background": "The WTA Chennai Open is an international women's tennis tournament, part of the WTA Tour. It provides a significant platform for women tennis players and promotes the sport in India, particularly in Tamil Nadu, fostering local talent and interest.",
+      "examRelevance": "WTA Chennai Open is scheduled from November 2 to 8.",
+      "tags": [
+        "WTA Chennai Open",
+        "Tennis",
+        "WTA Tour",
+        "Chennai",
+        "Sports Event",
+        "Vijay Amritraj"
+      ],
+      "source": {
+        "title": "WTA Chennai Open from November 2 to 8",
+        "url": "https://www.thehindu.com/sport/tennis/wta-chennai-open-from-november-2-to-8/article71345144.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q2",
+      "question": "In July, Indian mutual fund managers largely pared down their holdings in which sector, while significantly increasing exposure to IT, auto, and pharma stocks?",
+      "options": [
+        "PSU bank sector",
+        "FMCG sector",
+        "Real Estate sector",
+        "Infrastructure sector"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "In July, Indian mutual fund managers reshuffled their portfolios, largely paring down holdings in the PSU bank sector. Concurrently, they increased their exposure to select IT, auto, and pharmaceutical names, as well as financial services plays including NBFCs and private sector lenders.",
+      "background": "Mutual fund investment trends often reflect broader market sentiment and expectations for sector performance. This shift suggests a preference for sectors with better earnings visibility and specific growth opportunities, moving away from public sector banks, possibly due to perceived risks or lower growth prospects.",
+      "examRelevance": "Mutual funds cut PSU bank exposure, increased IT, auto, pharma in July.",
+      "tags": [
+        "Mutual Funds",
+        "PSU Banks",
+        "IT Sector",
+        "Auto Sector",
+        "Pharma Sector"
+      ],
+      "source": {
+        "title": "MFs cut PSU bank exposure, raise bets on IT, auto pharma in July",
+        "url": "https://economictimes.indiatimes.com/mf/analysis/mfs-buy-into-it-auto-andpharma-cut-psu-bank-bets/articleshow/133226656.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q3",
+      "question": "What was the estimated cost of damage caused by ransomware, 'sextortion,' and online fraud to Americans in 2025, as cited by the White House?",
+      "options": [
+        "Over $20 billion",
+        "Over $5 billion",
+        "Over $15 billion",
+        "Over $10 billion"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The White House cited that ransomware, 'sextortion,' and online fraud caused Americans damage exceeding $20 billion in 2025. This figure was used to justify the new measure allowing private companies to spy on and attack transnational criminal organizations.",
+      "background": "The increasing financial impact of cybercrime highlights the growing threat to national economies and individual citizens. Governments worldwide are exploring various strategies, including unconventional ones, to counter these sophisticated criminal networks.",
+      "examRelevance": "Cybercrime cost to Americans in 2025 was over $20 billion.",
+      "tags": [
+        "Cybercrime",
+        "Ransomware",
+        "Online Fraud",
+        "US Economy",
+        "Statistics"
+      ],
+      "source": {
+        "title": "US bets on pvt 'pirates' to curb cybercrime",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-takes-risky-bet-on-private-pirates-to-combat-cybercrime/articleshow/133253889.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q4",
+      "question": "Which anniversary of Independence Day is India commemorating on August 15, 2026?",
+      "options": [
+        "81st",
+        "79th",
+        "80th",
+        "78th"
+      ],
+      "answerIndex": 2,
+      "category": "Dates & Days",
+      "explanation": "India is commemorating its 80th Independence Day on August 15, 2026, marking a significant milestone in the nation's history since gaining freedom from colonial rule. The Prime Minister extended greetings to the people on this occasion.",
+      "background": "India achieved independence from British rule on August 15, 1947. The Independence Day celebrations across the country involve flag hoisting ceremonies, parades, and cultural events, with the Prime Minister addressing the nation from the Red Fort in Delhi.",
+      "examRelevance": "India's 80th Independence Day is being commemorated on August 15, 2026.",
+      "tags": [
+        "Independence Day",
+        "India",
+        "August 15",
+        "National Day",
+        "80th Anniversary"
+      ],
+      "source": {
+        "title": "Independence Day LIVE updates: PM Modi greets people",
+        "url": "https://www.thehindu.com/news/national/india-80th-independence-day-2026-live-updates-on-august-15-pm-modi-speech-red-fort/article71348349.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q5",
+      "question": "According to recent reports, what was the total inflow into mutual fund Systematic Investment Plans (SIPs) in July, indicating continued steady growth from the previous month?",
+      "options": [
+        "₹31,961 crore",
+        "₹24,697 crore",
+        "₹28,973 crore",
+        "₹1.88 lakh crore"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "In July, mutual fund Systematic Investment Plans (SIPs) recorded a steady inflow of ₹31,961 crore. This figure slightly increased from the ₹31,781 crore recorded in June, indicating consistent investor confidence in SIPs.",
+      "background": "SIPs are a popular investment method for retail investors in India, allowing them to invest a fixed amount regularly in mutual funds. Their consistent growth often reflects broader investor sentiment and financial discipline.",
+      "examRelevance": "Mutual fund SIP inflows in July were ₹31,961 crore.",
+      "tags": [
+        "Mutual Funds",
+        "SIP",
+        "Equity",
+        "Debt Funds",
+        "Economy",
+        "Investment"
+      ],
+      "source": {
+        "title": "Equity MF bets lose some zip, seasonal debt flow lifts AUM",
+        "url": "https://economictimes.indiatimes.com/mf/analysis/equity-mf-bets-lose-some-zip-seasonal-debt-flow-lifts-aum/articleshow/133167381.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q6",
+      "question": "The U.S. has recently announced tightening economic sanctions against which country, citing its procurement of weapons and assistance to other individuals and entities?",
+      "options": [
+        "North Korea",
+        "Iran",
+        "Syria",
+        "Yemen"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The U.S. has tightened economic sanctions against Iran and other individuals and entities that it says are helping Iran procure weapons. These measures were announced by U.S. officials amid ongoing tensions in West Asia.",
+      "background": "Economic sanctions are a key tool in U.S. foreign policy to exert pressure on countries perceived to be engaging in activities contrary to U.S. interests, such as nuclear proliferation or support for terrorism. Tensions between the U.S. and Iran have been long-standing, often revolving around Iran's nuclear program and regional influence.",
+      "examRelevance": "U.S. tightened economic sanctions against Iran over weapons procurement.",
+      "tags": [
+        "U.S. Sanctions",
+        "Iran",
+        "West Asia",
+        "Economic Sanctions"
+      ],
+      "source": {
+        "title": "West Asia war LIVE: Bessent says U.S. to apply measures never seen on Iran",
+        "url": "https://www.thehindu.com/news/international/iran-us-war-west-asia-donald-trump-live-updates-august-14-2026/article71343866.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q7",
+      "question": "How many CBI personnel were recently awarded medals for distinguished service by the President on the occasion of Independence Day?",
+      "options": [
+        "28",
+        "15",
+        "21",
+        "35"
+      ],
+      "answerIndex": 2,
+      "category": "Awards & Honours",
+      "explanation": "A total of 21 CBI personnel were recently awarded medals for distinguished service by the President on the occasion of Independence Day. Among the recipients of the President's Medal for Distinguished Service were Assistant Inspector General of Police Shobha Dutta and Additional Superintendents of Police Manoj Banerjee and Ginni Rana.",
+      "background": "These awards recognize the exceptional dedication, courage, and professionalism of personnel in various law enforcement and investigative agencies. The President's Medal for Distinguished Service is one of the highest honors for police and other public service personnel in India.",
+      "examRelevance": "21 CBI personnel were awarded medals for distinguished service.",
+      "tags": [
+        "CBI",
+        "President's Medal",
+        "Awards",
+        "Distinguished Service",
+        "Independence Day",
+        "Law Enforcement"
+      ],
+      "source": {
+        "title": "21 CBI personnel awarded medals for distinguished service",
+        "url": "https://www.thehindu.com/news/national/21-cbi-personnel-awarded-medals-for-distinguished-service/article71345107.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q8",
+      "question": "Which state's Food and Drug Administration (FDA) is set to introduce an end-to-end digitisation initiative for milk traceability to combat adulteration?",
+      "options": [
+        "Gujarat",
+        "Uttar Pradesh",
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Maharashtra's Food and Drug Administration (FDA) is set to introduce an end-to-end digitisation initiative aimed at ensuring milk traceability. This project will connect milk to milch animals and trace anomalies, thereby helping to arrest the adulteration process and ensure quality.",
+      "background": "Milk adulteration is a significant concern in India, posing health risks to consumers and economic losses to dairy farmers. Digitisation and traceability systems are modern technological solutions being adopted to enhance food safety and regulatory oversight in the dairy sector.",
+      "examRelevance": "Maharashtra FDA's end-to-end digitisation for milk traceability is a key state-level initiative against adulteration.",
+      "tags": [
+        "Maharashtra FDA",
+        "Milk Traceability",
+        "Digitisation",
+        "Food Adulteration",
+        "Schemes & Projects"
+      ],
+      "source": {
+        "title": "Maharashtra FDA to introduce end-to-end traceability of milk to fight adulteration",
+        "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-to-introduce-end-to-end-traceability-of-milk-to-fight-adulteration/article71325631.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q9",
+      "question": "What capacity of biodegradable waste will the new plant approved by the Kochi Corporation Council at Brahmapuram be able to treat?",
+      "options": [
+        "100 tonnes",
+        "175 tonnes",
+        "125 tonnes",
+        "150 tonnes"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The Kochi Corporation Council recently approved a proposal for a new plant at Brahmapuram with the capacity to treat 150 tonnes of biodegradable waste. The proposal was passed through voting despite stiff opposition from LDF councillors.",
+      "background": "The Brahmapuram waste treatment plant has been a point of contention and environmental concern due to past issues with waste management and fires. The approval of a new plant with specific capacity aims to address the city's growing biodegradable waste management challenges.",
+      "examRelevance": "Kochi's new Brahmapuram plant will treat 150 tonnes of biodegradable waste.",
+      "tags": [
+        "Kochi",
+        "Brahmapuram",
+        "Waste Management",
+        "Biodegradable Waste",
+        "Environment",
+        "Kerala"
+      ],
+      "source": {
+        "title": "Kochi Corporation Council approves proposal for new plant at Brahmapuram",
+        "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-council-approves-proposal-for-new-plant-at-brahmapuram/article71346474.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q10",
+      "question": "A Lok Sabha panel stated that charges against which High Court Justice regarding a cash discovery case were 'proved'?",
+      "options": [
+        "Justice A.K. Sikri",
+        "Justice N.V. Ramana",
+        "Justice Yashwant Varma",
+        "Justice U.U. Lalit"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "A Lok Sabha panel concluded that charges against Justice Yashwant Varma regarding a cash discovery case were 'proved'. The three-member inquiry committee stated that his explanation did not demonstrate the candour, transparency, and institutional responsibility expected of a judge in such circumstances. Following this, the CJI formed another three-member committee for a deeper probe.",
+      "background": "The allegations against Justice Varma stemmed from a significant amount of cash allegedly found at his home during a fire incident. Such inquiries against sitting judges are rare and are part of a confidential procedure for institutional credibility, typically initiated under the charge of the Chief Justice of India.",
+      "examRelevance": "Lok Sabha panel stated charges against Justice Yashwant Varma were 'proved' in cash discovery case.",
+      "tags": [
+        "Justice Yashwant Varma",
+        "Lok Sabha Panel",
+        "Judiciary",
+        "Cash Discovery Case",
+        "Polity"
+      ],
+      "source": {
+        "title": "Cash discovery case: Charges against Justice Yashwant Varma “proved”, says Lok Sabha panel",
+        "url": "https://www.thehindu.com/news/national/parliament-panel-findings-on-justice-yashwant-varma-cash-row/article71335931.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q11",
+      "question": "Who has replaced Lowdon as the Cadillac F1 team principal?",
+      "options": [
+        "Andreas Seidl",
+        "Otmar Szafnauer",
+        "Frederic Vasseur",
+        "Adam Budkowski"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Adam Budkowski, a 49-year-old Polish-French engineer, has replaced Lowdon as the Cadillac F1 team principal. Budkowski has previously held significant positions at various Formula 1 teams, including Ferrari and McLaren, as well as with the governing body FIA.",
+      "background": "Team principal roles in Formula 1 are crucial for managing the team's operations, strategy, and development. Cadillac's entry into Formula 1 is a relatively new development, and this appointment is part of building its leadership structure.",
+      "examRelevance": "Adam Budkowski appointed as Cadillac F1 team principal.",
+      "tags": [
+        "Adam Budkowski",
+        "Cadillac F1",
+        "Team Principal",
+        "Motorsport"
+      ],
+      "source": {
+        "title": "Budkowski replaces Lowdon as Cadillac F1 team principal",
+        "url": "https://www.thehindu.com/sport/motorsport/budkowski-replaces-lowdon-as-cadillac-f1-team-principal/article71338341.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q12",
+      "question": "The European Union's recently enacted legislation, the Artificial Intelligence (AI) Act, is seen as an opportunity for India to build an industry around which aspect?",
+      "options": [
+        "AI research and development",
+        "AI paperwork and proof of compliance",
+        "AI hardware manufacturing",
+        "AI ethical guidelines formulation"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Europe's Artificial Intelligence (AI) Act, a recently enacted legislation, is seen as an opportunity for India. India could potentially build an industry around the extensive paperwork and proof of compliance required under this new EU regulation.",
+      "background": "The EU AI Act is the world's first comprehensive legal framework for artificial intelligence, establishing strict rules for high-risk AI systems. This creates a new market for services related to compliance, auditing, and documentation, which India, with its strong IT services sector, could leverage.",
+      "examRelevance": "India can build an industry around paperwork and proof required by EU AI Act.",
+      "tags": [
+        "EU AI Act",
+        "India",
+        "Artificial Intelligence",
+        "Compliance",
+        "Tech Opportunity"
+      ],
+      "source": {
+        "title": "Europe’s AI rules may become India’s opportunity",
+        "url": "https://www.thehindu.com/opinion/op-ed/europes-ai-rules-may-become-indias-opportunity/article71342087.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q13",
+      "question": "Which Indian port is currently experiencing significant cargo delays, reportedly up to 40 days, which is putting India’s rice export boom at risk?",
+      "options": [
+        "Kandla",
+        "Paradip",
+        "Mundra",
+        "Chennai"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "India's rice export boom is currently at risk due to a significant cargo pile-up at the Kandla port. The port is experiencing delays of up to 40 days, impacting the timely shipment of rice.",
+      "background": "Kandla Port, officially known as Deendayal Port, is a major port in Gujarat, India, located on the Gulf of Kutch. It is one of the largest ports in India by cargo handled and is crucial for India's trade, including agricultural exports.",
+      "examRelevance": "Kandla port faces 40-day cargo delays, affecting India's rice exports.",
+      "tags": [
+        "Kandla Port",
+        "Rice exports",
+        "India",
+        "Cargo delays",
+        "Economy"
+      ],
+      "source": {
+        "title": "Port pile-up puts India’s rice export boom at risk",
+        "url": "https://economictimes.indiatimes.com/news/economy/agriculture/kandla-ports-40-day-cargo-delays-put-indias-rice-exports-at-risk/articleshow/133168258.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q14",
+      "question": "Under the 'One Health' approach, Uttar Pradesh successfully conducted active surveillance for Avian Influenza among wild migratory birds at how many Ramsar and other important wetland sites?",
+      "options": [
+        "10",
+        "19",
+        "15",
+        "25"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Under the 'RISE Global Health Security (RISE GHS) Project', the Animal Husbandry Department of Uttar Pradesh, in collaboration with the Forest and Wildlife Department, successfully conducted active surveillance for Avian Influenza among wild migratory birds at 19 Ramsar and other important wetland sites.",
+      "background": "The 'One Health' approach recognizes that the health of humans, animals, and the environment are interconnected. Active surveillance for zoonotic diseases like Avian Influenza in wildlife populations is crucial for early identification and reporting, preventing potential outbreaks and ensuring public health.",
+      "examRelevance": "Uttar Pradesh conducted Avian Influenza surveillance at 19 wetland sites under the 'One Health' approach, a key environmental and public health initiative.",
+      "tags": [
+        "One Health",
+        "Uttar Pradesh",
+        "Avian Influenza",
+        "Ramsar Sites",
+        "Wildlife",
+        "Environment"
+      ],
+      "source": {
+        "title": "Pushing One Health approach, U.P. priorities early identification and reporting of emerging zoonotic diseases",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/pushing-one-health-approach-up-priorities-early-identification-and-reporting-of-emerging-zoonotic-diseases/article71325413.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q15",
+      "question": "The 'Indiramma Housing scheme' is a flagship housing program in which Indian state, where beneficiaries are facing challenges due to construction costs exceeding the ₹5 lakh subsidy?",
+      "options": [
+        "Telangana",
+        "Karnataka",
+        "Kerala",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The 'Indiramma Housing scheme' is a flagship housing program implemented in Telangana. Under this scheme, thousands of people await selection for housing benefits, but many beneficiaries are struggling as the provided ₹5 lakh subsidy often falls short of the actual construction costs, forcing them to incur additional debts.",
+      "background": "Government housing schemes aim to provide affordable shelter to economically weaker sections. However, rising construction material costs and other expenses can lead to a gap between the sanctioned subsidy and the actual expenditure, creating financial burden for beneficiaries, as seen in the Indiramma Housing scheme.",
+      "examRelevance": "Indiramma Housing scheme is a flagship program in Telangana.",
+      "tags": [
+        "Indiramma Housing Scheme",
+        "Telangana",
+        "Housing Schemes",
+        "Government Projects"
+      ],
+      "source": {
+        "title": "Dream homes, mounting debts in Telangana",
+        "url": "https://www.thehindu.com/news/national/telangana/dream-homes-mounting-debts-in-telangana/article71341299.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q16",
+      "question": "The high-stakes federal trial against Meta, focusing on legal proceedings targeting social networks, is set to begin with jury selection on August 12, 2026, in which U.S. city?",
+      "options": [
+        "New York City",
+        "San Francisco",
+        "Los Angeles",
+        "Oakland"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Meta will face a high-stakes federal trial in the U.S., with jury selection beginning on August 12, 2026, at a federal court in Oakland. This trial is one of the most consequential legal proceedings targeting social networks in the United States.",
+      "background": "Social media companies like Meta (formerly Facebook) frequently face legal challenges concerning data privacy, antitrust, and content moderation across various jurisdictions. This trial is part of ongoing scrutiny of major tech firms in the U.S. and globally.",
+      "examRelevance": "Meta's federal trial in Oakland, starting August 12, 2026, is a key legal development in the tech sector.",
+      "tags": [
+        "Meta",
+        "Trial",
+        "Oakland",
+        "Social Networks",
+        "U.S. Law"
+      ],
+      "source": {
+        "title": "Meta will soon face another high-stakes trial in U.S.",
+        "url": "https://www.thehindu.com/news/international/meta-will-soon-face-another-high-stakes-trial-in-us/article71326861.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q17",
+      "question": "The Chandigarh administration recently sought the Vice-President’s help to halt the auction of heritage furniture belonging to which Indian university, listed for sale by a Chicago-based auction house?",
+      "options": [
+        "Jawaharlal Nehru University",
+        "Delhi University",
+        "Panjab University",
+        "Aligarh Muslim University"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "The Chandigarh administration has appealed to the Vice-President to intervene and halt the auction of heritage furniture from Panjab University. A Chicago-based auction house has listed these items for sale, including student residence chairs of PU with an estimated price of $12,000-$15,000.",
+      "background": "Panjab University has a rich architectural and design heritage, with many of its buildings and furniture designed by renowned architects like Le Corbusier. Such heritage items often become targets for international auctions, leading to efforts for their repatriation.",
+      "examRelevance": "Panjab University heritage furniture is listed for auction in a Chicago-based auction house, prompting intervention.",
+      "tags": [
+        "Panjab University",
+        "Chandigarh",
+        "Heritage furniture",
+        "Auction",
+        "U.S.",
+        "Vice President"
+      ],
+      "source": {
+        "title": "Chandigarh body seeks Vice-Presidents’ help to halt auction of Panjab University heritage furniture in U.S.",
+        "url": "https://www.thehindu.com/news/national/chandigarh/chandigarh-body-seeks-vice-presidents-help-to-halt-auction-of-panjab-university-heritage-furniture-in-us/article71332624.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q18",
+      "question": "The Enforcement Directorate (ED) recently arrested Mr. Bijnoriya in connection with the Nexa Evergreen money laundering case. He is accused of being one of the principal architects and operators of which group?",
+      "options": [
+        "Rose Valley Group",
+        "Nexa Evergreen Group",
+        "Sahara Group",
+        "Saradha Group"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Enforcement Directorate (ED) recently arrested Mr. Bijnoriya, one of the principal architects and operators of the Nexa Evergreen Group, in the Nexa Evergreen money laundering case. He is accused of carrying out fraudulent operations along with another partner in the firm.",
+      "background": "Money laundering cases involve concealing the origins of illegally obtained money, typically by passing it through a complex sequence of banking transfers or commercial transactions. The ED is India's primary agency for investigating economic crimes.",
+      "examRelevance": "ED arrested Bijnoriya, a principal operator of Nexa Evergreen Group, in a money laundering case.",
+      "tags": [
+        "ED",
+        "Bijnoriya",
+        "Nexa Evergreen",
+        "Money Laundering",
+        "Arrest"
+      ],
+      "source": {
+        "title": "ED arrests Bijnoriya in Nexa Evergreen money laundering case",
+        "url": "https://www.thehindu.com/news/national/rajasthan/ed-arrests-bijnoriya-in-nexa-evergreen-money-laundering-case/article71332893.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q19",
+      "question": "The West Bengal government recently withdrew the 'Banga Bibhusan' award from which BJP MP?",
+      "options": [
+        "Locket Chatterjee",
+        "Nagendra Roy",
+        "Sukanta Majumdar",
+        "Dilip Ghosh"
+      ],
+      "answerIndex": 1,
+      "category": "Awards & Honours",
+      "explanation": "The West Bengal government recently withdrew the 'Banga Bibhusan' award from BJP MP Nagendra Roy. He was conferred the award in February this year by the Trinamool Congress government but was later nominated to the Upper House from West Bengal in July 2023 as a candidate backed by the BJP.",
+      "background": "The 'Banga Bibhusan' is one of the highest civilian honors conferred by the Government of West Bengal. The withdrawal of such an award from a political figure, especially one who changed political affiliations, can be indicative of political tensions and disputes between the state government and opposition parties.",
+      "examRelevance": "West Bengal government withdrew Banga Bibhusan from BJP MP Nagendra Roy.",
+      "tags": [
+        "Banga Bibhusan",
+        "West Bengal",
+        "Nagendra Roy",
+        "BJP MP",
+        "Awards"
+      ],
+      "source": {
+        "title": "Bengal government withdraws Banga Bibhusan to BJP MP Nagendra Roy",
+        "url": "https://www.thehindu.com/news/national/west-bengal/bengal-government-withdraws-banga-bibhusan-to-bjp-mp-nagendra-roy/article71341237.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q20",
+      "question": "I Squared Capital is set to acquire oOh!media for A$1 billion. In which country is oOh!media, an out-of-home media company, primarily based?",
+      "options": [
+        "New Zealand",
+        "United Kingdom",
+        "Australia",
+        "Canada"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "I Squared Capital, a global infrastructure investment firm, is set to acquire oOh!media for A$1 billion. oOh!media is a prominent Australian out-of-home media company, known for its advertising assets across various public spaces.",
+      "background": "oOh!media is one of Australia's leading media companies, specializing in advertising on billboards, bus shelters, airports, and other public venues. This acquisition by I Squared Capital reflects a significant investment in the Australian media and advertising sector.",
+      "examRelevance": "I Squared Capital's acquisition of Australia's oOh!media for A$1 billion is a major business deal in the media sector.",
+      "tags": [
+        "I Squared Capital",
+        "oOh!media",
+        "Acquisition",
+        "Australia",
+        "Economy & Business"
+      ],
+      "source": {
+        "title": "I Squared Capital to acquire oOh!media for A$1bn",
+        "url": "https://economictimes.indiatimes.com/news/international/business/i-squared-wins-bidding-war-for-australias-oohmedia-with-735-million-deal/articleshow/133077241.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q21",
+      "question": "A trial recently opened in the killing of which legendary American rapper and artist, nearly 30 years after his death on September 7, 1996?",
+      "options": [
+        "Jam Master Jay",
+        "The Notorious B.I.G.",
+        "Tupac Shakur",
+        "Eazy-E"
+      ],
+      "answerIndex": 2,
+      "category": "Obituaries",
+      "explanation": "Proceedings for a trial in the killing of legendary rapper Tupac Shakur recently opened, nearly 30 years after he was shot and killed on September 7, 1996. The trial is expected to last a month.",
+      "background": "Tupac Shakur was one of the most influential and best-selling music artists of all time. His unsolved murder has been the subject of numerous theories and investigations for decades. The opening of a trial marks a significant development in this long-standing case.",
+      "examRelevance": "The trial opening for Tupac Shakur's killing is a major development concerning a prominent cultural figure.",
+      "tags": [
+        "Tupac Shakur",
+        "Trial",
+        "Music",
+        "Rapper",
+        "Obituary"
+      ],
+      "source": {
+        "title": "Thirty years on, a trial finally opens in Tupac Shakur's killing",
+        "url": "https://www.thehindu.com/news/international/thirty-years-on-a-trial-finally-opens-in-tupac-shakurs-killing/article71326846.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q22",
+      "question": "Millions of people gathered in Iceland and northern Spain to witness Western Europe’s first total solar eclipse in how many years?",
+      "options": [
+        "50 years",
+        "10 years",
+        "100 years",
+        "27 years"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Millions of people in Iceland and northern Spain gathered to witness Western Europe’s first total solar eclipse in 27 years. This rare astronomical event drew significant public attention and was observed by many across the region.",
+      "background": "A total solar eclipse occurs when the Moon passes between the Sun and Earth, completely blocking the face of the Sun. Such events are infrequent in specific geographical regions and are often subjects of scientific study and public fascination.",
+      "examRelevance": "Western Europe's first total solar eclipse in 27 years was witnessed in Iceland and northern Spain.",
+      "tags": [
+        "Solar Eclipse",
+        "Iceland",
+        "Spain",
+        "Astronomy",
+        "Science"
+      ],
+      "source": {
+        "title": "Total darkness, then sunset as full eclipse wows spectators in Spain",
+        "url": "https://www.thehindu.com/news/international/millions-of-people-in-iceland-and-spain-set-for-event-of-the-century-eclipse/article71336848.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q23",
+      "question": "In which district of Maharashtra did three students die of snakebite at a residential ashram school?",
+      "options": [
+        "Gadchiroli",
+        "Nanded",
+        "Yavatmal",
+        "Chandrapur"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "Three students died of snakebite in the early hours of Monday at the Japatlai Residential Ashram School in Dhanora taluka, Gadchiroli district, Maharashtra. The snake is suspected to be a krait.",
+      "background": "Residential ashram schools in remote tribal areas often face challenges related to infrastructure and safety, including protection from wildlife. This tragic incident highlights the need for improved safety measures in such institutions.",
+      "examRelevance": "Three students died of snakebite in Gadchiroli, Maharashtra.",
+      "tags": [
+        "Gadchiroli",
+        "Maharashtra",
+        "Snakebite",
+        "Ashram School"
+      ],
+      "source": {
+        "title": "Three students die of snakebite at Maharashtra school",
+        "url": "https://www.thehindu.com/news/national/maharashtra/snake-bites-tribal-girls-at-school-in-maharashtras-gadchiroli-some-dead-probe-ordered/article71327311.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q24",
+      "question": "The count of Samastha madrasas recently increased, with new recognitions in locations such as Bengaluru, Kasaragod, Malappuram, Palakkad, Dindigul, and Tirunelveli. What is the new total number of Samastha madrasas?",
+      "options": [
+        "9,999",
+        "12,050",
+        "11,134",
+        "10,876"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "The total count of Samastha madrasas has increased to 11,134. This rise follows the recognition of new madrasas in various locations, including Bengaluru, Kasaragod, Malappuram, Palakkad, Dindigul, and Tirunelveli.",
+      "background": "Samastha Kerala Jem-iyyathul Ulama is a prominent Sunni Muslim scholarly body in Kerala, India, that oversees a vast network of madrasas, providing religious and secular education.",
+      "examRelevance": "Samastha madrasa count rises to 11,134 after new recognitions.",
+      "tags": [
+        "Samastha",
+        "Madrasa",
+        "Education",
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "source": {
+        "title": "Samastha madrasa count rises to 11,134",
+        "url": "https://www.thehindu.com/news/national/kerala/samastha-madrasa-count-rises-to-11134/article71332180.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q25",
+      "question": "Which Chief Justice of India's invitation to be the chief guest at NALSAR University's convocation recently sparked dissent among students?",
+      "options": [
+        "U.U. Lalit",
+        "Surya Kant",
+        "N.V. Ramana",
+        "D.Y. Chandrachud"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Students at NALSAR University of Law expressed dissent and urged the university to reconsider the invitation extended to Chief Justice of India Surya Kant as the chief guest for their convocation. The invitation sparked controversy and discussion within the student body.",
+      "background": "Chief Justices of India are often invited as chief guests for significant academic events like convocations. However, such invitations can sometimes become points of contention if there are underlying student grievances or political sensitivities related to the judiciary or specific rulings.",
+      "examRelevance": "CJI Surya Kant's invitation to NALSAR and the subsequent student dissent highlights current issues in judicial perception and student activism.",
+      "tags": [
+        "CJI Surya Kant",
+        "NALSAR",
+        "Judiciary",
+        "Student Protest",
+        "Polity"
+      ],
+      "source": {
+        "title": "CJI Surya Kant invite sparks dissent at NALSAR",
+        "url": "https://economictimes.indiatimes.com/news/india/nalsar-students-urge-university-to-reconsider-cji-surya-kant-as-convocation-chief-guest/articleshow/133077469.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q26",
+      "question": "During the recent Kanwar Yatra, which district in Uttar Pradesh reported the highest number of casualties from road accidents involving pilgrims?",
+      "options": [
+        "Kaushambi",
+        "Varanasi",
+        "Meerut",
+        "Ghaziabad"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "During the Kanwar Yatra, the highest number of casualties from road accidents was reported from Kaushambi district in Uttar Pradesh, where one pilgrim was killed and 30 others were injured.",
+      "background": "The Kanwar Yatra is an annual pilgrimage of devotees of Shiva, where 'Kanwariyas' collect water from the Ganga and carry it to offer at Shiva temples. Due to the large number of participants and long distances covered, road accidents are a recurring concern during the Yatra, leading to traffic advisories in several states.",
+      "examRelevance": "Kaushambi district reported highest casualties in UP during Kanwar Yatra accidents.",
+      "tags": [
+        "Kanwar Yatra",
+        "Uttar Pradesh",
+        "Road Accidents",
+        "Kaushambi"
+      ],
+      "source": {
+        "title": "U.P.: 5 killed, 41 injured in separate road accidents involving devotees, Kanwars",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-5-killed-41-injured-in-separate-road-accidents-involving-devotees-kanwars/article71330861.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q27",
+      "question": "Which two-time European Cup-winning goalkeeper, who played for Manchester United and Aston Villa, recently passed away at age 78?",
+      "options": [
+        "Jimmy Rimmer",
+        "Ray Clemence",
+        "Peter Shilton",
+        "Gordon Banks"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Jimmy Rimmer, a two-time European Cup-winning goalkeeper who played for Manchester United and Aston Villa, recently passed away at the age of 78. He was with Manchester United from 1965-74, then Arsenal for three years, before joining Aston Villa from 1977-83.",
+      "background": "Rimmer was part of the Manchester United squad that won the European Cup in 1968 and also played a key role for Aston Villa when they won the European Cup in 1982. His career spanned several top English clubs, making him a respected figure in football history.",
+      "examRelevance": "Jimmy Rimmer, two-time European Cup-winning goalkeeper, passed away at 78.",
+      "tags": [
+        "Jimmy Rimmer",
+        "Obituary",
+        "Football",
+        "European Cup",
+        "Manchester United",
+        "Aston Villa"
+      ],
+      "source": {
+        "title": "Jimmy Rimmer, European Cup winner with Man United and Aston Villa, dies at age 78",
+        "url": "https://www.thehindu.com/sport/football/jimmy-rimmer-european-cup-winner-with-man-united-and-aston-villa-dies-at-age-78/article71347296.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q28",
+      "question": "Which company reported that one of its vessels was recently attacked while transiting the Strait of Hormuz?",
+      "options": [
+        "ADNOC",
+        "Saudi Aramco",
+        "Kuwait Petroleum Corporation",
+        "QatarEnergy"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "ADNOC, the United Arab Emirates' national oil company, reported that one of its vessels came under attack while transiting the Strait of Hormuz. This incident occurred amidst escalating tensions in the West Asia region.",
+      "background": "The Strait of Hormuz is a crucial maritime chokepoint for global oil shipments, and incidents involving commercial vessels in this area often lead to heightened geopolitical concerns and impact oil markets. ADNOC is a major global energy company.",
+      "examRelevance": "ADNOC vessel was attacked in the Strait of Hormuz.",
+      "tags": [
+        "ADNOC",
+        "Strait of Hormuz",
+        "Maritime Security",
+        "West Asia",
+        "Energy"
+      ],
+      "source": {
+        "title": "ADNOC says one of its vessels attacked in Hormuz",
+        "url": "https://economictimes.indiatimes.com/news/defence/uaes-adnoc-says-one-of-its-vessels-came-under-attack-while-transiting-hormuz/articleshow/133253801.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q29",
+      "question": "Which prominent Indian cricketer was recently replaced as India's Test vice-captain?",
+      "options": [
+        "Jasprit Bumrah",
+        "Shreyas Iyer",
+        "Rishabh Pant",
+        "KL Rahul"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Rishabh Pant has been replaced as India's Test vice-captain. This change will allow him to focus on his primary disciplines without the additional responsibilities of team discussions and leadership distractions, with the aim of bringing forth his most potent performance.",
+      "background": "The role of vice-captain in cricket is significant, involving leadership responsibilities and supporting the captain. Changes in leadership roles often reflect strategic decisions by team management to optimize player performance and team dynamics, especially for players recovering from injuries or in crucial phases of their career.",
+      "examRelevance": "Rishabh Pant's replacement as India's Test vice-captain is a notable development in Indian cricket.",
+      "tags": [
+        "Rishabh Pant",
+        "Indian Cricket",
+        "Test Cricket",
+        "Vice-captain",
+        "Sports"
+      ],
+      "source": {
+        "title": "Pant — an enigma at the crossroads",
+        "url": "https://www.thehindu.com/sport/pant-an-enigma-at-the-crossroads/article71325824.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q30",
+      "question": "Sumit Sarkar, who recently passed away at 87, was an eminent scholar specializing in which field?",
+      "options": [
+        "World History",
+        "Ancient Indian History",
+        "Modern Indian History",
+        "Medieval Indian History"
+      ],
+      "answerIndex": 2,
+      "category": "Obituaries",
+      "explanation": "Sumit Sarkar, an eminent scholar of modern Indian history, recently passed away at the age of 87. He was known for his influential works such as 'Swadeshi Movement in Bengal, 1903-1908' (1973), 'Modern India' (1989), and 'Writing Social History' (1998).",
+      "background": "Sumit Sarkar was a distinguished historian whose critical analyses and extensive research significantly shaped the understanding of modern Indian social and political history, particularly the nationalist movement and colonial period. His contributions are widely recognized in academic circles.",
+      "examRelevance": "Sumit Sarkar, eminent scholar of modern Indian history, passed away at 87.",
+      "tags": [
+        "Sumit Sarkar",
+        "Obituary",
+        "Modern Indian History",
+        "Historian",
+        "Academician"
+      ],
+      "source": {
+        "title": "Sumit Sarkar, eminent scholar of modern Indian history, dies at 87",
+        "url": "https://www.thehindu.com/news/national/sumit-sarkar-eminent-scholar-of-modern-indian-history-dies-at-87/article71342624.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q31",
+      "question": "According to Defence Minister Rajnath Singh, what is the reported value of India's defence production, which has risen nearly four-fold over the past 12 years?",
+      "options": [
+        "₹2.00 lakh crore",
+        "₹1.25 lakh crore",
+        "₹1.78 lakh crore",
+        "₹1.50 lakh crore"
+      ],
+      "answerIndex": 2,
+      "category": "Defence",
+      "explanation": "Defence Minister Rajnath Singh stated that India's defence production has risen nearly four-fold to ₹1.78 lakh crore over the past 12 years. He highlighted this achievement while addressing soldiers on the eve of the 80th Independence Day.",
+      "background": "This significant increase in defence production is attributed to initiatives like 'Aatmanirbhar Bharat' (Self-Reliant India) and 'Make in India', aimed at boosting indigenous manufacturing capabilities in the defence sector. Enhanced domestic production reduces reliance on foreign imports and strengthens national security.",
+      "examRelevance": "India's defence production value is ₹1.78 lakh crore (nearly four-fold rise in 12 years).",
+      "tags": [
+        "Defence Production",
+        "Rajnath Singh",
+        "Aatmanirbhar Bharat",
+        "Make in India",
+        "Defence Sector",
+        "Economy"
+      ],
+      "source": {
+        "title": "Defence production rises nearly four-fold to ₹1.78 lakh crore, says Rajnath Singh",
+        "url": "https://www.thehindu.com/news/national/defence-production-rises-nearly-four-fold-to-178-lakh-crore-says-rajnath-singh/article71346269.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q32",
+      "question": "Which country is set to make the filing of all immigration applications mandatory online?",
+      "options": [
+        "United States",
+        "Canada",
+        "Australia",
+        "United Kingdom"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The United States is set to make online filing of all immigration applications mandatory. This move aims to streamline the application process.",
+      "background": "Many countries are moving towards digitalizing government services, including immigration processes, to improve efficiency, reduce paperwork, and enhance accessibility. This change in the U.S. will impact a large number of applicants globally.",
+      "examRelevance": "U.S. to make immigration applications online-only.",
+      "tags": [
+        "United States",
+        "Immigration",
+        "Online Applications",
+        "Digitalization"
+      ],
+      "source": {
+        "title": "US to make immigration applications online-only",
+        "url": "https://economictimes.indiatimes.com/nri/migrate/us-set-to-make-online-filing-of-immigration-applications-mandatory/articleshow/133140279.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q33",
+      "question": "Which national event's reception at Rashtrapati Bhavan will showcase India's cultural heritage with folk dances and musical traditions from four states?",
+      "options": [
+        "Republic Day",
+        "Diwali",
+        "Gandhi Jayanti",
+        "Independence Day"
+      ],
+      "answerIndex": 3,
+      "category": "Dates & Days",
+      "explanation": "For the upcoming Independence Day Reception ('At Home'), Rashtrapati Bhavan is set to showcase the country’s rich cultural heritage. Around 35 artists from Chhattisgarh, Goa, Madhya Pradesh, and Maharashtra will present folk dances and musical traditions, including Maharashtra’s Lavani and Songhi Mukhawate.",
+      "background": "The 'At Home' reception at Rashtrapati Bhavan is a traditional event held on Independence Day, hosted by the President of India. It typically features cultural performances and is attended by dignitaries, officials, and invited guests, reflecting the nation's diversity and achievements.",
+      "examRelevance": "Independence Day Reception at Rashtrapati Bhavan to showcase cultural heritage.",
+      "tags": [
+        "Independence Day",
+        "Rashtrapati Bhavan",
+        "Cultural Heritage",
+        "Folk Dances"
+      ],
+      "source": {
+        "title": "For Independence Day Reception (At Home), Rashtrapati Bhavan to showcase country’s cultural heritage",
+        "url": "https://www.thehindu.com/news/national/for-i-day-reception-at-home-at-rashtrapati-bhavan-to-showcase-countrys-cultural-heritage/article71335842.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q34",
+      "question": "Which former Prime Minister of Nepal recently returned to the country after over five months abroad for medical treatment, having been seriously injured during violent protests in September 2025?",
+      "options": [
+        "Pushpa Kamal Dahal 'Prachanda'",
+        "Madhav Kumar Nepal",
+        "K.P. Sharma Oli",
+        "Sher Bahadur Deuba"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Nepal’s former Prime Minister Sher Bahadur Deuba recently returned to the country after spending over five months abroad for medical treatment. He and his wife, Arzu Rana Deuba, were seriously injured during violent anti-government protests on September 9, 2025, which led to the fall of the K.P. Sharma Oli government.",
+      "background": "Sher Bahadur Deuba is a prominent figure in Nepali politics, having served multiple terms as Prime Minister. His return after a period of significant political upheaval and personal injury marks an important event in Nepal's political landscape, potentially influencing future political dynamics.",
+      "examRelevance": "Former Nepal PM Sher Bahadur Deuba returned after medical treatment.",
+      "tags": [
+        "Sher Bahadur Deuba",
+        "Nepal",
+        "Former PM",
+        "Medical Treatment",
+        "Political Protests"
+      ],
+      "source": {
+        "title": "Nepal’s former PM Deuba returns after over five months abroad for treatment",
+        "url": "https://www.thehindu.com/news/international/nepals-former-pm-deuba-returns-after-over-five-months-abroad-for-treatment/article71342758.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q35",
+      "question": "Which national-level scheme, stalled since 2021, was recently termed a 'severe blow' to the talent pipeline by a parliamentary panel?",
+      "options": [
+        "National Talent Search Examination (NTSE)",
+        "Rashtriya Madhyamik Shiksha Abhiyan (RMSA)",
+        "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+        "Sarva Shiksha Abhiyan (SSA)"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "A parliamentary panel recently flagged the stalling of the National Talent Search Examination (NTSE) since 2021 as a 'severe blow' to the talent pipeline, citing delays in financial approval.",
+      "background": "The NTSE is a national-level scholarship program in India to identify and nurture talented students. Its suspension impacts thousands of meritorious students who aspire for financial aid and recognition for higher studies.",
+      "examRelevance": "National Talent Search Examination (NTSE) stalled since 2021.",
+      "tags": [
+        "NTSE",
+        "National Talent Search Examination",
+        "Education Scheme",
+        "Parliamentary Panel"
+      ],
+      "source": {
+        "title": "NTSE stalled: Panel flags 'severe blow'",
+        "url": "https://economictimes.indiatimes.com/news/india/ntse-stalled-since-2021-parliamentary-panel-calls-schemes-suspension-a-severe-blow-to-talent-pipeline-flags-financial-approval-delay/articleshow/133129174.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q36",
+      "question": "Pune is set to host the upcoming Junior Women’s National Hockey Championship, featuring 30 competing teams across Divisions A, B, and C. Which edition of this championship will be held in Pune?",
+      "options": [
+        "17th",
+        "16th",
+        "15th",
+        "18th"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "The 16th edition of the Junior Women’s National Hockey Championship will be held in Pune. This championship will feature 30 teams competing across Division ‘A’, Division ‘B’, and Division ‘C’, providing a structured pathway for teams to progress through the national system.",
+      "background": "National hockey championships are vital for identifying and nurturing young talent in India, feeding into the national teams. Hosting such events in different cities promotes the sport regionally.",
+      "examRelevance": "Pune to host the 16th Junior Women’s National Hockey Championship.",
+      "tags": [
+        "Hockey",
+        "Junior Women's National",
+        "Pune",
+        "Sports",
+        "Championship"
+      ],
+      "source": {
+        "title": "30 teams to compete in 16th Junior Women’s National Hockey in Pune",
+        "url": "https://www.thehindu.com/sport/hockey/30-teams-to-compete-in-16th-junior-womens-national-hockey-in-pune/article71333973.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q37",
+      "question": "Which company's board has approved the acquisition of the Portfolio Management Services (PMS) business of ICICI Securities?",
+      "options": [
+        "Axis Asset Management Co.",
+        "SBI Funds Management",
+        "HDFC Asset Management Co.",
+        "ICICI Prudential Asset Management Co."
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "ICICI Prudential Asset Management Co. announced that its board has approved the acquisition of the Portfolio Management Services (PMS) business of ICICI Securities through a slump sale. The PMS business caters primarily to high net worth individuals (HNIs).",
+      "background": "Acquisitions and mergers are common in the financial services sector as companies seek to expand their market share and product offerings. This acquisition will strengthen ICICI Prudential AMC's position in the wealth management segment.",
+      "examRelevance": "ICICI Prudential AMC to acquire PMS business of ICICI Securities.",
+      "tags": [
+        "ICICI Prudential AMC",
+        "ICICI Securities",
+        "PMS Business",
+        "Acquisition",
+        "Financial Services"
+      ],
+      "source": {
+        "title": "ICICI Prudential AMC to buy ISecs' PMS biz",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/icici-prudential-amc-to-buy-isecs-pms-business/articleshow/133136886.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q38",
+      "question": "Chelsea Football Club recently signed defender Chavarria on a five-year contract from which club?",
+      "options": [
+        "Barcelona",
+        "Atletico Madrid",
+        "Rayo Vallecano",
+        "Real Madrid"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Chelsea Football Club has signed defender Chavarria from Rayo Vallecano on a five-year contract. While financial details were not officially disclosed, British media reported that Chelsea paid an initial £16.3 million, with an additional £1.7 million in add-ons, for the 28-year-old player.",
+      "background": "Chelsea is a prominent English Premier League club known for significant transfers in the international football market. Rayo Vallecano is a Spanish football club. Major transfers like this are common during transfer windows as clubs aim to strengthen their squads.",
+      "examRelevance": "Chelsea signed defender Chavarria from Rayo Vallecano.",
+      "tags": [
+        "Chelsea",
+        "Chavarria",
+        "Rayo Vallecano",
+        "Football Transfer"
+      ],
+      "source": {
+        "title": "Chelsea sign defender Chavarria from Rayo Vallecano on five-year contract",
+        "url": "https://www.thehindu.com/sport/football/chelsea-sign-defender-chavarria-from-rayo-vallecano-on-five-year-contract/article71338358.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q39",
+      "question": "Which country recently cancelled a conference on Tibetan studies, sparking a controversy over whether its government has succumbed to pressure from Beijing?",
+      "options": [
+        "Bhutan",
+        "Nepal",
+        "India",
+        "Sri Lanka"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Nepal recently cancelled a conference on Tibetan studies, which was expected to host around 700 participants, including scholars from China. This cancellation has sparked controversy and debate over whether the Nepal government has succumbed to pressure from Beijing, which has steadily expanded its influence in Kathmandu.",
+      "background": "Tibet is a sensitive issue for China, which views it as an integral part of its territory and is wary of any international discussions that might be perceived as legitimizing Tibetan independence movements or culture outside its control. Nepal, sharing a long border with Tibet, often navigates a delicate balance in its foreign policy between India and China.",
+      "examRelevance": "Nepal cancelled a conference on Tibetan studies amid China pressure debate.",
+      "tags": [
+        "Nepal",
+        "Tibetan Studies",
+        "China Pressure",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Analysis: Nepal cancels conference on Tibetan studies amid China pressure debate",
+        "url": "https://www.thehindu.com/news/international/analysis-nepal-cancels-conference-on-tibetan-studies-amid-china-pressure-debate/article71341394.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q40",
+      "question": "Todd Blanche, former personal lawyer to Donald Trump, was recently sworn in as the Attorney General of which country?",
+      "options": [
+        "United Kingdom",
+        "Canada",
+        "Australia",
+        "United States"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Todd Blanche, who previously served as Donald Trump's personal lawyer, was recently sworn in as the Attorney General of the United States.",
+      "background": "The Attorney General is the chief law enforcement officer and chief lawyer of the U.S. government, heading the Department of Justice. This is a high-profile appointment, especially given Blanche's prior association with a former President.",
+      "examRelevance": "Todd Blanche sworn in as U.S. Attorney General.",
+      "tags": [
+        "Todd Blanche",
+        "Attorney General",
+        "United States",
+        "Appointments"
+      ],
+      "source": {
+        "title": "Trump’s ex-lawyer Blanche sworn in as AG",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/todd-blanche-trumps-former-personal-lawyer-sworn-in-as-attorney-general-after-bruising-confirmation-fight/articleshow/133140104.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q41",
+      "question": "The contribution of which historical figure is set to be included in West Bengal school textbooks from next year, following efforts by the new state government?",
+      "options": [
+        "Ishwar Chandra Vidyasagar",
+        "Syama Prasad Mookerjee",
+        "Rabindranath Tagore",
+        "Subhas Chandra Bose"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "The contribution of Syama Prasad Mookerjee is set to be included in West Bengal school textbooks from next year. This initiative follows the BJP coming to power in West Bengal, with the new government actively working to build statues and memorials in his name.",
+      "background": "Syama Prasad Mookerjee was an Indian politician, barrister, and academician who served as the Minister for Industry and Supply in Prime Minister Jawaharlal Nehru's first cabinet. He was also the founder of the Bharatiya Jana Sangh, the predecessor to the Bharatiya Janata Party (BJP). His legacy is a subject of political and historical debate.",
+      "examRelevance": "Syama Prasad Mookerjee's contribution to be included in West Bengal school textbooks.",
+      "tags": [
+        "Syama Prasad Mookerjee",
+        "West Bengal",
+        "School Textbooks",
+        "BJP"
+      ],
+      "source": {
+        "title": "Contribution of Syama Prasad to be included in school textbooks from next year: Adhikari",
+        "url": "https://www.thehindu.com/news/national/west-bengal/contribution-of-syama-prasad-to-be-included-in-school-textbooks-from-next-year-adhikari/article71341565.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q42",
+      "question": "Who recently received a one-year extension as the Director of the Enforcement Directorate (ED)?",
+      "options": [
+        "S.K. Singh",
+        "Karnal Singh",
+        "Sanjay Kumar Mishra",
+        "Rahul Navin"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Rahul Navin, a 1993-batch Indian Revenue Service officer of the Income Tax cadre, recently received a one-year extension as the Director of the Enforcement Directorate (ED). He has been serving as the full-time chief of the federal anti-money laundering agency since August 14, 2024.",
+      "background": "The Director of the Enforcement Directorate is a crucial post, leading India's primary agency for enforcing economic laws and combating financial crimes, including money laundering. Extensions to such high-profile positions often draw significant attention and debate.",
+      "examRelevance": "Rahul Navin's one-year extension as ED Director is a key appointment in India's financial enforcement sector.",
+      "tags": [
+        "Rahul Navin",
+        "ED Director",
+        "Enforcement Directorate",
+        "Appointments",
+        "IRS"
+      ],
+      "source": {
+        "title": "ED Director Rahul Navin gets one-year extension",
+        "url": "https://www.thehindu.com/news/national/ed-director-rahul-navin-gets-one-year-extension/article71325601.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q43",
+      "question": "Which two historically safer districts in Assam were significantly affected by recent floods, leading to 99 deaths and affecting 7.21 lakh people?",
+      "options": [
+        "Sivasagar and Charaideo",
+        "Kamrup and Goalpara",
+        "Nagaon and Morigaon",
+        "Dhemaji and Lakhimpur"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Sivasagar and Charaideo, two historically safer districts along the Assam-Nagaland border, were severely impacted by recent floods following heavy rainfall from July 18 to 22. The devastation led to 99 deaths and affected 7.21 lakh people.",
+      "background": "Assam is prone to floods during the monsoon season, but the recent devastation in traditionally less affected districts like Sivasagar and Charaideo highlights the changing patterns and increased intensity of rainfall events. The scale of damage underscores the challenge of recovery for the affected population.",
+      "examRelevance": "Sivasagar and Charaideo districts in Assam were severely affected by recent floods, causing 99 deaths and impacting 7.21 lakh people.",
+      "tags": [
+        "Assam Floods",
+        "Sivasagar",
+        "Charaideo",
+        "Natural Disaster",
+        "Environment"
+      ],
+      "source": {
+        "title": "A flood of woes in Assam",
+        "url": "https://www.thehindu.com/news/national/assam/a-flood-of-woes-in-assam/article71324998.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q44",
+      "question": "Following reports of snake bite deaths, the Chief Minister of which state recently ordered the cancellation of the license of a tribal residential school and the suspension of the inspecting official?",
+      "options": [
+        "Jharkhand",
+        "Maharashtra",
+        "Chhattisgarh",
+        "Odisha"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Maharashtra Chief Minister Fadnavis recently ordered the cancellation of the license of a tribal residential school in the state, following tragic snake bite deaths. He also mandated the suspension of the official who had previously inspected the school and submitted a report.",
+      "background": "Tribal residential schools, often located in remote areas, cater to the educational needs of tribal children. Ensuring their safety and proper infrastructure is crucial, and incidents like snake bite deaths highlight critical oversight failures.",
+      "examRelevance": "Maharashtra CM Fadnavis ordered cancellation of a tribal residential school's license due to snake bite deaths.",
+      "tags": [
+        "Maharashtra",
+        "Fadnavis",
+        "Tribal school",
+        "Snake bite",
+        "School license"
+      ],
+      "source": {
+        "title": "Maharashtra snake bite deaths: Fadnavis orders cancellation of licence of tribal residential school",
+        "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-snake-bite-deaths-fadnavis-orders-cancellation-of-licence-of-tribal-residential-school/article71333583.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q45",
+      "question": "According to IT Secretary N. Manjula, what is an economic imperative for the government?",
+      "options": [
+        "Cybersecurity",
+        "Quantum Computing",
+        "Digital Literacy",
+        "Artificial Intelligence Development"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "IT Secretary N. Manjula stated that cybersecurity is an economic imperative for the government. She emphasized its critical role in the context of India's digital economy and national security.",
+      "background": "Cybersecurity has become a paramount concern for governments worldwide due to the increasing reliance on digital infrastructure and the rising threat of cyberattacks. Ensuring robust cybersecurity measures is essential for protecting critical data, maintaining economic stability, and fostering trust in digital services.",
+      "examRelevance": "IT Secretary N. Manjula stated cybersecurity is an economic imperative for the government.",
+      "tags": [
+        "Cybersecurity",
+        "N. Manjula",
+        "IT Secretary",
+        "Government Policy",
+        "Digital Economy"
+      ],
+      "source": {
+        "title": "Cybersecurity is an economic imperative for the government: IT Secretary N. Manjula",
+        "url": "https://www.thehindu.com/news/national/karnataka/cybersecurity-is-an-economic-imperative-for-the-government-it-secretary-n-manjula-no-pic-on-dcx/article71337692.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q46",
+      "question": "Which former Cambridge University professor, who became its youngest black professor in 2023, was recently found dead amidst a plagiarism scandal?",
+      "options": [
+        "Jason Arday",
+        "Cornel West",
+        "bell hooks",
+        "Henry Louis Gates Jr."
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Jason Arday, a former Cambridge University professor, was recently found dead in south London. Arday had become Cambridge's youngest black professor in 2023 but was later at the center of a plagiarism scandal involving parts of his doctoral thesis.",
+      "background": "Jason Arday's academic journey was notable for his rapid ascent and his achievement of becoming the youngest black professor at Cambridge. The subsequent plagiarism allegations, however, brought controversy to his career. His death marks a tragic end to a complex public life.",
+      "examRelevance": "Jason Arday, former Cambridge professor and youngest black professor in 2023, passed away amidst a plagiarism scandal.",
+      "tags": [
+        "Jason Arday",
+        "Cambridge University",
+        "Professor",
+        "Plagiarism",
+        "Obituary",
+        "UK"
+      ],
+      "source": {
+        "title": "Jason Arday, former Cambridge University professor at centre of plagiarism scandal, found dead",
+        "url": "https://www.thehindu.com/news/international/jason-arday-former-cambridge-university-professor-at-centre-of-plagiarism-scandal-found-dead-uk-media/article71347279.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q47",
+      "question": "Which High Court recently issued a revised circular regarding the singing of 'Tamil Thai Vazhthu' and 'Vande Mataram' during Independence Day 2026 celebrations in courts across Tamil Nadu and Puducherry?",
+      "options": [
+        "Kerala High Court",
+        "Madras High Court",
+        "Karnataka High Court",
+        "Andhra Pradesh High Court"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "The Madras High Court recently issued a revised circular clarifying that 'Tamil Thai Vazhthu' will be played first, followed by 'Vande Mataram', before the hoisting of the national flag during Independence Day 2026 celebrations in courts across Tamil Nadu and Puducherry.",
+      "background": "'Tamil Thai Vazhthu' is the State song of Tamil Nadu, and 'Vande Mataram' is India's national song. The circular provides a clear protocol for the sequence of these songs during official ceremonies, addressing previous ambiguities or debates.",
+      "examRelevance": "Madras High Court issued a circular on the sequence of 'Tamil Thai Vazhthu' and 'Vande Mataram' for Independence Day celebrations.",
+      "tags": [
+        "Madras High Court",
+        "Tamil Thai Vazhthu",
+        "Vande Mataram",
+        "Independence Day",
+        "Art & Culture",
+        "Polity"
+      ],
+      "source": {
+        "title": "Tamil Thai Vazhthu and Vande Mataram to be sung during Independence Day 2026 celebrations in courts across T.N. and Puducherry",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-to-play-vande-mataram-during-independence-day-2026-celebrations/article71344661.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q48",
+      "question": "Donald Trump recently announced tariffs of up to 100% on imported drones. This maximum tariff rate applies to drones with which specific characteristic?",
+      "options": [
+        "Takeoff weight over 15 kilograms and surveillance capabilities",
+        "Takeoff weight over 10 kilograms and commercial delivery capabilities",
+        "Takeoff weight over 25 kilograms and national security capabilities",
+        "Takeoff weight over 50 kilograms and advanced navigation capabilities"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Former U.S. President Donald Trump announced tariffs of up to 100% on imported drones. The highest tariff rate of 100% will be applied to drones with a takeoff weight of more than 25 kilograms and possessing national security capabilities such as thermal cameras and docking stations.",
+      "background": "This announcement reflects a continuation of Trump's protectionist trade policies, aiming to bolster domestic manufacturing and address perceived national security risks from foreign-made technology. Tariffs are a common tool in international trade to influence import volumes.",
+      "examRelevance": "Donald Trump announced 100% tariffs on imported drones over 25 kg with national security capabilities.",
+      "tags": [
+        "Donald Trump",
+        "Tariffs",
+        "Drones",
+        "Trade Policy"
+      ],
+      "source": {
+        "title": "Trump announces tariffs of up to 100% on imported drones",
+        "url": "https://www.thehindu.com/news/international/trump-announces-tariffs-of-up-to-100-on-imported-drones/article71343943.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q49",
+      "question": "Which football club recently retained the UEFA Super Cup with a 2-1 win over Aston Villa?",
+      "options": [
+        "Bayern Munich",
+        "PSG",
+        "Real Madrid",
+        "Manchester City"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "PSG successfully retained the UEFA Super Cup by defeating Aston Villa with a score of 2-1. This victory places PSG alongside AC Milan and Real Madrid as the only teams to have retained this prestigious trophy. Luis Enrique, PSG's coach, won his 13th trophy since joining the club in 2023.",
+      "background": "The UEFA Super Cup is an annual football match organized by UEFA, contested by the winners of the UEFA Champions League and the UEFA Europa League. Retaining the trophy is a rare feat, highlighting PSG's consistent performance in European club football.",
+      "examRelevance": "PSG retained the UEFA Super Cup, defeating Aston Villa 2-1.",
+      "tags": [
+        "PSG",
+        "UEFA Super Cup",
+        "Aston Villa",
+        "Football"
+      ],
+      "source": {
+        "title": "PSG retain UEFA Super Cup with 2-1 win over Aston Villa",
+        "url": "https://www.thehindu.com/sport/football/psg-retain-uefa-super-cup-with-2-1-win-over-aston-villa/article71339332.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q50",
+      "question": "Who was awarded the first Oommen Chandy memorial award for contributions to the farm sector at the recent Kerala State Farm Awards?",
+      "options": [
+        "K.M. Mani",
+        "Anitha M. Kasim",
+        "P.C. Chacko",
+        "Cheruvayal Raman"
+      ],
+      "answerIndex": 3,
+      "category": "Awards & Honours",
+      "explanation": "Cheruvayal Raman won the first Oommen Chandy memorial award for his significant contributions to the farm sector at the recently announced Kerala State Farm Awards. Additionally, Anitha M. Kasim received a new award for being the best 'Urban rooftop farmer'.",
+      "background": "The Oommen Chandy memorial award is a new category introduced in the Kerala State Farm Awards, honoring the legacy of the former Chief Minister of Kerala, Oommen Chandy, who passed away recently. The awards recognize excellence and innovation in various aspects of agriculture within the state.",
+      "examRelevance": "Cheruvayal Raman received the inaugural Oommen Chandy memorial award at the Kerala State Farm Awards for his contributions to agriculture.",
+      "tags": [
+        "Cheruvayal Raman",
+        "Oommen Chandy Award",
+        "Kerala State Farm Awards",
+        "Agriculture",
+        "Awards"
+      ],
+      "source": {
+        "title": "Kerala State Farm Awards announced, Cheruvayal Raman wins first Oommen Chandy memorial award for contributions to farm sector",
+        "url": "https://www.thehindu.com/news/national/kerala/kerala-state-farm-awards-announced-cheruvayal-raman-wins-first-oommen-chandy-memorial-award-for-contributions-to-farm-sector/article71325147.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q51",
+      "question": "Which Indian cricketer was recently ruled out of the Asia Cup and Asian Games due to a high-grade hamstring tear?",
+      "options": [
+        "Smriti Mandhana",
+        "Jemimah Rodrigues",
+        "Shafali Verma",
+        "Harmanpreet Kaur"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "The 25-year-old Indian cricketer Jemimah Rodrigues was recently ruled out of both the Asia Cup and the Asian Games due to a high-grade hamstring tear. The BCCI medical team assessed her injury.",
+      "background": "Jemimah Rodrigues is a prominent batter in the Indian women's cricket team, known for her attacking style. Her absence from major tournaments like the Asia Cup and Asian Games is a significant setback for the team, requiring other players to step up.",
+      "examRelevance": "Jemimah Rodrigues was ruled out of the Asia Cup and Asian Games due to a hamstring injury.",
+      "tags": [
+        "Jemimah Rodrigues",
+        "Cricket",
+        "Indian Women's Cricket",
+        "Asia Cup",
+        "Asian Games",
+        "Injury"
+      ],
+      "source": {
+        "title": "Jemimah Rodrigues ruled out of Asia Cup and Asian Games due to hamstring injury",
+        "url": "https://www.thehindu.com/sport/cricket/jemimah-rodrigues-ruled-out-of-asia-cup-and-asian-games-due-to-hamstring-injury/article71347295.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q52",
+      "question": "In which district of Uttarakhand did a recent tunnel accident claim the lives of seven workers and injure fourteen others due to water and debris entry?",
+      "options": [
+        "Rudraprayag",
+        "Tehri Garhwal",
+        "Chamoli",
+        "Uttarkashi"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "A recent tunnel accident in Uttarakhand's Chamoli district resulted in the death of seven workers and injuries to fourteen others. The incident occurred when water and debris entered the under-construction THDC tunnel, trapping 22 people initially.",
+      "background": "Uttarakhand, a Himalayan state, is prone to such accidents due to its challenging terrain and extensive infrastructure development, including hydro-power projects and road tunnels. Safety protocols in such projects are crucial to prevent loss of life.",
+      "examRelevance": "Tunnel accident in Chamoli, Uttarakhand, killed seven workers.",
+      "tags": [
+        "Chamoli",
+        "Uttarakhand",
+        "Tunnel Accident",
+        "THDC"
+      ],
+      "source": {
+        "title": "Seven workers dead, 14 injured as water, debris enter tunnel in Uttarakhand’s Chamoli",
+        "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-chamoli-workers-feared-inside-under-construction-thdc-tunnel/article71342539.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q53",
+      "question": "Which Indian state's Chief Minister recently termed the Mines and Minerals (Development and Regulation) Amendment Bill, 2026, a 'black bill' and an injustice to his state and its people?",
+      "options": [
+        "Chhattisgarh",
+        "Odisha",
+        "Jharkhand",
+        "Madhya Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Jharkhand Chief Minister Hemant Soren vehemently condemned the recently passed Mines and Minerals (Development and Regulation) Amendment Bill, 2026. He termed it a 'black bill' and an injustice to Jharkhand and its people, arguing that it undermines the state’s authority to tax mineral rights and land.",
+      "background": "Jharkhand is a mineral-rich state, and the control over mineral resources and the revenue generated from them is a significant point of contention between the state and central governments. The Bill seeks to restrict states’ powers to levy taxes on mineral rights and mineral-bearing lands, leading to concerns about fiscal federalism.",
+      "examRelevance": "Jharkhand CM Hemant Soren opposed the Mines and Minerals (Development and Regulation) Amendment Bill, 2026.",
+      "tags": [
+        "Hemant Soren",
+        "Jharkhand",
+        "Mines and Minerals Amendment Bill",
+        "Polity"
+      ],
+      "source": {
+        "title": "Hemant Soren opposes Mines and Minerals Amendment Bill",
+        "url": "https://www.thehindu.com/news/national/jharkhand-cm-soren-urges-pm-modi-to-reconsider-mining-bill-flags-impact-on-states-finances/article71342730.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q54",
+      "question": "Who has recently been appointed as an Adviser to the U.K. Prime Minister, bringing over three decades of experience at the BBC?",
+      "options": [
+        "Vikram Singh",
+        "Ramesh Sharma",
+        "Sunil Kapoor",
+        "Gautam Rangarajan"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Gautam Rangarajan, the son of a former Indian diplomat and a BBC executive, has recently been appointed as an Adviser to the U.K. Prime Minister. He brings over three decades of experience at the BBC, including a tenure as Group Director, Strategy and Performance.",
+      "background": "Advisers to the Prime Minister play a crucial role in shaping policy and strategy within the government. This appointment highlights the growing presence of Indian-origin professionals in high-level positions in global politics and administration.",
+      "examRelevance": "Gautam Rangarajan appointed U.K. Prime Minister's Adviser.",
+      "tags": [
+        "Gautam Rangarajan",
+        "UK Prime Minister",
+        "Adviser",
+        "Appointments",
+        "BBC"
+      ],
+      "source": {
+        "title": "Gautam Rangarajan, former Indian diplomat’s son and BBC exec appointed U.K. PM’s Adviser",
+        "url": "https://www.thehindu.com/news/international/gautam-rangarajan-former-indian-diplomats-son-and-bbc-exec-appointed-uk-pms-adviser/article71342499.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q55",
+      "question": "Which renowned Portuguese soccer star recently married Georgina Rodriguez in a civil ceremony after a 10-year relationship?",
+      "options": [
+        "Neymar Jr.",
+        "Robert Lewandowski",
+        "Lionel Messi",
+        "Cristiano Ronaldo"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Portuguese soccer star Cristiano Ronaldo and Georgina Rodriguez tied the knot on Tuesday in a private and intimate civil ceremony, attended by their five children. They had been together for 10 years before their marriage.",
+      "background": "Cristiano Ronaldo is one of the most famous and successful footballers globally, having played for clubs like Manchester United, Real Madrid, and Juventus, and currently for Al Nassr. His personal life often garners significant media attention.",
+      "examRelevance": "Cristiano Ronaldo married Georgina Rodriguez.",
+      "tags": [
+        "Cristiano Ronaldo",
+        "Georgina Rodriguez",
+        "Marriage",
+        "Football",
+        "Portugal"
+      ],
+      "source": {
+        "title": "Cristiano Ronaldo and Georgina Rodriguez tie the knot after 10 years",
+        "url": "https://www.thehindu.com/sport/football/cristiano-ronaldo-and-georgina-rodriguez-tie-the-knot-after-10-years/article71334860.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q56",
+      "question": "Donald Trump recently announced that who will be his new White House counsel, effective September 1?",
+      "options": [
+        "Will Scharf",
+        "David Warrington",
+        "Rudy Giuliani",
+        "John Eastman"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Donald Trump announced that Will Scharf, who currently serves as his staff secretary, will assume the role of his new White House counsel. Scharf's appointment is effective from September 1, replacing David Warrington, who is transitioning to the private sector.",
+      "background": "The White House counsel is a senior staff position in the office of the President of the United States, responsible for advising the President on all legal matters. This appointment is significant, especially given the various legal challenges faced by Donald Trump.",
+      "examRelevance": "Will Scharf's appointment as the new White House counsel for Donald Trump, effective September 1, is a key international political appointment.",
+      "tags": [
+        "Will Scharf",
+        "Donald Trump",
+        "White House Counsel",
+        "Appointments",
+        "U.S. Politics"
+      ],
+      "source": {
+        "title": "Trump names Scharf as new White House counsel",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-announces-staff-secretary-will-scharf-will-be-his-new-white-house-counsel/articleshow/133077040.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q57",
+      "question": "The Tamil Nadu government recently allocated a significant amount for the Member of Legislative Assembly Constituency Development Scheme (MLACDS). What is the total amount, in crores, sanctioned for this scheme?",
+      "options": [
+        "₹680.10 crore",
+        "₹915.60 crore",
+        "₹750.25 crore",
+        "₹828.36 crore"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Tamil Nadu government has allocated ₹828.36 crore for the Member of Legislative Assembly Constituency Development Scheme (MLACDS). This amount will be used to implement a select list of works across all 234 Assembly segments, with each segment receiving ₹3.54 crore.",
+      "background": "Constituency Development Schemes empower elected representatives to address local infrastructure and development needs. Such allocations are crucial for grassroots development and responsive governance.",
+      "examRelevance": "Tamil Nadu government allocated ₹828.36 crore for MLACDS, ₹3.54 crore per Assembly segment.",
+      "tags": [
+        "Tamil Nadu",
+        "MLACDS",
+        "Scheme",
+        "Allocation",
+        "Legislative Assembly",
+        "Development"
+      ],
+      "source": {
+        "title": "T.N. govt. allocates ₹828.36 crore for MLACDS",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-allocates-82836-crore-for-mlacds/article71333524.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q58",
+      "question": "A U.S. helicopter recently fired on a ship attempting to break a ports blockade against which country, marking the third such incident since July 14?",
+      "options": [
+        "Iran",
+        "Yemen",
+        "Syria",
+        "Lebanon"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "A United States helicopter recently fired on a ship that attempted to break a ports blockade against Iran. This incident marks the third time the U.S. has forcibly halted a vessel since reinstating the ports blockade on July 14, in a months-long conflict against Iran.",
+      "background": "The U.S. has imposed a blockade on Iranian ports as part of its ongoing conflict with Iran, aiming to exert economic pressure. Such actions escalate tensions in the West Asia region.",
+      "examRelevance": "US helicopter fired on a ship attempting to break Iran's ports blockade.",
+      "tags": [
+        "US",
+        "Iran",
+        "Blockade",
+        "West Asia",
+        "Military action"
+      ],
+      "source": {
+        "title": "West Asia war LIVE: U.S. helicopter fired on ship that tried to break Iran ports blockade",
+        "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-12-2026/article71334841.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q59",
+      "question": "Which international space agency recently extended an official invitation to the Indian Space Research Organisation (ISRO) to collaborate on its ambitious Moon Base programme?",
+      "options": [
+        "NASA",
+        "Roscosmos",
+        "JAXA",
+        "ESA"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "NASA has officially invited the Indian Space Research Organisation (ISRO) to collaborate on its ambitious Moon Base programme. This invitation was announced during the recent ninth meeting of the India-U.S. Civil Space Joint Working Group, held in Bengaluru.",
+      "background": "The Moon Base programme aims to establish a sustained human presence on the lunar surface, paving the way for future deep-space exploration. Collaboration with ISRO signifies growing international cooperation in space exploration.",
+      "examRelevance": "NASA invited ISRO to join its Moon Base programme.",
+      "tags": [
+        "NASA",
+        "ISRO",
+        "Moon Base programme",
+        "Space collaboration",
+        "Science & Tech",
+        "India-U.S."
+      ],
+      "source": {
+        "title": "NASA invites ISRO to join Moon Base programme",
+        "url": "https://www.thehindu.com/sci-tech/science/nasa-invites-isro-to-join-moon-base-programme/article71332292.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q60",
+      "question": "The Lok Sabha has adopted a motion to send the Foreign Contribution (Regulation) Amendment Bill, 2026, to which committee for further review?",
+      "options": [
+        "Select Committee",
+        "Standing Committee",
+        "Estimates Committee",
+        "Joint Parliamentary Committee (JPC)"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Lok Sabha has adopted a motion to send the Foreign Contribution (Regulation) Amendment Bill, 2026, to a Joint Parliamentary Committee (JPC) for further review. This decision came amid opposition demands for its withdrawal and appeals from minority groups, with the JPC mandated to submit its report in the first week of the Winter Session.",
+      "background": "The Foreign Contribution (Regulation) Act (FCRA) governs the acceptance and utilisation of foreign contributions by individuals, associations, and companies in India. Amendments to the FCRA often draw significant attention due to their potential impact on NGOs, civil society organizations, and religious bodies.",
+      "examRelevance": "Foreign Contribution (Regulation) Amendment Bill, 2026, referred to Joint Parliamentary Committee (JPC).",
+      "tags": [
+        "FCRA Bill",
+        "Joint Parliamentary Committee",
+        "JPC",
+        "Lok Sabha",
+        "Polity",
+        "Foreign Contribution"
+      ],
+      "source": {
+        "title": "Centre softens stance on FCRA Bill following appeals by minority groups",
+        "url": "https://www.thehindu.com/news/national/centre-softens-stance-on-fcra-bill-following-appeals-by-minority-groups/article71337440.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q61",
+      "question": "Which Union Territory is set to lead the first caste enumeration in Independent India as part of Census 2027?",
+      "options": [
+        "Chandigarh",
+        "Jammu & Kashmir",
+        "Ladakh",
+        "Puducherry"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Ladakh is set to lead the first caste enumeration in Independent India as part of Census 2027. The upcoming census form is likely to include around 40 questions, with provisions for recording defence structures on paper.",
+      "background": "While India has conducted a census for Scheduled Castes and Scheduled Tribes, a comprehensive caste enumeration for all castes has not been done since 1931. Ladakh leading this initiative for Census 2027 marks a significant shift in data collection policy and could have wide-ranging implications for social and political discourse.",
+      "examRelevance": "Ladakh will lead the first caste enumeration in Independent India as part of Census 2027, a significant development in national demographic data collection.",
+      "tags": [
+        "Ladakh",
+        "Census 2027",
+        "Caste Enumeration",
+        "Polity",
+        "Union Territory"
+      ],
+      "source": {
+        "title": "Census 2027: Ladakh to lead Independent India’s first caste enumeration",
+        "url": "https://www.thehindu.com/news/national/ladakh/census-2027-ladakh-to-lead-caste-enumeration-in-independent-india/article71325361.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q62",
+      "question": "What is the total value of the Army contracts for loiter munitions recently bagged by TASL and NIBE under the 'Buy Indian' category?",
+      "options": [
+        "₹2,000 crore",
+        "₹1,577 crore",
+        "₹1,850 crore",
+        "₹1,200 crore"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "TASL (Tata Advanced Systems Ltd) and NIBE recently bagged Army contracts worth ₹1,577 crore for loiter munitions. These contracts were processed under the 'Buy Indian' category through the Fast Track Procedure and were signed in the presence of Defence Secretary Rajesh Kumar Singh.",
+      "background": "Loiter munitions, also known as 'kamikaze' or 'suicide' drones, are a class of aerial weapon systems that can loiter around a target area for an extended period before identifying and attacking targets. The 'Buy Indian' category prioritizes indigenous defence procurement to boost domestic manufacturing and self-reliance in defense.",
+      "examRelevance": "TASL and NIBE secured ₹1,577 crore Army contracts for loiter munitions.",
+      "tags": [
+        "TASL",
+        "NIBE",
+        "Loiter Munitions",
+        "Army Contracts",
+        "Defence Procurement",
+        "Buy Indian"
+      ],
+      "source": {
+        "title": "TASL, NIBE bag ₹1,577-crore Army contracts for loiter munitions",
+        "url": "https://www.thehindu.com/news/national/tasl-nibe-bag-1577-crore-army-contracts-for-loiter-munitions/article71346174.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q63",
+      "question": "The visibility of which astronomical event in India in 2026 was recently discussed, described as an alignment where the Moon passes directly between the Sun and Earth?",
+      "options": [
+        "Solar eclipse",
+        "Lunar eclipse",
+        "Planetary conjunction",
+        "Meteor shower"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Discussions recently took place regarding the visibility of a solar eclipse in India in 2026. A solar eclipse occurs when the Sun, Moon, and Earth are in alignment, and the Moon passes directly between the Sun and Earth, casting a shadow on our planet and blocking some of the Sun's light.",
+      "background": "Solar eclipses are relatively rare and highly anticipated astronomical events. Their visibility depends on the specific geometry of the Sun, Moon, and Earth, and varies by geographical location.",
+      "examRelevance": "Solar eclipse visibility in India in 2026 was recently discussed.",
+      "tags": [
+        "Solar eclipse",
+        "Astronomy",
+        "India",
+        "Moon",
+        "Sun",
+        "Earth"
+      ],
+      "source": {
+        "title": "Solar eclipse 2026: Will it be visible from India?",
+        "url": "https://www.thehindu.com/sci-tech/science/solar-eclipse-2026-surya-grahan-india-august-12-2026/article71331174.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q64",
+      "question": "What term is being used by experts to describe the obsessive behaviour of schoolchildren in Kerala towards cosmetics?",
+      "options": [
+        "Cosmeticorexia",
+        "Vanity Syndrome",
+        "Dermomania",
+        "Makeup Obsessia"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "Experts are using the term 'Cosmeticorexia' to describe the early and morbid fascination towards cosmetics observed among a large number of schoolchildren in Kerala. This obsessive behaviour has mental and physical consequences.",
+      "background": "This phenomenon highlights a growing concern about body image issues and the influence of social media and marketing on young minds. It underscores the need for awareness and intervention regarding the psychological impact of cosmetic use at a young age.",
+      "examRelevance": "Cosmeticorexia describes schoolchildren's obsessive use of cosmetics in Kerala.",
+      "tags": [
+        "Cosmeticorexia",
+        "Kerala",
+        "Schoolchildren",
+        "Cosmetics Addiction"
+      ],
+      "source": {
+        "title": "Messy make-up: cosmetics addiction takes the sheen out of childhood",
+        "url": "https://www.thehindu.com/news/national/kerala/messy-make-up-cosmetics-addiction-takes-the-sheen-out-of-childhood/article71333474.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q65",
+      "question": "Which Indonesian agency warned of a potential tsunami following the recent 7.7-magnitude earthquake off its coast?",
+      "options": [
+        "Meteorology, Climatology, and Geophysics Agency (BMKG)",
+        "Geological Agency of Indonesia (Badan Geologi)",
+        "National Disaster Management Agency (BNPB)",
+        "National Search and Rescue Agency (BASARNAS)"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Indonesia’s Meteorology, Climatology, and Geophysics Agency (BMKG) warned of the possibility of tsunami waves being generated by the 7.7-magnitude earthquake that struck off Indonesia on August 15, 2026. The agency plays a crucial role in monitoring seismic activity and issuing warnings.",
+      "background": "As an archipelago nation highly susceptible to geological hazards, Indonesia relies heavily on agencies like BMKG for timely warnings to mitigate the impact of natural disasters. The prompt issuance of a tsunami warning allows coastal communities to take necessary precautions.",
+      "examRelevance": "BMKG (Indonesia's Meteorology, Climatology, and Geophysics Agency) issued a tsunami warning after the earthquake.",
+      "tags": [
+        "Indonesia",
+        "Earthquake",
+        "Tsunami",
+        "BMKG",
+        "Natural Disaster",
+        "Warning"
+      ],
+      "source": {
+        "title": "Strong 7.7-magnitude quake strikes off Indonesia: USGS",
+        "url": "https://www.thehindu.com/news/international/indonesia-earthquake-august-15-2026/article71347456.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q66",
+      "question": "Which state government recently announced its decision to set up a task force for drone policy implementation?",
+      "options": [
+        "Maharashtra",
+        "Gujarat",
+        "Karnataka",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The Maharashtra government recently announced its decision to set up a task force for drone policy implementation. Chief Minister Devendra Fadnavis stated that the policy aims to strengthen the existing drone ecosystem and attract new investments in the sector.",
+      "background": "Drones are emerging as a significant technology with applications in various fields, including agriculture, surveillance, logistics, and disaster management. Many states are developing drone policies to regulate their use, promote innovation, and ensure safety and security.",
+      "examRelevance": "Maharashtra government will set up a task force for drone policy implementation.",
+      "tags": [
+        "Maharashtra",
+        "Drone Policy",
+        "Task Force",
+        "Devendra Fadnavis",
+        "Technology",
+        "Governance"
+      ],
+      "source": {
+        "title": "Maharashtra government to set a task force for drone policy implementation",
+        "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-government-to-set-a-task-force-for-drone-policy-implementation/article71344469.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q67",
+      "question": "The recent Air India incident, involving a 300-foot altitude drop, occurred in which aircraft model?",
+      "options": [
+        "Airbus A320",
+        "Airbus A350",
+        "Boeing 737",
+        "Boeing 787"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "An Air India A320 aircraft suffered a rare flight-control event, leading to a 300-foot altitude drop. The incident involved nine technical snags in a minute, including autopilot disconnect and hydraulic failures.",
+      "background": "This incident has been classified as a serious incident and is currently under investigation by the Aircraft Accident Investigation Bureau (AAIB). Such events highlight the complexities of modern aviation systems and the importance of stringent safety protocols.",
+      "examRelevance": "Air India A320 aircraft suffered 300-foot altitude drop due to flight-control event.",
+      "tags": [
+        "Air India",
+        "Airbus A320",
+        "Aviation Safety",
+        "Aircraft Accident Investigation Bureau"
+      ],
+      "source": {
+        "title": "Not turbulence: Air India A320 suffered rare flight-control event before 300-foot altitude drop",
+        "url": "https://www.thehindu.com/news/national/air-india-phuketdelhi-flight-cascade-of-tech-failures-preceded-300-ft-plunge-not-turbulence-sources-say/article71327617.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q68",
+      "question": "Who is set to leave her role as White House press secretary at the end of the month, as announced by U.S. President Donald Trump?",
+      "options": [
+        "Jen Psaki",
+        "Karoline Leavitt",
+        "Sarah Huckabee Sanders",
+        "Kayleigh McEnany"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "U.S. President Donald Trump announced that White House press secretary Karoline Leavitt will be leaving the administration at the end of the month. She is stepping down to spend time with her young family.",
+      "background": "Karoline Leavitt was noted as the youngest person to hold the role of White House press secretary. The position is a high-profile one, serving as the primary spokesperson for the U.S. President and the executive branch.",
+      "examRelevance": "Karoline Leavitt to leave role as White House press secretary.",
+      "tags": [
+        "Karoline Leavitt",
+        "White House",
+        "Press Secretary",
+        "Donald Trump"
+      ],
+      "source": {
+        "title": "White House press secretary Karoline Leavitt, youngest person to hold role, to leave at month’s end",
+        "url": "https://www.thehindu.com/news/international/karoline-leavitt-whjte-house-press-secretary-to-step-down-usa-donald-trump/article71338380.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q69",
+      "question": "What did former U.S. President Donald Trump recently announce regarding the Strait of Hormuz?",
+      "options": [
+        "He would propose joint U.S.-Iran control.",
+        "He would advocate for UN administration of the strait.",
+        "He would declare it an international demilitarized zone.",
+        "He would declare it U.S. territory."
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Former U.S. President Donald Trump recently announced his intention to 'soon' declare the Strait of Hormuz as U.S. territory. This statement comes amid heightened tensions in the West Asia region, particularly concerning Iran.",
+      "background": "The Strait of Hormuz is a critical chokepoint for global oil shipments. Declaring it U.S. territory would be an unprecedented and highly provocative move, likely to escalate international tensions, especially with Iran which views the strait as its sovereign maritime space.",
+      "examRelevance": "Donald Trump announced his intent to declare the Strait of Hormuz U.S. territory.",
+      "tags": [
+        "Donald Trump",
+        "Strait of Hormuz",
+        "US Foreign Policy",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Trump says will ‘soon’ declare Hormuz Strait U.S. territory",
+        "url": "https://www.thehindu.com/news/international/trump-says-will-soon-declare-hormuz-strait-us-territory/article71348358.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q70",
+      "question": "India plans to construct over 5,000 km of border highways with an investment exceeding ₹2 trillion over the next 3-5 years. What is the primary objective of this project?",
+      "options": [
+        "To connect remote villages to urban centers for better public services",
+        "To enhance military mobility and open remote regions to trade, tourism, and investment",
+        "To promote religious tourism in border areas",
+        "To develop agricultural corridors for increased food production"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "India plans to undertake a massive border highway push, constructing more than 5,000 km of border highways over the next 3-5 years, with an investment exceeding ₹2 trillion. The dual objective of this project is to speed up military mobilization and simultaneously open remote regions to trade, tourism, and investment.",
+      "background": "Improving border infrastructure is a strategic priority for India, especially in the context of geopolitical challenges along its borders with China and Pakistan. These highways are crucial for rapid troop movement and logistics, as well as for integrating remote border areas into the national economy.",
+      "examRelevance": "India's ₹2 trillion plan to build over 5,000 km of border highways aims to boost military mobility and economic development in remote regions.",
+      "tags": [
+        "Border Highways",
+        "Infrastructure",
+        "Military Mobility",
+        "Trade",
+        "Schemes & Projects"
+      ],
+      "source": {
+        "title": "India plans 5,000-km border highway push to boost military mobility, trade",
+        "url": "https://www.livemint.com/economy/india-border-highways-5000-km-2-trillion-plan-china-border-pakistan-border-11786246983336.html"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q71",
+      "question": "Which popular social media platform recently changed its wordmark logo for the first time in over a decade, aiming for a 'sharper and more modern' look?",
+      "options": [
+        "Twitter (X)",
+        "Snapchat",
+        "Instagram",
+        "Facebook"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Instagram recently changed its wordmark logo for the first time in over a decade. The change was announced by Instagram head Adam Mosseri, who described the new logo as 'sharper and more modern' while still referencing the original design and maintaining simplicity.",
+      "background": "Brand identity, including logos and wordmarks, is crucial for social media platforms to maintain relevance and appeal to their user base. Such changes often reflect evolving design trends, technological advancements, and strategic rebranding efforts to refresh the platform's image.",
+      "examRelevance": "Instagram changed its wordmark logo after over a decade.",
+      "tags": [
+        "Instagram",
+        "Wordmark Logo",
+        "Social Media",
+        "Technology",
+        "Adam Mosseri"
+      ],
+      "source": {
+        "title": "Instagram changes its wordmark logo after over a decade",
+        "url": "https://www.thehindu.com/sci-tech/technology/internet/instagram-changes-its-wordmark-logo-after-over-a-decade/article71342724.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q72",
+      "question": "Don Nelson, an NBA Hall of Famer who won five NBA titles as a player and was a three-time Coach of the Year, recently passed away at the age of 86. In which sport was he a legend?",
+      "options": [
+        "Baseball",
+        "Basketball",
+        "American Football",
+        "Ice Hockey"
+      ],
+      "answerIndex": 1,
+      "category": "Obituaries",
+      "explanation": "NBA legend Don Nelson, a Hall of Famer and three-time Coach of the Year, passed away at 86. He won five NBA titles as a player and ranks second in NBA history with 1,335 regular-season coaching wins, having coached teams like the Milwaukee Bucks, Golden State Warriors, New York Knicks, and Dallas Mavericks.",
+      "background": "Don Nelson was inducted into the Naismith Memorial Basketball Hall of Fame in 2012. His career spanned 31 years as a coach, making him one of the most influential figures in NBA history, known for his innovative 'small-ball' strategies.",
+      "examRelevance": "Don Nelson's passing marks the loss of a significant figure in NBA history, recognized for his achievements as both a player and a coach.",
+      "tags": [
+        "Don Nelson",
+        "NBA",
+        "Basketball",
+        "Hall of Fame",
+        "Coach of the Year"
+      ],
+      "source": {
+        "title": "NBA legend Don Nelson dies at 86",
+        "url": "https://economictimes.indiatimes.com/news/sports/basketball/don-nelson-hall-of-fame-coach-and-five-time-nba-champion-as-a-player-dies-at-86/articleshow/133077468.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q73",
+      "question": "Indian Grandmaster Praggnanandhaa recently defeated which player in the Sinquefield Cup?",
+      "options": [
+        "Magnus Carlsen",
+        "Alireza Firouzja",
+        "Fabiano Caruana",
+        "Javokhir Sindarov"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Indian chess Grandmaster Praggnanandhaa emerged as the star of the day by defeating Javokhir Sindarov in the Sinquefield Cup. Praggnanandhaa secured his point inch-by-inch during the endgame, which arose from a queen pawn opening.",
+      "background": "The Sinquefield Cup is a prestigious annual chess tournament featuring some of the world's top players. Praggnanandhaa is a rising star in Indian chess, known for his aggressive and strategic play against established Grandmasters.",
+      "examRelevance": "Praggnanandhaa defeated Javokhir Sindarov in the Sinquefield Cup.",
+      "tags": [
+        "Praggnanandhaa",
+        "Javokhir Sindarov",
+        "Sinquefield Cup",
+        "Chess"
+      ],
+      "source": {
+        "title": "Praggnanandhaa beats Sindarov in Sinquefield Cup",
+        "url": "https://www.thehindu.com/sport/praggnanandhaa-beats-sindarov-in-sinquefield-cup/article71338357.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q74",
+      "question": "In which district of Uttar Pradesh were two individuals arrested in connection with the death of a 27-year-old Muslim man following an alleged assault by Kanwariyas after a road accident?",
+      "options": [
+        "Meerut",
+        "Hapur",
+        "Bulandshahr",
+        "Ghaziabad"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "Hapur Police in Uttar Pradesh have arrested two men, Lokesh and Shivam, in connection with the death of 27-year-old Mohd Azeem. He died from injuries sustained during an alleged assault by Kanwariyas following a road accident in the district.",
+      "background": "This incident highlights concerns about law and order and potential communal tensions, especially during large religious gatherings like the Kanwar Yatra. Police investigations and arrests are crucial to ensure justice and maintain social harmony.",
+      "examRelevance": "Two arrested in Hapur, Uttar Pradesh, for alleged assault by Kanwariyas leading to a man's death.",
+      "tags": [
+        "Hapur",
+        "Uttar Pradesh",
+        "Kanwariyas",
+        "Assault",
+        "Law and Order"
+      ],
+      "source": {
+        "title": "Two arrested after Muslim man dies following alleged assault by Kanwariyas",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/two-arrested-after-muslim-man-dies-following-alleged-assault-by-kanwariyas/article71342269.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q75",
+      "question": "Who was recently and unanimously elected as the Speaker of the Karnataka Assembly?",
+      "options": [
+        "G.S. Patil",
+        "Siddaramaiah",
+        "Basavaraj Bommai",
+        "D.K. Shivakumar"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "G.S. Patil, also known as 'Ron Gowdru', was recently and unanimously elected as the Speaker of the Karnataka Assembly. Besides being a politician, he is known as a farmer, educationist, sportsperson, and cooperative leader.",
+      "background": "The election of the Speaker is a key procedural step after a new legislative assembly is formed. The Speaker presides over the sittings of the assembly, maintains decorum, and ensures the smooth conduct of business, holding a crucial constitutional position.",
+      "examRelevance": "G.S. Patil was unanimously elected as the Speaker of the Karnataka Assembly.",
+      "tags": [
+        "G.S. Patil",
+        "Karnataka Assembly",
+        "Speaker",
+        "Appointments",
+        "Polity & Governance"
+      ],
+      "source": {
+        "title": "‘Ron Gowdru’ G.S. Patil unanimously elected Karnataka Assembly Speaker",
+        "url": "https://www.thehindu.com/news/national/karnataka/ron-gowdru-gs-patil-unanimously-elected-karnataka-assembly-speaker/article71345157.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q76",
+      "question": "Foreign banks in India have significantly ramped up which type of deposits, with HSBC and Standard Chartered being among the biggest gainers, narrowing the gap with local banks?",
+      "options": [
+        "Recurring Deposits",
+        "FCNR Deposits",
+        "Current Account Deposits",
+        "Savings Bank Deposits"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Foreign banks in India have significantly ramped up their FCNR (Foreign Currency Non-Resident) deposits. These deposits surged nearly 15-fold to $8.97 billion by July 30, from $603 million on June 5, with HSBC mobilising $6.26 billion and Standard Chartered mobilising $1.86 billion.",
+      "background": "FCNR deposits are term deposits offered by banks in India to Non-Resident Indians (NRIs), denominated in foreign currencies. They are attractive for NRIs due to currency protection and competitive interest rates. The surge indicates a concerted effort by foreign banks to attract these deposits.",
+      "examRelevance": "Foreign banks significantly increased FCNR deposits, led by HSBC and Standard Chartered, indicating a shift in banking trends for NRIs.",
+      "tags": [
+        "FCNR Deposits",
+        "Foreign Banks",
+        "HSBC",
+        "Standard Chartered",
+        "NRI",
+        "Economy"
+      ],
+      "source": {
+        "title": "Dollar race: Foreign banks ramp up FCNR deposits, narrow gap with locals",
+        "url": "https://www.livemint.com/economy/dollar-race-foreign-banks-ramp-up-fcnr-deposits-narrow-gap-with-locals-11786255279367.html"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q77",
+      "question": "Which political leader recently opposed the idea of a 'creamy layer' for Scheduled Castes and Scheduled Tribes in reservation, describing it as a reflection of a 'casteist mindset'?",
+      "options": [
+        "Naveen Patnaik",
+        "Mayawati",
+        "M.K. Stalin",
+        "Rahul Gandhi"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "BSP president Mayawati recently opposed the idea of applying a 'creamy layer' concept for Scheduled Castes (SCs) and Scheduled Tribes (STs) in reservation policies. She criticized the RSS's position on this matter, calling it a reflection of a 'casteist mindset' that would undermine constitutional objectives.",
+      "background": "The 'creamy layer' concept excludes individuals from reservation benefits if they belong to the economically advanced section of a backward community. While applied to OBCs, its application to SCs/STs has been a contentious legal and political debate, with arguments focusing on socio-economic disparities and constitutional guarantees.",
+      "examRelevance": "Mayawati's opposition to the 'creamy layer' for SCs/STs in reservation highlights a significant ongoing debate in Indian polity and social justice.",
+      "tags": [
+        "Mayawati",
+        "Creamy Layer",
+        "SCs/STs",
+        "Reservation",
+        "Polity",
+        "Social Justice"
+      ],
+      "source": {
+        "title": "BSP president Mayawati opposes ‘creamy layer’ idea for SCs, STs, hits out at RSS",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-opposes-creamy-layer-for-scs-sts-in-reservation-hits-out-at-rss/article71324123.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q78",
+      "question": "The 25th anniversary of a tragic event was recently observed, where five DMK members were killed in a police firing. This incident occurred on August 12, 2001, at which prominent location in Chennai?",
+      "options": [
+        "Anna Salai",
+        "Marina Beach",
+        "Guindy",
+        "T Nagar"
+      ],
+      "answerIndex": 1,
+      "category": "Dates & Days",
+      "explanation": "The 25th anniversary of a police firing incident at Marina in Chennai was recently observed. On August 12, 2001, a rally organized by the DMK in Chennai turned deadly when police opened fire on the crowd, resulting in the deaths of five party members.",
+      "background": "This incident remains a significant and controversial event in Tamil Nadu's political history, highlighting periods of intense political rivalry and law enforcement actions during protests.",
+      "examRelevance": "August 12, 2001, marks 25 years since police firing at Marina, Chennai, killed five DMK members.",
+      "tags": [
+        "DMK",
+        "Marina",
+        "Chennai",
+        "Police Firing",
+        "August 12, 2001"
+      ],
+      "source": {
+        "title": "When five DMK men were killed in a police firing at the Marina 25 years ago",
+        "url": "https://www.thehindu.com/news/cities/chennai/when-five-dmk-men-were-killed-in-a-police-firing-at-the-marina-25-years-ago/article71334143.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q79",
+      "question": "Iran has recently tied the reopening of which strategically vital strait to U.S. concessions on several demands, amid ongoing tensions?",
+      "options": [
+        "Strait of Gibraltar",
+        "Strait of Hormuz",
+        "Strait of Malacca",
+        "Bab-el-Mandeb Strait"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Iran has stated that it will tie the reopening of the Strait of Hormuz to U.S. concessions on several demands. This statement comes amidst reports of messages being exchanged between Iran and the U.S. through intermediaries, as direct talks are currently not ongoing.",
+      "background": "The Strait of Hormuz is a crucial chokepoint for global oil shipments, connecting the Persian Gulf to the open ocean. Iran has periodically threatened to close it in response to international pressure or sanctions, making it a flashpoint in geopolitical tensions, particularly with the U.S.",
+      "examRelevance": "Iran's stance on the Strait of Hormuz and its linkage to U.S. concessions is a critical development in West Asian geopolitics.",
+      "tags": [
+        "Iran",
+        "Strait of Hormuz",
+        "U.S. Relations",
+        "Geopolitics",
+        "Oil Trade"
+      ],
+      "source": {
+        "title": "West Asia war LIVE: Iran ties Strait of Hormuz reopening to U.S. concessions on several demands",
+        "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-august-10-2026-hormuz-strait-reopen-us-iran-talks/article71326809.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q80",
+      "question": "A recent Houthi attack in Yemen resulted in 7 deaths in which city?",
+      "options": [
+        "Mocha",
+        "Hodeidah",
+        "Aden",
+        "Sanaa"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "A recent Houthi attack in the Yemeni city of Mocha resulted in the deaths of 7 people. The Yemeni military reported the casualties, along with 30 wounded individuals in the incident.",
+      "background": "Yemen has been embroiled in a protracted civil war since 2014, primarily between the Houthi movement and the internationally recognized government, backed by a Saudi-led coalition. Mocha, a port city, has been a strategic location and frequently a target of conflict.",
+      "examRelevance": "The Houthi attack in Mocha, Yemen, is a current event in the ongoing conflict in West Asia.",
+      "tags": [
+        "Houthi",
+        "Yemen",
+        "Mocha",
+        "Conflict",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Houthi attack on Mocha kills 7 in Yemen",
+        "url": "https://economictimes.indiatimes.com/news/defence/yemeni-military-says-houthi-attack-on-mocha-kills-7-wounds-30/articleshow/133077465.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q81",
+      "question": "Uttar Pradesh Chief Minister Yogi Adityanath recently stated that the 'Har Ghar Tiranga' campaign serves as a tribute to the sacrifices of freedom fighters. This campaign encourages citizens to display which national symbol at their homes?",
+      "options": [
+        "National Song",
+        "National Flag",
+        "National Anthem",
+        "National Emblem"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "Uttar Pradesh Chief Minister Yogi Adityanath highlighted the 'Har Ghar Tiranga' campaign as a tribute to the sacrifices made by freedom fighters. The campaign encourages citizens to display the national flag at their homes, fostering a sense of pride and patriotism.",
+      "background": "The 'Har Ghar Tiranga' campaign was launched under the Azadi Ka Amrit Mahotsav initiative to commemorate 75 years of India's independence. It aimed to encourage people to hoist the national flag at their homes to mark the occasion.",
+      "examRelevance": "'Har Ghar Tiranga' campaign encourages displaying the National Flag, as stated by UP CM Yogi Adityanath.",
+      "tags": [
+        "Har Ghar Tiranga",
+        "Yogi Adityanath",
+        "National Flag",
+        "Azadi Ka Amrit Mahotsav",
+        "Uttar Pradesh"
+      ],
+      "source": {
+        "title": "'Har Ghar Tiranga' campaign tribute to freedom fighters' sacrifices: CM Adityanath",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/har-ghar-tiranga-campaign-tribute-to-freedom-fighters-sacrifices-cm-adityanath/article71327352.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q82",
+      "question": "Which England and Bayern Munich star is set to receive his second 'Golden Shoe' award, joining an elite list of players?",
+      "options": [
+        "Robert Lewandowski",
+        "Erling Haaland",
+        "Kylian Mbappé",
+        "Harry Kane"
+      ],
+      "answerIndex": 3,
+      "category": "Awards & Honours",
+      "explanation": "England and Bayern Munich star Harry Kane is set to receive his second 'Golden Shoe' award. He joins an elite list of players, with only Lionel Messi and Cristiano Ronaldo having won it more times.",
+      "background": "The Golden Shoe is awarded annually to the leading goalscorer in league matches from the top division of every European national league. Winning it twice is a significant achievement, highlighting a player's consistent scoring prowess at the highest level.",
+      "examRelevance": "Harry Kane to receive his second 'Golden Shoe' award.",
+      "tags": [
+        "Harry Kane",
+        "Golden Shoe",
+        "Bayern Munich",
+        "Football",
+        "Awards"
+      ],
+      "source": {
+        "title": "England, Bayern Munich star Harry Kane set to receive 'Golden Shoe' award",
+        "url": "https://www.thehindu.com/sport/football/england-bayern-munich-star-harry-kane-set-to-receive-golden-shoe-award/article71329894.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q83",
+      "question": "President Droupadi Murmu recently gave her assent to a Bill that criminalizes the insult to which national symbol, expanding upon existing legislation that prohibits insults to the national anthem?",
+      "options": [
+        "National Flower",
+        "Vande Mataram",
+        "National Emblem",
+        "National Pledge"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "President Droupadi Murmu has given her assent to a Bill that criminalizes the insult to 'Vande Mataram'. This new legislation builds upon the Prevention of Insults to National Honour Act, which previously prohibited intentionally preventing the singing of the national anthem or causing disturbance to its singing.",
+      "background": "'Vande Mataram' is India's national song, a patriotic poem written by Bankim Chandra Chattopadhyay. This legislative step aims to further protect and uphold the respect associated with national symbols.",
+      "examRelevance": "President Murmu assented to a Bill criminalizing insult to Vande Mataram.",
+      "tags": [
+        "President Murmu",
+        "Vande Mataram",
+        "National Honour Act",
+        "Legislation",
+        "Polity & Governance"
+      ],
+      "source": {
+        "title": "President Murmu gives assent to Bill criminalising insult to Vande Mataram",
+        "url": "https://www.thehindu.com/news/national/president-murmu-gives-assent-to-bill-criminalising-insult-to-vande-mataram/article71332000.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q84",
+      "question": "Who was recently chosen for the 'Thagaisal Thamizhar Award'?",
+      "options": [
+        "M. Krishnasamy",
+        "K. Anbazhagan",
+        "M. Karunanidhi",
+        "C.N. Annadurai"
+      ],
+      "answerIndex": 0,
+      "category": "Awards & Honours",
+      "explanation": "Former Tamil Nadu Congress Committee (TNCC) president M. Krishnasamy was recently chosen for the 'Thagaisal Thamizhar Award'. Hailing from a political family, he represented the erstwhile Vandavasi Lok Sabha constituency from 1991 to 1996 and the Arani Lok Sabha constituency from 2009 to 2014.",
+      "background": "The 'Thagaisal Thamizhar Award' is an honour bestowed by the Tamil Nadu government to recognize distinguished individuals who have made significant contributions to the state and its people. Such awards celebrate public service and political careers.",
+      "examRelevance": "M. Krishnasamy was chosen for the 'Thagaisal Thamizhar Award'.",
+      "tags": [
+        "M. Krishnasamy",
+        "Thagaisal Thamizhar Award",
+        "TNCC",
+        "Awards",
+        "Tamil Nadu",
+        "Politics"
+      ],
+      "source": {
+        "title": "Former TNCC president M. Krishnasamy chosen for Thagaisal Thamizhar Award",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/former-tncc-president-m-krishnasamy-chosen-for-thagaisal-thamizhar-award/article71346617.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q85",
+      "question": "A report states that India is fueling global growth in planned coal mining capacity. What is the context of India's action?",
+      "options": [
+        "India halts all new coal projects",
+        "India reduces coal consumption due to environmental concerns",
+        "India ramps up coal plans despite demand outlook",
+        "India shifts completely to renewable energy"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "According to a report, India is fueling global growth in planned coal mining capacity, indicating that the country is ramping up its coal plans. This is happening despite the prevailing demand outlook for coal, suggesting a strategic decision to strengthen energy security or meet industrial needs.",
+      "background": "India is one of the world's largest producers and consumers of coal, which is a primary source of energy for its power sector and various industries. The country faces the dual challenge of meeting its growing energy demands while also addressing environmental concerns and commitments to renewable energy transition.",
+      "examRelevance": "India is fueling global growth in planned coal mining capacity.",
+      "tags": [
+        "India",
+        "Coal Mining",
+        "Energy Policy",
+        "Environment",
+        "Economy"
+      ],
+      "source": {
+        "title": "India ramps up coal plans despite demand outlook",
+        "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/india-fuels-global-growth-in-planned-coal-mining-capacity-report-says/articleshow/133195738.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q86",
+      "question": "Fishers in Kerala are vowing to resist the Centre's proposed amendments related to which natural resource, fearing a threat to coastal rights and the fishing community?",
+      "options": [
+        "Marine fishing zones for deep-sea trawling",
+        "Coastal wetlands for aquaculture",
+        "Black sand wealth for corporate mining",
+        "Freshwater lakes for commercial farming"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Fishers in Kerala are vowing to resist the Centre's proposed amendments that they believe threaten to open Kerala’s black sand wealth to corporates. They argue that these moves pose a significant threat to Kerala’s coastal rights and the livelihoods of the fishing community.",
+      "background": "Black sand, rich in rare earth minerals like monazite, ilmenite, and rutile, is a valuable resource found along Kerala's coast. The dispute highlights the conflict between industrial development, environmental protection, and the traditional rights of local communities over natural resources.",
+      "examRelevance": "Kerala fishers resist opening black sand wealth to corporates.",
+      "tags": [
+        "Kerala",
+        "Black Sand",
+        "Coastal Rights",
+        "Fishermen",
+        "Mining"
+      ],
+      "source": {
+        "title": "Fishers vow to resist move to open Kerala’s black sand wealth to corporates",
+        "url": "https://www.thehindu.com/news/national/kerala/fishers-vow-to-resist-move-to-open-keralas-black-sand-wealth-to-corporates/article71341451.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q87",
+      "question": "What was the magnitude of the earthquake that recently struck off Indonesia, prompting a tsunami warning?",
+      "options": [
+        "7.7",
+        "8.1",
+        "7.0",
+        "6.5"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "A strong earthquake with a magnitude of 7.7 struck off Indonesia on August 15, 2026, leading to a tsunami warning issued by the country's Meteorology, Climatology, and Geophysics Agency (BMKG). The earthquake's epicenter was located in a seismically active region.",
+      "background": "Indonesia is situated on the Pacific Ring of Fire, a highly active seismic zone, making it prone to frequent earthquakes and tsunamis. The BMKG's prompt warning is crucial for coastal communities in such scenarios to take necessary precautions.",
+      "examRelevance": "The magnitude of the recent earthquake off Indonesia was 7.7.",
+      "tags": [
+        "Earthquake",
+        "Indonesia",
+        "Tsunami Warning",
+        "BMKG",
+        "Natural Disaster"
+      ],
+      "source": {
+        "title": "Magnitude 7.7 earthquake strikes off Indonesia",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/magnitude-7-7-earthquake-strikes-off-indonesia-tsunami-warning-issued/articleshow/133253731.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q88",
+      "question": "Indigenous drones and unmanned systems are set to be showcased by the defence industry and the Indian Air Force at a significant event. In which location will this showcase take place?",
+      "options": [
+        "Bengaluru",
+        "Visakhapatnam",
+        "Pokhran",
+        "Chandipur"
+      ],
+      "answerIndex": 2,
+      "category": "Defence",
+      "explanation": "The Indian defence industry and the Indian Air Force will showcase indigenous drones and unmanned systems at an event in Pokhran. This initiative highlights India's growing capabilities in advanced defence technologies and self-reliance in unmanned aerial vehicles.",
+      "background": "Pokhran in Rajasthan is historically significant as India's nuclear test site. It is also a key testing and demonstration ground for various defence systems and technologies. Showcasing indigenous capabilities aligns with the 'Make in India' and 'Atmanirbhar Bharat' initiatives in the defence sector.",
+      "examRelevance": "Indigenous drones and unmanned systems to be showcased at Pokhran.",
+      "tags": [
+        "Drones",
+        "Unmanned Systems",
+        "Pokhran",
+        "Defence",
+        "Indian Air Force",
+        "Indigenous"
+      ],
+      "source": {
+        "title": "Indigenous drones to be showcased at Pokhran event",
+        "url": "https://economictimes.indiatimes.com/news/defence/defence-industry-to-showcase-indigenous-unmanned-systems-at-pokhran-event-indian-air-force/articleshow/133164825.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q89",
+      "question": "Who has been appointed as the Netherlands national football team's first foreign-born coach since 1978?",
+      "options": [
+        "Louis van Gaal",
+        "Frank de Boer",
+        "Xavi Hernandez",
+        "Ronald Koeman"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Spain great Xavi Hernandez has been hired as the Netherlands coach, becoming the first foreign-born leader of the national team in nearly 50 years. This marks a significant shift in the coaching tradition for the Dutch national team.",
+      "background": "The Netherlands national football team has historically preferred domestic coaches. Xavi Hernandez is a legendary Spanish midfielder known for his illustrious playing career with Barcelona and the Spanish national team, and his recent coaching stints.",
+      "examRelevance": "Xavi Hernandez appointed as Netherlands national football team coach.",
+      "tags": [
+        "Xavi Hernandez",
+        "Netherlands",
+        "Football",
+        "Coach"
+      ],
+      "source": {
+        "title": "Netherlands hires Spain great Xavi Hernandez as first foreign-born coach since 1978",
+        "url": "https://www.thehindu.com/sport/football/netherlands-hires-spain-great-xavi-hernandez-as-first-foreign-born-coach-since-1978/article71339352.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q90",
+      "question": "How many people died in a recent landslip incident in Mumbai, where soil and debris collapsed onto houses?",
+      "options": [
+        "Three",
+        "Five",
+        "Seven",
+        "Ten"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "A landslip incident in Mumbai resulted in the deaths of seven people. The soil and debris from the hillside collapsed onto two to three nearby houses, as reported by BMC Mayor Ritu Tawde. Rescue operations were initiated following the tragedy.",
+      "background": "Landslides and landslips are not uncommon in hilly or undulating terrains, especially during heavy monsoon seasons. Mumbai, with its densely populated areas and proximity to hillsides, has experienced such incidents in the past, often leading to significant casualties and property damage.",
+      "examRelevance": "Seven people died in a Mumbai landslip incident.",
+      "tags": [
+        "Mumbai",
+        "Landslip",
+        "Casualties",
+        "Disaster",
+        "Maharashtra"
+      ],
+      "source": {
+        "title": "Seven dead, many injured in Mumbai landslip",
+        "url": "https://www.thehindu.com/news/cities/mumbai/kurla-landslide-in-mumbai-death-toll-bmc-ndrf-rescue-efforts-august-12-2026/article71334944.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q91",
+      "question": "Police in which district of Maharashtra recently arrested a retired government doctor for allegedly orchestrating a female foeticide ring?",
+      "options": [
+        "Kolhapur",
+        "Nashik",
+        "Pune",
+        "Nagpur"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "The Kolhapur police in Maharashtra arrested a retired government doctor on July 31 for allegedly orchestrating a sophisticated female foeticide ring, highlighting the continued operation of illegal abortion networks.",
+      "background": "Female foeticide remains a serious social issue in parts of India, driven by son preference. Authorities continue to crack down on illegal networks that facilitate such practices, with arrests often revealing deeper organized rackets.",
+      "examRelevance": "Retired doctor arrested in Kolhapur, Maharashtra for female foeticide.",
+      "tags": [
+        "Female Foeticide",
+        "Maharashtra",
+        "Kolhapur",
+        "Illegal Abortion"
+      ],
+      "source": {
+        "title": "Protectors turn predators: how son preference fuels female foeticide rackets in Maharashtra",
+        "url": "https://www.thehindu.com/news/national/maharashtra/protectors-turn-predators-how-son-preference-fuels-female-foeticide-rackets-in-maharashtra/article71329924.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q92",
+      "question": "The works of which renowned archaeologist, published by the Tamil Arts Academy, will now be made available under open access? He was also the first Director of the Department of Archaeology in Tamil Nadu and received the Padma Bhushan in 2018.",
+      "options": [
+        "K.V. Raman",
+        "T. Satyamurthy",
+        "R. Nagaswamy",
+        "S. Rajavelu"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "The works of archaeologist R. Nagaswamy, published by the Tamil Arts Academy, are now set to be available under open access. Nagaswamy, who received the Padma Bhushan in 2018 for his immense contribution to archaeology and epigraphy, was the first Director of the Department of Archaeology in Tamil Nadu.",
+      "background": "Open access initiatives make academic research and publications freely available online, increasing their reach and impact. R. Nagaswamy was a towering figure in South Indian archaeology, known for his extensive work on temple architecture, inscriptions, and art history.",
+      "examRelevance": "Archaeologist R. Nagaswamy's works (published by Tamil Arts Academy) to be open access.",
+      "tags": [
+        "R. Nagaswamy",
+        "Archaeology",
+        "Tamil Arts Academy",
+        "Open Access",
+        "Padma Bhushan",
+        "Tamil Nadu"
+      ],
+      "source": {
+        "title": "Archaeologist R. Nagaswamy’s works published by Tamil Arts Academy to be available under open access",
+        "url": "https://www.thehindu.com/news/cities/chennai/archaeologist-r-nagaswamys-works-published-by-tamil-arts-academy-to-be-available-under-open-access/article71333338.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q93",
+      "question": "A tribal body in which Indian state has urged the government to protect farmers' rights before proceeding with a ₹1,800-crore integrated cement plant and limestone mining project?",
+      "options": [
+        "Arunachal Pradesh",
+        "Mizoram",
+        "Meghalaya",
+        "Manipur"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "A tribal body in Meghalaya has urged the government to protect farmers' rights before proceeding with a ₹1,800-crore integrated cement plant and limestone mining project. Public hearings for the project in East Jaintia Hills have been stalled since May due to opposition.",
+      "background": "Large industrial projects, especially those involving mining, often face opposition from local communities due to concerns about land displacement, environmental degradation, and impact on traditional livelihoods. The demand for protecting farmers' rights highlights the importance of inclusive development and addressing local grievances.",
+      "examRelevance": "Meghalaya tribal body opposes ₹1,800-crore cement plant and limestone mining project over farmers' rights.",
+      "tags": [
+        "Meghalaya",
+        "Tribal Body",
+        "Cement Plant",
+        "Limestone Mining",
+        "Farmers' Rights"
+      ],
+      "source": {
+        "title": "Protect farmers’ rights before pushing cement project: Meghalaya tribal body tells government",
+        "url": "https://www.thehindu.com/news/national/meghalaya/protect-farmers-rights-before-pushing-cement-project-meghalaya-tribal-body-tells-government/article71341628.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q94",
+      "question": "Statues of Dr. B.R. Ambedkar were recently vandalised in which two districts of Uttar Pradesh?",
+      "options": [
+        "Prayagraj and Kanpur",
+        "Lucknow and Varanasi",
+        "Agra and Meerut",
+        "Unnao and Etawah"
+      ],
+      "answerIndex": 3,
+      "category": "Art & Culture",
+      "explanation": "Statues of Dr. B.R. Ambedkar were recently vandalised in two separate incidents in Uttar Pradesh, specifically in the districts of Unnao and Etawah. In both cases, the local administration intervened to pacify villagers and installed new statues.",
+      "background": "Dr. B.R. Ambedkar is a revered figure in India, known as the chief architect of the Indian Constitution and a champion of social justice and Dalit rights. Incidents of statue vandalism often spark social and political protests, highlighting ongoing sensitivities around historical figures and community identities.",
+      "examRelevance": "Dr. B.R. Ambedkar statues vandalised in Unnao and Etawah (Uttar Pradesh).",
+      "tags": [
+        "B.R. Ambedkar",
+        "Statue Vandalism",
+        "Uttar Pradesh",
+        "Unnao",
+        "Etawah",
+        "Social Issues"
+      ],
+      "source": {
+        "title": "Uproar erupts as Ambedkar statues vandalised in Uttar Pradesh’s Unnao, Etawah",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/uproar-erupts-as-ambedkar-statues-vandalised-in-uttar-pradeshs-unnao-etawah/article71337404.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q95",
+      "question": "Which authority recently endorsed the Cauvery Water Regulation Committee’s (CWRC) direction to Karnataka to release 12,000 cusecs of water per day for 15 days to Tamil Nadu?",
+      "options": [
+        "Central Water Commission (CWC)",
+        "Cauvery Water Management Authority (CWMA)",
+        "Ministry of Jal Shakti",
+        "Supreme Court of India"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Cauvery Water Management Authority (CWMA) recently endorsed the direction issued by the Cauvery Water Regulation Committee (CWRC). This direction mandates Karnataka to release 12,000 cusecs of water per day for a period of 15 days to Tamil Nadu.",
+      "background": "The Cauvery River dispute is a long-standing inter-state water dispute between Karnataka and Tamil Nadu. The CWMA and CWRC were constituted by the Union Government following a Supreme Court order to implement the Cauvery Water Disputes Tribunal's final award.",
+      "examRelevance": "CWMA endorsed CWRC's direction for Karnataka to release 12,000 cusecs of Cauvery water to Tamil Nadu.",
+      "tags": [
+        "Cauvery Water Dispute",
+        "CWMA",
+        "CWRC",
+        "Karnataka",
+        "Tamil Nadu",
+        "Water release"
+      ],
+      "source": {
+        "title": "CWMA endorses CWRC’s direction to Karnataka to release 12,000 cusecs of water a day for 15 days to Tamil Nadu",
+        "url": "https://www.thehindu.com/news/national/cwma-endorses-cwrcs-direction-to-karnataka-to-release-12000-cusecs-of-water-a-day-for-15-days-to-tamil-nadu/article71333241.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q96",
+      "question": "The Delhi High Court recently sought clarity from Meta regarding its policy on access to which copyright-protection mechanism?",
+      "options": [
+        "Content ID",
+        "Brand Rights Protection",
+        "Rights Manager",
+        "Copyright Match Tool"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "The Delhi High Court recently sought clarity from Meta regarding its policy on access to 'Rights Manager', a copyright-protection mechanism. This direction came after concerns were raised that fraudulent actors have allegedly exploited the platform’s copyright-protection mechanism to target original content.",
+      "background": "Rights Manager is a tool provided by Meta (Facebook, Instagram) to help creators and rights holders protect their copyrighted content on its platforms. The misuse of such tools raises significant legal and ethical questions regarding content moderation and intellectual property rights in the digital age.",
+      "examRelevance": "Delhi High Court sought clarity from Meta on 'Rights Manager' policy.",
+      "tags": [
+        "Delhi High Court",
+        "Meta",
+        "Rights Manager",
+        "Copyright Protection",
+        "Technology"
+      ],
+      "source": {
+        "title": "Delhi High Court seeks clarity over Meta’s policy on access to Rights Manager",
+        "url": "https://www.thehindu.com/sci-tech/technology/delhi-hc-seeks-clarity-over-metas-policy-on-access-to-rights-manager/article71337186.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q97",
+      "question": "In July, the Cauvery water received by Tamil Nadu reached a 50-year low. Approximately how much water, in Thousand Million Cubic Feet (tmcft), did Biligundulu receive against the stipulated share of 31.24 tmcft for the month?",
+      "options": [
+        "3.100 tmcft",
+        "2.300 tmcft",
+        "1.500 tmcft",
+        "0.698 tmcft"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "In July, Tamil Nadu received an unprecedented low of 0.698 tmcft of Cauvery water at Biligundulu, against its stipulated share of 31.24 tmcft for the month. This marks the lowest realization for July in 50 years.",
+      "background": "The Biligundulu gauging station is a critical point for measuring the inflow of Cauvery water into Tamil Nadu from Karnataka. The significant deficit highlights the severe water stress faced by the state, further intensifying the inter-state water dispute.",
+      "examRelevance": "Tamil Nadu received 0.698 tmcft of Cauvery water in July, a 50-year low.",
+      "tags": [
+        "Cauvery Water",
+        "Tamil Nadu",
+        "Water shortage",
+        "Biligundulu",
+        "50-year low"
+      ],
+      "source": {
+        "title": "Cauvery water received by T.N. in July hits 50-year low",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/cauvery-water-received-by-tn-in-july-hits-50-year-low/article71302066.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q98",
+      "question": "Ahead of Independence Day, an anti-militancy operation was recently initiated in which sector of Poonch, Jammu and Kashmir, after suspected movement was spotted near an under-construction tunnel?",
+      "options": [
+        "Shahpur Sector",
+        "Balakote Sector",
+        "Krishna Ghati Sector",
+        "Mendhar Sector"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "An anti-militancy operation was recently launched in Poonch’s Mendhar Sector in Jammu and Kashmir, ahead of Independence Day. This operation was initiated after a security guard spotted suspected movement near an under-construction tunnel, connecting the Pir Panjal valley with Kashmir.",
+      "background": "Jammu and Kashmir frequently experiences anti-terror operations, especially around significant national events like Independence Day, due to persistent security challenges and cross-border infiltration attempts. Poonch is a sensitive border district.",
+      "examRelevance": "Anti-militancy operation launched in Poonch’s Mendhar Sector, J&K, ahead of Independence Day.",
+      "tags": [
+        "J&K",
+        "Poonch",
+        "Mendhar Sector",
+        "Anti-militancy",
+        "Independence Day",
+        "Defence"
+      ],
+      "source": {
+        "title": "Security stepped up, anti-terror ops launched ahead of Independence Day in J&K",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/security-stepped-up-anti-terror-ops-launched-ahead-of-independence-day-in-jk/article71333476.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q99",
+      "question": "How many total medals (Gold, Silver, Bronze combined) has the Indian fencing team secured so far at the Commonwealth Championships?",
+      "options": [
+        "7",
+        "8",
+        "29",
+        "14"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "The Indian fencing team had a stellar day three performance at the Commonwealth Championships, securing five more medals. This brought the nation’s overall combined medal count to an extraordinary 29 medals, comprising 8 Gold, 7 Silver, and 14 Bronze.",
+      "background": "The Commonwealth Fencing Championships are a significant event for Commonwealth nations, providing a platform for fencers to compete internationally. India's strong performance highlights the growing talent and development in the sport within the country.",
+      "examRelevance": "Indian fencing team secured 29 total medals (8 Gold, 7 Silver, 14 Bronze) at Commonwealth Championships.",
+      "tags": [
+        "Indian Fencing Team",
+        "Commonwealth Championships",
+        "Medals",
+        "Sports"
+      ],
+      "source": {
+        "title": "Indian fencing team secures five more medals at Commonwealth championships",
+        "url": "https://www.thehindu.com/sport/indian-fencing-team-secures-five-more-medals-at-commonwealth-championships/article71338356.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W33-q100",
+      "question": "Punjab CM Mann met the Governor to seek parole for which former CM Beant Singh assassination convict?",
+      "options": [
+        "Paramjit Singh Bheora",
+        "Jagtar Singh Hawara",
+        "Gurmeet Singh",
+        "Balwant Singh Rajoana"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Punjab Chief Minister Mann met the Punjab Governor to request parole for Jagtar Singh Hawara, a convict in the assassination case of former CM Beant Singh. Mr. Mann requested a 10-day parole on humanitarian grounds, citing Hawara's ailing mother's renewed hope of meeting her son after 31 years.",
+      "background": "Jagtar Singh Hawara is a prominent figure in the context of the 1995 assassination of then-Punjab Chief Minister Beant Singh. Parole requests for high-profile convicts often involve complex legal and political considerations, balancing humanitarian concerns with justice and public order.",
+      "examRelevance": "Punjab CM Mann sought parole for Beant Singh assassination convict Jagtar Singh Hawara.",
+      "tags": [
+        "Punjab CM Mann",
+        "Jagtar Singh Hawara",
+        "Beant Singh",
+        "Parole",
+        "Polity"
+      ],
+      "source": {
+        "title": "Punjab CM Mann meets Governor, seeks parole for ex-CM Beant Singh assassination convict Hawara",
+        "url": "https://www.thehindu.com/news/national/punjab/punjab-cm-mann-meets-governor-seeks-parole-for-ex-cm-beant-singh-assassination-convict-hawara/article71336755.ece"
+      }
+    }
+  ]
+}
