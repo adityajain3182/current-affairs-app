@@ -1,0 +1,770 @@
+{
+  "id": "daily-2026-08-18",
+  "type": "daily",
+  "date": "2026-08-18",
+  "title": "Current Affairs — 18 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-18-q1",
+      "question": "The last date to register for the 'Made of Chennai Run' in 2026 was announced as August 19. This event is primarily associated with which Indian city?",
+      "options": [
+        "Bengaluru",
+        "Chennai",
+        "Kochi",
+        "Hyderabad"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "The 'Made of Chennai Run' is an annual event held in Chennai, Tamil Nadu. The registration for the 2026 edition was scheduled to close on August 19.",
+      "background": "The Made of Chennai Run is a community running event that typically promotes fitness and civic pride in Chennai. Such city-specific marathons or runs are common across India.",
+      "examRelevance": "Made of Chennai Run = Chennai-based annual running event.",
+      "tags": [
+        "Chennai",
+        "Running",
+        "Marathon",
+        "Sports Event"
+      ],
+      "source": {
+        "title": "Last date to register for Made of Chennai Run is August 19",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/last-date-to-register-for-made-of-chennai-run-is-august-19/article71357839.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q2",
+      "question": "Which state government recently cancelled the JSSC-CGL exam and all other examinations conducted by a firm implicated in alleged irregularities, following widespread student protests?",
+      "options": [
+        "Bihar",
+        "Jharkhand",
+        "Odisha",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Jharkhand government, after an emergency cabinet meeting, cancelled the JSSC-CGL exam and all other examinations conducted by a firm found to be involved in alleged irregularities. This decision followed intense student agitations and protests in Ranchi.",
+      "background": "Student protests had erupted in Jharkhand due to alleged flaws and irregularities in examination processes, leading to demands for reforms and a CBI inquiry into the matter. The state CID is also probing the case and has raided the JSSC office.",
+      "examRelevance": "Jharkhand government = cancelled JSSC-CGL exam due to irregularities.",
+      "tags": [
+        "Jharkhand",
+        "JSSC-CGL",
+        "Exam Irregularities",
+        "Student Protests"
+      ],
+      "source": {
+        "title": "Jharkhand government cancels JSSC-CGL exam, all exams conducted by tainted firm",
+        "url": "https://www.thehindu.com/news/national/hemant-sorent-announces-jssc-cgl-exam-cancellation-after-emergency-cabinet-meeting/article71357634.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q3",
+      "question": "According to recent reports, over 2.07 crore voter enumeration forms remain uncollected in which Indian state, raising concerns about the accuracy of the electoral roll?",
+      "options": [
+        "West Bengal",
+        "Maharashtra",
+        "Uttar Pradesh",
+        "Bihar"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "In Maharashtra, over 2.07 crore voter enumeration forms have remained uncollected, prompting concerns from political parties regarding the integrity of the voter verification process. Allegations include Booth Level Officers (BLOs) conducting surveys from their desks with inputs from political workers.",
+      "background": "The process of voter enumeration and verification is crucial for maintaining an accurate electoral roll. Such large numbers of uncollected forms can lead to issues like duplicate voters, which was also alleged by former CM Prithviraj Chavan.",
+      "examRelevance": "Maharashtra = Over 2.07 crore uncollected voter enumeration forms.",
+      "tags": [
+        "Maharashtra",
+        "Voter Enumeration",
+        "Electoral Roll",
+        "Rohit Pawar"
+      ],
+      "source": {
+        "title": "Over 2.07 crore voter enumeration forms remain uncollected in Maharashtra",
+        "url": "https://www.thehindu.com/news/national/maharashtra/over-207-crore-voter-enumeration-forms-remain-uncollected-in-maharashtra/article71357458.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q4",
+      "question": "Odisha Chief Minister Mohan Charan Majhi recently undertook a boat ride to visit flood-affected villages in Jajpur district. Approximately how many people have been affected by the grim flood situation across the state?",
+      "options": [
+        "Over 7.85 lakh",
+        "Over 5 lakh",
+        "Over 2.5 lakh",
+        "Over 10 lakh"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Odisha Chief Minister Mohan Charan Majhi visited flood-hit Jajpur district to assess the situation. The floods have remained grim, affecting more than 7.85 lakh people across six districts in the state.",
+      "background": "Odisha is prone to floods, especially during the monsoon season, due to its geographical location and river systems. The India Meteorological Department (IMD) had forecast more rains after a low-pressure system intensified into a depression in the Bay of Bengal.",
+      "examRelevance": "Odisha floods = Over 7.85 lakh people affected.",
+      "tags": [
+        "Odisha",
+        "Floods",
+        "Mohan Charan Majhi",
+        "Jajpur"
+      ],
+      "source": {
+        "title": "Odisha floods: Over 7.85 lakh affected",
+        "url": "https://economictimes.indiatimes.com/news/india/cm-majhi-visits-flood-hit-jajpur-bhadrak-districts-as-over-7-85-lakh-affected-in-odisha/articleshow/133309583.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q5",
+      "question": "The Forward Seamen’s Union of India recently reported that shipowners and managers are allegedly pressuring its 16 Indian crew members to transit the high-risk Strait of Hormuz. Which vessel are these sailors aboard?",
+      "options": [
+        "MV Ocean Pride",
+        "SS Marine Spirit",
+        "AM Pioneer",
+        "MT Global Voyager"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The Forward Seamen’s Union of India has raised an alarm, stating that the shipowners and managers of the vessel AM Pioneer are 'pressuring the Master to force its 16 Indian crew to transit the high-risk Strait of Hormuz.'",
+      "background": "The Strait of Hormuz is a strategically important waterway connecting the Persian Gulf to the Arabian Sea, known for its geopolitical tensions and risks to shipping. This incident highlights the dangers faced by seafarers in conflict zones.",
+      "examRelevance": "AM Pioneer = vessel with 16 Indian crew pressured to cross Strait of Hormuz.",
+      "tags": [
+        "Strait of Hormuz",
+        "Indian Sailors",
+        "AM Pioneer",
+        "Maritime Safety"
+      ],
+      "source": {
+        "title": "Indian sailors’ SOS: ‘Company asking us to risk lives, cross Strait of Hormuz’",
+        "url": "https://www.thehindu.com/news/national/indian-sailors-sos-company-asking-us-to-risk-lives-cross-strait-of-hormuz/article71357907.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q6",
+      "question": "Jared Kushner, identified as former US President Trump’s envoy for Gaza, recently met with Israeli Prime Minister Benjamin Netanyahu to discuss a Gaza plan. What timeline was reportedly agreed upon for Hamas disarmament?",
+      "options": [
+        "Within 60 days",
+        "Within 15 days",
+        "Within 30 days",
+        "Within 90 days"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Jared Kushner and Israeli Prime Minister Benjamin Netanyahu agreed that an American general would verify Hamas’s disarmament, with the process expected to begin within 30 days. Netanyahu insisted there would be no Israeli pullout from Gaza until then.",
+      "background": "These discussions are part of ongoing international efforts to de-escalate the conflict in the West Asia region and establish a framework for peace and security in Gaza. Jared Kushner was also joined by Nickolay Mladenov, Trump’s Board of Peace envoy for Gaza.",
+      "examRelevance": "Jared Kushner-Netanyahu meeting = Hamas disarmament within 30 days.",
+      "tags": [
+        "Jared Kushner",
+        "Benjamin Netanyahu",
+        "Gaza",
+        "Hamas",
+        "Disarmament"
+      ],
+      "source": {
+        "title": "Trump envoy discusses Gaza plan with Netanyahu after rare Hamas meeting",
+        "url": "https://www.thehindu.com/news/international/israel-palaestine-war-jared-kushner-meeting-with-benjamin-netanyahu-august-17-2026/article71355826.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q7",
+      "question": "The U.S. FDA recently classified a North Carolina plant of an Aurobindo arm as Voluntary Action Indicated (VAI). This classification allows pending applications for multiple inhalers and other dosage forms from which parent company to progress?",
+      "options": [
+        "Aurobindo Pharma",
+        "Sun Pharmaceutical",
+        "Cipla",
+        "Dr. Reddy's Laboratories"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The U.S. FDA classified the North Carolina plant of Aurobindo Pharma's arm as Voluntary Action Indicated (VAI). This positive classification means that pending applications for multiple inhalers and other dosage forms filed from this facility can now move forward through the FDA’s review process.",
+      "background": "A VAI classification by the FDA indicates that objectionable conditions were found during an inspection but are not considered to be significant enough to warrant regulatory action. It is generally a positive outcome for pharmaceutical companies as it allows product approvals to proceed.",
+      "examRelevance": "Aurobindo Pharma = US FDA VAI classification for North Carolina plant.",
+      "tags": [
+        "Aurobindo Pharma",
+        "US FDA",
+        "VAI",
+        "Pharmaceutical Industry"
+      ],
+      "source": {
+        "title": "U.S. FDA classifies Aurobindo arm’s North Carolina plant VAI",
+        "url": "https://www.thehindu.com/business/Industry/us-fda-classifies-aurobindo-arms-north-carolina-plant-vai/article71357096.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q8",
+      "question": "Ten individuals were recently arrested in Pune for running a fake college admission racket that targeted parents. This cheating case was reportedly being operated from how many call centres in Pune?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "One"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "Pune police arrested ten people involved in a fake college admission racket. Deputy Commissioner of Police Datta Nalawade stated that this cheating case was being run from two call centres in Pune, where they would contact victims and extract money.",
+      "background": "Such rackets exploit the aspirations of students and parents for higher education, often promising admissions to prestigious institutions in exchange for large sums of money. This arrest highlights the prevalence of such scams in educational hubs.",
+      "examRelevance": "Pune = fake college admission racket run from two call centres.",
+      "tags": [
+        "Pune",
+        "Fake Admissions",
+        "Racket",
+        "Crime"
+      ],
+      "source": {
+        "title": "10 arrested in Pune-based fake college admission racket targeting parents",
+        "url": "https://www.thehindu.com/news/cities/mumbai/10-arrested-in-pune-based-fake-college-admission-racket-targeting-parents/article71357764.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q9",
+      "question": "A Delhi Court recently ordered the property attachment of Advocate Mehmood Pracha for failing to pay a ₹6 lakh fine. This fine was imposed for seeking to declare which significant Supreme Court verdict null and void?",
+      "options": [
+        "Sabarimala verdict",
+        "Triple Talaq verdict",
+        "Demonetisation verdict",
+        "Ayodhya verdict"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "A Delhi Court ordered the attachment of Advocate Mehmood Pracha's property because he failed to pay a ₹6 lakh fine. This fine was levied for his petition seeking to have the Supreme Court’s 2019 Ayodhya verdict declared null and void.",
+      "background": "The Ayodhya verdict, delivered by the Supreme Court in 2019, was a landmark judgment in the Ram Janmabhoomi-Babri Masjid dispute. Challenging such a verdict in certain ways can lead to legal repercussions, including fines for vexatious litigation.",
+      "examRelevance": "Advocate Mehmood Pracha = property attached for unpaid fine related to Ayodhya verdict challenge.",
+      "tags": [
+        "Mehmood Pracha",
+        "Ayodhya Verdict",
+        "Delhi Court",
+        "Property Attachment"
+      ],
+      "source": {
+        "title": "Delhi Court orders property attachment of Advocate Mehmood Pracha over unpaid fine",
+        "url": "https://www.thehindu.com/news/national/delhi-court-orders-property-attachment-of-advocate-mehmood-pracha-over-unpaid-fine/article71357159.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q10",
+      "question": "The Allahabad High Court recently criticised the Uttar Pradesh government for taking over land belonging to the 'Sugriv Kila' temple without paying due compensation. This land was acquired for the development of which major project?",
+      "options": [
+        "Ram Temple in Ayodhya",
+        "Vindhyachal Corridor",
+        "Mathura Krishna Janmabhoomi",
+        "Kashi Vishwanath Corridor"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Allahabad High Court criticised the Uttar Pradesh authorities for acquiring land belonging to the 'Sugriv Kila' temple for the Ram Temple development in Ayodhya without fair compensation. The court stated that the authorities 'fooled the petitioner.'",
+      "background": "The construction of the Ram Temple in Ayodhya is a monumental project. Land acquisition for such large-scale public or religious projects often involves legal scrutiny to ensure fair compensation and adherence to due process.",
+      "examRelevance": "Allahabad High Court = criticised UP govt for Sugriv Kila temple land acquisition for Ram Temple.",
+      "tags": [
+        "Allahabad High Court",
+        "Uttar Pradesh",
+        "Sugriv Kila",
+        "Ram Temple Ayodhya"
+      ],
+      "source": {
+        "title": "Allahabad High Court criticises U.P. government for taking over ‘Sugriv Kila’ temple land for Ram temple development without paying dues",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-high-court-criticises-up-government-for-taking-over-sugriv-kila-temple-land-for-ram-temple-development-without-paying-dues/article71356460.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q11",
+      "question": "According to recent reports, the cumulative rainfall deficit for the Southwest Monsoon has narrowed to what percentage, despite erratic swings between intense deluges and prolonged dry spells in different regions?",
+      "options": [
+        "18%",
+        "5%",
+        "8%",
+        "13%"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The cumulative rainfall deficit for the Southwest Monsoon has narrowed to 13%. However, the report highlights patchy progress and extreme weather events, with erratic swings between intense deluges and prolonged dry spells, leading to severe regional imbalances.",
+      "background": "The Southwest Monsoon is vital for India's agriculture and economy, accounting for about 70% of the country's annual rainfall. Monitoring its performance is crucial for agricultural planning and water resource management.",
+      "examRelevance": "Southwest Monsoon = cumulative rainfall deficit narrowed to 13%.",
+      "tags": [
+        "Southwest Monsoon",
+        "Rainfall Deficit",
+        "Climate",
+        "Agriculture"
+      ],
+      "source": {
+        "title": "Patchy progress, masked extremes: how the Southwest Monsoon has played out so far",
+        "url": "https://www.livemint.com/economy/patchy-progress-masked-extremes-how-the-southwest-monsoon-has-played-out-so-far-11786971002094.html"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q12",
+      "question": "According to Capitaline data, mid- and small-cap companies in the Nifty MidCap 150 index posted their sharpest revenue growth in 16 quarters during the June quarter. What was the aggregate revenue growth for these companies?",
+      "options": [
+        "25%",
+        "20%",
+        "10%",
+        "15%"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Of the sample of 113 companies in the Nifty MidCap 150 index, aggregate revenue in April-June climbed 20%, marking its biggest jump since June 2022. Operating profit rose 27%, extending its streak of double-digit growth to 13 quarters.",
+      "background": "The performance of mid- and small-cap segments often reflects broader economic health and investor sentiment. Strong earnings growth can attract significant investment, contributing to market rallies, even amidst global uncertainties like the West Asia conflict.",
+      "examRelevance": "Nifty MidCap 150 = 20% aggregate revenue growth in June quarter.",
+      "tags": [
+        "Mid-Cap Stocks",
+        "Small-Cap Stocks",
+        "Nifty MidCap 150",
+        "Earnings Growth",
+        "Economy"
+      ],
+      "source": {
+        "title": "Strong earnings propel mid- and small-cap stocks to a significant rally on D-St",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/strong-earnings-support-mid-small-caps-d-street-run/articleshow/133308944.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q13",
+      "question": "Who is the current Chairman of the Securities and Exchange Board of India (SEBI) who recently stated that the regulator will examine and address issues in the new Closing Auction Session (CAS) but ruled out scrapping the mechanism?",
+      "options": [
+        "G. Mahalingam",
+        "Tuhin Kanta Pandey",
+        "Ajay Tyagi",
+        "Madhabi Puri Buch"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "Securities and Exchange Board of India Chairman Tuhin Kanta Pandey recently stated that SEBI will examine and address concerns regarding the new Closing Auction Session (CAS), but he ruled out scrapping the mechanism. He emphasized that CAS is here to stay.",
+      "background": "The Closing Auction Session (CAS) is a trading mechanism designed to determine closing prices more efficiently and reduce volatility at the end of the trading day. SEBI, as the market regulator, frequently introduces and reviews such mechanisms to ensure market integrity and fairness.",
+      "examRelevance": "SEBI Chairman = Tuhin Kanta Pandey, rules out CAS rollback.",
+      "tags": [
+        "SEBI",
+        "Tuhin Kanta Pandey",
+        "Closing Auction Session",
+        "Capital Markets"
+      ],
+      "source": {
+        "title": "Sebi chair rules out CAS rollback; assures commitment to resolving ongoing issues",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-chair-rules-out-cas-rollback-assures-commitment-to-resolving-ongoing-financial-issues/articleshow/133308903.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q14",
+      "question": "The Indian government is reportedly weighing the scrapping of performance bank guarantees for MSME contracts. Currently, for government orders valued over ₹1,00,000, MSMEs must furnish a performance bank guarantee worth what percentage of the project value?",
+      "options": [
+        "3-10%",
+        "16-20%",
+        "1-2%",
+        "11-15%"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The government is considering removing the requirement for performance bank guarantees for MSME contracts. As per existing rules, MSMEs that receive a government order valued over ₹1,00,000 are required to furnish a performance bank guarantee worth 3-10% of the project value.",
+      "background": "This move aims to ease the financial burden on Micro, Small, and Medium Enterprises (MSMEs), which are crucial for India's economic growth and employment. MSMEs accounted for 50% of the central government’s ₹2.30 trillion procurement of goods and services in FY26.",
+      "examRelevance": "MSME contracts = current performance bank guarantee 3-10% of project value.",
+      "tags": [
+        "MSME",
+        "Performance Bank Guarantee",
+        "Government Procurement",
+        "Economic Policy"
+      ],
+      "source": {
+        "title": "Govt weighs scrapping performance bank guarantees for MSME contracts",
+        "url": "https://www.livemint.com/economy/govt-weighs-scrapping-performance-bank-guarantees-for-msme-contracts-11786962863217.html"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q15",
+      "question": "Which global spirits giant, maker of Jim Beam, is betting on brands like Oaksmith and Jim Beam to significantly penetrate India's whisky market by 2030?",
+      "options": [
+        "Suntory",
+        "Pernod Ricard",
+        "Brown-Forman",
+        "Diageo"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Japanese spirits giant Suntory, the maker of Jim Beam, is strategically focusing on expanding its presence in the Indian whisky market. The company is betting on brands like Oaksmith and Jim Beam to achieve significant market penetration by 2030.",
+      "background": "India is one of the largest and fastest-growing markets for alcoholic beverages globally, particularly for whisky. International spirits companies are increasingly looking to capture a larger share of this market through localized products and marketing strategies.",
+      "examRelevance": "Suntory = Jim Beam maker, targeting India's whisky market by 2030.",
+      "tags": [
+        "Suntory",
+        "Jim Beam",
+        "Whisky Market",
+        "India",
+        "Economy & Business"
+      ],
+      "source": {
+        "title": "Jim Beam maker wants to fill India's whisky glasses",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/liquor/spirits-giant-suntory-bets-on-oaksmith-jim-beam-to-crack-indias-whisky-market-by-2030/articleshow/133306213.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q16",
+      "question": "In the Twisha Sharma death case, the CBI recently filed a chargesheet accusing Samarth and Giribala of abetment of suicide. Giribala, one of the accused, is identified as a former holder of which position?",
+      "options": [
+        "High Court Judge",
+        "District Judge",
+        "Additional Solicitor General",
+        "Senior Public Prosecutor"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "The CBI has named Samarth, a lawyer, and Giribala, a former district judge, in its chargesheet in the Twisha Sharma death case. They have been accused of abetment of suicide, following allegations of mental abuse and physical violence by the deceased's family.",
+      "background": "The Twisha Sharma case has garnered significant attention due to the involvement of individuals with legal backgrounds. The CBI's chargesheet marks a major development in the ongoing investigation into the circumstances surrounding her death.",
+      "examRelevance": "Giribala = former District Judge, accused in Twisha Sharma case.",
+      "tags": [
+        "Twisha Sharma",
+        "CBI",
+        "Abetment of Suicide",
+        "Giribala",
+        "District Judge"
+      ],
+      "source": {
+        "title": "Twisha Sharma case: CBI accuses Giribala, Samarth of abetment of suicide",
+        "url": "https://www.thehindu.com/news/national/madhya-pradesh/twisha-sharma-death-case-samarth-singh-giribala-singh-named-in-cbis-charge-sheet/article71355607.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q17",
+      "question": "Bihar Chief Minister Samrat Choudhary recently announced that mining activities will resume in the state after which specific date, with an assurance that mineral royalties would be used for public welfare?",
+      "options": [
+        "September 15",
+        "December 15",
+        "November 15",
+        "October 15"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Bihar Chief Minister Samrat Choudhary announced that mining activities in the state will resume after October 15. He assured that mineral royalties generated would be utilized for the welfare of the people and the state's development.",
+      "background": "Mining operations are a significant source of revenue for many states. Decisions regarding their resumption often involve balancing economic benefits with environmental concerns and ensuring proper regulation to prevent misuse of mineral wealth.",
+      "examRelevance": "Bihar CM Samrat Choudhary = mining to resume after October 15.",
+      "tags": [
+        "Bihar",
+        "Mining",
+        "Samrat Choudhary",
+        "State Policy"
+      ],
+      "source": {
+        "title": "Mining to resume in Bihar after October 15, says CM Samrat Choudhary",
+        "url": "https://www.thehindu.com/news/national/bihar/mining-to-resume-in-bihar-after-october-15-says-cm-samrat-choudhary/article71356242.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q18",
+      "question": "Health officials have reported that Congo's current Ebola outbreak is the second-most lethal on record. It is estimated to be spreading how many times faster than previous outbreaks did in Congo at this stage?",
+      "options": [
+        "Four times",
+        "Three times",
+        "Two times",
+        "Five times"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Congo's current Ebola outbreak is considered the second-most lethal on record. Health officials have indicated that this outbreak is spreading five times faster than previous outbreaks did in Congo at a similar stage.",
+      "background": "Ebola virus disease is a severe, often fatal illness in humans. Outbreaks in the Democratic Republic of Congo (DRC) have been recurrent, and understanding the rate of spread is crucial for implementing effective public health responses and containment strategies.",
+      "examRelevance": "Congo Ebola outbreak = spreading five times faster.",
+      "tags": [
+        "Congo",
+        "Ebola",
+        "Public Health",
+        "Disease Outbreak"
+      ],
+      "source": {
+        "title": "How Congo's Ebola outbreak became the second-most lethal on record",
+        "url": "https://www.thehindu.com/sci-tech/health/how-congos-ebola-outbreak-became-the-second-most-lethal-on-record/article71357924.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q19",
+      "question": "The Supreme Court recently ruled that no state can block traditional routes of elephants. What specific directive did the SC issue to the Centre regarding the removal of obstructions from elephant corridors?",
+      "options": [
+        "To conduct a national survey to remove obstructions",
+        "To increase forest cover by 20%",
+        "To declare all corridors as National Parks",
+        "To relocate all human settlements near corridors"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The Supreme Court directed the Centre to conduct a national survey to remove obstructions from traditional elephant corridors and ensure a ban on the use of fireballs and spikes to drive away elephants. The court emphasized that impeding elephant corridors is not a solution to human-animal conflicts.",
+      "background": "Elephant corridors are vital for the movement of elephants, facilitating genetic exchange and reducing human-elephant conflict. Encroachment and developmental activities often obstruct these corridors, leading to increased conflicts and threats to elephant populations.",
+      "examRelevance": "Supreme Court = directed Centre to conduct national survey to remove obstructions from elephant corridors.",
+      "tags": [
+        "Supreme Court",
+        "Elephant Corridors",
+        "Wildlife Conservation",
+        "Environment"
+      ],
+      "source": {
+        "title": "No State can block traditional routes of elephants: Supreme Court",
+        "url": "https://www.thehindu.com/news/national/states-cant-create-blockades-in-elephant-corridors-sc/article71356053.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q20",
+      "question": "Who has recently been named as the BJP’s new national social media convener, bringing a bigger profile and formidable challenge to the 58-year-old Chemistry professor-turned-politician from Chhattisgarh?",
+      "options": [
+        "Deepak Mhaskey",
+        "Amit Malviya",
+        "Priti Gandhi",
+        "Tajinder Pal Singh Bagga"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Deepak Mhaskey, a 58-year-old Chemistry professor-turned-politician from Chhattisgarh, has been named as the BJP’s new national social media convener. This appointment comes with a significant profile and challenges in managing the party's digital presence.",
+      "background": "The role of social media conveners has become increasingly critical in modern political campaigning and communication. This appointment signifies the BJP's ongoing efforts to strengthen its digital outreach and messaging strategy.",
+      "examRelevance": "Deepak Mhaskey = new BJP national social media convener.",
+      "tags": [
+        "Deepak Mhaskey",
+        "BJP",
+        "Social Media Convener",
+        "Political Appointment"
+      ],
+      "source": {
+        "title": "Bigger profile comes with a formidable challenge for Deepak Mhaskey",
+        "url": "https://www.thehindu.com/news/national/bigger-profile-comes-with-a-formidable-challenge-for-deepak-mhaskey/article71357713.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q21",
+      "question": "The UN recently lamented the 'unacceptable' toll of aid workers. How many aid workers were reported killed in 2025, and how many more since the start of 2026, respectively?",
+      "options": [
+        "300 in 2025, 70 in 2026",
+        "250 in 2025, 50 in 2026",
+        "400 in 2025, 100 in 2026",
+        "350 in 2025, 82 in 2026"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The UN reported that 350 aid workers were killed in 2025. Since the start of 2026, an additional 82 aid workers have been killed, 97 injured, and 39 abducted worldwide, highlighting the severe risks faced by humanitarian personnel.",
+      "background": "Aid workers often operate in conflict zones, disaster-stricken areas, and fragile states, putting them at high risk. International humanitarian law provides for the protection of aid workers, but violations continue to be a significant concern.",
+      "examRelevance": "UN = 350 aid workers killed in 2025, 82 in 2026.",
+      "tags": [
+        "UN",
+        "Aid Workers",
+        "Humanitarian Crisis",
+        "International Security"
+      ],
+      "source": {
+        "title": "UN laments 'unacceptable' toll of 350 aid workers killed in 2025",
+        "url": "https://www.thehindu.com/sci-tech/health/un-laments-unacceptable-toll-of-350-aid-workers-killed-in-2025/article71357522.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q22",
+      "question": "The UPSSSC (Uttar Pradesh Subordinate Services Selection Commission) recently declared recruitment exam results for which posts, hours after aspirants staged a protest outside its office in Lucknow?",
+      "options": [
+        "Lekhpal",
+        "Village Development Officer",
+        "Revenue Inspector",
+        "Junior Assistant"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The UPSSSC declared the recruitment exam results for 5,512 Junior Assistant posts. This announcement came hours after candidates had planned and staged a peaceful protest outside the UPSSSC office in Lucknow to press for the publication of their final merit list.",
+      "background": "Recruitment processes by state selection commissions are often subject to delays and protests, with aspirants demanding timely results and transparency. The UPSSSC is responsible for various recruitments in Uttar Pradesh.",
+      "examRelevance": "UPSSSC = declared Junior Assistant recruitment exam result.",
+      "tags": [
+        "UPSSSC",
+        "Junior Assistant",
+        "Recruitment",
+        "Uttar Pradesh"
+      ],
+      "source": {
+        "title": "UPSSSC declares recruitment exam result hours after aspirants stage protest outside its office in Lucknow",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/upsssc-declares-recruitment-exam-result-hours-after-aspirants-stage-protest-outside-its-office-in-lucknow/article71356935.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q23",
+      "question": "Mangrove conservationist Parayil Rajan is on a mission to save a rare mangrove variety locally known as Kannampotti. What is the scientific name of this mangrove, which he fears could disappear from Kannur’s tidal landscape?",
+      "options": [
+        "Avicennia marina",
+        "Excoecaria agallocha",
+        "Bruguiera gymnorhiza",
+        "Rhizophora mucronata"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Parayil Rajan, a mangrove conservationist, is working to save the rare mangrove variety locally called Kannampotti. Its scientific name is Excoecaria agallocha, and it is feared to be disappearing from Kannur's tidal landscape. He has successfully grown 2,000 plants from a single plant.",
+      "background": "Mangroves are crucial coastal ecosystems that protect shorelines from erosion, provide habitats for diverse wildlife, and act as carbon sinks. Conservation efforts for specific rare species like Excoecaria agallocha are vital for maintaining biodiversity.",
+      "examRelevance": "Kannampotti mangrove = scientific name Excoecaria agallocha, conserved in Kannur.",
+      "tags": [
+        "Mangrove",
+        "Kannampotti",
+        "Excoecaria agallocha",
+        "Kannur",
+        "Conservation",
+        "Parayil Rajan"
+      ],
+      "source": {
+        "title": "From one plant to 2,000: Saving Kannur’s rare mangrove",
+        "url": "https://www.thehindu.com/news/national/kerala/from-one-plant-to-2000-saving-kannurs-rare-mangrove/article71355850.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q24",
+      "question": "The Kerala Police recently urged homeowners to use the 'Locked House Information' option on their official mobile application for continuous surveillance of vacant homes. What is the name of this official Kerala Police app?",
+      "options": [
+        "Safe Kerala",
+        "Kerala Suraksha",
+        "My Police",
+        "POL-APP"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "The Kerala Police has stepped up vigil against house burglaries and advised homeowners to utilize the 'Locked House Information' option available on their official mobile application, named POL-APP. This feature allows users to register vacant homes for continuous surveillance.",
+      "background": "Digital initiatives and mobile applications are increasingly being used by police forces across India to enhance public safety, improve citizen engagement, and streamline reporting mechanisms. The POL-APP is an example of such a technological intervention.",
+      "examRelevance": "Kerala Police = POL-APP for 'Locked House Information' and surveillance.",
+      "tags": [
+        "Kerala Police",
+        "POL-APP",
+        "Digital Initiative",
+        "Public Safety",
+        "Technology"
+      ],
+      "source": {
+        "title": "Police step up vigil as house burglaries rise across Keralam",
+        "url": "https://www.thehindu.com/news/national/kerala/police-step-up-vigil-as-house-burglaries-rise-across-kerala/article71356259.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q25",
+      "question": "Which Indian private sector bank is expanding its corporate play beyond traditional loans, focusing on winning corporate wallets by offering a wider range of financial services and shunning a price war?",
+      "options": [
+        "Kotak Mahindra Bank",
+        "Axis Bank",
+        "ICICI Bank",
+        "HDFC Bank"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Axis Bank is reportedly expanding its corporate strategy to move beyond solely offering loans. The bank is now focusing on winning 'corporate wallets' by providing a broader spectrum of financial services to companies, thereby avoiding a direct price war in the lending segment.",
+      "background": "Indian banking sector is highly competitive. Banks are increasingly diversifying their offerings to corporate clients, including cash management, trade finance, and digital solutions, to build deeper relationships and secure more comprehensive business.",
+      "examRelevance": "Axis Bank = expanding corporate play beyond loans to win corporate wallets.",
+      "tags": [
+        "Axis Bank",
+        "Corporate Banking",
+        "Financial Services",
+        "Economy",
+        "Business Strategy"
+      ],
+      "source": {
+        "title": "Axis Bank looks beyond loans to win corp wallets",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/axis-bank-expands-corporate-play-beyond-loans-shuns-price-war/articleshow/133305713.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q26",
+      "question": "The Comptroller and Auditor General (CAG) recently conducted an audit of which major Indian environmental mission, criticising its approach of 'counting trees when it should be restoring forests'?",
+      "options": [
+        "Compensatory Afforestation Fund Management and Planning Authority (CAMPA)",
+        "National Mission for a Green India",
+        "Green India Mission",
+        "National Afforestation Programme"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "The Comptroller and Auditor General (CAG) conducted an audit of the Green India Mission (GIM). The audit's editorial critique highlighted that India is 'counting trees when it should be restoring forests,' implying a focus on plantation numbers over ecological restoration.",
+      "background": "The Green India Mission is one of the eight missions under India's National Action Plan on Climate Change (NAPCC). Its objective is to protect, restore, and enhance India’s diminishing forest cover and to respond to climate change.",
+      "examRelevance": "CAG audit = Green India Mission, criticised for 'counting trees'.",
+      "tags": [
+        "CAG",
+        "Green India Mission",
+        "Environment",
+        "Forest Restoration",
+        "Audit"
+      ],
+      "source": {
+        "title": "Losing forest for trees: On the CAG’s audit of the Green India Mission",
+        "url": "https://www.thehindu.com/opinion/editorial/losing-forest-for-trees-on-the-cags-audit-of-the-green-india-mission/article71356794.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q27",
+      "question": "Which state government recently stated that it created the Enforcement Bureau-CID specifically to control the drug menace in the state, rejecting allegations of previous government failures in this regard?",
+      "options": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Udhayanidhi Stalin, a Minister in the Tamil Nadu government, stated that the DMK regime created the Enforcement Bureau-CID specifically to control the drug menace in the state. He rejected allegations that the previous government failed to prevent the spread of drug culture.",
+      "background": "The fight against drug trafficking and abuse is a significant challenge for state governments across India. Establishing specialized agencies like the Enforcement Bureau-CID is a common strategy to tackle organized crime related to narcotics.",
+      "examRelevance": "Tamil Nadu = created Enforcement Bureau-CID to control drug menace.",
+      "tags": [
+        "Tamil Nadu",
+        "Enforcement Bureau-CID",
+        "Drug Menace",
+        "Udhayanidhi Stalin"
+      ],
+      "source": {
+        "title": "DMK regime created Enforcement Bureau-CID to control drug menace, says Udhayanidhi",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-regime-created-enforcement-bureau-cid-to-control-drug-menace-says-udhayanidhi/article71357885.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q28",
+      "question": "The Schwan Laboratory was recently inaugurated at which university in Andhra Pradesh, marking a new development in its scientific infrastructure?",
+      "options": [
+        "Sri Venkateswara University",
+        "Andhra University",
+        "GITAM",
+        "Acharya Nagarjuna University"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "The Schwan Laboratory was recently inaugurated at GITAM (Gandhi Institute of Technology and Management) in Andhra Pradesh. This inauguration signifies an enhancement of the university's research and academic facilities.",
+      "background": "Universities often establish specialized laboratories to foster research, innovation, and provide advanced training to students. Such inaugurations contribute to the scientific and technological capabilities of the region and the nation.",
+      "examRelevance": "Schwan Laboratory = inaugurated at GITAM, Andhra Pradesh.",
+      "tags": [
+        "Schwan Laboratory",
+        "GITAM",
+        "Andhra Pradesh",
+        "Science & Technology"
+      ],
+      "source": {
+        "title": "Schwan Laboratory inaugurated at GITAM",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/schwan-laboratory-inaugurated-at-gitam/article71356792.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q29",
+      "question": "Which state government recently announced the formation of citizen-led food safety watch teams at the taluk level and launched a QR code-based complaint management system for drug and food safety violations?",
+      "options": [
+        "Telangana",
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Karnataka Health Minister announced the formation of citizen-led food safety watch teams at the taluk level. Additionally, the Karnataka government launched a QR code-based complaint management system to enable citizens to report drug and food safety violations effectively.",
+      "background": "Public participation and digital tools are increasingly being integrated into governance for better transparency and accountability, especially in critical sectors like food safety and public health. This initiative aims to empower citizens in monitoring food quality.",
+      "examRelevance": "Karnataka = citizen-led food safety watch teams at taluk level, QR code complaint system.",
+      "tags": [
+        "Karnataka",
+        "Food Safety",
+        "QR Code System",
+        "Public Health",
+        "Taluk"
+      ],
+      "source": {
+        "title": "Citizen-led food safety watch teams will be formed at taluk level in Karnataka, says Health Minister",
+        "url": "https://www.thehindu.com/news/cities/bangalore/citizen-led-food-safety-watch-teams-will-be-formed-at-at-taluk-level-in-karnataka-says-health-minister/article71357273.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-18-q30",
+      "question": "A Minister recently stated that his department will implement a new practice of appointing officials in a three-tier system to speed up the process of providing certificates within a stipulated timeframe. Which state minister made this announcement?",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "A Minister from Tamil Nadu, Sengottaiyan, announced that his department will implement a new three-tier system for appointing officials. This reform is aimed at accelerating the process of providing various certificates to citizens within a stipulated timeframe.",
+      "background": "Timely provision of government certificates is a key aspect of good governance and citizen service delivery. Administrative reforms, such as introducing multi-tier systems, are often implemented to reduce red tape and improve efficiency in public services.",
+      "examRelevance": "Tamil Nadu = three-tier system for officials to speed up certificate provision.",
+      "tags": [
+        "Tamil Nadu",
+        "Certificates",
+        "Administrative Reform",
+        "Sengottaiyan",
+        "Public Service"
+      ],
+      "source": {
+        "title": "Long-term vision is to provide certificates within a stipulated timeframe: Sengottaiyan",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/long-term-vision-is-to-provide-certificates-within-a-stipulated-timeframe-sengottaiyan/article71357048.ece"
+      }
+    }
+  ]
+}
