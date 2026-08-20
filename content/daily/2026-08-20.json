@@ -1,0 +1,768 @@
+{
+  "id": "daily-2026-08-20",
+  "type": "daily",
+  "date": "2026-08-20",
+  "title": "Current Affairs — 20 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-20-q1",
+      "question": "Who is expected to be elected as the 23rd President of Bangladesh on Thursday?",
+      "options": [
+        "Abdul Hamid",
+        "Sheikh Hasina",
+        "Mirza Fakhrul Islam Alamgir",
+        "Khaleda Zia"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Mirza Fakhrul Islam Alamgir, 78, secretary general of the Bangladesh Nationalist Party (BNP) and local government minister, is expected to sweep the afternoon vote for the five-year post to become the 23rd President of Bangladesh. This election marks the first presidential election in Bangladesh after a gap of 35 years.",
+      "background": "The position of President in Bangladesh is largely ceremonial. The election is being held after a significant gap, highlighting a shift in the country's political landscape.",
+      "examRelevance": "Mirza Fakhrul Islam Alamgir is set to become the 23rd President of Bangladesh.",
+      "tags": [
+        "Bangladesh",
+        "President",
+        "Mirza Fakhrul Islam Alamgir",
+        "Appointments"
+      ],
+      "source": {
+        "title": "Bangladesh'sAlamgir tipped as next Prez",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/bangladeshs-mirza-fakhrul-islam-alamgir-tipped-to-become-new-president/articleshow/133362046.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q2",
+      "question": "What is the new annual allocation for archaeological excavations in Tamil Nadu, recently increased by the state government?",
+      "options": [
+        "₹15 crore",
+        "₹2 crore",
+        "₹10 crore",
+        "₹5 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Tamil Nadu government has increased its annual allocation for archaeological excavations to ₹10 crore. Additionally, a modern archaeological laboratory will be established at a cost of ₹2 crore to conduct scientific analyses of unearthed artefacts and samples.",
+      "background": "Tamil Nadu has a rich archaeological heritage, and increased funding aims to boost research and preservation efforts. The new laboratory will enhance the scientific rigor of archaeological studies in the state.",
+      "examRelevance": "Tamil Nadu's annual allocation for archaeological excavations increased to ₹10 crore.",
+      "tags": [
+        "Tamil Nadu",
+        "Archaeology",
+        "State Budget",
+        "Culture"
+      ],
+      "source": {
+        "title": "Annual allocation for archaeological excavations increased to ₹10 crore in T.N.",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/annual-allocation-for-archaeological-excavations-increased-to-10-crore-in-tn/article71365626.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q3",
+      "question": "Which month is being observed as ‘Martyrs’ Month’ by the Ladakh Apex Body (LAB) and Kargil Democratic Alliance (KDA) in Ladakh?",
+      "options": [
+        "September",
+        "August",
+        "October",
+        "July"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "The Ladakh Apex Body (LAB) and Kargil Democratic Alliance (KDA) are observing September as ‘Martyrs’ Month’. This observance is to pay tribute to those who died during the agitation over Statehood and Sixth Schedule demands for Ladakh.",
+      "background": "Civil society groups in Ladakh have been advocating for Statehood and inclusion under the Sixth Schedule of the Constitution to protect the region's unique culture, land, and environment. The 'Martyrs' Month' is part of their ongoing agitation.",
+      "examRelevance": "September is being observed as ‘Martyrs’ Month’ in Ladakh by LAB and KDA.",
+      "tags": [
+        "Ladakh",
+        "Martyrs’ Month",
+        "LAB",
+        "KDA",
+        "Sixth Schedule"
+      ],
+      "source": {
+        "title": "Ladakh civil society groups submit list of non-negotiable points to MHA officials, Chief Secretary in Leh",
+        "url": "https://www.thehindu.com/news/national/ladakh/ladakh-civil-society-groups-submit-list-of-non-negotiable-points-to-mha-officials-chief-secretary-in-leh/article71366272.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q4",
+      "question": "According to a WhiteOak Capital study, what was the annualised return of the Nifty 500 Multicap 50:25:25 TRI over the 21-year period from April 2005 to July 2026?",
+      "options": [
+        "15.79%",
+        "13.99%",
+        "17.19%",
+        "15.53%"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "A study by WhiteOak Capital revealed that the Nifty 500 Multicap 50:25:25 TRI delivered an annualised return of 15.53% over the 21-year period from April 2005 to July 2026. This return was higher than large-caps (13.99%) and slightly lower than small-caps (15.79%) and mid-caps (17.19%).",
+      "background": "Multi-cap funds invest across large-, mid-, and small-cap stocks, aiming to provide equity-like returns with milder drawdowns. The Nifty 500 Multicap 50:25:25 TRI is a benchmark index for such funds.",
+      "examRelevance": "Nifty 500 Multicap 50:25:25 TRI annualised return was 15.53% (April 2005-July 2026).",
+      "tags": [
+        "Nifty 500",
+        "Multicap Funds",
+        "Stock Market",
+        "Economy"
+      ],
+      "source": {
+        "title": "Multi-cap funds offer equity-like returns with lower drawdowns",
+        "url": "https://economictimes.indiatimes.com/mf/analysis/multi-cap-funds-offer-equity-like-returns-with-lower-drawdowns/articleshow/133361636.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q5",
+      "question": "Which country's armed forces recently warned Gulf countries against assisting the U.S. military on August 19?",
+      "options": [
+        "Saudi Arabia",
+        "Syria",
+        "Iran",
+        "Iraq"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Iran's armed forces warned Gulf countries against assisting the U.S. military on August 19. The warning came hours after the UAE announced it was severing economic ties with Tehran following new attacks on shipping.",
+      "background": "The warning from Iran's armed forces chief of staff, Ali Abdollahi, stated that any assistance or facilitation provided to the U.S. military would amount to participation in U.S. military operations. This development is set against a backdrop of heightened tensions in the West Asia region.",
+      "examRelevance": "Iran's armed forces warned Gulf countries against assisting the U.S. military.",
+      "tags": [
+        "Iran",
+        "US Military",
+        "Gulf Countries",
+        "International Relations"
+      ],
+      "source": {
+        "title": "West Asia LIVE: Trump vows 'tremendous' economic costs on Iran partners",
+        "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-missile-strikes-strait-of-hormuz-ceasefire-deal-washington-tehran-donald-trump/article71367590.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q6",
+      "question": "At a recent UN debate, what did India call for regarding the United Nations Security Council (UNSC)?",
+      "options": [
+        "Urgent UNSC reforms and greater global South representation",
+        "Freezing current UNSC structure",
+        "Expansion of permanent members only",
+        "Reduction of veto powers"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "At a recent UN debate, India called for urgent reforms of the United Nations Security Council (UNSC) and advocated for greater representation for the Global South. India emphasized the need for a more inclusive and representative global governance structure.",
+      "background": "India has consistently pushed for UNSC reforms, arguing that the current structure does not reflect contemporary geopolitical realities. It seeks a permanent seat in an expanded Security Council to better represent the interests of developing nations.",
+      "examRelevance": "India called for urgent UNSC reforms and greater Global South representation.",
+      "tags": [
+        "UNSC",
+        "India",
+        "United Nations",
+        "Global South",
+        "International Relations"
+      ],
+      "source": {
+        "title": "India calls for urgent UNSC reforms at UN debate",
+        "url": "https://economictimes.indiatimes.com/news/india/india-calls-for-urgent-unsc-reforms-greater-global-south-representation-at-un-debate/articleshow/133361614.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q7",
+      "question": "Which country's intelligence chief, Michele Sensi-Contugi, was recently killed along with his wife and five Americans in a helicopter crash in Kenya?",
+      "options": [
+        "Ecuador",
+        "Colombia",
+        "Peru",
+        "Argentina"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Ecuador’s intelligence chief, Michele Sensi-Contugi, and his wife were among those killed in a helicopter crash in Kenya. The incident also resulted in the deaths of five American nationals.",
+      "background": "Michele Sensi-Contugi was a significant figure in Ecuador's intelligence apparatus. His death in a foreign country, along with foreign nationals, makes this a notable international incident.",
+      "examRelevance": "Ecuador's intelligence chief Michele Sensi-Contugi died in a Kenya helicopter crash.",
+      "tags": [
+        "Ecuador",
+        "Michele Sensi-Contugi",
+        "Obituaries",
+        "Kenya"
+      ],
+      "source": {
+        "title": "Ecuador intel chief, five Americans killed in Kenya helicopter crash",
+        "url": "https://www.thehindu.com/news/international/ecuador-intel-chief-and-americans-killed-in-kenya-helicopter-crash/article71366832.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q8",
+      "question": "How much aid did the United States recently provide for a Gaza force despite a deadlocked peace plan?",
+      "options": [
+        "$250 million",
+        "$206 million",
+        "$150 million",
+        "$100 million"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The United States recently provided $206 million in aid for a Gaza force. This assistance comes despite a deadlocked peace plan in the region.",
+      "background": "U.S. aid to the region is often tied to security and humanitarian efforts. The provision of funds for a Gaza force underscores ongoing efforts to maintain stability and address security concerns in the Palestinian territories amidst complex political challenges.",
+      "examRelevance": "US provided $206 million for a Gaza force.",
+      "tags": [
+        "US Aid",
+        "Gaza",
+        "International Relations",
+        "Middle East"
+      ],
+      "source": {
+        "title": "US gives $206mn for Gaza force amid gap",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-provides-206-million-for-gaza-force-despite-deadlocked-peace-plan/articleshow/133361595.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q9",
+      "question": "In which Indian city was a Special Investigation Team (SIT) recently formed to probe a hotel fire that killed 9 people, including five Bangladeshi nationals?",
+      "options": [
+        "Kolkata",
+        "Chennai",
+        "Delhi",
+        "Mumbai"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "A Special Investigation Team (SIT) has been formed to investigate a hotel fire in Kolkata. The tragic incident resulted in the deaths of 9 people, among whom five were Bangladeshi nationals.",
+      "background": "Such SITs are typically formed to conduct thorough investigations into incidents involving significant loss of life, especially when international citizens are involved, to determine causes and accountability.",
+      "examRelevance": "SIT formed to investigate Kolkata hotel fire that killed 9.",
+      "tags": [
+        "Kolkata",
+        "SIT",
+        "Hotel Fire",
+        "Investigation"
+      ],
+      "source": {
+        "title": "SIT formed to investigate Kolkata fire that killed 9",
+        "url": "https://economictimes.indiatimes.com/news/india/sit-formed-to-investigate-kolkata-hotel-fire-that-killed-9-five-bangladeshi-nationals-among-deceased/articleshow/133361524.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q10",
+      "question": "Which state's Food and Drug Administration (FDA) recently suspended the licences of two Blinkit facilities in Chhatrapati Sambhajinagar and Mumbai for serious food safety violations?",
+      "options": [
+        "Gujarat",
+        "Karnataka",
+        "Uttar Pradesh",
+        "Maharashtra"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Maharashtra Food and Drug Administration (FDA) suspended the licences of two Blinkit facilities. These suspensions, affecting locations in Chhatrapati Sambhajinagar and Mumbai, were due to serious food safety violations, including expired products and poor hygiene.",
+      "background": "Regulatory bodies like the FDA are responsible for ensuring public health and safety by enforcing food safety standards. Such actions highlight the importance of compliance by online food delivery platforms and their vendors.",
+      "examRelevance": "Maharashtra FDA suspended Blinkit facilities' licences over food safety.",
+      "tags": [
+        "Maharashtra",
+        "FDA",
+        "Blinkit",
+        "Food Safety",
+        "Regulatory Action"
+      ],
+      "source": {
+        "title": "Maharashtra FDA suspends licences of two online food delivery facilities",
+        "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-suspends-licences-of-two-online-food-delivery-facilities/article71365206.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q11",
+      "question": "Which prominent royal couple is reportedly moving back to Britain with their children, more than six years after giving up their royal duties?",
+      "options": [
+        "Prince Harry and Meghan",
+        "Prince William and Catherine",
+        "King Charles III and Camilla",
+        "Prince Andrew and Sarah"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Prince Harry and Meghan, the Duke and Duchess of Sussex, are reportedly moving back to Britain with their children. This decision comes more than six years after they stepped down from their royal duties and relocated to California.",
+      "background": "The couple's move to California was a significant event in royal history, leading to various media ventures. Their reported return to the UK marks a potential new chapter for the family.",
+      "examRelevance": "Prince Harry and Meghan are reportedly returning to Britain.",
+      "tags": [
+        "Prince Harry",
+        "Meghan Markle",
+        "British Royal Family",
+        "UK"
+      ],
+      "source": {
+        "title": "Prince Harry, Meghan set to return to Britain",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/prince-harry-and-meghan-to-move-back-to-britain-media-reports-say/articleshow/133361367.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q12",
+      "question": "What is the name of the anti-drugs campaign in Kerala, under which 10,213 cases have been registered and drugs worth over ₹100 crore seized in 76 days?",
+      "options": [
+        "Operation Falcon",
+        "Operation Clean",
+        "Operation Thunder",
+        "Operation Toofan"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Kerala's Home Minister Ramesh Chennithala announced the overwhelming success of the anti-drugs campaign named 'Operation Toofan'. As of the 76th day, 10,213 cases have been registered, 9,941 persons arrested, and drugs worth more than ₹100 crore seized.",
+      "background": "'Operation Toofan' is a significant state-level initiative aimed at curbing drug trafficking and abuse. The Home Minister emphasized that no one will receive protection due to political affiliation, reinforcing the campaign's commitment to strict enforcement.",
+      "examRelevance": "Kerala's anti-drugs campaign is named 'Operation Toofan'.",
+      "tags": [
+        "Kerala",
+        "Operation Toofan",
+        "Anti-drugs campaign",
+        "Law Enforcement"
+      ],
+      "source": {
+        "title": "Response to anti-drugs campaign is overwhelming: Keralam Home Minister Ramesh Chennithala",
+        "url": "https://www.thehindu.com/news/national/kerala/response-to-anti-drugs-campaign-is-overwhelming-says-keralam-home-minister/article71365495.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q13",
+      "question": "To what level has the Nifty's estimated price-to-book (P/B) ratio recently fallen, marking its lowest level in six years?",
+      "options": [
+        "Below four times",
+        "Below three times",
+        "Below five times",
+        "Below two times"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The benchmark Nifty's estimated price-to-book (P/B) ratio has fallen below three times, reaching its lowest level in six years. This decline partly reflects the index's large exposure to banks, whose shares have underperformed even as retained earnings have added to their book values.",
+      "background": "The price-to-book (P/B) ratio is a key valuation measure that compares a company's market value with the value of its net assets or book value. A lower P/B ratio can suggest that the market is trading at a more moderate valuation, though it doesn't necessarily mean it is 'cheap'.",
+      "examRelevance": "Nifty's P/B ratio fell below three times, a six-year low.",
+      "tags": [
+        "Nifty",
+        "Price-to-Book Ratio",
+        "Stock Market",
+        "Economic Indicators"
+      ],
+      "source": {
+        "title": "Nifty price-to-book ratio hits 6-year low, but market may not be cheap",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-price-to-book-ratio-hits-6-year-low-but-market-may-not-be-cheap/articleshow/133361013.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q14",
+      "question": "What is the current national debt of the United States, which recently reached a new milestone just five months after hitting $39 trillion?",
+      "options": [
+        "$38 trillion",
+        "$39 trillion",
+        "$41 trillion",
+        "$40 trillion"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The U.S. national debt has now reached $40 trillion. This milestone figure was recorded just five months after the U.S. hit a record $39 trillion debt in March, and $38 trillion five months before that in October.",
+      "background": "The national debt represents the total amount of money the U.S. government owes to its creditors. Its rapid increase highlights ongoing fiscal challenges and significant government spending, often a subject of economic and political debate.",
+      "examRelevance": "U.S. national debt currently stands at $40 trillion.",
+      "tags": [
+        "US Economy",
+        "National Debt",
+        "Fiscal Policy",
+        "International Economy"
+      ],
+      "source": {
+        "title": "U.S. national debt now stands at $40 trillion",
+        "url": "https://www.thehindu.com/news/international/us-national-debt-now-stands-at-40-trillion/article71366825.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q15",
+      "question": "Who recently received the Dronacharya award for his coaching contributions to boxing, notably training Mary Kom and Jaismine?",
+      "options": [
+        "Ramakant Achrekar",
+        "G. Manoharan",
+        "Chhote Lal",
+        "Sandeep Gupta"
+      ],
+      "answerIndex": 2,
+      "category": "Awards & Honours",
+      "explanation": "Chhote Lal recently received the Dronacharya award for his contributions as a boxing coach. He is known for extending Mary Kom's established career and rebuilding young boxer Jaismine after a difficult phase, demonstrating his adaptive coaching style.",
+      "background": "The Dronacharya Award is India's highest honour for sports coaches, recognizing those who have consistently enabled sportspersons to excel in international competitions. Chhote Lal's award highlights his significant impact on Indian boxing.",
+      "examRelevance": "Chhote Lal received the Dronacharya award for boxing coaching.",
+      "tags": [
+        "Chhote Lal",
+        "Dronacharya Award",
+        "Boxing",
+        "Sports Coaches"
+      ],
+      "source": {
+        "title": "Chhote Lal’s quiet craft earns him the Dronacharya award",
+        "url": "https://www.thehindu.com/sport/chhote-lals-quiet-craft-earns-him-the-dronacharya-award/article71366681.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q16",
+      "question": "From which date will the Maharashtra Transport Department begin taking action against drivers who do not possess Marathi language knowledge?",
+      "options": [
+        "August 25",
+        "September 1",
+        "September 5",
+        "August 20"
+      ],
+      "answerIndex": 3,
+      "category": "Dates & Days",
+      "explanation": "The Maharashtra Transport Department will begin taking action against drivers who do not possess Marathi language knowledge from August 20. The State Transport Department will send notices to drivers who refuse to learn the language or violate the rules.",
+      "background": "This policy aims to ensure that public service drivers in Maharashtra are able to communicate effectively in the local language, which can be crucial for passenger safety and local administration. It reflects a broader emphasis on regional language proficiency.",
+      "examRelevance": "Maharashtra Transport Dept. to act against non-Marathi speaking drivers from August 20.",
+      "tags": [
+        "Maharashtra",
+        "Marathi Language",
+        "Transport Department",
+        "Policy"
+      ],
+      "source": {
+        "title": "Action against drivers without Marathi knowledge from August 20: Maharashtra Minister",
+        "url": "https://www.thehindu.com/news/national/maharashtra/action-against-drivers-without-marathi-knowledge-from-aug-20-maharashtra-minister/article71364236.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q17",
+      "question": "Who is leading the reconstituted NCERT textbook development team for Classes 11 and 12 Political Science?",
+      "options": [
+        "S. Jaishankar",
+        "Rakesh Mohan",
+        "Sandeep Shastri",
+        "Kiran Bedi"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "The NCERT has reconstituted its textbook development team for Classes 11 and 12 Political Science. The team will be led by academic and political analyst Sandeep Shastri, who is also the vice-president of the Karnataka-based deemed university Nitte.",
+      "background": "NCERT routinely revises textbooks to update content and pedagogical approaches. The appointment of a new lead for the Political Science team reflects a focus on curriculum development in this crucial subject area.",
+      "examRelevance": "Sandeep Shastri leads the reconstituted NCERT Political Science textbook team.",
+      "tags": [
+        "NCERT",
+        "Sandeep Shastri",
+        "Textbook Development",
+        "Education"
+      ],
+      "source": {
+        "title": "RSS-linked academics in NCERT textbook panel",
+        "url": "https://www.thehindu.com/education/ncert-reconstitutes-textbook-development-team-for-classes-11-and-12-political-science/article71366560.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q18",
+      "question": "Which state government recently scrapped 22 recruitment exams due to irregularities, leading to the suspension of an agitation by the JPSC-JSSC Reform Manch?",
+      "options": [
+        "Jharkhand",
+        "Odisha",
+        "Bihar",
+        "West Bengal"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Jharkhand government recently scrapped 22 recruitment exams following widespread irregularities. This decision led to the JPSC-JSSC Reform Manch calling off its agitation, which had been ongoing since July 25 at the Jaipal Singh Munda Stadium.",
+      "background": "The cancellation of recruitment exams due to irregularities is a significant step towards ensuring transparency and fairness in public sector appointments. The government's decision addresses long-standing concerns raised by student and reform groups.",
+      "examRelevance": "Jharkhand government scrapped 22 recruitment exams due to irregularities.",
+      "tags": [
+        "Jharkhand",
+        "Recruitment Exams",
+        "JPSC-JSSC Reform Manch",
+        "Governance"
+      ],
+      "source": {
+        "title": "JPSC-JSSC Reform Manch calls off stir after Jharkhand govt scraps 22 recruitment exams",
+        "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-government-releases-list-of-recruitment-exams-cancelled-due-to-irregularities/article71362249.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q19",
+      "question": "Which Indian athlete, the first to win a Commonwealth Games medal in decathlon (bronze), recently received Arjuna recognition?",
+      "options": [
+        "Hima Das",
+        "Shankar",
+        "Murali Sreeshankar",
+        "Neeraj Chopra"
+      ],
+      "answerIndex": 1,
+      "category": "Awards & Honours",
+      "explanation": "Shankar, the first Indian to win a Commonwealth Games medal in the decathlon (claiming bronze), recently received Arjuna recognition. This award acknowledges his emergence as a multi-event athlete and his significant achievements in sports.",
+      "background": "The Arjuna Award is given by the Ministry of Youth Affairs and Sports, Government of India, to recognize outstanding achievement in national sports. Shankar's recognition highlights his pioneering efforts and success in the demanding decathlon event.",
+      "examRelevance": "Shankar, decathlon CWG medalist, received Arjuna recognition.",
+      "tags": [
+        "Shankar",
+        "Arjuna Award",
+        "Decathlon",
+        "Commonwealth Games",
+        "Sports"
+      ],
+      "source": {
+        "title": "Asian Games gold next, long career bigger goal after Arjuna recognition: Shankar",
+        "url": "https://www.thehindu.com/sport/asian-games-gold-next-long-career-bigger-goal-after-arjuna-recognition-shankar/article71366674.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q20",
+      "question": "In which city of Kerala will 91 local bodies compete in a Pookalam contest, with the winner receiving a cash prize of ₹1 lakh?",
+      "options": [
+        "Kochi",
+        "Kozhikode",
+        "Thiruvananthapuram",
+        "Thrissur"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "In Kozhikode, Kerala, 91 local bodies are set to compete in a Pookalam contest. The competition will feature grama panchayats, block panchayats, municipalities, and the Kozhikode Corporation, grouped into 11 clusters. The winning team will be awarded a cash prize of ₹1 lakh and a trophy.",
+      "background": "Pookalam is an intricate and colourful floral arrangement made during Onam, the harvest festival of Kerala. Such competitions promote cultural traditions and community participation.",
+      "examRelevance": "Kozhikode to host Pookalam contest with 91 local bodies.",
+      "tags": [
+        "Kozhikode",
+        "Pookalam Contest",
+        "Kerala",
+        "Art & Culture",
+        "Onam"
+      ],
+      "source": {
+        "title": "91 local bodies to compete in Pookalam contest in Keralam’s Kozhikode",
+        "url": "https://www.thehindu.com/news/national/kerala/91-local-bodies-to-contest-in-pookalam-contest-in-keralams-kozhikode/article71365015.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q21",
+      "question": "Where does India plan to build a hospital and seek to deploy a field hospital, respectively, as part of its humanitarian efforts?",
+      "options": [
+        "Syria and Yemen",
+        "West Bank and Gaza",
+        "Egypt and Sudan",
+        "Lebanon and Jordan"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "India plans to build a hospital in the West Bank and is seeking to deploy a field hospital in Gaza. This initiative is part of India's humanitarian efforts and support for the Palestinian people.",
+      "background": "India has historically maintained strong diplomatic and humanitarian ties with Palestine. These medical aid initiatives underscore India's commitment to assisting vulnerable populations in conflict-affected regions.",
+      "examRelevance": "India to build hospital in West Bank, deploy field hospital in Gaza.",
+      "tags": [
+        "India",
+        "West Bank",
+        "Gaza",
+        "Humanitarian Aid",
+        "International Relations"
+      ],
+      "source": {
+        "title": "India to build hospital in West Bank; seeks to deploy field hospital in Gaza",
+        "url": "https://www.thehindu.com/news/national/india-to-build-hospital-in-west-bank-seeks-to-deploy-field-hospital-in-gaza/article71366004.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q22",
+      "question": "What is the estimated value of family wealth that may change hands in India over the next 10 years, according to recent projections?",
+      "options": [
+        "$1 trillion",
+        "$500 billion",
+        "$1.5 trillion",
+        "$2 trillion"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Recent projections indicate that family wealth worth an estimated $1.5 trillion may change hands in India over the next 10 years. This significant intergenerational transfer of wealth is a key economic trend.",
+      "background": "Wealth transfer, particularly within families, has substantial implications for investment patterns, consumption, and the overall economic landscape. This projection highlights the growing affluence and the dynamics of wealth management in India.",
+      "examRelevance": "India may see $1.5 trillion family wealth shift in 10 years.",
+      "tags": [
+        "India",
+        "Family Wealth",
+        "Economy",
+        "Wealth Management"
+      ],
+      "source": {
+        "title": "India may see $1.5 tn family wealth shift",
+        "url": "https://economictimes.indiatimes.com/news/economy/finance/india-may-see-family-wealth-worth-1-5-trillion-change-hands-in-10-years/articleshow/133358392.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q23",
+      "question": "World Photography Day was recently observed on which date, marked by the inauguration of a photo exhibition by the GVMC Commissioner?",
+      "options": [
+        "September 5",
+        "July 28",
+        "August 15",
+        "August 19"
+      ],
+      "answerIndex": 3,
+      "category": "Dates & Days",
+      "explanation": "World Photography Day was recently observed on August 19. To mark the occasion, the GVMC Commissioner inaugurated a photo exhibition, showcasing various photographic works.",
+      "background": "World Photography Day is celebrated annually to promote photography as a hobby, art, science, and a means of communication. It commemorates the day in 1839 when the French government purchased the patent for the Daguerreotype, an early photographic process.",
+      "examRelevance": "World Photography Day is observed on August 19.",
+      "tags": [
+        "World Photography Day",
+        "August 19",
+        "Dates & Days",
+        "Photography"
+      ],
+      "source": {
+        "title": "World Photography Day: GVMC Commissioner inaugurates photo exhibition",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/world-photography-day-gvmc-commissioner-inaugurates-photo-exhibition/article71366180.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q24",
+      "question": "Where is the Southern Zonal Council meeting scheduled to be held on August 20, chaired by Union Home Minister Amit Shah?",
+      "options": [
+        "Bengaluru",
+        "Hyderabad",
+        "Near Mamallapuram",
+        "Chennai"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Southern Zonal Council meeting is scheduled to be held near Mamallapuram on August 20. The meeting will be chaired by Union Home Minister Amit Shah, with Tamil Nadu Chief Minister C. Joseph Vijay serving as the vice-chair.",
+      "background": "Zonal Councils are statutory bodies established under the States Reorganisation Act, 1956, to foster inter-state cooperation and coordination. The Southern Zonal Council includes all southern States and Union Territories, and its recommendations are advisory in nature.",
+      "examRelevance": "Southern Zonal Council meeting is near Mamallapuram on August 20.",
+      "tags": [
+        "Southern Zonal Council",
+        "Mamallapuram",
+        "Amit Shah",
+        "Polity"
+      ],
+      "source": {
+        "title": "Southern Zonal Council to meet near Mamallapuram on August 20",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/southern-zonal-council-to-meet-near-mamallapuram-on-august-20/article71364759.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q25",
+      "question": "Which state government recently enhanced the pension income ceiling to ₹1.20 lakh, a measure set to benefit over 20 lakh people?",
+      "options": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The Karnataka government recently enhanced the pension income ceiling to ₹1.20 lakh. This measure is expected to benefit over 20 lakh people in the state, providing increased financial support to pensioners.",
+      "background": "Such enhancements in pension income ceilings are typically aimed at improving the financial security and welfare of senior citizens and other eligible beneficiaries. It reflects the state government's commitment to social welfare schemes.",
+      "examRelevance": "Karnataka enhanced pension income ceiling to ₹1.20 lakh.",
+      "tags": [
+        "Karnataka",
+        "Pension Scheme",
+        "Social Welfare",
+        "State Government"
+      ],
+      "source": {
+        "title": "Pension income ceiling enhanced to ₹1.20 lakh, set to benefit over 20 lakh people",
+        "url": "https://www.thehindu.com/news/national/karnataka/pension-income-ceiling-enhanced-to-120-lakh-set-to-benefit-over-20-lakh-people/article71365784.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q26",
+      "question": "Which state's electricity board (KSEB) recently reopened its LIFE Mission scheme for BPL applicants for shifting power lines and posts, extending it until March 31, 2027?",
+      "options": [
+        "Andhra Pradesh",
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The Kerala State Electricity Board (KSEB) has reopened its LIFE Mission scheme for Below Poverty Line (BPL) applicants, allowing them to apply for shifting power lines and posts. The scheme has been extended until March 31, 2027, and its benefits now also cover beneficiaries of the Pradhan Mantri Awas Yojana-LIFE scheme.",
+      "background": "The LIFE (Livelihood, Inclusion, Financial Empowerment) Mission is a comprehensive housing project by the Kerala government aimed at providing housing for all landless and homeless people. The KSEB component facilitates necessary electrical infrastructure adjustments for these beneficiaries.",
+      "examRelevance": "KSEB reopened LIFE Mission scheme for BPL applicants for power line shifting.",
+      "tags": [
+        "Kerala",
+        "KSEB",
+        "LIFE Mission",
+        "BPL",
+        "Schemes"
+      ],
+      "source": {
+        "title": "LIFE Mission: KSEB reopens scheme for BPL applicants for shifting power lines, posts",
+        "url": "https://www.thehindu.com/news/national/kerala/life-mission-kseb-reopens-scheme-for-bpl-applicants-for-shifting-power-lines-posts/article71365728.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q27",
+      "question": "Which National Institute of Technology (NIT) recently recorded its highest-ever undergraduate intake of over 1,600 students, including BTech, BArch, and ITEP BSc-BEd programmes?",
+      "options": [
+        "NIT-Surathkal",
+        "NIT-Warangal",
+        "NIT-Trichy",
+        "NIT-Calicut"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "NIT-Calicut has recorded its highest-ever undergraduate (UG) intake, welcoming over 1,600 students. This record-breaking cohort includes students enrolling in BTech, BArch, and ITEP BSc-BEd programmes, reflecting increased demand and capacity.",
+      "background": "National Institutes of Technology (NITs) are premier public technical universities under the Ministry of Education, Government of India. Achieving a record intake signifies the institution's growing appeal and its efforts to expand educational opportunities.",
+      "examRelevance": "NIT-Calicut recorded its highest-ever UG intake of over 1,600 students.",
+      "tags": [
+        "NIT-Calicut",
+        "Education",
+        "Higher Education",
+        "Student Intake"
+      ],
+      "source": {
+        "title": "NIT-Calicut records highest-ever UG intake of over 1,600 students",
+        "url": "https://www.thehindu.com/news/national/kerala/nit-calicut-records-highest-ever-ug-intake-of-over-1600-students/article71365189.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q28",
+      "question": "A photo exhibition titled ‘Beyond Words’, featuring around 30 photographs by local photojournalists, recently began in which city of Kerala?",
+      "options": [
+        "Kozhikode",
+        "Thiruvananthapuram",
+        "Kochi",
+        "Alappuzha"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "A photo exhibition titled ‘Beyond Words’ recently began in Kozhikode, Kerala. The exhibition features approximately 30 photographs contributed by photojournalists from various dailies in Kozhikode, showcasing their work.",
+      "background": "Such exhibitions provide a platform for local photojournalists to display their talent and offer the public a visual narrative of events and life. It contributes to the cultural vibrancy of the city.",
+      "examRelevance": "‘Beyond Words’ photo exhibition began in Kozhikode, Kerala.",
+      "tags": [
+        "Kozhikode",
+        "Photo Exhibition",
+        "Art & Culture",
+        "Kerala"
+      ],
+      "source": {
+        "title": "‘Beyond Words’ photo exhibition begins in Keralam’s Kozhikode",
+        "url": "https://www.thehindu.com/news/national/kerala/beyond-words-photo-exhibition-begins-in-keralams-kozhikode/article71365630.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q29",
+      "question": "Which state's police department recently constituted internal vigilance cells with the aim of strengthening integrity, transparency, and public confidence?",
+      "options": [
+        "Karnataka",
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Kerala"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Tamil Nadu police department recently constituted internal vigilance cells. These cells are established with the aim of strengthening integrity, transparency, and public confidence in the Police Department.",
+      "background": "Internal vigilance cells are crucial for maintaining accountability within law enforcement agencies. Their formation underscores a commitment to ethical conduct and improving the public perception of police services.",
+      "examRelevance": "Tamil Nadu police constituted internal vigilance cells.",
+      "tags": [
+        "Tamil Nadu",
+        "Police",
+        "Vigilance Cells",
+        "Governance",
+        "Transparency"
+      ],
+      "source": {
+        "title": "T.N. police constitute internal vigilance cells",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-police-constitute-internal-vigilance-cells/article71365383.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-20-q30",
+      "question": "Which state government recently sanctioned ₹30 lakh for completing a carrying-capacity study of its hill stations, such as Wayanad and Idukki, to assess environmental and infrastructural impact?",
+      "options": [
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka",
+        "Himachal Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The Kerala government recently sanctioned ₹30 lakh for completing a carrying-capacity study of its hill stations, including Wayanad and Idukki. This study aims to rein in mass tourism and assess its environmental and infrastructural impact on these ecologically sensitive areas.",
+      "background": "Carrying capacity studies are vital for sustainable tourism development, ensuring that popular destinations are not overexploited and their natural resources are preserved. This initiative reflects Kerala's commitment to responsible tourism.",
+      "examRelevance": "Kerala sanctioned ₹30 lakh for hill station carrying-capacity study.",
+      "tags": [
+        "Kerala",
+        "Carrying Capacity Study",
+        "Hill Stations",
+        "Environment",
+        "Tourism"
+      ],
+      "source": {
+        "title": "Carrying capacity study of hill stations in Keralam remains incomplete",
+        "url": "https://www.thehindu.com/news/national/kerala/carrying-capacity-study-of-hill-stations-in-keralam-remains-incomplete/article71365663.ece"
+      }
+    }
+  ]
+}
