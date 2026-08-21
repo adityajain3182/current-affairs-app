@@ -1,0 +1,774 @@
+{
+  "id": "daily-2026-08-21",
+  "type": "daily",
+  "date": "2026-08-21",
+  "title": "Current Affairs — 21 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-21-q1",
+      "question": "A charter plane carrying 8 people recently crashed near a remote radar site in which US state?",
+      "options": [
+        "Montana",
+        "Alaska",
+        "Texas",
+        "Colorado"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "A charter aircraft carrying eight people crashed near a remote radar site in Alaska. The incident is currently under investigation by authorities.",
+      "background": "Plane crashes in remote Alaskan regions are not uncommon due to challenging terrain and weather conditions. Such incidents often involve small charter planes used for transport to isolated areas.",
+      "examRelevance": "Location of recent plane crash in Alaska.",
+      "tags": [
+        "Alaska",
+        "plane crash",
+        "remote radar site"
+      ],
+      "source": {
+        "title": "Alaska crash: Charter plane with 8 aboard crashes",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/alaska-plane-crash-charter-aircraft-carrying-8-crashes-near-remote-radar-site/articleshow/133391106.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q2",
+      "question": "Harry Brook scored 91 runs from 93 balls for England in a recent Test match against which country?",
+      "options": [
+        "South Africa",
+        "Pakistan",
+        "Australia",
+        "India"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Harry Brook scored 91 runs from 93 balls for England against Pakistan in a recent Test match, contributing significantly to England's dominant position with a 195-run lead.",
+      "background": "Harry Brook is an English cricketer who plays for the England cricket team in all formats. He is known for his aggressive batting style and has been a key player for England in recent Test series.",
+      "examRelevance": "Harry Brook's score of 91 runs in England vs Pakistan Test.",
+      "tags": [
+        "Harry Brook",
+        "Cricket",
+        "England",
+        "Pakistan",
+        "Test match"
+      ],
+      "source": {
+        "title": "Pakistan vs England Test: Brook maintains stranglehold over Pakistan for dominant England",
+        "url": "https://www.thehindu.com/sport/cricket/pakistan-vs-england-test-brook-maintains-stranglehold-over-pakistan-for-dominant-england/article71372060.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q3",
+      "question": "The Indian government has allowed duty-free import of what quantity of raw sugar until October 31 to control prices?",
+      "options": [
+        "20 lakh tonnes",
+        "15 lakh tonnes",
+        "5 lakh tonnes",
+        "10 lakh tonnes"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Indian government has allowed the duty-free import of 10 lakh tonnes of raw sugar until October 31. This measure, along with imposing stockholding limits on bulk consumers, aims to control sugar prices in the domestic market.",
+      "background": "Such government interventions are common to manage supply and demand, especially for essential commodities like sugar, and to stabilize prices during periods of potential inflation or shortages. The stockholding limit applies to bulk consumers using more than 10 tonnes of sugar a month.",
+      "examRelevance": "Duty-free import quantity of raw sugar (10 lakh tonnes) and deadline (October 31).",
+      "tags": [
+        "Duty-free import",
+        "Raw sugar",
+        "Government policy",
+        "Price control"
+      ],
+      "source": {
+        "title": "Government allows duty-free import of 10 lakh tonnes of raw sugar until October 31",
+        "url": "https://www.thehindu.com/news/national/government-allows-duty-free-import-of-10-lakh-tonnes-of-raw-sugar-until-october-31/article71370748.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q4",
+      "question": "Atomberg has filed IPO papers for a fresh issue valued at what amount?",
+      "options": [
+        "Rs 450 crore",
+        "Rs 300 crore",
+        "Rs 250 crore",
+        "Rs 500 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Atomberg, a tech startup, has filed IPO papers for a fresh issue valued at Rs 450 crore. This move indicates the company's intention to raise capital through the public market.",
+      "background": "An IPO (Initial Public Offering) is the process by which a private company can go public by offering its shares to the public for the first time. The fresh issue component is the part of the IPO where new shares are issued by the company to raise capital.",
+      "examRelevance": "Atomberg's IPO fresh issue amount (Rs 450 crore).",
+      "tags": [
+        "Atomberg",
+        "IPO",
+        "Fresh issue",
+        "Startup"
+      ],
+      "source": {
+        "title": "Atomberg files IPO papers for Rs 450-crore fresh issue",
+        "url": "https://economictimes.indiatimes.com/tech/startups/atomberg-files-ipo-papers-for-rs-450-crore-fresh-issue/articleshow/133390933.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q5",
+      "question": "The U.S. recently announced it would impose its 'toughest sanctions in history' on which country, vowing to 'collapse this regime'?",
+      "options": [
+        "Iran",
+        "North Korea",
+        "Syria",
+        "Russia"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The U.S. has announced its intention to impose the 'toughest sanctions in history' on Iran. This move is part of a campaign to isolate the Iranian economy and, according to Washington, 'collapse this regime' in Tehran.",
+      "background": "The U.S. and Iran have a long history of strained relations, with economic sanctions often used as a foreign policy tool. These new sanctions underscore a shift towards economic pressure over military action, especially as the 'war drags toward the six-month mark'.",
+      "examRelevance": "Country targeted by U.S. 'toughest sanctions in history' (Iran).",
+      "tags": [
+        "U.S. sanctions",
+        "Iran",
+        "Economic warfare",
+        "International relations"
+      ],
+      "source": {
+        "title": "West Asia LIVE: U.S. says it will impose 'toughest sanctions in history' on Iran",
+        "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-economic-sanctions-strait-of-hormuz-ceasefire-deal/article71372035.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q6",
+      "question": "Over 11.18 lakh permanent houses are to be built in Bihar under which government scheme, as stated by Shivraj Singh Chouhan?",
+      "options": [
+        "Swachh Bharat Abhiyan (SBA)",
+        "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+        "Pradhan Mantri Awas Yojana-Gramin (PMAY-G)",
+        "Jal Jeevan Mission (JJM)"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "Over 11.18 lakh permanent houses are scheduled to be built in Bihar under the Pradhan Mantri Awas Yojana-Gramin (PMAY-G). The 'Grih Pravesh' ceremony for 2.35 lakh units was completed in FY 2026-27.",
+      "background": "PMAY-G is a flagship scheme of the Indian government aimed at providing 'Housing for All' in rural areas. It aims to provide financial assistance to eligible beneficiaries for construction of pucca houses with basic amenities.",
+      "examRelevance": "Number of houses (11.18 lakh) and scheme (PMAY-G) in Bihar.",
+      "tags": [
+        "PMAY-G",
+        "Bihar",
+        "Housing scheme",
+        "Shivraj Singh Chouhan"
+      ],
+      "source": {
+        "title": "Over 11.18 lakh permanent houses to be built in Bihar under PMAY-G, says Shivraj Singh Chouhan",
+        "url": "https://www.thehindu.com/news/national/bihar/over-1118-lakh-permanent-houses-to-be-built-in-bihar-under-pmay-g-says-shivraj-singh-chouhan/article71369236.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q7",
+      "question": "Which South Korean shipbuilder is considering various measures for U.S. shipbuilding participation, including acquiring or taking a stake in U.S. shipyards?",
+      "options": [
+        "Hyundai Heavy Industries Co Ltd",
+        "STX Offshore & Shipbuilding",
+        "Samsung Heavy Industries",
+        "Daewoo Shipbuilding & Marine Engineering"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "HD Hyundai Heavy Industries Co Ltd, a South Korean shipbuilder, announced it is considering various measures for U.S. shipbuilding participation, including acquiring U.S. shipyards or taking a stake.",
+      "background": "HD Hyundai Heavy Industries is one of the world's largest shipbuilders. Such strategic investments often aim to expand global footprint, gain market access, or leverage local expertise and resources.",
+      "examRelevance": "South Korean company considering US shipyard investment (HD Hyundai Heavy Industries).",
+      "tags": [
+        "HD Hyundai Heavy Industries",
+        "Shipbuilding",
+        "U.S. investment",
+        "South Korea"
+      ],
+      "source": {
+        "title": "HD Hyundai mulling US shipyard investment",
+        "url": "https://economictimes.indiatimes.com/news/international/business/south-koreas-hd-hyundai-heavy-says-mulling-us-shipyard-investment/articleshow/133390756.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q8",
+      "question": "U.S. Treasury Secretary Scott Bessent was mentioned in the news for his comments on imposing economic pressure on which country?",
+      "options": [
+        "China",
+        "Russia",
+        "Venezuela",
+        "Iran"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "U.S. Treasury Secretary Scott Bessent's comments underscored how the U.S. is shifting to economic rather than military pressure on Tehran, particularly regarding the ongoing conflict and sanctions against Iran.",
+      "background": "The U.S. Treasury Secretary is a key official in the U.S. government responsible for economic and financial policy, including the implementation of sanctions. Scott Bessent's role highlights the economic dimension of U.S. foreign policy.",
+      "examRelevance": "U.S. Treasury Secretary Scott Bessent and his role in Iran sanctions.",
+      "tags": [
+        "Scott Bessent",
+        "U.S. Treasury Secretary",
+        "Iran sanctions",
+        "Economic pressure"
+      ],
+      "source": {
+        "title": "U.S. pushes allies, China to back Trump’s economic war on Iran",
+        "url": "https://www.thehindu.com/news/international/us-pushes-allies-china-to-back-trumps-economic-war-on-iran/article71371992.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q9",
+      "question": "Congress MLAs recently boycotted the first day’s proceedings of the monsoon session, staging a dharna outside the Assembly in which Indian state?",
+      "options": [
+        "Chhattisgarh",
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Congress MLAs boycotted the first day's proceedings at the Rajasthan Assembly monsoon session. They staged a dharna outside the Assembly, protesting school entry restrictions and demanding Education Minister Madan Dilawar’s resignation.",
+      "background": "Assembly boycotts and protests are common parliamentary tactics used by opposition parties to draw attention to their demands or express dissent against government policies. The monsoon session is one of the three annual sessions of the state legislature.",
+      "examRelevance": "Location of Congress MLAs' boycott of Assembly session (Rajasthan).",
+      "tags": [
+        "Congress",
+        "Rajasthan Assembly",
+        "Monsoon session",
+        "Boycott",
+        "Madan Dilawar"
+      ],
+      "source": {
+        "title": "Congress MLAs boycott first day’s proceedings at Rajasthan Assembly monsoon session",
+        "url": "https://www.thehindu.com/news/national/rajasthan/congress-mlas-boycott-first-days-proceedings-at-rajasthan-assembly-monsoon-session/article71369572.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q10",
+      "question": "The UN Security Council is holding a second informal poll for the selection of the next ______?",
+      "options": [
+        "President of the General Assembly",
+        "Secretary-General",
+        "President of the International Court of Justice",
+        "High Commissioner for Human Rights"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The UN Security Council is holding a second informal poll to test contenders in the race for the next Secretary-General of the United Nations. This process helps gauge support for candidates before a formal vote.",
+      "background": "The UN Secretary-General is the chief administrative officer of the United Nations. The selection process involves both the Security Council and the General Assembly, with the Security Council making a recommendation to the General Assembly.",
+      "examRelevance": "UN Security Council's informal poll for the next Secretary-General.",
+      "tags": [
+        "UN",
+        "Secretary-General",
+        "Security Council",
+        "Informal poll"
+      ],
+      "source": {
+        "title": "UN holds second informal poll for next leader",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/un-security-council-tests-contenders-in-race-for-next-secretary-general/articleshow/133390620.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q11",
+      "question": "Which BJP MLA from Uttar Pradesh recently alleged caste discrimination at a temple event and urged PM Modi and CM Adityanath to take notice?",
+      "options": [
+        "Jai Devi Kaushal",
+        "Smriti Irani",
+        "Anupriya Patel",
+        "Rita Bahuguna Joshi"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "BJP MLA Jai Devi Kaushal from Uttar Pradesh recently alleged caste discrimination at a temple event. She urged Prime Minister Narendra Modi and Uttar Pradesh Chief Minister Yogi Adityanath to take notice of the incident.",
+      "background": "Incidents of alleged caste discrimination, particularly in public or religious spaces, often lead to social and political discourse, highlighting ongoing challenges despite legal prohibitions against discrimination.",
+      "examRelevance": "BJP MLA Jai Devi Kaushal's allegation of caste discrimination.",
+      "tags": [
+        "Jai Devi Kaushal",
+        "BJP",
+        "Uttar Pradesh",
+        "Caste discrimination",
+        "Temple event"
+      ],
+      "source": {
+        "title": "BJP MLA Jai Devi Kaushal alleges caste discrimination at Uttar Pradesh temple event",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-mla-jai-devi-kaushal-alleges-caste-discrimination-at-uttar-pradesh-temple-event/article71370237.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q12",
+      "question": "Two individuals were feared dead after a soil collapse incident at an under-construction hospital in which city of Punjab?",
+      "options": [
+        "Jalandhar",
+        "Mohali",
+        "Amritsar",
+        "Ludhiana"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "Two individuals were feared dead after a soil collapse incident occurred at an under-construction hospital site in Mohali, Punjab. Rescue operations are underway.",
+      "background": "Construction site accidents, especially those involving soil collapse, are tragic events that highlight the importance of safety protocols and structural integrity in building projects. Mohali is a major city in Punjab, part of the Chandigarh Tricity.",
+      "examRelevance": "Location of soil collapse incident (Mohali, Punjab).",
+      "tags": [
+        "Mohali",
+        "Punjab",
+        "Soil collapse",
+        "Construction accident"
+      ],
+      "source": {
+        "title": "Two feared dead after Mohali soil collapse",
+        "url": "https://economictimes.indiatimes.com/news/india/two-feared-dead-after-soil-collapses-at-under-construction-hospital-in-punjabs-mohali/articleshow/133390583.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q13",
+      "question": "Former Pakistan Prime Minister Imran Khan was recently shifted from Adiala Jail to which hospital in Islamabad following a Supreme Court order?",
+      "options": [
+        "Combined Military Hospital",
+        "Pakistan Institute of Medical Sciences",
+        "Aga Khan University Hospital",
+        "Shifa International Hospital"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Former Pakistan Prime Minister Imran Khan has been shifted from Adiala Jail to Shifa International Hospital in Islamabad. This move followed an order from the Supreme Court.",
+      "background": "Imran Khan, a prominent political figure in Pakistan, has been incarcerated following various legal proceedings. His transfer to a hospital reflects the legal and health considerations surrounding high-profile prisoners.",
+      "examRelevance": "Hospital where Imran Khan was shifted (Shifa International Hospital).",
+      "tags": [
+        "Imran Khan",
+        "Pakistan",
+        "Shifa International Hospital",
+        "Adiala Jail"
+      ],
+      "source": {
+        "title": "Jailed Pakistan ex-PM Imran Khan moved to hospital after court order, his party says",
+        "url": "https://www.thehindu.com/news/international/imran-khan-moved-to-hospital-after-court-order-his-party-says/article71372012.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q14",
+      "question": "Amazon announced an investment of $2 billion in Prime Video through 2030 in which geographical region?",
+      "options": [
+        "Eastern Europe",
+        "Latin America",
+        "Africa",
+        "Southeast Asia"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Amazon announced an investment of $2 billion in its Prime Video service through 2030, specifically targeting the Latin American region. This investment aims to expand content and services in the growing market.",
+      "background": "Amazon Prime Video is a subscription video-on-demand streaming and rental service. Such significant investments are part of global strategies by major tech companies to capture market share in key growth regions for streaming services.",
+      "examRelevance": "Amazon's $2 billion investment in Prime Video (Latin America).",
+      "tags": [
+        "Amazon",
+        "Prime Video",
+        "Latin America",
+        "Investment",
+        "Streaming"
+      ],
+      "source": {
+        "title": "Amazon to invest $2 bn in Latin American",
+        "url": "https://economictimes.indiatimes.com/industry/media/entertainment/amazon-to-invest-2-billion-in-latin-american-prime-video-through-2030/articleshow/133390539.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q15",
+      "question": "Which tennis player retired from the Cincinnati clash against Iga Swiatek due to injury, 10 days before the U.S. Open?",
+      "options": [
+        "Jessica Pegula",
+        "Elena Rybakina",
+        "Coco Gauff",
+        "Aryna Sabalenka"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Elena Rybakina retired from her Cincinnati clash against Iga Swiatek due to an injury. This retirement occurred just 10 days before the start of the U.S. Open.",
+      "background": "Elena Rybakina is a professional tennis player from Kazakhstan, known for her powerful serve. Injuries can significantly impact a player's preparation and performance, especially leading up to Grand Slam tournaments like the U.S. Open.",
+      "examRelevance": "Elena Rybakina's retirement from Cincinnati clash.",
+      "tags": [
+        "Elena Rybakina",
+        "Tennis",
+        "Cincinnati",
+        "Iga Swiatek",
+        "U.S. Open"
+      ],
+      "source": {
+        "title": "Rybakina retires from Cincinnati clash with Swiatek",
+        "url": "https://www.thehindu.com/sport/rybakina-retires-from-cincinnati-clash-with-swiatek/article71372007.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q16",
+      "question": "The U.S. recently deported approximately 2,300 Mexicans through which Central American country?",
+      "options": [
+        "El Salvador",
+        "Belize",
+        "Honduras",
+        "Guatemala"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The U.S. recently sent approximately 2,300 deported Mexicans through Guatemala. This action is part of broader immigration enforcement efforts and has implications for U.S.-Mexico relations.",
+      "background": "Third-country deportations are a strategy used by countries to manage migrant flows, often involving agreements with transit nations. This particular operation tests diplomatic ties between the U.S. and Mexico.",
+      "examRelevance": "Number of Mexicans deported by US (2,300) and transit country (Guatemala).",
+      "tags": [
+        "U.S. deportation",
+        "Mexico",
+        "Guatemala",
+        "Immigration"
+      ],
+      "source": {
+        "title": "US deports 2,300 Mexicans through Guatemala",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/us-sends-2300-deported-mexicans-through-guatemala-testing-mexico-ties/articleshow/133390493.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q17",
+      "question": "According to a SEBI study, what percentage of individual traders in India's equity derivatives market (F&O trading) lost money in FY26?",
+      "options": [
+        "95%",
+        "72%",
+        "88%",
+        "65%"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "A Securities and Exchange Board of India (SEBI) study revealed that 88% of individual traders in India's equity derivatives market (F&O trading) incurred losses in FY26, with total net losses amounting to ₹91,685 crore.",
+      "background": "SEBI is the regulatory body for the securities market in India. Its studies provide crucial insights into market trends and investor behavior, informing policy decisions aimed at investor protection and market efficiency. Individual participation in the equity derivatives segment fell 18% to 88 lakh traders in FY26 from one crore in FY25.",
+      "examRelevance": "Percentage of retail investors losing money in F&O trading (88%) in FY26.",
+      "tags": [
+        "SEBI",
+        "F&O trading",
+        "Retail investors",
+        "Equity derivatives",
+        "FY26 losses"
+      ],
+      "source": {
+        "title": "88% retail investors lost money in F O trading in FY26: Sebi",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/88-retail-investors-lost-money-in-fo-trading-in-fy26-sebi/articleshow/133390440.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q18",
+      "question": "The share of premium, high-octane petrol in sales has risen to 12-15% from about 4% in March, amidst concerns over the impact of which fuel?",
+      "options": [
+        "E20 petrol",
+        "E10 petrol",
+        "E85 petrol",
+        "E5 petrol"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The share of premium, high-octane petrol in sales has increased to 12-15% from approximately 4% in March. This rise is attributed to consumer concerns that ethanol-blended E20 petrol could negatively affect vehicle mileage and engine life.",
+      "background": "E20 petrol is a blend of 20% ethanol with gasoline, introduced as part of India's efforts to reduce crude oil imports and carbon emissions. However, its adoption has raised questions among consumers regarding its long-term impact on vehicle performance.",
+      "examRelevance": "Rise in premium petrol sales due to concerns over E20 petrol.",
+      "tags": [
+        "E20 petrol",
+        "Premium petrol",
+        "Fuel sales",
+        "Ethanol blending"
+      ],
+      "source": {
+        "title": "Consumers queue up for premium petrol as E20 concerns refuse to die down",
+        "url": "https://www.livemint.com/economy/consumers-queue-up-for-premium-petrol-as-e20-concerns-refuse-to-die-down-11787223782784.html"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q19",
+      "question": "In the first half of August, Foreign Portfolio Investors (FPIs) remained net buyers across sectors, with which sector attracting the highest foreign buying?",
+      "options": [
+        "Healthcare",
+        "Financial services",
+        "Automobiles & Auto Components",
+        "Information Technology"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "In the first half of August, Foreign Portfolio Investors (FPIs) were net buyers for the fourth consecutive fortnight. Financial services attracted the highest foreign buying during this period, followed by automobiles & auto components, consumer services, healthcare, and information technology companies.",
+      "background": "FPIs are crucial drivers of capital markets in India. Their investment patterns reflect global sentiment and domestic economic conditions. NSDL data tracks these flows, providing insights into sector-wise preferences.",
+      "examRelevance": "Sector attracting highest FPI buying in early August (Financial services).",
+      "tags": [
+        "FPIs",
+        "Financial services",
+        "Equity market",
+        "Investment trends",
+        "NSDL"
+      ],
+      "source": {
+        "title": "FPIs turn bullish on financials, autos and IT in first half of August",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-continue-to-buy-with-financials-top-the-list/articleshow/133389861.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q20",
+      "question": "Sajjan Kumar, a former Congress MP convicted in the anti-Sikh riots case, recently passed away. He was associated with which political party?",
+      "options": [
+        "Indian National Congress",
+        "Bharatiya Janata Party",
+        "Shiromani Akali Dal",
+        "Aam Aadmi Party"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Sajjan Kumar, a former Congress MP, who was convicted in the 1984 anti-Sikh riots case, recently passed away. He spent his final years in prison after decades of investigations and legal battles.",
+      "background": "The 1984 anti-Sikh riots were a series of pogroms directed against Sikhs in India following the assassination of Prime Minister Indira Gandhi. Sajjan Kumar's conviction was a landmark case in bringing justice to the victims of the riots.",
+      "examRelevance": "Obituary of Sajjan Kumar, former Congress MP convicted in anti-Sikh riots case.",
+      "tags": [
+        "Sajjan Kumar",
+        "Obituary",
+        "Congress MP",
+        "Anti-Sikh riots"
+      ],
+      "source": {
+        "title": "Sajjan Kumar, former Congress MP convicted in anti-Sikh riots case, is dead",
+        "url": "https://www.thehindu.com/news/cities/Delhi/sajjan-kumar-former-congress-mp-convicted-in-anti-sikh-riots-case-passes-away/article71368388.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q21",
+      "question": "Lawyers recently staged a protest outside the Bar Council of India (BCI) office, demanding the resignation of its chairman, Manan Kumar Mishra. What is his position?",
+      "options": [
+        "Chairman of the Bar Council of India",
+        "Chief Justice of India",
+        "President of the Supreme Court Bar Association",
+        "Attorney General of India"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Lawyers recently staged a protest outside the Bar Council of India (BCI) office, demanding the resignation of Manan Kumar Mishra, who is the current Chairman of the BCI. The protest highlighted concerns over his 14-year tenure and called for reforms in the BCI's election mechanism.",
+      "background": "The Bar Council of India is a statutory body established under the Advocates Act, 1961, that regulates and represents the Indian bar. It prescribes standards of professional conduct and etiquette for advocates and exercises disciplinary jurisdiction.",
+      "examRelevance": "Manan Kumar Mishra as Chairman of the Bar Council of India.",
+      "tags": [
+        "Manan Kumar Mishra",
+        "Bar Council of India",
+        "BCI Chairman",
+        "Lawyers protest"
+      ],
+      "source": {
+        "title": "Lawyers stage protest outside BCI office, seek chairman’s resignation amid NALSAR row",
+        "url": "https://www.thehindu.com/news/national/lawyers-protest-outside-bci-office-demand-chairman-manan-mishras-resignation-amid-nalsar-row/article71368148.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q22",
+      "question": "The Supreme Court recently modified its 1978 'triple test' precedent for deciding what qualifies as an 'industry' under the new labour code. Which year's precedent was modified?",
+      "options": [
+        "1978",
+        "1972",
+        "1984",
+        "1991"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently modified its 1978 'triple test' precedent for defining 'industry'. The court stated that 'Industry' under the Industrial Relations Code will now be interpreted in its 'own text and context,' moving away from the broader interpretation of the 1978 verdict.",
+      "background": "The 1978 verdict had a significant impact, enabling workers in a wide range of jobs to access legal recourse and collective bargaining rights. The modification under the Industrial Relations Code, 2020, aims to streamline and update labor laws.",
+      "examRelevance": "Supreme Court's modification of the 1978 'industry' precedent.",
+      "tags": [
+        "Supreme Court",
+        "Industry definition",
+        "Labour Code",
+        "Industrial Relations Code",
+        "1978 precedent"
+      ],
+      "source": {
+        "title": "Supreme Court scraps worker-friendly 1978 ‘industry’ precedent for new labour code",
+        "url": "https://www.thehindu.com/news/national/supreme-court-upholds-definition-of-industry-as-per-industrial-relations-code-2020/article71367986.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q23",
+      "question": "Team India recently celebrated a Test victory in which Sri Lankan city, while also aiming to address key flaws?",
+      "options": [
+        "Kandy",
+        "Colombo",
+        "Dambulla",
+        "Galle"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Team India recently celebrated a Test victory in Galle, Sri Lanka. The team is now focusing on ironing out flaws ahead of tougher challenges in the series.",
+      "background": "Galle International Stadium is a historic cricket ground located in Galle, Sri Lanka, known for its picturesque setting and often hosting Test matches. India's victory marks an important step in their tour.",
+      "examRelevance": "Location of India's recent Test victory (Galle).",
+      "tags": [
+        "Team India",
+        "Cricket",
+        "Test victory",
+        "Galle",
+        "Sri Lanka"
+      ],
+      "source": {
+        "title": "In glory in Galle, it’s time for Team India to iron out the flaws",
+        "url": "https://www.thehindu.com/sport/cricket/in-glory-in-galle-its-time-for-team-india-to-iron-out-the-flaws/article71369233.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q24",
+      "question": "Indian Grandmaster R. Praggnanandhaa finished second in which recent international chess tournament after a tie-break loss to Wesley So?",
+      "options": [
+        "Candidates Tournament",
+        "Sinquefield Cup",
+        "Tata Steel Chess India",
+        "World Rapid Chess Championship"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Indian Grandmaster R. Praggnanandhaa finished second in the Sinquefield Cup after a tie-break loss to Wesley So. This is a significant achievement in a prestigious international chess tournament.",
+      "background": "The Sinquefield Cup is an annual super grandmaster chess tournament held in St. Louis, Missouri, USA. It is part of the Grand Chess Tour and attracts top players from around the world.",
+      "examRelevance": "R. Praggnanandhaa's second-place finish in Sinquefield Cup.",
+      "tags": [
+        "R Praggnanandhaa",
+        "Chess",
+        "Sinquefield Cup",
+        "Grandmaster",
+        "Wesley So"
+      ],
+      "source": {
+        "title": "Praggnanandhaa finishes second in Sinquefield Cup",
+        "url": "https://www.thehindu.com/sport/praggnanandhaa-finishes-second-in-sinquefield-cup/article71370894.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q25",
+      "question": "Indian players P.V. Sindhu and Ayush Shetty recently exited the World Championships in which sport, leaving India's hopes resting on doubles?",
+      "options": [
+        "Table Tennis",
+        "Squash",
+        "Badminton",
+        "Tennis"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Indian players P.V. Sindhu and Ayush Shetty recently exited the Badminton World Championships. Following their exit, India's hopes for medals now rest primarily on its doubles teams.",
+      "background": "The BWF World Championships is a major international badminton tournament sanctioned by the Badminton World Federation. It offers the most ranking points, after the Olympic Games, and is one of the most prestigious tournaments in the sport.",
+      "examRelevance": "Sport of World Championships where Sindhu and Ayush exited (Badminton).",
+      "tags": [
+        "PV Sindhu",
+        "Ayush Shetty",
+        "Badminton",
+        "World Championships",
+        "Indian hopes"
+      ],
+      "source": {
+        "title": "Badminton World Championships: India’s hopes rest on doubles after Sindhu, Ayush exit",
+        "url": "https://www.thehindu.com/sport/badminton-world-championships-indias-hopes-rest-on-doubles-after-sindhu-ayush-exit/article71370383.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q26",
+      "question": "U.S. envoy Sergio Gor recently termed Jammu & Kashmir as an 'important part of India,' sparking mixed political reactions. What is his designation?",
+      "options": [
+        "U.S. Ambassador to India",
+        "U.S. envoy",
+        "U.S. Special Envoy for South Asia",
+        "U.S. Deputy Assistant Secretary of State"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "U.S. envoy Sergio Gor recently stated that Jammu & Kashmir is an 'important part of India.' His remarks evoked mixed political reactions, highlighting the region's significance in India's diplomatic landscape.",
+      "background": "Statements by foreign diplomats regarding sensitive geopolitical regions like Jammu & Kashmir are often closely scrutinized for their implications on international relations and national sovereignty claims. Such remarks can shape perceptions and diplomatic stances.",
+      "examRelevance": "U.S. envoy Sergio Gor's remarks on J&K.",
+      "tags": [
+        "Sergio Gor",
+        "U.S. envoy",
+        "Jammu & Kashmir",
+        "India-U.S. relations",
+        "Diplomacy"
+      ],
+      "source": {
+        "title": "U.S. envoy Sergio Gor’s J&K remarks evoke mixed reactions",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/us-envoy-sergio-gors-jk-remarks-evoke-mixed-reactions/article71370329.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q27",
+      "question": "Census enumerators in Jammu & Kashmir have raised concerns over the need for phones with a minimum of what RAM capacity for their work?",
+      "options": [
+        "4 GB RAM",
+        "6 GB RAM",
+        "8 GB RAM",
+        "2 GB RAM"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Census enumerators in Jammu & Kashmir have raised concerns regarding the requirement for phones with a minimum of 8 GB RAM for their work. This issue was discussed at a meeting chaired by Chief Principal Census Officer Amit Sharma.",
+      "background": "Modern census operations increasingly rely on digital tools and applications for data collection, which can require higher hardware specifications for smooth functioning. The concern highlights potential logistical challenges in deploying such technology across diverse regions.",
+      "examRelevance": "Minimum RAM requirement (8 GB) for Census enumerators' phones in J&K.",
+      "tags": [
+        "Census",
+        "Jammu & Kashmir",
+        "RAM requirement",
+        "Technology",
+        "Enumerators"
+      ],
+      "source": {
+        "title": "Need for phones with 8 GB RAM raises concern among Census enumerators in J&K",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/need-for-phones-with-8-gb-ram-raises-concern-among-census-enumerators-in-jk/article71370606.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q28",
+      "question": "ChatGPT for Teens, designed for 13 to 17-year-olds, includes features such as parental controls, 'quiet hours,' and study mode. What is the target age group?",
+      "options": [
+        "8 to 12-year-olds",
+        "All age groups",
+        "13 to 17-year-olds",
+        "18 to 22-year-olds"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "ChatGPT for Teens is specifically designed for 13 to 17-year-olds. It incorporates features like parental controls, 'quiet hours,' and a study mode, along with notifications for situations requiring real-world interventions, to ensure a safe and productive experience for young users.",
+      "background": "With the increasing use of AI tools, platforms are developing age-appropriate versions with enhanced safety and control features. This initiative by ChatGPT addresses concerns about AI usage among minors and aims to provide a more regulated environment.",
+      "examRelevance": "Target age group for ChatGPT for Teens (13 to 17 years).",
+      "tags": [
+        "ChatGPT",
+        "AI",
+        "Teens",
+        "Parental controls",
+        "Age group"
+      ],
+      "source": {
+        "title": "Parental control features in ChatGPT for Teens | Explained",
+        "url": "https://www.thehindu.com/sci-tech/technology/chatgpt-for-teens-explained/article71367865.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q29",
+      "question": "The construction activities around which marshland are currently being debated, with the TNSWA suggesting regulation rather than a ban to the Madras High Court?",
+      "options": [
+        "Chitrangudi Bird Sanctuary",
+        "Pallikaranai marshland",
+        "Point Calimere Wildlife and Bird Sanctuary",
+        "Vedanthangal Bird Sanctuary"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The Tamil Nadu State Wetland Authority (TNSWA) has informed the Madras High Court that construction activities around the Pallikaranai marshland can be regulated, rather than banned entirely. This proposal includes an interim 'Zone of Influence' prepared by the National Centre for Sustainable Coastal Management.",
+      "background": "Pallikaranai marshland is a significant wetland ecosystem in Chennai, Tamil Nadu, playing a crucial role in flood mitigation and biodiversity conservation. Balancing urban development with environmental protection is a recurring challenge in rapidly growing cities.",
+      "examRelevance": "Pallikaranai marshland and debate over construction activities.",
+      "tags": [
+        "Pallikaranai marshland",
+        "Environment",
+        "TNSWA",
+        "Madras High Court",
+        "Wetland conservation"
+      ],
+      "source": {
+        "title": "Construction activities around Pallikaranai marshland can be regulated, not banned: TNSWA tells Madras High Court",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/construction-activities-around-pallikaranai-marshland-can-be-regulated-not-banned-tnswa-tells-madras-high-court/article71369543.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-21-q30",
+      "question": "Calicut University has conceived the 'ASCENT' project as a special mission to enhance the academic and administrative standards of its affiliated colleges. Which university is associated with this project?",
+      "options": [
+        "Calicut University",
+        "Mahatma Gandhi University",
+        "Cochin University of Science and Technology",
+        "University of Kerala"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "Calicut University authorities have conceived the 'ASCENT' project as a special mission. Its objective is to enhance the academic and administrative standards of its affiliated colleges spread across five districts in Kerala.",
+      "background": "The ASCENT project aims to bring about comprehensive improvements in higher education institutions under Calicut University. Initiatives like these are crucial for educational development and quality enhancement in state universities.",
+      "examRelevance": "Calicut University's 'ASCENT' project.",
+      "tags": [
+        "Calicut University",
+        "ASCENT project",
+        "Education",
+        "Kerala",
+        "University standards"
+      ],
+      "source": {
+        "title": "DPR for Calicut varsity’s ASCENT project to be ready soon",
+        "url": "https://www.thehindu.com/news/national/kerala/dpr-for-calicut-varsitys-ascent-project-to-be-ready-soon/article71365583.ece"
+      }
+    }
+  ]
+}
