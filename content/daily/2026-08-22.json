@@ -1,0 +1,767 @@
+{
+  "id": "daily-2026-08-22",
+  "type": "daily",
+  "date": "2026-08-22",
+  "title": "Current Affairs — 22 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-22-q1",
+      "question": "Which Indian state recently signed four MoUs with Japan's Yamanashi Prefecture, including the establishment of a ₹600-crore fund for MSMEs?",
+      "options": [
+        "Uttar Pradesh",
+        "Gujarat",
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Uttar Pradesh and Japan’s Yamanashi Prefecture recently signed four Memoranda of Understanding (MoUs). These agreements include the establishment of a dedicated ₹600-crore Yamanashi fund to support MSMEs in Uttar Pradesh, as well as a Yamanashi Desk at Invest UP for faster implementation.",
+      "background": "The collaboration aims to strengthen economic ties and facilitate investments, particularly in the micro, small, and medium enterprises sector, by leveraging Japanese expertise and funding. This initiative is part of broader efforts to boost the rural economy and industrial development in Uttar Pradesh.",
+      "examRelevance": "Uttar Pradesh signed 4 MoUs with Japan's Yamanashi Prefecture, including a ₹600-crore fund for MSMEs.",
+      "tags": [
+        "Uttar Pradesh",
+        "Yamanashi Prefecture",
+        "MSMEs",
+        "MoUs"
+      ],
+      "source": {
+        "title": "Uttar Pradesh, Japan’s Yamanashi sign four MoUs; ₹600-crore fund for MSMEs",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-japans-yamanashi-sign-four-mous-600-crore-fund-for-msmes/article71374674.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q2",
+      "question": "The Mohan Majhi Government in Odisha announced plans to develop the village of which VHP leader as a heritage village?",
+      "options": [
+        "Vishnu Hari Dalmia",
+        "Swami Laxmanananda Saraswati",
+        "Ashok Singhal",
+        "Pravin Togadia"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "The Mohan Majhi Government in Odisha has decided to develop the village of VHP leader Swami Laxmanananda Saraswati as a heritage village. This move aims to pay a grand tribute to the spiritual leader.",
+      "background": "Swami Laxmanananda Saraswati was a prominent Vishwa Hindu Parishad (VHP) leader known for his work among tribal communities in Odisha. Developing his village as a heritage site acknowledges his legacy and contributions.",
+      "examRelevance": "Odisha government will develop Swami Laxmanananda Saraswati's village as a heritage village.",
+      "tags": [
+        "Odisha",
+        "Swami Laxmanananda Saraswati",
+        "Heritage Village",
+        "VHP"
+      ],
+      "source": {
+        "title": "BJP government in Odisha moves to give grand tribute to VHP leader",
+        "url": "https://www.thehindu.com/news/national/odisha/bjp-government-in-odisha-moves-to-give-grand-tribute-to-vhp-leader/article71373971.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q3",
+      "question": "Which former U.S. President recently stated that the U.S. has 'total control' of the Strait of Hormuz and called it 'American territory'?",
+      "options": [
+        "Barack Obama",
+        "Donald Trump",
+        "Joe Biden",
+        "George W. Bush"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "U.S. President Donald Trump recently stated, 'We have total control of that entire region having to do with the Strait of Hormuz, and that means well into it, the land areas.' He also called the Strait of Hormuz 'American territory'.",
+      "background": "These statements were made amidst rising geopolitical tensions in West Asia, particularly concerning U.S.-Iran relations. The Strait of Hormuz is a strategically vital waterway for global oil shipments.",
+      "examRelevance": "Donald Trump called the Strait of Hormuz 'American territory' and claimed 'total control' of the region.",
+      "tags": [
+        "Donald Trump",
+        "Strait of Hormuz",
+        "US",
+        "Iran"
+      ],
+      "source": {
+        "title": "West Asia LIVE: Trump says Iran not ready to make the 'right deal'",
+        "url": "https://www.thehindu.com/news/international/west-asia-war-donald-trump-us-iran-conflict-escalation-strait-of-hormuz-august-22-2026-live-updates/article71376440.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q4",
+      "question": "Siddhavatam Fort, a centuries-old monument and former administrative headquarters of Cuddapah district, is situated on the left bank of which river?",
+      "options": [
+        "Krishna River",
+        "Godavari River",
+        "Cauvery River",
+        "Penna River"
+      ],
+      "answerIndex": 3,
+      "category": "Art & Culture",
+      "explanation": "Siddhavatam Fort is nestled between the Palakonda and Veligonda hill ranges, situated on the left bank of the Penna River. It was once a strategic military outpost and briefly the administrative headquarters of the Cuddapah district.",
+      "background": "The fort's history, inscriptions, temples, sculptures, and architectural remains reveal a rich cultural legacy. Its strategic location on the Penna River made it a significant center of power through various historical periods.",
+      "examRelevance": "Siddhavatam Fort is located on the left bank of the Penna River in Cuddapah district.",
+      "tags": [
+        "Siddhavatam Fort",
+        "Penna River",
+        "Cuddapah",
+        "Andhra Pradesh"
+      ],
+      "source": {
+        "title": "Beyond the walls of Siddhavatam Fort",
+        "url": "https://www.thehindu.com/news/cities/Visakhapatnam/beyond-the-walls-of-siddhavatam-fort/article71373272.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q5",
+      "question": "Jay Sunilbharthi Goswami, an Indian national from Gujarat, was recently arrested in which country while attempting to flee to Qatar after being accused of a multi-million-dollar fraud in the U.S.?",
+      "options": [
+        "Mexico",
+        "United Kingdom",
+        "UAE",
+        "Canada"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Jay Sunilbharthi Goswami, 21, a Gujarat native who lived in Jersey City, New Jersey, was detained in Canada while attempting to flee to Qatar. He faces charges in the U.S. for a multi-million-dollar fraud targeting elderly individuals.",
+      "background": "This arrest highlights international cooperation in tackling cross-border financial crimes. Goswami's attempt to flee through Canada before reaching Qatar indicates the global reach of such fraud operations and law enforcement efforts.",
+      "examRelevance": "Jay Sunilbharthi Goswami, an Indian national, was arrested in Canada for U.S. fraud.",
+      "tags": [
+        "Jay Sunilbharthi Goswami",
+        "Fraud",
+        "Canada",
+        "US"
+      ],
+      "source": {
+        "title": "Indian national arrested in U.S. over multi-million-dollar fraud targeting elderly",
+        "url": "https://www.thehindu.com/news/international/indian-national-arrested-in-us-over-multi-million-dollar-fraud-targeting-elderly/article71376436.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q6",
+      "question": "Which Australian left-arm bowler recently took five wickets in the first four overs against Bangladesh in a Test match, dismissing both openers for ducks?",
+      "options": [
+        "Nathan Lyon",
+        "Mitchell Starc",
+        "Josh Hazlewood",
+        "Pat Cummins"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Mitchell Starc, the Australian left-arm bowler, removed both Bangladesh openers, captain Najmul Hossain Shanto and wicketkeeper Litton Das, for ducks and took five wickets in the first four overs to leave Bangladesh at 12 for five.",
+      "background": "Achieving five wickets in such a short span at the start of a Test match is a rare and significant feat, demonstrating exceptional bowling prowess. It set a dominant tone for Australia in the match against Bangladesh.",
+      "examRelevance": "Mitchell Starc took five wickets in the first four overs against Bangladesh in a Test match.",
+      "tags": [
+        "Mitchell Starc",
+        "Cricket",
+        "Australia",
+        "Bangladesh"
+      ],
+      "source": {
+        "title": "Australia vs Bangladesh Day 1: Starc takes five wickets in first four overs",
+        "url": "https://www.thehindu.com/sport/cricket/australia-vs-bangladesh-test-match-2-day-1-mitchell-starc-shanto-updates/article71376427.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q7",
+      "question": "The Centre is scheduled to hold talks in September with which two key civil society groups from Ladakh, following the withdrawal of cases against Leh protestors?",
+      "options": [
+        "Leh Apex Body (LAB) and Kargil Democratic Alliance (KDA)",
+        "Ladakh Buddhist Association (LBA) and Kargil Shia Council (KSC)",
+        "Leh Citizens Forum (LCF) and Kargil United Front (KUF)",
+        "Ladakh Youth Association (LYA) and Kargil Development Front (KDF)"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Ladakh’s key civil society groups, including Leh Apex Body (LAB) and Kargil Democratic Alliance (KDA), earlier this week submitted a list of 'non-negotiable' demands to the administration and insisted on the withdrawal of pending cases against locals.",
+      "background": "The Centre's outreach, including the withdrawal of cases against Leh protestors, is a precursor to talks scheduled with LAB and KDA in September. These groups represent significant voices in Ladakh, advocating for various demands including statehood and constitutional safeguards.",
+      "examRelevance": "The Centre will hold talks with Ladakh's Leh Apex Body (LAB) and Kargil Democratic Alliance (KDA) in September.",
+      "tags": [
+        "Ladakh",
+        "Leh Apex Body",
+        "Kargil Democratic Alliance",
+        "Polity"
+      ],
+      "source": {
+        "title": "Ahead of MHA-Ladakh talks in September, Centre’s outreach sees withdrawal of cases against Leh protestors",
+        "url": "https://www.thehindu.com/news/national/ladakh/ahead-of-mha-ladakh-talks-in-september-centres-outreach-sees-withdrawal-of-cases-against-leh-protestors/article71374523.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q8",
+      "question": "Which major Indian city recently celebrated 'Madras Day 2026'?",
+      "options": [
+        "Bengaluru",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answerIndex": 3,
+      "category": "Dates & Days",
+      "explanation": "Chennai recently celebrated 'Madras Day 2026'. The day marks the founding of the city of Madras, now Chennai, in 1639.",
+      "background": "Madras Day is celebrated annually on August 22, commemorating the day in 1639 when the city of Madras (now Chennai) was founded. It highlights the city's rich history, heritage, and growth.",
+      "examRelevance": "Chennai celebrated Madras Day 2026 on August 22.",
+      "tags": [
+        "Madras Day",
+        "Chennai",
+        "Dates & Days",
+        "Heritage"
+      ],
+      "source": {
+        "title": "From heritage to high-rises, how Chennai grew taller",
+        "url": "https://www.thehindu.com/news/cities/chennai/madras-day-2026-from-heritage-to-high-rises-how-chennai-grew-taller/article71369048.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q9",
+      "question": "Which Indian state is holding dairy conclaves to boost its rural economy and women's empowerment, as announced by Dairy Commissioner Dhanalakshmi K.?",
+      "options": [
+        "Rajasthan",
+        "Punjab",
+        "Gujarat",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Uttar Pradesh is holding dairy conclaves to boost its rural economy and women’s empowerment. Dairy Commissioner Dhanalakshmi K. stated that members of milk unions, milk-producing farmers, and self-help groups are encouraged to take help from welfare measures.",
+      "background": "These conclaves are part of the state government's strategy to strengthen the dairy sector, which is a significant contributor to the rural economy and provides livelihood opportunities, especially for women through self-help groups.",
+      "examRelevance": "Uttar Pradesh is holding dairy conclaves to boost rural economy and women's empowerment.",
+      "tags": [
+        "Uttar Pradesh",
+        "Dairy Conclaves",
+        "Rural Economy",
+        "Women Empowerment"
+      ],
+      "source": {
+        "title": "Uttar Pradesh holds dairy conclaves to boost rural economy, women’s empowerment",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-holds-dairy-conclaves-to-boost-rural-economy-womens-empowerment/article71374831.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q10",
+      "question": "Following a dharna by Rahul Gandhi, an FIR was registered by Delhi Police regarding pellet gun use during a protest that injured which 19-year-old youth?",
+      "options": [
+        "Sahil Lochab",
+        "Aryan Singh",
+        "Karan Sharma",
+        "Rohan Malik"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Rahul Gandhi sat in a dharna after Sahil Lochab, a 19-year-old who lost his eyesight after being hit by pellets during a protest, said the police had refused to register an FIR on his complaint. Subsequently, Delhi Police registered an FIR on the pellet gun use.",
+      "background": "The incident highlights concerns about police action during protests and the importance of accountability. The intervention by a prominent political leader led to the registration of the FIR, bringing the issue to public and legal attention.",
+      "examRelevance": "Delhi Police registered an FIR on pellet gun use after Rahul Gandhi's dharna regarding Sahil Lochab's injury.",
+      "tags": [
+        "Rahul Gandhi",
+        "Sahil Lochab",
+        "Delhi Police",
+        "Protest"
+      ],
+      "source": {
+        "title": "After Rahul’s dharna, police register FIR on pellet gun use at Delhi protest",
+        "url": "https://www.thehindu.com/news/national/delhi-police-fir-over-pellet-injuries-to-youth-during-july-20-protest/article71373663.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q11",
+      "question": "FIFA recently fined Argentina $90,000 and imposed bans for a post-match brawl after their 1-0 loss to Spain in the World Cup final on July 19. Which player was specifically fined for sparking the brawl?",
+      "options": [
+        "Emiliano Martínez",
+        "Ángel Di María",
+        "Lionel Messi",
+        "Leandro Paredes"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "The FIFA Disciplinary Committee fined Argentina $90,000 and imposed bans for sparking a post-match brawl after Spain’s 1-0 victory in extra time on July 19 at MetLife Stadium. Leandro Paredes was specifically fined for his role in sparking the brawl.",
+      "background": "Such disciplinary actions by FIFA underscore the importance of maintaining sportsmanship and order, even in the highly competitive environment of a World Cup final. The fines and bans serve as a deterrent against unsporting behavior.",
+      "examRelevance": "FIFA fined Argentina $90,000 and Leandro Paredes for a post-match brawl in the World Cup final.",
+      "tags": [
+        "FIFA",
+        "Argentina",
+        "Leandro Paredes",
+        "World Cup",
+        "Football"
+      ],
+      "source": {
+        "title": "FIFA slaps Argentina with fines, bans over World Cup final",
+        "url": "https://www.thehindu.com/sport/football/fifa-slaps-argentina-with-fines-bans-over-world-cup-final/article71376416.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q12",
+      "question": "A recent Russian drone strike on a shopping centre in which Ukrainian city killed 16 people?",
+      "options": [
+        "Kryvyi Rig",
+        "Odesa",
+        "Lviv",
+        "Kyiv"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Ukraine reported a 'cynical' Russian strike on a shopping centre in Kryvyi Rig, which resulted in the deaths of 16 people. Videos showed rescuers helping the wounded outside the smoke-filled building.",
+      "background": "This incident is part of the ongoing conflict in Ukraine, where civilian infrastructure and populations have frequently been targeted. Kryvyi Rig is a major industrial city in central Ukraine.",
+      "examRelevance": "A Russian strike on a shopping centre in Kryvyi Rig, Ukraine, killed 16 people.",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "Kryvyi Rig",
+        "Drone Strike"
+      ],
+      "source": {
+        "title": "Ukraine says 'cynical' Russian strike on shopping centre killed 16",
+        "url": "https://www.thehindu.com/news/international/several-killed-injured-russia-drone-strike-in-ukraine-shopping-centre-updates/article71376414.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q13",
+      "question": "Which social media company recently reached a $400 million settlement with the U.S. Justice Department over children's privacy concerns?",
+      "options": [
+        "TikTok",
+        "Meta",
+        "X (formerly Twitter)",
+        "Snapchat"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "TikTok reached a $400 million settlement with the U.S. Justice Department over issues concerning children's privacy. U.S. Associate Attorney General Stanley E. Woodward Jr. emphasized the department's priority in protecting children online.",
+      "background": "This settlement highlights the increasing scrutiny on social media platforms regarding data privacy, especially concerning minors. Regulatory bodies are pushing companies to meet their legal obligations in safeguarding personal information.",
+      "examRelevance": "TikTok settled for $400 million with the U.S. Justice Department over children's privacy.",
+      "tags": [
+        "TikTok",
+        "US Justice Department",
+        "Children's Privacy",
+        "Data Privacy"
+      ],
+      "source": {
+        "title": "TikTok reaches $400 million settlement with U.S. Justice Department over children's privacy",
+        "url": "https://www.thehindu.com/news/international/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/article71376412.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q14",
+      "question": "A weak monsoon has led to a severe water crisis and sharpened tensions between which two Indian states over Cauvery river water sharing?",
+      "options": [
+        "Andhra Pradesh and Karnataka",
+        "Karnataka and Tamil Nadu",
+        "Telangana and Maharashtra",
+        "Kerala and Tamil Nadu"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "A weak monsoon has left farmers on both sides of the Cauvery struggling with dwindling water supplies, sharpening tensions between Karnataka and Tamil Nadu. Karnataka faces pressure to release water to Tamil Nadu, where large tracts of paddy fields remain barren.",
+      "background": "The Cauvery water dispute is a long-standing inter-state issue, particularly acute during periods of deficient rainfall. The Supreme Court and various tribunals have previously intervened to establish water-sharing formulas.",
+      "examRelevance": "Karnataka and Tamil Nadu are experiencing heightened tensions over Cauvery water sharing due to a weak monsoon.",
+      "tags": [
+        "Cauvery Water Dispute",
+        "Karnataka",
+        "Tamil Nadu",
+        "Monsoon",
+        "Water Crisis"
+      ],
+      "source": {
+        "title": "A dry spell along the Cauvery",
+        "url": "https://www.thehindu.com/news/national/farmers-along-the-cauvery-face-a-severe-water-crisis-and-tensions-between-karnataka-and-tamil-nadu/article71373960.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q15",
+      "question": "The Tamil Nadu government recently placed orders with Joyalukkas and Kalyan Jewellers for the supply of 1,28,499 one-gram gold rings for which scheme?",
+      "options": [
+        "Amma Gold Scheme",
+        "Kalaignar Gold Scheme",
+        "MGR Gold Ring Scheme",
+        "Thaimaman Thanga Mothiram Scheme"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Tamil Nadu government has placed orders with Joyalukkas and Kalyan Jewellers for the supply of a total of 1,28,499 one-gram gold rings for a four-month period, beginning from June, under its Thaimaman Thanga Mothiram Scheme.",
+      "background": "The Thaimaman Thanga Mothiram Scheme is a welfare initiative by the Tamil Nadu government, likely aimed at providing support or incentives to specific beneficiaries. The involvement of major jewellers ensures the scale and quality of the supply.",
+      "examRelevance": "Tamil Nadu government placed orders for gold rings for the Thaimaman Thanga Mothiram Scheme.",
+      "tags": [
+        "Tamil Nadu",
+        "Gold Rings",
+        "Thaimaman Thanga Mothiram Scheme",
+        "Welfare Scheme"
+      ],
+      "source": {
+        "title": "T.N. Government places orders with two jewellers for supply of gold rings scheme",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/thaimaman-thanga-mothiram-scheme-work-orders-issued-to-joyalukkas-kalyan-jewellers-for-gold-ring-supply/article71375124.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q16",
+      "question": "Which Northeastern state recently inked a deal for its first private-sector solar plant, a 20 MW project to be set up at Tizit?",
+      "options": [
+        "Nagaland",
+        "Tripura",
+        "Mizoram",
+        "Manipur"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Nagaland recently inked a deal for its first private-sector solar plant, which will be a 20 MW project located at Tizit. This initiative is expected to help the State reduce its energy imports.",
+      "background": "This marks a significant step for Nagaland towards sustainable energy and reducing dependence on external power sources. The development of a private-sector solar plant aligns with national goals for increasing renewable energy capacity.",
+      "examRelevance": "Nagaland inked a deal for its first private-sector 20 MW solar plant at Tizit.",
+      "tags": [
+        "Nagaland",
+        "Solar Plant",
+        "Tizit",
+        "Renewable Energy"
+      ],
+      "source": {
+        "title": "Nagaland inks deal for first private-sector solar plant",
+        "url": "https://www.thehindu.com/news/national/nagaland/nagaland-inks-deal-for-first-private-sector-solar-plant/article71373752.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q17",
+      "question": "Which Indian table tennis player's qualification placement recently sparked controversy among veterans at the UTT National Ranking Table Tennis tournament?",
+      "options": [
+        "Manika Batra",
+        "Reeth Tennison",
+        "Archana Girish Kamath",
+        "Sreeja Akula"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Sreeja Akula’s placement in the qualifiers sparked controversy among veterans at the UTT National Ranking Table Tennis tournament. The specific reasons for the controversy were not detailed but involved her qualification process.",
+      "background": "Such controversies sometimes arise in sports tournaments regarding seeding, rankings, or qualification criteria, especially when they involve prominent athletes. Sreeja Akula is a well-known Indian table tennis player.",
+      "examRelevance": "Sreeja Akula's qualification placement at the UTT National Ranking Table Tennis tournament sparked controversy.",
+      "tags": [
+        "Sreeja Akula",
+        "Table Tennis",
+        "UTT National Ranking",
+        "Sports Controversy"
+      ],
+      "source": {
+        "title": "Sreeja’s qualification placement raises eyebrows",
+        "url": "https://www.thehindu.com/sport/sreejas-qualification-placement-raises-eyebrows/article71374581.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q18",
+      "question": "How many school teachers are scheduled to be honoured by the President of India on September 5 this year?",
+      "options": [
+        "48",
+        "52",
+        "75",
+        "60"
+      ],
+      "answerIndex": 0,
+      "category": "Awards & Honours",
+      "explanation": "A total of 48 school teachers have been selected through a three-stage selection process at the district, State, and national levels by the Department of School Education and Literacy. These 48 teachers are scheduled to be honoured by the President on September 5.",
+      "background": "September 5 is celebrated as Teachers' Day in India, commemorating the birth anniversary of Dr. Sarvepalli Radhakrishnan. Honouring teachers on this day is a long-standing tradition to recognize their invaluable contributions to education.",
+      "examRelevance": "48 school teachers will be honoured by the President on September 5 (Teachers' Day).",
+      "tags": [
+        "Teachers' Day",
+        "Awards & Honours",
+        "President of India",
+        "Education"
+      ],
+      "source": {
+        "title": "48 teachers to be honoured by President on September 5",
+        "url": "https://www.thehindu.com/news/national/teachers-to-be-honoured-by-president-on-september-5/article71375223.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q19",
+      "question": "Who won the title in the recent Lausanne Diamond League, where India's Neeraj Chopra finished second with an 88.05m throw?",
+      "options": [
+        "Keshorn Walcott",
+        "Pathirage",
+        "Jakub Vadlejch",
+        "Julian Weber"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Pathirage won the title in the recent Lausanne Diamond League. India's Neeraj Chopra finished second in the nine-man star-studded field with his best throw of 88.05m in the second round.",
+      "background": "The Diamond League is an annual series of elite track and field athletics competitions. Neeraj Chopra's consistent performance in such international events highlights his status as a top javelin thrower, even when not winning gold.",
+      "examRelevance": "Pathirage won the Lausanne Diamond League title; Neeraj Chopra finished second with an 88.05m throw.",
+      "tags": [
+        "Lausanne Diamond League",
+        "Neeraj Chopra",
+        "Pathirage",
+        "Javelin Throw",
+        "Athletics"
+      ],
+      "source": {
+        "title": "Neeraj Chopra finishes second, Pathirage wins title in Lausanne Diamond League",
+        "url": "https://www.thehindu.com/sport/neeraj-chopra-finishes-second-pathirage-wins-title-in-lausanne-diamond-league/article71375340.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q20",
+      "question": "Cochin Shipyard recently delivered INS Mangrol to the Indian Navy. This vessel is named after a coastal township in which Indian state?",
+      "options": [
+        "Gujarat",
+        "Goa",
+        "Kerala",
+        "Maharashtra"
+      ],
+      "answerIndex": 0,
+      "category": "Defence",
+      "explanation": "Cochin Shipyard delivered INS Mangrol to the Indian Navy. The vessel is named after the coastal township of Mangrol in Gujarat, continuing the tradition of naming naval ships after significant Indian locations.",
+      "background": "The delivery of new vessels like INS Mangrol is crucial for modernizing and strengthening the Indian Navy's fleet. Cochin Shipyard Limited (CSL) is a major shipbuilding and repair yard in India, contributing significantly to indigenous defence capabilities.",
+      "examRelevance": "Cochin Shipyard delivered INS Mangrol to the Indian Navy, named after Mangrol in Gujarat.",
+      "tags": [
+        "INS Mangrol",
+        "Indian Navy",
+        "Cochin Shipyard",
+        "Gujarat",
+        "Defence"
+      ],
+      "source": {
+        "title": "Cochin Shipyard delivers INS Mangrol to Indian Navy",
+        "url": "https://www.thehindu.com/news/national/kerala/csl-delivers-ins-mangrol-to-indian-navy/article71374982.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q21",
+      "question": "Trade unions recently expressed alarm over a Supreme Court judgment concerning the definition of which term, stating it failed to protect workers' rights?",
+      "options": [
+        "Worker",
+        "Trade Union",
+        "Industry",
+        "Employment"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Trade unions, including CITU general secretary Elamaram Kareem, sounded an alarm over a recent Supreme Court judgment regarding the definition of 'industry'. They argued that both the Legislature and the Judiciary failed to protect the rights of workers mandated by the Constitution.",
+      "background": "The definition of 'industry' has significant implications for labor laws, workers' rights, and the scope of industrial disputes. A change in its interpretation can affect a wide range of organizations and their employees.",
+      "examRelevance": "Supreme Court judgment on the definition of 'industry' raised alarm among trade unions.",
+      "tags": [
+        "Supreme Court",
+        "Industry Definition",
+        "Trade Unions",
+        "Workers' Rights"
+      ],
+      "source": {
+        "title": "Trade unions sound alarm over Supreme Court judgment on definition of industry",
+        "url": "https://www.thehindu.com/news/national/trade-unions-sound-alarm-over-supreme-court-judgment-on-definition-of-industry/article71375019.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q22",
+      "question": "Which commission is engaging with the Labour Ministry to raise minimum wages for safai karmacharis and will soon launch a grievance registration line for them?",
+      "options": [
+        "National Commission for Safai Karmacharis (NCSK)",
+        "National Human Rights Commission (NHRC)",
+        "National Commission for Scheduled Castes (NCSC)",
+        "National Commission for Women (NCW)"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The National Commission for Safai Karmacharis (NCSK) is engaging with the Labour Ministry to raise the minimum wages of safai karmacharis to be on par with those of skilled or semi-skilled workers. The NCSK will also launch a missed call facility to address their grievances.",
+      "background": "This initiative aims to improve the living and working conditions of sanitation workers, who often face low wages and inadequate grievance redressal mechanisms. The NCSK plays a crucial role in advocating for the rights and welfare of safai karmacharis.",
+      "examRelevance": "NCSK is working with the Labour Ministry to raise minimum wages for safai karmacharis and launch a grievance line.",
+      "tags": [
+        "NCSK",
+        "Safai Karmacharis",
+        "Minimum Wages",
+        "Grievance Redressal"
+      ],
+      "source": {
+        "title": "Grievances registration line soon for sanitation workers",
+        "url": "https://www.thehindu.com/news/national/ncsk-to-launch-missed-call-facility-to-address-grievances-of-safai-karmacharis/article71373618.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q23",
+      "question": "Which of the following states was identified by the Centre as most affected by the recent sugar price hike?",
+      "options": [
+        "Bihar",
+        "Odisha",
+        "Haryana",
+        "West Bengal"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Centre stated that crop damage, production dip, and festival demand led to the recent sugar price hike. Odisha, Madhya Pradesh, and Punjab were identified as the states most affected by this increase.",
+      "background": "The government is closely monitoring the situation and has promised steps to ease the burden on consumers. The price hike is attributed to supply-side issues rather than factors like ethanol production.",
+      "examRelevance": "Odisha, Madhya Pradesh, and Punjab were most affected by the recent sugar price hike.",
+      "tags": [
+        "Sugar Price Hike",
+        "Odisha",
+        "Madhya Pradesh",
+        "Punjab",
+        "Economy"
+      ],
+      "source": {
+        "title": "Crop damage, production dip, and festival demand led to price hike, says govt.",
+        "url": "https://www.thehindu.com/news/national/odisha-madhya-pradesh-punjab-hit-the-most-by-sugar-price-hike/article71374655.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q24",
+      "question": "The Supreme Court recently trimmed the mandatory law practice requirement for entry-level judicial service to how many years?",
+      "options": [
+        "5 years",
+        "3 years",
+        "1 year",
+        "2 years"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently trimmed the mandatory law practice requirement for entry-level judicial service from three years to one year. Successful applicants with one year of legal practice would undergo a year of intensive training at the concerned State judicial academy, followed by a final year of law clerkship.",
+      "background": "This decision aims to make judicial services more accessible and streamline the entry process for aspiring judges, while ensuring adequate training. Previously, a three-year mandatory legal practice was a prerequisite.",
+      "examRelevance": "Supreme Court reduced law practice requirement for judicial service to 1 year.",
+      "tags": [
+        "Supreme Court",
+        "Judicial Service",
+        "Law Practice",
+        "Legal Reforms"
+      ],
+      "source": {
+        "title": "Supreme Court trims law practice requirement to 1 year for judicial service",
+        "url": "https://www.thehindu.com/news/national/supreme-court-reduces-three-year-mandatory-legal-practice-to-one-year-for-the-entry-level-judicial-exam/article71372618.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q25",
+      "question": "Which defunct scheme was recently lauded by a three-judge Bench of the Supreme Court as a 'good, effective scheme' while hearing a petition on delayed wages?",
+      "options": [
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Swachh Bharat Abhiyan",
+        "MGNREGA",
+        "Beti Bachao Beti Padhao"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "A three-judge Bench of the Supreme Court lauded the scrapped Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) scheme, calling it a 'good, effective scheme' while hearing a petition on delayed wages under the defunct program.",
+      "background": "The MGNREGA scheme, though defunct, was aimed at enhancing livelihood security in rural areas by providing at least 100 days of wage employment in a financial year to every household whose adult members volunteer to do unskilled manual work. The Supreme Court's commendation highlights its past impact.",
+      "examRelevance": "Supreme Court lauded the scrapped MGNREGA scheme as 'good, effective'.",
+      "tags": [
+        "MGNREGA",
+        "Supreme Court",
+        "Schemes",
+        "Rural Employment"
+      ],
+      "source": {
+        "title": "Supreme Court lauds scrapped MGNREGA as a ‘good, effective scheme’",
+        "url": "https://www.thehindu.com/news/national/supreme-court-lauds-scrapped-mgnrega-scheme-calls-it-neither-freebie-nor-exploitation/article71373402.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q26",
+      "question": "U.S. Ambassador Sergio Gor recently visited J&K and Ladakh, where he met Chief Minister Omar Abdullah in Srinagar. This visit aimed to strengthen bilateral ties between which two nations?",
+      "options": [
+        "U.S. and India",
+        "U.S. and China",
+        "U.S. and Afghanistan",
+        "U.S. and Pakistan"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "U.S. Ambassador Sergio Gor visited J&K and Ladakh, meeting Chief Minister Omar Abdullah in Srinagar to discuss strengthening bilateral ties. The U.S. Embassy stated that the visit highlighted the growing U.S.-India partnership through meaningful dialogue.",
+      "background": "Such high-level diplomatic visits underscore the importance of regional engagement and bilateral relations. The visit to both J&K and Ladakh signifies a comprehensive approach to understanding and fostering ties across diverse regions of India.",
+      "examRelevance": "U.S. Ambassador Sergio Gor visited J&K and Ladakh to strengthen U.S.-India partnership.",
+      "tags": [
+        "Sergio Gor",
+        "US Ambassador",
+        "J&K",
+        "Ladakh",
+        "India-US Relations"
+      ],
+      "source": {
+        "title": "‘Sergio Gor’s J&K and Ladakh visit highlights growing U.S.-India partnership through meaningful dialogue’",
+        "url": "https://www.thehindu.com/news/national/sergio-gors-jk-and-ladakh-visit-highlights-growing-us-india-partnership-through-meaningful-dialogue/article71374597.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q27",
+      "question": "The International RBSM recently concluded in Visakhapatnam, resulting in the signing of how many Memoranda of Understanding (MoUs)?",
+      "options": [
+        "95",
+        "88",
+        "64",
+        "72"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The International RBSM recently concluded in Visakhapatnam, where a total of 88 Memoranda of Understanding (MoUs) were signed. This event signifies significant economic and business engagements.",
+      "background": "Such international summits and business meets are crucial for attracting investments, fostering collaborations, and promoting economic growth in the host region and country. The large number of MoUs indicates successful outcomes.",
+      "examRelevance": "International RBSM in Visakhapatnam concluded with 88 MoUs.",
+      "tags": [
+        "International RBSM",
+        "Visakhapatnam",
+        "MoUs",
+        "Economy & Business"
+      ],
+      "source": {
+        "title": "International RBSM concludes with 88 MoUs in Visakhapatnam",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/international-rbsm-concludes-with-88-mous-in-visakhapatnam/article71374379.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q28",
+      "question": "Which Chief Minister's proposed U.S. visit was recently denied permission by the Centre, after the official delegation had already reached the U.K.?",
+      "options": [
+        "K. Chandrashekar Rao",
+        "Basavaraj Bommai",
+        "M.K. Stalin",
+        "Revanth Reddy"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Centre recently denied permission for Telangana Chief Minister Revanth Reddy's proposed U.S. visit. The State government was informed of the denial after the official delegation had already reached the U.K.",
+      "background": "Permission from the Union government is typically required for Chief Ministers and other state officials to undertake official foreign visits. Such denials, especially after a delegation has already departed, can lead to political controversies.",
+      "examRelevance": "Centre denied permission for Telangana CM Revanth Reddy's U.S. visit.",
+      "tags": [
+        "Revanth Reddy",
+        "Telangana CM",
+        "US Visit",
+        "Centre-State Relations"
+      ],
+      "source": {
+        "title": "Centre denies permission for Telangana CM Revanth Reddy’s U.S. visit",
+        "url": "https://www.thehindu.com/news/national/telangana/centre-denies-permission-for-revanth-reddys-us-visit/article71372263.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q29",
+      "question": "Which state government, through its KEO initiative, announced plans to take AI computing to every government school in the state?",
+      "options": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Karnataka Deputy Chief Minister D.K. Shivakumar announced that the state government, through its KEO initiative, plans to take AI computing to every government school in Karnataka.",
+      "background": "This initiative aims to integrate advanced technology into public education, preparing students for the future workforce. Providing AI computing access to government schools can help bridge the digital divide and enhance learning opportunities.",
+      "examRelevance": "Karnataka government to take AI computing to every government school via KEO initiative.",
+      "tags": [
+        "Karnataka",
+        "AI Computing",
+        "Government Schools",
+        "KEO Initiative",
+        "Education"
+      ],
+      "source": {
+        "title": "KEO to take AI computing to every government school in Karnataka: Shivakumar",
+        "url": "https://www.thehindu.com/news/national/karnataka/keo-to-take-ai-computing-to-every-government-school-in-karnataka-shivakumar/article71375096.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-22-q30",
+      "question": "Which state's cabinet recently cleared proposals for the installation of AI surveillance cameras and portable signal jammers in its prisons?",
+      "options": [
+        "Gujarat",
+        "Karnataka",
+        "Maharashtra",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Karnataka Cabinet recently cleared proposals for the installation of AI surveillance cameras and portable signal jammers for prisons in the state. This move aims to enhance security and prevent illegal communication within correctional facilities.",
+      "background": "The use of advanced technology like AI surveillance and signal jammers is part of modernizing prison management and addressing issues like illegal mobile phone usage and security breaches. However, residents around Parappana Agrahara prison fear network disruptions.",
+      "examRelevance": "Karnataka Cabinet cleared AI surveillance cameras and portable signal jammers for prisons.",
+      "tags": [
+        "Karnataka",
+        "Prisons",
+        "AI Surveillance",
+        "Signal Jammers",
+        "Security"
+      ],
+      "source": {
+        "title": "Cabinet clears AI surveillance cameras and portable signal jammers for prisons",
+        "url": "https://www.thehindu.com/news/national/karnataka/cabinet-clears-ai-surveillance-cameras-and-portable-signal-jammers-for-prisons/article71374512.ece"
+      }
+    }
+  ]
+}
