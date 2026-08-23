@@ -1,0 +1,2560 @@
+{
+  "id": "weekly-2026-W34",
+  "type": "weekly",
+  "date": "2026-08-23",
+  "title": "Weekly Current Affairs — Week 34, 2026",
+  "questionCount": 100,
+  "questions": [
+    {
+      "id": "weekly-2026-W34-q1",
+      "question": "Which team recently entered the semi-finals of the Men’s Hockey World Cup, while India was on the brink of elimination?",
+      "options": [
+        "Netherlands",
+        "Australia",
+        "Germany",
+        "Belgium"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "The Dutch team recently entered the semi-finals of the Men’s Hockey World Cup. Meanwhile, the home side, India, was on the brink of elimination, languishing at the bottom of Pool E, despite a slim hope due to Argentina’s victory over England.",
+      "background": "The Men's Hockey World Cup is one of the most prestigious tournaments in international field hockey. Advancing to the semi-finals is a significant achievement, placing a team among the top contenders for the championship title.",
+      "examRelevance": "Dutch team = entered Men’s Hockey World Cup semi-finals.",
+      "tags": [
+        "Men's Hockey World Cup",
+        "Netherlands",
+        "India",
+        "Hockey",
+        "Sports"
+      ],
+      "source": {
+        "title": "Men’s hockey World Cup: Dutch enter semis; India on the brink of elimination",
+        "url": "https://www.thehindu.com/sport/hockey/mens-hockey-world-cup-dutch-enter-semis-india-on-the-brink-of-elimination/article71378854.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q2",
+      "question": "Which state government recently sanctioned ₹30 lakh for completing a carrying-capacity study of its hill stations, such as Wayanad and Idukki, to assess environmental and infrastructural impact?",
+      "options": [
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka",
+        "Himachal Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The Kerala government recently sanctioned ₹30 lakh for completing a carrying-capacity study of its hill stations, including Wayanad and Idukki. This study aims to rein in mass tourism and assess its environmental and infrastructural impact on these ecologically sensitive areas.",
+      "background": "Carrying capacity studies are vital for sustainable tourism development, ensuring that popular destinations are not overexploited and their natural resources are preserved. This initiative reflects Kerala's commitment to responsible tourism.",
+      "examRelevance": "Kerala sanctioned ₹30 lakh for hill station carrying-capacity study.",
+      "tags": [
+        "Kerala",
+        "Carrying Capacity Study",
+        "Hill Stations",
+        "Environment",
+        "Tourism"
+      ],
+      "source": {
+        "title": "Carrying capacity study of hill stations in Keralam remains incomplete",
+        "url": "https://www.thehindu.com/news/national/kerala/carrying-capacity-study-of-hill-stations-in-keralam-remains-incomplete/article71365663.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q3",
+      "question": "According to an opinion piece, who is mentioned as the Prime Minister of Bangladesh, leading its democratic journey?",
+      "options": [
+        "Sheikh Hasina",
+        "Tarique Rahman",
+        "Muhammad Yunus",
+        "Khaleda Zia"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "An opinion piece mentions Tarique Rahman as the Prime Minister of Bangladesh, under whom the country's democratic journey seeks inclusion, equality, dignity, and accountable governance.",
+      "background": "Tarique Rahman is a prominent figure in Bangladeshi politics, son of former President Ziaur Rahman and former Prime Minister Khaleda Zia. While the news item presents him as the current PM in an opinion piece, it's important to note the political context of Bangladesh and different political factions.",
+      "examRelevance": "Bangladesh PM mentioned in opinion piece = Tarique Rahman.",
+      "tags": [
+        "Tarique Rahman",
+        "Bangladesh",
+        "Prime Minister",
+        "Polity"
+      ],
+      "source": {
+        "title": "A vision for an inclusive Bangladesh",
+        "url": "https://www.thehindu.com/opinion/op-ed/a-vision-for-an-inclusive-bangladesh/article71361607.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q4",
+      "question": "The cultural festival 'Lavanyam 2026', featuring around 40 cultural programmes across 15 venues, is set to kick-start in which city?",
+      "options": [
+        "Thiruvananthapuram",
+        "Kochi (Ernakulam)",
+        "Kozhikode",
+        "Thrissur"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "The cultural festival 'Lavanyam 2026' is scheduled to kick-start on August 24 in Ernakulam. The festival will feature around 40 cultural programmes staged across 15 different venues, with the main venue being the Durbar Hall open-air auditorium.",
+      "background": "Cultural festivals like 'Lavanyam' play a vital role in promoting local art forms, traditions, and artists. Hosting such a large-scale event across multiple venues indicates a significant cultural celebration in the region, attracting both local talent and audiences.",
+      "examRelevance": "'Lavanyam 2026' cultural festival = to be held in Ernakulam.",
+      "tags": [
+        "Lavanyam 2026",
+        "Ernakulam",
+        "Kerala",
+        "Cultural Festival",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "‘Lavanyam 2026’ to kick-start on August 24",
+        "url": "https://www.thehindu.com/news/national/kerala/lavanyam-2026-to-kick-start-on-august-24/article71377447.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q5",
+      "question": "A photo exhibition titled ‘Beyond Words’, featuring around 30 photographs by local photojournalists, recently began in which city of Kerala?",
+      "options": [
+        "Kozhikode",
+        "Thiruvananthapuram",
+        "Kochi",
+        "Alappuzha"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "A photo exhibition titled ‘Beyond Words’ recently began in Kozhikode, Kerala. The exhibition features approximately 30 photographs contributed by photojournalists from various dailies in Kozhikode, showcasing their work.",
+      "background": "Such exhibitions provide a platform for local photojournalists to display their talent and offer the public a visual narrative of events and life. It contributes to the cultural vibrancy of the city.",
+      "examRelevance": "‘Beyond Words’ photo exhibition began in Kozhikode, Kerala.",
+      "tags": [
+        "Kozhikode",
+        "Photo Exhibition",
+        "Art & Culture",
+        "Kerala"
+      ],
+      "source": {
+        "title": "‘Beyond Words’ photo exhibition begins in Keralam’s Kozhikode",
+        "url": "https://www.thehindu.com/news/national/kerala/beyond-words-photo-exhibition-begins-in-keralams-kozhikode/article71365630.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q6",
+      "question": "The construction activities around which marshland are currently being debated, with the TNSWA suggesting regulation rather than a ban to the Madras High Court?",
+      "options": [
+        "Chitrangudi Bird Sanctuary",
+        "Pallikaranai marshland",
+        "Point Calimere Wildlife and Bird Sanctuary",
+        "Vedanthangal Bird Sanctuary"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The Tamil Nadu State Wetland Authority (TNSWA) has informed the Madras High Court that construction activities around the Pallikaranai marshland can be regulated, rather than banned entirely. This proposal includes an interim 'Zone of Influence' prepared by the National Centre for Sustainable Coastal Management.",
+      "background": "Pallikaranai marshland is a significant wetland ecosystem in Chennai, Tamil Nadu, playing a crucial role in flood mitigation and biodiversity conservation. Balancing urban development with environmental protection is a recurring challenge in rapidly growing cities.",
+      "examRelevance": "Pallikaranai marshland and debate over construction activities.",
+      "tags": [
+        "Pallikaranai marshland",
+        "Environment",
+        "TNSWA",
+        "Madras High Court",
+        "Wetland conservation"
+      ],
+      "source": {
+        "title": "Construction activities around Pallikaranai marshland can be regulated, not banned: TNSWA tells Madras High Court",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/construction-activities-around-pallikaranai-marshland-can-be-regulated-not-banned-tnswa-tells-madras-high-court/article71369543.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q7",
+      "question": "Which political leader recently made a '25 paise' remark that triggered a row with RLD chief Jayant Chaudhary, who demanded an apology?",
+      "options": [
+        "Akhilesh Yadav",
+        "Yogi Adityanath",
+        "Priyanka Gandhi",
+        "Mayawati"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Akhilesh Yadav's '25 paise' remark triggered a row with RLD chief Jayant Chaudhary, who criticized the comment as targeting the Jat community. Mayawati also demanded an apology from Akhilesh Yadav for insulting the family of Charan Singh.",
+      "background": "The RLD (Rashtriya Lok Dal) has a significant support base among the Jat community in Uttar Pradesh. Such remarks during political discourse often lead to controversy, especially when perceived as targeting specific communities or historical figures associated with them.",
+      "examRelevance": "Akhilesh Yadav's '25 paise' remark = triggered row with RLD chief Jayant Chaudhary.",
+      "tags": [
+        "Akhilesh Yadav",
+        "Jayant Chaudhary",
+        "RLD",
+        "Uttar Pradesh Politics",
+        "Jat Community"
+      ],
+      "source": {
+        "title": "Akhilesh’s ‘25 paise’ remark triggers row with RLD, Mayawati demands apology",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-must-apologise-to-jats-for-insulting-family-of-charan-singh-mayawati/article71376609.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q8",
+      "question": "Which team from the Tamil Nadu Premier League (TNPL) recently secured a spot in Qualifier 1, also helping Tamizhans advance to the next stage?",
+      "options": [
+        "Madurai Panthers",
+        "Salem Spartans",
+        "Nellai Royal Kings",
+        "Chepauk Super Gillies"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "In the Tamil Nadu Premier League (TNPL), the Panthers sealed their spot in Qualifier 1. This result also played a role in helping the Tamizhans advance to the next stage of the tournament.",
+      "background": "The TNPL is a professional Twenty20 cricket league contested by teams representing various districts in Tamil Nadu, India. Securing a Qualifier 1 spot is a significant achievement, placing the team in a strong position for the playoffs.",
+      "examRelevance": "Panthers = sealed Qualifier 1 spot in TNPL.",
+      "tags": [
+        "TNPL",
+        "Cricket",
+        "Panthers",
+        "Tamil Nadu",
+        "Qualifier 1"
+      ],
+      "source": {
+        "title": "TNPL: Panthers seal Qualifier 1 spot, help Tamizhans advance to the next stage",
+        "url": "https://www.thehindu.com/sport/panthers-seal-qualifier-1-spot-help-tamizhans-advance-to-the-next-stage/article71378568.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q9",
+      "question": "According to recent reports, over 2.07 crore voter enumeration forms remain uncollected in which Indian state, raising concerns about the accuracy of the electoral roll?",
+      "options": [
+        "West Bengal",
+        "Maharashtra",
+        "Uttar Pradesh",
+        "Bihar"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "In Maharashtra, over 2.07 crore voter enumeration forms have remained uncollected, prompting concerns from political parties regarding the integrity of the voter verification process. Allegations include Booth Level Officers (BLOs) conducting surveys from their desks with inputs from political workers.",
+      "background": "The process of voter enumeration and verification is crucial for maintaining an accurate electoral roll. Such large numbers of uncollected forms can lead to issues like duplicate voters, which was also alleged by former CM Prithviraj Chavan.",
+      "examRelevance": "Maharashtra = Over 2.07 crore uncollected voter enumeration forms.",
+      "tags": [
+        "Maharashtra",
+        "Voter Enumeration",
+        "Electoral Roll",
+        "Rohit Pawar"
+      ],
+      "source": {
+        "title": "Over 2.07 crore voter enumeration forms remain uncollected in Maharashtra",
+        "url": "https://www.thehindu.com/news/national/maharashtra/over-207-crore-voter-enumeration-forms-remain-uncollected-in-maharashtra/article71357458.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q10",
+      "question": "Who has been chosen by Donald Trump to lead the Food and Drug Administration (FDA)?",
+      "options": [
+        "Stephen Hahn",
+        "Robert Califf",
+        "Janet Woodcock",
+        "Heidi Overton"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Donald Trump has selected Heidi Overton to run the Food and Drug Administration (FDA). This nomination comes as part of potential changes in key leadership roles.",
+      "background": "The U.S. Food and Drug Administration (FDA) is a federal agency of the Department of Health and Human Services. It is responsible for protecting public health by ensuring the safety, efficacy, and security of human and veterinary drugs, biological products, medical devices, our nation’s food supply, cosmetics, and products that emit radiation.",
+      "examRelevance": "Trump's pick for FDA head = Heidi Overton.",
+      "tags": [
+        "Donald Trump",
+        "Heidi Overton",
+        "FDA",
+        "Appointments"
+      ],
+      "source": {
+        "title": "Trump picks Heidi Overton to run FDA",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-picks-heidi-overton-to-run-food-and-drug-administration-bloomberg-news-reports/articleshow/133334726.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q11",
+      "question": "Calicut University has conceived the 'ASCENT' project as a special mission to enhance the academic and administrative standards of its affiliated colleges. Which university is associated with this project?",
+      "options": [
+        "Calicut University",
+        "Mahatma Gandhi University",
+        "Cochin University of Science and Technology",
+        "University of Kerala"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "Calicut University authorities have conceived the 'ASCENT' project as a special mission. Its objective is to enhance the academic and administrative standards of its affiliated colleges spread across five districts in Kerala.",
+      "background": "The ASCENT project aims to bring about comprehensive improvements in higher education institutions under Calicut University. Initiatives like these are crucial for educational development and quality enhancement in state universities.",
+      "examRelevance": "Calicut University's 'ASCENT' project.",
+      "tags": [
+        "Calicut University",
+        "ASCENT project",
+        "Education",
+        "Kerala",
+        "University standards"
+      ],
+      "source": {
+        "title": "DPR for Calicut varsity’s ASCENT project to be ready soon",
+        "url": "https://www.thehindu.com/news/national/kerala/dpr-for-calicut-varsitys-ascent-project-to-be-ready-soon/article71365583.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q12",
+      "question": "Which BJP MLA from Uttar Pradesh recently alleged caste discrimination at a temple event and urged PM Modi and CM Adityanath to take notice?",
+      "options": [
+        "Jai Devi Kaushal",
+        "Smriti Irani",
+        "Anupriya Patel",
+        "Rita Bahuguna Joshi"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "BJP MLA Jai Devi Kaushal from Uttar Pradesh recently alleged caste discrimination at a temple event. She urged Prime Minister Narendra Modi and Uttar Pradesh Chief Minister Yogi Adityanath to take notice of the incident.",
+      "background": "Incidents of alleged caste discrimination, particularly in public or religious spaces, often lead to social and political discourse, highlighting ongoing challenges despite legal prohibitions against discrimination.",
+      "examRelevance": "BJP MLA Jai Devi Kaushal's allegation of caste discrimination.",
+      "tags": [
+        "Jai Devi Kaushal",
+        "BJP",
+        "Uttar Pradesh",
+        "Caste discrimination",
+        "Temple event"
+      ],
+      "source": {
+        "title": "BJP MLA Jai Devi Kaushal alleges caste discrimination at Uttar Pradesh temple event",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-mla-jai-devi-kaushal-alleges-caste-discrimination-at-uttar-pradesh-temple-event/article71370237.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q13",
+      "question": "Who is the current Chairman of the Securities and Exchange Board of India (SEBI) who recently stated that the regulator will examine and address issues in the new Closing Auction Session (CAS) but ruled out scrapping the mechanism?",
+      "options": [
+        "G. Mahalingam",
+        "Tuhin Kanta Pandey",
+        "Ajay Tyagi",
+        "Madhabi Puri Buch"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "Securities and Exchange Board of India Chairman Tuhin Kanta Pandey recently stated that SEBI will examine and address concerns regarding the new Closing Auction Session (CAS), but he ruled out scrapping the mechanism. He emphasized that CAS is here to stay.",
+      "background": "The Closing Auction Session (CAS) is a trading mechanism designed to determine closing prices more efficiently and reduce volatility at the end of the trading day. SEBI, as the market regulator, frequently introduces and reviews such mechanisms to ensure market integrity and fairness.",
+      "examRelevance": "SEBI Chairman = Tuhin Kanta Pandey, rules out CAS rollback.",
+      "tags": [
+        "SEBI",
+        "Tuhin Kanta Pandey",
+        "Closing Auction Session",
+        "Capital Markets"
+      ],
+      "source": {
+        "title": "Sebi chair rules out CAS rollback; assures commitment to resolving ongoing issues",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-chair-rules-out-cas-rollback-assures-commitment-to-resolving-ongoing-financial-issues/articleshow/133308903.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q14",
+      "question": "According to the Delhi Police affidavit in the Supreme Court, how many police personnel were injured during the July 20 violence amidst student protests?",
+      "options": [
+        "Over 240",
+        "Around 100",
+        "Approximately 350",
+        "More than 500"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Delhi Police affidavit submitted to the Supreme Court stated that over 240 police personnel, including women officers, were injured during the violence on July 20 amidst student protests. Additionally, around 218 protestors were also injured and received treatment.",
+      "background": "Student protests, often related to examination results or recruitment processes like NEET, can sometimes escalate into confrontations with law enforcement. Such affidavits provide official accounts of events and are part of judicial proceedings.",
+      "examRelevance": "Delhi Police injured personnel in July 20 student protests = over 240.",
+      "tags": [
+        "Delhi Police",
+        "Student Protests",
+        "Violence",
+        "Injured Personnel",
+        "Supreme Court"
+      ],
+      "source": {
+        "title": "Student protests: Delhi Police affidavit in Supreme Court is rich with numbers, but quiet on fixing accountability",
+        "url": "https://www.thehindu.com/news/national/neet-protests-delhi-police-affidavit-in-supreme-court-is-rich-with-numbers-but-quiet-on-fixing-accountability/article71361703.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q15",
+      "question": "Which National Institute of Technology (NIT) recently recorded its highest-ever undergraduate intake of over 1,600 students, including BTech, BArch, and ITEP BSc-BEd programmes?",
+      "options": [
+        "NIT-Surathkal",
+        "NIT-Warangal",
+        "NIT-Trichy",
+        "NIT-Calicut"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "NIT-Calicut has recorded its highest-ever undergraduate (UG) intake, welcoming over 1,600 students. This record-breaking cohort includes students enrolling in BTech, BArch, and ITEP BSc-BEd programmes, reflecting increased demand and capacity.",
+      "background": "National Institutes of Technology (NITs) are premier public technical universities under the Ministry of Education, Government of India. Achieving a record intake signifies the institution's growing appeal and its efforts to expand educational opportunities.",
+      "examRelevance": "NIT-Calicut recorded its highest-ever UG intake of over 1,600 students.",
+      "tags": [
+        "NIT-Calicut",
+        "Education",
+        "Higher Education",
+        "Student Intake"
+      ],
+      "source": {
+        "title": "NIT-Calicut records highest-ever UG intake of over 1,600 students",
+        "url": "https://www.thehindu.com/news/national/kerala/nit-calicut-records-highest-ever-ug-intake-of-over-1600-students/article71365189.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q16",
+      "question": "What is the new annual allocation for archaeological excavations in Tamil Nadu, recently increased by the state government?",
+      "options": [
+        "₹15 crore",
+        "₹2 crore",
+        "₹10 crore",
+        "₹5 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Tamil Nadu government has increased its annual allocation for archaeological excavations to ₹10 crore. Additionally, a modern archaeological laboratory will be established at a cost of ₹2 crore to conduct scientific analyses of unearthed artefacts and samples.",
+      "background": "Tamil Nadu has a rich archaeological heritage, and increased funding aims to boost research and preservation efforts. The new laboratory will enhance the scientific rigor of archaeological studies in the state.",
+      "examRelevance": "Tamil Nadu's annual allocation for archaeological excavations increased to ₹10 crore.",
+      "tags": [
+        "Tamil Nadu",
+        "Archaeology",
+        "State Budget",
+        "Culture"
+      ],
+      "source": {
+        "title": "Annual allocation for archaeological excavations increased to ₹10 crore in T.N.",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/annual-allocation-for-archaeological-excavations-increased-to-10-crore-in-tn/article71365626.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q17",
+      "question": "Nancy Kassebaum Baker, who recently passed away at 94, was a former U.S. Senator from which state?",
+      "options": [
+        "New York",
+        "California",
+        "Texas",
+        "Kansas"
+      ],
+      "answerIndex": 3,
+      "category": "Obituaries",
+      "explanation": "Nancy Kassebaum Baker, a former U.S. Senator from Kansas, passed away at the age of 94. She was first elected to the U.S. Senate in 1978 and served three terms, making significant contributions during her tenure.",
+      "background": "Nancy Kassebaum Baker was a notable figure in American politics, known for her moderate Republican stance and focus on healthcare and education. Her passing marks the end of an era for a respected public servant.",
+      "examRelevance": "Nancy Kassebaum Baker = former U.S. Senator from Kansas.",
+      "tags": [
+        "Obituary",
+        "Nancy Kassebaum Baker",
+        "U.S. Senator",
+        "Kansas"
+      ],
+      "source": {
+        "title": "Nancy Kassebaum Baker, former U.S. senator from Kansas, dies at 94",
+        "url": "https://www.thehindu.com/news/international/nancy-kassebaum-baker-former-us-senator-from-kansas-dies-at-94/article71378927.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q18",
+      "question": "From which date will the Maharashtra Transport Department begin taking action against drivers who do not possess Marathi language knowledge?",
+      "options": [
+        "August 25",
+        "September 1",
+        "September 5",
+        "August 20"
+      ],
+      "answerIndex": 3,
+      "category": "Dates & Days",
+      "explanation": "The Maharashtra Transport Department will begin taking action against drivers who do not possess Marathi language knowledge from August 20. The State Transport Department will send notices to drivers who refuse to learn the language or violate the rules.",
+      "background": "This policy aims to ensure that public service drivers in Maharashtra are able to communicate effectively in the local language, which can be crucial for passenger safety and local administration. It reflects a broader emphasis on regional language proficiency.",
+      "examRelevance": "Maharashtra Transport Dept. to act against non-Marathi speaking drivers from August 20.",
+      "tags": [
+        "Maharashtra",
+        "Marathi Language",
+        "Transport Department",
+        "Policy"
+      ],
+      "source": {
+        "title": "Action against drivers without Marathi knowledge from August 20: Maharashtra Minister",
+        "url": "https://www.thehindu.com/news/national/maharashtra/action-against-drivers-without-marathi-knowledge-from-aug-20-maharashtra-minister/article71364236.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q19",
+      "question": "The Forward Seamen’s Union of India recently reported that shipowners and managers are allegedly pressuring its 16 Indian crew members to transit the high-risk Strait of Hormuz. Which vessel are these sailors aboard?",
+      "options": [
+        "MV Ocean Pride",
+        "SS Marine Spirit",
+        "AM Pioneer",
+        "MT Global Voyager"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The Forward Seamen’s Union of India has raised an alarm, stating that the shipowners and managers of the vessel AM Pioneer are 'pressuring the Master to force its 16 Indian crew to transit the high-risk Strait of Hormuz.'",
+      "background": "The Strait of Hormuz is a strategically important waterway connecting the Persian Gulf to the Arabian Sea, known for its geopolitical tensions and risks to shipping. This incident highlights the dangers faced by seafarers in conflict zones.",
+      "examRelevance": "AM Pioneer = vessel with 16 Indian crew pressured to cross Strait of Hormuz.",
+      "tags": [
+        "Strait of Hormuz",
+        "Indian Sailors",
+        "AM Pioneer",
+        "Maritime Safety"
+      ],
+      "source": {
+        "title": "Indian sailors’ SOS: ‘Company asking us to risk lives, cross Strait of Hormuz’",
+        "url": "https://www.thehindu.com/news/national/indian-sailors-sos-company-asking-us-to-risk-lives-cross-strait-of-hormuz/article71357907.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q20",
+      "question": "What is the estimated value of family wealth that may change hands in India over the next 10 years, according to recent projections?",
+      "options": [
+        "$1 trillion",
+        "$500 billion",
+        "$1.5 trillion",
+        "$2 trillion"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Recent projections indicate that family wealth worth an estimated $1.5 trillion may change hands in India over the next 10 years. This significant intergenerational transfer of wealth is a key economic trend.",
+      "background": "Wealth transfer, particularly within families, has substantial implications for investment patterns, consumption, and the overall economic landscape. This projection highlights the growing affluence and the dynamics of wealth management in India.",
+      "examRelevance": "India may see $1.5 trillion family wealth shift in 10 years.",
+      "tags": [
+        "India",
+        "Family Wealth",
+        "Economy",
+        "Wealth Management"
+      ],
+      "source": {
+        "title": "India may see $1.5 tn family wealth shift",
+        "url": "https://economictimes.indiatimes.com/news/economy/finance/india-may-see-family-wealth-worth-1-5-trillion-change-hands-in-10-years/articleshow/133358392.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q21",
+      "question": "Who has recently been named as the BJP’s new national social media convener, bringing a bigger profile and formidable challenge to the 58-year-old Chemistry professor-turned-politician from Chhattisgarh?",
+      "options": [
+        "Deepak Mhaskey",
+        "Amit Malviya",
+        "Priti Gandhi",
+        "Tajinder Pal Singh Bagga"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Deepak Mhaskey, a 58-year-old Chemistry professor-turned-politician from Chhattisgarh, has been named as the BJP’s new national social media convener. This appointment comes with a significant profile and challenges in managing the party's digital presence.",
+      "background": "The role of social media conveners has become increasingly critical in modern political campaigning and communication. This appointment signifies the BJP's ongoing efforts to strengthen its digital outreach and messaging strategy.",
+      "examRelevance": "Deepak Mhaskey = new BJP national social media convener.",
+      "tags": [
+        "Deepak Mhaskey",
+        "BJP",
+        "Social Media Convener",
+        "Political Appointment"
+      ],
+      "source": {
+        "title": "Bigger profile comes with a formidable challenge for Deepak Mhaskey",
+        "url": "https://www.thehindu.com/news/national/bigger-profile-comes-with-a-formidable-challenge-for-deepak-mhaskey/article71357713.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q22",
+      "question": "Cochin Shipyard recently delivered INS Mangrol to the Indian Navy. This vessel is named after a coastal township in which Indian state?",
+      "options": [
+        "Gujarat",
+        "Goa",
+        "Kerala",
+        "Maharashtra"
+      ],
+      "answerIndex": 0,
+      "category": "Defence",
+      "explanation": "Cochin Shipyard delivered INS Mangrol to the Indian Navy. The vessel is named after the coastal township of Mangrol in Gujarat, continuing the tradition of naming naval ships after significant Indian locations.",
+      "background": "The delivery of new vessels like INS Mangrol is crucial for modernizing and strengthening the Indian Navy's fleet. Cochin Shipyard Limited (CSL) is a major shipbuilding and repair yard in India, contributing significantly to indigenous defence capabilities.",
+      "examRelevance": "Cochin Shipyard delivered INS Mangrol to the Indian Navy, named after Mangrol in Gujarat.",
+      "tags": [
+        "INS Mangrol",
+        "Indian Navy",
+        "Cochin Shipyard",
+        "Gujarat",
+        "Defence"
+      ],
+      "source": {
+        "title": "Cochin Shipyard delivers INS Mangrol to Indian Navy",
+        "url": "https://www.thehindu.com/news/national/kerala/csl-delivers-ins-mangrol-to-indian-navy/article71374982.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q23",
+      "question": "A weak monsoon has led to a severe water crisis and sharpened tensions between which two Indian states over Cauvery river water sharing?",
+      "options": [
+        "Andhra Pradesh and Karnataka",
+        "Karnataka and Tamil Nadu",
+        "Telangana and Maharashtra",
+        "Kerala and Tamil Nadu"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "A weak monsoon has left farmers on both sides of the Cauvery struggling with dwindling water supplies, sharpening tensions between Karnataka and Tamil Nadu. Karnataka faces pressure to release water to Tamil Nadu, where large tracts of paddy fields remain barren.",
+      "background": "The Cauvery water dispute is a long-standing inter-state issue, particularly acute during periods of deficient rainfall. The Supreme Court and various tribunals have previously intervened to establish water-sharing formulas.",
+      "examRelevance": "Karnataka and Tamil Nadu are experiencing heightened tensions over Cauvery water sharing due to a weak monsoon.",
+      "tags": [
+        "Cauvery Water Dispute",
+        "Karnataka",
+        "Tamil Nadu",
+        "Monsoon",
+        "Water Crisis"
+      ],
+      "source": {
+        "title": "A dry spell along the Cauvery",
+        "url": "https://www.thehindu.com/news/national/farmers-along-the-cauvery-face-a-severe-water-crisis-and-tensions-between-karnataka-and-tamil-nadu/article71373960.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q24",
+      "question": "Which Indian city recently hosted an international conference on Neurodiversity and Inclusion?",
+      "options": [
+        "Mumbai",
+        "Bengaluru",
+        "Chennai",
+        "Delhi"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "Bengaluru recently hosted an international conference on Neurodiversity and Inclusion. Such conferences bring together experts and advocates to discuss strategies for creating more inclusive environments for neurodivergent individuals.",
+      "background": "Neurodiversity acknowledges that neurological differences are natural variations of the human brain, rather than disorders. Conferences on this topic aim to promote understanding, acceptance, and support for individuals with conditions like autism, ADHD, and dyslexia in various societal contexts, including education and employment.",
+      "examRelevance": "Bengaluru = hosted international conference on Neurodiversity and Inclusion.",
+      "tags": [
+        "Bengaluru",
+        "Neurodiversity",
+        "Inclusion",
+        "Conference"
+      ],
+      "source": {
+        "title": "Bengaluru hosts international conference on Neurodiversity and Inclusion",
+        "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-hosts-international-conference-on-neurodiversity-and-inclusion/article71378679.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q25",
+      "question": "Who recently received the Dronacharya award for his coaching contributions to boxing, notably training Mary Kom and Jaismine?",
+      "options": [
+        "Ramakant Achrekar",
+        "G. Manoharan",
+        "Chhote Lal",
+        "Sandeep Gupta"
+      ],
+      "answerIndex": 2,
+      "category": "Awards & Honours",
+      "explanation": "Chhote Lal recently received the Dronacharya award for his contributions as a boxing coach. He is known for extending Mary Kom's established career and rebuilding young boxer Jaismine after a difficult phase, demonstrating his adaptive coaching style.",
+      "background": "The Dronacharya Award is India's highest honour for sports coaches, recognizing those who have consistently enabled sportspersons to excel in international competitions. Chhote Lal's award highlights his significant impact on Indian boxing.",
+      "examRelevance": "Chhote Lal received the Dronacharya award for boxing coaching.",
+      "tags": [
+        "Chhote Lal",
+        "Dronacharya Award",
+        "Boxing",
+        "Sports Coaches"
+      ],
+      "source": {
+        "title": "Chhote Lal’s quiet craft earns him the Dronacharya award",
+        "url": "https://www.thehindu.com/sport/chhote-lals-quiet-craft-earns-him-the-dronacharya-award/article71366681.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q26",
+      "question": "Bihar Chief Minister Samrat Choudhary recently announced that mining activities will resume in the state after which specific date, with an assurance that mineral royalties would be used for public welfare?",
+      "options": [
+        "September 15",
+        "December 15",
+        "November 15",
+        "October 15"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Bihar Chief Minister Samrat Choudhary announced that mining activities in the state will resume after October 15. He assured that mineral royalties generated would be utilized for the welfare of the people and the state's development.",
+      "background": "Mining operations are a significant source of revenue for many states. Decisions regarding their resumption often involve balancing economic benefits with environmental concerns and ensuring proper regulation to prevent misuse of mineral wealth.",
+      "examRelevance": "Bihar CM Samrat Choudhary = mining to resume after October 15.",
+      "tags": [
+        "Bihar",
+        "Mining",
+        "Samrat Choudhary",
+        "State Policy"
+      ],
+      "source": {
+        "title": "Mining to resume in Bihar after October 15, says CM Samrat Choudhary",
+        "url": "https://www.thehindu.com/news/national/bihar/mining-to-resume-in-bihar-after-october-15-says-cm-samrat-choudhary/article71356242.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q27",
+      "question": "Which country's humanoid robot recently surpassed Usain Bolt's 100m sprint record at the Beijing Games?",
+      "options": [
+        "South Korea",
+        "United States",
+        "China",
+        "Japan"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "A Chinese humanoid robot recently outran Usain Bolt's 100m sprint record during an event at the Beijing Games. This achievement highlights advancements in robotics and artificial intelligence in China.",
+      "background": "Usain Bolt holds the world record for the men's 100 meters, which is 9.58 seconds. The robot's accomplishment signifies a major milestone in robotic locomotion and speed, pushing the boundaries of what machines can achieve in athletic feats.",
+      "examRelevance": "Chinese humanoid robot = beats Usain Bolt's 100m record.",
+      "tags": [
+        "Robotics",
+        "Humanoid Robot",
+        "China",
+        "Usain Bolt",
+        "100m Record"
+      ],
+      "source": {
+        "title": "Chinese robot outruns Usain Bolt's record",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/chinese-humanoid-robot-beats-usain-bolts-100m-record-at-beijing-games/articleshow/133433403.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q28",
+      "question": "The Kerala Police recently urged homeowners to use the 'Locked House Information' option on their official mobile application for continuous surveillance of vacant homes. What is the name of this official Kerala Police app?",
+      "options": [
+        "Safe Kerala",
+        "Kerala Suraksha",
+        "My Police",
+        "POL-APP"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "The Kerala Police has stepped up vigil against house burglaries and advised homeowners to utilize the 'Locked House Information' option available on their official mobile application, named POL-APP. This feature allows users to register vacant homes for continuous surveillance.",
+      "background": "Digital initiatives and mobile applications are increasingly being used by police forces across India to enhance public safety, improve citizen engagement, and streamline reporting mechanisms. The POL-APP is an example of such a technological intervention.",
+      "examRelevance": "Kerala Police = POL-APP for 'Locked House Information' and surveillance.",
+      "tags": [
+        "Kerala Police",
+        "POL-APP",
+        "Digital Initiative",
+        "Public Safety",
+        "Technology"
+      ],
+      "source": {
+        "title": "Police step up vigil as house burglaries rise across Keralam",
+        "url": "https://www.thehindu.com/news/national/kerala/police-step-up-vigil-as-house-burglaries-rise-across-kerala/article71356259.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q29",
+      "question": "Jay Sunilbharthi Goswami, an Indian national from Gujarat, was recently arrested in which country while attempting to flee to Qatar after being accused of a multi-million-dollar fraud in the U.S.?",
+      "options": [
+        "Mexico",
+        "United Kingdom",
+        "UAE",
+        "Canada"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Jay Sunilbharthi Goswami, 21, a Gujarat native who lived in Jersey City, New Jersey, was detained in Canada while attempting to flee to Qatar. He faces charges in the U.S. for a multi-million-dollar fraud targeting elderly individuals.",
+      "background": "This arrest highlights international cooperation in tackling cross-border financial crimes. Goswami's attempt to flee through Canada before reaching Qatar indicates the global reach of such fraud operations and law enforcement efforts.",
+      "examRelevance": "Jay Sunilbharthi Goswami, an Indian national, was arrested in Canada for U.S. fraud.",
+      "tags": [
+        "Jay Sunilbharthi Goswami",
+        "Fraud",
+        "Canada",
+        "US"
+      ],
+      "source": {
+        "title": "Indian national arrested in U.S. over multi-million-dollar fraud targeting elderly",
+        "url": "https://www.thehindu.com/news/international/indian-national-arrested-in-us-over-multi-million-dollar-fraud-targeting-elderly/article71376436.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q30",
+      "question": "Where are the Asian Games, expecting around 15,000 competitors and officials, scheduled to take place from September 19 to October 4?",
+      "options": [
+        "Doha, Qatar",
+        "Busan, South Korea",
+        "Hangzhou, China",
+        "Nagoya and Aichi, Japan"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "The Asian Games, which are expected to host approximately 15,000 competitors and officials, will take place in Nagoya and the wider Aichi area of Japan from September 19 to October 4.",
+      "background": "The Asian Games are a continental multi-sport event held every four years among athletes from all over Asia. They are the second largest multi-sport event after the Olympic Games. The event brings together athletes from diverse disciplines to compete at a high level.",
+      "examRelevance": "Asian Games 2026 venue = Nagoya and Aichi, Japan (Sep 19-Oct 4).",
+      "tags": [
+        "Asian Games",
+        "Nagoya",
+        "Aichi",
+        "Japan",
+        "Sports Event"
+      ],
+      "source": {
+        "title": "A unique experience awaits athletes at the Asian Games",
+        "url": "https://www.thehindu.com/sport/a-unique-experience-awaits-athletes-at-the-asian-games/article71362418.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q31",
+      "question": "Which former U.S. President recently stated that the U.S. has 'total control' of the Strait of Hormuz and called it 'American territory'?",
+      "options": [
+        "Barack Obama",
+        "Donald Trump",
+        "Joe Biden",
+        "George W. Bush"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "U.S. President Donald Trump recently stated, 'We have total control of that entire region having to do with the Strait of Hormuz, and that means well into it, the land areas.' He also called the Strait of Hormuz 'American territory'.",
+      "background": "These statements were made amidst rising geopolitical tensions in West Asia, particularly concerning U.S.-Iran relations. The Strait of Hormuz is a strategically vital waterway for global oil shipments.",
+      "examRelevance": "Donald Trump called the Strait of Hormuz 'American territory' and claimed 'total control' of the region.",
+      "tags": [
+        "Donald Trump",
+        "Strait of Hormuz",
+        "US",
+        "Iran"
+      ],
+      "source": {
+        "title": "West Asia LIVE: Trump says Iran not ready to make the 'right deal'",
+        "url": "https://www.thehindu.com/news/international/west-asia-war-donald-trump-us-iran-conflict-escalation-strait-of-hormuz-august-22-2026-live-updates/article71376440.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q32",
+      "question": "Team India recently celebrated a Test victory in which Sri Lankan city, while also aiming to address key flaws?",
+      "options": [
+        "Kandy",
+        "Colombo",
+        "Dambulla",
+        "Galle"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Team India recently celebrated a Test victory in Galle, Sri Lanka. The team is now focusing on ironing out flaws ahead of tougher challenges in the series.",
+      "background": "Galle International Stadium is a historic cricket ground located in Galle, Sri Lanka, known for its picturesque setting and often hosting Test matches. India's victory marks an important step in their tour.",
+      "examRelevance": "Location of India's recent Test victory (Galle).",
+      "tags": [
+        "Team India",
+        "Cricket",
+        "Test victory",
+        "Galle",
+        "Sri Lanka"
+      ],
+      "source": {
+        "title": "In glory in Galle, it’s time for Team India to iron out the flaws",
+        "url": "https://www.thehindu.com/sport/cricket/in-glory-in-galle-its-time-for-team-india-to-iron-out-the-flaws/article71369233.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q33",
+      "question": "Which country's intelligence chief, Michele Sensi-Contugi, was recently killed along with his wife and five Americans in a helicopter crash in Kenya?",
+      "options": [
+        "Ecuador",
+        "Colombia",
+        "Peru",
+        "Argentina"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Ecuador’s intelligence chief, Michele Sensi-Contugi, and his wife were among those killed in a helicopter crash in Kenya. The incident also resulted in the deaths of five American nationals.",
+      "background": "Michele Sensi-Contugi was a significant figure in Ecuador's intelligence apparatus. His death in a foreign country, along with foreign nationals, makes this a notable international incident.",
+      "examRelevance": "Ecuador's intelligence chief Michele Sensi-Contugi died in a Kenya helicopter crash.",
+      "tags": [
+        "Ecuador",
+        "Michele Sensi-Contugi",
+        "Obituaries",
+        "Kenya"
+      ],
+      "source": {
+        "title": "Ecuador intel chief, five Americans killed in Kenya helicopter crash",
+        "url": "https://www.thehindu.com/news/international/ecuador-intel-chief-and-americans-killed-in-kenya-helicopter-crash/article71366832.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q34",
+      "question": "The Supreme Court recently ruled that no state can block traditional routes of elephants. What specific directive did the SC issue to the Centre regarding the removal of obstructions from elephant corridors?",
+      "options": [
+        "To conduct a national survey to remove obstructions",
+        "To increase forest cover by 20%",
+        "To declare all corridors as National Parks",
+        "To relocate all human settlements near corridors"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The Supreme Court directed the Centre to conduct a national survey to remove obstructions from traditional elephant corridors and ensure a ban on the use of fireballs and spikes to drive away elephants. The court emphasized that impeding elephant corridors is not a solution to human-animal conflicts.",
+      "background": "Elephant corridors are vital for the movement of elephants, facilitating genetic exchange and reducing human-elephant conflict. Encroachment and developmental activities often obstruct these corridors, leading to increased conflicts and threats to elephant populations.",
+      "examRelevance": "Supreme Court = directed Centre to conduct national survey to remove obstructions from elephant corridors.",
+      "tags": [
+        "Supreme Court",
+        "Elephant Corridors",
+        "Wildlife Conservation",
+        "Environment"
+      ],
+      "source": {
+        "title": "No State can block traditional routes of elephants: Supreme Court",
+        "url": "https://www.thehindu.com/news/national/states-cant-create-blockades-in-elephant-corridors-sc/article71356053.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q35",
+      "question": "The Mohan Majhi Government in Odisha announced plans to develop the village of which VHP leader as a heritage village?",
+      "options": [
+        "Vishnu Hari Dalmia",
+        "Swami Laxmanananda Saraswati",
+        "Ashok Singhal",
+        "Pravin Togadia"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "The Mohan Majhi Government in Odisha has decided to develop the village of VHP leader Swami Laxmanananda Saraswati as a heritage village. This move aims to pay a grand tribute to the spiritual leader.",
+      "background": "Swami Laxmanananda Saraswati was a prominent Vishwa Hindu Parishad (VHP) leader known for his work among tribal communities in Odisha. Developing his village as a heritage site acknowledges his legacy and contributions.",
+      "examRelevance": "Odisha government will develop Swami Laxmanananda Saraswati's village as a heritage village.",
+      "tags": [
+        "Odisha",
+        "Swami Laxmanananda Saraswati",
+        "Heritage Village",
+        "VHP"
+      ],
+      "source": {
+        "title": "BJP government in Odisha moves to give grand tribute to VHP leader",
+        "url": "https://www.thehindu.com/news/national/odisha/bjp-government-in-odisha-moves-to-give-grand-tribute-to-vhp-leader/article71373971.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q36",
+      "question": "Who secured pole position for the Dutch Grand Prix, while George Russell cruised to a sprint win?",
+      "options": [
+        "Max Verstappen",
+        "Lewis Hamilton",
+        "Lando Norris",
+        "Kimi Antonelli"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Lando Norris of McLaren secured pole position for the Dutch Grand Prix, making the most of his final run on the Zandvoort track by 0.102 of a second. George Russell, his Mercedes teammate, cruised to a sprint win, with Kimi Antonelli finishing third.",
+      "background": "Pole position in Formula 1 is a crucial advantage, as it means starting from the front of the grid. The Dutch Grand Prix is a key event in the Formula 1 calendar, and securing pole indicates strong performance in qualifying sessions.",
+      "examRelevance": "Lando Norris = pole position for Dutch Grand Prix.",
+      "tags": [
+        "Formula 1",
+        "Lando Norris",
+        "Dutch Grand Prix",
+        "McLaren",
+        "Motorsport"
+      ],
+      "source": {
+        "title": "Lando Norris on pole for Dutch Grand Prix as Russell cruises to sprint win",
+        "url": "https://www.thehindu.com/sport/motorsport/lando-norris-on-pole-for-dutch-grand-prix-as-russell-cruises-to-sprint-win/article71378962.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q37",
+      "question": "Which Vijayawada-based photojournalist was recently selected for the IIPC Master of Photojournalism Award?",
+      "options": [
+        "Prasad Reddy",
+        "Venkata Rao",
+        "Suresh Kumar",
+        "Ravi Prakash"
+      ],
+      "answerIndex": 1,
+      "category": "Awards & Honours",
+      "explanation": "A Vijayawada-based photojournalist named Venkata Rao was recently selected for the IIPC Master of Photojournalism Award. This award recognizes excellence and significant contributions in the field of photojournalism.",
+      "background": "The IIPC Master of Photojournalism Award is a prestigious recognition within the field, honoring individuals who demonstrate exceptional skill, dedication, and impact through their photographic work. Such awards encourage high standards and innovation in visual storytelling.",
+      "examRelevance": "Vijayawada-based photojournalist Venkata Rao = selected for IIPC Master of Photojournalism Award.",
+      "tags": [
+        "Venkata Rao",
+        "Photojournalism",
+        "IIPC Award",
+        "Vijayawada",
+        "Awards"
+      ],
+      "source": {
+        "title": "Vijayawada-based photojournalist selected for IIPC Master of Photojournalism Award",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/vijayawada-based-photojournalist-selected-for-iipc-master-of-photojournalism-award/article71378399.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q38",
+      "question": "How many school teachers are scheduled to be honoured by the President of India on September 5 this year?",
+      "options": [
+        "48",
+        "52",
+        "75",
+        "60"
+      ],
+      "answerIndex": 0,
+      "category": "Awards & Honours",
+      "explanation": "A total of 48 school teachers have been selected through a three-stage selection process at the district, State, and national levels by the Department of School Education and Literacy. These 48 teachers are scheduled to be honoured by the President on September 5.",
+      "background": "September 5 is celebrated as Teachers' Day in India, commemorating the birth anniversary of Dr. Sarvepalli Radhakrishnan. Honouring teachers on this day is a long-standing tradition to recognize their invaluable contributions to education.",
+      "examRelevance": "48 school teachers will be honoured by the President on September 5 (Teachers' Day).",
+      "tags": [
+        "Teachers' Day",
+        "Awards & Honours",
+        "President of India",
+        "Education"
+      ],
+      "source": {
+        "title": "48 teachers to be honoured by President on September 5",
+        "url": "https://www.thehindu.com/news/national/teachers-to-be-honoured-by-president-on-september-5/article71375223.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q39",
+      "question": "Which major Indian city recently celebrated 'Madras Day 2026'?",
+      "options": [
+        "Bengaluru",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answerIndex": 3,
+      "category": "Dates & Days",
+      "explanation": "Chennai recently celebrated 'Madras Day 2026'. The day marks the founding of the city of Madras, now Chennai, in 1639.",
+      "background": "Madras Day is celebrated annually on August 22, commemorating the day in 1639 when the city of Madras (now Chennai) was founded. It highlights the city's rich history, heritage, and growth.",
+      "examRelevance": "Chennai celebrated Madras Day 2026 on August 22.",
+      "tags": [
+        "Madras Day",
+        "Chennai",
+        "Dates & Days",
+        "Heritage"
+      ],
+      "source": {
+        "title": "From heritage to high-rises, how Chennai grew taller",
+        "url": "https://www.thehindu.com/news/cities/chennai/madras-day-2026-from-heritage-to-high-rises-how-chennai-grew-taller/article71369048.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q40",
+      "question": "Which state government, through its KEO initiative, announced plans to take AI computing to every government school in the state?",
+      "options": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Karnataka Deputy Chief Minister D.K. Shivakumar announced that the state government, through its KEO initiative, plans to take AI computing to every government school in Karnataka.",
+      "background": "This initiative aims to integrate advanced technology into public education, preparing students for the future workforce. Providing AI computing access to government schools can help bridge the digital divide and enhance learning opportunities.",
+      "examRelevance": "Karnataka government to take AI computing to every government school via KEO initiative.",
+      "tags": [
+        "Karnataka",
+        "AI Computing",
+        "Government Schools",
+        "KEO Initiative",
+        "Education"
+      ],
+      "source": {
+        "title": "KEO to take AI computing to every government school in Karnataka: Shivakumar",
+        "url": "https://www.thehindu.com/news/national/karnataka/keo-to-take-ai-computing-to-every-government-school-in-karnataka-shivakumar/article71375096.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q41",
+      "question": "What is the emerging agricultural model in India that allows farmers to grow crops beneath solar panels, diversifying income and generating electricity?",
+      "options": [
+        "Hydroponics",
+        "Agrivoltaics",
+        "Vertical Farming",
+        "Permaculture"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "India’s emerging agrivoltaics model enables farmers to grow crops beneath solar panels, offering a way to generate electricity while simultaneously diversifying their income. This innovative approach integrates agriculture and solar energy production.",
+      "background": "Agrivoltaics, also known as solar sharing, is a system that combines solar panel installation with agriculture on the same land. Despite its potential, the model faces challenges such as high upfront costs, financing constraints, and uneven policy support, which are currently preventing wider adoption beyond pilot projects.",
+      "examRelevance": "Agrivoltaics = growing crops beneath solar panels, diversifying income, generating electricity.",
+      "tags": [
+        "Agrivoltaics",
+        "Solar Power",
+        "Agriculture",
+        "Renewable Energy",
+        "Farmers"
+      ],
+      "source": {
+        "title": "Sowing the seeds of a solar power intervention",
+        "url": "https://www.thehindu.com/news/national/rajasthan/sowing-the-seeds-of-a-solar-power-intervention/article71378860.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q42",
+      "question": "Which Indian table tennis player's qualification placement recently sparked controversy among veterans at the UTT National Ranking Table Tennis tournament?",
+      "options": [
+        "Manika Batra",
+        "Reeth Tennison",
+        "Archana Girish Kamath",
+        "Sreeja Akula"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Sreeja Akula’s placement in the qualifiers sparked controversy among veterans at the UTT National Ranking Table Tennis tournament. The specific reasons for the controversy were not detailed but involved her qualification process.",
+      "background": "Such controversies sometimes arise in sports tournaments regarding seeding, rankings, or qualification criteria, especially when they involve prominent athletes. Sreeja Akula is a well-known Indian table tennis player.",
+      "examRelevance": "Sreeja Akula's qualification placement at the UTT National Ranking Table Tennis tournament sparked controversy.",
+      "tags": [
+        "Sreeja Akula",
+        "Table Tennis",
+        "UTT National Ranking",
+        "Sports Controversy"
+      ],
+      "source": {
+        "title": "Sreeja’s qualification placement raises eyebrows",
+        "url": "https://www.thehindu.com/sport/sreejas-qualification-placement-raises-eyebrows/article71374581.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q43",
+      "question": "In which city of Kerala will 91 local bodies compete in a Pookalam contest, with the winner receiving a cash prize of ₹1 lakh?",
+      "options": [
+        "Kochi",
+        "Kozhikode",
+        "Thiruvananthapuram",
+        "Thrissur"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "In Kozhikode, Kerala, 91 local bodies are set to compete in a Pookalam contest. The competition will feature grama panchayats, block panchayats, municipalities, and the Kozhikode Corporation, grouped into 11 clusters. The winning team will be awarded a cash prize of ₹1 lakh and a trophy.",
+      "background": "Pookalam is an intricate and colourful floral arrangement made during Onam, the harvest festival of Kerala. Such competitions promote cultural traditions and community participation.",
+      "examRelevance": "Kozhikode to host Pookalam contest with 91 local bodies.",
+      "tags": [
+        "Kozhikode",
+        "Pookalam Contest",
+        "Kerala",
+        "Art & Culture",
+        "Onam"
+      ],
+      "source": {
+        "title": "91 local bodies to compete in Pookalam contest in Keralam’s Kozhikode",
+        "url": "https://www.thehindu.com/news/national/kerala/91-local-bodies-to-contest-in-pookalam-contest-in-keralams-kozhikode/article71365015.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q44",
+      "question": "World Photography Day was recently observed on which date, marked by the inauguration of a photo exhibition by the GVMC Commissioner?",
+      "options": [
+        "September 5",
+        "July 28",
+        "August 15",
+        "August 19"
+      ],
+      "answerIndex": 3,
+      "category": "Dates & Days",
+      "explanation": "World Photography Day was recently observed on August 19. To mark the occasion, the GVMC Commissioner inaugurated a photo exhibition, showcasing various photographic works.",
+      "background": "World Photography Day is celebrated annually to promote photography as a hobby, art, science, and a means of communication. It commemorates the day in 1839 when the French government purchased the patent for the Daguerreotype, an early photographic process.",
+      "examRelevance": "World Photography Day is observed on August 19.",
+      "tags": [
+        "World Photography Day",
+        "August 19",
+        "Dates & Days",
+        "Photography"
+      ],
+      "source": {
+        "title": "World Photography Day: GVMC Commissioner inaugurates photo exhibition",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/world-photography-day-gvmc-commissioner-inaugurates-photo-exhibition/article71366180.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q45",
+      "question": "Which state government recently scrapped 22 recruitment exams due to irregularities, leading to the suspension of an agitation by the JPSC-JSSC Reform Manch?",
+      "options": [
+        "Jharkhand",
+        "Odisha",
+        "Bihar",
+        "West Bengal"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Jharkhand government recently scrapped 22 recruitment exams following widespread irregularities. This decision led to the JPSC-JSSC Reform Manch calling off its agitation, which had been ongoing since July 25 at the Jaipal Singh Munda Stadium.",
+      "background": "The cancellation of recruitment exams due to irregularities is a significant step towards ensuring transparency and fairness in public sector appointments. The government's decision addresses long-standing concerns raised by student and reform groups.",
+      "examRelevance": "Jharkhand government scrapped 22 recruitment exams due to irregularities.",
+      "tags": [
+        "Jharkhand",
+        "Recruitment Exams",
+        "JPSC-JSSC Reform Manch",
+        "Governance"
+      ],
+      "source": {
+        "title": "JPSC-JSSC Reform Manch calls off stir after Jharkhand govt scraps 22 recruitment exams",
+        "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-government-releases-list-of-recruitment-exams-cancelled-due-to-irregularities/article71362249.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q46",
+      "question": "Where does India plan to build a hospital and seek to deploy a field hospital, respectively, as part of its humanitarian efforts?",
+      "options": [
+        "Syria and Yemen",
+        "West Bank and Gaza",
+        "Egypt and Sudan",
+        "Lebanon and Jordan"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "India plans to build a hospital in the West Bank and is seeking to deploy a field hospital in Gaza. This initiative is part of India's humanitarian efforts and support for the Palestinian people.",
+      "background": "India has historically maintained strong diplomatic and humanitarian ties with Palestine. These medical aid initiatives underscore India's commitment to assisting vulnerable populations in conflict-affected regions.",
+      "examRelevance": "India to build hospital in West Bank, deploy field hospital in Gaza.",
+      "tags": [
+        "India",
+        "West Bank",
+        "Gaza",
+        "Humanitarian Aid",
+        "International Relations"
+      ],
+      "source": {
+        "title": "India to build hospital in West Bank; seeks to deploy field hospital in Gaza",
+        "url": "https://www.thehindu.com/news/national/india-to-build-hospital-in-west-bank-seeks-to-deploy-field-hospital-in-gaza/article71366004.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q47",
+      "question": "The Schwan Laboratory was recently inaugurated at which university in Andhra Pradesh, marking a new development in its scientific infrastructure?",
+      "options": [
+        "Sri Venkateswara University",
+        "Andhra University",
+        "GITAM",
+        "Acharya Nagarjuna University"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "The Schwan Laboratory was recently inaugurated at GITAM (Gandhi Institute of Technology and Management) in Andhra Pradesh. This inauguration signifies an enhancement of the university's research and academic facilities.",
+      "background": "Universities often establish specialized laboratories to foster research, innovation, and provide advanced training to students. Such inaugurations contribute to the scientific and technological capabilities of the region and the nation.",
+      "examRelevance": "Schwan Laboratory = inaugurated at GITAM, Andhra Pradesh.",
+      "tags": [
+        "Schwan Laboratory",
+        "GITAM",
+        "Andhra Pradesh",
+        "Science & Technology"
+      ],
+      "source": {
+        "title": "Schwan Laboratory inaugurated at GITAM",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/schwan-laboratory-inaugurated-at-gitam/article71356792.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q48",
+      "question": "Vignan University recently launched a Centre of Excellence focused on which specific economic domain?",
+      "options": [
+        "Digital Economy",
+        "Circular Economy",
+        "Blue Economy",
+        "Green Economy"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Vignan University recently launched a Centre of Excellence specifically focused on the Blue Economy. This initiative aims to foster research, innovation, and skill development in areas related to marine and aquatic resources.",
+      "background": "The Blue Economy encompasses sustainable use of ocean resources for economic growth, improved livelihoods, and ocean ecosystem health. Establishing a Centre of Excellence in this area signifies a commitment to addressing challenges and opportunities related to oceans, coasts, and marine industries.",
+      "examRelevance": "Vignan University = launched Centre of Excellence on Blue Economy.",
+      "tags": [
+        "Vignan University",
+        "Blue Economy",
+        "Centre of Excellence",
+        "Marine Resources",
+        "Andhra Pradesh"
+      ],
+      "source": {
+        "title": "Vignan University launches centre of excellence on Blue Economy",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/vignan-university-launches-centre-of-excellence-on-blue-economy/article71378481.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q49",
+      "question": "Sajjan Kumar, a former Congress MP convicted in the anti-Sikh riots case, recently passed away. He was associated with which political party?",
+      "options": [
+        "Indian National Congress",
+        "Bharatiya Janata Party",
+        "Shiromani Akali Dal",
+        "Aam Aadmi Party"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Sajjan Kumar, a former Congress MP, who was convicted in the 1984 anti-Sikh riots case, recently passed away. He spent his final years in prison after decades of investigations and legal battles.",
+      "background": "The 1984 anti-Sikh riots were a series of pogroms directed against Sikhs in India following the assassination of Prime Minister Indira Gandhi. Sajjan Kumar's conviction was a landmark case in bringing justice to the victims of the riots.",
+      "examRelevance": "Obituary of Sajjan Kumar, former Congress MP convicted in anti-Sikh riots case.",
+      "tags": [
+        "Sajjan Kumar",
+        "Obituary",
+        "Congress MP",
+        "Anti-Sikh riots"
+      ],
+      "source": {
+        "title": "Sajjan Kumar, former Congress MP convicted in anti-Sikh riots case, is dead",
+        "url": "https://www.thehindu.com/news/cities/Delhi/sajjan-kumar-former-congress-mp-convicted-in-anti-sikh-riots-case-passes-away/article71368388.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q50",
+      "question": "The Indian government has allowed duty-free import of what quantity of raw sugar until October 31 to control prices?",
+      "options": [
+        "20 lakh tonnes",
+        "15 lakh tonnes",
+        "5 lakh tonnes",
+        "10 lakh tonnes"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Indian government has allowed the duty-free import of 10 lakh tonnes of raw sugar until October 31. This measure, along with imposing stockholding limits on bulk consumers, aims to control sugar prices in the domestic market.",
+      "background": "Such government interventions are common to manage supply and demand, especially for essential commodities like sugar, and to stabilize prices during periods of potential inflation or shortages. The stockholding limit applies to bulk consumers using more than 10 tonnes of sugar a month.",
+      "examRelevance": "Duty-free import quantity of raw sugar (10 lakh tonnes) and deadline (October 31).",
+      "tags": [
+        "Duty-free import",
+        "Raw sugar",
+        "Government policy",
+        "Price control"
+      ],
+      "source": {
+        "title": "Government allows duty-free import of 10 lakh tonnes of raw sugar until October 31",
+        "url": "https://www.thehindu.com/news/national/government-allows-duty-free-import-of-10-lakh-tonnes-of-raw-sugar-until-october-31/article71370748.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q51",
+      "question": "Mangrove conservationist Parayil Rajan is on a mission to save a rare mangrove variety locally known as Kannampotti. What is the scientific name of this mangrove, which he fears could disappear from Kannur’s tidal landscape?",
+      "options": [
+        "Avicennia marina",
+        "Excoecaria agallocha",
+        "Bruguiera gymnorhiza",
+        "Rhizophora mucronata"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Parayil Rajan, a mangrove conservationist, is working to save the rare mangrove variety locally called Kannampotti. Its scientific name is Excoecaria agallocha, and it is feared to be disappearing from Kannur's tidal landscape. He has successfully grown 2,000 plants from a single plant.",
+      "background": "Mangroves are crucial coastal ecosystems that protect shorelines from erosion, provide habitats for diverse wildlife, and act as carbon sinks. Conservation efforts for specific rare species like Excoecaria agallocha are vital for maintaining biodiversity.",
+      "examRelevance": "Kannampotti mangrove = scientific name Excoecaria agallocha, conserved in Kannur.",
+      "tags": [
+        "Mangrove",
+        "Kannampotti",
+        "Excoecaria agallocha",
+        "Kannur",
+        "Conservation",
+        "Parayil Rajan"
+      ],
+      "source": {
+        "title": "From one plant to 2,000: Saving Kannur’s rare mangrove",
+        "url": "https://www.thehindu.com/news/national/kerala/from-one-plant-to-2000-saving-kannurs-rare-mangrove/article71355850.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q52",
+      "question": "When is the full stretch of Bengaluru's Blue Line Metro expected to open, following its phased opening from mid-2027?",
+      "options": [
+        "December 2027",
+        "June 2028",
+        "March 2028",
+        "December 2028"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The Blue Line Metro in Bengaluru is slated to open in phases starting from mid-2027, with the full stretch expected to be operational by March 2028. This information was provided by KBG.",
+      "background": "The Bengaluru Metro, Namma Metro, is a vital public transportation project aimed at alleviating traffic congestion in the city. The Blue Line is a significant expansion that will connect key areas, and its completion will greatly enhance urban mobility for commuters.",
+      "examRelevance": "Bengaluru Blue Line Metro full stretch = by March 2028.",
+      "tags": [
+        "Bengaluru Metro",
+        "Blue Line",
+        "Infrastructure",
+        "Urban Transport",
+        "Karnataka"
+      ],
+      "source": {
+        "title": "Blue Line to open in phases from mid-2027; full stretch by March 2028: Says KBG",
+        "url": "https://www.thehindu.com/news/cities/bangalore/blue-line-to-open-in-phases-from-mid-2027-full-stretch-by-march-2028-says-kbg/article71378865.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q53",
+      "question": "What was the approximate value of fake medicines seized in a drug racket busted near Bidadi, Karnataka?",
+      "options": [
+        "₹3 crore",
+        "₹1 crore",
+        "₹5 crore",
+        "₹7 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "A fake drug racket was busted near Bidadi in Karnataka, leading to the seizure of medicines worth approximately ₹5 crore. This operation highlights efforts to combat the circulation of counterfeit pharmaceutical products.",
+      "background": "Fake or counterfeit medicines pose a significant public health risk as they may contain incorrect ingredients, improper dosages, or no active ingredients at all. Law enforcement agencies regularly conduct raids to dismantle such rackets and protect public health.",
+      "examRelevance": "Fake drug racket seizure value near Bidadi, Karnataka = ₹5 crore.",
+      "tags": [
+        "Fake Drug Racket",
+        "Bidadi",
+        "Karnataka",
+        "Medicine Seizure",
+        "Counterfeit Drugs"
+      ],
+      "source": {
+        "title": "Fake drug racket busted near Bidadi; medicines worth ₹5 crore seized",
+        "url": "https://www.thehindu.com/news/national/karnataka/fake-drug-racket-busted-near-bidadi-medicines-worth-5-crore-seized/article71361808.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q54",
+      "question": "Which month is being observed as ‘Martyrs’ Month’ by the Ladakh Apex Body (LAB) and Kargil Democratic Alliance (KDA) in Ladakh?",
+      "options": [
+        "September",
+        "August",
+        "October",
+        "July"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "The Ladakh Apex Body (LAB) and Kargil Democratic Alliance (KDA) are observing September as ‘Martyrs’ Month’. This observance is to pay tribute to those who died during the agitation over Statehood and Sixth Schedule demands for Ladakh.",
+      "background": "Civil society groups in Ladakh have been advocating for Statehood and inclusion under the Sixth Schedule of the Constitution to protect the region's unique culture, land, and environment. The 'Martyrs' Month' is part of their ongoing agitation.",
+      "examRelevance": "September is being observed as ‘Martyrs’ Month’ in Ladakh by LAB and KDA.",
+      "tags": [
+        "Ladakh",
+        "Martyrs’ Month",
+        "LAB",
+        "KDA",
+        "Sixth Schedule"
+      ],
+      "source": {
+        "title": "Ladakh civil society groups submit list of non-negotiable points to MHA officials, Chief Secretary in Leh",
+        "url": "https://www.thehindu.com/news/national/ladakh/ladakh-civil-society-groups-submit-list-of-non-negotiable-points-to-mha-officials-chief-secretary-in-leh/article71366272.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q55",
+      "question": "Which of the following is a new feature introduced in the Skoda Slavia facelift, as unveiled by Skoda Auto India?",
+      "options": [
+        "Six-speed manual transmission as standard across all variants",
+        "Electric parking brake",
+        "Advanced driver-assistance systems (ADAS)",
+        "Segment-first rear-seat massage function"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Skoda Auto India unveiled the new Slavia facelift, which includes new features such as an eight-speed torque converter automatic transmission, a 360-degree camera, and a segment-first rear-seat massage function. The 1.5 TSI variants also receive rear disc brakes.",
+      "background": "Skoda Auto India is strengthening its sedan portfolio in India with the refreshed Slavia model. The introduction of premium features like a rear-seat massage function aims to enhance comfort and competitiveness in its segment.",
+      "examRelevance": "Skoda Slavia facelift = segment-first rear-seat massage function, 8-speed automatic, 360-degree camera.",
+      "tags": [
+        "Skoda Slavia",
+        "Automobile",
+        "Facelift",
+        "New Features"
+      ],
+      "source": {
+        "title": "Skoda Slavia facelift: Check features, price",
+        "url": "https://economictimes.indiatimes.com/top-trending-products/auto/cars-and-motorbikes/skoda-unveils-new-slavia-with-8-speed-automatic-rear-seat-massage-function-check-price-features-list-more/articleshow/133335138.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q56",
+      "question": "What is the name of the anti-drugs campaign in Kerala, under which 10,213 cases have been registered and drugs worth over ₹100 crore seized in 76 days?",
+      "options": [
+        "Operation Falcon",
+        "Operation Clean",
+        "Operation Thunder",
+        "Operation Toofan"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Kerala's Home Minister Ramesh Chennithala announced the overwhelming success of the anti-drugs campaign named 'Operation Toofan'. As of the 76th day, 10,213 cases have been registered, 9,941 persons arrested, and drugs worth more than ₹100 crore seized.",
+      "background": "'Operation Toofan' is a significant state-level initiative aimed at curbing drug trafficking and abuse. The Home Minister emphasized that no one will receive protection due to political affiliation, reinforcing the campaign's commitment to strict enforcement.",
+      "examRelevance": "Kerala's anti-drugs campaign is named 'Operation Toofan'.",
+      "tags": [
+        "Kerala",
+        "Operation Toofan",
+        "Anti-drugs campaign",
+        "Law Enforcement"
+      ],
+      "source": {
+        "title": "Response to anti-drugs campaign is overwhelming: Keralam Home Minister Ramesh Chennithala",
+        "url": "https://www.thehindu.com/news/national/kerala/response-to-anti-drugs-campaign-is-overwhelming-says-keralam-home-minister/article71365495.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q57",
+      "question": "What was the magnitude of the earthquake that recently shook northeast Japan, injuring at least five people?",
+      "options": [
+        "5.9",
+        "5.2",
+        "4.5",
+        "6.1"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "An earthquake of 5.9 magnitude recently shook northeast Japan, injuring at least five people. The Fire and Disaster Management Agency reported injuries in Ibaraki, Chiba, and Saitama prefectures, northeast of Tokyo, with no danger of a tsunami.",
+      "background": "Japan is located in a highly seismically active zone, experiencing frequent earthquakes. While this was a moderate earthquake, the country has stringent building codes and disaster preparedness measures to mitigate damage and casualties.",
+      "examRelevance": "Northeast Japan earthquake magnitude = 5.9.",
+      "tags": [
+        "Earthquake",
+        "Japan",
+        "Natural Disaster",
+        "Ibaraki",
+        "Chiba",
+        "Saitama"
+      ],
+      "source": {
+        "title": "At least 5 injured as 5.9 magnitude earthquake shakes northeast Japan; no danger of tsunami",
+        "url": "https://www.thehindu.com/news/international/japan-tokyo-earthquake-several-injured-latest-update/article71380017.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q58",
+      "question": "Who was presented with Hamsadhwani's Distinguished Citizen Award?",
+      "options": [
+        "B. Santhanam",
+        "N. Chandrasekaran",
+        "A. R. Rahman",
+        "K. Sivan"
+      ],
+      "answerIndex": 0,
+      "category": "Awards & Honours",
+      "explanation": "Industrialist B. Santhanam was presented with Hamsadhwani's Distinguished Citizen Award. This award recognizes individuals who have made significant contributions as exemplary citizens.",
+      "background": "Hamsadhwani is a cultural organization known for promoting arts and culture and recognizing individuals for their contributions to society. The 'Distinguished Citizen Award' is one of its accolades to honor deserving personalities.",
+      "examRelevance": "Hamsadhwani's Distinguished Citizen Award recipient = B. Santhanam.",
+      "tags": [
+        "B. Santhanam",
+        "Hamsadhwani",
+        "Distinguished Citizen Award",
+        "Awards"
+      ],
+      "source": {
+        "title": "Hamsadhwani’s Distinguished Citizen Award presented to industrialist B. Santhanam",
+        "url": "https://www.thehindu.com/news/cities/chennai/hamsadhwanis-distinguished-citizen-award-presented-to-industrialist-b-santhanam/article71361681.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q59",
+      "question": "Siddhavatam Fort, a centuries-old monument and former administrative headquarters of Cuddapah district, is situated on the left bank of which river?",
+      "options": [
+        "Krishna River",
+        "Godavari River",
+        "Cauvery River",
+        "Penna River"
+      ],
+      "answerIndex": 3,
+      "category": "Art & Culture",
+      "explanation": "Siddhavatam Fort is nestled between the Palakonda and Veligonda hill ranges, situated on the left bank of the Penna River. It was once a strategic military outpost and briefly the administrative headquarters of the Cuddapah district.",
+      "background": "The fort's history, inscriptions, temples, sculptures, and architectural remains reveal a rich cultural legacy. Its strategic location on the Penna River made it a significant center of power through various historical periods.",
+      "examRelevance": "Siddhavatam Fort is located on the left bank of the Penna River in Cuddapah district.",
+      "tags": [
+        "Siddhavatam Fort",
+        "Penna River",
+        "Cuddapah",
+        "Andhra Pradesh"
+      ],
+      "source": {
+        "title": "Beyond the walls of Siddhavatam Fort",
+        "url": "https://www.thehindu.com/news/cities/Visakhapatnam/beyond-the-walls-of-siddhavatam-fort/article71373272.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q60",
+      "question": "Who is the school teacher from Shivamogga, Karnataka, who recently won the National Teachers’ Award for her innovative teaching techniques?",
+      "options": [
+        "Smt. Lakshmi Devi",
+        "Dr. Anjali Singh",
+        "Ms. Ratnakumari",
+        "Smt. Geeta Sharma"
+      ],
+      "answerIndex": 2,
+      "category": "Awards & Honours",
+      "explanation": "Ms. Ratnakumari, a school teacher from Shivamogga, Karnataka, has won the National Teachers’ Award. She will receive the award from the President in Delhi, recognized for her over 30 years of teaching experience and innovative techniques to engage schoolchildren through campus activities.",
+      "background": "The National Teachers’ Award is conferred by the President of India to recognize the exemplary contributions of teachers in the country. It highlights dedication, innovation, and impact on students' lives and the educational system.",
+      "examRelevance": "Ms. Ratnakumari (Shivamogga) = winner of National Teachers’ Award.",
+      "tags": [
+        "National Teachers’ Award",
+        "Ms. Ratnakumari",
+        "Shivamogga",
+        "Karnataka",
+        "Education"
+      ],
+      "source": {
+        "title": "Shivamogga school teacher wins National Teachers’ Award, to receive award from President in Delhi",
+        "url": "https://www.thehindu.com/news/national/karnataka/shivamogga-school-teacher-wins-national-teachers-award-to-receive-award-from-president-in-delhi/article71376637.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q61",
+      "question": "Which Northeastern state recently inked a deal for its first private-sector solar plant, a 20 MW project to be set up at Tizit?",
+      "options": [
+        "Nagaland",
+        "Tripura",
+        "Mizoram",
+        "Manipur"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Nagaland recently inked a deal for its first private-sector solar plant, which will be a 20 MW project located at Tizit. This initiative is expected to help the State reduce its energy imports.",
+      "background": "This marks a significant step for Nagaland towards sustainable energy and reducing dependence on external power sources. The development of a private-sector solar plant aligns with national goals for increasing renewable energy capacity.",
+      "examRelevance": "Nagaland inked a deal for its first private-sector 20 MW solar plant at Tizit.",
+      "tags": [
+        "Nagaland",
+        "Solar Plant",
+        "Tizit",
+        "Renewable Energy"
+      ],
+      "source": {
+        "title": "Nagaland inks deal for first private-sector solar plant",
+        "url": "https://www.thehindu.com/news/national/nagaland/nagaland-inks-deal-for-first-private-sector-solar-plant/article71373752.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q62",
+      "question": "Which court did the State of Goa move to enhance the sentence of Tarun Tejpal in the 2013 rape case?",
+      "options": [
+        "Goa District Court",
+        "Bombay High Court",
+        "Delhi High Court",
+        "Supreme Court of India"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The State of Goa has moved the Supreme Court of India to enhance the sentence of Tarun Tejpal in the 2013 rape case. The State clarified that it did not want to challenge or reopen the findings or conclusions on merit recorded by the Bombay High Court in its August 6 judgment.",
+      "background": "Tarun Tejpal, former editor-in-chief of Tehelka magazine, was accused in a 2013 sexual assault case. The legal proceedings have been lengthy and complex, with various stages of appeals and judicial review. The Supreme Court is the highest judicial authority in India.",
+      "examRelevance": "Goa moved Supreme Court to enhance Tarun Tejpal's sentence.",
+      "tags": [
+        "Goa",
+        "Supreme Court",
+        "Tarun Tejpal",
+        "Rape Case",
+        "Legal Proceedings"
+      ],
+      "source": {
+        "title": "Goa moves Supreme Court to enhance sentence of Tarun Tejpal in 2013 rape case",
+        "url": "https://www.thehindu.com/news/national/goa-moves-supreme-court-to-enhance-sentence-of-tarun-tejpal-in-2013-rape-case/article71362029.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q63",
+      "question": "Which state government recently enhanced the pension income ceiling to ₹1.20 lakh, a measure set to benefit over 20 lakh people?",
+      "options": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The Karnataka government recently enhanced the pension income ceiling to ₹1.20 lakh. This measure is expected to benefit over 20 lakh people in the state, providing increased financial support to pensioners.",
+      "background": "Such enhancements in pension income ceilings are typically aimed at improving the financial security and welfare of senior citizens and other eligible beneficiaries. It reflects the state government's commitment to social welfare schemes.",
+      "examRelevance": "Karnataka enhanced pension income ceiling to ₹1.20 lakh.",
+      "tags": [
+        "Karnataka",
+        "Pension Scheme",
+        "Social Welfare",
+        "State Government"
+      ],
+      "source": {
+        "title": "Pension income ceiling enhanced to ₹1.20 lakh, set to benefit over 20 lakh people",
+        "url": "https://www.thehindu.com/news/national/karnataka/pension-income-ceiling-enhanced-to-120-lakh-set-to-benefit-over-20-lakh-people/article71365784.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q64",
+      "question": "When is the Kutiyattam festival, aimed at promoting the ancient Sanskrit theatre tradition, scheduled to begin?",
+      "options": [
+        "August 25",
+        "August 19",
+        "August 15",
+        "August 22"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "The Kutiyattam festival is scheduled to begin on August 19. This festival aims to showcase and promote the traditional Sanskrit theatre form.",
+      "background": "Kutiyattam is an ancient form of Sanskrit theatre traditionally performed in Kerala, India. It is recognized by UNESCO as a Masterpiece of the Oral and Intangible Heritage of Humanity. Festivals like this play a crucial role in preserving and popularizing this unique cultural art form.",
+      "examRelevance": "Kutiyattam festival start date = August 19.",
+      "tags": [
+        "Kutiyattam",
+        "Festival",
+        "Sanskrit Theatre",
+        "Kerala",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "Kutiyattam festival to begin on August 19",
+        "url": "https://www.thehindu.com/news/national/kerala/kutiyattam-festival-to-begin-on-august-19/article71362017.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q65",
+      "question": "What is the total value of the Initial Public Offering (IPO) opened by Gaja Alternative Asset Management?",
+      "options": [
+        "Rs 550 crore",
+        "Rs 450 crore",
+        "Rs 152 crore",
+        "Rs 281 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Gaja Alternative Asset Management, a home-grown alternative asset management company, has opened its Rs 550 crore IPO for subscription. The public issue comprises a fresh issue of 2.81 crore shares worth Rs 450 crore and an offer for sale (OFS) of 63 lakh shares.",
+      "background": "An Initial Public Offering (IPO) is the process by which a private company can go public by selling its shares to the general public. This allows the company to raise capital from public investors. Gaja's IPO is a three-day issue, open from August 19 to August 21, 2026.",
+      "examRelevance": "Gaja Alternative Asset Management IPO value = Rs 550 crore.",
+      "tags": [
+        "Gaja Alternative Asset Management",
+        "IPO",
+        "Initial Public Offering",
+        "Market"
+      ],
+      "source": {
+        "title": "Gaja Alternative Asset Management IPO opens today: GMP at 19% — Should You Subscribe?",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/gaja-alternative-asset-management-ipo-opens-today-gmp-at-19-should-you-subscribe/articleshow/133335323.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q66",
+      "question": "Lawyers recently staged a protest outside the Bar Council of India (BCI) office, demanding the resignation of its chairman, Manan Kumar Mishra. What is his position?",
+      "options": [
+        "Chairman of the Bar Council of India",
+        "Chief Justice of India",
+        "President of the Supreme Court Bar Association",
+        "Attorney General of India"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Lawyers recently staged a protest outside the Bar Council of India (BCI) office, demanding the resignation of Manan Kumar Mishra, who is the current Chairman of the BCI. The protest highlighted concerns over his 14-year tenure and called for reforms in the BCI's election mechanism.",
+      "background": "The Bar Council of India is a statutory body established under the Advocates Act, 1961, that regulates and represents the Indian bar. It prescribes standards of professional conduct and etiquette for advocates and exercises disciplinary jurisdiction.",
+      "examRelevance": "Manan Kumar Mishra as Chairman of the Bar Council of India.",
+      "tags": [
+        "Manan Kumar Mishra",
+        "Bar Council of India",
+        "BCI Chairman",
+        "Lawyers protest"
+      ],
+      "source": {
+        "title": "Lawyers stage protest outside BCI office, seek chairman’s resignation amid NALSAR row",
+        "url": "https://www.thehindu.com/news/national/lawyers-protest-outside-bci-office-demand-chairman-manan-mishras-resignation-amid-nalsar-row/article71368148.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q67",
+      "question": "According to Zomato, by what percentage may food deliveries become costlier due to the adoption of sustainable packaging?",
+      "options": [
+        "50-70%",
+        "30-50%",
+        "10-30%",
+        "5-10%"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Zomato has stated that sustainable packaging solutions may increase the cost of food deliveries by 10-30%. This is a significant concern as a majority of current food deliveries use plastic containers or plastic wrapping materials.",
+      "background": "The food delivery industry is exploring sustainable packaging options to reduce environmental impact. However, the transition from conventional plastic packaging to more eco-friendly alternatives often comes with increased material and production costs, which may be passed on to consumers.",
+      "examRelevance": "Sustainable packaging cost increase = 10-30% for food deliveries (Zomato).",
+      "tags": [
+        "Zomato",
+        "Sustainable Packaging",
+        "Food Delivery",
+        "Cost Increase"
+      ],
+      "source": {
+        "title": "Sustainable packaging may make food deliveries costlier by 10-30%: Zomato",
+        "url": "https://www.thehindu.com/business/Industry/sustainable-packaging-may-make-food-deliveries-costlier-by-10-30-zomato/article71361381.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q68",
+      "question": "A charter plane carrying 8 people recently crashed near a remote radar site in which US state?",
+      "options": [
+        "Montana",
+        "Alaska",
+        "Texas",
+        "Colorado"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "A charter aircraft carrying eight people crashed near a remote radar site in Alaska. The incident is currently under investigation by authorities.",
+      "background": "Plane crashes in remote Alaskan regions are not uncommon due to challenging terrain and weather conditions. Such incidents often involve small charter planes used for transport to isolated areas.",
+      "examRelevance": "Location of recent plane crash in Alaska.",
+      "tags": [
+        "Alaska",
+        "plane crash",
+        "remote radar site"
+      ],
+      "source": {
+        "title": "Alaska crash: Charter plane with 8 aboard crashes",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/alaska-plane-crash-charter-aircraft-carrying-8-crashes-near-remote-radar-site/articleshow/133391106.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q69",
+      "question": "In which Indian city was a Special Investigation Team (SIT) recently formed to probe a hotel fire that killed 9 people, including five Bangladeshi nationals?",
+      "options": [
+        "Kolkata",
+        "Chennai",
+        "Delhi",
+        "Mumbai"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "A Special Investigation Team (SIT) has been formed to investigate a hotel fire in Kolkata. The tragic incident resulted in the deaths of 9 people, among whom five were Bangladeshi nationals.",
+      "background": "Such SITs are typically formed to conduct thorough investigations into incidents involving significant loss of life, especially when international citizens are involved, to determine causes and accountability.",
+      "examRelevance": "SIT formed to investigate Kolkata hotel fire that killed 9.",
+      "tags": [
+        "Kolkata",
+        "SIT",
+        "Hotel Fire",
+        "Investigation"
+      ],
+      "source": {
+        "title": "SIT formed to investigate Kolkata fire that killed 9",
+        "url": "https://economictimes.indiatimes.com/news/india/sit-formed-to-investigate-kolkata-hotel-fire-that-killed-9-five-bangladeshi-nationals-among-deceased/articleshow/133361524.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q70",
+      "question": "The last date to register for the 'Made of Chennai Run' in 2026 was announced as August 19. This event is primarily associated with which Indian city?",
+      "options": [
+        "Bengaluru",
+        "Chennai",
+        "Kochi",
+        "Hyderabad"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "The 'Made of Chennai Run' is an annual event held in Chennai, Tamil Nadu. The registration for the 2026 edition was scheduled to close on August 19.",
+      "background": "The Made of Chennai Run is a community running event that typically promotes fitness and civic pride in Chennai. Such city-specific marathons or runs are common across India.",
+      "examRelevance": "Made of Chennai Run = Chennai-based annual running event.",
+      "tags": [
+        "Chennai",
+        "Running",
+        "Marathon",
+        "Sports Event"
+      ],
+      "source": {
+        "title": "Last date to register for Made of Chennai Run is August 19",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/last-date-to-register-for-made-of-chennai-run-is-august-19/article71357839.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q71",
+      "question": "In the Twisha Sharma death case, the CBI recently filed a chargesheet accusing Samarth and Giribala of abetment of suicide. Giribala, one of the accused, is identified as a former holder of which position?",
+      "options": [
+        "High Court Judge",
+        "District Judge",
+        "Additional Solicitor General",
+        "Senior Public Prosecutor"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "The CBI has named Samarth, a lawyer, and Giribala, a former district judge, in its chargesheet in the Twisha Sharma death case. They have been accused of abetment of suicide, following allegations of mental abuse and physical violence by the deceased's family.",
+      "background": "The Twisha Sharma case has garnered significant attention due to the involvement of individuals with legal backgrounds. The CBI's chargesheet marks a major development in the ongoing investigation into the circumstances surrounding her death.",
+      "examRelevance": "Giribala = former District Judge, accused in Twisha Sharma case.",
+      "tags": [
+        "Twisha Sharma",
+        "CBI",
+        "Abetment of Suicide",
+        "Giribala",
+        "District Judge"
+      ],
+      "source": {
+        "title": "Twisha Sharma case: CBI accuses Giribala, Samarth of abetment of suicide",
+        "url": "https://www.thehindu.com/news/national/madhya-pradesh/twisha-sharma-death-case-samarth-singh-giribala-singh-named-in-cbis-charge-sheet/article71355607.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q72",
+      "question": "The share of premium, high-octane petrol in sales has risen to 12-15% from about 4% in March, amidst concerns over the impact of which fuel?",
+      "options": [
+        "E20 petrol",
+        "E10 petrol",
+        "E85 petrol",
+        "E5 petrol"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The share of premium, high-octane petrol in sales has increased to 12-15% from approximately 4% in March. This rise is attributed to consumer concerns that ethanol-blended E20 petrol could negatively affect vehicle mileage and engine life.",
+      "background": "E20 petrol is a blend of 20% ethanol with gasoline, introduced as part of India's efforts to reduce crude oil imports and carbon emissions. However, its adoption has raised questions among consumers regarding its long-term impact on vehicle performance.",
+      "examRelevance": "Rise in premium petrol sales due to concerns over E20 petrol.",
+      "tags": [
+        "E20 petrol",
+        "Premium petrol",
+        "Fuel sales",
+        "Ethanol blending"
+      ],
+      "source": {
+        "title": "Consumers queue up for premium petrol as E20 concerns refuse to die down",
+        "url": "https://www.livemint.com/economy/consumers-queue-up-for-premium-petrol-as-e20-concerns-refuse-to-die-down-11787223782784.html"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q73",
+      "question": "Which New York-based company plans to establish a world-class music tech organization in Bengaluru?",
+      "options": [
+        "Sony Music Entertainment",
+        "Warner Music Group",
+        "Universal Music Group",
+        "EMI Music"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "New York-based Warner Music Group plans to set up a world-class music tech organization in Bengaluru. This move signifies the growing importance of India's tech hub for global entertainment companies.",
+      "background": "Bengaluru is renowned as India's Silicon Valley, attracting major technology companies and startups. The establishment of a music tech organization by a global music giant like Warner Music Group indicates an expansion of the tech ecosystem into specialized entertainment technology.",
+      "examRelevance": "Warner Music Group plans to set up music tech organization in Bengaluru.",
+      "tags": [
+        "Warner Music Group",
+        "Bengaluru",
+        "Music Tech",
+        "Investment",
+        "Technology Hub"
+      ],
+      "source": {
+        "title": "New York-based Warner Music Group plans to set up a world-class music tech organisation in Bengaluru",
+        "url": "https://www.thehindu.com/news/national/karnataka/new-york-based-warner-music-group-plans-to-set-up-a-world-class-music-tech-organisation-in-bengaluru/article71361718.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q74",
+      "question": "U.S. Ambassador Sergio Gor recently visited J&K and Ladakh, where he met Chief Minister Omar Abdullah in Srinagar. This visit aimed to strengthen bilateral ties between which two nations?",
+      "options": [
+        "U.S. and India",
+        "U.S. and China",
+        "U.S. and Afghanistan",
+        "U.S. and Pakistan"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "U.S. Ambassador Sergio Gor visited J&K and Ladakh, meeting Chief Minister Omar Abdullah in Srinagar to discuss strengthening bilateral ties. The U.S. Embassy stated that the visit highlighted the growing U.S.-India partnership through meaningful dialogue.",
+      "background": "Such high-level diplomatic visits underscore the importance of regional engagement and bilateral relations. The visit to both J&K and Ladakh signifies a comprehensive approach to understanding and fostering ties across diverse regions of India.",
+      "examRelevance": "U.S. Ambassador Sergio Gor visited J&K and Ladakh to strengthen U.S.-India partnership.",
+      "tags": [
+        "Sergio Gor",
+        "US Ambassador",
+        "J&K",
+        "Ladakh",
+        "India-US Relations"
+      ],
+      "source": {
+        "title": "‘Sergio Gor’s J&K and Ladakh visit highlights growing U.S.-India partnership through meaningful dialogue’",
+        "url": "https://www.thehindu.com/news/national/sergio-gors-jk-and-ladakh-visit-highlights-growing-us-india-partnership-through-meaningful-dialogue/article71374597.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q75",
+      "question": "A Minister recently stated that his department will implement a new practice of appointing officials in a three-tier system to speed up the process of providing certificates within a stipulated timeframe. Which state minister made this announcement?",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "A Minister from Tamil Nadu, Sengottaiyan, announced that his department will implement a new three-tier system for appointing officials. This reform is aimed at accelerating the process of providing various certificates to citizens within a stipulated timeframe.",
+      "background": "Timely provision of government certificates is a key aspect of good governance and citizen service delivery. Administrative reforms, such as introducing multi-tier systems, are often implemented to reduce red tape and improve efficiency in public services.",
+      "examRelevance": "Tamil Nadu = three-tier system for officials to speed up certificate provision.",
+      "tags": [
+        "Tamil Nadu",
+        "Certificates",
+        "Administrative Reform",
+        "Sengottaiyan",
+        "Public Service"
+      ],
+      "source": {
+        "title": "Long-term vision is to provide certificates within a stipulated timeframe: Sengottaiyan",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/long-term-vision-is-to-provide-certificates-within-a-stipulated-timeframe-sengottaiyan/article71357048.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q76",
+      "question": "Which Chief Minister's proposed U.S. visit was recently denied permission by the Centre, after the official delegation had already reached the U.K.?",
+      "options": [
+        "K. Chandrashekar Rao",
+        "Basavaraj Bommai",
+        "M.K. Stalin",
+        "Revanth Reddy"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Centre recently denied permission for Telangana Chief Minister Revanth Reddy's proposed U.S. visit. The State government was informed of the denial after the official delegation had already reached the U.K.",
+      "background": "Permission from the Union government is typically required for Chief Ministers and other state officials to undertake official foreign visits. Such denials, especially after a delegation has already departed, can lead to political controversies.",
+      "examRelevance": "Centre denied permission for Telangana CM Revanth Reddy's U.S. visit.",
+      "tags": [
+        "Revanth Reddy",
+        "Telangana CM",
+        "US Visit",
+        "Centre-State Relations"
+      ],
+      "source": {
+        "title": "Centre denies permission for Telangana CM Revanth Reddy’s U.S. visit",
+        "url": "https://www.thehindu.com/news/national/telangana/centre-denies-permission-for-revanth-reddys-us-visit/article71372263.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q77",
+      "question": "Jared Kushner, identified as former US President Trump’s envoy for Gaza, recently met with Israeli Prime Minister Benjamin Netanyahu to discuss a Gaza plan. What timeline was reportedly agreed upon for Hamas disarmament?",
+      "options": [
+        "Within 60 days",
+        "Within 15 days",
+        "Within 30 days",
+        "Within 90 days"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Jared Kushner and Israeli Prime Minister Benjamin Netanyahu agreed that an American general would verify Hamas’s disarmament, with the process expected to begin within 30 days. Netanyahu insisted there would be no Israeli pullout from Gaza until then.",
+      "background": "These discussions are part of ongoing international efforts to de-escalate the conflict in the West Asia region and establish a framework for peace and security in Gaza. Jared Kushner was also joined by Nickolay Mladenov, Trump’s Board of Peace envoy for Gaza.",
+      "examRelevance": "Jared Kushner-Netanyahu meeting = Hamas disarmament within 30 days.",
+      "tags": [
+        "Jared Kushner",
+        "Benjamin Netanyahu",
+        "Gaza",
+        "Hamas",
+        "Disarmament"
+      ],
+      "source": {
+        "title": "Trump envoy discusses Gaza plan with Netanyahu after rare Hamas meeting",
+        "url": "https://www.thehindu.com/news/international/israel-palaestine-war-jared-kushner-meeting-with-benjamin-netanyahu-august-17-2026/article71355826.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q78",
+      "question": "U.S. envoy Sergio Gor recently termed Jammu & Kashmir as an 'important part of India,' sparking mixed political reactions. What is his designation?",
+      "options": [
+        "U.S. Ambassador to India",
+        "U.S. envoy",
+        "U.S. Special Envoy for South Asia",
+        "U.S. Deputy Assistant Secretary of State"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "U.S. envoy Sergio Gor recently stated that Jammu & Kashmir is an 'important part of India.' His remarks evoked mixed political reactions, highlighting the region's significance in India's diplomatic landscape.",
+      "background": "Statements by foreign diplomats regarding sensitive geopolitical regions like Jammu & Kashmir are often closely scrutinized for their implications on international relations and national sovereignty claims. Such remarks can shape perceptions and diplomatic stances.",
+      "examRelevance": "U.S. envoy Sergio Gor's remarks on J&K.",
+      "tags": [
+        "Sergio Gor",
+        "U.S. envoy",
+        "Jammu & Kashmir",
+        "India-U.S. relations",
+        "Diplomacy"
+      ],
+      "source": {
+        "title": "U.S. envoy Sergio Gor’s J&K remarks evoke mixed reactions",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/us-envoy-sergio-gors-jk-remarks-evoke-mixed-reactions/article71370329.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q79",
+      "question": "Which two districts in Madhya Pradesh were instructed by CM Yadav to ensure officials visit families affected by the Ken-Betwa project?",
+      "options": [
+        "Panna and Chhatarpur",
+        "Jabalpur and Rewa",
+        "Bhopal and Indore",
+        "Gwalior and Ujjain"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "Madhya Pradesh Chief Minister Yadav directed the Panna and Chhatarpur district administrations to ensure that officials visit every household in the villages affected by the Ken-Betwa project. The aim is to understand the actual situation and grievances of the families.",
+      "background": "The Ken-Betwa Link Project is a major river interlinking project in India, aimed at transferring surplus water from the Ken river to the Betwa river, both in the Bundelkhand region. While it promises to address water scarcity, it also involves displacement and environmental concerns, necessitating careful management of affected communities.",
+      "examRelevance": "Ken-Betwa project affected districts = Panna and Chhatarpur (Madhya Pradesh).",
+      "tags": [
+        "Ken-Betwa Project",
+        "Madhya Pradesh",
+        "Panna",
+        "Chhatarpur",
+        "River Interlinking"
+      ],
+      "source": {
+        "title": "Visit families affected by Ken-Betwa project, hear their grievances: M.P. CM tells officials",
+        "url": "https://www.thehindu.com/news/national/madhya-pradesh/visit-families-affected-by-ken-betwa-project-hear-their-grievances-mp-cm-tells-officials/article71378282.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q80",
+      "question": "ChatGPT for Teens, designed for 13 to 17-year-olds, includes features such as parental controls, 'quiet hours,' and study mode. What is the target age group?",
+      "options": [
+        "8 to 12-year-olds",
+        "All age groups",
+        "13 to 17-year-olds",
+        "18 to 22-year-olds"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "ChatGPT for Teens is specifically designed for 13 to 17-year-olds. It incorporates features like parental controls, 'quiet hours,' and a study mode, along with notifications for situations requiring real-world interventions, to ensure a safe and productive experience for young users.",
+      "background": "With the increasing use of AI tools, platforms are developing age-appropriate versions with enhanced safety and control features. This initiative by ChatGPT addresses concerns about AI usage among minors and aims to provide a more regulated environment.",
+      "examRelevance": "Target age group for ChatGPT for Teens (13 to 17 years).",
+      "tags": [
+        "ChatGPT",
+        "AI",
+        "Teens",
+        "Parental controls",
+        "Age group"
+      ],
+      "source": {
+        "title": "Parental control features in ChatGPT for Teens | Explained",
+        "url": "https://www.thehindu.com/sci-tech/technology/chatgpt-for-teens-explained/article71367865.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q81",
+      "question": "The Greater Chennai Corporation (GCC) has proposed ₹4,000-crore worth of projects, including a Kodungaiyur waste facility and a coastal bridge, under which financing model?",
+      "options": [
+        "Smart Cities Mission Fund",
+        "Amrut Mission",
+        "Urban Challenge Fund",
+        "Jawaharlal Nehru National Urban Renewal Mission"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The Greater Chennai Corporation (GCC) has put forward proposals worth ₹4,000 crore for projects like the Kodungaiyur waste facility and a coastal bridge. These projects are planned under the Urban Challenge Fund, which follows a financing model of 25% Central assistance, 25% State or Urban Local Body share, and 50% market-based financing or Public-Private Partnership (PPP) models.",
+      "background": "The Urban Challenge Fund aims to encourage urban local bodies to undertake significant infrastructure and development projects through a blended financing approach. This model seeks to leverage both government funding and private investment for large-scale urban initiatives.",
+      "examRelevance": "GCC's ₹4,000-crore proposals = under Urban Challenge Fund (25% Central, 25% State/ULB, 50% market/PPP).",
+      "tags": [
+        "Greater Chennai Corporation",
+        "Urban Challenge Fund",
+        "Infrastructure",
+        "Kodungaiyur",
+        "Coastal Bridge",
+        "Tamil Nadu"
+      ],
+      "source": {
+        "title": "Kodungaiyur waste facility, coastal bridge among GCC’s ₹4,000-crore worth proposals",
+        "url": "https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/kodungaiyur-waste-facility-coastal-bridge-among-gccs-4000-crore-worth-proposals/article71378502.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q82",
+      "question": "Which social media company recently reached a $400 million settlement with the U.S. Justice Department over children's privacy concerns?",
+      "options": [
+        "TikTok",
+        "Meta",
+        "X (formerly Twitter)",
+        "Snapchat"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "TikTok reached a $400 million settlement with the U.S. Justice Department over issues concerning children's privacy. U.S. Associate Attorney General Stanley E. Woodward Jr. emphasized the department's priority in protecting children online.",
+      "background": "This settlement highlights the increasing scrutiny on social media platforms regarding data privacy, especially concerning minors. Regulatory bodies are pushing companies to meet their legal obligations in safeguarding personal information.",
+      "examRelevance": "TikTok settled for $400 million with the U.S. Justice Department over children's privacy.",
+      "tags": [
+        "TikTok",
+        "US Justice Department",
+        "Children's Privacy",
+        "Data Privacy"
+      ],
+      "source": {
+        "title": "TikTok reaches $400 million settlement with U.S. Justice Department over children's privacy",
+        "url": "https://www.thehindu.com/news/international/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/article71376412.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q83",
+      "question": "Health officials have reported that Congo's current Ebola outbreak is the second-most lethal on record. It is estimated to be spreading how many times faster than previous outbreaks did in Congo at this stage?",
+      "options": [
+        "Four times",
+        "Three times",
+        "Two times",
+        "Five times"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Congo's current Ebola outbreak is considered the second-most lethal on record. Health officials have indicated that this outbreak is spreading five times faster than previous outbreaks did in Congo at a similar stage.",
+      "background": "Ebola virus disease is a severe, often fatal illness in humans. Outbreaks in the Democratic Republic of Congo (DRC) have been recurrent, and understanding the rate of spread is crucial for implementing effective public health responses and containment strategies.",
+      "examRelevance": "Congo Ebola outbreak = spreading five times faster.",
+      "tags": [
+        "Congo",
+        "Ebola",
+        "Public Health",
+        "Disease Outbreak"
+      ],
+      "source": {
+        "title": "How Congo's Ebola outbreak became the second-most lethal on record",
+        "url": "https://www.thehindu.com/sci-tech/health/how-congos-ebola-outbreak-became-the-second-most-lethal-on-record/article71357924.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q84",
+      "question": "Who is the Chief of the International Criminal Court (ICC) from Japan, recently sanctioned by the U.S.?",
+      "options": [
+        "Yukiya Amano",
+        "Sadako Ogata",
+        "Hiroshi Nakagawa",
+        "Tomoko Akane"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "The U.S. has sanctioned Tomoko Akane of Japan, who serves as the Chief of the International Criminal Court (ICC). This action was taken because these individuals have engaged in efforts by the ICC to investigate, arrest, detain, or prosecute officials whose government has not consented to ICC jurisdiction.",
+      "background": "The International Criminal Court (ICC) is an intergovernmental organization and international tribunal that sits in The Hague, Netherlands. It has the jurisdiction to prosecute individuals for the international crimes of genocide, war crimes, crimes against humanity, and the crime of aggression. The U.S. has historically had a contentious relationship with the ICC, particularly regarding its jurisdiction over non-member state nationals.",
+      "examRelevance": "ICC Chief sanctioned by U.S. = Tomoko Akane (Japan).",
+      "tags": [
+        "Tomoko Akane",
+        "ICC",
+        "International Criminal Court",
+        "U.S. Sanctions",
+        "Japan"
+      ],
+      "source": {
+        "title": "U.S. sanctions ICC chief Tomoko Akane of Japan",
+        "url": "https://www.thehindu.com/news/international/us-sanctions-icc-chief-tomoko-akane-of-japan/article71363112.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q85",
+      "question": "Over 11.18 lakh permanent houses are to be built in Bihar under which government scheme, as stated by Shivraj Singh Chouhan?",
+      "options": [
+        "Swachh Bharat Abhiyan (SBA)",
+        "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+        "Pradhan Mantri Awas Yojana-Gramin (PMAY-G)",
+        "Jal Jeevan Mission (JJM)"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "Over 11.18 lakh permanent houses are scheduled to be built in Bihar under the Pradhan Mantri Awas Yojana-Gramin (PMAY-G). The 'Grih Pravesh' ceremony for 2.35 lakh units was completed in FY 2026-27.",
+      "background": "PMAY-G is a flagship scheme of the Indian government aimed at providing 'Housing for All' in rural areas. It aims to provide financial assistance to eligible beneficiaries for construction of pucca houses with basic amenities.",
+      "examRelevance": "Number of houses (11.18 lakh) and scheme (PMAY-G) in Bihar.",
+      "tags": [
+        "PMAY-G",
+        "Bihar",
+        "Housing scheme",
+        "Shivraj Singh Chouhan"
+      ],
+      "source": {
+        "title": "Over 11.18 lakh permanent houses to be built in Bihar under PMAY-G, says Shivraj Singh Chouhan",
+        "url": "https://www.thehindu.com/news/national/bihar/over-1118-lakh-permanent-houses-to-be-built-in-bihar-under-pmay-g-says-shivraj-singh-chouhan/article71369236.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q86",
+      "question": "According to a WhiteOak Capital study, what was the annualised return of the Nifty 500 Multicap 50:25:25 TRI over the 21-year period from April 2005 to July 2026?",
+      "options": [
+        "15.79%",
+        "13.99%",
+        "17.19%",
+        "15.53%"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "A study by WhiteOak Capital revealed that the Nifty 500 Multicap 50:25:25 TRI delivered an annualised return of 15.53% over the 21-year period from April 2005 to July 2026. This return was higher than large-caps (13.99%) and slightly lower than small-caps (15.79%) and mid-caps (17.19%).",
+      "background": "Multi-cap funds invest across large-, mid-, and small-cap stocks, aiming to provide equity-like returns with milder drawdowns. The Nifty 500 Multicap 50:25:25 TRI is a benchmark index for such funds.",
+      "examRelevance": "Nifty 500 Multicap 50:25:25 TRI annualised return was 15.53% (April 2005-July 2026).",
+      "tags": [
+        "Nifty 500",
+        "Multicap Funds",
+        "Stock Market",
+        "Economy"
+      ],
+      "source": {
+        "title": "Multi-cap funds offer equity-like returns with lower drawdowns",
+        "url": "https://economictimes.indiatimes.com/mf/analysis/multi-cap-funds-offer-equity-like-returns-with-lower-drawdowns/articleshow/133361636.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q87",
+      "question": "According to recent reports, the cumulative rainfall deficit for the Southwest Monsoon has narrowed to what percentage, despite erratic swings between intense deluges and prolonged dry spells in different regions?",
+      "options": [
+        "18%",
+        "5%",
+        "8%",
+        "13%"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The cumulative rainfall deficit for the Southwest Monsoon has narrowed to 13%. However, the report highlights patchy progress and extreme weather events, with erratic swings between intense deluges and prolonged dry spells, leading to severe regional imbalances.",
+      "background": "The Southwest Monsoon is vital for India's agriculture and economy, accounting for about 70% of the country's annual rainfall. Monitoring its performance is crucial for agricultural planning and water resource management.",
+      "examRelevance": "Southwest Monsoon = cumulative rainfall deficit narrowed to 13%.",
+      "tags": [
+        "Southwest Monsoon",
+        "Rainfall Deficit",
+        "Climate",
+        "Agriculture"
+      ],
+      "source": {
+        "title": "Patchy progress, masked extremes: how the Southwest Monsoon has played out so far",
+        "url": "https://www.livemint.com/economy/patchy-progress-masked-extremes-how-the-southwest-monsoon-has-played-out-so-far-11786971002094.html"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q88",
+      "question": "The Comptroller and Auditor General (CAG) recently conducted an audit of which major Indian environmental mission, criticising its approach of 'counting trees when it should be restoring forests'?",
+      "options": [
+        "Compensatory Afforestation Fund Management and Planning Authority (CAMPA)",
+        "National Mission for a Green India",
+        "Green India Mission",
+        "National Afforestation Programme"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "The Comptroller and Auditor General (CAG) conducted an audit of the Green India Mission (GIM). The audit's editorial critique highlighted that India is 'counting trees when it should be restoring forests,' implying a focus on plantation numbers over ecological restoration.",
+      "background": "The Green India Mission is one of the eight missions under India's National Action Plan on Climate Change (NAPCC). Its objective is to protect, restore, and enhance India’s diminishing forest cover and to respond to climate change.",
+      "examRelevance": "CAG audit = Green India Mission, criticised for 'counting trees'.",
+      "tags": [
+        "CAG",
+        "Green India Mission",
+        "Environment",
+        "Forest Restoration",
+        "Audit"
+      ],
+      "source": {
+        "title": "Losing forest for trees: On the CAG’s audit of the Green India Mission",
+        "url": "https://www.thehindu.com/opinion/editorial/losing-forest-for-trees-on-the-cags-audit-of-the-green-india-mission/article71356794.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q89",
+      "question": "What is the updated death toll from the recent hotel fire in West Bengal?",
+      "options": [
+        "Seven",
+        "Nine",
+        "Twelve",
+        "Five"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "The death toll from the hotel fire in West Bengal has risen to nine. Two owners of the hotel have been arrested in connection with the incident.",
+      "background": "Following the fire, an inspection by the Birbhum district administration found that at least 15 hotels lacked proper fire safety arrangements, leading to directions for their sealing. This highlights concerns about fire safety compliance in commercial establishments.",
+      "examRelevance": "Bengal hotel fire death toll = nine.",
+      "tags": [
+        "West Bengal",
+        "Hotel Fire",
+        "Death Toll",
+        "Fire Safety",
+        "Birbhum"
+      ],
+      "source": {
+        "title": "Bengal hotel fire: Two owners held, death toll rises to nine",
+        "url": "https://www.thehindu.com/news/national/west-bengal/bengal-hotel-fire-two-owners-held-death-toll-rises/article71361224.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q90",
+      "question": "Indian players P.V. Sindhu and Ayush Shetty recently exited the World Championships in which sport, leaving India's hopes resting on doubles?",
+      "options": [
+        "Table Tennis",
+        "Squash",
+        "Badminton",
+        "Tennis"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Indian players P.V. Sindhu and Ayush Shetty recently exited the Badminton World Championships. Following their exit, India's hopes for medals now rest primarily on its doubles teams.",
+      "background": "The BWF World Championships is a major international badminton tournament sanctioned by the Badminton World Federation. It offers the most ranking points, after the Olympic Games, and is one of the most prestigious tournaments in the sport.",
+      "examRelevance": "Sport of World Championships where Sindhu and Ayush exited (Badminton).",
+      "tags": [
+        "PV Sindhu",
+        "Ayush Shetty",
+        "Badminton",
+        "World Championships",
+        "Indian hopes"
+      ],
+      "source": {
+        "title": "Badminton World Championships: India’s hopes rest on doubles after Sindhu, Ayush exit",
+        "url": "https://www.thehindu.com/sport/badminton-world-championships-indias-hopes-rest-on-doubles-after-sindhu-ayush-exit/article71370383.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q91",
+      "question": "Which Indian athlete, the first to win a Commonwealth Games medal in decathlon (bronze), recently received Arjuna recognition?",
+      "options": [
+        "Hima Das",
+        "Shankar",
+        "Murali Sreeshankar",
+        "Neeraj Chopra"
+      ],
+      "answerIndex": 1,
+      "category": "Awards & Honours",
+      "explanation": "Shankar, the first Indian to win a Commonwealth Games medal in the decathlon (claiming bronze), recently received Arjuna recognition. This award acknowledges his emergence as a multi-event athlete and his significant achievements in sports.",
+      "background": "The Arjuna Award is given by the Ministry of Youth Affairs and Sports, Government of India, to recognize outstanding achievement in national sports. Shankar's recognition highlights his pioneering efforts and success in the demanding decathlon event.",
+      "examRelevance": "Shankar, decathlon CWG medalist, received Arjuna recognition.",
+      "tags": [
+        "Shankar",
+        "Arjuna Award",
+        "Decathlon",
+        "Commonwealth Games",
+        "Sports"
+      ],
+      "source": {
+        "title": "Asian Games gold next, long career bigger goal after Arjuna recognition: Shankar",
+        "url": "https://www.thehindu.com/sport/asian-games-gold-next-long-career-bigger-goal-after-arjuna-recognition-shankar/article71366674.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q92",
+      "question": "Which state government recently announced the formation of citizen-led food safety watch teams at the taluk level and launched a QR code-based complaint management system for drug and food safety violations?",
+      "options": [
+        "Telangana",
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Karnataka Health Minister announced the formation of citizen-led food safety watch teams at the taluk level. Additionally, the Karnataka government launched a QR code-based complaint management system to enable citizens to report drug and food safety violations effectively.",
+      "background": "Public participation and digital tools are increasingly being integrated into governance for better transparency and accountability, especially in critical sectors like food safety and public health. This initiative aims to empower citizens in monitoring food quality.",
+      "examRelevance": "Karnataka = citizen-led food safety watch teams at taluk level, QR code complaint system.",
+      "tags": [
+        "Karnataka",
+        "Food Safety",
+        "QR Code System",
+        "Public Health",
+        "Taluk"
+      ],
+      "source": {
+        "title": "Citizen-led food safety watch teams will be formed at taluk level in Karnataka, says Health Minister",
+        "url": "https://www.thehindu.com/news/cities/bangalore/citizen-led-food-safety-watch-teams-will-be-formed-at-at-taluk-level-in-karnataka-says-health-minister/article71357273.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q93",
+      "question": "Who has been picked by Air New Zealand to join its board, formerly serving as CEO of Air India?",
+      "options": [
+        "Ratan Tata",
+        "Akasa Singh",
+        "Campbell Wilson",
+        "Pieter Elbers"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Air New Zealand has selected Campbell Wilson, the former CEO of Air India, to join its board. This appointment brings significant experience from the aviation industry to the New Zealand carrier.",
+      "background": "Campbell Wilson previously led Air India during a crucial period of its revitalization under Tata Group ownership. His appointment to Air New Zealand's board indicates a strategic move to leverage his international aviation expertise.",
+      "examRelevance": "Air New Zealand board appointment = Campbell Wilson (former Air India CEO).",
+      "tags": [
+        "Campbell Wilson",
+        "Air New Zealand",
+        "Air India",
+        "Board Appointment"
+      ],
+      "source": {
+        "title": "Air NZ picks ex-Air India CEO for board",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-new-zealand-taps-former-air-india-ceo-campbell-wilson-for-board/articleshow/133334837.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q94",
+      "question": "How much aid did the Odisha government announce for its flood-hit areas?",
+      "options": [
+        "₹750 crore",
+        "₹1,250 crore",
+        "₹500 crore",
+        "₹1,000 crore"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Odisha government announced a ₹1,000-crore aid package for flood-hit areas. The floods affected nearly 9.40 lakh people in six districts, with over 3.70 lakh evacuated to safer locations. Additional funds will be released after a detailed damage assessment.",
+      "background": "Odisha is prone to recurrent floods, especially during the monsoon season, due to its geographical location and river systems. State governments often allocate emergency funds to provide immediate relief and support recovery efforts for affected populations.",
+      "examRelevance": "Odisha flood aid = ₹1,000 crore.",
+      "tags": [
+        "Odisha",
+        "Flood Aid",
+        "Disaster Relief",
+        "Government Aid",
+        "Natural Calamity"
+      ],
+      "source": {
+        "title": "Odisha announces ₹1,000-crore aid for flood-hit areas",
+        "url": "https://www.thehindu.com/news/national/odisha/odisha-announces-1000-crore-aid-for-flood-hit-areas/article71361732.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q95",
+      "question": "Which country recently accused Iran of firing two ballistic missiles at its territory?",
+      "options": [
+        "Saudi Arabia",
+        "United Arab Emirates (UAE)",
+        "Kuwait",
+        "Qatar"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The United Arab Emirates (UAE) has accused Iran of firing two ballistic missiles at its territory. Iran, however, categorically rejected this claim, stating it was harmful to regional trust and security efforts.",
+      "background": "Tensions in the West Asia region remain high, with various geopolitical disputes and proxy conflicts. Accusations of missile attacks between regional powers often escalate diplomatic friction and raise concerns about regional stability.",
+      "examRelevance": "UAE accused Iran of firing ballistic missiles.",
+      "tags": [
+        "UAE",
+        "Iran",
+        "Ballistic Missiles",
+        "West Asia",
+        "International Relations"
+      ],
+      "source": {
+        "title": "UAE accuses Iran of firing two ballistic missiles at its territory",
+        "url": "https://www.thehindu.com/news/international/uae-accuses-iran-of-firing-ballistic-missiles-at-its-territory/article71362169.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q96",
+      "question": "According to a recent UK forecast, what year could potentially become the hottest year ever recorded due to the 'Biggest' El Niño in over a century?",
+      "options": [
+        "2028",
+        "2026",
+        "2025",
+        "2027"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The UK's national weather agency issued a warning on August 21, 2026, forecasting what could be the strongest El Niño in more than a century. This powerful climate event has the potential to make 2027 the hottest year ever recorded globally.",
+      "background": "El Niño is a climate pattern characterized by the unusual warming of surface waters in the eastern tropical Pacific Ocean. It has significant impacts on global weather patterns, often leading to increased temperatures, altered rainfall, and extreme weather events worldwide.",
+      "examRelevance": "UK forecast = 2027 could be hottest year ever due to 'Biggest' El Niño.",
+      "tags": [
+        "El Niño",
+        "Global Warming",
+        "Climate Change",
+        "UK Forecast",
+        "Environment"
+      ],
+      "source": {
+        "title": "Watch: U.K. forecasts ‘Biggest’ El Niño: 2027 could be the hottest year ever recorded",
+        "url": "https://www.thehindu.com/videos/watch-uk-forecasts-biggest-el-nino-2027-could-be-the-hottest-year-ever-recorded/article71378899.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q97",
+      "question": "The UN Security Council is holding a second informal poll for the selection of the next ______?",
+      "options": [
+        "President of the General Assembly",
+        "Secretary-General",
+        "President of the International Court of Justice",
+        "High Commissioner for Human Rights"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The UN Security Council is holding a second informal poll to test contenders in the race for the next Secretary-General of the United Nations. This process helps gauge support for candidates before a formal vote.",
+      "background": "The UN Secretary-General is the chief administrative officer of the United Nations. The selection process involves both the Security Council and the General Assembly, with the Security Council making a recommendation to the General Assembly.",
+      "examRelevance": "UN Security Council's informal poll for the next Secretary-General.",
+      "tags": [
+        "UN",
+        "Secretary-General",
+        "Security Council",
+        "Informal poll"
+      ],
+      "source": {
+        "title": "UN holds second informal poll for next leader",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/un-security-council-tests-contenders-in-race-for-next-secretary-general/articleshow/133390620.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q98",
+      "question": "Who is leading the reconstituted NCERT textbook development team for Classes 11 and 12 Political Science?",
+      "options": [
+        "S. Jaishankar",
+        "Rakesh Mohan",
+        "Sandeep Shastri",
+        "Kiran Bedi"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "The NCERT has reconstituted its textbook development team for Classes 11 and 12 Political Science. The team will be led by academic and political analyst Sandeep Shastri, who is also the vice-president of the Karnataka-based deemed university Nitte.",
+      "background": "NCERT routinely revises textbooks to update content and pedagogical approaches. The appointment of a new lead for the Political Science team reflects a focus on curriculum development in this crucial subject area.",
+      "examRelevance": "Sandeep Shastri leads the reconstituted NCERT Political Science textbook team.",
+      "tags": [
+        "NCERT",
+        "Sandeep Shastri",
+        "Textbook Development",
+        "Education"
+      ],
+      "source": {
+        "title": "RSS-linked academics in NCERT textbook panel",
+        "url": "https://www.thehindu.com/education/ncert-reconstitutes-textbook-development-team-for-classes-11-and-12-political-science/article71366560.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q99",
+      "question": "Indian Grandmaster R. Praggnanandhaa finished second in which recent international chess tournament after a tie-break loss to Wesley So?",
+      "options": [
+        "Candidates Tournament",
+        "Sinquefield Cup",
+        "Tata Steel Chess India",
+        "World Rapid Chess Championship"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Indian Grandmaster R. Praggnanandhaa finished second in the Sinquefield Cup after a tie-break loss to Wesley So. This is a significant achievement in a prestigious international chess tournament.",
+      "background": "The Sinquefield Cup is an annual super grandmaster chess tournament held in St. Louis, Missouri, USA. It is part of the Grand Chess Tour and attracts top players from around the world.",
+      "examRelevance": "R. Praggnanandhaa's second-place finish in Sinquefield Cup.",
+      "tags": [
+        "R Praggnanandhaa",
+        "Chess",
+        "Sinquefield Cup",
+        "Grandmaster",
+        "Wesley So"
+      ],
+      "source": {
+        "title": "Praggnanandhaa finishes second in Sinquefield Cup",
+        "url": "https://www.thehindu.com/sport/praggnanandhaa-finishes-second-in-sinquefield-cup/article71370894.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W34-q100",
+      "question": "Who was recently appointed as the Secretary of Iran's Supreme National Security Council?",
+      "options": [
+        "Ali Shamkhani",
+        "Hossein Salami",
+        "Mohsen Rezaei",
+        "Mohammad Bagheri"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Mohsen Rezaei, a former IRGC commander and a close confidant of the Supreme Leader, has been appointed as the Secretary of Iran's Supreme National Security Council. He previously served in various high-level positions within the Iranian establishment.",
+      "background": "The Supreme National Security Council is a key advisory body to the Supreme Leader of Iran, responsible for national security and foreign policy. Rezaei's appointment places a prominent figure with a strong military background in a critical strategic role.",
+      "examRelevance": "Mohsen Rezaei = Secretary of Iran's Supreme National Security Council.",
+      "tags": [
+        "Mohsen Rezaei",
+        "Iran",
+        "Appointments",
+        "Supreme National Security Council"
+      ],
+      "source": {
+        "title": "Mohsen Rezaee | The Islamic apparatchik",
+        "url": "https://www.thehindu.com/news/international/mohsen-rezaee-the-islamic-apparatchik/article71378773.ece"
+      }
+    }
+  ]
+}
