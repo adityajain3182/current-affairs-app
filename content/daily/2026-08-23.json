@@ -1,0 +1,788 @@
+{
+  "id": "daily-2026-08-23",
+  "type": "daily",
+  "date": "2026-08-23",
+  "title": "Current Affairs — 23 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-23-q1",
+      "question": "Which Indian American Congressman urged the Trump administration to stop the electric shock glove plan for ICE?",
+      "options": [
+        "Ami Bera",
+        "Shri Thanedar",
+        "Pramila Jayapal",
+        "Ro Khanna"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Indian American Congressman Shri Thanedar urged the Trump administration to stop the plan for electric shock gloves for Immigration and Customs Enforcement (ICE). He criticized ICE for hiring unqualified officers and rushing them through training programs with reduced use of force instruction.",
+      "background": "The concern raised by Congressman Thanedar highlights ongoing debates in the U.S. regarding the use of force by federal agencies like ICE and the qualifications of their personnel. Lawmakers are scrutinizing policies implemented under previous administrations.",
+      "examRelevance": "Shri Thanedar = Indian American Congressman opposing ICE electric shock gloves.",
+      "tags": [
+        "Shri Thanedar",
+        "ICE",
+        "U.S. Congress",
+        "Trump administration"
+      ],
+      "source": {
+        "title": "Stop electric shock glove plan for ICE: U.S. lawmakers to Trump administration",
+        "url": "https://www.thehindu.com/news/international/stop-electric-shock-glove-plan-for-ice-us-lawmakers-to-trump-administration/article71380045.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q2",
+      "question": "Which Australian player scored 67 runs, contributing to Australia's 146-run lead on Day 2 of the Test match against Bangladesh?",
+      "options": [
+        "Cameron Green",
+        "Pat Cummins",
+        "Mitchell Starc",
+        "Steve Smith"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "On Day 2 of the Test match between Australia and Bangladesh, Australia was all out for 210 runs, securing a lead of 146 runs. Cameron Green was a significant contributor, scoring 67 runs for the hosts.",
+      "background": "This Test match saw a high number of wickets fall early, with 18 wickets tumbling on the first day. Cameron Green's innings was crucial in establishing a substantial lead for Australia in what appears to be a low-scoring game.",
+      "examRelevance": "Cameron Green = 67 runs in AUS vs BAN Test, contributing to Australia's lead.",
+      "tags": [
+        "Cricket",
+        "Australia",
+        "Bangladesh",
+        "Cameron Green",
+        "Test Match"
+      ],
+      "source": {
+        "title": "AUS vs BAN Test Day 2: Starc strikes as Bangladesh struggle to stay alive",
+        "url": "https://www.thehindu.com/sport/cricket/australia-vs-bangladesh-test-match-day-2-updates/article71380021.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q3",
+      "question": "Which country's humanoid robot recently surpassed Usain Bolt's 100m sprint record at the Beijing Games?",
+      "options": [
+        "South Korea",
+        "United States",
+        "China",
+        "Japan"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "A Chinese humanoid robot recently outran Usain Bolt's 100m sprint record during an event at the Beijing Games. This achievement highlights advancements in robotics and artificial intelligence in China.",
+      "background": "Usain Bolt holds the world record for the men's 100 meters, which is 9.58 seconds. The robot's accomplishment signifies a major milestone in robotic locomotion and speed, pushing the boundaries of what machines can achieve in athletic feats.",
+      "examRelevance": "Chinese humanoid robot = beats Usain Bolt's 100m record.",
+      "tags": [
+        "Robotics",
+        "Humanoid Robot",
+        "China",
+        "Usain Bolt",
+        "100m Record"
+      ],
+      "source": {
+        "title": "Chinese robot outruns Usain Bolt's record",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/chinese-humanoid-robot-beats-usain-bolts-100m-record-at-beijing-games/articleshow/133433403.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q4",
+      "question": "Who was recently appointed as the Secretary of Iran's Supreme National Security Council?",
+      "options": [
+        "Ali Shamkhani",
+        "Hossein Salami",
+        "Mohsen Rezaei",
+        "Mohammad Bagheri"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Mohsen Rezaei, a former IRGC commander and a close confidant of the Supreme Leader, has been appointed as the Secretary of Iran's Supreme National Security Council. He previously served in various high-level positions within the Iranian establishment.",
+      "background": "The Supreme National Security Council is a key advisory body to the Supreme Leader of Iran, responsible for national security and foreign policy. Rezaei's appointment places a prominent figure with a strong military background in a critical strategic role.",
+      "examRelevance": "Mohsen Rezaei = Secretary of Iran's Supreme National Security Council.",
+      "tags": [
+        "Mohsen Rezaei",
+        "Iran",
+        "Appointments",
+        "Supreme National Security Council"
+      ],
+      "source": {
+        "title": "Mohsen Rezaee | The Islamic apparatchik",
+        "url": "https://www.thehindu.com/news/international/mohsen-rezaee-the-islamic-apparatchik/article71378773.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q5",
+      "question": "In the escalating trade dispute, what percentage of new tariffs did the U.S. impose on Canadian exports, impacting approximately $20 billion worth of goods?",
+      "options": [
+        "25%",
+        "50%",
+        "10%",
+        "75%"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "As the trade war between the U.S. and Canada escalated, negotiations broke down on August 21. This led to the U.S. putting into force new 50% tariffs impacting about $20 billion worth of Canadian goods, which accounts for 5.5% of Canada's exports to the United States.",
+      "background": "Trade tensions between the two neighboring countries have been ongoing, with both sides imposing retaliatory measures. These new tariffs represent a significant escalation, affecting a notable portion of Canadian exports to its largest trading partner.",
+      "examRelevance": "U.S. tariffs on Canadian exports = 50% on $20 billion worth of goods.",
+      "tags": [
+        "Trade War",
+        "U.S.A.",
+        "Canada",
+        "Tariffs",
+        "Exports"
+      ],
+      "source": {
+        "title": "Canada retaliates as trade war with U.S. escalates",
+        "url": "https://www.thehindu.com/news/international/canada-retaliates-as-trade-war-with-us-escalates/article71379056.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q6",
+      "question": "Off the coast of which country did a migrant boat recently capsize, resulting in two bodies recovered and about 12 people missing?",
+      "options": [
+        "Italy",
+        "Tunisia",
+        "Greece",
+        "Libya"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "A migrant boat recently capsized off the Tunisian coast. Search and rescue operations were launched, leading to the recovery of two bodies, while approximately 12 other individuals remain missing.",
+      "background": "The central Mediterranean route, often originating from Tunisia or Libya, is a frequently used but perilous path for migrants attempting to reach Europe. Tragic incidents of boat capsizing are unfortunately common in these waters.",
+      "examRelevance": "Migrant boat capsized = off Tunisian coast.",
+      "tags": [
+        "Migrants",
+        "Tunisia",
+        "Boat Accident",
+        "Mediterranean"
+      ],
+      "source": {
+        "title": "Two bodies recovered, about 12 missing after migrant boat capsized off Tunisian coast",
+        "url": "https://www.thehindu.com/news/international/two-bodies-recovered-about-12-missing-after-migrant-boat-capsized-off-tunisian-coast/article71380025.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q7",
+      "question": "Which two districts in Madhya Pradesh were instructed by CM Yadav to ensure officials visit families affected by the Ken-Betwa project?",
+      "options": [
+        "Panna and Chhatarpur",
+        "Jabalpur and Rewa",
+        "Bhopal and Indore",
+        "Gwalior and Ujjain"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "Madhya Pradesh Chief Minister Yadav directed the Panna and Chhatarpur district administrations to ensure that officials visit every household in the villages affected by the Ken-Betwa project. The aim is to understand the actual situation and grievances of the families.",
+      "background": "The Ken-Betwa Link Project is a major river interlinking project in India, aimed at transferring surplus water from the Ken river to the Betwa river, both in the Bundelkhand region. While it promises to address water scarcity, it also involves displacement and environmental concerns, necessitating careful management of affected communities.",
+      "examRelevance": "Ken-Betwa project affected districts = Panna and Chhatarpur (Madhya Pradesh).",
+      "tags": [
+        "Ken-Betwa Project",
+        "Madhya Pradesh",
+        "Panna",
+        "Chhatarpur",
+        "River Interlinking"
+      ],
+      "source": {
+        "title": "Visit families affected by Ken-Betwa project, hear their grievances: M.P. CM tells officials",
+        "url": "https://www.thehindu.com/news/national/madhya-pradesh/visit-families-affected-by-ken-betwa-project-hear-their-grievances-mp-cm-tells-officials/article71378282.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q8",
+      "question": "What is the emerging agricultural model in India that allows farmers to grow crops beneath solar panels, diversifying income and generating electricity?",
+      "options": [
+        "Hydroponics",
+        "Agrivoltaics",
+        "Vertical Farming",
+        "Permaculture"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "India’s emerging agrivoltaics model enables farmers to grow crops beneath solar panels, offering a way to generate electricity while simultaneously diversifying their income. This innovative approach integrates agriculture and solar energy production.",
+      "background": "Agrivoltaics, also known as solar sharing, is a system that combines solar panel installation with agriculture on the same land. Despite its potential, the model faces challenges such as high upfront costs, financing constraints, and uneven policy support, which are currently preventing wider adoption beyond pilot projects.",
+      "examRelevance": "Agrivoltaics = growing crops beneath solar panels, diversifying income, generating electricity.",
+      "tags": [
+        "Agrivoltaics",
+        "Solar Power",
+        "Agriculture",
+        "Renewable Energy",
+        "Farmers"
+      ],
+      "source": {
+        "title": "Sowing the seeds of a solar power intervention",
+        "url": "https://www.thehindu.com/news/national/rajasthan/sowing-the-seeds-of-a-solar-power-intervention/article71378860.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q9",
+      "question": "Which political leader recently made a '25 paise' remark that triggered a row with RLD chief Jayant Chaudhary, who demanded an apology?",
+      "options": [
+        "Akhilesh Yadav",
+        "Yogi Adityanath",
+        "Priyanka Gandhi",
+        "Mayawati"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Akhilesh Yadav's '25 paise' remark triggered a row with RLD chief Jayant Chaudhary, who criticized the comment as targeting the Jat community. Mayawati also demanded an apology from Akhilesh Yadav for insulting the family of Charan Singh.",
+      "background": "The RLD (Rashtriya Lok Dal) has a significant support base among the Jat community in Uttar Pradesh. Such remarks during political discourse often lead to controversy, especially when perceived as targeting specific communities or historical figures associated with them.",
+      "examRelevance": "Akhilesh Yadav's '25 paise' remark = triggered row with RLD chief Jayant Chaudhary.",
+      "tags": [
+        "Akhilesh Yadav",
+        "Jayant Chaudhary",
+        "RLD",
+        "Uttar Pradesh Politics",
+        "Jat Community"
+      ],
+      "source": {
+        "title": "Akhilesh’s ‘25 paise’ remark triggers row with RLD, Mayawati demands apology",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-must-apologise-to-jats-for-insulting-family-of-charan-singh-mayawati/article71376609.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q10",
+      "question": "What was the magnitude of the earthquake that recently shook northeast Japan, injuring at least five people?",
+      "options": [
+        "5.9",
+        "5.2",
+        "4.5",
+        "6.1"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "An earthquake of 5.9 magnitude recently shook northeast Japan, injuring at least five people. The Fire and Disaster Management Agency reported injuries in Ibaraki, Chiba, and Saitama prefectures, northeast of Tokyo, with no danger of a tsunami.",
+      "background": "Japan is located in a highly seismically active zone, experiencing frequent earthquakes. While this was a moderate earthquake, the country has stringent building codes and disaster preparedness measures to mitigate damage and casualties.",
+      "examRelevance": "Northeast Japan earthquake magnitude = 5.9.",
+      "tags": [
+        "Earthquake",
+        "Japan",
+        "Natural Disaster",
+        "Ibaraki",
+        "Chiba",
+        "Saitama"
+      ],
+      "source": {
+        "title": "At least 5 injured as 5.9 magnitude earthquake shakes northeast Japan; no danger of tsunami",
+        "url": "https://www.thehindu.com/news/international/japan-tokyo-earthquake-several-injured-latest-update/article71380017.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q11",
+      "question": "Nancy Kassebaum Baker, who recently passed away at 94, was a former U.S. Senator from which state?",
+      "options": [
+        "New York",
+        "California",
+        "Texas",
+        "Kansas"
+      ],
+      "answerIndex": 3,
+      "category": "Obituaries",
+      "explanation": "Nancy Kassebaum Baker, a former U.S. Senator from Kansas, passed away at the age of 94. She was first elected to the U.S. Senate in 1978 and served three terms, making significant contributions during her tenure.",
+      "background": "Nancy Kassebaum Baker was a notable figure in American politics, known for her moderate Republican stance and focus on healthcare and education. Her passing marks the end of an era for a respected public servant.",
+      "examRelevance": "Nancy Kassebaum Baker = former U.S. Senator from Kansas.",
+      "tags": [
+        "Obituary",
+        "Nancy Kassebaum Baker",
+        "U.S. Senator",
+        "Kansas"
+      ],
+      "source": {
+        "title": "Nancy Kassebaum Baker, former U.S. senator from Kansas, dies at 94",
+        "url": "https://www.thehindu.com/news/international/nancy-kassebaum-baker-former-us-senator-from-kansas-dies-at-94/article71378927.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q12",
+      "question": "A Panama-flagged cargo ship, carrying iron ore from Odisha, recently sank in the Bay of Bengal while heading towards which destination?",
+      "options": [
+        "Singapore",
+        "Shanghai",
+        "Colombo",
+        "Dubai"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "A Panama-flagged cargo ship, with 24 crew members on board, sank in the Bay of Bengal. The vessel was carrying iron ore from Odisha and was en route to Singapore when the incident occurred. The Indian Coast Guard (ICG) has deployed ships for a search-and-rescue operation.",
+      "background": "Maritime incidents involving cargo ships are a concern for international trade and safety. The Bay of Bengal is a busy shipping route, and such sinkings necessitate prompt rescue efforts and investigations into the cause.",
+      "examRelevance": "Panama-flagged cargo ship sank near Odisha = carrying iron ore to Singapore.",
+      "tags": [
+        "Cargo Ship",
+        "Panama-flagged",
+        "Bay of Bengal",
+        "Odisha",
+        "Singapore",
+        "ICG"
+      ],
+      "source": {
+        "title": "ICG deploys ships for search-and-rescue operation after Panama-flagged vessel sinks",
+        "url": "https://www.thehindu.com/news/national/panama-flagged-cargo-ship-sinks-in-bay-of-bengal-rescue-operations/article71378882.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q13",
+      "question": "How many locations has Odisha identified for developing university townships, which are educational complexes including multiple institutions?",
+      "options": [
+        "One",
+        "Two",
+        "Four",
+        "Three"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Odisha has identified three locations for the development of university townships. These townships are envisioned as comprehensive educational complexes, encompassing multiple universities, colleges, research institutions, skill centers, and residential campuses.",
+      "background": "The establishment of university townships is a strategic move to create integrated hubs for higher education and research, fostering academic excellence and attracting talent. This initiative aims to bolster Odisha's position as an educational destination.",
+      "examRelevance": "Odisha = identified three locations for university townships.",
+      "tags": [
+        "Odisha",
+        "University Townships",
+        "Education",
+        "Higher Education"
+      ],
+      "source": {
+        "title": "Odisha identifies three locations for university townships",
+        "url": "https://www.thehindu.com/news/national/odisha/odisha-identifies-three-locations-for-university-townships/article71378116.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q14",
+      "question": "Which two bowlers took six wickets each on the first day of the Australia vs Bangladesh 2nd Test match?",
+      "options": [
+        "Nathan Lyon and Taijul Islam",
+        "Mitchell Starc and Shoriful Islam",
+        "Pat Cummins and Mustafizur Rahman",
+        "Josh Hazlewood and Taskin Ahmed"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "On a dramatic first day of the Australia vs Bangladesh 2nd Test, both Mitchell Starc and Shoriful Islam tore through the opposition, taking six wickets each. Starc began by removing Shadman Islam with the first ball, while Shoriful Islam hit back with his own impressive haul.",
+      "background": "Taking six wickets in a Test innings is a significant achievement for any bowler. For two bowlers, one from each side, to achieve this on the same day highlights a highly competitive and wicket-laden start to the match, often indicative of challenging batting conditions.",
+      "examRelevance": "Mitchell Starc and Shoriful Islam = took 6 wickets each in AUS vs BAN 2nd Test.",
+      "tags": [
+        "Cricket",
+        "Mitchell Starc",
+        "Shoriful Islam",
+        "Australia",
+        "Bangladesh",
+        "Test Match"
+      ],
+      "source": {
+        "title": "AUS vs BAN 2nd Test: Australia lead by 101 runs; Mitchell Starc and Shoriful Islam take 6 wickets each",
+        "url": "https://www.thehindu.com/sport/cricket/autralia-versus-bangaldesh-second-test-day-1-report-august-22/article71377072.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q15",
+      "question": "Who secured pole position for the Dutch Grand Prix, while George Russell cruised to a sprint win?",
+      "options": [
+        "Max Verstappen",
+        "Lewis Hamilton",
+        "Lando Norris",
+        "Kimi Antonelli"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Lando Norris of McLaren secured pole position for the Dutch Grand Prix, making the most of his final run on the Zandvoort track by 0.102 of a second. George Russell, his Mercedes teammate, cruised to a sprint win, with Kimi Antonelli finishing third.",
+      "background": "Pole position in Formula 1 is a crucial advantage, as it means starting from the front of the grid. The Dutch Grand Prix is a key event in the Formula 1 calendar, and securing pole indicates strong performance in qualifying sessions.",
+      "examRelevance": "Lando Norris = pole position for Dutch Grand Prix.",
+      "tags": [
+        "Formula 1",
+        "Lando Norris",
+        "Dutch Grand Prix",
+        "McLaren",
+        "Motorsport"
+      ],
+      "source": {
+        "title": "Lando Norris on pole for Dutch Grand Prix as Russell cruises to sprint win",
+        "url": "https://www.thehindu.com/sport/motorsport/lando-norris-on-pole-for-dutch-grand-prix-as-russell-cruises-to-sprint-win/article71378962.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q16",
+      "question": "The U.S. recently accused India of violating fair trade practices under what alleged scam?",
+      "options": [
+        "The Intellectual Property Theft Racket",
+        "The Currency Manipulation Scheme",
+        "The Great Transhipment Scam",
+        "The Tariff Evasion Syndicate"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The U.S. has recently accused India of violating fair trade practices, specifically naming these allegations as part of 'The Great Transhipment Scam'. These accusations are related to trade and economic practices between the two nations.",
+      "background": "Allegations of unfair trade practices and transhipment scams typically involve goods being rerouted through a third country to circumvent tariffs, quotas, or other trade restrictions. Such accusations can strain bilateral trade relations and may lead to investigations or trade sanctions.",
+      "examRelevance": "U.S. allegations against India = 'The Great Transhipment Scam' regarding fair trade practices.",
+      "tags": [
+        "U.S.A.",
+        "India",
+        "Trade Practices",
+        "Great Transhipment Scam",
+        "Economy"
+      ],
+      "source": {
+        "title": "What are the U.S.’s latest allegations against India? | Explained",
+        "url": "https://www.thehindu.com/business/what-are-the-uss-latest-allegations-against-india-explained/article71378950.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q17",
+      "question": "Which team recently entered the semi-finals of the Men’s Hockey World Cup, while India was on the brink of elimination?",
+      "options": [
+        "Netherlands",
+        "Australia",
+        "Germany",
+        "Belgium"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "The Dutch team recently entered the semi-finals of the Men’s Hockey World Cup. Meanwhile, the home side, India, was on the brink of elimination, languishing at the bottom of Pool E, despite a slim hope due to Argentina’s victory over England.",
+      "background": "The Men's Hockey World Cup is one of the most prestigious tournaments in international field hockey. Advancing to the semi-finals is a significant achievement, placing a team among the top contenders for the championship title.",
+      "examRelevance": "Dutch team = entered Men’s Hockey World Cup semi-finals.",
+      "tags": [
+        "Men's Hockey World Cup",
+        "Netherlands",
+        "India",
+        "Hockey",
+        "Sports"
+      ],
+      "source": {
+        "title": "Men’s hockey World Cup: Dutch enter semis; India on the brink of elimination",
+        "url": "https://www.thehindu.com/sport/hockey/mens-hockey-world-cup-dutch-enter-semis-india-on-the-brink-of-elimination/article71378854.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q18",
+      "question": "The cultural festival 'Lavanyam 2026', featuring around 40 cultural programmes across 15 venues, is set to kick-start in which city?",
+      "options": [
+        "Thiruvananthapuram",
+        "Kochi (Ernakulam)",
+        "Kozhikode",
+        "Thrissur"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "The cultural festival 'Lavanyam 2026' is scheduled to kick-start on August 24 in Ernakulam. The festival will feature around 40 cultural programmes staged across 15 different venues, with the main venue being the Durbar Hall open-air auditorium.",
+      "background": "Cultural festivals like 'Lavanyam' play a vital role in promoting local art forms, traditions, and artists. Hosting such a large-scale event across multiple venues indicates a significant cultural celebration in the region, attracting both local talent and audiences.",
+      "examRelevance": "'Lavanyam 2026' cultural festival = to be held in Ernakulam.",
+      "tags": [
+        "Lavanyam 2026",
+        "Ernakulam",
+        "Kerala",
+        "Cultural Festival",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "‘Lavanyam 2026’ to kick-start on August 24",
+        "url": "https://www.thehindu.com/news/national/kerala/lavanyam-2026-to-kick-start-on-august-24/article71377447.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q19",
+      "question": "The Karnataka Cabinet recently cleared a Bill to amend the Karnataka Government Parks (Preservation) Act, 1975, to allow what percentage of parks and garden lands to be alienated for public purposes?",
+      "options": [
+        "10%",
+        "5%",
+        "15%",
+        "2%"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Karnataka Cabinet recently cleared a Bill to amend the Karnataka Government Parks (Preservation) Act, 1975. This amendment will allow 5% of parks and garden lands to be alienated for public purposes. Environmentalists and city BJP MPs have expressed concerns that this move is aimed at facilitating the takeover of Lalbagh land for a Tunnel Road project.",
+      "background": "The Karnataka Government Parks (Preservation) Act, 1975, is designed to protect public parks and gardens. Any amendment to allow alienation of such land for other purposes is a significant policy change, often leading to debates between urban development needs and environmental conservation.",
+      "examRelevance": "Karnataka Government Parks (Preservation) Act, 1975 amendment = allows 5% land alienation for public purposes.",
+      "tags": [
+        "Karnataka",
+        "Park Bill",
+        "Lalbagh",
+        "Legislation",
+        "Environment",
+        "Urban Development"
+      ],
+      "source": {
+        "title": "Park Bill: Move aimed at facilitating takeover of Lalbagh land for Tunnel Road, say environmentalists, city BJP MPs",
+        "url": "https://www.thehindu.com/news/cities/bangalore/park-bill-move-aimed-at-facilitating-takeover-of-lalbagh-land-for-tunnel-road-say-environmentalists-city-bjp-mps/article71378749.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q20",
+      "question": "Which Indian city recently hosted an international conference on Neurodiversity and Inclusion?",
+      "options": [
+        "Mumbai",
+        "Bengaluru",
+        "Chennai",
+        "Delhi"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "Bengaluru recently hosted an international conference on Neurodiversity and Inclusion. Such conferences bring together experts and advocates to discuss strategies for creating more inclusive environments for neurodivergent individuals.",
+      "background": "Neurodiversity acknowledges that neurological differences are natural variations of the human brain, rather than disorders. Conferences on this topic aim to promote understanding, acceptance, and support for individuals with conditions like autism, ADHD, and dyslexia in various societal contexts, including education and employment.",
+      "examRelevance": "Bengaluru = hosted international conference on Neurodiversity and Inclusion.",
+      "tags": [
+        "Bengaluru",
+        "Neurodiversity",
+        "Inclusion",
+        "Conference"
+      ],
+      "source": {
+        "title": "Bengaluru hosts international conference on Neurodiversity and Inclusion",
+        "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-hosts-international-conference-on-neurodiversity-and-inclusion/article71378679.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q21",
+      "question": "When is the full stretch of Bengaluru's Blue Line Metro expected to open, following its phased opening from mid-2027?",
+      "options": [
+        "December 2027",
+        "June 2028",
+        "March 2028",
+        "December 2028"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The Blue Line Metro in Bengaluru is slated to open in phases starting from mid-2027, with the full stretch expected to be operational by March 2028. This information was provided by KBG.",
+      "background": "The Bengaluru Metro, Namma Metro, is a vital public transportation project aimed at alleviating traffic congestion in the city. The Blue Line is a significant expansion that will connect key areas, and its completion will greatly enhance urban mobility for commuters.",
+      "examRelevance": "Bengaluru Blue Line Metro full stretch = by March 2028.",
+      "tags": [
+        "Bengaluru Metro",
+        "Blue Line",
+        "Infrastructure",
+        "Urban Transport",
+        "Karnataka"
+      ],
+      "source": {
+        "title": "Blue Line to open in phases from mid-2027; full stretch by March 2028: Says KBG",
+        "url": "https://www.thehindu.com/news/cities/bangalore/blue-line-to-open-in-phases-from-mid-2027-full-stretch-by-march-2028-says-kbg/article71378865.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q22",
+      "question": "What was the initial fixed charge percentage of the guidance value for B-Khata conversion in Bengaluru, before it was reduced to 2% due to poor response?",
+      "options": [
+        "10%",
+        "1%",
+        "5%",
+        "2%"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Initially, the fixed charges for B-Khata conversion in Bengaluru were set at 5% of the guidance value in the area. However, due to a poor response, the government reduced these charges to 2% and announced a 60% rebate, with August 23 set as the deadline for this rebate period.",
+      "background": "B-Khata refers to a register for properties that are not entirely legal or compliant with all building bylaws in Bengaluru. The conversion process allows these properties to be regularized into A-Khata, which confers full legal status. Incentives like rebates are offered to encourage property owners to complete this conversion.",
+      "examRelevance": "B-Khata conversion initial charge = 5% of guidance value, reduced to 2%.",
+      "tags": [
+        "B-Khata",
+        "Bengaluru",
+        "Property",
+        "Rebate",
+        "Guidance Value"
+      ],
+      "source": {
+        "title": "60% rebate spurs B-Khata conversion, but fails to attract substantial interest",
+        "url": "https://www.thehindu.com/news/cities/bangalore/60-rebate-spurs-b-khata-conversion-but-fails-to-attract-substantial-interest/article71378274.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q23",
+      "question": "Which team from the Tamil Nadu Premier League (TNPL) recently secured a spot in Qualifier 1, also helping Tamizhans advance to the next stage?",
+      "options": [
+        "Madurai Panthers",
+        "Salem Spartans",
+        "Nellai Royal Kings",
+        "Chepauk Super Gillies"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "In the Tamil Nadu Premier League (TNPL), the Panthers sealed their spot in Qualifier 1. This result also played a role in helping the Tamizhans advance to the next stage of the tournament.",
+      "background": "The TNPL is a professional Twenty20 cricket league contested by teams representing various districts in Tamil Nadu, India. Securing a Qualifier 1 spot is a significant achievement, placing the team in a strong position for the playoffs.",
+      "examRelevance": "Panthers = sealed Qualifier 1 spot in TNPL.",
+      "tags": [
+        "TNPL",
+        "Cricket",
+        "Panthers",
+        "Tamil Nadu",
+        "Qualifier 1"
+      ],
+      "source": {
+        "title": "TNPL: Panthers seal Qualifier 1 spot, help Tamizhans advance to the next stage",
+        "url": "https://www.thehindu.com/sport/panthers-seal-qualifier-1-spot-help-tamizhans-advance-to-the-next-stage/article71378568.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q24",
+      "question": "Who is the school teacher from Shivamogga, Karnataka, who recently won the National Teachers’ Award for her innovative teaching techniques?",
+      "options": [
+        "Smt. Lakshmi Devi",
+        "Dr. Anjali Singh",
+        "Ms. Ratnakumari",
+        "Smt. Geeta Sharma"
+      ],
+      "answerIndex": 2,
+      "category": "Awards & Honours",
+      "explanation": "Ms. Ratnakumari, a school teacher from Shivamogga, Karnataka, has won the National Teachers’ Award. She will receive the award from the President in Delhi, recognized for her over 30 years of teaching experience and innovative techniques to engage schoolchildren through campus activities.",
+      "background": "The National Teachers’ Award is conferred by the President of India to recognize the exemplary contributions of teachers in the country. It highlights dedication, innovation, and impact on students' lives and the educational system.",
+      "examRelevance": "Ms. Ratnakumari (Shivamogga) = winner of National Teachers’ Award.",
+      "tags": [
+        "National Teachers’ Award",
+        "Ms. Ratnakumari",
+        "Shivamogga",
+        "Karnataka",
+        "Education"
+      ],
+      "source": {
+        "title": "Shivamogga school teacher wins National Teachers’ Award, to receive award from President in Delhi",
+        "url": "https://www.thehindu.com/news/national/karnataka/shivamogga-school-teacher-wins-national-teachers-award-to-receive-award-from-president-in-delhi/article71376637.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q25",
+      "question": "The Greater Chennai Corporation (GCC) has proposed ₹4,000-crore worth of projects, including a Kodungaiyur waste facility and a coastal bridge, under which financing model?",
+      "options": [
+        "Smart Cities Mission Fund",
+        "Amrut Mission",
+        "Urban Challenge Fund",
+        "Jawaharlal Nehru National Urban Renewal Mission"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The Greater Chennai Corporation (GCC) has put forward proposals worth ₹4,000 crore for projects like the Kodungaiyur waste facility and a coastal bridge. These projects are planned under the Urban Challenge Fund, which follows a financing model of 25% Central assistance, 25% State or Urban Local Body share, and 50% market-based financing or Public-Private Partnership (PPP) models.",
+      "background": "The Urban Challenge Fund aims to encourage urban local bodies to undertake significant infrastructure and development projects through a blended financing approach. This model seeks to leverage both government funding and private investment for large-scale urban initiatives.",
+      "examRelevance": "GCC's ₹4,000-crore proposals = under Urban Challenge Fund (25% Central, 25% State/ULB, 50% market/PPP).",
+      "tags": [
+        "Greater Chennai Corporation",
+        "Urban Challenge Fund",
+        "Infrastructure",
+        "Kodungaiyur",
+        "Coastal Bridge",
+        "Tamil Nadu"
+      ],
+      "source": {
+        "title": "Kodungaiyur waste facility, coastal bridge among GCC’s ₹4,000-crore worth proposals",
+        "url": "https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/kodungaiyur-waste-facility-coastal-bridge-among-gccs-4000-crore-worth-proposals/article71378502.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q26",
+      "question": "What was the United Kingdom Maritime Trade Operations (UKMTO) originally established to help combat?",
+      "options": [
+        "Drug trafficking",
+        "Human trafficking",
+        "Piracy",
+        "Illegal fishing"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The United Kingdom Maritime Trade Operations (UKMTO) was originally established to help combat piracy. It has since evolved to become a primary source of information for vessels regarding various dangers lurking at sea, providing crucial maritime security intelligence.",
+      "background": "Maritime piracy, particularly in regions like the Gulf of Aden and off the coast of Somalia, has been a significant threat to international shipping. Organizations like UKMTO play a vital role in coordinating responses and disseminating information to ensure the safety of commercial and civilian vessels.",
+      "examRelevance": "UKMTO = originally established to combat piracy.",
+      "tags": [
+        "UKMTO",
+        "Maritime Security",
+        "Piracy",
+        "International Shipping",
+        "Naval Operations"
+      ],
+      "source": {
+        "title": "UKMTO | Eyes on the seas",
+        "url": "https://www.thehindu.com/news/international/ukmto-eyes-on-the-seas/article71378787.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q27",
+      "question": "Who has recently been elected as the President of Bangladesh?",
+      "options": [
+        "Mirza Fakhrul Islam Alamgir",
+        "Khaleda Zia",
+        "Tarique Rahman",
+        "Sheikh Hasina"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Mirza Fakhrul Islam Alamgir, the former BNP general secretary, has been elected as the President of Bangladesh. He is recognized for steering the party through challenging times when Khaleda Zia was incarcerated and Tarique Rahman was in exile.",
+      "background": "The political landscape of Bangladesh has been marked by intense rivalry between major parties. The election of a new President is a significant development, influencing the country's governance and political direction.",
+      "examRelevance": "Mirza Fakhrul Islam Alamgir = elected President of Bangladesh.",
+      "tags": [
+        "Mirza Fakhrul Islam Alamgir",
+        "Bangladesh",
+        "President",
+        "Appointments",
+        "BNP"
+      ],
+      "source": {
+        "title": "Mirza Fakhrul Islam Alamgir | The man who steadied the ship",
+        "url": "https://www.thehindu.com/news/international/mirza-fakhrul-islam-alamgir-the-man-who-steadiem/article71378766.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q28",
+      "question": "According to a recent UK forecast, what year could potentially become the hottest year ever recorded due to the 'Biggest' El Niño in over a century?",
+      "options": [
+        "2028",
+        "2026",
+        "2025",
+        "2027"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The UK's national weather agency issued a warning on August 21, 2026, forecasting what could be the strongest El Niño in more than a century. This powerful climate event has the potential to make 2027 the hottest year ever recorded globally.",
+      "background": "El Niño is a climate pattern characterized by the unusual warming of surface waters in the eastern tropical Pacific Ocean. It has significant impacts on global weather patterns, often leading to increased temperatures, altered rainfall, and extreme weather events worldwide.",
+      "examRelevance": "UK forecast = 2027 could be hottest year ever due to 'Biggest' El Niño.",
+      "tags": [
+        "El Niño",
+        "Global Warming",
+        "Climate Change",
+        "UK Forecast",
+        "Environment"
+      ],
+      "source": {
+        "title": "Watch: U.K. forecasts ‘Biggest’ El Niño: 2027 could be the hottest year ever recorded",
+        "url": "https://www.thehindu.com/videos/watch-uk-forecasts-biggest-el-nino-2027-could-be-the-hottest-year-ever-recorded/article71378899.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q29",
+      "question": "Vignan University recently launched a Centre of Excellence focused on which specific economic domain?",
+      "options": [
+        "Digital Economy",
+        "Circular Economy",
+        "Blue Economy",
+        "Green Economy"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Vignan University recently launched a Centre of Excellence specifically focused on the Blue Economy. This initiative aims to foster research, innovation, and skill development in areas related to marine and aquatic resources.",
+      "background": "The Blue Economy encompasses sustainable use of ocean resources for economic growth, improved livelihoods, and ocean ecosystem health. Establishing a Centre of Excellence in this area signifies a commitment to addressing challenges and opportunities related to oceans, coasts, and marine industries.",
+      "examRelevance": "Vignan University = launched Centre of Excellence on Blue Economy.",
+      "tags": [
+        "Vignan University",
+        "Blue Economy",
+        "Centre of Excellence",
+        "Marine Resources",
+        "Andhra Pradesh"
+      ],
+      "source": {
+        "title": "Vignan University launches centre of excellence on Blue Economy",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/vignan-university-launches-centre-of-excellence-on-blue-economy/article71378481.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-23-q30",
+      "question": "Which Vijayawada-based photojournalist was recently selected for the IIPC Master of Photojournalism Award?",
+      "options": [
+        "Prasad Reddy",
+        "Venkata Rao",
+        "Suresh Kumar",
+        "Ravi Prakash"
+      ],
+      "answerIndex": 1,
+      "category": "Awards & Honours",
+      "explanation": "A Vijayawada-based photojournalist named Venkata Rao was recently selected for the IIPC Master of Photojournalism Award. This award recognizes excellence and significant contributions in the field of photojournalism.",
+      "background": "The IIPC Master of Photojournalism Award is a prestigious recognition within the field, honoring individuals who demonstrate exceptional skill, dedication, and impact through their photographic work. Such awards encourage high standards and innovation in visual storytelling.",
+      "examRelevance": "Vijayawada-based photojournalist Venkata Rao = selected for IIPC Master of Photojournalism Award.",
+      "tags": [
+        "Venkata Rao",
+        "Photojournalism",
+        "IIPC Award",
+        "Vijayawada",
+        "Awards"
+      ],
+      "source": {
+        "title": "Vijayawada-based photojournalist selected for IIPC Master of Photojournalism Award",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/vijayawada-based-photojournalist-selected-for-iipc-master-of-photojournalism-award/article71378399.ece"
+      }
+    }
+  ]
+}
