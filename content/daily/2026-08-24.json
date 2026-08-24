@@ -1,0 +1,772 @@
+{
+  "id": "daily-2026-08-24",
+  "type": "daily",
+  "date": "2026-08-24",
+  "title": "Current Affairs — 24 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-24-q1",
+      "question": "Which state's Joint Action Committee (JAC) of Auto, Cab and School Van Drivers’ Unions recently called off an indefinite strike after government assurances regarding a welfare board and fare hike?",
+      "options": [
+        "Karnataka",
+        "Telangana",
+        "Kerala",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Joint Action Committee (JAC) of Auto, Cab and School Van Drivers’ Unions in Telangana announced the calling off of an indefinite strike from Monday, August 24. This decision followed assurances from the state government regarding the formation of a welfare board and a fare hike.",
+      "background": "The unions had initially announced the indefinite strike over a 14-point charter of demands. The government's intervention aims to address the long-standing issues faced by auto, cab, and school van drivers in the state.",
+      "examRelevance": "Telangana government's recent action to resolve the auto-driver strike by assuring a welfare board and fare hike.",
+      "tags": [
+        "Telangana",
+        "Auto drivers",
+        "Strike",
+        "Welfare board"
+      ],
+      "source": {
+        "title": "Telangana auto drivers call off strike after government assures welfare board, fare hike",
+        "url": "https://www.thehindu.com/news/national/telangana/telangana-auto-drivers-call-off-strike-after-government-assures-welfare-board-fare-hike/article71381700.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q2",
+      "question": "Which major consulting firm's Australian arm recently announced plans to cut approximately 5% of its workforce, affecting around 360 employees and 27 partners?",
+      "options": [
+        "PwC Australia",
+        "EY Australia",
+        "KPMG Australia",
+        "Deloitte Australia"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "KPMG Australia announced on Monday that it would cut about 5% of its workforce, affecting 27 partners and around 360 employees. Most of these headcount reductions are planned for its consulting and business services divisions.",
+      "background": "The firm has been embroiled in a scandal over the misuse of confidential client information and cited difficult market conditions, expecting subdued economic growth until at least 2028.",
+      "examRelevance": "KPMG Australia's decision to cut 5% of its jobs due to market conditions and internal failings.",
+      "tags": [
+        "KPMG Australia",
+        "Job cuts",
+        "Consulting",
+        "Economy"
+      ],
+      "source": {
+        "title": "KPMG Australia plans to cut 5% of jobs",
+        "url": "https://economictimes.indiatimes.com/news/international/business/kpmg-australia-plans-to-cut-5-of-jobs-warns-soft-conditions-to-persist/articleshow/133449334.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q3",
+      "question": "On August 24, 2026, Karnataka is set to publish its draft electoral rolls. Approximately how many voters are expected to be excluded from these rolls?",
+      "options": [
+        "Over 1.5 crore",
+        "Over 75 lakh",
+        "Over 1.07 crore",
+        "Over 56.11 lakh"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Karnataka's draft electoral rolls are scheduled for publication on August 24, 2026, and are expected to see the exclusion of over 1.07 crore voters. Specifically, Bengaluru's electorate is projected to shrink from over 1.03 crore voters to just 56.11 lakh voters in the draft rolls.",
+      "background": "The process of publishing draft electoral rolls involves updating voter information and removing duplicate or ineligible entries, which can lead to significant changes in voter numbers.",
+      "examRelevance": "Karnataka's draft electoral rolls publication date and the number of voters set to be excluded.",
+      "tags": [
+        "Karnataka",
+        "Electoral rolls",
+        "Voter exclusion",
+        "August 24"
+      ],
+      "source": {
+        "title": "Karnataka SIR: Draft electoral rolls to be published on August 24, over 1.07 crore voters set to be excluded",
+        "url": "https://www.thehindu.com/news/national/karnataka/sir-draft-electoral-rolls-to-be-pubslihed-on-aug-24-over-107-crore-voters-set-to-be-excluded/article71380593.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q4",
+      "question": "Among the mainboard offerings scheduled for this week, which company is set to launch the largest Initial Public Offering (IPO), aiming to raise around ₹1,757 crore?",
+      "options": [
+        "Symbiotec Pharmalab",
+        "Annu Projects",
+        "Skyways Air Services",
+        "Lumino Industries"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The primary market is set for a busy week with six mainboard and four SME IPOs collectively seeking to raise over ₹3,533 crore. Among these, Symbiotec Pharmalab will launch the largest mainboard IPO, aiming to raise approximately ₹1,757 crore.",
+      "background": "This IPO rush follows a previous week where ₹7,100 crore was raised through seven mainboard and two SME IPOs, indicating continued strong activity in the primary market.",
+      "examRelevance": "The largest mainboard IPO of the week and the company involved.",
+      "tags": [
+        "IPO",
+        "Symbiotec Pharmalab",
+        "Primary market",
+        "Economy"
+      ],
+      "source": {
+        "title": "IPO rush continues: 10 issues to raise over Rs 3,500 crore this week",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/primary-market-keeps-the-party-going-with-over-rs-3500-cr-in-play/articleshow/133448877.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q5",
+      "question": "Which D2C (Direct-to-Consumer) skincare brand recently secured ₹88 crore in funding, achieving a valuation of ₹400 crore?",
+      "options": [
+        "Nykaa",
+        "Plum",
+        "Mamaearth",
+        "Asaya"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The D2C skincare brand Asaya has successfully raised ₹88 crore in its latest funding round. This investment has placed the brand's valuation at ₹400 crore.",
+      "background": "This funding is expected to support Asaya's growth, market expansion, and product development efforts within the competitive direct-to-consumer beauty sector.",
+      "examRelevance": "D2C skincare brand Asaya's recent funding round and valuation.",
+      "tags": [
+        "Asaya",
+        "D2C",
+        "Skincare",
+        "Funding"
+      ],
+      "source": {
+        "title": "D2C skincare brand Asaya raises Rs 88 crore funding",
+        "url": "https://economictimes.indiatimes.com/tech/funding/d2c-skincare-brand-asaya-raises-rs-88-crore-funding-at-rs-400-crore-valuation/articleshow/133445950.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q6",
+      "question": "In which year did the Parliament pass the Mines and Minerals (Development and Regulation) Amendment Bill, which centralizes the extraction and management of minerals?",
+      "options": [
+        "2027",
+        "2026",
+        "2025",
+        "2024"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Parliament passed the Mines and Minerals (Development and Regulation) Amendment Bill, 2026. This legislation transfers the extraction and management of minerals into the hands of the Central government.",
+      "background": "This new law has raised concerns among mineral-rich states, such as Odisha, which fear its potential impact on their fiscal health and the existing Centre-State relationship regarding mineral resources.",
+      "examRelevance": "The year of passing of the Mines and Minerals (Development and Regulation) Amendment Bill.",
+      "tags": [
+        "Mines and Minerals Bill",
+        "2026",
+        "Parliament",
+        "Central government"
+      ],
+      "source": {
+        "title": "Digging for gold",
+        "url": "https://www.thehindu.com/news/national/odisha/spotlight-digging-for-gold/article71376668.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q7",
+      "question": "Which country recently postponed its ambitious Chang'e-7 lunar mission, which was originally scheduled to lift off from the Wenchang Space Launch Site?",
+      "options": [
+        "China",
+        "Japan",
+        "Russia",
+        "India"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "China has abruptly postponed its ambitious Chang'e-7 lunar mission. The spacecraft was initially set to lift off in the coming days from the Wenchang Space Launch Site located on China's southern Hainan island.",
+      "background": "The Chang'e program is a series of robotic lunar missions by the China National Space Administration (CNSA), named after the Chinese moon goddess. This postponement indicates a revision in their lunar exploration timeline.",
+      "examRelevance": "China's postponement of its Chang'e-7 lunar mission.",
+      "tags": [
+        "China",
+        "Chang'e-7",
+        "Lunar mission",
+        "Space tech"
+      ],
+      "source": {
+        "title": "China abruptly postpones ambitious Chang'e-7 lunar mission launch",
+        "url": "https://www.thehindu.com/news/international/china-abruptly-postpones-ambitious-change-7-lunar-mission-launch/article71382366.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q8",
+      "question": "Who has been named Germany's Player of the Year for his outstanding performance, including scoring 61 goals across all competitions for Bayern last season?",
+      "options": [
+        "Harry Kane",
+        "Joshua Kimmich",
+        "Leroy Sane",
+        "Jamal Musiala"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Harry Kane has been named Germany's Player of the Year. He scored an impressive 61 goals across all competitions, including the German Supercup for Bayern last season, contributing to the team's Bundesliga title defense and German Cup victory.",
+      "background": "Alongside Kane, Vincent Kompany also received the coach's award. Kane's exceptional goal-scoring record in his first season significantly contributed to Bayern's domestic success.",
+      "examRelevance": "Harry Kane being named Germany's Player of the Year in football.",
+      "tags": [
+        "Harry Kane",
+        "Germany Player of the Year",
+        "Football",
+        "Bayern Munich"
+      ],
+      "source": {
+        "title": "Harry Kane is Germany's player of the year, Vincent Kompany gets coach's award",
+        "url": "https://www.thehindu.com/sport/football/harry-kane-is-germanys-player-of-the-year-vincent-kompany-gets-coachs-award/article71382229.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q9",
+      "question": "Which four-time IPL champion cricketer recently announced his retirement from all formats of the game after the UP T20 League Season 4?",
+      "options": [
+        "Karn Sharma",
+        "Amit Mishra",
+        "Rahul Chahar",
+        "Piyush Chawla"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Karn Sharma, a 38-year-old cricketer and four-time IPL champion, announced his retirement from all formats of the sport. This announcement came after the Kanpur Superstars' defeat to the Meerut Mavericks in the UP T20 League Season 4.",
+      "background": "Karn Sharma is known for his leg-spin bowling and has been a part of multiple IPL winning teams throughout his career, making significant contributions in crucial matches.",
+      "examRelevance": "Retirement of four-time IPL champion cricketer Karn Sharma.",
+      "tags": [
+        "Karn Sharma",
+        "Cricket",
+        "IPL",
+        "Retirement"
+      ],
+      "source": {
+        "title": "Four-time IPL champion Karn Sharma announces retirement from all formats",
+        "url": "https://www.thehindu.com/sport/cricket/four-time-ipl-champion-karn-sharma-announces-retirement-from-all-formats/article71382234.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q10",
+      "question": "Who recently won the Dutch Grand Prix, completing a hat-trick for McLaren in the race?",
+      "options": [
+        "Max Verstappen",
+        "George Russell",
+        "Kimi Antonelli",
+        "Lando Norris"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Lando Norris won the Dutch Grand Prix, securing a hat-trick for McLaren. Mercedes' championship leader Kimi Antonelli finished second, with his teammate George Russell taking third place.",
+      "background": "This victory marks a significant achievement for McLaren, demonstrating strong performance in the Formula 1 season. The race saw a dramatic finish with strategic team orders.",
+      "examRelevance": "Lando Norris's victory at the Dutch Grand Prix for McLaren.",
+      "tags": [
+        "Lando Norris",
+        "Dutch GP",
+        "Formula 1",
+        "McLaren"
+      ],
+      "source": {
+        "title": "Norris wins Dutch GP to complete McLaren hat-trick",
+        "url": "https://www.thehindu.com/sport/motorsport/norris-wins-dutch-gp-to-complete-mclaren-hat-trick/article71382220.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q11",
+      "question": "Prime Minister Narendra Modi recently called upon Indian space startups to focus on which of the following goals?",
+      "options": [
+        "To make India a go-to destination for global talent and investors",
+        "To compete with established global space agencies",
+        "To develop military-grade satellite technology",
+        "To prioritize international collaborations over indigenous development"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Prime Minister Narendra Modi urged Indian space startups to strive towards making India a global destination for talent and investors in the space sector. He also advised them to work with other sectors like agriculture, livestock, dairy, and environmental organizations to improve lives.",
+      "background": "The Prime Minister's call emphasizes the government's vision for a robust private space sector that not only innovates but also contributes to broader societal development and economic growth.",
+      "examRelevance": "PM Modi's vision for Indian space startups to attract global talent and investors.",
+      "tags": [
+        "PM Modi",
+        "Space startups",
+        "India",
+        "Science & Tech"
+      ],
+      "source": {
+        "title": "PM Modi calls upon space startups to make India a go-to destination for global talent, investors",
+        "url": "https://www.thehindu.com/sci-tech/science/pm-modi-urges-private-space-sector-to-build-global-aura-of-innovation/article71380595.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q12",
+      "question": "Which unseeded Indian pair recently received a historic bronze medal at the World Championships in badminton?",
+      "options": [
+        "Tanisha Crasto and Shruti Mishra",
+        "Treesa Jolly and Gayatri Gopichand",
+        "Ashwini Ponnappa and N. Sikki Reddy",
+        "Satwiksairaj Rankireddy and Chirag Shetty"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "The unseeded Indian badminton pair of Treesa Jolly and Gayatri Gopichand received a historic bronze medal at the World Championships. They reached the semifinal after defeating reigning Olympic champions Jia Yifan and Zhang Shuxian in the quarterfinals, before losing to China’s Liu-Tan.",
+      "background": "This achievement marks a significant milestone for Indian women's doubles badminton, highlighting their rising prominence on the international stage.",
+      "examRelevance": "Indian badminton pair Treesa Jolly and Gayatri Gopichand winning a bronze medal at the World Championships.",
+      "tags": [
+        "Treesa Jolly",
+        "Gayatri Gopichand",
+        "Badminton",
+        "World Championships",
+        "Bronze medal"
+      ],
+      "source": {
+        "title": "Indian flag rises as Treesa-Gayatri receive historic World Championships bronze",
+        "url": "https://www.thehindu.com/sport/indian-flag-rises-as-treesa-gayatri-receive-historic-world-championships-bronze/article71382219.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q13",
+      "question": "Which Indian state is in the final stage of partner selection to build its own satellite, named 'AssamSAT', to enable faster and evidence-based governance?",
+      "options": [
+        "Assam",
+        "Odisha",
+        "Bihar",
+        "West Bengal"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Assam Chief Minister Himanta Biswa Sarma announced that the state is in the final stage of selecting a partner to build its own satellite, which will be known as 'AssamSAT'. This initiative aims to shift Assam from being a user of satellite data to an active participant in the space-tech ecosystem.",
+      "background": "The 'AssamSAT' project is envisioned to enable faster and evidence-based governance by utilizing its own satellite data for various developmental and administrative purposes.",
+      "examRelevance": "Assam's project to build its own satellite, 'AssamSAT'.",
+      "tags": [
+        "Assam",
+        "AssamSAT",
+        "Satellite",
+        "Space-tech",
+        "Himanta Biswa Sarma"
+      ],
+      "source": {
+        "title": "Assam in final stage of partner selection to build satellite, says CM",
+        "url": "https://www.thehindu.com/news/national/assam/assam-in-final-stage-of-partner-selection-to-build-satellite-says-cm/article71382102.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q14",
+      "question": "Tamil Nadu life convict Selvam's book \"Oru Thooku Kaithiyin Vaakumoolam\" recently won which international award?",
+      "options": [
+        "Pulitzer Prize",
+        "Booker Prize",
+        "Sahitya Akademi Award",
+        "Iyal Award of Canada"
+      ],
+      "answerIndex": 3,
+      "category": "Books & Authors",
+      "explanation": "Tamil Nadu life convict Selvam's book titled \"Oru Thooku Kaithiyin Vaakumoolam\" (Confessions of a Death Row Prisoner) has been awarded the Iyal Award of Canada. The book is noted for its strong advocacy for prison reforms and its truthful portrayal of life behind bars.",
+      "background": "The Iyal Award is a prestigious literary award presented by the Tamil Literary Garden, an organization based in Canada, recognizing significant contributions to Tamil literature.",
+      "examRelevance": "Tamil Nadu author Selvam's book winning the Iyal Award of Canada.",
+      "tags": [
+        "Selvam",
+        "Oru Thooku Kaithiyin Vaakumoolam",
+        "Iyal Award of Canada",
+        "Books",
+        "Prison reforms"
+      ],
+      "source": {
+        "title": "Tamil Nadu life convict Selvam’s book Oru Thooku Kaithiyin Vaakumoolam wins Iyal Award of Canada",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-life-convict-selvams-book-oru-thooku-kaithiyin-vaakumoolam-wins-iyal-award-of-canada/article71380151.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q15",
+      "question": "A hero stone inscription from which century was recently unearthed, providing valuable historical insights?",
+      "options": [
+        "Sixth Century",
+        "Fourth Century",
+        "Fifth Century",
+        "Third Century"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "A significant hero stone inscription dating back to the Fifth Century was recently unearthed. Such archaeological discoveries provide crucial insights into historical periods, local customs, and the social fabric of ancient times.",
+      "background": "Hero stones are commemorative monuments erected to honor individuals who died heroically, often in battle, defending their community, or protecting cattle. They typically carry inscriptions detailing the event.",
+      "examRelevance": "Archaeological discovery of a Fifth Century hero stone inscription.",
+      "tags": [
+        "Hero stone",
+        "Inscription",
+        "Fifth Century",
+        "Archaeology",
+        "History"
+      ],
+      "source": {
+        "title": "Hero stone inscription from the Fifth Century unearthed",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/hero-stone-inscription-from-the-fifthcentury-unearthed/article71381007.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q16",
+      "question": "A recent landslide at a landfill in which African country resulted in the death of 30 people?",
+      "options": [
+        "Senegal",
+        "Nigeria",
+        "Guinea",
+        "Ghana"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "A landslide at a landfill in Conakry, Guinea, has tragically claimed the lives of 30 people. Rescue operations are continuing at the site, which witnesses described as large enough to bury an apartment building along with other precarious dwellings.",
+      "background": "Landslides at landfills are often a consequence of unstable waste piles, heavy rains, and inadequate infrastructure, posing significant dangers to nearby populations.",
+      "examRelevance": "Recent fatal landslide at a landfill in Guinea.",
+      "tags": [
+        "Guinea",
+        "Landslide",
+        "Landfill",
+        "Conakry",
+        "Disaster"
+      ],
+      "source": {
+        "title": "Landslide at Guinea landfill kills 30, government says",
+        "url": "https://www.thehindu.com/news/international/several-dead-many-injured-in-a-landslip-triggered-by-heavy-rains-at-a-landfill-in-conakry-guinea/article71382052.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q17",
+      "question": "The Cyberabad Security Council recently marked a significant milestone of how many years of police-industry partnership?",
+      "options": [
+        "15 years",
+        "20 years",
+        "25 years",
+        "10 years"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "The Cyberabad Security Council (CSC) recently celebrated 20 years of successful collaboration between the police and industry. This partnership aims to enhance security and address challenges within the Cyberabad region.",
+      "background": "The CSC plays a vital role in fostering cooperation to ensure a safer and more secure environment for businesses and residents in the IT and industrial hubs of Cyberabad, Telangana.",
+      "examRelevance": "The Cyberabad Security Council completing 20 years of police-industry partnership.",
+      "tags": [
+        "Cyberabad Security Council",
+        "Police-industry partnership",
+        "Anniversary",
+        "Telangana"
+      ],
+      "source": {
+        "title": "Cyberabad Security Council marks 20 years of police-industry partnership",
+        "url": "https://www.thehindu.com/news/national/telangana/cyberabad-security-council-marks-20-years-of-police-industry-partnership/article71382007.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q18",
+      "question": "Which table tennis player recently celebrated her birthday by winning a double crown at a tournament?",
+      "options": [
+        "Syndrela Das",
+        "Manika Batra",
+        "Sreeja Akula",
+        "Reeth Rishya"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Table tennis player Syndrela Das celebrated her birthday by achieving a double crown at a recent tournament. She expressed her joy, stating that winning multiple titles through the day made it a fruitful birthday celebration.",
+      "background": "A 'double crown' in sports typically refers to winning two championship titles in the same event or tournament, often in singles and doubles categories.",
+      "examRelevance": "Table tennis player Syndrela Das winning a double crown on her birthday.",
+      "tags": [
+        "Syndrela Das",
+        "Table Tennis",
+        "Double crown",
+        "Sports"
+      ],
+      "source": {
+        "title": "Table Tennis: Syndrela Das celebrates double crown on birthday",
+        "url": "https://www.thehindu.com/sport/table-tennis-syndrela-das-celebrates-double-crown-on-birthday/article71382026.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q19",
+      "question": "Israel recently issued a warning to Hamas over the launch of what type of objects from Gaza?",
+      "options": [
+        "Balloons",
+        "Kites",
+        "Rockets",
+        "Drones"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Israel issued a warning to Hamas following recent launches of kites from Gaza. Israeli media reported the discovery of four kites near the Gaza border on August 23, with one being shot down by the army on August 24.",
+      "background": "Kites, sometimes carrying incendiary devices, have been used in the past to cause fires and damage in Israeli communities near the Gaza border, contributing to heightened tensions in the region.",
+      "examRelevance": "Israel's warning to Hamas over kite launches from Gaza.",
+      "tags": [
+        "Israel",
+        "Hamas",
+        "Gaza",
+        "Kites",
+        "International relations"
+      ],
+      "source": {
+        "title": "Israel warns Hamas over kite launches from Gaza",
+        "url": "https://www.thehindu.com/news/international/israel-warns-hamas-over-kite-launches-from-gaza/article71382368.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q20",
+      "question": "The Foreign Minister of Syria recently held talks with the Mossad chief in which country, restarting negotiations between Israel and Syria's new authorities?",
+      "options": [
+        "Egypt",
+        "Lebanon",
+        "Jordan",
+        "Turkey"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The Syrian Foreign Minister recently met with the Mossad chief in Jordan. This meeting marks the restart of negotiations between Israel and Syria's new authorities, following an agreement in January to establish an intelligence-sharing mechanism.",
+      "background": "The talks represent a significant diplomatic development aimed at de-escalating tensions and exploring avenues for a security agreement between the two nations after years of strained relations.",
+      "examRelevance": "Meeting between Syria's FM and Mossad chief in Jordan for negotiations.",
+      "tags": [
+        "Syria",
+        "Mossad",
+        "Jordan",
+        "International relations",
+        "Negotiations"
+      ],
+      "source": {
+        "title": "Syria FM meets Mossad chief in Jordan: sources",
+        "url": "https://www.thehindu.com/news/international/syria-fm-meets-mossad-chief-in-jordan-sources/article71382226.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q21",
+      "question": "According to the news, which country's President, Mr. Pezeshkian, recently stated that a U.S. memorandum is the best path out of a stalled war?",
+      "options": [
+        "Afghanistan",
+        "Iraq",
+        "Syria",
+        "Iran"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Iran's President, Mr. Pezeshkian, recently stated that a U.S. memorandum offers the best path out of a stalled war. He emphasized that \"there is not a single provision in this agreement that amounts to capitulation.\"",
+      "background": "This statement comes amid ongoing international efforts and diplomatic discussions to resolve regional conflicts and address the complex relationship between Iran and the United States.",
+      "examRelevance": "Iranian President Pezeshkian's statement on a U.S. memorandum for war resolution.",
+      "tags": [
+        "Iran",
+        "President Pezeshkian",
+        "U.S. memorandum",
+        "International relations"
+      ],
+      "source": {
+        "title": "Iran's President says U.S. memorandum is best path out of stalled war",
+        "url": "https://www.thehindu.com/news/international/irans-president-says-us-memorandum-is-best-path-out-of-stalled-war/article71381224.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q22",
+      "question": "Abhay Patil, an MLA from which constituency, was recently reported to be injured in a car accident in Delhi?",
+      "options": [
+        "Belagavi",
+        "Kalaburagi",
+        "Hubballi",
+        "Mysuru"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Abhay Patil, the Member of Legislative Assembly (MLA) from Belagavi constituency in Karnataka, was recently injured in a car accident in Delhi. Police reports confirmed that he is out of danger.",
+      "background": "MLAs frequently travel to the national capital for legislative duties, political meetings, and other engagements, making them susceptible to travel-related incidents.",
+      "examRelevance": "Belagavi MLA Abhay Patil's car accident in Delhi.",
+      "tags": [
+        "Abhay Patil",
+        "Belagavi",
+        "MLA",
+        "Car accident",
+        "Delhi"
+      ],
+      "source": {
+        "title": "Belagavi MLA Abhay Patil injured in Delhi car accident, out of danger: Police",
+        "url": "https://www.thehindu.com/news/national/karnataka/belagavi-mla-abhay-patil-injured-in-delhi-car-accident-out-of-danger-police/article71382374.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q23",
+      "question": "The Hawk Fire, a fast-moving wildfire that started on August 24 and grew to over 60 sq km, is currently threatening which U.S. city?",
+      "options": [
+        "Portland, Oregon",
+        "Boise, Idaho",
+        "Reno, Nevada",
+        "Sacramento, California"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "The Hawk Fire, a fast-moving wildfire that began on Saturday, August 24, has rapidly expanded to over 60 sq km. This wildfire is currently threatening Reno, Nevada, as it spreads across the Peavine Peak area of the Humboldt–Toiyabe National Forest, forcing thousands to evacuate.",
+      "background": "Wildfires are a recurring environmental challenge in the western United States, often intensified by dry conditions, high temperatures, and strong, shifting winds, leading to widespread evacuations.",
+      "examRelevance": "Location of the Hawk Fire, a major wildfire in the U.S.",
+      "tags": [
+        "Hawk Fire",
+        "Wildfire",
+        "Reno",
+        "Nevada",
+        "Environment",
+        "USA"
+      ],
+      "source": {
+        "title": "Fast-moving wildfire amid shifting winds threatens Reno, Nevada, forcing thousands to evacuate",
+        "url": "https://www.thehindu.com/news/international/fast-moving-wildfire-amid-shifting-winds-threatens-reno-nevada-forcing-thousands-to-evacuate/article71383006.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q24",
+      "question": "Kerala's Bevco reported liquor sales of ₹970.74 crore during the Onam season in 2025. What were the sales in the previous year, 2024?",
+      "options": [
+        "₹915.20 crore",
+        "₹789.50 crore",
+        "₹842.07 crore",
+        "₹1010.00 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Kerala's Bevco recorded liquor sales amounting to ₹970.74 crore during the Onam season in 2025. This represents an increase compared to the ₹842.07 crore in liquor sales reported during the Onam season in 2024.",
+      "background": "Onam is one of the most significant festivals in Kerala, and it typically sees a substantial surge in consumer spending, including liquor sales, which contribute significantly to the state's revenue.",
+      "examRelevance": "Liquor sales figures for Kerala's Bevco during the Onam season for 2024 and 2025.",
+      "tags": [
+        "Onam",
+        "Bevco",
+        "Liquor sales",
+        "Kerala",
+        "Economy"
+      ],
+      "source": {
+        "title": "Liquor sales expected to go up during Onam season",
+        "url": "https://www.thehindu.com/news/national/kerala/liquor-sales-expected-to-go-up-during-onam-season/article71381047.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q25",
+      "question": "From which Central Jail did two inmates, arrested under the POCSO Act, recently escape, prompting a search operation?",
+      "options": [
+        "Jammu Central Jail",
+        "Srinagar Central Jail",
+        "Anantnag Central Jail",
+        "Leh Central Jail"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Two inmates, who were arrested under the Protection of Children from Sexual Offences (POCSO) Act, recently escaped from Srinagar Central Jail. A search operation has been launched by the police to locate and apprehend the two men.",
+      "background": "Jailbreaks are serious security breaches that lead to immediate law enforcement action and typically trigger reviews of prison security protocols and measures to prevent future occurrences.",
+      "examRelevance": "Location of the recent jailbreak in Srinagar Central Jail involving POCSO Act inmates.",
+      "tags": [
+        "Srinagar Central Jail",
+        "Inmates escape",
+        "POCSO Act",
+        "Jammu & Kashmir"
+      ],
+      "source": {
+        "title": "Two inmates arrested under POCSO Act escape from Srinagar Central Jail; search launched",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/two-inmates-arrested-under-pocso-act-escape-from-srinagar-central-jail-search-launched/article71382241.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q26",
+      "question": "The South Central Railway's (SCoR) Vijayawada division recently enhanced its green energy capacity with a solar installation of what capacity?",
+      "options": [
+        "4,864 kWp",
+        "5,000 kWp",
+        "3,750 kWp",
+        "2,500 kWp"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The South Central Railway's (SCoR) Vijayawada division has augmented its green energy infrastructure by installing a solar power system with a capacity of 4,864 kWp. This installation generated 19,90,741 units and resulted in savings of ₹1.85 crore from April to July in the current financial year.",
+      "background": "Indian Railways is actively pursuing renewable energy initiatives to reduce its carbon footprint and achieve energy self-sufficiency across its operations, contributing to environmental sustainability.",
+      "examRelevance": "Capacity of the solar installation by SCoR Vijayawada division.",
+      "tags": [
+        "SCoR",
+        "Vijayawada division",
+        "Solar installation",
+        "Green energy",
+        "Indian Railways"
+      ],
+      "source": {
+        "title": "SCoR Vijayawada division enhances green energy with 4,864 kWp solar installation",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/scor-vijayawada-division-enhances-green-energy-with-4864-kwp-solar-installation/article71381632.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q27",
+      "question": "Which major e-commerce platform recently introduced new penalties for sellers concerning despatch delays and order cancellations?",
+      "options": [
+        "Myntra",
+        "Flipkart",
+        "Snapdeal",
+        "Amazon India"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Flipkart, a prominent e-commerce platform, has recently introduced new penalties for its sellers. These penalties are specifically aimed at addressing issues related to despatch delays and order cancellations.",
+      "background": "Such measures are typically implemented by e-commerce companies to improve overall customer experience, ensure timely deliveries, and maintain service standards across their seller network.",
+      "examRelevance": "Flipkart's new policy introducing penalties for sellers over delays and cancellations.",
+      "tags": [
+        "Flipkart",
+        "E-commerce",
+        "Seller penalties",
+        "Business policy"
+      ],
+      "source": {
+        "title": "Flipkart introduces penalties for sellers over delays",
+        "url": "https://economictimes.indiatimes.com/tech/technology/flipkart-introduces-penalties-for-sellers-over-despatch-delays-cancellations/articleshow/133445654.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q28",
+      "question": "Who recently made a winning start as the new manager for Manchester City, after his team staged a dramatic fightback against Bournemouth?",
+      "options": [
+        "Manuel Pellegrini",
+        "Enzo Maresca",
+        "Pep Guardiola",
+        "Roberto Mancini"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Enzo Maresca recently made a winning start as the new manager for Manchester City. His team secured a victory after a dramatic fightback against Bournemouth, overcoming Marcus Tavernier’s first-half goal at the Etihad Stadium.",
+      "background": "Maresca previously served as a coach under Pep Guardiola at Manchester City and also had a managerial stint at Leicester City. His return marks a new chapter for the club's leadership.",
+      "examRelevance": "Enzo Maresca's winning debut as Manchester City's new manager.",
+      "tags": [
+        "Enzo Maresca",
+        "Manchester City",
+        "Football",
+        "Premier League"
+      ],
+      "source": {
+        "title": "Maresca makes winning start with Man City after dramatic fightback",
+        "url": "https://www.thehindu.com/sport/football/maresca-makes-winning-start-with-man-city-after-dramatic-fightback/article71382232.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q29",
+      "question": "As part of a major revamp following its recent Assembly election defeat, how many District Secretary posts are the DMK's regional leaders expected to lose?",
+      "options": [
+        "28",
+        "15",
+        "33",
+        "22"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Following its defeat in the recent Assembly election, the DMK is undergoing a significant revamp. As part of this restructuring, 22 of its regional satraps are expected to lose their District Secretary posts. Additionally, 33 new district units will be created, and 55 new faces are likely to assume office.",
+      "background": "Political parties often undertake organizational changes and leadership overhauls after electoral setbacks to rejuvenate the party structure and strategize for future elections.",
+      "examRelevance": "Number of DMK District Secretaries expected to lose posts in a party revamp.",
+      "tags": [
+        "DMK",
+        "District Secretary",
+        "Political revamp",
+        "Tamil Nadu"
+      ],
+      "source": {
+        "title": "DMK’s regional satraps among 22 who will lose district secretary posts",
+        "url": "https://www.thehindu.com/news/national/dmks-regional-satraps-among-22-who-will-lose-district-secretary-posts/article71381677.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-24-q30",
+      "question": "A man carrying ₹25 lakh was recently robbed at gunpoint on which major expressway?",
+      "options": [
+        "Delhi-Meerut Expressway",
+        "Mumbai-Pune Expressway",
+        "Yamuna Expressway",
+        "Eastern Peripheral Expressway"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "A man carrying ₹25 lakh was recently robbed at gunpoint on the Delhi-Meerut Expressway. An armed gang stopped his vehicle and fled with the cash, even as other vehicles continued to move on the expressway.",
+      "background": "The incident highlights concerns about highway safety and the need for enhanced security measures on major transport routes to prevent such criminal activities.",
+      "examRelevance": "Location of a recent high-value robbery.",
+      "tags": [
+        "Delhi-Meerut Expressway",
+        "Robbery",
+        "Crime",
+        "Delhi",
+        "Uttar Pradesh"
+      ],
+      "source": {
+        "title": "Gunpoint robbery on Delhi-Meerut Expwy, Rs 25L lost",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/man-carrying-rs-25-lakh-robbed-at-gunpoint-on-delhi-meerut-expressway-vehicles-kept-moving-as-armed-gang-stopped-his-thar-and-fled-with-cash/articleshow/133449291.cms"
+      }
+    }
+  ]
+}
