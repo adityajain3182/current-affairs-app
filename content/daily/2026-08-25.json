@@ -1,0 +1,781 @@
+{
+  "id": "daily-2026-08-25",
+  "type": "daily",
+  "date": "2026-08-25",
+  "title": "Current Affairs — 25 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-25-q1",
+      "question": "Who is the leading Chinese strategic affairs scholar on South Asia who recently commented on India-China ties, stating that 'structural differences have not disappeared'?",
+      "options": [
+        "Zhao Lijian",
+        "Hu Shisheng",
+        "Wang Yi",
+        "Qin Gang"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Hu Shisheng, a leading Chinese strategic affairs scholar on South Asia, recently commented on India-China ties. He emphasized that the immediate focus on the border should be on institutionalizing stability rather than a dramatic settlement, noting that structural differences between the two nations persist.",
+      "background": "Discussions on India-China relations often involve strategic experts from both sides, providing insights into the complex dynamics. Hu Shisheng's comments reflect the ongoing challenges in resolving border issues and broader bilateral differences between India and China.",
+      "examRelevance": "Hu Shisheng = Leading Chinese strategic affairs scholar on South Asia, commented on India-China ties.",
+      "tags": [
+        "Hu Shisheng",
+        "India-China relations",
+        "Strategic Affairs",
+        "South Asia"
+      ],
+      "source": {
+        "title": "‘Structural differences have not disappeared’: Chinese strategic affairs scholar on India-China ties",
+        "url": "https://www.thehindu.com/news/national/india-china-talks-structural-differences-have-not-disappeared-says-hu-shisheng/article71387073.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q2",
+      "question": "Which country's Treasury Department recently announced new sanctions on 60 individuals, entities, and vessels linked to Iran?",
+      "options": [
+        "France",
+        "Germany",
+        "United Kingdom",
+        "United States"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The U.S. Treasury Department recently announced new sanctions on 60 individuals, entities, and vessels, aiming to target Iran. However, the list did not include any Chinese financial institutions suspected of facilitating Iran’s oil trade.",
+      "background": "The United States frequently uses sanctions as a tool of foreign policy, particularly against countries like Iran, to exert economic pressure. These sanctions are often part of broader efforts to curb activities perceived as destabilizing or threatening to international security, such as nuclear programs or support for proxy groups.",
+      "examRelevance": "U.S. Treasury Department = announced new sanctions on 60 entities linked to Iran.",
+      "tags": [
+        "US",
+        "Iran",
+        "Sanctions",
+        "Treasury Department"
+      ],
+      "source": {
+        "title": "Iran vows to retaliate after U.S. widens sanctions",
+        "url": "https://www.thehindu.com/news/national/iran-vows-to-retaliate-after-us-widens-sanctions/article71387125.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q3",
+      "question": "According to a recent ET analysis, for how many consecutive years have India’s stock markets delivered negative returns, marking the worst showing since 2012?",
+      "options": [
+        "One year",
+        "Three years",
+        "Two years",
+        "Four years"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "An ET analysis revealed that India’s stock markets have yielded negative returns not just over the past one year, but also over a two-year time frame. This performance marks the worst showing since 2012, with the Sensex ending 37% of its trading days in 2026 with two-year returns in the red.",
+      "background": "Indian stock markets, including benchmark indices like the Sensex, are generally known for their growth potential. A two-year period of negative returns is a significant event, indicating a prolonged period of underperformance for investors and reflecting broader economic or market sentiment challenges.",
+      "examRelevance": "Indian stock markets = delivered negative returns for two years, worst since 2012.",
+      "tags": [
+        "Indian Stock Market",
+        "Sensex",
+        "Negative Returns",
+        "Economic Analysis"
+      ],
+      "source": {
+        "title": "Indian stock markets deliver negative returns for two years, worst since 2012, ET analysis reveals",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-stock-markets-deliver-negative-returns-for-two-years-worst-since-2012-et-analysis-reveals/articleshow/133486955.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q4",
+      "question": "What is the new extended deadline for LPG users to complete their eKYC process?",
+      "options": [
+        "August 31",
+        "October 31",
+        "July 31",
+        "September 30"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The deadline for LPG users to complete their eKYC has been extended, providing a breather for beneficiaries. The new deadline for this process is August 31.",
+      "background": "eKYC (electronic Know Your Customer) is a digital process used by various government schemes and financial institutions to verify the identity of beneficiaries or customers. For LPG connections, eKYC helps ensure that subsidies and services are delivered to legitimate users, enhancing transparency and reducing fraud.",
+      "examRelevance": "LPG eKYC deadline = extended to August 31.",
+      "tags": [
+        "LPG",
+        "eKYC",
+        "Deadline Extension",
+        "Government Scheme"
+      ],
+      "source": {
+        "title": "Breather for LPG users as eKYC deadline extended to August 31",
+        "url": "https://www.thehindu.com/news/cities/Hyderabad/breather-for-lpg-users-as-ekyc-deadline-extended-to-aug-31/article71385684.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q5",
+      "question": "In which country has the death toll from recent earthquakes surpassed 6,500, with recovery efforts ongoing in the region of La Guaira?",
+      "options": [
+        "Peru",
+        "Ecuador",
+        "Venezuela",
+        "Chile"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The death toll from recent earthquakes in Venezuela has tragically surpassed 6,500. Recovery efforts are currently ongoing in La Guaira, where thousands of people displaced by the quakes are living in makeshift camps.",
+      "background": "Earthquakes are devastating natural disasters, and the high death toll in Venezuela highlights the severe impact on human lives and infrastructure. Emergency response and recovery operations often involve international aid, focusing on rescuing survivors, providing humanitarian assistance, and rebuilding affected areas.",
+      "examRelevance": "Venezuela earthquake = death toll surpasses 6,500.",
+      "tags": [
+        "Venezuela",
+        "Earthquake",
+        "La Guaira",
+        "Natural Disaster"
+      ],
+      "source": {
+        "title": "Venezuela quake death toll surpasses 6,500",
+        "url": "https://www.thehindu.com/news/international/venezuela-quake-death-toll-surpasses-6500/article71387096.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q6",
+      "question": "Which Indian state government has announced a scheme to reimburse money for three LPG cylinders annually to beneficiaries, starting from the next Pongal?",
+      "options": [
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh",
+        "Kerala"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The Tamil Nadu government, led by Chief Minister Vijay, has announced a new scheme to reimburse money for three LPG cylinders annually. The amount will be credited directly to the bank accounts of the beneficiaries, with the initiative set to commence from the next Pongal festival.",
+      "background": "Government subsidies and reimbursement schemes for essential commodities like LPG are common in India, aimed at easing the financial burden on households. The Pongal festival is a significant cultural event in Tamil Nadu, making its selection as the launch date symbolic for a welfare scheme.",
+      "examRelevance": "Tamil Nadu government = to reimburse money for three LPG cylinders annually from next Pongal.",
+      "tags": [
+        "Tamil Nadu",
+        "LPG",
+        "Reimbursement",
+        "Pongal",
+        "Government Scheme"
+      ],
+      "source": {
+        "title": "Tamil Nadu government to reimburse money for three LPG cylinders annually from next Pongal, says CM Vijay",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-to-reimburse-money-for-three-lpg-cylinders-annually-from-next-pongal-says-cm-vijay/article71383243.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q7",
+      "question": "In which Indian state is a Tata semiconductor plant reportedly facing risks from nearby stone quarries and crushers, which are causing flash floods and air pollution?",
+      "options": [
+        "Assam",
+        "Gujarat",
+        "Uttar Pradesh",
+        "Telangana"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "A Tata semiconductor plant in Assam is facing significant risks due to stone quarries and crushers operating within a 5 km radius. Green activists and local organizations have petitioned the government, highlighting concerns about flash floods and air pollution, particularly microscopic dust, which can severely impact chip manufacturing.",
+      "background": "Semiconductor manufacturing requires an extremely clean environment, as even microscopic dust particles can compromise the intricate production process. The Indian Semiconductor Mission emphasizes the need for such plants to be insulated from environmental contaminants, making the proximity of polluting industries a critical concern for the project's viability.",
+      "examRelevance": "Assam = location of Tata semiconductor plant at risk from stone quarries.",
+      "tags": [
+        "Assam",
+        "Tata",
+        "Semiconductor Plant",
+        "Pollution",
+        "Indian Semiconductor Mission"
+      ],
+      "source": {
+        "title": "Stone quarries put Assam semiconductor plant at risk",
+        "url": "https://www.thehindu.com/news/national/assam/stone-quarries-put-assam-semiconductor-plant-at-risk/article71384852.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q8",
+      "question": "Which country recently announced the removal of Syria from its state sponsor of terrorism list?",
+      "options": [
+        "European Union",
+        "China",
+        "United States",
+        "Russia"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The United States recently removed Syria from its state sponsor of terrorism list. Treasury Secretary Scott Bessent stated that this action is intended to help foster additional investment in Syria and promote political and economic stability in the country.",
+      "background": "The designation of a country as a 'state sponsor of terrorism' by the U.S. carries significant economic and political ramifications, including sanctions and restrictions on aid and trade. Removing a country from this list typically signals a shift in diplomatic relations and an effort to encourage stability and economic recovery.",
+      "examRelevance": "U.S. = removed Syria from state sponsor of terrorism list.",
+      "tags": [
+        "US",
+        "Syria",
+        "Terrorism List",
+        "Scott Bessent",
+        "International Relations"
+      ],
+      "source": {
+        "title": "U.S. removes Syria from state sponsor of terrorism list",
+        "url": "https://www.thehindu.com/news/international/us-removes-syria-from-state-sponsor-of-terrorism-list/article71387074.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q9",
+      "question": "In which country were two UN peacekeepers recently killed and seven others wounded in an ambush on a patrol, according to a statement from the UN mission known as UNMISS?",
+      "options": [
+        "Central African Republic",
+        "South Sudan",
+        "Democratic Republic of Congo",
+        "Mali"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Two UN peacekeepers were killed and seven other individuals were wounded in an ambush on a patrol in South Sudan. The wounded included three peacekeepers, two members of the South Sudanese police, and two civilian staffers, as reported by the UN mission known as UNMISS.",
+      "background": "UN peacekeeping missions operate in conflict zones globally to protect civilians, facilitate humanitarian aid, and support peace processes. Attacks on peacekeepers are a grave concern, highlighting the volatile and dangerous environments in which these missions operate, particularly in regions like South Sudan which has a history of internal conflict.",
+      "examRelevance": "South Sudan = two UN peacekeepers killed in ambush.",
+      "tags": [
+        "South Sudan",
+        "UNMISS",
+        "UN Peacekeepers",
+        "Ambush",
+        "Conflict"
+      ],
+      "source": {
+        "title": "Armed men ambush patrol in South Sudan, kill two UN peacekeepers",
+        "url": "https://www.thehindu.com/news/international/armed-men-ambush-patrol-in-south-sudan-kill-un-peacekeepers-updates/article71387078.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q10",
+      "question": "What was the approximate equity fundraising amount by Corporate India through mainboard IPOs, QIPs, and offers for sale during July and August, as reported recently?",
+      "options": [
+        "₹1.11 lakh crore",
+        "₹95,000 crore",
+        "₹1.25 lakh crore",
+        "₹80,000 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Corporate India successfully raised more than ₹1.11 lakh crore through mainboard Initial Public Offerings (IPOs), Qualified Institutional Placements (QIPs), and Offers for Sale (OFS) during July and August. This figure represents the highest two-month fundraising tally since October-November 2024, driven by strong domestic liquidity and improving investor sentiment.",
+      "background": "Equity fundraising is a crucial indicator of capital market activity and investor confidence. IPOs, QIPs, and OFS are primary methods for companies to raise capital from the public and institutional investors. A surge in fundraising suggests a robust appetite for investments in the Indian corporate sector.",
+      "examRelevance": "Corporate India equity fundraising (July-August) = more than ₹1.11 lakh crore.",
+      "tags": [
+        "Corporate India",
+        "Equity Fundraising",
+        "IPOs",
+        "QIPs",
+        "OFS"
+      ],
+      "source": {
+        "title": "India Inc’s equity fundraising surges past Rs 1.11 lakh crore on strong inflows in July-August",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/india-incs-equity-fundraising-surges-past-rs-1-11-lakh-crore-on-strong-inflows-in-july-august/articleshow/133485341.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q11",
+      "question": "Which country is scheduled to announce retaliatory tariffs against the U.S. on August 25, as stated by Mark Carney?",
+      "options": [
+        "Australia",
+        "Canada",
+        "Japan",
+        "Mexico"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Canada is slated to announce retaliatory tariffs against the U.S. on August 25. Mark Carney indicated that Canada might move away from matching U.S. tariffs dollar for dollar, opting instead for more targeted retaliation aimed at protecting Canadian workers and businesses.",
+      "background": "Trade disputes and retaliatory tariffs are common in international relations, often arising from disagreements over trade policies, subsidies, or national interests. Such actions can escalate into trade wars, impacting economies and diplomatic ties between nations, as seen in previous U.S.-Canada tariff disputes.",
+      "examRelevance": "Canada = to announce retaliatory tariffs against U.S. on August 25.",
+      "tags": [
+        "Canada",
+        "US",
+        "Tariffs",
+        "Trade War",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Canada will announce retaliatory tariffs against U.S. on August 25, official say",
+        "url": "https://www.thehindu.com/news/international/canada-will-announce-retaliatory-tariffs-against-us-on-august-25-official-say/article71386372.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q12",
+      "question": "Approximately how many people were reported dead in a recent gang attack near Haiti’s capital?",
+      "options": [
+        "Around 40",
+        "Around 20",
+        "Around 10",
+        "Around 60"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "A recent gang attack near Haiti’s capital resulted in approximately 40 deaths. Following the incident, Prime Minister Alix Didier Fils-Aime's office issued a statement expressing deep compassion for the bereaved families and all the victims.",
+      "background": "Haiti has been grappling with severe gang violence and political instability, particularly in and around its capital. Such attacks frequently lead to significant loss of life and displacement, exacerbating humanitarian crises and challenging governance in the nation.",
+      "examRelevance": "Haiti gang attack = around 40 dead near capital.",
+      "tags": [
+        "Haiti",
+        "Gang Attack",
+        "Violence",
+        "Port-au-Prince"
+      ],
+      "source": {
+        "title": "Around 40 dead in gang attack near Haiti’s capital",
+        "url": "https://www.thehindu.com/news/international/many-dead-in-gang-attack-near-haitis-capital/article71386361.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q13",
+      "question": "Who recently took the sole lead with six out of a maximum seven points in a sport competition, placing her half a point ahead of her nearest challengers?",
+      "options": [
+        "Mayank",
+        "Ishita",
+        "Ananya",
+        "Pratitee"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Pratitee recently achieved the sole lead in a sports competition, accumulating six out of a maximum seven points. This performance put her half a point ahead of her closest competitors, with Mayank remaining ahead in another related category mentioned in the same report.",
+      "background": "In competitive sports, taking a sole lead often signifies strong performance and strategic play, positioning an athlete favorably for the final stages of a tournament. The mention of 'Mayank stays ahead' suggests this could be part of a larger multi-category or gender-separated event.",
+      "examRelevance": "Pratitee = took sole lead with six points in a sports competition.",
+      "tags": [
+        "Pratitee",
+        "Sports",
+        "Competition",
+        "Lead"
+      ],
+      "source": {
+        "title": "Pratitee takes sole lead; Mayank stays ahead",
+        "url": "https://www.thehindu.com/sport/pratitee-takes-sole-lead-mayank-stays-ahead/article71386354.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q14",
+      "question": "Donald Trump is reportedly considering setting a new tariff on China at what percentage for flooding the market with cheap goods?",
+      "options": [
+        "12.5%",
+        "7.5%",
+        "10%",
+        "5%"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Donald Trump is reportedly considering imposing a new tariff on China, with sources indicating the proposed rate is 7.5%. This measure is being considered in response to China's alleged practice of flooding the market with cheap goods.",
+      "background": "Tariffs are taxes imposed on imported goods, often used by governments to protect domestic industries or address perceived unfair trade practices. Donald Trump's previous presidency saw significant tariff imposition on Chinese goods, leading to a trade war. The consideration of new tariffs signals a potential continuation of this protectionist trade stance.",
+      "examRelevance": "Donald Trump = considering 7.5% new tariff on China.",
+      "tags": [
+        "Donald Trump",
+        "China",
+        "Tariff",
+        "Trade",
+        "Economy"
+      ],
+      "source": {
+        "title": "Trump moves toward levying new tariff on China for flooding market with cheap goods",
+        "url": "https://www.thehindu.com/news/international/trump-moves-toward-levying-new-tariff-on-china-for-flooding-market-with-cheap-goods/article71386345.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q15",
+      "question": "Which Indian tennis players recently clinched the Cancun Country Open Doubles title?",
+      "options": [
+        "Rohan Bopanna and Divij Sharan",
+        "Leander Paes and Mahesh Bhupathi",
+        "Ramkumar Ramanathan and Saketh Myneni",
+        "Sriram Balaji and Anirud Chandrasekar"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Indian tennis duo Sriram Balaji and Anirud Chandrasekar were crowned champions of the Cancun Country Open Doubles title. Their victory earned them 125 ranking points and a prize money of $9,900.",
+      "background": "The Cancun Country Open is a professional tennis tournament, and winning such events contributes significantly to players' ATP rankings and professional careers. Doubles specialists often travel globally to compete in various tournaments, aiming to improve their rankings and accumulate prize money.",
+      "examRelevance": "Sriram Balaji and Anirud Chandrasekar = won Cancun Country Open Doubles title.",
+      "tags": [
+        "Sriram Balaji",
+        "Anirud Chandrasekar",
+        "Tennis",
+        "Cancun Country Open",
+        "Doubles"
+      ],
+      "source": {
+        "title": "India's Sriram Balaji, Anirud Chandrasekar crowned Cancun Country Open Doubles title",
+        "url": "https://www.thehindu.com/sport/tennis/indias-sriram-balaji-anirud-chandrasekar-crowned-cancun-country-open-doubles-title/article71386342.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q16",
+      "question": "In the GCT Grand Finale, which Indian chess player recently defeated Keymer?",
+      "options": [
+        "D. Gukesh",
+        "Vidit Gujrathi",
+        "Viswanathan Anand",
+        "R. Praggnanandhaa"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "R. Praggnanandhaa, the Indian chess prodigy, recently defeated Keymer in the GCT Grand Finale. The game was described as having fluctuating fortunes, with Keymer initially having control and a legitimate shot at attacking Praggnanandhaa's white king.",
+      "background": "The Grand Chess Tour (GCT) is a series of elite chess tournaments featuring some of the world's top players. Praggnanandhaa is a rising star in Indian chess, having achieved Grandmaster status at a young age and consistently competing at the highest levels, often challenging established grandmasters.",
+      "examRelevance": "R. Praggnanandhaa = defeated Keymer in GCT Grand Finale.",
+      "tags": [
+        "R. Praggnanandhaa",
+        "Chess",
+        "GCT Grand Finale",
+        "Keymer"
+      ],
+      "source": {
+        "title": "GCT Grand Finale: Praggnanandhaa beats Keymer to stake his claim for finals",
+        "url": "https://www.thehindu.com/sport/gct-grand-finale-praggnanandhaa-beats-keymer-to-stake-his-claim-for-finals/article71386315.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q17",
+      "question": "According to a panel chief, by which year are simultaneous polls for Lok Sabha and State Assemblies possibly achievable?",
+      "options": [
+        "2028",
+        "2027",
+        "2030",
+        "2029"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "A panel chief recently stated that simultaneous polls for both the Lok Sabha and State Assemblies are possibly achievable by the year 2029. This indicates ongoing discussions and planning towards implementing 'One Nation, One Election' in India.",
+      "background": "The concept of 'One Nation, One Election' or simultaneous polls aims to conduct elections for the Lok Sabha and all State Assemblies concurrently. Proponents argue it would save costs, reduce administrative burden, and ensure policy continuity, while critics raise concerns about federalism and voter behavior. A high-level committee has been studying the feasibility of this proposal.",
+      "examRelevance": "Simultaneous polls = possibly achievable by 2029, as per panel chief.",
+      "tags": [
+        "Simultaneous Polls",
+        "One Nation One Election",
+        "Lok Sabha",
+        "State Assemblies",
+        "Polity"
+      ],
+      "source": {
+        "title": "Simultaneous polls possible in 2029, says panel chief",
+        "url": "https://www.thehindu.com/news/national/simultaneous-polls-possible-in-2029-says-panel-chief/article71386185.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q18",
+      "question": "As per the West Bengal CM, approximately how many certificates have been issued under the Citizenship Amendment Act (CAA), with 2.3 lakh applications made?",
+      "options": [
+        "30,000",
+        "23,000",
+        "10,000",
+        "15,000"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The West Bengal CM stated that approximately 23,000 certificates have been issued under the Citizenship Amendment Act (CAA). Concurrently, 2.3 lakh applications have been made for citizenship under the Act, with about 2.07 lakh applications still pending with the State government.",
+      "background": "The Citizenship Amendment Act (CAA), enacted in 2019, fast-tracks citizenship for religious minorities (excluding Muslims) from Pakistan, Bangladesh, and Afghanistan who entered India before December 31, 2014. Its implementation has been a contentious issue, particularly in West Bengal, where there have been debates about its impact and constitutional validity.",
+      "examRelevance": "CAA certificates issued = 23,000 in West Bengal.",
+      "tags": [
+        "CAA",
+        "Citizenship Amendment Act",
+        "West Bengal",
+        "Citizenship",
+        "Polity"
+      ],
+      "source": {
+        "title": "As many as 23,000 certificates issued under CAA, 2.3 lakh applications made says WB CM",
+        "url": "https://www.thehindu.com/news/national/west-bengal/as-many-as-23000-certificates-issued-under-caa-23-lakh-applications-made-says-wb-cm/article71385675.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q19",
+      "question": "Who recently launched an 'examination reform Yatra' in Jharkhand to garner public support for transparency, accountability, and fairness in recruitment examinations?",
+      "options": [
+        "Devendra Mahto",
+        "Babulal Marandi",
+        "Arjun Munda",
+        "Hemant Soren"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Devendra Mahto recently launched an 'examination reform Yatra' in Jharkhand. The primary motive behind this Yatra is to garner public support for greater transparency, accountability, and fairness in the state's recruitment examination processes.",
+      "background": "Examination reforms are a frequent demand in many Indian states due to concerns over paper leaks, irregularities, and lack of transparency in government job recruitment processes. Such 'yatras' (journeys or processions) are a traditional method of political and social mobilization in India to raise awareness and pressure authorities for change.",
+      "examRelevance": "Devendra Mahto = launched examination reform Yatra in Jharkhand.",
+      "tags": [
+        "Devendra Mahto",
+        "Jharkhand",
+        "Examination Reform",
+        "Yatra",
+        "Governance"
+      ],
+      "source": {
+        "title": "Devendra Mahto launches examination reform Yatra in Jharkhand",
+        "url": "https://www.thehindu.com/news/national/jharkhand/devendra-mahto-launches-examination-reform-yatra-in-jharkhand/article71385152.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q20",
+      "question": "In which city did week-long Onam celebrations recently begin, featuring a dance performance by Lakshmi Gopalaswamy and a comedy show by Hareesh Kanaran and Nirmal Palazhi?",
+      "options": [
+        "Kochi",
+        "Thrissur",
+        "Thiruvananthapuram",
+        "Kozhikode"
+      ],
+      "answerIndex": 3,
+      "category": "Art & Culture",
+      "explanation": "Week-long Onam celebrations recently commenced in Kozhikode. The festivities include a diverse range of cultural programs, notably a dance performance by Lakshmi Gopalaswamy and a comedy show presented by Hareesh Kanaran and Nirmal Palazhi.",
+      "background": "Onam is the most important annual harvest festival celebrated in Kerala, commemorating the mythical King Mahabali. The celebrations typically last ten days and are marked by various cultural events, including traditional dances, music, elaborate feasts (Onam Sadhya), and floral decorations (Pookalam).",
+      "examRelevance": "Kozhikode = hosted week-long Onam celebrations.",
+      "tags": [
+        "Kozhikode",
+        "Onam",
+        "Kerala",
+        "Culture",
+        "Festivals"
+      ],
+      "source": {
+        "title": "Week-long Onam celebrations begin in Kozhikode",
+        "url": "https://www.thehindu.com/news/national/kerala/week-long-onam-celebrations-begin-in-kozhikode/article71385653.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q21",
+      "question": "India was recently highlighted as a successful host for which major international badminton event in 2026?",
+      "options": [
+        "Uber Cup",
+        "Thomas Cup",
+        "BWF World Championships",
+        "BWF Super Series Finals"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "India was recently recognized as a successful host of the 2026 BWF World Championships. This highlights the country's capability in organizing major international badminton tournaments.",
+      "background": "The BWF World Championships is an annual badminton tournament organized by the Badminton World Federation (BWF) to crown the world champions in various disciplines. Hosting such a prestigious event is a significant achievement for any nation, demonstrating its sporting infrastructure and organizational prowess.",
+      "examRelevance": "India = successful host of 2026 BWF World Championships.",
+      "tags": [
+        "India",
+        "BWF World Championships",
+        "Badminton",
+        "Sports Hosting",
+        "2026"
+      ],
+      "source": {
+        "title": "Perfect host: On India as host of the 2026 BWF World Championships",
+        "url": "https://www.thehindu.com/opinion/editorial/perfect-host-on-india-as-host-of-2026-bwf-world-championships/article71384749.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q22",
+      "question": "What was the reported expenditure on Karnataka CM D.K. Shivakumar’s swearing-in ceremony?",
+      "options": [
+        "₹30.75 lakh",
+        "₹25.50 lakh",
+        "₹45.00 lakh",
+        "₹38.25 lakh"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "A sum of ₹38.25 lakh was reportedly spent on the swearing-in ceremony of Karnataka Chief Minister D.K. Shivakumar. This figure details the costs associated with the official event.",
+      "background": "Swearing-in ceremonies for Chief Ministers and other public officials are significant state events that involve considerable logistical and security arrangements. The expenditure on such events can sometimes become a point of public discussion, especially in the context of government spending and accountability.",
+      "examRelevance": "Karnataka CM D.K. Shivakumar swearing-in = ₹38.25 lakh expenditure.",
+      "tags": [
+        "Karnataka",
+        "D.K. Shivakumar",
+        "CM Swearing-in",
+        "Expenditure",
+        "Polity"
+      ],
+      "source": {
+        "title": "₹38.25 lakh spent on Karnataka CM D.K. Shivakumar’s swearing-in ceremony",
+        "url": "https://www.thehindu.com/news/national/karnataka/3825-lakh-spent-on-karnataka-cm-dk-shivakumars-swearing-in-ceremony/article71385774.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q23",
+      "question": "How many taluks are expected to be declared drought-hit in Karnataka after discussions in the next Cabinet meeting?",
+      "options": [
+        "115",
+        "90",
+        "102",
+        "75"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "102 taluks in Karnataka are expected to be declared drought-hit following discussions in the upcoming Cabinet meeting. Parameshwara, a state official, noted that the current rainfall deficiency in Karnataka is among the four worst recorded since 1976.",
+      "background": "Drought declarations are critical for enabling states to implement relief measures, seek central assistance, and provide support to affected farmers and communities. Karnataka, like many Indian states, is susceptible to monsoon variations, and severe rainfall deficits can lead to widespread agricultural distress and water scarcity.",
+      "examRelevance": "Karnataka = 102 taluks to be declared drought-hit.",
+      "tags": [
+        "Karnataka",
+        "Drought",
+        "Taluks",
+        "Rainfall Deficiency",
+        "Environment"
+      ],
+      "source": {
+        "title": "102 taluks to be declared drought-hit after discussion in next Cabinet meeting",
+        "url": "https://www.thehindu.com/news/national/karnataka/102-taluks-to-be-declared-drought-hit-after-discussion-in-next-cabinet-meeting/article71385437.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q24",
+      "question": "Which e-commerce and food delivery platforms recently had their food licences suspended by the Karnataka government over the sale of Datura?",
+      "options": [
+        "Myntra, Uber Eats, JioMart",
+        "Meesho, Blinkit, Dunzo",
+        "Flipkart, Zomato, Grofers",
+        "Amazon, Swiggy Instamart, BigBasket"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Karnataka government recently suspended the food licences of major e-commerce and food delivery platforms, including Amazon, Swiggy Instamart, and BigBasket. This action was taken due to their alleged involvement in the sale of Datura, a poisonous plant.",
+      "background": "Datura is known for its toxic properties and is not meant for consumption, making its sale a serious public health concern. Regulatory bodies frequently monitor online platforms for the sale of prohibited or unsafe items, and suspension of licenses serves as a stern warning and enforcement action against violations of food safety standards.",
+      "examRelevance": "Karnataka = suspended food licences of Amazon, Swiggy Instamart, BigBasket over Datura sale.",
+      "tags": [
+        "Karnataka",
+        "Food Licences",
+        "Amazon",
+        "Swiggy Instamart",
+        "BigBasket",
+        "Datura"
+      ],
+      "source": {
+        "title": "Karnataka suspends food licences of Amazon, Swiggy Instamart, BigBasket over Datura sale",
+        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-suspends-food-licences-of-amazon-swiggy-instamart-bigbasket-over-datura-sale/article71386095.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q25",
+      "question": "From which date will the Tamil Nadu government implement a Career Advancement Scheme for teachers of government-aided arts and science colleges, engineering colleges, and polytechnic colleges?",
+      "options": [
+        "November 1",
+        "August 1",
+        "September 1",
+        "October 1"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The Tamil Nadu government announced that it will implement a Career Advancement Scheme for teachers of government-aided arts and science colleges, government and government-aided engineering colleges, and polytechnic colleges. This scheme is set to be effective from September 1.",
+      "background": "Career Advancement Schemes (CAS) are designed to provide opportunities for professional growth and improve the service conditions of educators, recognizing their experience and qualifications. Such schemes are crucial for attracting and retaining talent in the education sector, thereby enhancing the quality of teaching and research.",
+      "examRelevance": "Tamil Nadu government = Career Advancement Scheme for teachers from September 1.",
+      "tags": [
+        "Tamil Nadu",
+        "Career Advancement Scheme",
+        "Teachers",
+        "Higher Education"
+      ],
+      "source": {
+        "title": "T.N. government actively pursuing V-C appointment issue in courts, Higher Education Minister tells Assembly",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-actively-pursuing-v-c-appointment-issue-in-courts-higher-education-minister-tells-assembly/article71385848.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q26",
+      "question": "Which former KPCC president recently flayed the Centre's decision to shift Mangaluru from the Palakkad railway division, calling the move 'unilateral'?",
+      "options": [
+        "K. Muraleedharan",
+        "Mullappally Ramachandran",
+        "Oommen Chandy",
+        "Ramesh Chennithala"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Former KPCC president Mullappally Ramachandran recently flayed the Centre’s decision to shift Mangaluru from the Palakkad railway division. He termed the move 'unilateral' and warned that it could cost the Palakkad division at least ₹600 crore in freight revenue.",
+      "background": "Railway divisions are administrative units responsible for the operation and maintenance of railway infrastructure and services within their jurisdiction. Changes in divisional boundaries or reallocation of significant revenue-generating areas like Mangaluru can have substantial economic implications for the affected divisions and states, often leading to political contention.",
+      "examRelevance": "Mullappally Ramachandran = flayed Centre's decision to shift Mangaluru from Palakkad railway division.",
+      "tags": [
+        "Mullappally Ramachandran",
+        "KPCC",
+        "Mangaluru",
+        "Palakkad Railway Division",
+        "Polity"
+      ],
+      "source": {
+        "title": "Mullappally flays Centre’s decision to shift Mangaluru from Palakkad railway division",
+        "url": "https://www.thehindu.com/news/national/kerala/mullappally-flays-centres-decision-to-shift-mangaluru-from-palakkad-railway-division/article71384338.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q27",
+      "question": "According to a recent report, which country has India recently surpassed in terms of premium intercontinental aviation demand?",
+      "options": [
+        "Japan",
+        "United Arab Emirates",
+        "China",
+        "Singapore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "A recent statement, including insights from a Lufthansa executive, indicates that India has surpassed China in terms of premium intercontinental aviation demand. This signifies a strong growth trend in India's long-haul premium travel sector.",
+      "background": "Premium aviation demand refers to the demand for business class, first class, or similar higher-end travel services on international routes. This metric is an important indicator of economic growth, increasing disposable incomes, and the expansion of global business ties within a country.",
+      "examRelevance": "India = surpassed China in premium intercontinental aviation demand.",
+      "tags": [
+        "India",
+        "China",
+        "Aviation Demand",
+        "Premium Travel",
+        "Economy"
+      ],
+      "source": {
+        "title": "'India overtakes China in premium aviation demand'",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/india-overtakes-china-in-premium-intercontinental-demand-lufthansa-exec-long-haul-growth/articleshow/133476856.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q28",
+      "question": "By which month does the Water Resources Department (WRD) aim to complete the dredging work in Ennore backwaters to remove invasive mussel species?",
+      "options": [
+        "October",
+        "September",
+        "August",
+        "November"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The Water Resources Department (WRD) has set a target to complete the dredging work in Ennore backwaters by October. This initiative is specifically aimed at removing invasive mussel species that have proliferated in stretches between Kattupalli and Puzhuthivakkam.",
+      "background": "Invasive species pose a significant threat to native ecosystems, often outcompeting local species and disrupting ecological balance. The Ennore backwaters are a crucial aquatic environment, and the removal of invasive mussels is essential for restoring its biodiversity and ecological health.",
+      "examRelevance": "Ennore backwaters dredging = to remove invasive mussel by October.",
+      "tags": [
+        "Ennore Backwaters",
+        "Dredging",
+        "Invasive Species",
+        "Mussel",
+        "Environment"
+      ],
+      "source": {
+        "title": "WRD aims to complete Ennore backwaters dredging to remove invasive mussel by October",
+        "url": "https://www.thehindu.com/news/cities/chennai/wrd-aims-to-complete-ennore-backwaters-dredging-to-remove-invasive-mussel-by-october/article71385087.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q29",
+      "question": "India, the world's second-largest wheat producer, recently lifted its ban on wheat exports. When was this ban initially imposed?",
+      "options": [
+        "July 2022",
+        "May 2022",
+        "September 2022",
+        "March 2022"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "India, which holds the position of the world's second-largest wheat producer, recently lifted its ban on wheat exports. The ban was initially imposed in May 2022 as part of measures to control rising domestic prices and ensure food security within the country.",
+      "background": "Export bans on essential commodities like wheat are often implemented by governments to stabilize domestic prices, manage food inflation, and ensure adequate supply for the local population. The decision to lift the ban indicates a change in market conditions, possibly due to increased domestic production or stabilized prices, benefiting farmers by allowing them access to international markets.",
+      "examRelevance": "India lifted wheat export ban; ban imposed = May 2022.",
+      "tags": [
+        "India",
+        "Wheat Exports",
+        "Export Ban",
+        "Agriculture",
+        "Economy"
+      ],
+      "source": {
+        "title": "Government lifts ban on wheat exports, cites farmers’ interests amid depressed local prices",
+        "url": "https://www.thehindu.com/news/national/government-lifts-ban-on-wheat-exports-cites-farmers-interests-amid-depressed-local-prices/article71386093.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-25-q30",
+      "question": "What is the estimated cost of the new project for rabies control recently unveiled by the Tamil Nadu government?",
+      "options": [
+        "₹55 crore",
+        "₹120 crore",
+        "₹78 crore",
+        "₹107 crore"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Tamil Nadu government recently unveiled a new project for rabies control, with an estimated cost of ₹107 crore. In its initial phase, the project will be implemented across municipal corporations, municipalities, and town panchayats, as stated by Minister Rajmohan.",
+      "background": "Rabies is a viral disease that is nearly always fatal once clinical symptoms appear, making prevention and control crucial. Government-led projects typically involve mass vaccination of stray and pet animals, public awareness campaigns, and improved surveillance. Such significant investment highlights the state's commitment to public health.",
+      "examRelevance": "Tamil Nadu government = ₹107 crore project for rabies control.",
+      "tags": [
+        "Tamil Nadu",
+        "Rabies Control",
+        "Public Health",
+        "Government Project",
+        "Animal Health"
+      ],
+      "source": {
+        "title": "T.N. govt. unveils 107-cr. project for rabies control",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-unveils-107-cr-project-for-rabies-control/article71385542.ece"
+      }
+    }
+  ]
+}
