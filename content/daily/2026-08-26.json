@@ -1,0 +1,795 @@
+{
+  "id": "daily-2026-08-26",
+  "type": "daily",
+  "date": "2026-08-26",
+  "title": "Current Affairs — 26 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-26-q1",
+      "question": "Which country recently had a civil nuclear agreement submitted by the US President to Congress for review?",
+      "options": [
+        "Iran",
+        "United Arab Emirates",
+        "Saudi Arabia",
+        "North Korea"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The US President recently submitted a civil nuclear agreement with Saudi Arabia to Congress for review. Under US law, Congress has 90 days while in session to review such an agreement.",
+      "background": "This agreement is part of broader efforts to strengthen ties and cooperation with Saudi Arabia, particularly in the energy sector, while ensuring non-proliferation safeguards. Such agreements often involve technology transfer for peaceful nuclear purposes.",
+      "examRelevance": "US-Saudi civil nuclear agreement submitted to Congress for review.",
+      "tags": [
+        "US",
+        "Saudi Arabia",
+        "Civil Nuclear Agreement",
+        "Congress"
+      ],
+      "source": {
+        "title": "Trump submits civil nuclear agreement with Saudi Arabia to Congress for review",
+        "url": "https://www.thehindu.com/news/international/trump-submits-civil-nuclear-agreement-with-saudi-arabia-to-congress-for-review/article71391270.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q2",
+      "question": "Gurpatwant Singh Pannun, a prominent Sikh separatist and dual U.S.-Canadian citizen, stated he was warned by which US agency about a new threat to his life under a 'Duty to Warn' law?",
+      "options": [
+        "FBI",
+        "CIA",
+        "NSA",
+        "Department of Homeland Security"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Gurpatwant Singh Pannun, a prominent Sikh separatist, stated that the FBI warned him of a new threat on his life. This warning was issued according to the terms of a 'Duty to Warn' law in the United States.",
+      "background": "The 'Duty to Warn' law obligates U.S. intelligence and law enforcement agencies to notify individuals when they discover credible and specific threats of murder, severe bodily harm, or kidnapping. Pannun has been a figure in ongoing diplomatic tensions.",
+      "examRelevance": "Sikh separatist Gurpatwant Singh Pannun received FBI warning under 'Duty to Warn' law.",
+      "tags": [
+        "Gurpatwant Singh Pannun",
+        "FBI",
+        "Duty to Warn",
+        "Sikh separatist",
+        "US-Canada"
+      ],
+      "source": {
+        "title": "Prominent Sikh separatist says FBI has warned him of new threat on his life",
+        "url": "https://www.thehindu.com/news/international/prominent-sikh-separatist-says-fbi-has-warned-him-of-new-threat-on-his-life/article71391255.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q3",
+      "question": "Which two Central American countries recently sounded an alarm regarding an El Nino-fueled severe drought that is ravaging harvests?",
+      "options": [
+        "Honduras and Nicaragua",
+        "El Salvador and Panama",
+        "Mexico and Guatemala",
+        "Costa Rica and Belize"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "El Salvador and Panama recently sounded an alarm regarding an El Nino-fueled severe drought. Panama's Interior Minister Dinoska Montalvo stated that the declaration will allow authorities to be prepared for the impact of El Nino, which is ravaging harvests and sparking fears of famine.",
+      "background": "El Niño is a climate pattern associated with the warming of the Pacific Ocean surface temperatures, which can lead to extreme weather events globally, including droughts in some regions and heavy rainfall in others. Central America is particularly vulnerable to its effects.",
+      "examRelevance": "El Salvador and Panama declared alarm on El Nino-fueled drought.",
+      "tags": [
+        "El Salvador",
+        "Panama",
+        "El Nino",
+        "Drought",
+        "Climate Change"
+      ],
+      "source": {
+        "title": "El Salvador, Panama sound alarm on El Nino-fueled drought",
+        "url": "https://www.thehindu.com/news/international/el-salvador-panama-sound-alarm-on-el-nino-fueled-drought/article71391259.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q4",
+      "question": "The US administration under Donald Trump has proposed changes to which non-immigrant visa category, including a significant fee hike, affecting skilled foreign workers?",
+      "options": [
+        "L-1 visa",
+        "H-1B visa",
+        "J-1 visa",
+        "O-1 visa"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The US administration under Donald Trump has proposed changes to the H-1B visa category, including a fee hike. This development is expected to impact skilled foreign workers, particularly those from India, seeking employment in the US.",
+      "background": "The H-1B visa program allows US employers to temporarily employ foreign workers in specialty occupations. It is highly popular among Indian tech professionals. Changes to this visa program have been a recurring topic in US immigration policy debates.",
+      "examRelevance": "Trump administration proposed H-1B visa fee hike.",
+      "tags": [
+        "H-1B Visa",
+        "US Immigration",
+        "Donald Trump",
+        "Skilled Workers",
+        "Economy"
+      ],
+      "source": {
+        "title": "H-1B visa changes: What Trump’s fee hike means",
+        "url": "https://economictimes.indiatimes.com/nri/latest-updates/h-1b-visa-changes-trump-103265-fee-skilled-foreign-workers-indian-tech-workers/articleshow/133527452.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q5",
+      "question": "Zohran Mamdani, an NYC politician, recently opposed a rally in New York featuring the chief of which Indian organization?",
+      "options": [
+        "Aam Aadmi Party",
+        "Bharatiya Janata Party",
+        "Rashtriya Swayamsevak Sangh (RSS)",
+        "Indian National Congress"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Zohran Mamdani, an NYC Mayor, recently opposed a New York rally featuring RSS chief Mohan Bhagwat at Madison Square Garden. Mamdani stated his opposition stemmed from his vision of India as a pluralistic and secular republic.",
+      "background": "The RSS (Rashtriya Swayamsevak Sangh) is a right-wing Hindu nationalist volunteer organization in India, widely considered the parent organization of the ruling Bharatiya Janata Party (BJP). Events involving its leadership abroad often draw both support and opposition from various diaspora groups.",
+      "examRelevance": "Zohran Mamdani opposed RSS chief Mohan Bhagwat's New York event.",
+      "tags": [
+        "Zohran Mamdani",
+        "RSS",
+        "Mohan Bhagwat",
+        "New York",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Mamdani opposes RSS chief's New York rally",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/i-dont-support-the-rally-zohran-mamdani-opposes-rss-chief-bhagwats-new-york-event/articleshow/133527410.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q6",
+      "question": "Former US President Donald Trump's suggestion to rename which Great Lake as 'Lake America' has sparked anger in Canada?",
+      "options": [
+        "Lake Ontario",
+        "Lake Huron",
+        "Lake Superior",
+        "Lake Michigan"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Former US President Donald Trump's suggestion to rename Lake Ontario as 'Lake America' has sparked anger in Canada. Canadians pointed out that the lake's name predates both the US and Canada.",
+      "background": "Lake Ontario is one of the five Great Lakes of North America, shared by the United States and Canada. The name 'Ontario' is derived from the Huron language, meaning 'Lake of Shining Waters'. Renaming shared natural landmarks can be a sensitive diplomatic issue.",
+      "examRelevance": "Trump suggested renaming Lake Ontario to 'Lake America'.",
+      "tags": [
+        "Donald Trump",
+        "Lake Ontario",
+        "Canada",
+        "US",
+        "Great Lakes"
+      ],
+      "source": {
+        "title": "Trump’s ‘Lake America’ plan sparks Canadian anger",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-wants-to-rename-lake-ontario-lake-america-even-as-its-name-predates-both-us-and-canada-canadians-say-no/articleshow/133527325.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q7",
+      "question": "Following recent evacuations due to war, the US has begun returning staff to its diplomatic missions in which region?",
+      "options": [
+        "Middle East",
+        "Eastern Europe",
+        "East Asia",
+        "South America"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The US has started returning staff to its Middle East missions after evacuations prompted by recent conflict. This move signals a potential de-escalation or stabilization in the region.",
+      "background": "The Middle East has been a focal point of US foreign policy, with numerous diplomatic and military engagements. Staff evacuations typically occur during periods of heightened security threats or conflict, such as the recent tensions related to Iran.",
+      "examRelevance": "US returning staff to Middle East missions after Iran war evacuations.",
+      "tags": [
+        "US",
+        "Middle East",
+        "Diplomacy",
+        "International Relations"
+      ],
+      "source": {
+        "title": "US starts returning staff to Middle East missions",
+        "url": "https://economictimes.indiatatimes.com/news/defence/us-starts-returning-staff-to-middle-east-missions-after-iran-war-evacuations-sources/articleshow/133527237.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q8",
+      "question": "Which AI data centre firm recently placed an order for 9,000 Nvidia Vera Rubin chips?",
+      "options": [
+        "Microsoft",
+        "AMI",
+        "Amazon",
+        "Google"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "AI data centre firm AMI recently placed an order for 9,000 Nvidia Vera Rubin chips. This significant acquisition highlights the growing demand for high-performance computing hardware in the artificial intelligence sector.",
+      "background": "Nvidia is a leading designer of graphics processing units (GPUs) which are crucial for AI and machine learning workloads. The Vera Rubin architecture is one of Nvidia's advanced chip designs, catering to the needs of modern data centers and AI applications.",
+      "examRelevance": "AMI ordered 9,000 Nvidia Vera Rubin chips.",
+      "tags": [
+        "AMI",
+        "Nvidia",
+        "Vera Rubin chips",
+        "AI",
+        "Data Centre",
+        "Technology"
+      ],
+      "source": {
+        "title": "AMI’s Nvidia chip bet; Groww’s new growth play",
+        "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/amis-nvidia-chip-bet-growws-new-growth-play/articleshow/133527242.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q9",
+      "question": "The rights panel of which Indian state recently ordered a probe into the issue of wrong parents' names being recorded in certificates of parentless students, depriving them of government assistance?",
+      "options": [
+        "Jharkhand",
+        "Bihar",
+        "Chhattisgarh",
+        "Odisha"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Odisha rights panel recently ordered a probe into the issue of wrong parents' names being recorded in the certificates of parentless students by child care institutes (orphanages). This mismatch deprives these students of government assistance, creating difficulties in their academic journey and life.",
+      "background": "Such discrepancies can have severe implications for vulnerable children, hindering their access to educational benefits, scholarships, and other welfare schemes designed for them. The probe aims to rectify these administrative errors and ensure rightful access to support.",
+      "examRelevance": "Odisha rights panel ordered probe into wrong parents' names in certificates for parentless students.",
+      "tags": [
+        "Odisha",
+        "Child Rights",
+        "Government Schemes",
+        "Certificates",
+        "Orphanages"
+      ],
+      "source": {
+        "title": "Cost of being parentless: Odisha rights panel orders probe into wrong parents’ names in certificates",
+        "url": "https://www.thehindu.com/news/national/odisha/cost-of-being-parentless-odisha-rights-panel-orders-probe-into-wrong-parents-names-in-certificates/article71389231.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q10",
+      "question": "The US has shifted its strategy towards Iran from fresh strikes to increased economic pressure, with which country posing a significant challenge due to its strong trade ties with Iran?",
+      "options": [
+        "China",
+        "India",
+        "Turkey",
+        "Russia"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The US has shifted its Iran war strategy from fresh strikes to sanctions, aiming to squeeze Tehran economically. However, this new economic pressure faces a significant challenge from China's strong trade ties with Iran, complicating US-China relations ahead of a key summit.",
+      "background": "US sanctions on Iran have historically aimed to curb its nuclear program and support for regional proxies. China has been a major buyer of Iranian oil and a key trading partner, often undermining the effectiveness of US sanctions through its continued economic engagement.",
+      "examRelevance": "China's trade ties challenge US economic pressure on Iran.",
+      "tags": [
+        "US",
+        "Iran",
+        "China",
+        "Sanctions",
+        "Economic Pressure",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Trump's new economic squeeze on Iran has big challenge: China",
+        "url": "https://www.thehindu.com/news/international/trumps-new-economic-squeeze-on-iran-has-big-challenge-china/article71391233.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q11",
+      "question": "Which social media platform's chief recently admitted that Meta omitted data regarding the weak uptake of its teen safety tools?",
+      "options": [
+        "Threads",
+        "Facebook",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "The chief of Instagram recently admitted that Meta omitted data regarding the weak uptake of its teen safety tools. This admission came amid scrutiny over the platform's impact on young users.",
+      "background": "Social media companies, particularly those popular with teenagers, have faced increasing pressure from regulators and child safety advocates to implement and demonstrate effective measures to protect young users. Transparency regarding the efficacy of these tools is a key concern.",
+      "examRelevance": "Instagram chief admitted Meta hid teen safety tool data.",
+      "tags": [
+        "Instagram",
+        "Meta",
+        "Teen Safety",
+        "Social Media",
+        "Data Transparency"
+      ],
+      "source": {
+        "title": "Instagram admits Meta hid teen safety tool data",
+        "url": "https://economictimes.indiatimes.com/news/international/business/instagram-chief-admits-meta-omitted-weak-teen-safety-tool-uptake/articleshow/133527122.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q12",
+      "question": "Five-time U.S. Open champion Roger Federer recently returned to Arthur Ashe Stadium for an exhibition match against which longtime rival and friend?",
+      "options": [
+        "Novak Djokovic",
+        "Andy Roddick",
+        "Rafael Nadal",
+        "Pete Sampras"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Five-time U.S. Open champion Roger Federer recently returned to Arthur Ashe Stadium for an exhibition match against longtime rival and friend Andy Roddick. The match was described as 'one last match for fun'.",
+      "background": "Roger Federer is one of the most decorated tennis players in history, having won 20 Grand Slam men's singles titles. Andy Roddick was a prominent American tennis player and a former US Open champion, known for his powerful serve. Their rivalry was a significant feature of men's tennis in the 2000s.",
+      "examRelevance": "Roger Federer played exhibition match against Andy Roddick at U.S. Open.",
+      "tags": [
+        "Roger Federer",
+        "Andy Roddick",
+        "US Open",
+        "Tennis",
+        "Exhibition Match"
+      ],
+      "source": {
+        "title": "Roger Federer celebrated upon his return to the U.S. Open for an exhibition against Andy Roddick",
+        "url": "https://www.thehindu.com/sport/roger-federer-celebrated-upon-his-return-to-the-us-open-for-an-exhibition-against-andy-roddick/article71391231.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q13",
+      "question": "The US military recently announced it struck a vessel in which sea, resulting in four deaths, with human rights groups calling the strikes unlawful?",
+      "options": [
+        "Black Sea",
+        "Caribbean Sea",
+        "Mediterranean Sea",
+        "South China Sea"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "The U.S. military recently announced that it struck a vessel in the Caribbean, resulting in four deaths. Human Rights Watch, Amnesty International, and independent U.N. experts have called these strikes unlawful extrajudicial killings.",
+      "background": "Military operations in international waters often raise questions of international law and human rights, especially when involving fatalities. The Caribbean Sea is a vital maritime region, and such incidents can draw significant international scrutiny.",
+      "examRelevance": "US military struck vessel in the Caribbean, killing four.",
+      "tags": [
+        "US Military",
+        "Caribbean Sea",
+        "Human Rights",
+        "Defence Operations",
+        "International Law"
+      ],
+      "source": {
+        "title": "U.S. military says it struck vessel in the Caribbean, killing four",
+        "url": "https://www.thehindu.com/news/international/several-killed-as-us-military-says-it-struck-vessel-in-the-caribbean-updates/article71391222.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q14",
+      "question": "Darline Graham, backed by Donald Trump, recently won a Senate runoff in which US state?",
+      "options": [
+        "Florida",
+        "South Carolina",
+        "Texas",
+        "Ohio"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Darline Graham, who received support from Donald Trump, recently won a Senate runoff in South Carolina. Her victory marks a significant development in the state's political landscape.",
+      "background": "Senate runoffs are common in some US states where a candidate must secure a majority of votes to win, and if no candidate achieves this in the initial election, the top two contenders proceed to a second round. Endorsements from prominent political figures like Trump often play a crucial role in these races.",
+      "examRelevance": "Darline Graham won South Carolina Senate runoff.",
+      "tags": [
+        "Darline Graham",
+        "Donald Trump",
+        "South Carolina",
+        "Senate Runoff",
+        "US Politics"
+      ],
+      "source": {
+        "title": "Trump-backed Darline Graham wins Senate runoff",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-backed-darline-graham-wins-south-carolina-senate-runoff/articleshow/133527041.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q15",
+      "question": "Former US President Donald Trump recently ordered the US flag to be lowered for a week to honour the passing of which country music legend?",
+      "options": [
+        "Dolly Parton",
+        "Johnny Cash",
+        "Willie Nelson",
+        "Loretta Lynn"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Former US President Donald Trump ordered the US flag to be lowered for a week in honour of the late country music legend Dolly Parton, who passed away at the age of 80. Parton was a multiple award-winning artist who opened doors for generations of singers and songwriters.",
+      "background": "Dolly Parton was an iconic figure in country music and pop culture, known for her prolific songwriting, distinctive voice, and philanthropic efforts. Her death marks a significant loss for the music industry and her millions of fans worldwide. Lowering the flag is a rare honour for non-government officials.",
+      "examRelevance": "Dolly Parton, US country music legend, passed away at 80.",
+      "tags": [
+        "Dolly Parton",
+        "Obituary",
+        "Country Music",
+        "Donald Trump",
+        "US Flag"
+      ],
+      "source": {
+        "title": "Trump orders US flag lowered for Dolly Parton",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/true-loss-for-millions-of-people-trump-orders-us-flag-lowered-for-a-week-in-honour-of-late-singer-dolly-parton/articleshow/133527019.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q16",
+      "question": "Which international body recently called on India to urgently address discrimination, hate speech, and hate crimes, and ensure accountability for these violations?",
+      "options": [
+        "World Health Organization (WHO)",
+        "World Bank",
+        "International Monetary Fund (IMF)",
+        "United Nations Human Rights Committee (UNHRC)"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "A UN committee, specifically the United Nations Human Rights Committee, recently called on India to urgently address discrimination, hate speech, and hate crimes, and ensure accountability for these violations. The committee expressed grave concern over rights violations against various groups.",
+      "background": "The UN Human Rights Committee monitors the implementation of the International Covenant on Civil and Political Rights (ICCPR) by its state parties. Its observations and recommendations serve as guidance for countries to improve their human rights records.",
+      "examRelevance": "UN committee called on India to address hate speech and hate crimes.",
+      "tags": [
+        "UN Committee",
+        "India",
+        "Human Rights",
+        "Hate Speech",
+        "Discrimination"
+      ],
+      "source": {
+        "title": "UN committee calls for addressing ‘hate speech’ and ‘hate crimes’ in India",
+        "url": "https://www.thehindu.com/news/national/un-committee-expresses-grave-concern-over-rights-violations-against-scs-sts-rohingya-refugees/article71388439.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q17",
+      "question": "Venture capitalists are increasingly analyzing UPI autoPay metrics to identify 'dead users' and gauge the true value of startups, amidst soaring transaction volumes on which payment system?",
+      "options": [
+        "IMPS",
+        "UPI",
+        "RTGS",
+        "NEFT"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Venture capitalists are looking past payment figures to spot 'dead users' hiding in UPI autoPay metrics to gauge the true value of startups. This trend comes as transaction volumes on the Unified Payments Interface (UPI) soar, requiring investors to separate payment metrics from actual app usage.",
+      "background": "UPI has become India's dominant digital payment system, facilitating a massive volume of transactions. However, high transaction numbers don't always equate to active user engagement, leading investors to develop more sophisticated metrics to assess startup health, especially concerning recurring payments like autoPay.",
+      "examRelevance": "VCs are using UPI autoPay metrics to identify 'dead users' in startups.",
+      "tags": [
+        "UPI",
+        "AutoPay",
+        "Venture Capital",
+        "Startups",
+        "Fintech",
+        "Economy"
+      ],
+      "source": {
+        "title": "VCs look past payment figures to spot 'dead users' hiding in UPI autoPay metrics",
+        "url": "https://www.livemint.com/economy/vcs-look-past-payment-figures-to-spot-dead-users-hiding-in-upi-autopay-metrics-11787627688438.html"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q18",
+      "question": "Analysts are cautious about retail participation in the Offer For Sale (OFS) of which public sector undertaking (PSU), despite a nearly 10% discount to its stock's closing price?",
+      "options": [
+        "Bharat Electronics Limited (BEL)",
+        "Coal India Limited (CIL)",
+        "Hindustan Copper",
+        "Hindustan Aeronautics Limited (HAL)"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Analysts are cautious about retail participation in Hindustan Copper's Offer For Sale (OFS), despite the nearly 10% discount offered to the stock's closing price. Concerns stem from the recent sharp rally in metal stocks and elevated valuations, which could limit near-term gains for retail investors.",
+      "background": "An Offer For Sale (OFS) is a mechanism for promoters of listed companies to dilute their shareholding and for the government to divest its stake in public sector undertakings (PSUs). The success of an OFS often depends on market sentiment, valuation, and the discount offered.",
+      "examRelevance": "Hindustan Copper's OFS faces retail investor caution.",
+      "tags": [
+        "Hindustan Copper",
+        "OFS",
+        "Retail Investors",
+        "PSU",
+        "Stock Market"
+      ],
+      "source": {
+        "title": "Hindustan Copper OFS may not be a big draw for retail investors: Analysts",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/hind-copper-may-not-be-a-big-draw-for-retail-investors/articleshow/133526868.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q19",
+      "question": "Which segment of the Indian equity market has shown a continued upward trend, with its average advance-to-decline ratio up for the fifth consecutive month, while blue-chip stocks struggle?",
+      "options": [
+        "Commodity futures",
+        "Small-cap and Mid-cap stocks",
+        "Large-cap stocks",
+        "Government bonds"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Small and mid-cap stocks in the Indian equity market have continued to defy index-level inertia, with their average advance-to-decline ratio up for the fifth consecutive month. This indicates significant investor interest beyond the typical frontbenchers (blue-chip stocks).",
+      "background": "The advance-to-decline ratio is a market breadth indicator that compares the number of advancing stocks to the number of declining stocks over a period. A rising ratio indicates bullish sentiment and broad market participation, often signaling strength beyond just the large-cap indices.",
+      "examRelevance": "Small and mid-cap stocks show strong performance in Indian equity market.",
+      "tags": [
+        "Small-cap",
+        "Mid-cap",
+        "Equity Market",
+        "Stock Market",
+        "Economy",
+        "Advance-to-Decline Ratio"
+      ],
+      "source": {
+        "title": "Small and midcaps shine as blue-chip stocks struggle for momentum",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/small-and-midcaps-shine-as-blue-chip-stocks-struggle-for-momentum/articleshow/133526882.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q20",
+      "question": "Tribal students in which city are protesting for the 13th day, demanding a resolution regarding a Government Resolution (GR) issued on August 14, 2026, by the Tribal Department?",
+      "options": [
+        "Aurangabad",
+        "Nashik",
+        "Nagpur",
+        "Pune"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Tribal students in Pune are protesting for the 13th day, seeking a breakthrough in talks with the Tribal Minister. Their major demand is related to a stay order on a Government Resolution (GR) issued on August 14, 2026, by the Tribal Department.",
+      "background": "Government Resolutions (GRs) are formal orders or notifications issued by government departments to implement policies or decisions. Protests against GRs typically arise when affected groups believe the resolution negatively impacts their rights or welfare, leading to calls for review or withdrawal.",
+      "examRelevance": "Pune tribal students protest against GR issued on August 14, 2026.",
+      "tags": [
+        "Pune",
+        "Tribal Students",
+        "Protest",
+        "Government Resolution",
+        "Maharashtra"
+      ],
+      "source": {
+        "title": "Pune tribal students’ protest enters 13th day as talks with Tribal Minister yield no breakthrough, say students",
+        "url": "https://www.thehindu.com/news/national/maharashtra/pune-tribal-students-protest-enters-13th-day-as-talks-with-tribal-minister-yield-no-breakthrough-say-students/article71387944.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q21",
+      "question": "Which two countries recently held talks to establish a 'joint temporary navigational corridor' and clear mines from the Strait of Hormuz?",
+      "options": [
+        "Iran and Oman",
+        "Qatar and Bahrain",
+        "Iran and Saudi Arabia",
+        "Oman and UAE"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Iran and Oman recently held talks on managing the Strait of Hormuz. A joint statement indicated that the proposed framework includes a 'joint temporary navigational corridor' and both countries working to clear mines from the waterway.",
+      "background": "The Strait of Hormuz is a strategically vital waterway connecting the Persian Gulf with the Arabian Sea and the open ocean. It is one of the world's most important choke points for oil shipments, making its safe navigation crucial for global energy security. Cooperation between littoral states is key to its management.",
+      "examRelevance": "Iran and Oman held talks on managing Strait of Hormuz.",
+      "tags": [
+        "Iran",
+        "Oman",
+        "Strait of Hormuz",
+        "Navigation",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Iran, Oman hold talks on managing Strait of Hormuz",
+        "url": "https://www.thehindu.com/news/international/iran-oman-hold-talks-on-managing-strait-of-hormuz/article71390541.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q22",
+      "question": "According to CM Yogi Adityanath, more than 9.3 lakh youth have received government jobs in which state over the last nine years?",
+      "options": [
+        "Bihar",
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Rajasthan"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Uttar Pradesh CM Yogi Adityanath stated that more than 9.3 lakh youth have received government jobs in the state over the last nine years. He also announced that the U.P. government will provide government jobs to one lakh youth within the next six months.",
+      "background": "Job creation, particularly in the government sector, is a significant electoral promise and a key focus area for state governments in India. These figures are often highlighted to demonstrate governance effectiveness and address unemployment concerns among the youth.",
+      "examRelevance": "Uttar Pradesh government provided over 9.3 lakh jobs in 9 years.",
+      "tags": [
+        "Uttar Pradesh",
+        "Yogi Adityanath",
+        "Government Jobs",
+        "Employment",
+        "Youth"
+      ],
+      "source": {
+        "title": "More than 9.3 lakh youth received government jobs in Uttar Pradesh in the last nine years, says CM Yogi",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/more-than-93-lakh-youth-received-government-jobs-in-uttar-pradesh-in-the-last-nine-years-says-cm-yogi/article71389336.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q23",
+      "question": "Indian Women's Cricket Captain Harmanpreet Kaur recently spoke ahead of the team's participation in which upcoming T20 tournament?",
+      "options": [
+        "Women's Big Bash League",
+        "UAE Asia Cup T20",
+        "ICC Women's T20 World Cup",
+        "Commonwealth Games Cricket"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Indian Women's Cricket Captain Harmanpreet Kaur recently spoke ahead of the team's participation in the upcoming UAE Asia Cup T20. She also mentioned the Asian Games, highlighting the team's winning culture after their recent Test victory against England at Lord's.",
+      "background": "The Women's Asia Cup is a biennial international cricket tournament contested by women's national teams from Asia. The tournament is organized by the Asian Cricket Council (ACC) and is typically played in the Twenty20 format, with occasional ODI editions.",
+      "examRelevance": "Harmanpreet Kaur spoke ahead of UAE Asia Cup T20.",
+      "tags": [
+        "Harmanpreet Kaur",
+        "Women's Cricket",
+        "Asia Cup T20",
+        "Asian Games",
+        "Sports"
+      ],
+      "source": {
+        "title": "We've developed winning culture, hungry for more, says Harmanpreet ahead of Asia Cup, Asian Games",
+        "url": "https://www.thehindu.com/sport/cricket/weve-developed-winning-culture-hungry-for-more-says-harmanpreet-ahead-of-asia-cup-asian-games/article71390413.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q24",
+      "question": "The Biju Janata Dal (BJD) recently criticized a proposal to lease out which international airport to a private entity?",
+      "options": [
+        "Biju Patnaik International Airport, Bhubaneswar",
+        "Netaji Subhas Chandra Bose International Airport, Kolkata",
+        "Lokpriya Gopinath Bordoloi International Airport, Guwahati",
+        "Gaya Airport, Gaya"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Biju Janata Dal (BJD) recently criticized a proposal to lease out the Biju Patnaik International Airport in Bhubaneswar to a private entity. The BJD estimated the airport's worth between ₹5,000 crore and ₹7,000 crore, noting that around 50 lakh people use it annually.",
+      "background": "The privatization or leasing of public infrastructure, including airports, is a policy often pursued by governments to improve efficiency, attract investment, and generate revenue. However, such moves frequently face political opposition and public scrutiny over asset valuation and potential impact on public services.",
+      "examRelevance": "BJD criticized proposal to lease out Biju Patnaik International Airport.",
+      "tags": [
+        "BJD",
+        "Biju Patnaik International Airport",
+        "Bhubaneswar",
+        "Privatization",
+        "Odisha"
+      ],
+      "source": {
+        "title": "BJD criticises proposal to lease out Bhubaneswar airport to private entity",
+        "url": "https://www.thehindu.com/news/national/odisha/bjd-criticises-proposal-to-lease-out-bhubaneswar-airport-to-private-entity/article71389636.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q25",
+      "question": "The Bombay High Court is set to hear a PIL challenging the August 12 notification amending the Maharashtra Motor Vehicles Rules, 1989, which introduced a new condition for drivers related to which language?",
+      "options": [
+        "Marathi",
+        "Kannada",
+        "Hindi",
+        "Gujarati"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Bombay High Court is set to hear a Public Interest Litigation (PIL) challenging the August 12 notification of the Home (Transport) Department, which amended the Maharashtra Motor Vehicles Rules, 1989. This amendment included a condition related to the Marathi language for driver's licence grants, renewals, and permit holders.",
+      "background": "Language requirements for public services or professional licenses often become subjects of legal and political debate, particularly in multilingual states. Such rules can be seen as promoting regional languages but may also face challenges on grounds of discrimination or practicality.",
+      "examRelevance": "Bombay High Court to hear PIL against Marathi language rule for drivers in Maharashtra.",
+      "tags": [
+        "Bombay High Court",
+        "Maharashtra",
+        "Marathi Language",
+        "Motor Vehicles Rules",
+        "PIL"
+      ],
+      "source": {
+        "title": "Bombay High Court to hear PIL against Marathi rule for drivers",
+        "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-to-hear-pil-against-marathi-rule-for-drivers/article71389848.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q26",
+      "question": "Former CDS Anil Chauhan stated that a loitering munition may have hit the Kirana Hills area, known for nuclear-related facilities, during which operation?",
+      "options": [
+        "Operation Sindoor",
+        "Operation Meghdoot",
+        "Operation Pawan",
+        "Operation Cactus"
+      ],
+      "answerIndex": 0,
+      "category": "Defence",
+      "explanation": "Former CDS Anil Chauhan stated that a loitering munition may have hit the Kirana Hills area during Operation Sindoor. The Kirana Hills area, near Pakistan’s Sargodha, is known for nuclear-related facilities.",
+      "background": "Loitering munitions, also known as 'suicide drones', are a class of aerial weapon systems that loiter around a target area and strike once a target is located. Incidents involving such munitions near sensitive facilities, especially in a region with nuclear assets, highlight significant security concerns and potential for escalation.",
+      "examRelevance": "Loitering munition hit Kirana Hills during Operation Sindoor, says former CDS Anil Chauhan.",
+      "tags": [
+        "Anil Chauhan",
+        "Loitering Munition",
+        "Kirana Hills",
+        "Operation Sindoor",
+        "Defence",
+        "Pakistan"
+      ],
+      "source": {
+        "title": "Loitering munition may have hit Kirana Hills during Operation Sindoor: former CDS Anil Chauhan",
+        "url": "https://www.thehindu.com/news/national/loitering-munition-may-have-hit-kirana-hills-during-operation-sindoor-former-cds-anil-chauhan/article71390353.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q27",
+      "question": "Which annual harvest festival is currently being celebrated with festivities in Kochi and other parts of Kerala, including the evolving 'sadya' feast?",
+      "options": [
+        "Vishu",
+        "Thrissur Pooram",
+        "Attukal Pongala",
+        "Thiruvonam (Onam)"
+      ],
+      "answerIndex": 3,
+      "category": "Dates & Days",
+      "explanation": "Kochi is embracing Thiruvonam festivities, as Onam celebrations gather pace across Kerala. The Thrikkakara temple is drawing visitors, and the traditional 'sadya' feast is evolving in tune with the Keralite’s palate, even incorporating meat and fish in some regions.",
+      "background": "Onam is the most important annual harvest festival celebrated in Kerala, commemorating the mythical King Mahabali's annual visit to his kingdom. It is a ten-day festival marked by various cultural events, elaborate feasts (Onam Sadya), floral decorations (Pookkalam), and boat races.",
+      "examRelevance": "Onam festivities are underway in Kerala.",
+      "tags": [
+        "Onam",
+        "Thiruvonam",
+        "Kerala",
+        "Festivals",
+        "Sadya",
+        "Kochi"
+      ],
+      "source": {
+        "title": "Kochi wakes to Thiruvonam festivities",
+        "url": "https://www.thehindu.com/news/national/kerala/kochi-wakes-to-thiruvonam-festivities/article71389927.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q28",
+      "question": "ONGC's overseas arm, ONGC Videsh (OVL), plans to invest about $200 million to revive production at the San Cristobal oilfield in which South American country?",
+      "options": [
+        "Colombia",
+        "Venezuela",
+        "Brazil",
+        "Ecuador"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "ONGC Videsh (OVL), the overseas arm of Oil and Natural Gas Corp (ONGC), plans to invest about $200 million to revive production at its San Cristobal oilfield in Venezuela. Production at the field had significantly declined due to US sanctions and poor management by the Venezuelan state oil company PDVSA.",
+      "background": "ONGC Videsh is India's flagship international oil and gas company, engaged in exploration and production projects globally. The San Cristobal field is a joint venture where PDVSA holds 60% and OVL holds 40%. US sanctions have significantly impacted Venezuela's oil industry, making such revival efforts complex.",
+      "examRelevance": "ONGC Videsh to revive San Cristobal oilfield in Venezuela.",
+      "tags": [
+        "ONGC Videsh",
+        "Venezuela",
+        "San Cristobal oilfield",
+        "Oil & Gas",
+        "Economy",
+        "PDVSA"
+      ],
+      "source": {
+        "title": "ONGC to revive Venezuela oilfield",
+        "url": "https://economictimes.indiatimes.com/top-stories/ongc-to-revive-venezuela-oilfield/articleshow/133523504.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q29",
+      "question": "Which Indian state's IT Minister announced the launch of an app that will enable citizens to directly access 500 government services through their mobile phones?",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Karnataka"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The IT Minister of Tamil Nadu announced the launch of an app that will enable citizens to directly access 500 government services, including birth certificates, family cards (ration cards), and driver’s license renewals, right through their mobile phones.",
+      "background": "Digital transformation of government services aims to improve accessibility, transparency, and efficiency for citizens. Such initiatives are part of broader e-governance programs to bring public services closer to people, reducing bureaucratic hurdles and physical visits to government offices.",
+      "examRelevance": "Tamil Nadu IT Minister announced app for 500 government services.",
+      "tags": [
+        "Tamil Nadu",
+        "E-governance",
+        "Government Services",
+        "Mobile App",
+        "Digital India"
+      ],
+      "source": {
+        "title": "App to access govt. services to be launched: IT Minister",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/app-to-access-govt-services-to-be-launched-it-minister/article71389995.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-26-q30",
+      "question": "Which European firm recently announced an investment of ₹83,480 crore in an integrated green hydrogen and data centre project in Karnataka?",
+      "options": [
+        "iPC (Luxembourg)",
+        "TotalEnergies (France)",
+        "Siemens (Germany)",
+        "Shell (Netherlands)"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Luxembourg firm iPC recently announced an investment of ₹83,480 crore in an integrated green hydrogen and data centre project in Karnataka. This significant investment highlights the state's growing appeal for green technology and digital infrastructure.",
+      "background": "Green hydrogen is produced using renewable energy, making it a crucial component in decarbonization efforts. Data centers are energy-intensive, and integrating them with green hydrogen production aligns with sustainability goals and the push for net-zero emissions. Karnataka is emerging as a hub for such investments.",
+      "examRelevance": "Luxembourg firm iPC to invest ₹83,480 crore in Karnataka for green hydrogen and data centres.",
+      "tags": [
+        "iPC",
+        "Luxembourg",
+        "Karnataka",
+        "Green Hydrogen",
+        "Data Centre",
+        "Investment"
+      ],
+      "source": {
+        "title": "Luxembourg firm iPC to invest ₹83,480 cr. in integrated green hydrogen, data centre project in Karnataka",
+        "url": "https://www.thehindu.com/news/national/karnataka/luxembourg-firm-ipc-to-invest-83480-cr-in-integrated-green-hydrogen-data-centre-project-in-karnataka/article71389590.ece"
+      }
+    }
+  ]
+}
