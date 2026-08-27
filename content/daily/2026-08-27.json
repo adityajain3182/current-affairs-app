@@ -1,0 +1,788 @@
+{
+  "id": "daily-2026-08-27",
+  "type": "daily",
+  "date": "2026-08-27",
+  "title": "Current Affairs — 27 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-27-q1",
+      "question": "What was the primary focus of Commerce and Industry Minister Piyush Goyal's recent visit to Japan?",
+      "options": [
+        "To discuss cultural exchange programs and tourism promotion",
+        "To negotiate defence deals and military exercises",
+        "To finalize a free trade agreement for agricultural products",
+        "To accelerate Japanese investment in India and strengthen industrial partnerships"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Piyush Goyal's visit to Tokyo, Nagoya, and Osaka focused on accelerating Japanese investment in India, strengthening industrial partnerships, and building resilient supply chains. He also aimed to improve processes and procedures for faster foreign direct investment.",
+      "background": "India and Japan have been strengthening their economic ties, with Japan being a significant investor in India. This visit aimed to further deepen these existing partnerships and explore new avenues for collaboration, especially in critical sectors like semiconductors and supply chain resilience.",
+      "examRelevance": "Piyush Goyal's Japan visit = accelerate Japanese investment, strengthen industrial partnerships, build resilient supply chains.",
+      "tags": [
+        "Piyush Goyal",
+        "Japan",
+        "Investment",
+        "Supply Chains",
+        "Industrial Partnerships"
+      ],
+      "source": {
+        "title": "India-Japan ties gain momentum after Piyush Goyal’s Japan visit",
+        "url": "https://www.livemint.com/economy/india-japan-economic-partnership-piyush-goyal-visit-investment-semiconductors-trade-11787825161044.html"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q2",
+      "question": "According to the Union Ministry of External Affairs, how many Indians remain missing in the recent flash floods in Nepal?",
+      "options": [
+        "105",
+        "512",
+        "343",
+        "288"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The Union Ministry of External Affairs (MEA) has stated that at least 288 Indians remain missing following the devastating flash floods across three districts of Nepal. So far, 21 Indians have been rescued, and the death toll in Nepal has risen to 270.",
+      "background": "Nepal frequently experiences natural disasters, including floods and landslides, particularly during the monsoon season. The recent flash floods, caused by a glacier collapse in Tibet, have led to widespread devastation and a significant humanitarian crisis, affecting people from over 30 countries.",
+      "examRelevance": "288 Indians missing in Nepal flash floods.",
+      "tags": [
+        "Nepal Floods",
+        "Indians Missing",
+        "MEA",
+        "Humanitarian Crisis"
+      ],
+      "source": {
+        "title": "Nepal flash floods LIVE: At least 288 Indians remain missing and 21 rescue, says MEA",
+        "url": "https://www.thehindu.com/news/international/nepal-flash-floods-increasing-death-toll-many-missing-rescuers-search-for-survivors-live-updates-august-27-2026/article71394802.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q3",
+      "question": "Which Kerala government body can be contacted for assistance by tourists stranded abroad, as highlighted during the Nepal flash floods?",
+      "options": [
+        "Kerala Tourism Development Corporation",
+        "Department of Non-Resident Keralites Affairs",
+        "Kerala State Disaster Management Authority",
+        "NoRKA Global Contact Centre"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "The Kerala state government is coordinating rescue efforts for its stranded tourists in Nepal, and those seeking assistance can contact the NoRKA Global Contact Centre at 1800 425 3939 (toll-free) or +91 88020 12345 (missed call from abroad).",
+      "background": "NoRKA Roots (Non Resident Keralites Affairs) is a department of the Government of Kerala that serves as the interface between the Government and Non-Resident Keralites and addresses their grievances. Its global contact centre provides various services, including assistance during emergencies abroad.",
+      "examRelevance": "Kerala government's NoRKA Global Contact Centre = assistance for stranded tourists.",
+      "tags": [
+        "Kerala",
+        "NoRKA",
+        "Nepal Floods",
+        "Helpline",
+        "Tourism"
+      ],
+      "source": {
+        "title": "Nepal flash floods: 30 tourists from Keralam stranded; State govt. coordinating rescue efforts",
+        "url": "https://www.thehindu.com/news/national/kerala/nepal-flash-floods-keralam-tourists-stranded-assistance-updates/article71395005.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q4",
+      "question": "In which district of Manipur did the recent ambush occur, leading to the death of four Naga civilians?",
+      "options": [
+        "Ukhrul",
+        "Kangpokpi",
+        "Churachandpur",
+        "Imphal West"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "An ambush occurred between Makui Ashang and Thanamba Naga villages in the Kuki-majority Kangpokpi district of Manipur, resulting in the death of four Naga civilians. The victims were reportedly travelling from Makui to Senapati, a Naga-majority district.",
+      "background": "Manipur has been experiencing ethnic tensions and violence, particularly between Kuki and Meitei communities. Such incidents exacerbate the already volatile situation in the state and pose significant challenges to peace and order.",
+      "examRelevance": "Manipur ambush = Kangpokpi district, four Naga civilians killed.",
+      "tags": [
+        "Manipur",
+        "Ambush",
+        "Naga Civilians",
+        "Kangpokpi District",
+        "Internal Security"
+      ],
+      "source": {
+        "title": "Four Naga civilians killed in Manipur ambush",
+        "url": "https://www.thehindu.com/news/national/manipur/four-naga-civilians-killed-in-manipur-ambush/article71395998.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q5",
+      "question": "Which Indian state has set up a helpline desk with numbers 1070 / 080-22253707 and email seockarnataka@gmail.com to assist its people stranded in the Nepal flash floods?",
+      "options": [
+        "Uttar Pradesh",
+        "Karnataka",
+        "Bihar",
+        "Tamil Nadu"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "The state of Karnataka has established a helpline desk to assist its citizens stranded in Nepal due to the flash floods. Individuals can contact the helpline numbers 1070 / 080-22253707 or send an email to seockarnataka@gmail.com for assistance.",
+      "background": "Following the devastating flash floods in Nepal, several Indian states with a significant number of pilgrims or tourists in the region have set up dedicated helplines and control rooms to facilitate rescue and relief efforts for their residents.",
+      "examRelevance": "Karnataka helpline for Nepal floods = 1070 / 080-22253707, seockarnataka@gmail.com.",
+      "tags": [
+        "Karnataka",
+        "Nepal Floods",
+        "Helpline",
+        "Disaster Assistance"
+      ],
+      "source": {
+        "title": "Nepal flash floods: Karnataka sets helpline desk to assist stranded people and their families",
+        "url": "https://www.thehindu.com/news/cities/bangalore/nepal-flash-floods-karnataka-sets-helpline-desk-to-assist-stranded-people-and-their-families/article71394858.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q6",
+      "question": "What caused the catastrophic flash flooding in a border area of China and Nepal, according to preliminary reports?",
+      "options": [
+        "An enormous ice-and-rock landslide and glacier collapse in Tibet",
+        "Heavy monsoon rains intensified by a Western Disturbance",
+        "A severe earthquake along the Himalayan fault line",
+        "A breach in a major hydroelectric dam on the Gandak river"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The catastrophic flash flooding in a border area of China and Nepal was caused by an enormous ice-and-rock landslide and a glacier collapse in Tibet. This event generated a 'tsunami of dirt' that swept down mountain passes, gathering ice, water, rock, trees, and dirt.",
+      "background": "Initially, there were reports of seismic activity, but the U.S. Geological Survey (USGS) later clarified that the event was a glacial collapse and debris flow, not an earthquake. Such events highlight the increasing risks posed by climate change in glaciated regions.",
+      "examRelevance": "Nepal-China flash floods cause = glacier collapse and ice-and-rock landslide in Tibet.",
+      "tags": [
+        "Nepal",
+        "China",
+        "Flash Floods",
+        "Glacier Collapse",
+        "Tibet",
+        "Landslide"
+      ],
+      "source": {
+        "title": "Nepal-China flash floods: People from more CAD 30 countries missing",
+        "url": "https://www.thehindu.com/news/international/flash-floods-in-nepal-china-people-from-many-countries-missing/article71395993.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q7",
+      "question": "What is the Congress party's reiterated position regarding the strength of the Lok Sabha seats during discussions on delimitation?",
+      "options": [
+        "It supports increasing the Lok Sabha seats to 700",
+        "It proposes reducing the Lok Sabha seats to 450",
+        "It opposes any decision to change the strength of the Lok Sabha beyond 543 seats",
+        "It supports keeping the Lok Sabha strength beyond 543 seats unchanged"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Congress party has reiterated its position that it doesn’t support any decision to change the strength of the Lok Sabha beyond 543 seats. The party has urged the government to convene an all-party meeting on the delimitation issue and also reiterated its demand for women’s reservation in the 2029 election.",
+      "background": "Delimitation is the act or process of fixing limits or boundaries of territorial constituencies in a country or a province having a legislative body. The last major delimitation exercise in India was based on the 2001 Census, with a freeze on the number of Lok Sabha seats until 2026, based on the 1971 Census.",
+      "examRelevance": "Congress position on Lok Sabha seats = opposes changing strength beyond 543.",
+      "tags": [
+        "Congress",
+        "Delimitation",
+        "Lok Sabha",
+        "Parliament",
+        "Polity"
+      ],
+      "source": {
+        "title": "Congress seeks all-party meet over delimitation issue; reiterates women’s reservation demand in 2029 election",
+        "url": "https://www.thehindu.com/news/national/congress-seeks-all-party-meet-over-delimitation-issue-reiterates-womens-reservation-demand-in-2029-election/article71396000.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q8",
+      "question": "Which Indian state recently enacted a law aiming to curb forced conversions, which includes provisions for consent forms, notices, and prison terms?",
+      "options": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Uttar Pradesh",
+        "Gujarat"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Maharashtra has enacted a new anti-conversion law that aims to curb forced conversions and includes provisions for consent forms, notices, and prison terms. This law has caused unease among minority communities and those in interfaith relationships.",
+      "background": "Several Indian states have implemented anti-conversion laws, often referred to as 'Freedom of Religion Acts,' which aim to prevent conversions through coercion, undue influence, or fraudulent means. These laws have often been a subject of debate regarding individual religious freedom.",
+      "examRelevance": "Maharashtra anti-conversion law = consent forms, notices, prison terms.",
+      "tags": [
+        "Maharashtra",
+        "Anti-conversion Law",
+        "Religious Freedom",
+        "Polity"
+      ],
+      "source": {
+        "title": "Consent forms, notices, prison terms: Maharashtra anti-conversion law | Explained",
+        "url": "https://www.thehindu.com/news/national/maharashtra/consent-forms-notices-prison-terms-maharashtra-anti-conversion-law-explained/article71394922.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q9",
+      "question": "What type of temporary infrastructure is India working on mobilising for flood-affected Nepal, as per the MEA spokesperson?",
+      "options": [
+        "Pontoon bridges",
+        "Bailey bridges",
+        "Suspension bridges",
+        "Cable-stayed bridges"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "An MEA spokesperson stated that India is working on mobilising Bailey bridges to assist flood-affected Nepal. However, there is no information yet on the mobilisation of the NDRF (National Disaster Response Force) or the Army’s Corps of Engineers.",
+      "background": "Bailey bridges are portable, pre-fabricated, truss bridges often used by military engineering units to cross rivers and ravines. They are known for their quick assembly and ability to carry heavy loads, making them crucial for restoring connectivity in disaster-stricken areas.",
+      "examRelevance": "India mobilising Bailey bridges for Nepal floods.",
+      "tags": [
+        "Nepal Floods",
+        "India Aid",
+        "Bailey Bridges",
+        "MEA",
+        "Disaster Relief"
+      ],
+      "source": {
+        "title": "Nepal flash floods: At least 288 Indians still missing; MEA says focus is on providing humanitarian aid as per Kathmandu’s request",
+        "url": "https://www.thehindu.com/news/national/nepal-flash-floods-indians-missing-mea-briefing-humanitarian-aid/article71395933.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q10",
+      "question": "A small plane recently crashed into the water, killing all four adults on board, next to a remote coastal town in which US state?",
+      "options": [
+        "California",
+        "Maine",
+        "Florida",
+        "Alaska"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "A small plane crashed into the water next to a remote coastal town in Alaska, killing all four adults on board. Troopers were able to recover the bodies, which are being sent to the medical examiner's office.",
+      "background": "Alaska, with its vast wilderness and limited road infrastructure, relies heavily on small aircraft for transportation to remote communities. This dependence, coupled with challenging weather conditions, can sometimes lead to aviation accidents.",
+      "examRelevance": "Small plane crash = Alaska, 4 killed.",
+      "tags": [
+        "Alaska",
+        "Plane Crash",
+        "Aviation Accident",
+        "Disaster"
+      ],
+      "source": {
+        "title": "Small plane crashes in water next to remote Alaska coastal town, killing all 4 on board",
+        "url": "https://www.thehindu.com/news/international/small-plane-crashes-in-water-next-to-remote-alaska-coastal-town-killing-all-4-on-board/article71395459.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q11",
+      "question": "In which city is the disputed Krishna Janmabhoomi-Shahi Idgah complex located, where security has been recently beefed up?",
+      "options": [
+        "Prayagraj",
+        "Mathura",
+        "Ayodhya",
+        "Varanasi"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "Security has been beefed up at the disputed Krishna Janmabhoomi-Shahi Idgah complex in Mathura amidst 'Kar Seva' concerns. The Allahabad High Court is currently hearing 18 suits, clubbed in 2023, that seek the removal of the Shahi Idgah, claiming it encroaches on the temple premises.",
+      "background": "The Krishna Janmabhoomi-Shahi Idgah dispute is a long-standing legal and religious conflict in India, similar to the Ayodhya dispute. It centers on claims that the mosque was built on the birthplace of Lord Krishna, which is considered sacred by Hindus.",
+      "examRelevance": "Krishna Janmabhoomi-Shahi Idgah dispute = Mathura.",
+      "tags": [
+        "Mathura",
+        "Krishna Janmabhoomi",
+        "Shahi Idgah",
+        "Dispute",
+        "Uttar Pradesh"
+      ],
+      "source": {
+        "title": "Security beefed up at disputed Krishna Janmabhoomi-Shahi Idgah amid ‘Kar Seva’ concerns, Mathura officials tell Allahabad HC",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/security-beefed-up-at-disputed-krishna-janmabhoomi-shahi-idgah-amid-kar-seva-concerns-mathura-officials-tell-allahabad-hc/article71395852.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q12",
+      "question": "Prime Minister Narendra Modi is scheduled to visit which country from August 29 to attend the SCO summit from August 31?",
+      "options": [
+        "Kazakhstan",
+        "Tajikistan",
+        "Kyrgyzstan",
+        "Uzbekistan"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Prime Minister Narendra Modi is scheduled to visit Uzbekistan from August 29. During his visit, he will attend the Shanghai Cooperation Organisation (SCO) summit, which is set to take place from August 31.",
+      "background": "The Shanghai Cooperation Organisation (SCO) is a Eurasian political, economic, and security organization. India became a full member of the SCO in 2017. Summits like these provide a platform for leaders to discuss regional security, economic cooperation, and cultural ties.",
+      "examRelevance": "PM Modi to visit Uzbekistan from August 29 for SCO summit.",
+      "tags": [
+        "PM Modi",
+        "Uzbekistan",
+        "SCO Summit",
+        "International Relations"
+      ],
+      "source": {
+        "title": "PM Modi to visit Uzbekistan from August 29",
+        "url": "https://economictimes.indiatimes.com/news/india/pm-modi-to-visit-uzbekistan-from-august-29-30-attend-sco-summit-from-august-31/articleshow/133565655.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q13",
+      "question": "Which cartoonist is known for the 'Green Humour' series, often featured in discussions on environmental and conservation policies?",
+      "options": [
+        "Rohan Chakravarty",
+        "R.K. Laxman",
+        "Sudhir Dar",
+        "Ajit Ninan"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "Rohan Chakravarty is the cartoonist known for his 'Green Humour' series, which frequently addresses global conservation policies and environmental issues, including India's disappearing pastoral communities.",
+      "background": "Rohan Chakravarty is an Indian cartoonist, illustrator, and wildlife enthusiast whose work focuses on environmental themes. His 'Green Humour' comics are widely published and aim to raise awareness about wildlife conservation and ecological challenges through satire and wit.",
+      "examRelevance": "Rohan Chakravarty = 'Green Humour' cartoonist, environmental themes.",
+      "tags": [
+        "Rohan Chakravarty",
+        "Green Humour",
+        "Cartoonist",
+        "Environment",
+        "Conservation"
+      ],
+      "source": {
+        "title": "On global conservation policies | Green Humour by Rohan Chakravarty",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/on-global-conservation-policies-green-humour-by-rohan-chakravarty/article71384025.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q14",
+      "question": "Which economic sector in Kerala is facing calls for urgent government intervention and a financial relief package due to plunging catches and policy delays?",
+      "options": [
+        "Plantation sector",
+        "Tourism sector",
+        "IT sector",
+        "Fisheries sector"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Fishermen forums in Kerala are calling for urgent government intervention and a concrete financial relief package due to plunging catches and policy delays. They warn that without immediate action, the coastal economy could face a complete collapse.",
+      "background": "The fisheries sector is a vital component of Kerala's economy, supporting numerous livelihoods along its extensive coastline. Factors such as climate change, overfishing, and inadequate policy implementation can significantly impact fish stocks and the economic well-being of fishing communities.",
+      "examRelevance": "Kerala fisheries sector = plunging catches, policy delays, urgent intervention sought.",
+      "tags": [
+        "Kerala",
+        "Fisheries Sector",
+        "Coastal Economy",
+        "Plunging Catches",
+        "Economic Crisis"
+      ],
+      "source": {
+        "title": "Plunging catches and policy delays hit fisheries sector",
+        "url": "https://www.thehindu.com/news/national/kerala/plunging-catches-and-policy-delays-hit-fisheries-sector/article71395585.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q15",
+      "question": "In which city will a new college be established to benefit women from minority communities, as announced by the Tamil Nadu Minister?",
+      "options": [
+        "Coimbatore",
+        "Madurai",
+        "Tiruchirappalli",
+        "Chennai"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "A new college will be established in Chennai to benefit women from minority communities, as announced by a Tamil Nadu Minister. Additionally, educational assistance to Muslim girl students will be extended beyond Class 8, and a dedicated MBC Welfare Board will be set up at a cost of ₹3 crore.",
+      "background": "The Tamil Nadu government has various initiatives aimed at promoting education and welfare among minority and marginalized communities. Establishing dedicated educational institutions and welfare boards is part of these broader efforts to ensure inclusive development.",
+      "examRelevance": "New college for minority women = Chennai, Tamil Nadu.",
+      "tags": [
+        "Chennai",
+        "Minority Communities",
+        "Women's Education",
+        "Tamil Nadu",
+        "Social Welfare"
+      ],
+      "source": {
+        "title": "New college in Chennai to benefit women from minority communities: Tamil Nadu Minister",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/new-college-in-chennai-to-benefit-women-from-minority-communities-tamil-nadu-minister/article71395920.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q16",
+      "question": "Which High Court recently ruled that a wife is not obligated to obey her husband at home, do household chores, or care for in-laws?",
+      "options": [
+        "Karnataka High Court",
+        "Allahabad High Court",
+        "Delhi High Court",
+        "Bombay High Court"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Karnataka High Court recently ruled that a wife does not have to obey her husband at home, do household chores, or care for in-laws. This ruling came in a case regarding marital obligations.",
+      "background": "Indian courts have increasingly interpreted family laws in ways that uphold gender equality and individual autonomy within marriage. This ruling reflects a progressive stance on the rights and responsibilities of spouses, moving away from traditional patriarchal norms.",
+      "examRelevance": "Karnataka High Court ruling = wife not obligated for household chores or obeying husband.",
+      "tags": [
+        "Karnataka High Court",
+        "Marital Rights",
+        "Women's Rights",
+        "Family Law",
+        "Judiciary"
+      ],
+      "source": {
+        "title": "Wife no need to do household chores: Karnataka HC",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/wife-doesnt-have-to-obey-husband-at-home-no-need-to-do-houshold-chores-or-care-for-in-laws-says-karnataka-hc/articleshow/133565380.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q17",
+      "question": "The transfer of the Mangaluru railway region from Palakkad Division to which other division has triggered a political debate between Karnataka and Kerala?",
+      "options": [
+        "Salem Division",
+        "Mysuru Division",
+        "Bengaluru Division",
+        "Thiruvananthapuram Division"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The transfer of the Mangaluru railway region from the Palakkad Division (Kerala) to the Mysuru Division (Karnataka) has triggered a political debate between the two states. This decision by Indian Railways has met with objections from Kerala.",
+      "background": "Railway divisional reorganizations can often lead to inter-state disputes due to perceived shifts in economic control, administrative convenience, and political influence. Such transfers impact local economies and access to railway infrastructure and services.",
+      "examRelevance": "Mangaluru railway region transfer = Palakkad to Mysuru, Karnataka vs Kerala dispute.",
+      "tags": [
+        "Mangaluru",
+        "Palakkad",
+        "Mysuru",
+        "Railway Transfer",
+        "Karnataka",
+        "Kerala"
+      ],
+      "source": {
+        "title": "Why a railway transfer is triggering a Karnataka vs Kerala battle | Talking Politics",
+        "url": "https://www.thehindu.com/videos/why-a-railway-transfer-is-triggering-a-karnataka-vs-kerala-battle-talking-politics/article71396017.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q18",
+      "question": "Who is P.K. Medini, the 95-year-old personality from Kerala recently honored for her contributions?",
+      "options": [
+        "A singer of revolutionary anthems",
+        "A celebrated author and poet",
+        "A renowned classical dancer",
+        "A veteran politician and social worker"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "P.K. Medini, a 95-year-old personality from Kerala, was recently honored as 'Keralam’s singer of revolutionary anthems'. She received her own 'Red Salute' for her significant contributions to music and revolutionary movements.",
+      "background": "Kerala has a rich tradition of protest and revolutionary music, often intertwined with its social and political movements. Figures like P.K. Medini played a crucial role in popularizing these anthems, inspiring generations through their powerful vocal performances.",
+      "examRelevance": "P.K. Medini = Kerala, singer of revolutionary anthems.",
+      "tags": [
+        "P.K. Medini",
+        "Kerala",
+        "Revolutionary Anthems",
+        "Music",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "At 95, P.K. Medini, Keralam’s singer of revolutionary anthems, gets her own ‘Red Salute’",
+        "url": "https://www.thehindu.com/news/national/kerala/at-95-pk-medini-keralams-singer-of-revolutionary-anthems-gets-her-own-red-salute/article71395447.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q19",
+      "question": "Which regulatory body in the U.S. recently approved a landmark pancreatic cancer drug that offers a new approach to treatment?",
+      "options": [
+        "Federal Trade Commission (FTC)",
+        "Centers for Disease Control and Prevention (CDC)",
+        "Environmental Protection Agency (EPA)",
+        "Food and Drug Administration (FDA)"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "U.S. health officials, specifically the Food and Drug Administration (FDA), have approved a groundbreaking pancreatic cancer drug. This drug offers a new approach to treating the deadly form of cancer and has shown to improve survival rates.",
+      "background": "Pancreatic cancer is one of the most aggressive and difficult-to-treat cancers, often diagnosed at advanced stages. The approval of new drugs represents a significant step forward in oncology, offering hope for improved patient outcomes and survival.",
+      "examRelevance": "US FDA approved landmark pancreatic cancer drug.",
+      "tags": [
+        "FDA",
+        "Pancreatic Cancer",
+        "Drug Approval",
+        "Science & Technology",
+        "Health"
+      ],
+      "source": {
+        "title": "FDA approves landmark pancreatic cancer drug that’s shown to improve survival",
+        "url": "https://www.thehindu.com/sci-tech/health/fda-approves-landmark-pancreatic-cancer-drug-thats-shown-to-improve-survival/article71395970.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q20",
+      "question": "What was the total liquor sales figure clocked by BEVCO during the 8-day Onam period in Kerala?",
+      "options": [
+        "₹540.50 crore",
+        "₹895.10 crore",
+        "₹680.75 crore",
+        "₹771.29 crore"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Kerala State Beverages Corporation (BEVCO) recorded liquor sales of ₹771.29 crore during the 8-day Onam period. This figure represents the total sales during the festive season.",
+      "background": "Onam is a major annual harvest festival celebrated in Kerala, often associated with increased consumer spending, including on alcoholic beverages. BEVCO, a public sector undertaking, holds a monopoly on wholesale and retail liquor sales in the state.",
+      "examRelevance": "BEVCO liquor sales during 8-day Onam period = ₹771.29 crore.",
+      "tags": [
+        "BEVCO",
+        "Kerala",
+        "Onam",
+        "Liquor Sales",
+        "Economy"
+      ],
+      "source": {
+        "title": "BEVCO clocks liquor sales of ₹771.29 crore during 8-day Onam period",
+        "url": "https://www.thehindu.com/news/national/kerala/bevco-clocks-liquor-sales-of-77129-crore-during-8-day-onam-period/article71395788.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q21",
+      "question": "Which UN committee recently urged India to suspend the National Register of Citizens (NRC) and revise the Special Intensive Revision (SIR)?",
+      "options": [
+        "UN Committee on the Elimination of Racial Discrimination",
+        "UN Human Rights Committee",
+        "UN Committee Against Torture",
+        "UN Committee on Economic, Social and Cultural Rights"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The UN Committee on the Elimination of Racial Discrimination (UNCERD) called on India to suspend the National Register of Citizens (NRC) and revise the Special Intensive Revision (SIR). It also noted that more than nine million people have been disenfranchised in West Bengal because of the SIR.",
+      "background": "The NRC is a register of all Indian citizens, a process aimed at identifying illegal immigrants. The SIR is a related revision process. Both have faced criticism from human rights organizations for their potential to disproportionately affect certain communities and lead to disenfranchisement.",
+      "examRelevance": "UN Committee on the Elimination of Racial Discrimination (UNCERD) urged India to suspend NRC and revise SIR.",
+      "tags": [
+        "UN",
+        "UNCERD",
+        "NRC",
+        "SIR",
+        "Human Rights",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Why did the UN committee urge India to address ‘hate speech’ and ‘hate crimes’?",
+        "url": "https://www.thehindu.com/news/national/uncerd-india-report-hate-speech-hate-crimes-discrimination-sir-nrc-west-bengal/article71395525.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q22",
+      "question": "Which student organization recently announced its intention to start a movement to ensure corruption-free education?",
+      "options": [
+        "All India Students' Federation (AISF)",
+        "National Students' Union of India (NSUI)",
+        "Akhil Bharatiya Vidyarthi Parishad (ABVP)",
+        "Students Federation of India (SFI)"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "The Students Federation of India (SFI) has announced its intention to start a movement aimed at ensuring corruption-free education. This initiative seeks to address issues of integrity and transparency within the educational system.",
+      "background": "Student organizations often play a crucial role in advocating for reforms and addressing systemic issues within the education sector. Movements against corruption aim to ensure fair access, quality education, and accountability from educational institutions and authorities.",
+      "examRelevance": "Students Federation of India (SFI) = movement for corruption-free education.",
+      "tags": [
+        "SFI",
+        "Students Federation of India",
+        "Corruption-free Education",
+        "Student Activism"
+      ],
+      "source": {
+        "title": "Watch: Students Federation of India to start movement to ensure corruption-free education",
+        "url": "https://www.thehindu.com/videos/shorts/watch-students-federation-of-india-to-start-movement-to-ensure-corruption-free-education/article71395969.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q23",
+      "question": "Which awards for excellence in organic farming were recently presented by Tamil Nadu CM Vijay?",
+      "options": [
+        "Nammazhvar Awards",
+        "Krishi Karman Awards",
+        "Green Revolution Awards",
+        "M.S. Swaminathan Awards"
+      ],
+      "answerIndex": 0,
+      "category": "Awards & Honours",
+      "explanation": "Tamil Nadu Chief Minister Vijay recently presented the Nammazhvar Awards for excellence in organic farming. Additionally, he also presented the Union government’s Sarvottam Jeevan Raksha Padak 2025 to Srisha, wife of the late P.S. Gowrishankar Raja.",
+      "background": "Nammazhvar was a prominent organic farming scientist and agricultural activist from Tamil Nadu, known for his advocacy of traditional farming practices and sustainable agriculture. Awards named after him honor individuals and organizations contributing to organic farming.",
+      "examRelevance": "Tamil Nadu CM Vijay presented Nammazhvar Awards for organic farming.",
+      "tags": [
+        "Tamil Nadu",
+        "CM Vijay",
+        "Nammazhvar Awards",
+        "Organic Farming",
+        "Awards"
+      ],
+      "source": {
+        "title": "Tamil Nadu CM Vijay presents Nammazhvar Awards for excellence in organic farming",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-presents-nammazhvar-awards-for-excellence-in-organic-farming/article71395728.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q24",
+      "question": "What is the identified primary cause of the recent devastating flash floods in Nepal, according to scientific analysis?",
+      "options": [
+        "A major subduction zone earthquake",
+        "An enormous ice-and-rock landslide sweeping down a mountain pass",
+        "Large-scale deforestation in the upstream regions",
+        "An unusual confluence of monsoon depressions"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The recent deadly glacial flash floods in Nepal are primarily attributed to an enormous ice-and-rock landslide sweeping down a mountain pass. This event gathered up ice, water, rock, trees, and dirt, creating a 'tsunami of dirt' that caused catastrophic damage.",
+      "background": "While heavy rainfall and Western Disturbances can contribute to flood conditions, the immediate mechanism for the sudden and catastrophic nature of these floods was identified as a large-scale land-ice mass movement. This highlights the complex geomorphological and climatic vulnerabilities of the Himalayan region.",
+      "examRelevance": "Nepal flash floods primary cause = enormous ice-and-rock landslide/glacial collapse.",
+      "tags": [
+        "Nepal Floods",
+        "Glacial Flood",
+        "Landslide",
+        "Environment",
+        "Disaster"
+      ],
+      "source": {
+        "title": "Tsunami of dirt: What caused Nepal’s deadly glacial flood?",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/tsunami-of-dirt-what-caused-nepals-deadly-glacialflood/article71395305.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q25",
+      "question": "How much of Nepal's hydro capacity was damaged by the recent flash floods, potentially leading the country to seek India's help for power?",
+      "options": [
+        "240 MW",
+        "360 MW",
+        "480 MW",
+        "150 MW"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The recent flash floods in Nepal have severely damaged approximately 360 MW of the country's hydro capacity. This significant loss of power generation infrastructure may compel Nepal to seek assistance from India for its energy needs.",
+      "background": "Nepal has vast hydropower potential and relies heavily on hydroelectricity for its energy supply. Damage to hydro projects due to natural disasters like floods can cripple the national grid, leading to power shortages and economic disruption, often necessitating external support.",
+      "examRelevance": "Nepal floods damaged 360 MW of hydro capacity.",
+      "tags": [
+        "Nepal",
+        "Hydro Capacity",
+        "Flash Floods",
+        "Power Sector",
+        "India-Nepal Relations"
+      ],
+      "source": {
+        "title": "Nepal power hit, may seek India help",
+        "url": "https://economictimes.indiatimes.com/news/india/nepal-floods-damage-360-mw-of-hydro-capacity-country-may-turn-to-india-for-power/articleshow/133564925.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q26",
+      "question": "Who founded the Madras Crocodile Bank Trust 50 years ago, as mentioned in a recent news item?",
+      "options": [
+        "Kailash Sankhala and Billy Arjan Singh",
+        "Gerald Durrell and Lee Durrell",
+        "Rom and Zai Whitaker",
+        "Salim Ali and Zafar Futehally"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "The Madras Crocodile Bank Trust, which recently turned 50, was founded by Rom and Zai Whitaker. They established it with wedding gifts and a shared conservation dream, creating a renowned reptile zoo and research center.",
+      "background": "The Madras Crocodile Bank Trust and Centre for Herpetology (MCBT) is one of the largest and oldest reptile zoos in India, playing a crucial role in reptile conservation, breeding programs, and public education. Romulus Whitaker is a well-known American herpetologist and wildlife conservationist.",
+      "examRelevance": "Madras Crocodile Bank Trust founders = Rom and Zai Whitaker.",
+      "tags": [
+        "Madras Crocodile Bank",
+        "Rom Whitaker",
+        "Zai Whitaker",
+        "Reptile Conservation",
+        "Chennai"
+      ],
+      "source": {
+        "title": "Madras Crocodile Bank turns 50: How does this reptilian zoo run?",
+        "url": "https://www.thehindu.com/news/cities/chennai/madras-crocodile-bank-turns-50-how-does-this-reptilian-zoo-run/article71391602.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q27",
+      "question": "Which types of Indian Air Force (IAF) aircraft were deployed to carry relief material to flood-ravaged Nepal?",
+      "options": [
+        "Sukhoi Su-30MKI and MiG-29",
+        "Tejas and Rafale",
+        "Dornier 228 and HAL Dhruv",
+        "C-130 and C-17"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "The Indian Air Force (IAF) deployed two types of aircraft to carry relief material to Nepal: a C-130 aircraft carrying relief supplies departed first, followed by a C-17 aircraft carrying additional humanitarian assistance and disaster relief (HADR) material.",
+      "background": "The C-130J Super Hercules and C-17 Globemaster III are heavy-lift military transport aircraft widely used by the IAF for humanitarian assistance and disaster relief (HADR) operations, both domestically and internationally, due to their large cargo capacity and ability to operate from diverse airfields.",
+      "examRelevance": "IAF aircraft for Nepal relief = C-130 and C-17.",
+      "tags": [
+        "Indian Air Force",
+        "Nepal Floods",
+        "C-130",
+        "C-17",
+        "HADR",
+        "Defence"
+      ],
+      "source": {
+        "title": "PM Modi calls Nepal PM, promises ‘all possible assistance’ after devastating flash flood",
+        "url": "https://www.thehindu.com/news/national/nepal-floods-pm-modi-speaks-to-balendra-shah-offers-humanitarian-assistance/article71392806.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q28",
+      "question": "What is the name of the new dragonfly species recently recorded in the Namdapha National Park and Tiger Reserve in Arunachal Pradesh?",
+      "options": [
+        "Crimson Marsh Glider",
+        "Spoon-tailed Duskhawker",
+        "Blue-tailed Forest Hawk",
+        "Emerald Skimmer"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "A new dragonfly species, named the 'spoon-tailed duskhawker', was recently recorded in October 2024 on the Miao-Vijaynagar Road inside Namdapha National Park and Tiger Reserve in Arunachal Pradesh. This discovery adds to India’s diverse dragonfly list.",
+      "background": "Namdapha National Park and Tiger Reserve, located in Arunachal Pradesh, is a biodiversity hotspot and one of the largest protected areas in India. It is known for its rich flora and fauna, including many endemic and rare species, making it a crucial site for ecological research and conservation.",
+      "examRelevance": "New dragonfly species in Namdapha NP = Spoon-tailed Duskhawker.",
+      "tags": [
+        "Dragonfly",
+        "Spoon-tailed Duskhawker",
+        "Arunachal Pradesh",
+        "Namdapha National Park",
+        "Biodiversity"
+      ],
+      "source": {
+        "title": "Spoon-tailed duskhawker: Arunachal find fattens India’s dragonfly list",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/spoon-tailed-duskhawker-arunachal-find-fattens-indias-dragonfly-list/article71395615.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q29",
+      "question": "Who is leading the $100 million plan to transform unused spaces in US cities into green areas, funded by Jeff Bezos' climate change pledge?",
+      "options": [
+        "Lauren Sánchez",
+        "Bill Gates",
+        "Jeff Bezos himself",
+        "Melinda French Gates"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Lauren Sánchez is leading a $100 million plan to transform unused spaces in Los Angeles, Atlanta, Pennsylvania, Indianapolis, and other US cities into green areas. This initiative is funded by Jeff Bezos' $10 billion pledge for climate change.",
+      "background": "Jeff Bezos, the founder of Amazon, pledged $10 billion through the Bezos Earth Fund to combat climate change and protect nature. This specific project, led by Lauren Sánchez, focuses on urban greening, which helps mitigate climate impacts, improve air quality, and enhance community well-being in cities.",
+      "examRelevance": "Lauren Sánchez leads $100M plan for green US cities, funded by Jeff Bezos.",
+      "tags": [
+        "Lauren Sánchez",
+        "Jeff Bezos",
+        "Green Cities",
+        "Urban Greening",
+        "Environment",
+        "Climate Change"
+      ],
+      "source": {
+        "title": "Jeff Bezos’ $100M plan to turn US cities green",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/jeff-bezos-pledged-10-billion-for-climate-change-lauren-snchezs-100-million-plan-is-transforming-unused-spaces-in-los-angeles-atlanta-pennsylvania-indianapolis-and-other-us-cities/articleshow/133564141.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-27-q30",
+      "question": "Which digital initiative in Gujarat has enabled over one lakh citizens to obtain various certificates from home in four months?",
+      "options": [
+        "Gujarat One Portal",
+        "e-Seva Gujarat",
+        "Sugam Digital Gujarat",
+        "Digital Gujarat Seva Setu"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The 'Sugam Digital Gujarat' initiative has received an overwhelming response, enabling over one lakh citizens to obtain various certificates from home in just four months. This digital platform streamlines access to government services.",
+      "background": "Digital India initiatives aim to transform India into a digitally empowered society and knowledge economy. Platforms like Sugam Digital Gujarat facilitate ease of governance by providing online access to essential government services, reducing the need for physical visits and paper-based processes.",
+      "examRelevance": "Sugam Digital Gujarat = issued over 1 lakh certificates from home.",
+      "tags": [
+        "Sugam Digital Gujarat",
+        "Gujarat",
+        "Digital India",
+        "E-governance",
+        "Public Services"
+      ],
+      "source": {
+        "title": "Sugam Digital Gujarat gives 1 lakh certificates",
+        "url": "https://economictimes.indiatimes.com/nri/latest-updates/over-one-lakh-citizens-obtain-certificates-from-home-in-4-months-sugam-digital-gujarat-receives-overwhelming-response/articleshow/133564122.cms"
+      }
+    }
+  ]
+}
