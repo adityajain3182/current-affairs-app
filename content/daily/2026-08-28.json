@@ -1,0 +1,775 @@
+{
+  "id": "daily-2026-08-28",
+  "type": "daily",
+  "date": "2026-08-28",
+  "title": "Current Affairs — 28 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-28-q1",
+      "question": "Which state's Agriculture department recently issued orders for revamping its Agriculture Development Committees?",
+      "options": [
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Keralam",
+        "Karnataka"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Keralam's Agriculture department recently issued orders to revamp its Agriculture Development Committees. Their duties include monitoring agricultural activities, taking collective action during natural calamities, and assessing the availability of organic fertilizers and farm sector credit.",
+      "background": "The revamping of these committees is aimed at strengthening agricultural activities and addressing local farming needs more effectively. These committees play a crucial role in grassroots agricultural development and support.",
+      "examRelevance": "Keralam Agriculture Department revamped Agriculture Development Committees.",
+      "tags": [
+        "Keralam",
+        "Agriculture Development Committees",
+        "Government Orders"
+      ],
+      "source": {
+        "title": "Agriculture department issues orders revamping Agriculture Development Committees",
+        "url": "https://www.thehindu.com/news/national/kerala/agriculture-department-issues-orders-revamping-agriculture-development-committees/article71400401.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q2",
+      "question": "Which insurance scheme's coverage was recently expanded nationally, reportedly influenced by a postmaster's letter from Vijayanagara?",
+      "options": [
+        "Rural Postal Life Insurance",
+        "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+        "Pradhan Mantri Suraksha Bima Yojana",
+        "Aam Aadmi Bima Yojana"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "Rural Postal Life Insurance (RPLI) coverage was recently expanded nationally. This policy change was reportedly influenced by a letter sent to a Central Minister from a postmaster in Vijayanagara, seeking urban insurance coverage.",
+      "background": "The expansion of RPLI aims to provide broader insurance benefits, especially in rural areas, mirroring the accessibility of urban insurance products. This highlights how individual feedback can sometimes lead to national policy adjustments.",
+      "examRelevance": "Rural Postal Life Insurance coverage expanded nationally.",
+      "tags": [
+        "Rural Postal Life Insurance",
+        "RPLI",
+        "Policy Change",
+        "Vijayanagara"
+      ],
+      "source": {
+        "title": "Did a letter trigger a national policy change expanding postal life insurance cover?",
+        "url": "https://www.thehindu.com/news/national/karnataka/did-a-letter-trigger-a-national-policy-change-expanding-postal-life-insurance-cover/article71395732.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q3",
+      "question": "What is the annual remuneration for Grade A players in the contracts recently awarded by the Mumbai Cricket Association?",
+      "options": [
+        "₹6 lakh",
+        "₹12 lakh",
+        "₹8 lakh",
+        "₹10 lakh"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "The Mumbai Cricket Association (MCA) recently awarded annual contracts to 21 cricketers, dividing them into three grades. Grade A players will receive ₹12 lakh annually, Grade B ₹8 lakh, and Grade C ₹6 lakh.",
+      "background": "These annual contracts are designed to provide financial stability and support to Mumbai's cricketers, encouraging them to focus on their game and performance. This initiative helps in nurturing talent within the state's cricket ecosystem.",
+      "examRelevance": "Mumbai Cricket Association (MCA) awarded annual contracts: Grade A players receive ₹12 lakh.",
+      "tags": [
+        "Mumbai Cricket Association",
+        "MCA",
+        "Cricket Contracts",
+        "Player Remuneration"
+      ],
+      "source": {
+        "title": "21 cricketers awarded annual contracts by Mumbai Cricket Association",
+        "url": "https://www.thehindu.com/sport/cricket/22-cricketers-awarded-annual-contracts-by-mumbai-cricket-association/article71398943.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q4",
+      "question": "Which Indian comedian recently won a Neurodiverse Review Award at the Edinburgh Festival Fringe for his show 'If I’m Not Wrong'?",
+      "options": [
+        "Tarang Hardikar",
+        "Munawar Faruqui",
+        "Anubhav Singh Bassi",
+        "Kunal Kamra"
+      ],
+      "answerIndex": 0,
+      "category": "Awards & Honours",
+      "explanation": "Comedian Tarang Hardikar won a Neurodiverse Review Award at the Edinburgh Festival Fringe for his debut special 'If I’m Not Wrong'. The show draws parallels between his observations about lines and life post his autism diagnosis.",
+      "background": "The Edinburgh Festival Fringe is the world's largest arts festival, and the Neurodiverse Review Awards recognize performances that explore or are created by neurodivergent individuals. This award highlights the growing recognition of diverse voices in comedy.",
+      "examRelevance": "Tarang Hardikar won Neurodiverse Review Award at Edinburgh Festival Fringe.",
+      "tags": [
+        "Tarang Hardikar",
+        "Edinburgh Festival Fringe",
+        "Neurodiverse Review Award",
+        "Comedy"
+      ],
+      "source": {
+        "title": "Comedian Tarang Hardikar on his show ‘If I’m Not Wrong’, which won a Neurodiverse Review Award at the Edinburgh Festival Fringe",
+        "url": "https://www.thehindu.com/entertainment/comedian-tarang-hardikar-on-his-special-if-im-not-wrong-and-edinburgh-festival-fringe/article71376895.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q5",
+      "question": "The proposed bifurcation of the Mangaluru region from which existing Railway Division has recently resurfaced, recalling past tensions between Keralam and Tamil Nadu?",
+      "options": [
+        "Tiruchirappalli Railway Division",
+        "Palakkad Railway Division",
+        "Salem Railway Division",
+        "Madurai Railway Division"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "The proposed bifurcation of the Mangaluru region from the Palakkad Railway Division has recently resurfaced. This issue recalls tensions between Keralam and Tamil Nadu from nearly two decades ago when Tamil Nadu sought to establish the Salem Railway Division.",
+      "background": "Railway division bifurcations often lead to inter-state disputes due to administrative control, revenue implications, and regional sentiments. The Palakkad Division, part of Southern Railway, serves areas across Keralam and parts of Tamil Nadu and Karnataka.",
+      "examRelevance": "Mangaluru railway bifurcation proposed from Palakkad Railway Division.",
+      "tags": [
+        "Mangaluru",
+        "Palakkad Railway Division",
+        "Railway Bifurcation",
+        "Keralam",
+        "Tamil Nadu"
+      ],
+      "source": {
+        "title": "Mangaluru railway bifurcation: When Keralam and Tamil Nadu fought over splitting Palakkad Railway Division",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/mangaluru-railway-bifurcation-when-keralam-and-tamil-nadu-fought-over-splitting-palakkad-railway-division/article71399858.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q6",
+      "question": "Which High Court recently observed that a 'shoulder grab' is not sexual harassment in a case involving a female BDO?",
+      "options": [
+        "Bombay High Court",
+        "Delhi High Court",
+        "Keralam High Court",
+        "Madras High Court"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Bombay High Court, through a single-judge Bench of Justice Abhay Mantri, recently observed that a 'shoulder grab' is not sexual harassment. The court partly quashed an FIR against an accused in a case where a female BDO had alleged the accused grabbed her right shoulder and shoved her away.",
+      "background": "This ruling highlights the nuances in interpreting acts that may fall under sexual harassment laws, emphasizing the need for a thorough examination of intent and context. Such judgments contribute to the evolving legal framework around workplace conduct.",
+      "examRelevance": "Bombay High Court observed 'shoulder grab' is not sexual harassment.",
+      "tags": [
+        "Bombay High Court",
+        "Sexual Harassment",
+        "Legal Ruling",
+        "Justice Abhay Mantri"
+      ],
+      "source": {
+        "title": "Shoulder grab is not sexual harassment, observes Bombay HC",
+        "url": "https://www.thehindu.com/news/national/shoulder-grab-is-not-sexual-harassment-says-bombay-hc/article71399562.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q7",
+      "question": "Which Indian infrastructure group is exploring opportunities for airport expansion in West Asia and Eastern Europe?",
+      "options": [
+        "GMR Group",
+        "Reliance Infrastructure",
+        "Larsen & Toubro",
+        "Adani Group"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The GMR Group is actively exploring opportunities for airport and adjacent business expansion in West Asia and Eastern Europe. This strategic move aims to leverage their expertise in airport development and operations in new international markets.",
+      "background": "GMR Group is a prominent Indian infrastructure company with a significant presence in the airport sector, operating major airports like Delhi and Hyderabad. Expanding into West Asia and Eastern Europe aligns with their global growth ambitions and seeks to tap into emerging aviation markets.",
+      "examRelevance": "GMR Group exploring airport expansion in West Asia and Eastern Europe.",
+      "tags": [
+        "GMR Group",
+        "Airport Expansion",
+        "West Asia",
+        "Eastern Europe",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "GMR eyes West Asia, Europe for airport expansion",
+        "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/gmr-group-to-explore-opportunities-for-airports-adjacent-biz-in-west-asia-eastern-europe/articleshow/133591180.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q8",
+      "question": "What was India's Index of Industrial Production (IIP) growth rate in July 2026?",
+      "options": [
+        "8.1%",
+        "7.3%",
+        "6.7%",
+        "5.9%"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "India's Index of Industrial Production (IIP) growth slowed to 6.7% in July 2026. This performance was the second-best growth since December last year, primarily buoyed by the manufacturing and electricity and gas supply sectors.",
+      "background": "The IIP is an indicator that measures the changes in the volume of production of industrial products. It is compiled and released monthly by the National Statistical Office (NSO), Ministry of Statistics and Programme Implementation. Its growth rate is a key economic metric.",
+      "examRelevance": "India's IIP growth rate was 6.7% in July 2026.",
+      "tags": [
+        "Index of Industrial Production",
+        "IIP",
+        "Economic Growth",
+        "July 2026"
+      ],
+      "source": {
+        "title": "IIP growth slows to 6.7% in July 2026, economists warn of sluggish rural consumption",
+        "url": "https://www.thehindu.com/business/Economy/iip-growth-slows-to-67-in-july-2026-economists-warn-of-sluggish-rural-consumption/article71400167.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q9",
+      "question": "Which two sectors primarily buoyed India's Index of Industrial Production (IIP) growth in July 2026?",
+      "options": [
+        "Manufacturing and Electricity & Gas Supply",
+        "Finance and Real Estate",
+        "Mining and Agriculture",
+        "Services and Construction"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "India's Index of Industrial Production (IIP) growth in July 2026, which slowed to 6.7%, was primarily buoyed by the manufacturing and electricity and gas supply sectors. This kept overall growth strong despite a slight moderation from June.",
+      "background": "The IIP is a composite indicator that measures short-term changes in the volume of production of a basket of industrial products. Understanding which sectors contribute most to its growth provides insights into the health and direction of industrial activity.",
+      "examRelevance": "Manufacturing and Electricity & Gas Supply buoyed IIP growth in July 2026.",
+      "tags": [
+        "Index of Industrial Production",
+        "IIP",
+        "Manufacturing",
+        "Electricity & Gas Supply",
+        "Economic Growth"
+      ],
+      "source": {
+        "title": "Industrial output growth narrows to 6.7% in July from 7.3% in June",
+        "url": "https://www.livemint.com/economy/india-iip-iip-july-2026-index-of-industrial-production-11787846956460.html"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q10",
+      "question": "What is the reported death toll from the recent flash floods in Nepal?",
+      "options": [
+        "400",
+        "547",
+        "320",
+        "1500"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The death toll from the recent flash floods in Nepal has risen to 547. Additionally, at least 320 Indians remain missing, and around 400 others are stranded on the Chinese side.",
+      "background": "Nepal is highly vulnerable to natural disasters, including flash floods and landslides, often exacerbated by its mountainous terrain and monsoon rains. The current situation has prompted international concern and rescue efforts.",
+      "examRelevance": "Death toll from Nepal flash floods rose to 547.",
+      "tags": [
+        "Nepal",
+        "Flash Floods",
+        "Natural Disaster",
+        "Death Toll"
+      ],
+      "source": {
+        "title": "Nepal flash floods LIVE: Death toll rises to 547 in Nepal; fear of fresh floods looms",
+        "url": "https://www.thehindu.com/news/international/nepal-flash-floods-death-toll-surges-nearly-1500-missing-fresh-flood-threat-glacier-collapse-live-updates-august-28-2026/article71398953.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q11",
+      "question": "According to China's Foreign Ministry spokesperson, what was the likely cause of the recent flash floods in Nepal?",
+      "options": [
+        "Breaching of a glacial lake outburst flood",
+        "Heavy monsoon rainfall",
+        "Cloudburst over the Himalayas",
+        "Collapse of a high altitude glacier"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "China's Foreign Ministry spokesperson Lin Jian stated that according to preliminary assessments by experts and official institutions of China and Nepal, the recent flash floods in Nepal may have been triggered by the collapse of a high altitude glacier.",
+      "background": "Glacier collapses and glacial lake outburst floods (GLOFs) are significant environmental hazards in the Himalayan region, often exacerbated by climate change. Such events can cause sudden and devastating floods downstream.",
+      "examRelevance": "Nepal flash floods likely caused by glacier collapse, according to China.",
+      "tags": [
+        "Nepal",
+        "Flash Floods",
+        "Glacier Collapse",
+        "China Foreign Ministry"
+      ],
+      "source": {
+        "title": "China says collapse of glacier in Nepal likely behind flash flood",
+        "url": "https://www.thehindu.com/news/international/china-says-collapse-of-glacier-in-nepal-likely-behind-flash-flood/article71399637.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q12",
+      "question": "A new T-Series tank overhaul facility, costing ₹472 crore, is being established in which Indian city to strengthen the Indian Army’s capacity for T-72 and T-90 fleets?",
+      "options": [
+        "Bengaluru",
+        "Pune",
+        "Jabalpur",
+        "Hyderabad"
+      ],
+      "answerIndex": 2,
+      "category": "Defence",
+      "explanation": "A new ₹472-crore T-Series tank overhaul facility is being established in Jabalpur. This facility will strengthen the Indian Army’s capacity to maintain its T-72 and T-90 fleet and support defence indigenisation efforts.",
+      "background": "The T-72 and T-90 tanks form the backbone of the Indian Army's armoured corps. Establishing a dedicated overhaul facility within India reduces reliance on foreign maintenance, enhances operational readiness, and promotes self-reliance in defence manufacturing.",
+      "examRelevance": "New T-Series tank overhaul facility established in Jabalpur.",
+      "tags": [
+        "Jabalpur",
+        "Indian Army",
+        "T-72",
+        "T-90",
+        "Defence Indigenisation"
+      ],
+      "source": {
+        "title": "Why tank overhaul matters: Giving India’s T-72 and T-90 fleet a new lease of life",
+        "url": "https://www.thehindu.com/news/national/why-tank-overhaul-matters-giving-indias-t-72-and-t-90-fleet-a-new-lease-of-life-i-explained/article71399763.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q13",
+      "question": "What was the closing value of the BSE Sensex after its recent rebound, climbing 330.92 points?",
+      "options": [
+        "77,264.51",
+        "77,357.97",
+        "76,933.59",
+        "77,695.43"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The 30-share BSE Sensex recently climbed 330.92 points, or 0.43%, to settle at 77,264.51. During the day, it had jumped 424.38 points, or 0.55%, to 77,357.97, ending a two-day losing streak.",
+      "background": "The Sensex is a free-float market-weighted stock market index of 30 well-established and financially sound companies listed on the Bombay Stock Exchange. Its movement is a key indicator of the overall health and direction of the Indian stock market.",
+      "examRelevance": "BSE Sensex closed at 77,264.51 after climbing 330.92 points.",
+      "tags": [
+        "BSE Sensex",
+        "Stock Market",
+        "Economy",
+        "Equity Market"
+      ],
+      "source": {
+        "title": "Stock markets rebound, ending 2-day losing streak on buying in IT firms; Sensex jumps 331 points",
+        "url": "https://www.thehindu.com/business/Industry/stock-markets-rebound-ending-2-day-losing-streak-on-buying-in-it-firms-sensex-jumps-331-points/article71400227.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q14",
+      "question": "The Airports Authority of India (AAI) plans to modernise and expand which international airport in Tamil Nadu at an estimated cost of ₹2,200 crore?",
+      "options": [
+        "Coimbatore International Airport",
+        "Madurai International Airport",
+        "Chennai International Airport",
+        "Tiruchirappalli International Airport"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The Airports Authority of India (AAI) plans to modernise and expand the Coimbatore International Airport at an estimated cost of ₹2,200 crore. This expansion includes the construction of a new state-of-the-art terminal building sprawling over 75,000 square metres, which is four times larger than the current terminal.",
+      "background": "Airport expansion projects are crucial for accommodating increasing passenger traffic and cargo movement, boosting regional connectivity, and fostering economic growth. Coimbatore is a significant industrial and commercial hub in Tamil Nadu.",
+      "examRelevance": "Coimbatore International Airport expansion plan by AAI at ₹2,200 crore.",
+      "tags": [
+        "Coimbatore International Airport",
+        "AAI",
+        "Airport Expansion",
+        "Tamil Nadu",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "What is the Coimbatore International Airport expansion plan, and why is it needed? | Explained",
+        "url": "https://www.thehindu.com/news/cities/Coimbatore/explained-what-is-the-coimbatore-international-airport-expansion-plan-and-why-is-it-needed/article71399262.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q15",
+      "question": "Which country's Foreign Minister, Abbas Araghchi, recently stated that 'pressure doesn't work' in relations with the U.S. and urged other countries to defy 'illegal' US sanctions?",
+      "options": [
+        "North Korea",
+        "Iran",
+        "China",
+        "Russia"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Iranian Foreign Minister Abbas Araghchi recently posted on X, stating that 'Putting diplomacy back on track isn't impossible. It hinges on U.S. understanding of one simple fact: pressure doesn't work.' He also urged other countries to refrain from implementing 'illegal' US sanctions.",
+      "background": "Relations between Iran and the U.S. have been strained for decades, marked by sanctions, nuclear deal controversies, and regional tensions. Iran consistently advocates for a diplomatic approach free from coercive measures.",
+      "examRelevance": "Iran FM Abbas Araghchi stated 'pressure doesn't work' with U.S.",
+      "tags": [
+        "Iran",
+        "Abbas Araghchi",
+        "US Sanctions",
+        "International Relations",
+        "Diplomacy"
+      ],
+      "source": {
+        "title": "Iran warns Washington that pressure ‘doesn’t work’",
+        "url": "https://www.thehindu.com/news/international/iran-warns-washington-that-pressure-doesnt-work/article71399906.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q16",
+      "question": "Which U.S. District Court Judge recently blocked former President Trump's bid to curb mail-in ballots, calling the regulation 'likely unconstitutional'?",
+      "options": [
+        "Sonia Sotomayor",
+        "Elena Kagan",
+        "Indira Talwani",
+        "Amy Coney Barrett"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "U.S. District Court Judge Indira Talwani ruled on Thursday (August 27) to block former President Trump's bid to curb mail-in ballots. She wrote that it was 'practically impossible' for states to comply with the 'likely unconstitutional regulation,' especially with midterms only two months away.",
+      "background": "Mail-in ballots have been a contentious issue in U.S. elections, particularly since the 2020 presidential election, with debates often centering on voter access versus election security. Judicial rulings play a critical role in shaping electoral procedures.",
+      "examRelevance": "U.S. Judge Indira Talwani blocked Trump's mail-in ballot bid.",
+      "tags": [
+        "U.S. Court",
+        "Indira Talwani",
+        "Donald Trump",
+        "Mail-in Ballots",
+        "Elections"
+      ],
+      "source": {
+        "title": "U.S. court blocks Trump bid to curb mail-in ballots",
+        "url": "https://www.thehindu.com/news/international/us-court-blocks-trump-bid-to-curb-mail-in-ballots/article71399974.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q17",
+      "question": "What percentage of its target enrollment did the Social Justice Ministry achieve under its existing free coaching scheme over three years, as cited by Congress?",
+      "options": [
+        "26%",
+        "38%",
+        "50%",
+        "15%"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The Congress party recently questioned the Centre’s new free coaching plan, citing the poor record of an existing scheme by the Social Justice Ministry. The Ministry had set a target of enrolling 10,500 candidates over three years but had only enrolled 2,790 students, which is 26% of the target.",
+      "background": "Government free coaching schemes are typically designed to provide educational support to underprivileged students aspiring for competitive examinations. The effectiveness of such schemes is often evaluated based on their reach and success in achieving enrollment targets.",
+      "examRelevance": "Social Justice Ministry achieved 26% of free coaching scheme target.",
+      "tags": [
+        "Social Justice Ministry",
+        "Free Coaching Scheme",
+        "Government Schemes",
+        "Enrollment Target"
+      ],
+      "source": {
+        "title": "Congress questions Centre’s free coaching plan, cites poor record of existing scheme",
+        "url": "https://www.thehindu.com/news/national/congress-questions-centres-free-coaching-plan-cites-poor-record-of-existing-scheme/article71399673.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q18",
+      "question": "According to IDC estimates, what was the year-on-year drop in the sub-₹10,000 smartphone segment in India during Q2 2026?",
+      "options": [
+        "45%",
+        "60%",
+        "75%",
+        "30%"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "According to an IDC estimate, the sub-₹10,000 smartphone market in India is facing an existential crisis. In Q2 2026, this segment saw an almost 60% year-on-year drop, largely attributed to a memory chip crunch.",
+      "background": "The sub-₹10,000 segment has historically been crucial for smartphone market penetration in India, catering to a large budget-conscious consumer base. A significant drop in this segment indicates broader economic or supply chain challenges affecting affordability and availability.",
+      "examRelevance": "Sub-₹10K smartphone segment in India saw a 60% YoY drop in Q2 2026.",
+      "tags": [
+        "Smartphone Market",
+        "IDC",
+        "Economy",
+        "Memory Chip Crunch",
+        "Q2 2026"
+      ],
+      "source": {
+        "title": "Is memory chip crunch wiping out ₹10K smartphone market in India?",
+        "url": "https://www.thehindu.com/sci-tech/technology/is-memory-chip-crunch-wiping-out-10k-smartphone-market-in-india/article71399887.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q19",
+      "question": "Which vaccine is being used for the Ebola vaccination drive in eastern Congo, following the recent spread of the outbreak?",
+      "options": [
+        "Ervebo",
+        "Mvabea",
+        "Zabdeno",
+        "Jynneos"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Congo has begun Ebola vaccinations using over 50,000 doses of the Ervebo vaccine to combat the country's worst outbreak on record. The outbreak has spread to two new health zones, Biena and Manguredjipa, affecting a total of 60 areas in North Kivu Province.",
+      "background": "Ebola virus disease is a severe, often fatal illness in humans. The Ervebo vaccine (rVSV-ZEBOV) has been instrumental in controlling previous outbreaks and is a critical tool in public health responses to contain the spread of the virus.",
+      "examRelevance": "Ervebo vaccine used for Ebola vaccination drive in eastern Congo.",
+      "tags": [
+        "Ebola",
+        "Congo",
+        "Ervebo Vaccine",
+        "Health",
+        "Outbreak"
+      ],
+      "source": {
+        "title": "Congo begins Ebola vaccinations to fight country's worst outbreak on record, health minister says",
+        "url": "https://www.thehindu.com/sci-tech/health/congo-begins-ebola-vaccinations-to-fight-countrys-worst-outbreak-on-record-health-minister-says/article71399836.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q20",
+      "question": "Which High Court recently ordered notices in a ₹1-crore defamation suit filed by Minister Aadhav Arjuna against M.K. Stalin and the DMK IT Wing?",
+      "options": [
+        "Bombay High Court",
+        "Keralam High Court",
+        "Karnataka High Court",
+        "Madras High Court"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Madras High Court, through Justice K. Govindarajan Thilakavadi, recently ordered notices returnable by September 15, 2026, in a ₹1-crore defamation suit. The suit was filed by Minister Aadhav Arjuna against M.K. Stalin and the DMK IT Wing, taking objection to a June 8, 2026, X post.",
+      "background": "Defamation suits are common in the political landscape, where public figures often resort to legal action to address perceived damage to their reputation. Such cases highlight the challenges of free speech versus reputation protection in the age of social media.",
+      "examRelevance": "Madras High Court ordered notices in defamation suit against M.K. Stalin.",
+      "tags": [
+        "Madras High Court",
+        "Defamation Suit",
+        "M.K. Stalin",
+        "Aadhav Arjuna",
+        "DMK IT Wing"
+      ],
+      "source": {
+        "title": "Madras High Court orders notices to M.K. Stalin, DMK IT Wing in ₹1-crore defamation suit filed by Minister Aadhav Arjuna",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-orders-notices-to-mk-stalin-dmk-it-wing-in-1-crore-defamation-suit-filed-by-minister-aadhav-arjuna/article71399106.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q21",
+      "question": "Which Indian athlete recently qualified for the Diamond League Finals after recovering from a lower back injury?",
+      "options": [
+        "Avinash Sable",
+        "Annu Rani",
+        "Neeraj Chopra",
+        "Murali Sreeshankar"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Neeraj Chopra, the 28-year-old Indian javelin thrower, recently qualified for the Diamond League Finals. He is on a comeback trail after recovering from a lower back injury that had troubled him since September last year.",
+      "background": "The Diamond League is an annual series of elite track and field athletics competitions, serving as the top tier of the World Athletics one-day meeting competitions. Qualification for the finals signifies top-tier performance in the season.",
+      "examRelevance": "Neeraj Chopra qualified for Diamond League Finals.",
+      "tags": [
+        "Neeraj Chopra",
+        "Diamond League Finals",
+        "Athletics",
+        "Javelin Throw"
+      ],
+      "source": {
+        "title": "Neeraj Chopra qualifies for Diamond League Finals, also in line for WA Ultimate Championships",
+        "url": "https://www.thehindu.com/sport/athletics/neeraj-chopra-qualifies-for-diamond-league-finals-also-in-line-for-wa-ultimate-championships/article71400048.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q22",
+      "question": "Which dairy cooperative in Keralam recently recorded a 5.61% increase in milk sales during the Onam season?",
+      "options": [
+        "Amul",
+        "Nandini",
+        "Milma",
+        "Aavin"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Milma, Keralam's state cooperative milk federation, recorded a total sale of 1,45,76,846.63 litres of milk from August 20 to 25 (Uthradam day), marking the beginning of Onam festivities. This represents a 5.61% increase from last year during the same period.",
+      "background": "Onam is a major harvest festival celebrated in Keralam, leading to increased consumption of dairy products. Milma plays a significant role in meeting the state's dairy demands and its sales figures often reflect consumer spending patterns during festive seasons.",
+      "examRelevance": "Milma recorded 5.61% increase in milk sales during Onam.",
+      "tags": [
+        "Milma",
+        "Keralam",
+        "Onam",
+        "Dairy Sales",
+        "Economy"
+      ],
+      "source": {
+        "title": "Rise in sales of Milma’s dairy products during Onam season",
+        "url": "https://www.thehindu.com/news/national/kerala/rise-in-sales-of-milmas-dairy-products-during-onam-season/article71399962.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q23",
+      "question": "Which telecom operator led mobile subscriber additions in India during July, adding 26.9 lakh users?",
+      "options": [
+        "Reliance Jio",
+        "Vodafone Idea",
+        "BSNL",
+        "Airtel"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Airtel led mobile subscriber additions in India during July, adding 26.9 lakh users. Reliance Jio was close behind, adding 24.5 lakh users in the same month.",
+      "background": "Mobile subscriber addition figures are key indicators of competition and growth in the Indian telecom sector. These numbers are regularly tracked by regulatory bodies and market analysts to understand market dynamics and operator performance.",
+      "examRelevance": "Airtel led mobile subscriber additions in July with 26.9 lakh users.",
+      "tags": [
+        "Airtel",
+        "Telecom",
+        "Mobile Subscribers",
+        "Reliance Jio",
+        "July"
+      ],
+      "source": {
+        "title": "Airtel leads July user rush, Jio close behind",
+        "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/airtel-leads-july-mobile-subscriber-additions-with-26-9-lakh-users-jio-adds-24-5-lakh/articleshow/133589871.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q24",
+      "question": "Which prominent football club recently saw Rodri debut in a win over Athletic?",
+      "options": [
+        "Barcelona",
+        "Manchester United",
+        "Real Madrid",
+        "Paris Saint-Germain"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Rodri recently debuted with Barcelona in their win over Athletic. This match was supposed to feature a tribute to Spain's World Cup champions but instead became an act of support for the 'estelada' flag, Catalonia's pro-independence symbol.",
+      "background": "Barcelona is one of the most successful football clubs globally, known for its rich history and distinct playing style. Player debuts, especially of high-profile players like Rodri, are often significant events in the football calendar.",
+      "examRelevance": "Rodri debuted with Barcelona in a win over Athletic.",
+      "tags": [
+        "Rodri",
+        "Barcelona",
+        "Football",
+        "La Liga"
+      ],
+      "source": {
+        "title": "Rodri debuts with Barcelona in win over Athletic; Chelsea defeats Luton in League Cup",
+        "url": "https://www.thehindu.com/sport/football/rodri-debuts-with-barcelona-in-win-over-athletic-chelsea-defeats-luton-in-league-cup/article71400002.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q25",
+      "question": "Who recently ascended to the throne of Norway as King Haakon VIII?",
+      "options": [
+        "King Harald V",
+        "Prince Haakon",
+        "King Haakon VII",
+        "Prince Olav"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Following the death of Norway's King Harald V at 89, his son, Crown Prince Haakon, ascended to the throne and is now known as King Haakon VIII.",
+      "background": "Monarchies in Europe, like Norway's, typically follow a hereditary succession. The transition of power from one monarch to another marks a significant event in the country's history and constitutional framework.",
+      "examRelevance": "Prince Haakon ascended as King Haakon VIII of Norway.",
+      "tags": [
+        "Norway",
+        "King Haakon VIII",
+        "King Harald V",
+        "Monarchy",
+        "Succession"
+      ],
+      "source": {
+        "title": "Norway King Harald V's son is now King Haakon VIII",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/norways-king-harald-v-dies-at-89-his-son-becomes-king-haakon-viii/articleshow/133589396.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q26",
+      "question": "Which cricket board recently considered pulling its players out of a Test against England after an interview with Imran Khan's sons was aired?",
+      "options": [
+        "England and Wales Cricket Board (ECB)",
+        "Pakistan Cricket Board (PCB)",
+        "Cricket Australia (CA)",
+        "Board of Control for Cricket in India (BCCI)"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "The Pakistan Cricket Board (PCB) considered pulling its players out of a Test match against England. This decision was contemplated after Sky aired an 18-minute interview with Imran Khan's sons, Kassim and Suleman, in which they expressed fears for their father's well-being.",
+      "background": "Imran Khan, a former cricket captain and Prime Minister of Pakistan, has been a central figure in the country's politics. Such incidents highlight the intersection of sports, politics, and media, especially when sensitive personal and national issues are involved.",
+      "examRelevance": "Pakistan Cricket Board (PCB) considered pulling players from Test after Imran Khan's sons' interview.",
+      "tags": [
+        "Pakistan Cricket Board",
+        "PCB",
+        "Imran Khan",
+        "Cricket",
+        "England Test"
+      ],
+      "source": {
+        "title": "PCB considered pulling players out of Test against England after Sky aired interview with Imran Khan’s sons",
+        "url": "https://www.thehindu.com/sport/cricket/pcb-considered-pulling-players-out-of-test-against-england-after-sky-aired-interview-with-imran-khans-sons/article71399944.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q27",
+      "question": "Which state recently raised the self-certification limit for residential building approvals to 5,000 sq. ft.?",
+      "options": [
+        "Tamil Nadu",
+        "Keralam",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Tamil Nadu's Housing Minister B. Rajkumar announced that the self-certification limit for residential building approvals has been raised to 5,000 sq. ft. Additionally, a scheme will be introduced for small commercial buildings with a floor area of up to 1,500 sq. ft. to obtain building permission through self-certification.",
+      "background": "Self-certification schemes streamline the approval process for construction, reducing bureaucratic delays and promoting ease of doing business. Raising the limit for residential buildings benefits homeowners and developers, while extending it to commercial buildings further simplifies regulations.",
+      "examRelevance": "Tamil Nadu raised self-certification limit for residential building approvals to 5,000 sq. ft.",
+      "tags": [
+        "Tamil Nadu",
+        "Building Approvals",
+        "Self-certification",
+        "Housing Minister"
+      ],
+      "source": {
+        "title": "Tamil Nadu Assembly | Self-certification limit for residential building approvals raised to 5,000 sq. ft.: Housing Minister",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-assembly-self-certification-limit-for-residential-building-approvals-raised-to-5000-sq-ft-housing-minister/article71399846.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q28",
+      "question": "India recently signed an agreement with which country for the procurement of the Javelin anti-tank missile system?",
+      "options": [
+        "France",
+        "Israel",
+        "Russia",
+        "United States"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "India and the U.S. recently signed an agreement for the procurement of the Javelin anti-tank missile system. This deal marks a significant step in defence cooperation between the two countries. The Javelin system is currently operated by the U.S. Army, U.S. Marine Corps, and several international customers.",
+      "background": "The Javelin is a highly effective portable anti-tank missile system, known for its 'fire-and-forget' capability. This procurement enhances India's defence capabilities and strengthens strategic ties with the United States.",
+      "examRelevance": "India and U.S. signed agreement for Javelin anti-tank missile system procurement.",
+      "tags": [
+        "India",
+        "U.S.",
+        "Javelin Missile System",
+        "Defence Cooperation",
+        "Anti-Tank Missile"
+      ],
+      "source": {
+        "title": "India, U.S. sign agreement for procurement of Javelin anti-tank missile system",
+        "url": "https://www.thehindu.com/news/national/india-us-sign-agreement-for-procurement-of-javelin-anti-tank-missile-system/article71399680.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q29",
+      "question": "Which football club is the current holder of the UEFA Champions League, and will meet Barcelona and Man City in the upcoming draw?",
+      "options": [
+        "Paris Saint-Germain (PSG)",
+        "Bayern Munich",
+        "Liverpool",
+        "Real Madrid"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Paris Saint-Germain (PSG) is the current holder of the UEFA Champions League. In the upcoming draw, they are set to meet Barcelona and Manchester City. The final will be played at Atletico's Metropolitano.",
+      "background": "The UEFA Champions League is Europe's most prestigious club football competition. Being the 'holder' refers to the team that won the previous edition, signifying their elite status in European football.",
+      "examRelevance": "Paris Saint-Germain (PSG) is the current UEFA Champions League holder.",
+      "tags": [
+        "UEFA Champions League",
+        "PSG",
+        "Football",
+        "Barcelona",
+        "Man City"
+      ],
+      "source": {
+        "title": "UEFA Champions League: Holders PSG to meet Barcelona, Man City; Real Madrid to play Inter, Arsenal",
+        "url": "https://www.thehindu.com/sport/football/uefa-champions-league-holders-psg-to-meet-barcelona-man-city-real-madrid-to-play-inter-arsenal/article71399924.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-28-q30",
+      "question": "Which country's court recently recognized breast cancer as an occupational disease for a flight attendant, highlighting risks of night shifts and cosmic radiation?",
+      "options": [
+        "Germany",
+        "France",
+        "Canada",
+        "United Kingdom"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "A French court recently recognized breast cancer as an occupational disease for a flight attendant. This ruling highlights the health risks associated with night shifts and exposure to cosmic radiation, which are common in the aviation industry.",
+      "background": "Recognizing a disease as occupational has significant implications for workers' rights, compensation, and workplace safety regulations. This French ruling could set a precedent for similar cases in other countries and industries where employees are exposed to unique environmental hazards.",
+      "examRelevance": "French court recognized breast cancer as an occupational disease.",
+      "tags": [
+        "France",
+        "Occupational Disease",
+        "Breast Cancer",
+        "Flight Attendant",
+        "Cosmic Radiation"
+      ],
+      "source": {
+        "title": "French ruling spotlights breast cancer as an occupational disease",
+        "url": "https://www.thehindu.com/news/international/french-ruling-spotlights-breast-cancer-as-an-occupational-diseasei-explained/article71399727.ece"
+      }
+    }
+  ]
+}
