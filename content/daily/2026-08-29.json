@@ -1,0 +1,802 @@
+{
+  "id": "daily-2026-08-29",
+  "type": "daily",
+  "date": "2026-08-29",
+  "title": "Current Affairs — 29 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-29-q1",
+      "question": "Sandhya Devanathan recently transitioned from Meta to which organisation, taking on the role of Vice President for South East Asia and Australia?",
+      "options": [
+        "Google Asia Pacific",
+        "Microsoft Azure",
+        "OpenAI",
+        "Amazon Web Services"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Sandhya Devanathan has exited Meta after a decade and is set to join OpenAI as Vice President for South East Asia and Australia.",
+      "background": "OpenAI is a leading artificial intelligence research laboratory known for developing advanced AI models like GPT series and DALL-E. Her appointment signifies a key leadership addition to expand OpenAI's presence in the APAC region.",
+      "examRelevance": "Sandhya Devanathan = VP South East Asia, Australia at OpenAI.",
+      "tags": [
+        "Sandhya Devanathan",
+        "OpenAI",
+        "Meta",
+        "Appointments",
+        "South East Asia"
+      ],
+      "source": {
+        "title": "Sandhya Devanathan exits Meta after a decade; to join OpenAI as VP South East Asia, Australia",
+        "url": "https://www.thehindu.com/sci-tech/technology/sandhya-devanathan-exits-meta-after-a-decade-to-join-openai-as-vp-south-east-asia-australia/article71403430.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q2",
+      "question": "Prime Minister Narendra Modi is scheduled to participate in the 26th SCO Summit in which city?",
+      "options": [
+        "Bishkek",
+        "Dushanbe",
+        "Tashkent",
+        "Samarkand"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Prime Minister Narendra Modi will travel to Bishkek, Kyrgyzstan, from Tashkent, Uzbekistan, to participate in the 26th Shanghai Cooperation Organisation (SCO) Summit.",
+      "background": "The SCO is a Eurasian political, economic, and security organisation. India became a full member of the SCO in 2017. Summits are held annually to discuss regional security, economic cooperation, and cultural ties.",
+      "examRelevance": "PM Modi to attend 26th SCO Summit in Bishkek.",
+      "tags": [
+        "PM Modi",
+        "SCO Summit",
+        "Bishkek",
+        "Kyrgyzstan",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Looking to advance India’s vision for region free from terror, says PM Modi as he embarks on visit to Uzbekistan, Kyrgyzstan",
+        "url": "https://www.thehindu.com/news/national/looking-to-advance-indias-vision-for-region-free-from-terror-says-pm-modi-as-he-embarks-on-visit-to-uzbekistan-kyrgyzstan/article71403493.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q3",
+      "question": "Who recently became the new King of Norway following the death of King Harald V?",
+      "options": [
+        "Crown Prince Frederik X",
+        "Crown Prince Olav VI",
+        "Crown Prince Carl XVI",
+        "Crown Prince Haakon VIII"
+      ],
+      "answerIndex": 3,
+      "category": "Obituaries",
+      "explanation": "Norway’s King Harald V died at the age of 89, and his son, Crown Prince Haakon, has succeeded him as King Haakon VIII.",
+      "background": "King Harald V was Europe’s oldest monarch. He ascended to the throne in 1991. The Norwegian monarchy is a constitutional monarchy, where the monarch's duties are primarily ceremonial.",
+      "examRelevance": "King Harald V of Norway died, succeeded by King Haakon VIII.",
+      "tags": [
+        "Norway",
+        "King Harald V",
+        "King Haakon VIII",
+        "Monarchy",
+        "Obituaries"
+      ],
+      "source": {
+        "title": "Norway’s King Harald V dies at 89; his son becomes King Haakon VIII",
+        "url": "https://www.thehindu.com/news/international/norways-king-harald-v-dies-at-89-his-son-becomes-king-haakon-viii/article71399590.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q4",
+      "question": "India's IPO market is projected to raise a record amount in September if mega issues like Jio Platforms or NSE hit the market. What is the estimated amount?",
+      "options": [
+        "Rs 40,000 crore",
+        "Rs 25,000 crore",
+        "Rs 70,000 crore",
+        "Rs 1,00,000 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "India's IPO market may be headed for its biggest month of the year, with investment banking sources expecting companies to raise as much as Rs 70,000 crore in September if one of the two mega issues, Jio Platforms or NSE, hits the market.",
+      "background": "An Initial Public Offering (IPO) is the process by which a private company can go public by selling shares to the public for the first time. Jio Platforms has already received SEBI approval for its proposed IPO.",
+      "examRelevance": "India IPO market expected to raise Rs 70,000 crore in September.",
+      "tags": [
+        "IPO",
+        "Jio Platforms",
+        "NSE",
+        "Stock Market",
+        "Economy"
+      ],
+      "source": {
+        "title": "Will Dalal Street see record Rs 70,000 crore IPOs in September? Jio and NSE buzz raises stakes",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/will-dalal-street-see-record-rs-70000-crore-ipos-in-september-jio-and-nse-buzz-raises-stakes/articleshow/133606653.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q5",
+      "question": "Scientists at JNCASR recently developed a smartphone-based diagnostic system for the detection of which disease?",
+      "options": [
+        "Parkinson’s disease",
+        "Alzheimer’s disease",
+        "Diabetes Mellitus",
+        "Tuberculosis"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Scientists at the Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) have developed a smartphone-based diagnostic system for the detection of Alzheimer’s disease.",
+      "background": "JNCASR is a multidisciplinary research institute located in Bengaluru, India. Alzheimer's disease is a progressive neurodegenerative disorder that primarily affects memory, thinking, and behavior. Early detection is crucial for managing the disease.",
+      "examRelevance": "JNCASR scientists developed smartphone-based diagnostic system for Alzheimer’s disease.",
+      "tags": [
+        "JNCASR",
+        "Alzheimer’s disease",
+        "Smartphone diagnostic",
+        "Science & Technology",
+        "Health"
+      ],
+      "source": {
+        "title": "JNCASR scientists develop smartphone-based diagnostic system for detection of Alzheimer’s disease",
+        "url": "https://www.thehindu.com/news/national/karnataka/jncasr-scientists-develop-smartphone-based-diagnostic-system-for-detection-of-alzheimers-disease/article71400965.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q6",
+      "question": "India's forex reserves recently hit a record high due to steps taken by which institution to attract US dollars?",
+      "options": [
+        "State Bank of India",
+        "Ministry of Finance",
+        "Securities and Exchange Board of India",
+        "Reserve Bank of India"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "India's forex reserves hit a record high on steps taken by the Reserve Bank of India (RBI) to attract US dollars.",
+      "background": "Foreign exchange reserves are assets held by a central bank or monetary authority, usually in foreign currencies. They serve as a buffer against economic shocks and help stabilize the domestic currency. The rupee remains one of Asia’s worst-performing currencies, making these steps important.",
+      "examRelevance": "India's forex reserves hit record high due to RBI measures.",
+      "tags": [
+        "India",
+        "Forex Reserves",
+        "RBI",
+        "US Dollars",
+        "Economy",
+        "Finance"
+      ],
+      "source": {
+        "title": "India forex reserves hit record high on RBI steps to attract US dollars",
+        "url": "https://www.livemint.com/economy/india-forex-reserves-hit-record-high-on-rbi-steps-to-attract-us-dollars-11787981229804.html"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q7",
+      "question": "Which Indian state government has decided to replace the term 'fail' with 'eligible for skill training' in marksheets for Class 10 and 12 students?",
+      "options": [
+        "Uttar Pradesh",
+        "Bihar",
+        "Madhya Pradesh",
+        "Rajasthan"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Bihar government has decided to replace the term 'fail' with 'eligible for skill training' in the marksheets of Class 10 and 12 students.",
+      "background": "This initiative aims to reduce the stigma associated with failing exams and encourage students towards skill development, providing them with alternative pathways for career growth.",
+      "examRelevance": "Bihar government replaces 'fail' with 'eligible for skill training' in Class 10, 12 marksheets.",
+      "tags": [
+        "Bihar",
+        "Education",
+        "Skill Training",
+        "Government Policy",
+        "Marksheets"
+      ],
+      "source": {
+        "title": "Bihar marksheets to drop ‘fail’ for Class 10, 12",
+        "url": "https://economictimes.indiatimes.com/news/india/bihar-govt-to-replace-term-fail-with-eligible-for-skill-training-in-marksheets-of-class-10-12/articleshow/133606829.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q8",
+      "question": "Former President Lenin Moreno was recently sentenced to 5 years for corruption in which country?",
+      "options": [
+        "Peru",
+        "Ecuador",
+        "Colombia",
+        "Bolivia"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Former Ecuadorian President Lenin Moreno has been sentenced to 5 years in prison for corruption.",
+      "background": "Lenin Moreno served as the President of Ecuador from 2017 to 2021. This sentencing highlights ongoing efforts globally to combat political corruption and hold former leaders accountable for their actions during their tenure.",
+      "examRelevance": "Former Ecuadorian President Lenin Moreno sentenced to 5 years for corruption.",
+      "tags": [
+        "Lenin Moreno",
+        "Ecuador",
+        "Corruption",
+        "International Justice",
+        "South America"
+      ],
+      "source": {
+        "title": "Former Ecuadorian President Lenin Moreno sentenced to 5 years for corruption",
+        "url": "https://www.thehindu.com/news/international/former-ecuadorian-president-lenin-moreno-sentenced-to-5-years-for-corruption/article71403553.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q9",
+      "question": "According to former US President Donald Trump, the US has entered an agreement with which country to take control of 65 billion barrels of its oil reserves?",
+      "options": [
+        "Iran",
+        "Russia",
+        "Venezuela",
+        "Saudi Arabia"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "President Donald Trump stated that the U.S. has entered an agreement with Venezuela to take control of 65 billion barrels of the South American country’s oil reserves.",
+      "background": "Venezuela possesses the world's largest proven oil reserves. The relationship between the U.S. and Venezuela has been complex and often strained, marked by sanctions and political disputes.",
+      "examRelevance": "Trump claims US deal with Venezuela for 65 billion barrels of oil reserves.",
+      "tags": [
+        "Donald Trump",
+        "Venezuela",
+        "Oil Reserves",
+        "US Foreign Policy",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Trump says U.S. inked deal with Venezuela to take control of 65 billion barrels of oil reserves",
+        "url": "https://www.thehindu.com/news/international/us-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves-says-trump/article71402388.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q10",
+      "question": "Former US President Donald Trump announced that he will observe the 25th anniversary of 9/11 at which location?",
+      "options": [
+        "World Trade Center, New York",
+        "Camp David, Maryland",
+        "Shanksville, Pennsylvania",
+        "Pentagon, Washington D.C."
+      ],
+      "answerIndex": 3,
+      "category": "Dates & Days",
+      "explanation": "Former US President Donald Trump stated that he will observe the 25th anniversary of 9/11 at the Pentagon. Vice President J.D. Vance will attend the New York observance, and other administration officials will go to the ceremony in Shanksville, Pennsylvania.",
+      "background": "The September 11 attacks, commonly known as 9/11, were a series of four coordinated terrorist attacks by the Islamic terrorist group al-Qaeda against the United States on the morning of Tuesday, September 11, 2001. The Pentagon was one of the targets.",
+      "examRelevance": "Trump to observe 25th anniversary of 9/11 at the Pentagon.",
+      "tags": [
+        "Donald Trump",
+        "9/11",
+        "Pentagon",
+        "Anniversary",
+        "Dates & Days"
+      ],
+      "source": {
+        "title": "Trump says he will observe the 25th anniversary of 9/11 at Pentagon",
+        "url": "https://www.thehindu.com/news/international/trump-says-he-will-observe-the-25th-anniversary-of-911-at-pentagon/article71402390.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q11",
+      "question": "Which country recently committed to reducing barriers to facilitate the entry of the Indian pharmaceutical sector, following discussions during India's Commerce Secretary's visit?",
+      "options": [
+        "Mexico",
+        "South Africa",
+        "Argentina",
+        "Brazil"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Argentina has committed to reducing barriers to facilitate the entry of the Indian pharmaceutical sector. This commitment was made during the visit of India's Commerce Secretary Rajesh Agarwal to Buenos Aires.",
+      "background": "India is a major global producer of generic drugs and vaccines. Expanding market access for its pharmaceutical products in Latin American countries like Argentina can significantly boost India's export economy and strengthen bilateral trade relations.",
+      "examRelevance": "Argentina committed to reducing barriers for Indian pharma sector entry.",
+      "tags": [
+        "Argentina",
+        "India",
+        "Pharmaceutical Sector",
+        "Commerce Secretary",
+        "Economy & Business"
+      ],
+      "source": {
+        "title": "Argentina committed to reducing barriers to facilitate entry of Indian pharma sector: Government",
+        "url": "https://www.thehindu.com/news/national/argentina-committed-to-reducing-barriers-to-facilitate-entry-of-indian-pharma-sector-government/article71403791.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q12",
+      "question": "According to Nepal's Finance Minister, what is the estimated financial aid required for rebuilding the country after the recent devastating flash floods?",
+      "options": [
+        "$2 billion",
+        "$3 billion",
+        "$4 billion",
+        "$1 billion"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Nepal's Finance Minister stated that the country needs at least $4 billion for rebuilding efforts following the catastrophic flash floods that have caused widespread devastation, with the death toll crossing 620 and over 3,000 people still missing.",
+      "background": "Flash floods along the Nepal-China border have led to a major humanitarian crisis. The scale of the disaster necessitates significant international aid and reconstruction efforts.",
+      "examRelevance": "Nepal needs at least $4 billion for flood rebuilding.",
+      "tags": [
+        "Nepal",
+        "Flash Floods",
+        "Rebuilding Aid",
+        "International Assistance",
+        "Disaster Management"
+      ],
+      "source": {
+        "title": "Nepal needs at least $4 bn for rebuilding: FinMin",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/nepal-needs-at-least-4-billion-for-rebuilding-finance-minister-says/articleshow/133603995.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q13",
+      "question": "Maratha activist Manoj Jarange recently began his 11th hunger strike in which district of Maharashtra, demanding Kunbi certificates?",
+      "options": [
+        "Kolhapur",
+        "Chhatrapati Sambhajinagar",
+        "Nashik",
+        "Pune"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Maratha activist Manoj Jarange began his 11th hunger strike at Antarwali Sarati in Maharashtra’s Chhatrapati Sambhajinagar district, demanding Kunbi certificates for all 58 lakh applicants whose records have been verified.",
+      "background": "The demand for Kunbi certificates is central to the Maratha community's agitation for reservation, as it would enable them to be recognized as Other Backward Classes (OBCs) and avail benefits.",
+      "examRelevance": "Manoj Jarange began 11th hunger strike in Chhatrapati Sambhajinagar for Kunbi certificates.",
+      "tags": [
+        "Manoj Jarange",
+        "Maratha Reservation",
+        "Kunbi Certificates",
+        "Chhatrapati Sambhajinagar",
+        "Maharashtra"
+      ],
+      "source": {
+        "title": "Maratha Activist Manoj Jarange begins fast over kunbi certificates",
+        "url": "https://www.thehindu.com/news/national/maharashtra/maratha-activist-manoj-jarange-begins-fast-over-kunbi-certificates/article71403748.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q14",
+      "question": "The Madras High Court recently directed Aavin to popularise the 'button paal' system among residents of Kodaikanal and Udhagamandalam. What does 'button paal' refer to?",
+      "options": [
+        "Automatic milk vending machines",
+        "Milk delivery through drones",
+        "A traditional milk payment system",
+        "Milk distributed in sachets with buttons"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The Madras High Court directed Aavin, the Tamil Nadu Cooperative Milk Producers' Federation, to popularise the 'button paal' system among residents of Kodaikanal and Udhagamandalam. This system refers to automatic milk vending machines, which were inaugurated in these two hill stations on August 16 and 17.",
+      "background": "Aavin is a state government cooperative federation that produces and markets milk and milk products in Tamil Nadu. The 'button paal' system aims to provide easy access to fresh milk for residents, especially in remote or hilly areas.",
+      "examRelevance": "Madras High Court directs Aavin to popularise 'button paal' (automatic milk vending machines) in Kodaikanal, Udhagamandalam.",
+      "tags": [
+        "Aavin",
+        "Button Paal",
+        "Milk Vending Machines",
+        "Kodaikanal",
+        "Tamil Nadu"
+      ],
+      "source": {
+        "title": "Popularise ‘button paal’ system among residents of Kodaikanal, Udhagamandalam: Madras High Court directs Aavin",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/popularise-button-paal-system-among-residents-of-kodaikanal-udhagamandalam-madras-high-court-directs-aavin/article71403534.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q15",
+      "question": "The CISF recently signed an MoU to enhance the counter-drone skills of its security personnel. CISF is the nodal agency for handling aerial threats at how many units across the country?",
+      "options": [
+        "150",
+        "240",
+        "370",
+        "500"
+      ],
+      "answerIndex": 2,
+      "category": "Defence",
+      "explanation": "The Central Industrial Security Force (CISF) signed an MoU to enhance the counter-drone skills of its security personnel. The paramilitary force guards 370 units across the country, including highly sensitive sectors like aviation, nuclear power, space, and oil refineries, and has been designated as the nodal agency to handle aerial threats at these installations.",
+      "background": "Drones pose an increasing security threat to critical infrastructure. Enhancing counter-drone capabilities is crucial for protecting vital national assets from potential aerial attacks or surveillance.",
+      "examRelevance": "CISF guards 370 units, nodal agency for aerial threats, signs MoU for counter-drone skills.",
+      "tags": [
+        "CISF",
+        "Counter-drone",
+        "Security",
+        "Aerial Threats",
+        "Defence",
+        "MoU"
+      ],
+      "source": {
+        "title": "CISF signs MoU to enhance counter-drone skills of security personnel",
+        "url": "https://www.thehindu.com/news/national/cisf-signs-mou-to-enhance-counter-drone-skills-of-security-personnel/article71402256.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q16",
+      "question": "US officials recently revised their claims, stating that the Chinese state-sponsored hacking group QTFY targeted various US government agencies. Which of the following was NOT explicitly mentioned as a target?",
+      "options": [
+        "NASA",
+        "U.S. Senate",
+        "Federal Bureau of Investigation (FBI)",
+        "Federal Reserve"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "In a newly edited statement, the Department of Justice said that the U.S. Senate, the Federal Reserve, NASA, and others were 'among the targets of QTFY,' a Chinese state-sponsored hacking group. The FBI was not explicitly mentioned as a target in the provided news item.",
+      "background": "State-sponsored cyber attacks are a significant concern for national security. Identifying and attributing such attacks is crucial for developing defensive strategies and international cybersecurity policies.",
+      "examRelevance": "Chinese hacking group QTFY targeted US Senate, Federal Reserve, NASA.",
+      "tags": [
+        "QTFY",
+        "Cyberattack",
+        "China",
+        "US Government",
+        "Hacking",
+        "Science & Technology"
+      ],
+      "source": {
+        "title": "U.S. officials revise claims that government agencies were hacked by Chinese, now say they were targets",
+        "url": "https://www.thehindu.com/sci-tech/technology/us-officials-revise-claims-that-government-agencies-were-hacked-by-chinese-now-say-they-were-targets/article71403434.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q17",
+      "question": "Karnataka Chief Minister D.K. Shivakumar recently directed officials to identify five cities, other than Bengaluru, for industrial development. Over the last three years, Karnataka ranks third in the country's manufacturing sector by attracting investments amounting to what figure?",
+      "options": [
+        "₹3.58 lakh crore",
+        "₹2.58 lakh crore",
+        "₹4.58 lakh crore",
+        "₹5.58 lakh crore"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Karnataka Chief Minister D.K. Shivakumar directed officials to identify five cities other than Bengaluru for industrial development. According to officials, over the last three years, Karnataka stands third in the country’s manufacturing sector by attracting investments amounting to ₹5.58 lakh crore.",
+      "background": "Decentralising industrial development beyond the capital city helps in balanced regional growth, job creation in other areas, and reduces pressure on existing metropolitan infrastructure.",
+      "examRelevance": "Karnataka CM identifies 5 cities for industrial development; state attracted ₹5.58 lakh crore investments in manufacturing in last 3 years.",
+      "tags": [
+        "Karnataka",
+        "Industrial Development",
+        "D.K. Shivakumar",
+        "Manufacturing Sector",
+        "Investment",
+        "Economy"
+      ],
+      "source": {
+        "title": "Karnataka Chief Minister D.K. Shivakumar directs officials to identify five cities other than Bengaluru for industrial development",
+        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-dk-shivakumar-directs-officials-to-identify-five-cities-other-than-bengaluru-for-industrial-development/article71401370.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q18",
+      "question": "A webinar on screen time and eye health in children, focusing on the growing concern over myopia, is scheduled to be held on which date?",
+      "options": [
+        "August 29",
+        "September 2",
+        "September 1",
+        "August 30"
+      ],
+      "answerIndex": 3,
+      "category": "Dates & Days",
+      "explanation": "A webinar on screen time and eye health in children, focusing on the growing concern over myopia and examining whether increasing screen exposure and reduced time spent outdoors are contributing to changes in children’s vision, is scheduled to be held on August 30.",
+      "background": "Myopia, or nearsightedness, is a global health concern, especially among children and adolescents, with rising prevalence attributed to lifestyle changes including increased digital device use.",
+      "examRelevance": "Webinar on screen time and eye health for children to be held on August 30.",
+      "tags": [
+        "Screen Time",
+        "Eye Health",
+        "Myopia",
+        "Children",
+        "Webinar",
+        "Dates & Days"
+      ],
+      "source": {
+        "title": "Webinar on screen time and eye health in children to be held on August 30",
+        "url": "https://www.thehindu.com/sci-tech/health/webinar-on-screentime-and-eye-health-in-children-to-be-held-on-sunday-august-30/article71387757.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q19",
+      "question": "In July 2025, the Indian government eased its rules to allow FDI in e-commerce companies holding their own inventory, provided that inventory is exclusively used for which purpose?",
+      "options": [
+        "Export",
+        "Domestic retail sales",
+        "Research and development",
+        "Government procurement"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The government in July 2025 eased its rules to mandate that FDI would be allowed in e-commerce companies that hold their own inventory as long as that inventory is only exported.",
+      "background": "Foreign Direct Investment (FDI) policies in e-commerce have been a contentious issue in India, balancing the interests of domestic retailers with attracting global investment. This specific relaxation aims to boost India's exports through e-commerce platforms.",
+      "examRelevance": "FDI in e-commerce with own inventory allowed if inventory is only exported (July 2025 rule).",
+      "tags": [
+        "FDI",
+        "E-commerce",
+        "Inventory",
+        "Export",
+        "Government Policy",
+        "Economy & Business"
+      ],
+      "source": {
+        "title": "Partial FDI opening in e-commerce “almost worse” than no opening: Competere chief",
+        "url": "https://www.thehindu.com/business/Economy/partial-fdi-opening-in-e-commerce-almost-worse-than-no-opening-competere-chief/article71373215.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q20",
+      "question": "Which state's Chief Minister recently announced that auto and taxi drivers will be given one year to learn Marathi, with no action taken during this period for not having the required knowledge of the state's official language?",
+      "options": [
+        "Gujarat",
+        "Karnataka",
+        "Maharashtra",
+        "Goa"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Maharashtra Chief Minister Fadnavis announced that his government has accepted the auto and taxi drivers’ request for more time, stating that they will get one year to learn Marathi and no action will be taken during this period for not having the required knowledge of the State’s official language.",
+      "background": "This decision comes amidst ongoing discussions and demands for local language proficiency, particularly in public service roles, to facilitate better communication with residents.",
+      "examRelevance": "Maharashtra CM grants 1 year to auto/taxi drivers to learn Marathi.",
+      "tags": [
+        "Maharashtra",
+        "Marathi Language",
+        "Auto Taxi Drivers",
+        "CM Fadnavis",
+        "Government Policy"
+      ],
+      "source": {
+        "title": "Now, Maharashtra CM says auto and taxi drivers will get 1 year to learn Marathi",
+        "url": "https://www.thehindu.com/news/national/maharashtra/now-maharashtra-cm-says-auto-and-taxi-drivers-will-get-1-year-to-learn-marathi/article71397611.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q21",
+      "question": "In which city has the Municipal Corporation initiated measures to enforce a ban on prohibited single-use plastic items, including using the 'Swachh App' for field-level monitoring and imposing fines?",
+      "options": [
+        "Guntur",
+        "Hyderabad",
+        "Vijayawada",
+        "Visakhapatnam"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The Guntur Municipal Corporation (GMC) has initiated measures to enforce the ban on prohibited single-use plastic items, with public health officials and sanitary inspectors conducting field-level monitoring and imposing fines through the ‘Swachh App’.",
+      "background": "The ban on single-use plastics is part of a broader national effort to reduce plastic waste and promote environmental sustainability. The 'Swachh App' facilitates citizen engagement and enforcement of sanitation rules.",
+      "examRelevance": "Guntur Municipal Corporation enforces single-use plastic ban using 'Swachh App'.",
+      "tags": [
+        "Guntur",
+        "Single-Use Plastic",
+        "Swachh App",
+        "Plastic Ban",
+        "Environment",
+        "Andhra Pradesh"
+      ],
+      "source": {
+        "title": "Guntur’s plastic challenge: Ban on single-use items, but used water bottles pile up in drains",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/gunturs-plastic-challenge-ban-on-single-use-items-but-used-water-bottles-pile-up-in-drains/article71403432.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q22",
+      "question": "A recent report indicates that UPI's market share is expanding significantly at the expense of which other payment methods?",
+      "options": [
+        "Net Banking and IMPS",
+        "Cheques and Demand Drafts",
+        "Mobile Wallets and QR codes",
+        "Payment cards (debit and credit)"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "A recent report suggests that UPI (Unified Payments Interface) is biting deeper into payment cards’ market share, expanding significantly at the expense of debit and credit cards.",
+      "background": "UPI has revolutionized digital payments in India, offering instant, interoperable, and free transactions. Its ease of use and widespread acceptance have led to its rapid adoption, impacting traditional payment methods.",
+      "examRelevance": "UPI's market share expands at the expense of payment cards.",
+      "tags": [
+        "UPI",
+        "Digital Payments",
+        "Payment Cards",
+        "Economy",
+        "Finance",
+        "Market Share"
+      ],
+      "source": {
+        "title": "UPI bites deeper into payment cards’ market share",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/upis-market-share-expands-more-at-debit-credit-cards-expense/articleshow/133605714.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q23",
+      "question": "Union Finance Minister Nirmala Sitharaman is currently on a nine-day joint visit to which two countries, scheduled to end on September 2?",
+      "options": [
+        "Australia and New Zealand",
+        "Canada and U.S.",
+        "UK and France",
+        "Germany and Japan"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Union Finance Minister Nirmala Sitharaman is on a nine-day joint visit to Canada and the U.S., which is scheduled to end on September 2. During her visit, she will participate in G-20 talks and meet with business leaders.",
+      "background": "Such high-level visits are crucial for bilateral economic relations, attracting foreign investments, and representing India's interests in international forums like the G-20.",
+      "examRelevance": "FM Sitharaman on nine-day joint visit to Canada and U.S., ending Sept 2.",
+      "tags": [
+        "FM Nirmala Sitharaman",
+        "Canada",
+        "U.S.",
+        "G-20",
+        "International Relations",
+        "Economy"
+      ],
+      "source": {
+        "title": "FM Sitharaman lands in U.S. for six-day visit for G-20 talks and meeting with business leaders",
+        "url": "https://www.thehindu.com/news/national/fm-sitharaman-lands-in-us-for-six-day-visit-for-g-20-talks-and-meeting-with-business-leaders/article71403322.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q24",
+      "question": "In Navi Mumbai, a BJP worker was recently caught photocopying 3,400 SIR forms containing voter details. What does SIR stand for in this context?",
+      "options": [
+        "Special Inquiry Report",
+        "Standard Information Request",
+        "Summary Revision of Electoral Rolls",
+        "System for Identity Registration"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "A BJP worker was caught photocopying 3,400 SIR forms with voter details in Navi Mumbai. SIR stands for Summary Revision of Electoral Rolls. Following the incident, 5 Booth-Level Officers (BLOs) were suspended.",
+      "background": "The Summary Revision of Electoral Rolls is a periodic exercise conducted by the Election Commission of India to update voter lists, including additions, deletions, and corrections. Misuse of these forms and voter data is a serious breach of electoral integrity.",
+      "examRelevance": "BJP worker caught photocopying 3,400 SIR (Summary Revision of Electoral Rolls) forms in Navi Mumbai.",
+      "tags": [
+        "BJP",
+        "SIR Forms",
+        "Voter Details",
+        "Navi Mumbai",
+        "Electoral Rolls",
+        "Polity & Governance"
+      ],
+      "source": {
+        "title": "BJP worker caught photocopying 3,400 SIR forms with voter details in Navi Mumbai; 5 BLOs suspended",
+        "url": "https://www.thehindu.com/news/national/maharashtra/3400-sir-forms-found-at-navi-mumbai-photocopy-shop-5-blos-suspended-sena-ubt-bjp-men-clash/article71403368.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q25",
+      "question": "SEBI recently stated that Consolidated Account Statement (CAS) is here to stay but is open to review for improvement. The regulator will soon issue a consultation paper on which related mechanism?",
+      "options": [
+        "Securities Lending and Borrowing (SLB)",
+        "Initial Public Offerings (IPOs)",
+        "Mutual Fund Investments (MFIs)",
+        "Exchange Traded Funds (ETFs)"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "SEBI stated that the Consolidated Account Statement (CAS) is here to stay but is open to review for improvement. The regulator will soon issue a consultation paper on the securities lending and borrowing (SLB) mechanism.",
+      "background": "CAS provides a single view of all investments held by an investor in mutual funds and securities. The SLB mechanism allows investors to borrow and lend securities, facilitating short selling and efficient market operations.",
+      "examRelevance": "SEBI to issue consultation paper on Securities Lending and Borrowing (SLB) mechanism.",
+      "tags": [
+        "SEBI",
+        "CAS",
+        "SLB",
+        "Securities Market",
+        "Economy & Business",
+        "Regulation"
+      ],
+      "source": {
+        "title": "CAS here to stay, but open to review for improvement: SEBI",
+        "url": "https://www.thehindu.com/business/markets/cas-here-to-stay-but-open-to-review-for-improvement-sebi/article71356882.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q26",
+      "question": "A decade-old study published recently indicated that the relocation of a livestock carcass dump from near power lines has been effective in preventing electrocution for vultures near which city?",
+      "options": [
+        "Nainital",
+        "Shimla",
+        "Gangtok",
+        "Dehradun"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "A decade-old study, published in a journal recently, indicates that the relocation of a livestock carcass dump from near power lines at Sudhauwala has been effective in preventing electrocution for vultures near Dehradun.",
+      "background": "Vultures are critically endangered scavengers, and their populations have suffered due to various threats, including poisoning and electrocution from power lines. Conservation efforts often involve mitigating such human-induced risks.",
+      "examRelevance": "Relocation of carcass dump near Dehradun effective in preventing vulture electrocution.",
+      "tags": [
+        "Vultures",
+        "Dehradun",
+        "Carcass Dump",
+        "Electrocution",
+        "Wildlife Conservation",
+        "Environment"
+      ],
+      "source": {
+        "title": "For vultures near Dehradun, 2.4 km separates survival from electrocution",
+        "url": "https://www.thehindu.com/news/national/other-states/for-vultures-near-dehradun-24-km-separates-survival-from-electrocution/article71403683.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q27",
+      "question": "The Supreme Court is scheduled to hear a plea on August 31 seeking mandatory disclosure of which content in petrol at fuel stations?",
+      "options": [
+        "Lead content",
+        "Sulphur content",
+        "Octane rating",
+        "Ethanol content"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court is scheduled to hear a plea on August 31 seeking mandatory disclosure of ethanol content in petrol. The plea also seeks a direction that every fuel invoice should specifically and legibly state the percentage of ethanol in the petrol sold.",
+      "background": "Ethanol blending in petrol is part of India's strategy to reduce crude oil imports, promote cleaner fuels, and support the agricultural sector. Transparency regarding the blend percentage is important for consumers and environmental monitoring.",
+      "examRelevance": "SC to hear plea on Aug 31 for mandatory disclosure of ethanol content in petrol.",
+      "tags": [
+        "Supreme Court",
+        "Ethanol Blending",
+        "Petrol",
+        "Fuel Disclosure",
+        "Polity & Governance"
+      ],
+      "source": {
+        "title": "SC to hear plea seeking mandatory disclosure of ethanol content in petrol on August 31",
+        "url": "https://www.thehindu.com/news/national/sc-to-hear-plea-seeking-mandatory-disclosure-of-ethanol-content-in-petrol-on-august-31/article71403783.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q28",
+      "question": "Max Estates recently announced its plan to acquire an 84.71-acre land parcel for approximately Rs 420 crore in which region of Delhi?",
+      "options": [
+        "West Delhi",
+        "East Delhi",
+        "South Delhi",
+        "North Delhi"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Max Estates is set to acquire an 84.71-acre land parcel in West Delhi for approximately Rs 420 crore.",
+      "background": "This acquisition is part of Max Estates' strategy to expand its real estate portfolio, likely for developing residential or commercial projects in the National Capital Region.",
+      "examRelevance": "Max Estates to acquire 84.71-acre land in West Delhi for Rs 420 crore.",
+      "tags": [
+        "Max Estates",
+        "Land Acquisition",
+        "West Delhi",
+        "Real Estate",
+        "Economy & Business"
+      ],
+      "source": {
+        "title": "Max Estates to buy 84.71-acre in West Delhi",
+        "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/max-estates-to-acquire-84-71-acre-land-in-west-delhi-for-rs-420-crore/articleshow/133604765.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q29",
+      "question": "The Trump government is reportedly considering a deal to give away part of which national park to a private developer?",
+      "options": [
+        "Yellowstone National Park",
+        "Zion National Park",
+        "Grand Canyon National Park",
+        "Yosemite National Park"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The Trump government is reportedly mulling a deal to give away part of Yosemite National Park to a private developer. The Yosemite NPS Employees Union has expressed strong opposition, calling it \"antithetical to what we stand for\" as stewards of the park.",
+      "background": "Yosemite National Park is a UNESCO World Heritage site known for its dramatic cliffs, waterfalls, giant sequoia groves, and biological diversity. Ceding public lands to private interests often raises concerns about conservation, public access, and commercialization.",
+      "examRelevance": "Trump government considering giving part of Yosemite National Park to private developer.",
+      "tags": [
+        "Trump Government",
+        "Yosemite National Park",
+        "Private Developer",
+        "Public Land",
+        "Environment",
+        "International"
+      ],
+      "source": {
+        "title": "Trump government mulls deal to give away part of Yosemite park to a private developer",
+        "url": "https://www.thehindu.com/news/international/trump-government-mulls-deal-to-give-away-part-of-yosemite-park-to-a-private-developer/article71403666.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-29-q30",
+      "question": "The pre-Budget meetings for the Union Budget 2027 are scheduled to begin on which date?",
+      "options": [
+        "September 12",
+        "October 12",
+        "December 12",
+        "November 12"
+      ],
+      "answerIndex": 1,
+      "category": "Dates & Days",
+      "explanation": "The pre-Budget meetings for the Union Budget 2027 are scheduled to begin on October 12, with the Finance Ministry seeking spending and revenue plans from various departments.",
+      "background": "Pre-Budget meetings are a crucial part of the annual budget-making process, where the Finance Ministry consults with different ministries, departments, and stakeholders to gather inputs for the upcoming budget.",
+      "examRelevance": "Pre-Budget meetings for Union Budget 2027 to begin on October 12.",
+      "tags": [
+        "Union Budget 2027",
+        "Pre-Budget Meetings",
+        "Finance Ministry",
+        "Economy",
+        "Dates & Days"
+      ],
+      "source": {
+        "title": "Pre-Budget meetings for 2027 to begin October 12",
+        "url": "https://economictimes.indiatimes.com/news/economy/policy/budget-2027-finance-ministry-sets-october-12-for-pre-budget-meetings-seeks-spending-and-revenue-plans/articleshow/133604344.cms"
+      }
+    }
+  ]
+}
