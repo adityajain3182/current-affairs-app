@@ -1,0 +1,784 @@
+{
+  "id": "daily-2026-08-31",
+  "type": "daily",
+  "date": "2026-08-31",
+  "title": "Current Affairs — 31 Aug 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-08-31-q1",
+      "question": "As part of India’s plan to begin natural-capital and climate-risk accounting, a monetary value is being assigned to which of the following to measure the wealth contained in oceans?",
+      "options": [
+        "Coastal biodiversity hotpots",
+        "Deep-sea mineral deposits",
+        "Marine fish stocks",
+        "Submarine oil and gas reserves"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "India is initiating natural-capital and climate-risk accounting by assigning a monetary value to marine fish stocks found in both coastal and inland waters within exclusive economic zones (EEZs). This step aims to measure the wealth contained in oceans.",
+      "background": "The move reflects a growing global recognition of the need to integrate environmental considerations into economic planning and national accounting. Natural capital accounting helps countries understand the economic benefits derived from ecosystems and natural resources.",
+      "examRelevance": "India's natural-capital accounting plan includes valuing marine fish stocks.",
+      "tags": [
+        "Natural Capital Accounting",
+        "Marine Fish Stocks",
+        "Oceans",
+        "EEZ"
+      ],
+      "source": {
+        "title": "India’s plan to begin natural-capital and climate-risk accounting | Explained",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/indias-plan-to-begin-natural-capital-and-climate-risk-accounting-explained/article71409872.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q2",
+      "question": "The next decennial Indian Census, which is currently being discussed in the context of its historical questionnaire and statecraft, is scheduled to be held in which year?",
+      "options": [
+        "2027",
+        "2025",
+        "2026",
+        "2028"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Indian census, a decennial exercise, is mentioned in the context of 'Census 2027', indicating that the next census is planned for 2027. Its changing questions have historically mirrored India’s developmental trajectory and political priorities.",
+      "background": "The Indian census is one of the largest administrative exercises in the world, collecting comprehensive demographic, social, and economic data. The previous census was due in 2021 but was delayed due to various reasons.",
+      "examRelevance": "The next Indian Census is anticipated in 2027.",
+      "tags": [
+        "Census",
+        "Indian Census",
+        "Census 2027",
+        "Demography"
+      ],
+      "source": {
+        "title": "Census 2027: Statistics and Statecraft",
+        "url": "https://www.thehindu.com/news/national/census-2027-statistics-and-statecraft/article71409894.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q3",
+      "question": "According to recent reports, UAE dealt with a drone coming from Iran over its waters, which Iran stated was a response to killings on which island?",
+      "options": [
+        "Sirri Island",
+        "Greater Tunb Island",
+        "Abu Musa Island",
+        "Larak Island"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The UAE reported dealing with a drone originating from Iran over its waters. Tehran stated that this action was in response to the killing of Iran’s Revolutionary Guards and Iranian civilians on Larak Island.",
+      "background": "This incident highlights the ongoing tensions in the West Asia region, particularly between Iran and its regional adversaries, often involving drone attacks and retaliatory strikes, impacting maritime security in critical waterways like the Strait of Hormuz.",
+      "examRelevance": "Iran's drone attack on UAE was in response to killings on Larak Island.",
+      "tags": [
+        "Iran",
+        "UAE",
+        "Drone Attack",
+        "Larak Island",
+        "West Asia"
+      ],
+      "source": {
+        "title": "West Asia LIVE: UAE says dealt with drone coming from Iran over its waters",
+        "url": "https://www.thehindu.com/news/international/west-asia-war-us-attack-on-iran-live-updates-donald-trump-strait-of-hormuz-news-august-31-2026/article71409553.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q4",
+      "question": "Prime Minister Narendra Modi recently visited which country to participate in the SCO summit being held from August 31 to September 1?",
+      "options": [
+        "Uzbekistan",
+        "Tajikistan",
+        "Kyrgyzstan",
+        "Kazakhstan"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Prime Minister Narendra Modi is visiting Kyrgyzstan at the invitation of President Sadyr Zhaparov to participate in the Shanghai Cooperation Organisation (SCO) summit, which is scheduled from August 31 to September 1.",
+      "background": "The SCO is a Eurasian political, economic, and security organization. India became a full member of the SCO in 2017, and its participation in such summits is crucial for regional diplomacy and cooperation on security and economic matters.",
+      "examRelevance": "PM Modi attended the SCO summit in Kyrgyzstan.",
+      "tags": [
+        "PM Modi",
+        "Kyrgyzstan",
+        "SCO Summit",
+        "International Relations"
+      ],
+      "source": {
+        "title": "PM Modi pays tribute to Mahatma Gandhi in Kyrgyzstan",
+        "url": "https://www.thehindu.com/news/national/pm-modi-kyrgyzstan-sco-russia-china-meeting/article71409892.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q5",
+      "question": "The milk procurement price in Tamil Nadu has been further increased to what amount per litre, following an earlier hike?",
+      "options": [
+        "₹40",
+        "₹44",
+        "₹41",
+        "₹42"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The milk procurement price in Tamil Nadu has been further increased to ₹44 per litre. This follows an earlier announcement by CM Vijay to raise the price by ₹3 per litre, from ₹38 to ₹41, last week.",
+      "background": "Such price revisions are often undertaken to support dairy farmers, cover increasing production costs, and ensure a stable supply of milk. State governments frequently intervene in procurement prices to balance farmer welfare and consumer affordability.",
+      "examRelevance": "Tamil Nadu milk procurement price increased to ₹44 per litre.",
+      "tags": [
+        "Tamil Nadu",
+        "Milk Price",
+        "Procurement Price",
+        "Dairy Farmers"
+      ],
+      "source": {
+        "title": "Milk procurement price in Tamil Nadu increased further to ₹44 per litre",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/milk-procurement-price-in-tamil-nadu-increased-further-to-44-per-litre/article71409827.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q6",
+      "question": "The death toll from the catastrophic flash floods in Nepal and Tibet has recently climbed past what number, with thousands still missing?",
+      "options": [
+        "1100",
+        "700",
+        "500",
+        "900"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The death toll from the catastrophic flash floods in Nepal and Tibet has climbed past 900, with over 4,700 people still reported missing. Nepal's Prime Minister Balendra Shah described it as an 'unimaginable and heartbreaking' disaster.",
+      "background": "The Hindu Kush Himalayas region is highly vulnerable to climate change impacts, including increased frequency and intensity of extreme weather events like flash floods and landslides. Geo-scientists have warned against excessive infrastructure building in the region.",
+      "examRelevance": "Nepal flash floods death toll crossed 900.",
+      "tags": [
+        "Nepal",
+        "Flash Floods",
+        "Tibet",
+        "Natural Disaster",
+        "Hindu Kush Himalayas"
+      ],
+      "source": {
+        "title": "Nepal flash floods LIVE: Death toll goes past 900; over 4,000 still missing",
+        "url": "https://www.thehindu.com/news/international/nepal-flash-floods-aftermath-live-udpates-rescue-work-august-31-2026/article71409646.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q7",
+      "question": "The Indian government is exploring the concept of 'One Nation, One Time' to establish a common time reference, primarily driven by the increasing use of which type of systems?",
+      "options": [
+        "Agricultural planning and irrigation systems",
+        "Energy grid management systems",
+        "Public transportation networks",
+        "Digital and technology-based systems"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "The government is considering the 'One Nation, One Time' concept to establish a common time reference across India. This initiative is largely prompted by the growing reliance on digital and technology-based systems, which necessitate precise time synchronization.",
+      "background": "India currently observes a single time zone (Indian Standard Time - IST) throughout the country, despite its vast longitudinal expanse. The discussion around 'One Nation, One Time' aims to address potential challenges and optimize various operations in a digitally evolving landscape.",
+      "examRelevance": "The 'One Nation, One Time' initiative is driven by digital and technology-based systems.",
+      "tags": [
+        "One Nation One Time",
+        "Indian Standard Time",
+        "Digital Systems",
+        "Technology"
+      ],
+      "source": {
+        "title": "What is ‘One Nation, One Time’? How it works?",
+        "url": "https://www.thehindu.com/news/national/what-is-one-nation-one-time-how-it-works/article71409841.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q8",
+      "question": "Which geo-scientist recently warned that the Nepal flash floods are a 'wake-up call' against the infrastructure building spree across the Himalayas, citing unstable slopes and reduced river efficiency?",
+      "options": [
+        "S.P. Singh",
+        "C.P. Rajendran",
+        "V.K. Gaur",
+        "K.S. Valdiya"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Geo-scientist C.P. Rajendran, adjunct professor at National Institute of Advanced Studies, Bengaluru, warned that the recent Nepal flash floods serve as a 'wake-up call' against the rapid infrastructure building in the Himalayas. He highlighted unstable slopes and reduced river efficiency as major concerns.",
+      "background": "The Himalayan region is seismically active and ecologically fragile. Extensive development projects without adequate environmental impact assessments can exacerbate natural hazards like landslides and floods, posing severe risks to human life and ecosystems.",
+      "examRelevance": "Geo-scientist C.P. Rajendran warned against infrastructure building in the Himalayas.",
+      "tags": [
+        "C.P. Rajendran",
+        "Nepal Flash Floods",
+        "Himalayas",
+        "Infrastructure",
+        "Environmental Impact"
+      ],
+      "source": {
+        "title": "Nepal flash floods: A wake-up call against infrastructure building spree across Himalayas, warns geo-scientist C.P. Rajendran",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/nepal-flash-floods-a-wake-up-call-against-infrastructure-building-spree-across-himalayas-warns-geo-scientist-cp-rajendran/article71409672.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q9",
+      "question": "Which United Nations body recently issued a report on India, urging it not to normalise a culture of discrimination?",
+      "options": [
+        "UNICEF (United Nations Children's Fund)",
+        "UNHRC (United Nations Human Rights Council)",
+        "UNDP (United Nations Development Programme)",
+        "UN CERD (Committee on the Elimination of Racial Discrimination)"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The UN CERD (Committee on the Elimination of Racial Discrimination) recently issued a report concerning India, emphasizing that India must not normalize a culture of discrimination.",
+      "background": "The Committee on the Elimination of Racial Discrimination is the body of independent experts that monitors implementation of the Convention on the Elimination of All Forms of Racial Discrimination by its State parties. Reports from such bodies often assess a country's compliance with international human rights treaties.",
+      "examRelevance": "UN CERD issued a report on discrimination in India.",
+      "tags": [
+        "UN CERD",
+        "United Nations",
+        "Discrimination",
+        "Human Rights",
+        "India"
+      ],
+      "source": {
+        "title": "State of exception: On India, the UN CERD report",
+        "url": "https://www.thehindu.com/opinion/editorial/state-of-exception-on-india-the-un-cerd-report/article71407847.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q10",
+      "question": "India and Brazil recently agreed to expedite finalisation of terms of reference for negotiations to expand the scope of the existing trade pact with which South American bloc?",
+      "options": [
+        "CARICOM",
+        "Mercosur",
+        "Andean Community",
+        "Pacific Alliance"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "India and Brazil have agreed to work towards early finalisation of terms of reference to start negotiations for expanding the scope of the existing trade pact with the South American bloc Mercosur. India has also called for a more predictable regulatory environment in Brazil to boost pharma exports.",
+      "background": "Mercosur is a South American trade bloc established in 1991, comprising Argentina, Brazil, Paraguay, and Uruguay. India has a Preferential Trade Agreement (PTA) with Mercosur, and expanding its scope would significantly boost bilateral trade relations.",
+      "examRelevance": "India and Brazil agreed to expand the trade pact with Mercosur.",
+      "tags": [
+        "India-Brazil",
+        "Mercosur",
+        "Trade Pact",
+        "Pharma Exports",
+        "International Trade"
+      ],
+      "source": {
+        "title": "India calls for more predictable regulatory environment in Brazil to boost pharma exports",
+        "url": "https://www.thehindu.com/news/national/india-calls-for-more-predictable-regulatory-environment-in-brazil-to-boost-pharma-exports/article71409833.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q11",
+      "question": "Which theatre group is set to organise a month-long 'Karantha Maasa' celebration in September, with a theatre festival scheduled from September 5 to 22?",
+      "options": [
+        "Ranga Shankara",
+        "Benaka",
+        "Ninasam",
+        "Rangayana"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "The theatre group Benaka is scheduled to organise a month-long 'Karantha Maasa' celebration in September. The associated theatre festival will take place from September 5 to 22.",
+      "background": "Karantha Maasa is likely a tribute to K. Shivaram Karanth, a prominent Kannada writer, novelist, playwright, and environmentalist. Such celebrations help preserve and promote the legacy of influential cultural figures.",
+      "examRelevance": "Benaka group to organise 'Karantha Maasa' theatre festival.",
+      "tags": [
+        "Benaka",
+        "Karantha Maasa",
+        "Theatre Festival",
+        "Art & Culture",
+        "Karnataka"
+      ],
+      "source": {
+        "title": "Benaka to organise month-long ‘Karantha Maasa’ celebration in September",
+        "url": "https://www.thehindu.com/news/national/karnataka/benaka-to-organise-month-long-karantha-maasa-celebration-in-september/article71408334.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q12",
+      "question": "India's bitumen supply situation has improved recently due to increased domestic output and higher imports of crude from which country?",
+      "options": [
+        "Iraq",
+        "Saudi Arabia",
+        "Russia",
+        "Venezuela"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "India’s bitumen supply situation has improved after a sharp squeeze, primarily due to increased domestic output and higher imports of Venezuelan crude. However, prices still remain substantially above pre-conflict levels.",
+      "background": "Bitumen is a key material used in road and highway construction. The shift in crude sourcing and improved supply are critical for India's infrastructure projects, although sustained high prices continue to be a concern for project costs.",
+      "examRelevance": "India's bitumen supply improved with Venezuelan crude imports.",
+      "tags": [
+        "Bitumen",
+        "Venezuela",
+        "Crude Oil",
+        "Imports",
+        "Road Construction"
+      ],
+      "source": {
+        "title": "Bitumen deficit bridged, price issue persists",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/roadways/bitumen-deficit-bridged-but-price-problem-persists-indias-roads-set-to-face-a-real-test-this-winter/articleshow/133643918.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q13",
+      "question": "Which deep-sea diving vessel was recently commissioned by the Indian Navy in the presence of Navy Chief Admiral Krishna Swaminathan?",
+      "options": [
+        "INS Sindhuraj",
+        "INS Nipun",
+        "INS Dhruv",
+        "INS Nistar"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "The Indian Navy recently commissioned the deep-sea diving vessel INS Nipun. The commissioning ceremony was attended by Navy Chief Admiral Krishna Swaminathan.",
+      "background": "Deep-sea diving support vessels are crucial for naval operations, including submarine rescue, underwater repairs, and hydrographic surveys. These vessels enhance the Navy's capabilities in various specialized underwater tasks.",
+      "examRelevance": "Indian Navy commissioned deep-sea diving vessel INS Nipun.",
+      "tags": [
+        "Indian Navy",
+        "INS Nipun",
+        "Deep-sea Diving Vessel",
+        "Defence",
+        "Commissioning"
+      ],
+      "source": {
+        "title": "Indian Navy commissions deep-sea diving vessel INS Nipun",
+        "url": "https://www.thehindu.com/news/national/indian-navy-commissions-deep-sea-diving-vessel-ins-nipun/article71409836.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q14",
+      "question": "Which tennis legend was recently inducted into the Hall of Fame alongside broadcaster and journalist Mary Carillo?",
+      "options": [
+        "Novak Djokovic",
+        "Rafael Nadal",
+        "Andy Murray",
+        "Roger Federer"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Tennis legend Roger Federer was recently inducted into the Hall of Fame. He was inducted alongside broadcaster and journalist Mary Carillo, delivering an emotional speech during the ceremony.",
+      "background": "Roger Federer is widely regarded as one of the greatest tennis players of all time, holding numerous records and Grand Slam titles. His induction into the Hall of Fame marks a significant recognition of his illustrious career and contributions to the sport.",
+      "examRelevance": "Roger Federer was inducted into the Hall of Fame.",
+      "tags": [
+        "Roger Federer",
+        "Tennis",
+        "Hall of Fame",
+        "Sports",
+        "Mary Carillo"
+      ],
+      "source": {
+        "title": "Emotional Federer full of love and gratitude at Hall of Fame induction",
+        "url": "https://www.thehindu.com/sport/tennis/emotional-federer-full-of-love-and-gratitude-at-hall-of-fame-induction/article71406988.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q15",
+      "question": "Which tennis player suffered an unprecedented first-round exit at the U.S. Open, losing to Mariano Navone in a five-set marathon?",
+      "options": [
+        "Jannik Sinner",
+        "Carlos Alcaraz",
+        "Daniil Medvedev",
+        "Novak Djokovic"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Novak Djokovic suffered an unprecedented first-round exit at the U.S. Open. The 39-year-old lost to Mariano Navone in a five-set marathon that lasted four hours and 36 minutes.",
+      "background": "This marks a significant upset as Djokovic is one of the most dominant players in tennis history, rarely losing in the early rounds of Grand Slam tournaments. His early exit will be a major talking point in the tennis world.",
+      "examRelevance": "Novak Djokovic lost in the first round of the U.S. Open.",
+      "tags": [
+        "Novak Djokovic",
+        "U.S. Open",
+        "Tennis",
+        "Mariano Navone",
+        "Sports"
+      ],
+      "source": {
+        "title": "U.S. Open: Djokovic suffers unprecedented first round exit",
+        "url": "https://www.thehindu.com/sport/tennis/us-open-djokovic-loses-in-opening-round-for-first-time/article71409727.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q16",
+      "question": "According to a recent report by the Wildlife Institute of India, which of the following is NOT listed as a persistent hotspot for elephant mortality and human casualties in Kerala?",
+      "options": [
+        "Chittar",
+        "Periyar",
+        "Kanan Devan Hills",
+        "Kuttampuzha"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "A report released by the Wildlife Institute of India lists Kanan Devan Hills, Kuttampuzha, Chittar, Mankulam, Padavayal, and Peechi as persistent hotspots for elephant mortality and human casualties in Kerala. Periyar is not mentioned in the provided list of hotspots.",
+      "background": "Human-elephant conflict is a significant conservation challenge in India, particularly in states with high elephant populations like Kerala. Identifying and addressing these hotspots is crucial for developing effective mitigation strategies and ensuring the safety of both humans and wildlife.",
+      "examRelevance": "Wildlife Institute of India identified elephant mortality hotspots in Kerala.",
+      "tags": [
+        "Wildlife Institute of India",
+        "Elephant Mortality",
+        "Human-Elephant Conflict",
+        "Kerala",
+        "Hotspots"
+      ],
+      "source": {
+        "title": "Wildlife Institute of India report lists persistent hotspots for elephant mortality and human casualties in Keralam",
+        "url": "https://www.thehindu.com/news/national/kerala/report-lists-persistent-hotspots-for-elephant-mortality-and-human-casualties-in-keralam/article71408251.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q17",
+      "question": "Which electric two-wheeler company recently launched its new Konarc electric scooter at a starting price of ₹99,999?",
+      "options": [
+        "Bajaj Auto",
+        "TVS Motor Company",
+        "Ola Electric",
+        "Ather Energy"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Ather Energy, an electric two-wheeler company, recently launched its new Konarc electric scooter at a starting price of ₹99,999. The company aims to position this model as a more accessible option for Indian riders.",
+      "background": "The electric vehicle market in India is rapidly expanding, with numerous companies introducing new models to cater to growing demand. Ather Energy is a prominent player in the electric scooter segment, known for its focus on performance and technology.",
+      "examRelevance": "Ather Energy launched the Konarc electric scooter.",
+      "tags": [
+        "Ather Energy",
+        "Konarc",
+        "Electric Scooter",
+        "Electric Vehicles",
+        "Two-wheeler"
+      ],
+      "source": {
+        "title": "Ather Energy shares rally 4% after launch of Konarc electric scooter at Rs 99,999. Buy, sell or hold the stock?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-rally-4-after-launch-of-konarc-electric-scooter-at-rs-99999-buy-sell-or-hold-the-stock/articleshow/133643336.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q18",
+      "question": "The National Highways Authority of India (NHAI) has introduced a new rule mandating the use of AI-powered machines to ensure top-quality and pothole-free highways for projects above what value?",
+      "options": [
+        "₹750 crore",
+        "₹500 crore",
+        "₹200 crore",
+        "₹1000 crore"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The National Highways Authority of India (NHAI) has implemented a new rule that requires the use of AI-powered machines to ensure top-quality and pothole-free highways. This mandate applies to all highway projects exceeding ₹500 crore.",
+      "background": "This initiative aims to improve the quality and durability of India's extensive highway network, reduce maintenance costs, and enhance road safety. Integrating AI technology in construction oversight represents a significant step towards modernizing infrastructure development.",
+      "examRelevance": "NHAI mandates AI for highway projects above ₹500 crore.",
+      "tags": [
+        "NHAI",
+        "AI-powered Machines",
+        "Highways",
+        "Infrastructure",
+        "Quality Control"
+      ],
+      "source": {
+        "title": "NHAI’s new rule to ensure top-quality highways",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/roadways/nhais-new-ai-rule-for-pothole-free-top-quality-highways-how-projects-above-rs-500-crore-will-now-have-to-use-ai-powered-machines-to-prevent-quality-shortcuts/articleshow/133643029.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q19",
+      "question": "Who has been appointed as the new CEO of Apple, succeeding Tim Cook, who will transition to the role of the company’s Executive Chairman?",
+      "options": [
+        "Craig Federighi",
+        "John Ternus",
+        "Deirdre O'Brien",
+        "Jeff Williams"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "John Ternus, previously the hardware chief, has been appointed as the new CEO of Apple. He succeeds Tim Cook, who has led Apple since 2011 and will now serve as the company’s Executive Chairman.",
+      "background": "John Ternus's appointment comes at a crucial time for Apple, as the tech industry is heavily focused on advancements in artificial intelligence. He is credited with leading the Mac to become more powerful and popular, including the introduction of the MacBook Neo.",
+      "examRelevance": "John Ternus is the new CEO of Apple; Tim Cook is Executive Chairman.",
+      "tags": [
+        "John Ternus",
+        "Apple CEO",
+        "Tim Cook",
+        "Appointments",
+        "Technology"
+      ],
+      "source": {
+        "title": "Tim Cook to step down as Apple CEO as hardware chief John Ternus takes over",
+        "url": "https://www.thehindu.com/business/Industry/apple-ceo-john-ternus-tim-cook-steps-down/article70886197.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q20",
+      "question": "Under the leadership of the new Apple CEO, John Ternus, which product line reportedly became more powerful and popular, culminating in the recent introduction of the MacBook Neo?",
+      "options": [
+        "Mac",
+        "iPad",
+        "Apple Watch",
+        "iPhone"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Under John Ternus's leadership, the Mac product line reportedly became more powerful and popular than at any point in its four-decade history. This period culminated in the recent introduction of the MacBook Neo.",
+      "background": "John Ternus, now Apple's CEO, was previously the hardware chief. His contributions to the Mac's resurgence, including the development of new models like the MacBook Neo, highlight his significant impact on Apple's product strategy and innovation.",
+      "examRelevance": "John Ternus led the Mac product line, which includes the MacBook Neo.",
+      "tags": [
+        "John Ternus",
+        "Apple",
+        "MacBook Neo",
+        "Mac",
+        "Hardware"
+      ],
+      "source": {
+        "title": "John Ternus: Apple’s quiet architect",
+        "url": "https://www.thehindu.com/sci-tech/technology/john-ternus-apples-quiet-architect/article70887670.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q21",
+      "question": "U.S. Treasury Secretary Scott Bessent suggested that G20 countries should consider more trade barriers on which country to address current trade imbalances?",
+      "options": [
+        "Japan",
+        "India",
+        "Russia",
+        "China"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "U.S. Treasury Secretary Scott Bessent stated in an interview that G20 countries should consider imposing more trade barriers on China. He argued that the current flood of exports from China is unsustainable, despite an improving U.S. direct trade position with China.",
+      "background": "Trade imbalances with China have been a long-standing concern for many developed economies, including the U.S. Discussions at G20 finance leaders' meetings often include strategies to foster balanced global trade and address issues like industrial overcapacity and subsidies.",
+      "examRelevance": "Scott Bessent suggested G20 consider trade barriers on China.",
+      "tags": [
+        "G20",
+        "China",
+        "Trade Barriers",
+        "Scott Bessent",
+        "Trade Imbalances"
+      ],
+      "source": {
+        "title": "G20 countries should consider more trade barriers on China to cut imbalances, Bessent says",
+        "url": "https://www.thehindu.com/news/international/g20-countries-should-consider-more-trade-barriers-on-china-to-cut-imbalances-bessent-says/article71409702.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q22",
+      "question": "Several charges related to the National Pension System (NPS), including Point of Presence (POP) onboarding and annual charges, are set to change from which date?",
+      "options": [
+        "October 1",
+        "December 1",
+        "September 1",
+        "November 1"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Various charges associated with the National Pension System (NPS), such as Point of Presence (POP) onboarding and annual charges, are scheduled to be revised and change from October 1.",
+      "background": "NPS is a voluntary, defined contribution retirement savings scheme in India. Changes in charges can impact subscribers' net returns and are usually implemented to streamline operations or adjust to market conditions, overseen by the Pension Fund Regulatory and Development Authority (PFRDA).",
+      "examRelevance": "NPS charges will be revised from October 1.",
+      "tags": [
+        "NPS",
+        "National Pension System",
+        "Charges",
+        "Retirement",
+        "Investment"
+      ],
+      "source": {
+        "title": "These NPS charges will change from October 1",
+        "url": "https://economictimes.indiatimes.com/wealth/invest/nps-charges-revised-from-october-1-2026-check-new-pop-onboarding-and-annual-charges-for-nps-nps-lite/articleshow/133642897.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q23",
+      "question": "Which author recently published 'A Woman of No Consequence: Memory, Letters and Resistance in Madras'?",
+      "options": [
+        "Kiran Desai",
+        "Anita Desai",
+        "Kalpana Karunakaran",
+        "Arundhati Roy"
+      ],
+      "answerIndex": 2,
+      "category": "Books & Authors",
+      "explanation": "Kalpana Karunakaran is the author of the book 'A Woman of No Consequence: Memory, Letters and Resistance in Madras'. She recently spoke about Madras as a place where women found home and freedom.",
+      "background": "This book likely explores themes of women's history, resistance, and urban life in Madras (now Chennai) through personal narratives and historical accounts. Such works contribute to understanding social dynamics and historical contexts.",
+      "examRelevance": "Kalpana Karunakaran authored 'A Woman of No Consequence'.",
+      "tags": [
+        "Kalpana Karunakaran",
+        "A Woman of No Consequence",
+        "Madras",
+        "Books",
+        "Authors"
+      ],
+      "source": {
+        "title": "Madras, a place where women found home, and freedom, says Kalpana Karunakaran",
+        "url": "https://www.thehindu.com/news/cities/chennai/madras-a-place-where-women-found-home-and-freedom-says-kalpana-karunakaran/article71335130.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q24",
+      "question": "The 'School Theek Karo' campaign, which addresses issues like garbage, water shortages, and broken fans in educational institutions, is associated with which organization?",
+      "options": [
+        "CJP (Citizens' Justice Party)",
+        "AAP (Aam Aadmi Party)",
+        "Teach for India",
+        "NGO Pratham"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The 'School Theek Karo' campaign, which highlights problems such as garbage, water shortages, and broken fans within schools, is associated with the CJP (Citizens' Justice Party).",
+      "background": "The CJP has been actively campaigning on issues related to public education and infrastructure. Such grassroots movements often aim to bring public attention to systemic problems and advocate for improvements in public services.",
+      "examRelevance": "CJP launched the 'School Theek Karo' campaign.",
+      "tags": [
+        "CJP",
+        "School Theek Karo",
+        "Education Campaign",
+        "Public Schools",
+        "Citizens' Justice Party"
+      ],
+      "source": {
+        "title": "Garbage, water shortages and broken fans: inside CJP’s ‘School Theek Karo’ campaign",
+        "url": "https://www.thehindu.com/education/garbage-water-shortages-and-broken-fans-inside-cjps-school-theek-karo-campaign/article71404938.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q25",
+      "question": "Which Indian food delivery and restaurant aggregator company is reportedly planning to lay off 250 people as it shuts down its Hyderabad customer support centre?",
+      "options": [
+        "Swiggy",
+        "Ecom Express",
+        "Zomato",
+        "Dunzo"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Zomato, the Indian food delivery and restaurant aggregator, is reportedly planning to lay off 250 employees. This decision comes as the company is shutting down its customer support centre in Hyderabad.",
+      "background": "Layoffs in the tech and startup sector are often attributed to cost-cutting measures, restructuring, or a shift in operational strategies, especially in a competitive market like food delivery. Hyderabad is a major hub for IT and customer support operations.",
+      "examRelevance": "Zomato is laying off 250 people and closing its Hyderabad customer support centre.",
+      "tags": [
+        "Zomato",
+        "Layoffs",
+        "Hyderabad",
+        "Food Delivery",
+        "Customer Support"
+      ],
+      "source": {
+        "title": "Exclusive: Zomato to lay off 250 people",
+        "url": "https://economictimes.indiatimes.com/tech/technology/exclusive-zomato-to-lay-off-250-people-as-it-shuts-hyderabad-customer-support-centre/articleshow/133642872.cms"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q26",
+      "question": "Recent data indicates alarming deletions in Karnataka’s draft electoral rolls, with five constituencies in the core Bengaluru region showing deletions of more than what percentage of their rolls?",
+      "options": [
+        "25%",
+        "50%",
+        "30%",
+        "40%"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Recent data has revealed alarming deletions in Karnataka’s draft electoral rolls, particularly in the core Bengaluru region. Five constituencies within this area have seen over 50% of their electoral rolls deleted, a figure unseen in other major States.",
+      "background": "Electoral roll deletions are a critical issue as they can disenfranchise eligible voters. Transparency in the deletion process and accessibility of deletion lists are crucial for maintaining the integrity of the electoral system and preventing voter suppression.",
+      "examRelevance": "Over 50% of electoral rolls deleted in 5 Bengaluru constituencies in Karnataka.",
+      "tags": [
+        "Karnataka",
+        "Electoral Rolls",
+        "Bengaluru",
+        "Voter Deletions",
+        "Election Commission"
+      ],
+      "source": {
+        "title": "Deletions in Karnataka’s draft SIR rolls alarming | Data",
+        "url": "https://www.thehindu.com/data/deletions-in-karnatakas-draft-sir-rolls-alarming-data/article71391961.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q27",
+      "question": "The Nellore Mahalakshmi temple is set for reconstruction with a total funding of ₹1.01 crore, largely contributed by which community?",
+      "options": [
+        "Kamma community",
+        "Vaishya community",
+        "Balija Kapu community",
+        "Reddy community"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "The Nellore Mahalakshmi temple is scheduled for reconstruction with a total budget of ₹1.01 crore. This funding was recently achieved through contributions, especially from the Balija Kapu community.",
+      "background": "Temple reconstructions and renovations are often community-driven initiatives, reflecting the cultural and religious significance of these sites. Such projects help preserve heritage and provide spiritual spaces for devotees.",
+      "examRelevance": "Nellore Mahalakshmi temple reconstruction funded by Balija Kapu community.",
+      "tags": [
+        "Nellore Mahalakshmi Temple",
+        "Andhra Pradesh",
+        "Temple Reconstruction",
+        "Balija Kapu Community",
+        "Donations"
+      ],
+      "source": {
+        "title": "Nellore Mahalakshmi temple set for reconstruction with ₹1.01 crore funding",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/nellore-mahalakshmi-temple-set-for-reconstruction-with-101-crore-funding/article71408164.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q28",
+      "question": "In early trade, the Indian Rupee fell by 13 paise to what value against the U.S. dollar?",
+      "options": [
+        "90.15",
+        "95.56",
+        "79.80",
+        "83.25"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "In early trade, the Indian Rupee depreciated by 13 paise, reaching 95.56 against the U.S. dollar. This movement was observed amid weak global market trends and foreign fund outflows.",
+      "background": "The value of the Rupee against the dollar is influenced by various factors, including global market sentiments, crude oil prices, foreign institutional investor flows, and domestic economic indicators. A falling rupee can make imports more expensive and exports more competitive.",
+      "examRelevance": "Indian Rupee fell to 95.56 against the U.S. dollar.",
+      "tags": [
+        "Indian Rupee",
+        "USD",
+        "Forex",
+        "Currency Depreciation",
+        "Economy"
+      ],
+      "source": {
+        "title": "Rupee falls 13 paise to 95.56 against U.S. dollar in early trade",
+        "url": "https://www.thehindu.com/business/markets/rupee-falls-13-paise-to-9556-against-us-dollar-in-early-trade/article71409711.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q29",
+      "question": "Union Finance Minister Nirmala Sitharaman is currently in which U.S. city to attend the G-20 Finance Ministers and central bank governors meeting?",
+      "options": [
+        "Asheville",
+        "New York",
+        "Washington D.C.",
+        "San Francisco"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Union Finance Minister Nirmala Sitharaman is in Asheville, a city in the U.S., to attend the G-20 Finance Ministers and central bank governors meeting. The meeting is being hosted by U.S. Treasury Secretary Scott Bessent.",
+      "background": "G-20 Finance Ministers and Central Bank Governors meetings are crucial forums for discussing global economic challenges, financial stability, and policy coordination among the world's major economies. These meetings often set the agenda for the broader G-20 summit.",
+      "examRelevance": "Nirmala Sitharaman attended the G-20 FMM in Asheville, U.S.",
+      "tags": [
+        "Nirmala Sitharaman",
+        "G-20",
+        "Asheville",
+        "Finance Ministers Meeting",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Nirmala Sitharaman in U.S. Asheville city for G-20 finance ministerial meet",
+        "url": "https://www.thehindu.com/news/national/nirmala-sitharaman-g-20-finance-ministerial-meet-us-asheville/article71409601.ece"
+      }
+    },
+    {
+      "id": "daily-2026-08-31-q30",
+      "question": "A new study, collaborated on by ISRO, has captured the Sun’s early warning signs before which celestial event?",
+      "options": [
+        "Sunspots",
+        "Coronal mass ejections",
+        "Solar flares",
+        "Solar eclipses"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "A new study, which ISRO collaborated on, has successfully captured the Sun’s early warning signs that precede solar flares. The results suggest that repeated small-scale energy release may progressively destabilize the magnetic field, leading to large solar flares.",
+      "background": "Understanding solar flares and their precursors is crucial for space weather forecasting, as these events can impact satellites, communication systems, and power grids on Earth. ISRO's involvement highlights India's growing capabilities in solar physics research.",
+      "examRelevance": "ISRO collaborated on a study identifying early warning signs for solar flares.",
+      "tags": [
+        "ISRO",
+        "Solar Flares",
+        "Sun",
+        "Space Weather",
+        "Astrophysics"
+      ],
+      "source": {
+        "title": "New study captures Sun’s early warning signs before solar flares",
+        "url": "https://www.thehindu.com/sci-tech/science/new-study-captures-suns-early-warning-signs-before-solar-flares/article71407804.ece"
+      }
+    }
+  ]
+}
