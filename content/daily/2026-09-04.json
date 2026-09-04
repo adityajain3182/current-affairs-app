@@ -1,0 +1,782 @@
+{
+  "id": "daily-2026-09-04",
+  "type": "daily",
+  "date": "2026-09-04",
+  "title": "Current Affairs — 04 Sept 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-09-04-q1",
+      "question": "What is a key characteristic of Tesla's newly described Cybercab autonomous vehicle, currently under evaluation by the U.S. auto safety regulator?",
+      "options": [
+        "It is a two-seater without a steering wheel, pedals, or mirrors",
+        "It is designed primarily for off-road driving and challenging terrains",
+        "It requires a certified human co-pilot for all operational modes",
+        "It is a four-seater with advanced manual controls for optional human intervention"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Tesla's Cybercab is a two-seater autonomous vehicle designed without a steering wheel, pedals, or mirrors. The U.S. auto safety regulator is currently evaluating its rollout, highlighting its innovative and minimalist design for urban mobility.",
+      "background": "Autonomous vehicles are a rapidly developing area in the automotive industry, with companies like Tesla pushing the boundaries of self-driving technology. Regulators worldwide are working to establish safety standards for these new forms of transport, especially for vehicles that eliminate traditional manual controls.",
+      "examRelevance": "Tesla's Cybercab is a two-seater autonomous vehicle without a steering wheel, pedals, or mirrors.",
+      "tags": [
+        "Tesla",
+        "Cybercab",
+        "Autonomous Vehicle",
+        "NHTSA"
+      ],
+      "source": {
+        "title": "U.S. auto safety regulator says evaluating Tesla's Cybercab rollout",
+        "url": "https://www.thehindu.com/sci-tech/technology/us-auto-safety-regulator-says-evaluating-teslas-cybercab-rollout/article71426888.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q2",
+      "question": "The 'HDB region' in Karnataka, identified by Minister Priyank Kharge as a promising technology, manufacturing, and investment corridor, comprises which three cities?",
+      "options": [
+        "Haveri, Gadag, Bidar",
+        "Hassan, Davangere, Ballari",
+        "Hubballi, Dharwad, Belagavi",
+        "Hosapete, Doddaballapur, Bengaluru"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Karnataka Minister Priyank Kharge highlighted the 'HDB region' as a promising technology, manufacturing, and investment corridor. This region comprises Hubballi, which has a growing technology and entrepreneurial base; Dharwad, known for its strong academic and research institutions; and Belagavi, with an established base in aerospace, precision engineering, and advanced manufacturing.",
+      "background": "Regional development initiatives are crucial for balanced economic growth within states. By identifying specific corridors like HDB, the Karnataka government aims to decentralize industrial and technological growth beyond major metropolitan areas like Bengaluru, fostering local economies and creating employment opportunities.",
+      "examRelevance": "The HDB region in Karnataka consists of Hubballi, Dharwad, and Belagavi.",
+      "tags": [
+        "Karnataka",
+        "HDB Region",
+        "Hubballi",
+        "Dharwad",
+        "Belagavi"
+      ],
+      "source": {
+        "title": "HDB region emerging as promising technology, manufacturing, investment corridor: Karnataka Minister Priyank Kharge",
+        "url": "https://www.thehindu.com/news/national/karnataka/hdb-region-emerging-as-promising-technology-manufacturing-investment-corridor-karnataka-minister-priyank-kharge/article71424935.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q3",
+      "question": "Which country's President recently ordered Tata Chemicals to cease operations within its borders, stating that the government would bring in two new companies to take over?",
+      "options": [
+        "South Africa",
+        "Tanzania",
+        "Kenya",
+        "Nigeria"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Kenya’s President William Ruto recently ordered Tata Chemicals to end its operations in the country. He announced that the Kenyan government intends to introduce two new companies to assume control of the operations previously managed by Tata Chemicals.",
+      "background": "This decision by the Kenyan government reflects a move towards potentially restructuring key industrial sectors or re-evaluating foreign investment terms within the country. Tata Chemicals is a global company with diverse interests, including soda ash production, and such directives can have significant implications for international business relations.",
+      "examRelevance": "Kenya's President William Ruto ordered Tata Chemicals to end operations in Kenya.",
+      "tags": [
+        "Kenya",
+        "Tata Chemicals",
+        "William Ruto",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Kenya's President orders Tata Chemicals to end operations in the country",
+        "url": "https://www.thehindu.com/news/international/kenyas-president-orders-tata-chemicals-to-end-operations-in-the-country/article71427137.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q4",
+      "question": "Who has been appointed to lead the Special Investigation Team (SIT) constituted by the Kerala Home Department to probe the alleged financial misappropriation in the bid to bring Lionel Messi to the state?",
+      "options": [
+        "Ramesh Chennithala",
+        "P. Vijayan",
+        "V.D. Satheesan",
+        "Paul Kurian"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Kerala Home Department has constituted a Special Investigation Team (SIT) to conduct a comprehensive probe into the alleged financial misappropriation concerning the previous government's efforts to bring Lionel Messi to the state. This SIT is headed by Additional Director General of Police (Law and Order), P. Vijayan.",
+      "background": "The formation of a Special Investigation Team indicates the seriousness with which the current UDF government in Kerala views the allegations surrounding the previous LDF government's initiative. ADGP P. Vijayan is a senior police officer often entrusted with high-profile investigations.",
+      "examRelevance": "ADGP P. Vijayan is leading the SIT probing the Messi visit row in Kerala.",
+      "tags": [
+        "Kerala",
+        "SIT",
+        "P. Vijayan",
+        "Lionel Messi",
+        "Polity"
+      ],
+      "source": {
+        "title": "Special Investigation Team will probe ‘financial misappropriation’ in bid to bring Messi to Keralam: Chennithala",
+        "url": "https://www.thehindu.com/news/national/kerala/special-investigation-team-will-probe-financial-misappropriation-in-bid-to-bring-messi-to-keralam-chennithala/article71424182.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q5",
+      "question": "What is the reported death toll from the recent flash floods in Nepal, according to Nepalese authorities?",
+      "options": [
+        "279",
+        "600",
+        "1,282",
+        "4,798"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The death toll from last week's flash floods in Nepal has risen to at least 1,282. Rescue workers have recovered more bodies from affected areas, and the situation remains critical with many still missing.",
+      "background": "Nepal is highly vulnerable to natural disasters, including floods and landslides, particularly during the monsoon season and due to its mountainous terrain. The recent floods, intensified by a glacial collapse, represent one of the country's most devastating tragedies in recent times, prompting international and national relief efforts.",
+      "examRelevance": "The death toll from Nepal flash floods has risen to 1,282.",
+      "tags": [
+        "Nepal",
+        "Flash Floods",
+        "Death Toll",
+        "Natural Disaster"
+      ],
+      "source": {
+        "title": "Around 600 children missing in Nepal’s Rasuwa, Nuwakot after flash floods; toll rises to 1,282",
+        "url": "https://www.thehindu.com/news/international/several-hundred-children-missing-in-nepal-rasuwa-nuwakot-after-flash-floods/article71427056.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q6",
+      "question": "Which two districts in Nepal have around 600 children reported missing after the recent flash floods?",
+      "options": [
+        "Lalitpur and Bhaktapur",
+        "Rasuwa and Nuwakot",
+        "Chitwan and Gorkha",
+        "Kathmandu and Pokhara"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Following the recent devastating flash floods in Nepal, approximately 600 children remain unaccounted for in the Rasuwa and Nuwakot districts. These two districts have been severely impacted, leading to widespread search and rescue operations.",
+      "background": "The scale of missing children underscores the humanitarian crisis in the wake of the Nepal floods. Rasuwa and Nuwakot are mountainous districts in Nepal, often prone to landslides and flash floods, which can be particularly dangerous for vulnerable populations like children.",
+      "examRelevance": "Around 600 children are missing in Nepal's Rasuwa and Nuwakot districts after flash floods.",
+      "tags": [
+        "Nepal",
+        "Rasuwa",
+        "Nuwakot",
+        "Missing Children",
+        "Flash Floods"
+      ],
+      "source": {
+        "title": "Around 600 children missing in Nepal’s Rasuwa, Nuwakot after flash floods; toll rises to 1,282",
+        "url": "https://www.thehindu.com/news/international/several-hundred-children-missing-in-nepal-rasuwa-nuwakot-after-flash-floods/article71427056.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q7",
+      "question": "The recent devastating flash floods in Nepal, described as a 'Himalayan tragedy', were triggered by a glacial collapse and a high-altitude rock-and-ice avalanche, affecting which river system?",
+      "options": [
+        "Gandaki River",
+        "Kosi River",
+        "Karnali River",
+        "Bhotekoshi River"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Scientists are investigating how a high-altitude rock-and-ice avalanche triggered one of Nepal’s most devastating floods, specifically impacting the Bhotekoshi River system. This event, termed a 'Himalayan tragedy', highlights the severe environmental consequences of warming temperatures in the Himalayas.",
+      "background": "The Bhotekoshi River originates in the Himalayas and is known for its hydropower projects and adventure sports. Glacial lake outburst floods (GLOFs) and other climate change-induced events pose significant threats to communities and infrastructure in the Himalayan region, making such investigations crucial for future disaster preparedness.",
+      "examRelevance": "The Bhotekoshi River system was affected by recent Nepal floods triggered by a glacial collapse and rock-and-ice avalanche.",
+      "tags": [
+        "Nepal",
+        "Bhotekoshi River",
+        "Flash Floods",
+        "Glacial Collapse",
+        "Himalayas"
+      ],
+      "source": {
+        "title": "The Bhotekoshi flood | A Himalayan tragedy",
+        "url": "https://www.thehindu.com/news/national/the-bhotekoshi-flood-a-himalayan-tragedy/article71405842.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q8",
+      "question": "How many days after the flash floods were two workers, Kabir Maharjan and Sanjay Sah, rescued alive from a tunnel in Nepal?",
+      "options": [
+        "5 days",
+        "10 days",
+        "15 days",
+        "22 days"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Two workers, Kabir Maharjan, a mechanical supervisor, and Sanjay Sah, a foreman, were rescued alive from a tunnel in Nepal 10 days after flash floods engulfed the area. They were working on a hydropower project when the disaster struck.",
+      "background": "The rescue of these workers after such a prolonged period highlights the resilience and intensive efforts of the rescue teams, including the Nepal Army. Many individuals remain trapped or missing in the aftermath of the unprecedented deluge, making every rescue a significant achievement.",
+      "examRelevance": "Two workers were rescued alive from a Nepal tunnel 10 days after flash floods.",
+      "tags": [
+        "Nepal",
+        "Flash Floods",
+        "Rescue",
+        "Kabir Maharjan",
+        "Sanjay Sah"
+      ],
+      "source": {
+        "title": "Two workers rescued alive from tunnel in Nepal 10 days after flash floods",
+        "url": "https://www.thehindu.com/news/international/trapped-worker-rescued-alive-from-tunnel-in-nepal-says-official/article71426964.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q9",
+      "question": "Rentomojo is set to go public with an Initial Public Offering (IPO) at what valuation?",
+      "options": [
+        "Rs 4,246 crore",
+        "Rs 1,650 crore",
+        "Rs 2,610 crore",
+        "Rs 15 lakh"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Rentomojo, an online rental platform for furniture, appliances, and electronics, is preparing to go public with an Initial Public Offering (IPO). The company is seeking a valuation of Rs 4,246 crore, marking a significant increase from its last private funding round.",
+      "background": "IPOs are a critical stage for startups to raise capital from public investors and provide liquidity to early investors. Rentomojo's substantial valuation reflects growing investor confidence in the rental economy and the company's business model, which caters to urban populations seeking flexible living solutions.",
+      "examRelevance": "Rentomojo's IPO valuation is Rs 4,246 crore.",
+      "tags": [
+        "Rentomojo",
+        "IPO",
+        "Valuation",
+        "Economy"
+      ],
+      "source": {
+        "title": "Rentomojo IPO at Rs 4,246 crore valuation",
+        "url": "https://economictimes.indiatimes.com/tech/startups/rentomojo-to-go-public-at-rs-4246-crore-valuation-up-5x-from-last-private-round/articleshow/133752736.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q10",
+      "question": "What is the primary characteristic of ISRO's recently launched Earth observation satellite EOS-05, making it India's first of its kind?",
+      "options": [
+        "It is India’s first satellite for deep-space exploration beyond Earth's orbit",
+        "It is India’s first satellite for Mars orbit insertion and atmospheric study",
+        "It is India’s first imaging satellite to monitor from Geosynchronous orbit",
+        "It is India’s first satellite specifically designed for lunar mapping missions"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "ISRO has successfully launched the Earth observation satellite EOS-05. This satellite is India’s first-ever imaging satellite designed to monitor from a Geosynchronous orbit, approximately 36,000 km above the Earth, providing continuous coverage over a specific region.",
+      "background": "Geosynchronous Earth Orbit (GEO) satellites are crucial for continuous monitoring of weather, climate, and various Earth phenomena due to their fixed position relative to the Earth's surface. EOS-05 represents a significant advancement for India in high-resolution, continuous Earth observation capabilities from GEO.",
+      "examRelevance": "EOS-05 is India’s first imaging satellite to monitor from Geosynchronous orbit.",
+      "tags": [
+        "ISRO",
+        "EOS-05",
+        "Earth Observation Satellite",
+        "Geosynchronous Orbit",
+        "Space Technology"
+      ],
+      "source": {
+        "title": "ISRO successfully launches Earth observation satellite EOS-05",
+        "url": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q11",
+      "question": "The Kerala Council of Ministers recently attended a two-day strategic leadership retreat titled 'Reimagining Keralam' at which institution?",
+      "options": [
+        "IIM-K",
+        "IISc Bengaluru",
+        "IIT-Madras",
+        "IIM-Ahmedabad"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Council of Ministers of Kerala recently participated in a two-day strategic leadership retreat titled 'Reimagining Keralam' at the Indian Institute of Management Kozhikode (IIM-K). The workshop was led by IIM-K faculty members and experts from international institutions.",
+      "background": "Such retreats are designed to provide government officials with insights into contemporary challenges and innovative solutions across various sectors. Discussions at this retreat covered critical areas like AI, climate resilience, public health, ageing, employment, higher education, and fiscal sustainability, reflecting a forward-looking approach to governance.",
+      "examRelevance": "Kerala's 'Reimagining Keralam' retreat was held at IIM-K.",
+      "tags": [
+        "Kerala",
+        "Council of Ministers",
+        "IIM-K",
+        "Strategic Retreat",
+        "Governance"
+      ],
+      "source": {
+        "title": "‘Reimagining Keralam’: Council of Ministers attend two-day strategic leadership retreat at IIM-K",
+        "url": "https://www.thehindu.com/news/national/kerala/reimagining-keralam-council-of-ministers-attend-two-day-strategic-leadership-retreat-at-iim-k/article71427033.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q12",
+      "question": "What is the name of the new powerful AI model recently launched by OpenAI, designed for work, coding, and science?",
+      "options": [
+        "GPT-3 Davinci",
+        "GPT-6 Astra",
+        "GPT-5 Horizon",
+        "GPT-4 Turbo"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "OpenAI has begun the rollout of its new powerful AI model named GPT-6 Astra. This advanced model is designed to enhance capabilities across various domains, including work, coding, and scientific research, signifying a leap in artificial intelligence development.",
+      "background": "OpenAI is at the forefront of AI research and development, known for its GPT series of language models. The introduction of GPT-6 Astra follows previous iterations like GPT-4 and aims to offer more sophisticated functionalities and improved performance, pushing the boundaries of what AI can achieve.",
+      "examRelevance": "OpenAI launched its new AI model, GPT-6 Astra.",
+      "tags": [
+        "OpenAI",
+        "GPT-6 Astra",
+        "AI Model",
+        "Artificial Intelligence",
+        "Technology"
+      ],
+      "source": {
+        "title": "OpenAI launches GPT-6 for work, coding and science",
+        "url": "https://economictimes.indiatimes.com/ai/ai-insights/gpt-6-astra-is-here-openais-new-ai-model-can-use-computers-browse-web-and-get-work-done/articleshow/133752702.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q13",
+      "question": "Which iconic American feminist organizer, who had a strong connection with India and passed away at the age of 92, is known for her contributions to the feminist movement?",
+      "options": [
+        "Betty Friedan",
+        "Gloria Steinem",
+        "Susan B. Anthony",
+        "Simone de Beauvoir"
+      ],
+      "answerIndex": 1,
+      "category": "Obituaries",
+      "explanation": "Gloria Steinem, the iconic American feminist organizer, writer, and activist, passed away at the age of 92 in her New York home. She was a prominent figure in the women's liberation movement and had a strong connection with India, where she lived and began to understand feminism.",
+      "background": "Gloria Steinem was a trailblazer who gave feminism a positive image and debunked stereotypes. Her work as a journalist and co-founder of Ms. Magazine significantly influenced public discourse on women's rights, making her a global symbol of feminist activism.",
+      "examRelevance": "Gloria Steinem, feminist organizer with India connection, passed away at 92.",
+      "tags": [
+        "Gloria Steinem",
+        "Feminism",
+        "Obituary",
+        "Activist"
+      ],
+      "source": {
+        "title": "The feminist organiser and her everyday rebellions",
+        "url": "https://www.thehindu.com/news/international/gloria-steinem-death-feminist-organiser-indian-connection/article71425460.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q14",
+      "question": "India's export rates for which agricultural commodity have recently risen to a one-year high, partly due to lower rainfall fueling supply woes?",
+      "options": [
+        "Cotton",
+        "Rice",
+        "Wheat",
+        "Sugar"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Indian rice export rates have recently surged to a one-year high. This increase is attributed to various factors, including lower rainfall in key producing regions, which has fueled concerns over supply and pushed prices upwards.",
+      "background": "India is one of the world's largest exporters of rice, and fluctuations in its export rates can significantly impact global food markets. Monsoon rainfall patterns play a crucial role in agricultural output, and any deficit can lead to supply shortages and price hikes, affecting both domestic and international trade.",
+      "examRelevance": "Indian rice export rates have risen to a one-year high.",
+      "tags": [
+        "India",
+        "Rice Exports",
+        "Agricultural Commodity",
+        "Economy"
+      ],
+      "source": {
+        "title": "Indian rice export rates rise to one-year high",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indian-rice-export-rates-rise-to-one-year-high-as-lower-rainfall-fuels-supply-woes/articleshow/133751802.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q15",
+      "question": "Who recently became the leading run-scorer and leading century-maker in Women's International Cricket?",
+      "options": [
+        "Ellyse Perry",
+        "Smriti Mandhana",
+        "Harmanpreet Kaur",
+        "Mithali Raj"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Indian cricketer Smriti Mandhana recently achieved a significant milestone, becoming the leading run-scorer and the leading century-maker in Women's International Cricket. This achievement highlights her consistent performance and dominance in the sport.",
+      "background": "Smriti Mandhana is a prominent left-handed opening batter for the Indian women's cricket team. Her records reflect her impact on the game and contribute to the growing recognition and popularity of women's cricket globally. Such milestones are crucial for inspiring future generations of athletes.",
+      "examRelevance": "Smriti Mandhana is the leading run-scorer and century-maker in Women's International Cricket.",
+      "tags": [
+        "Smriti Mandhana",
+        "Cricket",
+        "Women's Cricket",
+        "Sports Record"
+      ],
+      "source": {
+        "title": "Mandhana becomes leading run-scorer, 100s-maker",
+        "url": "https://economictimes.indiatimes.com/news/sports/cricket/smriti-mandhana-becomes-highest-run-scorer-and-leading-century-maker-in-womens-international-cricket/articleshow/133751811.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q16",
+      "question": "SoftBank recently sold shares worth Rs 1,650 crore in which Indian e-commerce platform, clocking a 3x return on investment?",
+      "options": [
+        "Meesho",
+        "Myntra",
+        "Snapdeal",
+        "Flipkart"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "SoftBank, a major global investment firm, recently sold shares valued at Rs 1,650 crore in the Indian e-commerce platform Meesho. This transaction resulted in SoftBank clocking an impressive 3x return on its initial investment in the company.",
+      "background": "Meesho is an Indian e-commerce company that focuses on social commerce and caters to small businesses and individual sellers. SoftBank's divestment, while profitable, often signals strategic portfolio adjustments by large investors, potentially impacting market sentiment for the involved companies.",
+      "examRelevance": "SoftBank sold Meesho shares worth Rs 1,650 crore.",
+      "tags": [
+        "SoftBank",
+        "Meesho",
+        "E-commerce",
+        "Investment",
+        "Economy"
+      ],
+      "source": {
+        "title": "SoftBank sells Meesho shares worth Rs 1,650 crore",
+        "url": "https://economictimes.indiatimes.com/tech/technology/softbank-sells-meesho-shares-worth-rs-1650-crore-clocks-3x-return-on-investment/articleshow/133752337.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q17",
+      "question": "Which AI platform is Nvidia set to acquire for $12.9 billion, as confirmed by Nvidia CEO Jensen Huang?",
+      "options": [
+        "Anthropic",
+        "Hugging Face",
+        "DeepMind",
+        "Stability AI"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Nvidia, a leading technology company known for its graphics processing units (GPUs) and AI computing, is set to acquire the AI platform Hugging Face for $12.9 billion. This deal was confirmed by Nvidia CEO Jensen Huang, following earlier reports.",
+      "background": "Hugging Face is a popular platform known for its open-source machine learning models and tools, widely used by developers and researchers. Nvidia's acquisition is a strategic move to strengthen its position in the rapidly expanding AI ecosystem, integrating Hugging Face's software capabilities with its powerful hardware.",
+      "examRelevance": "Nvidia is acquiring AI platform Hugging Face for $12.9 billion.",
+      "tags": [
+        "Nvidia",
+        "Hugging Face",
+        "AI Acquisition",
+        "Technology",
+        "Economy"
+      ],
+      "source": {
+        "title": "Nvidia to buy AI platform Hugging Face for $12.9 billion",
+        "url": "https://www.thehindu.com/sci-tech/technology/nvidia-to-buy-ai-platform-hugging-face-for-129-billion/article71426882.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q18",
+      "question": "How many percolation wells has the Bangalore Development Authority (BDA) completed in Bengaluru, which are expected to recharge 184.59 million litres of rainwater annually?",
+      "options": [
+        "1,441",
+        "2,024",
+        "1,845",
+        "1,000"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The Bangalore Development Authority (BDA) has completed the construction of 1,441 percolation wells in Bengaluru. This infrastructure initiative is projected to recharge 184.59 million litres (18.459 crore litres) of rainwater annually, aiming to help alleviate the city's water crisis.",
+      "background": "Bengaluru, often referred to as India's 'Silicon Valley', faces significant water scarcity challenges due to rapid urbanization and depletion of groundwater resources. Percolation wells are a traditional and effective method of rainwater harvesting and groundwater recharge, crucial for sustainable water management in urban areas.",
+      "examRelevance": "BDA completed 1,441 percolation wells in Bengaluru for water recharge.",
+      "tags": [
+        "Bengaluru",
+        "BDA",
+        "Percolation Wells",
+        "Water Crisis",
+        "Rainwater Harvesting"
+      ],
+      "source": {
+        "title": "BDA completes 1,441 percolation wells in Bengaluru, expected to help alleviate water crisis",
+        "url": "https://www.thehindu.com/news/national/karnataka/bda-completes-1441-percolation-wells-in-bengaluru/article71424458.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q19",
+      "question": "The Union Finance Ministry recently notified new norms allowing e-commerce firms to maintain inventory specifically for what purpose?",
+      "options": [
+        "Domestic sales",
+        "Bulk purchasing",
+        "Exports",
+        "Returns processing"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The Union Finance Ministry has recently issued notifications permitting e-commerce firms to maintain inventory specifically for export purposes. This move aims to streamline and boost India's e-commerce exports by providing clearer guidelines for inventory management.",
+      "background": "This policy change is significant for integrating Indian e-commerce businesses more effectively into global supply chains. By allowing dedicated inventory for exports, the government seeks to reduce logistical hurdles and compliance costs, thereby encouraging more small and medium enterprises to leverage e-commerce platforms for international trade.",
+      "examRelevance": "Finance Ministry allows e-commerce inventory specifically for exports.",
+      "tags": [
+        "Finance Ministry",
+        "E-commerce",
+        "Exports",
+        "Inventory",
+        "Economy"
+      ],
+      "source": {
+        "title": "Fin Min allows e-commerce inventory for exports",
+        "url": "https://economictimes.indiatimes.com/industry/services/retail/finance-ministry-notifies-norms-allowing-e-commerce-firms-to-maintain-inventory-only-for-exports/articleshow/133751846.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q20",
+      "question": "Which political party leader recently stated that Akash Anand needs more political maturity and will not be given key party roles, while also announcing that her party will contest all elections independently?",
+      "options": [
+        "Akhilesh Yadav (SP)",
+        "Rahul Gandhi (INC)",
+        "Mamata Banerjee (TMC)",
+        "Mayawati (BSP)"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "BSP chief Mayawati recently stated that Akash Anand, her nephew, requires more political maturity and consequently will not be assigned key party roles. She also announced that the Bahujan Samaj Party (BSP) will contest all upcoming elections across the country independently, without forming alliances.",
+      "background": "Akash Anand was previously seen as Mayawati's political successor and had been given significant responsibilities within the BSP. This statement marks a notable shift in the party's internal dynamics and its broader electoral strategy, emphasizing self-reliance in future polls.",
+      "examRelevance": "Mayawati stated Akash Anand needs more political maturity and BSP will contest all elections independently.",
+      "tags": [
+        "Mayawati",
+        "Akash Anand",
+        "BSP",
+        "Polity",
+        "Uttar Pradesh"
+      ],
+      "source": {
+        "title": "Akash Anand in need of more political maturity, won’t give him key party roles, says BSP chief Mayawati",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/akash-anand-in-need-of-more-political-maturity-wont-give-him-key-party-roles-says-bsp-chief-mayawati/article71424916.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q21",
+      "question": "Approximately how many deletions were made in Maharashtra’s draft electoral roll after a state-wide Special Integrated Revision (SIR)?",
+      "options": [
+        "1 crore",
+        "2 crore",
+        "38 lakh",
+        "75 lakh"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Following a state-wide Special Integrated Revision (SIR), approximately 2 crore deletions were made in Maharashtra’s draft electoral roll. Out of these, about 75 lakh (around 37%) were marked as 'absent or untraceable', with Thane district accounting for over 38% of the deleted names.",
+      "background": "Electoral roll revisions are a regular exercise conducted by election commissions to ensure the accuracy and updated status of voter lists. Large-scale deletions, while aimed at removing duplicate or ineligible voters, often draw scrutiny regarding the fairness and transparency of the process, particularly in politically sensitive states like Maharashtra.",
+      "examRelevance": "2 crore deletions were made in Maharashtra's draft electoral roll after SIR.",
+      "tags": [
+        "Maharashtra",
+        "Electoral Roll",
+        "Voter Deletions",
+        "SIR",
+        "Polity"
+      ],
+      "source": {
+        "title": "Decoding 2 crore deletions in Maharashtra’s draft electoral roll after state-wide SIR",
+        "url": "https://www.thehindu.com/data/decoding-2-crore-deletions-in-maharashtras-draft-electoral-roll-after-state-wide-sir/article71424277.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q22",
+      "question": "Which country's music industry body, ARIA (Australian Recording Industry Association), recently announced that 'wholly AI-generated tracks' will not be eligible for listing on its charts?",
+      "options": [
+        "Canada",
+        "United Kingdom",
+        "Australia",
+        "United States"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "The Australian Recording Industry Association (ARIA), the peak body for the music industry in Australia, recently announced that 'wholly AI-generated tracks' will no longer be eligible for listing on its official charts. This decision comes as listeners increasingly struggle to differentiate between human and machine-made music.",
+      "background": "The rise of artificial intelligence in creative fields, including music production, has sparked debates about authorship, intellectual property, and fair competition. ARIA's move reflects a growing sentiment within traditional music industries to protect human artistry and ensure transparent crediting in official rankings.",
+      "examRelevance": "Australia's ARIA banned wholly AI-generated tracks from its music charts.",
+      "tags": [
+        "Australia",
+        "ARIA",
+        "AI Music",
+        "Music Industry",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "Why Australia’s music industry banned AI music in chart listing | Explained",
+        "url": "https://www.thehindu.com/sci-tech/technology/why-australias-music-industry-banned-ai-music-in-chart-listing-explained/article71426871.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q23",
+      "question": "The Union government recently issued the seventh draft declaring large swathes in the Western Ghats as eco-sensitive zones, based on the recommendations of which report?",
+      "options": [
+        "Kasturirangan report",
+        "Waghray report",
+        "Tendulkar report",
+        "Gadgil report"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The Union government issued the seventh draft notification on July 27, 2026, declaring large swathes in the Western Ghats as eco-sensitive zones. This declaration is based on the recommendations of the Kasturirangan report, allowing 60 days for public objections.",
+      "background": "The Kasturirangan report, a high-level working group report, was constituted to examine the recommendations of the Gadgil report on the Western Ghats. Both reports aimed at conserving the ecologically fragile Western Ghats, a UNESCO World Heritage Site, by proposing regulations on development activities, but have faced significant opposition from local communities and state governments due to livelihood concerns.",
+      "examRelevance": "Western Ghats eco-sensitive zones are based on the Kasturirangan report.",
+      "tags": [
+        "Western Ghats",
+        "Eco-sensitive Zones",
+        "Kasturirangan Report",
+        "Environment",
+        "Conservation"
+      ],
+      "source": {
+        "title": "Fear revisits residents of Western Ghats",
+        "url": "https://www.thehindu.com/news/national/karnataka/fear-revisits-residents-of-western-ghats/article71421030.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q24",
+      "question": "Who has recently been named as the acting Army secretary by Donald Trump, following the departure of Driscoll?",
+      "options": [
+        "James Mattis",
+        "Mark Esper",
+        "Adam Telle",
+        "Lloyd Austin"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Donald Trump has recently named Adam Telle as the acting Army secretary. This appointment follows the departure of the previous secretary, Driscoll, indicating a change in leadership within the U.S. Army's civilian command structure.",
+      "background": "The position of Army Secretary is a civilian role responsible for the administrative affairs of the U.S. Army. Acting appointments are often made during transitional periods or while a permanent nominee undergoes Senate confirmation, reflecting the ongoing political processes in the United States.",
+      "examRelevance": "Adam Telle is named acting Army secretary by Donald Trump.",
+      "tags": [
+        "Adam Telle",
+        "Donald Trump",
+        "Army Secretary",
+        "US Appointments",
+        "Defence"
+      ],
+      "source": {
+        "title": "Trump names Adam Telle as acting Army secretary",
+        "url": "https://economictimes.indiatimes.com/news/defence/trump-names-adam-telle-as-acting-army-secretary-following-the-departure-of-driscoll/articleshow/133750058.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q25",
+      "question": "Who has been appointed as the new Chief Executive Officer (CEO) of Adobe, with Shantanu Narayen transitioning to the role of Executive Chair?",
+      "options": [
+        "Satya Nadella",
+        "Sundar Pichai",
+        "Arvind Krishna",
+        "Anil Chakravarthy"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Anil Chakravarthy has been appointed as the new Chief Executive Officer (CEO) of Adobe. Shantanu Narayen, who served as CEO for over 18 years, will transition to the role of Executive Chair, marking a significant leadership change for the technology giant.",
+      "background": "Anil Chakravarthy previously served as the chief executive of cloud data management company Informatica for four years, bringing extensive experience in enterprise software. Shantanu Narayen's long tenure saw Adobe transform from a software box company to a cloud-based subscription service, making his transition a notable event in the tech industry.",
+      "examRelevance": "Anil Chakravarthy appointed new CEO of Adobe; Shantanu Narayen becomes Executive Chair.",
+      "tags": [
+        "Adobe",
+        "Anil Chakravarthy",
+        "Shantanu Narayen",
+        "CEO Appointment",
+        "Economy & Business"
+      ],
+      "source": {
+        "title": "Adobe names Anil Chakravarthy as CEO, Narayen transitions to executive chair",
+        "url": "https://www.thehindu.com/business/Industry/adobe-names-anil-chakravarthy-as-ceo-narayen-transitions-to-executive-chair/article71426806.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q26",
+      "question": "From which district in Andhra Pradesh did the seven fishermen hail, who recently survived a 22-day ordeal after their boat's engine failed?",
+      "options": [
+        "Visakhapatnam",
+        "Guntur",
+        "Nellore",
+        "Konaseema"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "Seven fishermen from Konaseema district in Andhra Pradesh embarked on a 15-day maiden fishing trip that turned into a harrowing 22-day saga of survival. Their boat's engine failed, leaving them adrift at sea until they were eventually rescued.",
+      "background": "Konaseema is a district located in the Godavari Delta of Andhra Pradesh, known for its fishing communities and scenic backwaters. Incidents of fishermen being stranded at sea due to mechanical failures or adverse weather conditions are not uncommon, highlighting the inherent risks of their profession.",
+      "examRelevance": "Fishermen who survived a 22-day ordeal were from Konaseema district, Andhra Pradesh.",
+      "tags": [
+        "Konaseema",
+        "Andhra Pradesh",
+        "Fishermen",
+        "Survival Story",
+        "Miscellaneous"
+      ],
+      "source": {
+        "title": "Fishing trip turns 22-day saga of survival",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/fishing-trip-turns-22-day-saga-of-survival/article71424089.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q27",
+      "question": "The U.S. auto safety regulator, NHTSA, recently closed its investigation into Tesla's Full Self-Driving system after software updates. Approximately how many vehicles were part of this investigation?",
+      "options": [
+        "1.5 million",
+        "2.9 million",
+        "10.0 million",
+        "5.0 million"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The U.S. National Highway Traffic Safety Administration (NHTSA) recently concluded its investigation into Tesla's Full Self-Driving system, which involved approximately 2.9 million vehicles. The probe was initiated last year following over 50 reports of traffic-safety violations and a series of crashes, but was closed after Tesla implemented software updates.",
+      "background": "NHTSA investigations are crucial for ensuring the safety of advanced automotive technologies. Tesla's Full Self-Driving system has been a subject of scrutiny due to its advanced capabilities and public usage. Software updates are a common method for manufacturers to address safety concerns identified by regulators.",
+      "examRelevance": "NHTSA investigated approximately 2.9 million Tesla vehicles with Full Self-Driving system.",
+      "tags": [
+        "Tesla",
+        "NHTSA",
+        "Full Self-Driving",
+        "Auto Safety",
+        "Science & Tech"
+      ],
+      "source": {
+        "title": "U.S. ends probe into Tesla remote driving feature after software updates",
+        "url": "https://www.thehindu.com/sci-tech/technology/us-ends-probe-into-tesla-remote-driving-feature-after-software-updates/article70832780.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q28",
+      "question": "Following the recent flash floods in Nepal, what is the total number of people reported missing for whom the joint command of security forces is searching?",
+      "options": [
+        "600",
+        "1,282",
+        "279",
+        "4,798"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "In the aftermath of the recent flash floods in Nepal, the joint command of security forces is actively searching for a total of 4,798 people who have been reported missing from various affected areas. This figure is in addition to the reported death toll.",
+      "background": "The extensive number of missing persons underscores the massive scale of the disaster and the challenges faced by rescue and recovery operations in Nepal's rugged terrain. The search efforts involve coordinated actions by various security agencies to locate survivors and recover bodies.",
+      "examRelevance": "4,798 people are reported missing in Nepal after flash floods.",
+      "tags": [
+        "Nepal",
+        "Flash Floods",
+        "Missing Persons",
+        "Rescue Operations",
+        "International"
+      ],
+      "source": {
+        "title": "Around 600 children missing in Nepal’s Rasuwa, Nuwakot after flash floods; toll rises to 1,282",
+        "url": "https://www.thehindu.com/news/international/several-hundred-children-missing-in-nepal-rasuwa-nuwakot-after-flash-floods/article71427056.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q29",
+      "question": "What specific service is India's Centre offering to Nepal for first-degree relatives of missing persons following the recent flash floods?",
+      "options": [
+        "Financial aid packages",
+        "Search and rescue training",
+        "DNA profiling services",
+        "Medical emergency teams"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Following the devastating flash floods in Nepal, India's Centre has offered to provide DNA profiling services for first-degree relatives of missing persons. This service will assist in the identification of bodies recovered during the ongoing search and rescue operations.",
+      "background": "DNA profiling is a crucial forensic tool for identifying victims in mass casualty events, especially when bodies are severely damaged or difficult to recognize. India's offer of this specialized service reflects its humanitarian assistance to Nepal, strengthening bilateral ties in times of crisis.",
+      "examRelevance": "India offers DNA profiling services to Nepal for missing persons' relatives after floods.",
+      "tags": [
+        "India",
+        "Nepal",
+        "DNA Profiling",
+        "Flash Floods",
+        "Humanitarian Aid"
+      ],
+      "source": {
+        "title": "Nepal floods: Centre to offer DNA profiling services for first-degree relatives of missing persons",
+        "url": "https://www.thehindu.com/news/national/nepal-floods-centre-to-offer-dna-profiling-services-for-first-degree-relatives-of-missing-persons/article71427144.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-04-q30",
+      "question": "How many District STI/RTI Centres are currently operating under the Kerala State AIDS Control Society, which have seen a steady rise in people seeking care for sexually transmitted infections?",
+      "options": [
+        "10",
+        "32",
+        "23",
+        "14"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "The Kerala State AIDS Control Society operates 23 District STI/RTI Centres across the state. These centers have reported a steady rise in the number of young people seeking care for sexually transmitted infections (STIs) and reproductive tract infections (RTIs).",
+      "background": "The rising numbers at these centers indicate a shift in public health concerns, moving beyond HIV to a broader spectrum of STIs, particularly among the youth. This trend highlights the importance of comprehensive sexual health education and accessible healthcare services for early detection and treatment of such infections.",
+      "examRelevance": "Kerala State AIDS Control Society runs 23 District STI/RTI Centres.",
+      "tags": [
+        "Kerala",
+        "STI/RTI Centres",
+        "Public Health",
+        "HIV/AIDS Control Society",
+        "Healthcare"
+      ],
+      "source": {
+        "title": "Fading fear of HIV puts focus on rising STI risks among youth in Keralam",
+        "url": "https://www.thehindu.com/news/national/kerala/fading-fear-of-hiv-puts-focus-on-rising-sti-risks-among-youth-in-keralam/article71424304.ece"
+      }
+    }
+  ]
+}
