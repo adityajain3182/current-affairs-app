@@ -1,0 +1,781 @@
+{
+  "id": "daily-2026-09-08",
+  "type": "daily",
+  "date": "2026-09-08",
+  "title": "Current Affairs — 08 Sept 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-09-08-q1",
+      "question": "Which High Court recently ruled that a Hindu daughter can claim her late father's share in Hindu Undivided Family (HUF) property even if her widowed mother remarries?",
+      "options": [
+        "Madras High Court",
+        "Calcutta High Court",
+        "Delhi High Court",
+        "Bombay High Court"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Madras High Court recently ruled that a Hindu daughter can claim her late father's share in Hindu Undivided Family (HUF) property even after her widowed mother remarries. This decision clarifies property rights for daughters in such circumstances.",
+      "background": "This ruling adds to the evolving jurisprudence on Hindu succession law, particularly concerning the rights of daughters and the impact of a widowed mother's remarriage on property claims. Hindu Undivided Family (HUF) property rights have been subject to various interpretations and amendments, aiming to ensure gender equality.",
+      "examRelevance": "Madras High Court ruling clarifies Hindu daughter's right to father's HUF property share despite mother's remarriage.",
+      "tags": [
+        "Hindu Succession Law",
+        "HUF Property",
+        "Madras High Court",
+        "Daughter's Rights"
+      ],
+      "source": {
+        "title": "Hindu daughter denied share in father's property",
+        "url": "https://economictimes.indiatimes.com/wealth/legal/will/daughter-can-claim-late-fathers-share-in-huf-property-even-after-widowed-mothers-remarriage-rules-madras-hc/articleshow/133908713.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q2",
+      "question": "Who has been recently promoted and posted as the Chief of the Internal Security Division (ISD)?",
+      "options": [
+        "K. Annamalai",
+        "D. Roopa",
+        "B. Dayananda",
+        "Praveen Sood"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "B. Dayananda has been promoted and posted as the Chief of the Internal Security Division (ISD). This is a significant appointment in the state's security apparatus.",
+      "background": "The Internal Security Division (ISD) is a crucial wing responsible for intelligence gathering and internal security operations within a state. Appointments to such key positions are vital for maintaining law and order and effective governance.",
+      "examRelevance": "B. Dayananda appointed as Chief of Internal Security Division (ISD).",
+      "tags": [
+        "B. Dayananda",
+        "ISD Chief",
+        "Appointments",
+        "Karnataka"
+      ],
+      "source": {
+        "title": "B. Dayananda promoted and posted as ISD chief",
+        "url": "https://www.thehindu.com/news/national/karnataka/b-dayananda-promoted-and-posted-as-isd-chief/article71437763.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q3",
+      "question": "Which male tennis player recently defeated Facundo Darderi to reach the quarterfinals of the U.S. Open?",
+      "options": [
+        "Carlos Alcaraz",
+        "Alexander Zverev",
+        "Daniil Medvedev",
+        "Jannik Sinner"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Alexander Zverev defeated Facundo Darderi to reach the quarterfinals of the U.S. Open. Zverev, a finalist in 2020, secured his spot in the last eight.",
+      "background": "The U.S. Open is one of the four Grand Slam tennis tournaments, held annually in New York. Reaching the quarterfinals is a significant achievement in this highly competitive event.",
+      "examRelevance": "Alexander Zverev reached U.S. Open quarterfinals by defeating Facundo Darderi.",
+      "tags": [
+        "Alexander Zverev",
+        "U.S. Open",
+        "Tennis",
+        "Quarterfinals"
+      ],
+      "source": {
+        "title": "U.S. Open: Zverev beats Darderi and the clock to reach quarterfinals",
+        "url": "https://www.thehindu.com/sport/tennis/us-open-zverev-beats-darderi-and-the-clock-to-reach-quarterfinals/article71441306.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q4",
+      "question": "Cricket Australia recently announced the sale of which Big Bash League (BBL) franchise to private investors?",
+      "options": [
+        "Sydney Sixers",
+        "Brisbane Heat",
+        "Melbourne Renegades",
+        "Perth Scorchers"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Cricket Australia announced the sale of the Melbourne Renegades, a Big Bash League (BBL) franchise, to private investors. The Renegades were BBL champions in the 2018-19 season.",
+      "background": "The Big Bash League (BBL) is Australia's professional Twenty20 cricket league. The sale of a franchise to private investors marks a significant shift in the ownership model, moving away from state cricket associations.",
+      "examRelevance": "Cricket Australia sold BBL franchise Melbourne Renegades to private investors.",
+      "tags": [
+        "Cricket Australia",
+        "Big Bash League",
+        "Melbourne Renegades",
+        "Cricket"
+      ],
+      "source": {
+        "title": "Cricket Australia announces sale of Big Bash League franchise to private investors",
+        "url": "https://www.thehindu.com/sport/cricket/cricket-australia-announces-sale-of-big-bash-league-franchise-to-private-investors/article71441305.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q5",
+      "question": "Which report recently dismissed claims of 'missing nominal GDP data' as unfounded fiction and emphasized the reliability of GDP growth estimates?",
+      "options": [
+        "Reserve Bank of India's Financial Stability Report",
+        "NITI Aayog's Economic Review",
+        "SBI Ecowrap's report",
+        "Ministry of Finance's Economic Survey"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "SBI Ecowrap's report dismissed claims of 'missing nominal GDP data' as unfounded fiction. It emphasized the reliability of Q1 FY27's GDP growth estimates, suggesting that revisions remain a normal statistical practice.",
+      "background": "GDP data and its revisions are crucial for economic analysis and policy-making. Reports from institutions like SBI Ecowrap provide insights and commentary on national economic statistics, often addressing public and expert concerns regarding data accuracy.",
+      "examRelevance": "SBI Ecowrap report refuted claims of missing nominal GDP data.",
+      "tags": [
+        "SBI Ecowrap",
+        "GDP Data",
+        "Indian Economy",
+        "Economic Report"
+      ],
+      "source": {
+        "title": "'Fictional, loose figment of irrational tit-bits': SBI report refutes claims of missing nominal GDP data",
+        "url": "https://www.livemint.com/economy/fictional-loose-figment-of-irrational-tit-bits-sbi-report-refutes-claims-of-missing-nominal-gdp-data-11788842029914.html"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q6",
+      "question": "Which Indian state has decided to set up mental health support cells in all its universities and colleges to provide a stress-free academic environment?",
+      "options": [
+        "Uttar Pradesh",
+        "Maharashtra",
+        "Madhya Pradesh",
+        "Rajasthan"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "Uttar Pradesh has decided to set up mental health support cells in all its universities and colleges. This initiative aims to provide students with a healthy, safe, and stress-free academic environment, with a uniform Student Mental Health and Well-Being Policy to be prepared for all higher education institutions in the State.",
+      "background": "Student mental health has become a growing concern globally, prompting educational institutions and governments to implement support systems. This policy by Uttar Pradesh reflects a proactive approach to address student well-being in higher education.",
+      "examRelevance": "Uttar Pradesh to establish mental health support cells in all universities and colleges.",
+      "tags": [
+        "Uttar Pradesh",
+        "Mental Health",
+        "Student Welfare",
+        "Higher Education"
+      ],
+      "source": {
+        "title": "Uttar Pradesh to set up mental health support cells in all universities and colleges",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-to-set-up-mental-health-support-cells-in-all-universities-and-colleges/article71439718.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q7",
+      "question": "According to the Chief Minister, how many underage institutional deliveries were recorded in West Bengal during the first six months of 2026?",
+      "options": [
+        "75,000",
+        "30,000",
+        "45,000",
+        "60,000"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "West Bengal recorded 60,000 underage institutional deliveries in the first six months of 2026, as stated by the Chief Minister. The CM also mentioned that arrests would be made in cases of child marriage, and benefits of State and Central schemes would be stopped for such families.",
+      "background": "Underage pregnancies and child marriages remain significant social challenges in India. Institutional deliveries, while ensuring safer childbirth, highlight the prevalence of these issues. State governments are implementing measures to curb child marriage and support maternal and child health.",
+      "examRelevance": "West Bengal recorded 60,000 underage institutional deliveries in H1 2026.",
+      "tags": [
+        "West Bengal",
+        "Underage Deliveries",
+        "Child Marriage",
+        "Social Issues"
+      ],
+      "source": {
+        "title": "West Bengal recorded 60,000 underage institutional deliveries in first six months of 2026: CM",
+        "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-recorded-60000-underage-institutional-deliveries-in-first-six-months-of-2026-cm/article71439509.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q8",
+      "question": "A megalithic burial chamber, indicating a 2,000-year-old human settlement, was recently discovered at Nittadukkam in which district of Kerala?",
+      "options": [
+        "Palakkad",
+        "Thrissur",
+        "Kasaragod",
+        "Kozhikode"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "A megalithic burial chamber, throwing light on a 2,000-year-old human settlement, was recently discovered at Nittadukkam in Kasaragod district, near Kanhangad in Kerala. Historians suggest it is one of the oldest surviving indicators of Kanhangad’s human past.",
+      "background": "Megalithic structures are significant archaeological finds that provide insights into ancient human civilizations, burial practices, and cultural beliefs. Kerala has a rich history of such discoveries, contributing to the understanding of South Indian antiquity.",
+      "examRelevance": "Megalithic burial chamber discovered in Kasaragod district, Kerala, indicating 2,000-year-old settlement.",
+      "tags": [
+        "Megalithic Burial",
+        "Kasaragod",
+        "Kanhangad",
+        "Archaeology",
+        "Kerala"
+      ],
+      "source": {
+        "title": "Megalithic burial chamber discovered at Kanhangad in Keralam, throwing light on 2,000-year-old human settlement",
+        "url": "https://www.thehindu.com/news/national/kerala/megalithic-burial-chamber-discovered-at-kanhangad-in-keralam-throwing-light-into-2000-year-old-human-settlement/article71438361.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q9",
+      "question": "Which country recently sank an Ecuadorian ship in the Pacific, alleging it was tied to drug trafficking?",
+      "options": [
+        "Mexico",
+        "United States",
+        "Colombia",
+        "Canada"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The U.S. Southern Command recently sank an Ecuadorian ship in the Pacific, alleging it was tied to drug trafficking. The people on board the vessel were removed and are to be transferred to Ecuadorian authorities.",
+      "background": "International efforts to combat drug trafficking often involve naval interdictions in international waters. The U.S. often collaborates with South American nations in anti-narcotics operations, sometimes leading to such actions.",
+      "examRelevance": "US sank an Ecuadorian ship in the Pacific, alleging drug trafficking.",
+      "tags": [
+        "US",
+        "Ecuador",
+        "Drug Trafficking",
+        "International Relations",
+        "Pacific Ocean"
+      ],
+      "source": {
+        "title": "U.S. sinks an Ecuadorian ship in the Pacific it alleges is tied to drug trafficking",
+        "url": "https://www.thehindu.com/news/international/us-sinks-an-ecuadorian-ship-in-the-pacific-it-alleges-is-tied-to-drug-trafficking/article71441244.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q10",
+      "question": "Which female tennis player recently defeated Naomi Osaka to reach the quarterfinals of the U.S. Open and is close to becoming world number one?",
+      "options": [
+        "Elena Rybakina",
+        "Coco Gauff",
+        "Aryna Sabalenka",
+        "Iga Swiatek"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Elena Rybakina defeated Naomi Osaka to reach the U.S. Open quarterfinals. This flawless victory also brought the Kazakh player one match win away from becoming world number one for the first time.",
+      "background": "Elena Rybakina is a prominent tennis player who won Wimbledon in 2022 and the Australian Open in 2023. Her consistent performance in Grand Slams has propelled her towards the top ranking.",
+      "examRelevance": "Elena Rybakina defeated Naomi Osaka to reach U.S. Open quarters, nearing world number one ranking.",
+      "tags": [
+        "Elena Rybakina",
+        "Naomi Osaka",
+        "U.S. Open",
+        "Tennis",
+        "World Number One"
+      ],
+      "source": {
+        "title": "Rybakina thumps Osaka to reach U.S. Open quarters, close in on top ranking",
+        "url": "https://www.thehindu.com/sport/rybakina-thumps-osaka-to-reach-us-open-quarters-close-in-on-top-ranking/article71440415.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q11",
+      "question": "Which new foldable smartphone, featuring the Kirin 9050 Pro chip and folding out twice into a tablet-sized screen, was recently launched by Huawei?",
+      "options": [
+        "Mate XT2",
+        "Pura 70 Ultra",
+        "Nova 12 SE",
+        "Mate Fold X3"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Huawei recently launched its new foldable smartphone, the Mate XT2. This device folds out twice to open into a tablet-sized screen and features Huawei’s new Kirin 9050 Pro chip, intensifying competition in the foldable market.",
+      "background": "The foldable smartphone market is a rapidly growing segment in the tech industry, with major players like Samsung, Xiaomi, and Apple also developing their own foldable devices. Huawei has been a significant innovator in smartphone technology despite international sanctions.",
+      "examRelevance": "Huawei launched new foldable smartphone Mate XT2 with Kirin 9050 Pro chip.",
+      "tags": [
+        "Huawei",
+        "Mate XT2",
+        "Foldable Smartphone",
+        "Kirin 9050 Pro",
+        "Mobile Technology"
+      ],
+      "source": {
+        "title": "Huawei launches new foldable smartphone as competition with Xiaomi, Apple heats up",
+        "url": "https://www.thehindu.com/sci-tech/technology/huawei-launches-new-foldable-smartphone-as-competition-with-xiaomi-apple-heats-up/article71441159.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q12",
+      "question": "Which country's defense establishment is accelerating research into the military uses of humanoid robots and planning for their eventual wartime deployment?",
+      "options": [
+        "United States",
+        "South Korea",
+        "China",
+        "Russia"
+      ],
+      "answerIndex": 2,
+      "category": "Defence",
+      "explanation": "China's defense establishment is accelerating research into the military uses of humanoid robots and planning for their eventual wartime deployment. This initiative indicates a significant push towards integrating advanced robotics into military strategy.",
+      "background": "The development of humanoid robots for military applications represents a major advancement in defense technology. These robots could potentially be used for dangerous tasks, reconnaissance, logistics, and even combat, transforming future warfare.",
+      "examRelevance": "China is accelerating research into military uses of humanoid robots for wartime deployment.",
+      "tags": [
+        "China",
+        "Humanoid Robots",
+        "Military Technology",
+        "Defence Research"
+      ],
+      "source": {
+        "title": "From dance floor to war: China readies humanoid robots for combat",
+        "url": "https://www.thehindu.com/sci-tech/technology/from-dance-floor-to-war-china-readies-humanoid-robots-for-combat/article71441163.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q13",
+      "question": "What was the year-on-year (YoY) jump in total new business premium for life insurers in August, reaching Rs 41,198 crore?",
+      "options": [
+        "40%",
+        "15%",
+        "33%",
+        "22%"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Shares of life insurers like HDFC Life and LIC rose after companies posted a strong monthly growth of 33% year-on-year (YoY) in total new business premium, reaching Rs 41,198 crore in August.",
+      "background": "New business premium (NBP) is a key indicator of the growth and performance of the insurance sector. A significant YoY jump suggests robust demand for life insurance products and positive market sentiment.",
+      "examRelevance": "Life insurers' total new business premium jumped 33% YoY to Rs 41,198 crore in August.",
+      "tags": [
+        "Life Insurance",
+        "New Business Premium",
+        "Indian Economy",
+        "Financial Markets",
+        "August Data"
+      ],
+      "source": {
+        "title": "LIC, HDFC Life, other stocks rise up to 3% as Aug new business premium jumps 33% YoY. What Nuvama, others are saying",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/lic-other-life-insurance-stocks-in-focus-as-aug-new-business-premium-rises-33-yoy-what-nuvama-others-are-saying/articleshow/133906748.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q14",
+      "question": "Which company was recently declared the lowest bidder (L1) for a Power Grid project to design and establish a 6,000 MW, ±800 kV High-Voltage Direct-Current (HVDC) transmission system?",
+      "options": [
+        "Siemens Energy",
+        "GE Vernova T&D India",
+        "ABB India",
+        "Larsen & Toubro"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "GE Vernova T&D India was declared the lowest bidder (L1) for a project from Power Grid Corporation of India. The project involves designing and establishing a 6,000 MW, ±800 kV High-Voltage Direct-Current (HVDC) transmission system to evacuate renewable power from Barmer II in Rajasthan to South Kalamb.",
+      "background": "HVDC transmission systems are crucial for efficiently transmitting large amounts of power over long distances, especially from renewable energy rich regions. Power Grid Corporation of India is the central transmission utility of India.",
+      "examRelevance": "GE Vernova T&D India lowest bidder for Power Grid's 6,000 MW HVDC transmission project.",
+      "tags": [
+        "GE Vernova",
+        "Power Grid",
+        "HVDC",
+        "Renewable Energy",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "GE Vernova shares surge 8% as firm declared lowest bidder for Power Grid project; Nomura raises target price",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ge-vernova-shares-surge-8-as-firm-declared-lowest-bidder-for-power-grid-project-nomura-raises-target-price/articleshow/133906695.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q15",
+      "question": "According to Indonesia’s volcanology agency, how many active volcanoes does the country, often called the world's most volcanic nation, possess?",
+      "options": [
+        "85",
+        "180",
+        "210",
+        "127"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Indonesia, known for its location on the 'Ring of Fire,' has 127 active volcanoes out of a total of 500 volcanoes, according to the country’s volcanology agency.",
+      "background": "The 'Ring of Fire' is a major area in the basin of the Pacific Ocean where a large number of earthquakes and volcanic eruptions occur. Indonesia's position in this belt makes it highly prone to volcanic activity and seismic events.",
+      "examRelevance": "Indonesia has 127 active volcanoes, located on the 'Ring of Fire'.",
+      "tags": [
+        "Indonesia",
+        "Ring of Fire",
+        "Active Volcanoes",
+        "Geography",
+        "Volcanology"
+      ],
+      "source": {
+        "title": "Indonesia’s ‘Ring of Fire’: Key facts about the world's most volcanic nation",
+        "url": "https://www.thehindu.com/news/international/indonesias-ring-of-fire-key-facts-about-the-worlds-most-volcanic-nation/article71441216.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q16",
+      "question": "Who recently passed away as the head of the Zamorin's family of Kozhikode?",
+      "options": [
+        "E.P. Govindan Raja",
+        "K.C. Ramachandran Raja",
+        "M.K. Ravi Varma",
+        "P.K. Kerala Varma Raja"
+      ],
+      "answerIndex": 3,
+      "category": "Obituaries",
+      "explanation": "P.K. Kerala Varma Raja, who took charge as the head of the Zamorin's family of Kozhikode in June 2025, recently passed away. He had assumed the role after the demise of K.C. Ramachandran Raja.",
+      "background": "The Zamorin of Kozhikode was the hereditary monarch of the erstwhile Kingdom of Kozhikode (Calicut) on the Malabar Coast of India. The family continues to hold cultural and traditional significance in Kerala.",
+      "examRelevance": "P.K. Kerala Varma Raja, head of Zamorin's family of Kozhikode, passed away.",
+      "tags": [
+        "P.K. Kerala Varma Raja",
+        "Zamorin",
+        "Kozhikode",
+        "Obituary",
+        "Kerala"
+      ],
+      "source": {
+        "title": "Head of Zamorin's family of Kozhikode passes away",
+        "url": "https://www.thehindu.com/news/national/kerala/head-of-zamorins-family-of-kozhikode-passes-away/article71441173.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q17",
+      "question": "Which port is consistently discussed as a key issue in bilateral talks between India and Iran, as highlighted by Iran's Foreign Ministry?",
+      "options": [
+        "Bushehr Port",
+        "Chabahar Port",
+        "Assaluyeh Port",
+        "Bandar Abbas Port"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Iran's Foreign Ministry stated that Chabahar Port is one of the key issues routinely discussed during bilateral consultations between India and Iran, underscoring its importance to both countries.",
+      "background": "Chabahar Port, located in southeastern Iran, is strategically important for India as it provides an alternative trade route to Afghanistan and Central Asia, bypassing Pakistan. India has been actively involved in the development of the port.",
+      "examRelevance": "Chabahar Port is a key issue in India-Iran bilateral talks.",
+      "tags": [
+        "Chabahar Port",
+        "India-Iran Relations",
+        "International Trade",
+        "Foreign Policy"
+      ],
+      "source": {
+        "title": "Iran values long-standing, civilisational ties with India: Foreign Ministry",
+        "url": "https://www.thehindu.com/news/international/iran-values-long-standing-civilisational-ties-with-india-foreign-ministry/article71441080.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q18",
+      "question": "Which international body is currently investigating claims of OpenAI agents' takeover of a German site, under its new AI rules?",
+      "options": [
+        "United Nations",
+        "European Union",
+        "World Trade Organization",
+        "International Monetary Fund"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The European Union (EU) is currently probing claims of OpenAI agents' takeover of a German site. Under the EU's AI rules, providers must assess and mitigate risks from their systems, with regulators having the power to impose fines for breaches since August.",
+      "background": "The EU has been at the forefront of regulating artificial intelligence, with its comprehensive AI Act aiming to ensure the safety and ethical development of AI systems. This investigation highlights the practical application of these new regulations.",
+      "examRelevance": "EU is investigating OpenAI agents' takeover of a German site under its new AI rules.",
+      "tags": [
+        "EU",
+        "OpenAI",
+        "AI Regulation",
+        "Artificial Intelligence",
+        "Germany"
+      ],
+      "source": {
+        "title": "EU probing OpenAI agents' takeover of German site",
+        "url": "https://www.thehindu.com/sci-tech/technology/eu-probing-openai-agents-takeover-of-german-site/article71441155.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q19",
+      "question": "Which High Court directed the Assam government to pay ₹2 lakh compensation to the husband of a woman who was pushed into Bangladesh by authorities?",
+      "options": [
+        "Calcutta High Court",
+        "Gauhati High Court",
+        "Patna High Court",
+        "Orissa High Court"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Gauhati High Court took serious exception to how a Foreigners’ Tribunal in Nagaon handled Mumtaz Begum’s case and directed the Assam government to pay ₹2 lakh compensation to her husband. The court also advised the Ministry of External Affairs to locate her in Bangladesh and expatriate her to India.",
+      "background": "Cases involving citizenship and deportation, particularly in border states like Assam, are highly sensitive. This ruling underscores judicial oversight in ensuring due process and protecting human rights, even in complex cross-border issues.",
+      "examRelevance": "Gauhati High Court ordered Assam to pay ₹2 lakh compensation for woman pushed into Bangladesh.",
+      "tags": [
+        "Gauhati High Court",
+        "Assam",
+        "Compensation",
+        "Citizenship",
+        "Human Rights"
+      ],
+      "source": {
+        "title": "Assam told to pay ₹2 lakh to husband of woman pushed into Bangladesh",
+        "url": "https://www.thehindu.com/news/national/assam/assam-told-to-pay-2-lakh-to-husband-of-woman-pushed-into-bangladesh/article71439149.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q20",
+      "question": "The Guntur Municipal Corporation recently published a delimitation notification, increasing the number of its wards from 57 to how many?",
+      "options": [
+        "76",
+        "82",
+        "70",
+        "65"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Guntur civic body recently published a delimitation notification, following the State government’s decision to increase the number of Guntur Municipal Corporation (GMC) wards from the existing 57 to 76.",
+      "background": "Delimitation is the process of redrawing boundaries of electoral constituencies to ensure that each constituency has roughly the same population, thus ensuring fair representation. This is a routine exercise for local bodies and legislative assemblies.",
+      "examRelevance": "Guntur Municipal Corporation increased its wards from 57 to 76 after delimitation.",
+      "tags": [
+        "Guntur",
+        "Municipal Corporation",
+        "Delimitation",
+        "Wards",
+        "Andhra Pradesh"
+      ],
+      "source": {
+        "title": "Guntur civic body publishes delimitation notification for 76 wards",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/guntur-civic-body-publishes-delimitation-notification-for-76-wards/article71441102.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q21",
+      "question": "The Election Commission of India (ECI) recently announced bypolls to five Assembly seats and one Lok Sabha constituency. When is the polling scheduled to be held?",
+      "options": [
+        "October 6",
+        "October 15",
+        "November 3",
+        "September 28"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Election Commission of India (ECI) announced the schedule for bypolls to five Assembly seats and one Lok Sabha constituency. The nomination process remains open until September 16, with polling scheduled for October 6 and counting on October 9.",
+      "background": "Bypolls are conducted to fill vacancies that arise in legislative bodies due to resignation, death, or disqualification of elected members. The ECI is responsible for conducting free and fair elections in India.",
+      "examRelevance": "ECI announced bypolls for five Assembly, one Lok Sabha seat on October 6.",
+      "tags": [
+        "ECI",
+        "Bypolls",
+        "Elections",
+        "Lok Sabha",
+        "Assembly Elections"
+      ],
+      "source": {
+        "title": "ECI announces bypolls to five Assembly seats, one Lok Sabha constituency on October 6",
+        "url": "https://www.thehindu.com/news/national/election-commission-announces-schedule-for-byelection-to-five-assembly-constituencies-and-one-parliamentary-constituency/article71438808.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q22",
+      "question": "Which political party's MLCs, Tata Madhu and Naveen Kumar Reddy, were recently arrested for allegedly making objectionable remarks against the Speaker?",
+      "options": [
+        "Bharat Rashtra Samithi (BRS)",
+        "All India Majlis-e-Ittehadul Muslimeen (AIMIM)",
+        "Congress",
+        "Bharatiya Janata Party (BJP)"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "BRS MLCs Tata Madhu and Naveen Kumar Reddy were arrested over objectionable remarks allegedly made against the Speaker. Their arrests followed intense protests in the Assembly regarding the behavior of BRS MLAs.",
+      "background": "The decorum and conduct of members in legislative assemblies are governed by specific rules and conventions. Remarks against the Speaker, who is the presiding officer, are often taken seriously and can lead to disciplinary action, including arrest.",
+      "examRelevance": "BRS MLCs Tata Madhu and Naveen Kumar Reddy arrested for remarks against Speaker.",
+      "tags": [
+        "BRS",
+        "MLCs",
+        "Telangana Assembly",
+        "Speaker",
+        "Arrest"
+      ],
+      "source": {
+        "title": "BRS MLCs Tata Madhu, Naveen Kumar Reddy arrested over remarks against Speaker",
+        "url": "https://www.thehindu.com/news/national/telangana/brs-mlcs-tata-madhu-naveen-kumar-reddy-arrested-over-remarks-against-speaker/article71441140.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q23",
+      "question": "What is the extended deadline for LPG users to complete their e-KYC process?",
+      "options": [
+        "September 21",
+        "September 30",
+        "September 7",
+        "September 14"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "The e-KYC deadline for LPG users has been extended till September 14. Repeated deadline extensions indicate the focus remains on achieving maximum compliance with the e-KYC directive.",
+      "background": "e-KYC (Electronic Know Your Customer) is a digital process for verifying the identity of customers, often mandated by government schemes and service providers to ensure transparency and prevent misuse. For LPG, it helps in linking subsidies and verifying beneficiaries.",
+      "examRelevance": "LPG e-KYC deadline extended to September 14.",
+      "tags": [
+        "LPG",
+        "e-KYC",
+        "Deadline",
+        "Government Directive",
+        "Consumer Services"
+      ],
+      "source": {
+        "title": "e-KYC deadline for LPG users extended till Sept. 14",
+        "url": "https://www.thehindu.com/news/national/telangana/e-kyc-deadline-for-lpg-users-extended-till-sept-14/article71439560.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q24",
+      "question": "Which two locations have been shortlisted by the Tamil Nadu Government for building Chennai's second airport?",
+      "options": [
+        "Sriperumbudur and Tiruvallur",
+        "Kancheepuram and Arakkonam",
+        "Cheyyur and Gummidipoondi",
+        "Maduranthakam and Chengalpattu"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The Tamil Nadu Government has shortlisted Cheyyur and Gummidipoondi as potential sites for building Chennai’s second airport. The State government has asked the Airports Authority of India (AAI) to conduct a pre-feasibility study for these locations.",
+      "background": "Chennai, a major metropolitan city, is experiencing increasing air traffic, necessitating a second airport to manage demand and support regional connectivity. Greenfield airport projects involve extensive feasibility studies, environmental clearances, and land acquisition.",
+      "examRelevance": "Cheyyur and Gummidipoondi shortlisted for Chennai's second airport.",
+      "tags": [
+        "Chennai Airport",
+        "Cheyyur",
+        "Gummidipoondi",
+        "Tamil Nadu",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "Cheyyur, Gummidipoondi shortlisted for Chennai’s second airport",
+        "url": "https://www.thehindu.com/news/cities/chennai/tamil-nadu-govt-shortlists-cheyyur-gummidipoondi-sites-to-build-chennais-second-airport-writes-to-aai-for-pre-feasibility-study/article71431929.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q25",
+      "question": "Flights to and from the capital of which country recently resumed after a volcanic eruption forced a two-day closure, halting nearly 3,000 flights?",
+      "options": [
+        "New Zealand",
+        "Indonesia",
+        "Philippines",
+        "Japan"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Flights to and from Indonesia’s capital, Jakarta, have resumed after ash from a volcanic eruption forced a two-day closure that halted nearly 3,000 flights. This disruption affected thousands of travelers.",
+      "background": "Indonesia is located on the Pacific 'Ring of Fire,' a region known for frequent volcanic eruptions and seismic activity. Volcanic ash poses a severe threat to aircraft engines, leading to widespread flight cancellations during eruptions.",
+      "examRelevance": "Jakarta airport reopened after two-day closure due to volcanic eruption.",
+      "tags": [
+        "Indonesia",
+        "Jakarta",
+        "Volcanic Eruption",
+        "Air Travel",
+        "Natural Disaster"
+      ],
+      "source": {
+        "title": "Flights to and from Indonesia’s capital resume after volcanic eruption forced a 2-day closure",
+        "url": "https://www.thehindu.com/news/international/flights-to-and-from-indonesias-capital-resume-after-volcanic-eruption-forced-a-2-day-closure/article71441117.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q26",
+      "question": "According to Chinese researchers, the glacier area on which plateau has fallen from 51,000 square kilometres to 39,000 square kilometres due to climate change?",
+      "options": [
+        "Patagonian Plateau",
+        "Tibetan Plateau",
+        "Columbia Plateau",
+        "Deccan Plateau"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Chinese researchers have found a climate change link to glacial collapse, reporting that the Tibetan plateau’s glacier area has fallen to 39,000 square kilometres from 51,000 square kilometres. They also observed more than 14,000 glacial lakes.",
+      "background": "The Tibetan Plateau, often called the 'Roof of the World,' is crucial for global climate and water resources, feeding major Asian rivers. Glacier retreat on the plateau is a significant indicator of climate change impacts and poses risks to water security and ecosystems.",
+      "examRelevance": "Tibetan plateau glacier area reduced from 51,000 to 39,000 sq km due to climate change.",
+      "tags": [
+        "Tibetan Plateau",
+        "Glacier Retreat",
+        "Climate Change",
+        "Environment",
+        "China"
+      ],
+      "source": {
+        "title": "Chinese researchers see climate change link to glacial collapse, warn of rising disaster risks",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/chinese-researchers-see-climate-change-link-to-glacial-collapse-warn-of-rising-disaster-risks/article71441103.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q27",
+      "question": "Which two countries recently opened their first road bridge across their shared border, signaling closer ties?",
+      "options": [
+        "Russia and North Korea",
+        "Pakistan and China",
+        "Iran and Afghanistan",
+        "China and Mongolia"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Russia and North Korea recently opened their first road bridge across their shared border. This development signals closer ties between the two nations, amidst ongoing geopolitical shifts.",
+      "background": "Infrastructure projects like cross-border bridges often symbolize strengthening diplomatic and economic relations between countries. The opening of this bridge could facilitate increased trade and connectivity between Russia and North Korea.",
+      "examRelevance": "Russia and North Korea opened their first road bridge across shared border.",
+      "tags": [
+        "Russia",
+        "North Korea",
+        "Border Bridge",
+        "International Relations",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "New bridge signals closer Russia-North Korea ties",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/russia-north-korea-open-first-road-bridge-across-shared-border-as-ties-deepen/articleshow/133903339.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q28",
+      "question": "For the first time in India’s history, what percentage of the Passenger Vehicle market did alternative fuels (CNG, hybrid, and electric) comprise, surpassing petrol sales?",
+      "options": [
+        "40.85%",
+        "35.50%",
+        "41.95%",
+        "45.20%"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "For the first time in India’s history, alternative fuels—CNG, hybrid, and electric combined—outsold petrol in the Passenger Vehicle market, comprising 41.95% against petrol’s 40.85%, according to FADA.",
+      "background": "This shift indicates a significant trend in the Indian automotive market, driven by factors such as rising fuel prices, government incentives for electric vehicles, and increased environmental awareness. It marks a major milestone towards greener transportation.",
+      "examRelevance": "Alternative fuel vehicles comprised 41.95% of India's PV market, surpassing petrol (40.85%).",
+      "tags": [
+        "Alternative Fuels",
+        "Electric Vehicles",
+        "CNG",
+        "Hybrid Cars",
+        "Automotive Market",
+        "India"
+      ],
+      "source": {
+        "title": "In a first, alternative fuel vehicles outsell petrol cars in India",
+        "url": "https://www.thehindu.com/business/Industry/august-2026-auto-retail-sales-rise-1751-to-2423-lakh-units/article71437484.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q29",
+      "question": "India recently joined a global initiative led by which country to shape the coming 6G era?",
+      "options": [
+        "South Korea",
+        "Japan",
+        "China",
+        "United States"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "India recently joined a US-led global initiative aimed at shaping the next-generation 6G networks. This collaboration highlights India's commitment to being a key player in future telecommunications technology.",
+      "background": "6G technology is expected to offer significantly higher speeds, lower latency, and greater capacity than 5G, enabling advanced applications like holographic communication, pervasive AI, and truly immersive experiences. International cooperation is crucial for setting global standards.",
+      "examRelevance": "India joined US-led global initiative to shape the 6G era.",
+      "tags": [
+        "6G",
+        "India",
+        "United States",
+        "Telecommunications",
+        "Technology"
+      ],
+      "source": {
+        "title": "India joins global initiative to shape coming 6G era",
+        "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/india-joins-us-led-global-initiative-to-shape-next-generation-6g-networks/articleshow/133902294.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-08-q30",
+      "question": "How many deaths were confirmed by Bolivia after an explosion at a military base?",
+      "options": [
+        "9",
+        "7",
+        "11",
+        "5"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Bolivia confirmed 9 deaths after an explosion occurred at a military base. Army Commander Hector Alarcón stated that a larger tragedy was averted as many personnel were away on a recreational bicycle ride.",
+      "background": "Military base accidents can have severe consequences, often involving munitions or hazardous materials. Investigations into such incidents typically focus on identifying the cause and implementing preventative measures.",
+      "examRelevance": "Bolivia confirmed 9 deaths following a military base explosion.",
+      "tags": [
+        "Bolivia",
+        "Military Base",
+        "Explosion",
+        "Casualties",
+        "International News"
+      ],
+      "source": {
+        "title": "Bolivia confirms 9 deaths after military base explosion",
+        "url": "https://www.thehindu.com/news/international/bolivia-confirms-9-deaths-after-military-base-explosion/article71441082.ece"
+      }
+    }
+  ]
+}
