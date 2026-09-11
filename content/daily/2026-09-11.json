@@ -1,0 +1,778 @@
+{
+  "id": "daily-2026-09-11",
+  "type": "daily",
+  "date": "2026-09-11",
+  "title": "Current Affairs — 11 Sept 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-09-11-q1",
+      "question": "Which edition of the BRICS Summit is currently being held in New Delhi, India?",
+      "options": [
+        "17th",
+        "19th",
+        "18th",
+        "16th"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The 18th BRICS Summit is currently underway in New Delhi, India, from September 12-13. India is hosting this significant international gathering, marking its fourth time assuming the chairmanship.",
+      "background": "BRICS is an acronym for the powerful bloc of emerging economies: Brazil, Russia, India, China, and South Africa. These summits are crucial for discussing global economic, political, and social issues, fostering cooperation among member states, and influencing international relations.",
+      "examRelevance": "The 18th BRICS Summit is being hosted by India in New Delhi.",
+      "tags": [
+        "BRICS",
+        "Summit",
+        "New Delhi",
+        "International Relations"
+      ],
+      "source": {
+        "title": "18th BRICS Summit 2026: Who are the world leaders attending in New Delhi, India’s role, and more",
+        "url": "https://www.thehindu.com/news/national/18th-brics-summit-2026-world-leaders-attending-in-new-delhi-india-role-key-agenda/article71445723.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q2",
+      "question": "How many times has India assumed the chairmanship of the BRICS Summit, including the current 18th edition?",
+      "options": [
+        "Second",
+        "Fifth",
+        "Third",
+        "Fourth"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "With the ongoing 18th BRICS Summit in New Delhi, India has assumed the chairmanship for the fourth time. This highlights India's growing influence and role within the BRICS bloc.",
+      "background": "The chairmanship of BRICS rotates annually among the member countries in accordance with the acronym. India's repeated chairmanship underscores its commitment to multilateralism and its strategic importance in shaping the agenda of this influential group.",
+      "examRelevance": "India is chairing the BRICS Summit for the fourth time.",
+      "tags": [
+        "BRICS",
+        "India",
+        "Chairmanship",
+        "International Relations"
+      ],
+      "source": {
+        "title": "18th BRICS Summit 2026: Who are the world leaders attending in New Delhi, India’s role, and more",
+        "url": "https://www.thehindu.com/news/national/18th-brics-summit-2026-world-leaders-attending-in-new-delhi-india-role-key-agenda/article71445723.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q3",
+      "question": "Which world leader is attending the 18th BRICS Summit in New Delhi in person for the first time outside Russia since the war in Ukraine began in February 2022?",
+      "options": [
+        "Vladimir Putin",
+        "Luiz Inácio Lula da Silva",
+        "Cyril Ramaphosa",
+        "Xi Jinping"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Russian President Vladimir Putin is attending the 18th BRICS Summit in New Delhi, marking his first in-person participation at a BRICS summit outside Russia since the war in Ukraine commenced in February 2022. He arrived in New Delhi for a three-day visit.",
+      "background": "Putin's attendance is significant given the ongoing geopolitical landscape and international sanctions against Russia. His presence at the summit provides an opportunity for bilateral meetings, including with Indian Prime Minister Modi, to discuss various strategic matters.",
+      "examRelevance": "Russian President Vladimir Putin is attending the 18th BRICS Summit in New Delhi.",
+      "tags": [
+        "BRICS",
+        "Vladimir Putin",
+        "Russia",
+        "International Relations",
+        "Ukraine War"
+      ],
+      "source": {
+        "title": "Russian President Vladimir Putin begins 3-day India visit",
+        "url": "https://www.thehindu.com/news/national/russian-president-vladimir-putin-in-new-delhi-to-attend-brics-summit/article71453608.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q4",
+      "question": "What is one of the key topics expected to top the agenda of the 18th BRICS Summit in New Delhi, according to recent reports?",
+      "options": [
+        "Global climate change targets",
+        "Wars and global crises",
+        "Space exploration cooperation",
+        "Digital currency regulations"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The 18th BRICS Summit agenda is expected to be dominated by discussions on wars and global crises. Leaders will converge in New Delhi to address pressing international issues, including the ongoing West Asia conflict.",
+      "background": "The BRICS nations, representing a significant portion of the world's population and economy, often use these summits to coordinate positions on major global challenges. The current geopolitical climate, marked by various conflicts and economic instabilities, makes such discussions particularly pertinent.",
+      "examRelevance": "Wars and global crises are key agenda items for the 18th BRICS Summit.",
+      "tags": [
+        "BRICS",
+        "Summit",
+        "Global Crises",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Wars, global crises may top agenda of 18th BRICS summit",
+        "url": "https://www.thehindu.com/news/national/amid-global-crisis-top-leaders-to-attend-brics-summit-this-weekend/article71453048.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q5",
+      "question": "India may pitch a payment plan beyond cash at the 18th BRICS Summit. What is the primary objective of this initiative?",
+      "options": [
+        "Standardize tax regulations",
+        "Enhance cultural exchange programs",
+        "Reduce reliance on the US dollar",
+        "Promote tourism within BRICS nations"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "India is reportedly considering pitching a payment plan beyond traditional cash transactions at the 18th BRICS Summit, with the aim of reducing the dominance of the US dollar in international trade and financial transactions among member states.",
+      "background": "The BRICS nations have increasingly discussed ways to strengthen their economic cooperation and reduce vulnerability to external economic pressures. Exploring alternative payment mechanisms is a step towards de-dollarization and fostering greater financial autonomy within the bloc.",
+      "examRelevance": "India's payment plan pitch at BRICS aims to reduce US dollar reliance.",
+      "tags": [
+        "BRICS",
+        "Payments",
+        "US Dollar",
+        "Economy",
+        "Digital Rupee"
+      ],
+      "source": {
+        "title": "India may pitch BRICS a payment plan beyond cash",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/india-brics-summit-2026-new-delhi-common-currency-cbdc-digital-rupee-cross-border-payments-rbi-narendra-modi/articleshow/134043376.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q6",
+      "question": "What was the primary demand of the nationwide bank strike that halted operations at around 7,000 branches in Madhya Pradesh on Friday?",
+      "options": [
+        "Expansion of rural banking",
+        "Implementation of a five-day work week",
+        "Reduction in service charges",
+        "Higher interest rates on deposits"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "A nationwide bank strike, primarily demanding the implementation of a five-day work week and other pending issues, brought operations to a halt at approximately 7,000 bank branches in Madhya Pradesh on Friday. This affected daily business worth around Rs 5,500 crore.",
+      "background": "Bank employees' organizations across India have long been advocating for a five-day work week, similar to other sectors, citing work-life balance and industry standards. Such strikes often lead to significant disruption in banking services nationwide.",
+      "examRelevance": "Bank employees are demanding a five-day work week through a nationwide strike.",
+      "tags": [
+        "Bank Strike",
+        "Five-day work week",
+        "Madhya Pradesh",
+        "Banking"
+      ],
+      "source": {
+        "title": "Bank strike halts work at 7,000 MP branches",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bank-strike-halts-work-at-7000-branches-in-mp-affects-business-worth-rs-5500-crore-association/articleshow/134048000.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q7",
+      "question": "What is the name of the memorial located at Ground Zero in New York City, built on the footprints of the former Twin Towers, 25 years after the 9/11 attacks?",
+      "options": [
+        "Reflecting Absence",
+        "Unity Park",
+        "Tower of Remembrance",
+        "Freedom Plaza"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The memorial at Ground Zero in New York City, built on the footprints of the former Twin Towers, is known as 'Reflecting Absence'. It comprises two enormous pools, commemorating the lives lost during the 9/11 attacks 25 years ago.",
+      "background": "The 9/11 attacks on September 11, 2001, were a series of four coordinated terrorist attacks by the Islamic terrorist group al-Qaeda against the United States. The memorial serves as a poignant tribute to the nearly 3,000 victims of the attacks.",
+      "examRelevance": "The 9/11 memorial at Ground Zero is named 'Reflecting Absence'.",
+      "tags": [
+        "9/11",
+        "Ground Zero",
+        "Memorial",
+        "New York City",
+        "Reflecting Absence"
+      ],
+      "source": {
+        "title": "25 years after 9/11: What is at Ground Zero where the Twin Towers once stood",
+        "url": "https://www.thehindu.com/news/international/25-years-after-911-what-stands-where-twin-towers-once-stood-in-new-york-usa/article71441731.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q8",
+      "question": "Approximately how many lives were claimed by the 9/11 terror attacks, whose 25th anniversary is being observed?",
+      "options": [
+        "Nearly 2,000",
+        "Nearly 4,000",
+        "Nearly 1,000",
+        "Nearly 3,000"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The 9/11 terror attacks, whose 25th anniversary is being observed, claimed the lives of nearly 3,000 people. These attacks sparked decades of war and significantly impacted global security.",
+      "background": "The attacks on September 11, 2001, involved hijacked airplanes striking the World Trade Center in New York City, the Pentagon in Arlington, Virginia, and a field in Shanksville, Pennsylvania. The extensive loss of life and subsequent geopolitical shifts make 9/11 a pivotal event in recent history.",
+      "examRelevance": "The 9/11 attacks claimed nearly 3,000 lives.",
+      "tags": [
+        "9/11",
+        "Terror Attacks",
+        "Victims",
+        "International History"
+      ],
+      "source": {
+        "title": "25 years after 9/11 | The attacks and their aftermath",
+        "url": "https://www.thehindu.com/news/international/911-terror-attacks-25-years-on-aftermath-collection-of-stories/article71454584.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q9",
+      "question": "The 'other 9/11' refers to a significant historical event that occurred in Chile on September 11, 1973. What was this event?",
+      "options": [
+        "A presidential election",
+        "A major earthquake",
+        "A military coup",
+        "A declaration of independence"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The 'other 9/11' refers to a military coup that occurred in Chile on September 11, 1973. This coup toppled the democratically elected President Salvador Allende and ushered in Augusto Pinochet's dictatorship.",
+      "background": "This event took place amid intense political polarization, economic turmoil, and significant U.S. pressure. Pinochet's military junta ruled Chile for nearly two decades, marked by human rights abuses and economic restructuring.",
+      "examRelevance": "September 11, 1973, in Chile refers to a military coup.",
+      "tags": [
+        "Chile",
+        "9/11",
+        "Military Coup",
+        "Salvador Allende",
+        "Augusto Pinochet"
+      ],
+      "source": {
+        "title": "The other 9/11: What happened in Chile on September 11, 1973",
+        "url": "https://www.thehindu.com/news/international/chile-september-11-1973-president-augusto-pinochet-military-coup-president-salvadore-allende-junta-rule-dictatorship/article71450820.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q10",
+      "question": "Which Indian state has been asked by the Centre to decide on the PM SHRI scheme at the earliest?",
+      "options": [
+        "Karnataka",
+        "Kerala",
+        "Andhra Pradesh",
+        "Tamil Nadu"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The Centre has urged Kerala to make an early decision regarding its participation in the PM SHRI scheme. The Kerala General Education Minister stated that the UDF government would discuss the matter before reaching a conclusion.",
+      "background": "PM SHRI (PM Schools for Rising India) is a centrally sponsored scheme aimed at upgrading existing schools into model schools that will deliver quality education and foster holistic development. States' participation is crucial for the scheme's nationwide implementation.",
+      "examRelevance": "Kerala is considering joining the PM SHRI scheme.",
+      "tags": [
+        "PM SHRI Scheme",
+        "Kerala",
+        "Education",
+        "Central Government"
+      ],
+      "source": {
+        "title": "Centre asks Keralam to decide on PM SHRI scheme at the earliest",
+        "url": "https://www.thehindu.com/news/national/kerala/centre-asks-keralam-to-decide-on-pm-shri-scheme-at-the-earliest/article71454715.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q11",
+      "question": "What is the stated objective of the newly passed inter-university transfer Bill in West Bengal?",
+      "options": [
+        "To increase student enrollment",
+        "To optimise human resources in higher education",
+        "To establish new universities",
+        "To promote research collaborations"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The newly passed inter-university transfer Bill in West Bengal aims to 'optimise the utilisation of human resources in the higher education sector'. The Bill allows for the transfer of teachers between universities.",
+      "background": "The Bill has faced criticism from Opposition MLAs who argue it could lead to selective targeting of academicians critical of the state government. Despite concerns, the government intends for it to improve resource allocation and efficiency within the higher education system.",
+      "examRelevance": "West Bengal's inter-university transfer Bill aims to optimise human resources in higher education.",
+      "tags": [
+        "West Bengal",
+        "Higher Education",
+        "Teachers",
+        "Polity",
+        "Legislation"
+      ],
+      "source": {
+        "title": "What does the newly passed inter-university transfer Bill mean for teachers in West Bengal? | Explained",
+        "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-passes-bill-on-inter-university-transfer-of-teachers-explained/article71454874.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q12",
+      "question": "What kind of body is being proposed for Ladakh, as discussed by the Home Ministry with LAB and KDA, under Article 371?",
+      "options": [
+        "A State Assembly",
+        "A Municipal Corporation",
+        "A Tribal Autonomous Council",
+        "A UT-level elected body"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Home Ministry discussed a proposed structure for a unique UT-level elected body for Ladakh under Article 371 with leaders of LAB and KDA. This comes amidst demands for statehood for the Union Territory.",
+      "background": "Ladakh's leaders expressed dissatisfaction with the meeting, calling it a 'waste of time and money', indicating a disconnect between the Ministry's proposal and their aspirations for statehood. Article 371 provides for special provisions for certain states, but a UT-level elected body under it for Ladakh is a new development.",
+      "examRelevance": "A unique UT-level elected body under Article 371 is proposed for Ladakh.",
+      "tags": [
+        "Ladakh",
+        "Article 371",
+        "UT",
+        "Governance",
+        "Polity"
+      ],
+      "source": {
+        "title": "No statehood, Ladakh to get unique elected body, says Chief Secretary",
+        "url": "https://www.thehindu.com/news/national/ladakh/no-statehood-ladakh-to-get-unique-elected-body-says-chief-secretary/article71452682.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q13",
+      "question": "Which US state recently signed a law to limit children's social media risks by restricting addictive features for users under 16?",
+      "options": [
+        "New York",
+        "California",
+        "Florida",
+        "Texas"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "California's governor recently signed a new law aimed at limiting social media risks for children. This legislation seeks to restrict addictive features for users under the age of 16, reflecting a growing global concern over the impact of social media on young users.",
+      "background": "Regulators worldwide are grappling with how to effectively manage the effects of social media on youth mental health and development. California's move is part of a broader trend of legislative action to protect minors online, setting a precedent for other states and countries.",
+      "examRelevance": "California signed a law to limit children's social media risks for users under 16.",
+      "tags": [
+        "California",
+        "Social Media",
+        "Children's Safety",
+        "Technology Law"
+      ],
+      "source": {
+        "title": "California governor signs law to limit children's social media risks",
+        "url": "https://www.thehindu.com/sci-tech/technology/california-governor-signs-law-to-limit-childrens-social-media-risks/article71454667.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q14",
+      "question": "Which former Indian cricketer, along with the Assam CM, launched the Guwahati International Marathon?",
+      "options": [
+        "Sachin Tendulkar",
+        "Sunil Gavaskar",
+        "Kapil Dev",
+        "Rahul Dravid"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Former Indian cricketer Sunil Gavaskar, alongside the Chief Minister of Assam, launched the Guwahati International Marathon. The event is expected to see about 12,000 participants, including top international athletes, on February 7, 2027.",
+      "background": "Such high-profile launches aim to generate enthusiasm and participation in sporting events, promoting fitness and attracting tourism. Gavaskar's association adds prestige and draws attention to the marathon.",
+      "examRelevance": "Sunil Gavaskar launched the Guwahati International Marathon with the Assam CM.",
+      "tags": [
+        "Sunil Gavaskar",
+        "Guwahati",
+        "Marathon",
+        "Sports",
+        "Assam"
+      ],
+      "source": {
+        "title": "Assam CM, Sunil Gavaskar launch Guwahati International Marathon",
+        "url": "https://www.thehindu.com/news/national/assam/assam-cm-sunil-gavaskar-launch-guwahati-international-marathon/article71452182.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q15",
+      "question": "Who are the two players set to compete in the U.S. Open women's final, as per recent reports?",
+      "options": [
+        "Aryna Sabalenka and Jessica Pegula",
+        "Elena Rybakina and Coco Gauff",
+        "Coco Gauff and Jessica Pegula",
+        "Elena Rybakina and Aryna Sabalenka"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Elena Rybakina rallied past Coco Gauff to set up a U.S. Open women's final against Aryna Sabalenka. Sabalenka had earlier defeated Jessica Pegula to secure her spot.",
+      "background": "The U.S. Open is one of the four Grand Slam tennis tournaments, and reaching the final is a significant achievement for any player. This matchup between Rybakina and Sabalenka pits two of the top players in women's tennis against each other.",
+      "examRelevance": "Elena Rybakina and Aryna Sabalenka will compete in the U.S. Open women's final.",
+      "tags": [
+        "US Open",
+        "Tennis",
+        "Elena Rybakina",
+        "Aryna Sabalenka",
+        "Sports"
+      ],
+      "source": {
+        "title": "Rybakina tops Gauff, sets up U.S. Open final with Sabalenka",
+        "url": "https://www.thehindu.com/sport/tennis/rybakina-tops-gauff-sets-up-us-open-final-with-sabalenka/article71454733.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q16",
+      "question": "According to Anthropic, which two countries have allegedly used AI to aid spying, including secretly using Claude to generate answers?",
+      "options": [
+        "Russia and North Korea",
+        "China and Iran",
+        "India and Pakistan",
+        "France and Germany"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Anthropic has alleged that China and Iran are among the countries that have used AI to aid spying activities. Specifically, it claims that China's Moonshot and Deepseek, along with others, have secretly used Anthropic's Claude AI to generate answers for their users, which could be used for surveillance.",
+      "background": "As AI models become more powerful, concerns about their misuse for surveillance and other nefarious purposes are growing. Anthropic's report highlights the challenges in controlling the application of advanced AI technologies by state actors.",
+      "examRelevance": "China and Iran are accused by Anthropic of using AI for spying.",
+      "tags": [
+        "AI",
+        "Spying",
+        "China",
+        "Iran",
+        "Anthropic",
+        "Technology"
+      ],
+      "source": {
+        "title": "China, Iran among countries that have used AI to aid spying, Anthropic says",
+        "url": "https://www.thehindu.com/sci-tech/technology/china-iran-among-countries-that-have-used-ai-to-aid-spying-anthropic-says/article71454731.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q17",
+      "question": "Anthropic recently stated it blocked the misuse of its AI that could have supported the development of what?",
+      "options": [
+        "New energy sources",
+        "Biological weapons",
+        "Space tourism",
+        "Advanced robotics"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Anthropic announced that it successfully blocked the misuse of its AI technology that could have potentially supported the development of biological weapons. The company emphasized that powerful AI models can enable elaborate cyberattacks without requiring sophisticated skills.",
+      "background": "The rapid advancement of AI raises serious ethical and security concerns, particularly regarding its potential application in creating harmful technologies. This incident underscores the critical need for robust safety protocols and ethical guidelines in AI development to prevent its weaponization.",
+      "examRelevance": "Anthropic blocked AI misuse for biological weapons development.",
+      "tags": [
+        "AI Safety",
+        "Biological Weapons",
+        "Anthropic",
+        "Technology Ethics"
+      ],
+      "source": {
+        "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons",
+        "url": "https://www.thehindu.com/sci-tech/technology/anthropic-says-it-blocked-misuse-of-its-ai-that-could-have-supported-biological-weapons/article71454632.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q18",
+      "question": "Prince Rahim Aga Khan V, who recently met with EAM Jaishankar, is the 50th Imam of which Muslim community?",
+      "options": [
+        "Shia",
+        "Ismaili",
+        "Sufi",
+        "Sunni"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "Prince Rahim Aga Khan V, who recently met with External Affairs Minister S. Jaishankar, is the 50th Imam of the Ismaili Muslims. He began his India visit on September 9 following an invitation from Vice-President C.P. Radhakrishnan.",
+      "background": "The Aga Khan is the spiritual leader of the Nizari Ismailis, a branch of Shia Islam. The Aga Khan Development Network (AKDN), founded by the Aga Khan, is involved in various development initiatives globally, including in India, focusing on health, education, culture, and rural development.",
+      "examRelevance": "Prince Rahim Aga Khan V is the 50th Imam of the Ismaili Muslims.",
+      "tags": [
+        "Prince Rahim Aga Khan V",
+        "Ismaili Muslims",
+        "EAM Jaishankar",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Jaishankar meets Prince Rahim Aga Khan V",
+        "url": "https://www.thehindu.com/news/national/jaishankar-meets-prince-rahim-aga-khan-v/article71454646.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q19",
+      "question": "The Manika Plastech IPO, which opened for subscription today, is a book-built issue comprising a fresh issue and an Offer For Sale (OFS). What is the total value of this IPO?",
+      "options": [
+        "Rs 158.50 crore",
+        "Rs 33 crore",
+        "Rs 125.50 crore",
+        "Rs 92.50 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The Manika Plastech IPO, which opened for subscription today, is a Rs 125.50 crore book-built issue. It consists of a fresh issue of 2.15 crore shares worth Rs 92.50 crore and an Offer For Sale (OFS) of 76.74 lakh shares aggregating to Rs 33 crore.",
+      "background": "An Initial Public Offering (IPO) allows a private company to offer its shares to the public for the first time. The 'book-built' process involves potential investors bidding for shares within a price band, and the final price is determined by demand. Strong Grey Market Premium (GMP) often indicates high investor interest and potential listing gains.",
+      "examRelevance": "Manika Plastech IPO is valued at Rs 125.50 crore.",
+      "tags": [
+        "Manika Plastech",
+        "IPO",
+        "Economy",
+        "Stock Market",
+        "Investment"
+      ],
+      "source": {
+        "title": "Manika Plastech IPO opens for subscription; GMP signals 30% listing gain. Check key details",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/manika-plastech-ipo-opens-today-gmp-signals-30-listing-upside-check-key-details/articleshow/134041439.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q20",
+      "question": "In which Indian state are women in self-help groups embracing new technology, specifically drones, for crop-spraying and farm services?",
+      "options": [
+        "Telangana",
+        "Andhra Pradesh",
+        "Maharashtra",
+        "Karnataka"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "In Telangana, women in self-help groups are embracing new technology by using drones for crop-spraying and various farm services. This initiative aims to empower women by integrating them into technology-led agriculture and helping them build independent businesses.",
+      "background": "This development represents a significant step towards modernizing agriculture and promoting gender inclusivity in technology. Drones offer precision farming solutions, which can lead to increased efficiency and reduced labor, while also providing new economic opportunities for rural women.",
+      "examRelevance": "Women in Telangana are using drones for agriculture through self-help groups.",
+      "tags": [
+        "Telangana",
+        "Drones",
+        "Agriculture",
+        "Women Empowerment",
+        "Self-Help Groups"
+      ],
+      "source": {
+        "title": "Women take the controls as farms embrace new tech in Telangana",
+        "url": "https://www.thehindu.com/news/national/telangana/women-take-the-controls-as-farms-embrace-new-tech-in-telangana/article71453421.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q21",
+      "question": "The government has begun recruiting staff for a Tele-MANAS centre in which city?",
+      "options": [
+        "Tirupati",
+        "Vijayawada",
+        "Amaravati",
+        "Visakhapatnam"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The government has commenced the recruitment of staff for a Tele-MANAS centre in Tirupati. This initiative aims to strengthen mental health support services in the region.",
+      "background": "Tele-MANAS (Tele-Mental Health Assistance and Networking Across States) is a nationwide toll-free tele-mental health service launched by the Union Ministry of Health and Family Welfare. It aims to provide 24/7 mental health support, especially in remote and underserved areas, leveraging technology to bridge the gap in mental healthcare access.",
+      "examRelevance": "Staff recruitment has begun for a Tele-MANAS centre in Tirupati.",
+      "tags": [
+        "Tele-MANAS",
+        "Tirupati",
+        "Mental Health",
+        "Government Scheme"
+      ],
+      "source": {
+        "title": "Govt. begins recruiting staff Tele-MANAS centre in Tirupati",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-begins-recruiting-staff-tele-manas-centre-in-tirupati/article71452986.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q22",
+      "question": "From which date is the Uttar Pradesh Government scheduled to run the 'Seva Sankalp Abhiyan' campaign?",
+      "options": [
+        "September 10",
+        "October 2",
+        "October 31",
+        "September 17"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Uttar Pradesh Government is scheduled to run the 'Seva Sankalp Abhiyan' campaign starting from September 17. Chief Minister Yogi Adityanath stated that the campaign aims to turn PM Modi’s 25 years of service and the resolve of ‘Viksit Bharat 2047’ into a people’s resolve.",
+      "background": "This campaign is likely linked to significant national initiatives and celebratory milestones, aiming to mobilize public participation and support for development goals. Such state-level campaigns often align with broader national agendas for progress and public welfare.",
+      "examRelevance": "Uttar Pradesh to run 'Seva Sankalp Abhiyan' from September 17.",
+      "tags": [
+        "Uttar Pradesh",
+        "Seva Sankalp Abhiyan",
+        "Viksit Bharat 2047",
+        "Government Campaign"
+      ],
+      "source": {
+        "title": "Uttar Pradesh Government to run ‘Seva Sankalp Abhiyan’ from September 17",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-government-to-run-seva-sankalp-abhiyan-from-september-17/article71451941.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q23",
+      "question": "Where is the West Bengal government planning to host a Durga Puja event, which PM Modi may join?",
+      "options": [
+        "Victoria Memorial",
+        "Eden Gardens",
+        "Howrah Bridge",
+        "Salt Lake Stadium"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "The West Bengal government is planning to host a Durga Puja event at Eden Gardens, a prominent cricket stadium in Kolkata. There is a possibility that Prime Minister Modi might join the celebrations.",
+      "background": "Durga Puja is one of the most significant festivals in West Bengal, celebrated with great fervor. Hosting a large-scale event at a venue like Eden Gardens indicates an effort to make it a grand public celebration, potentially drawing national attention with the possible presence of the Prime Minister.",
+      "examRelevance": "West Bengal to host Durga Puja event at Eden Gardens.",
+      "tags": [
+        "West Bengal",
+        "Durga Puja",
+        "Eden Gardens",
+        "Kolkata",
+        "Festivals"
+      ],
+      "source": {
+        "title": "Bengal govt. to host Durga Puja event at Eden Gardens, PM Modi may join: Suvendu Adhikari",
+        "url": "https://www.thehindu.com/news/cities/kolkata/bengal-govt-to-hostdurga-puja-eventat-eden-gardens-pm-modi-may-join-suvendu-adhikari/article71451800.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q24",
+      "question": "By how many paise did the Rupee fall against the U.S. dollar in early trade, reaching 95.79?",
+      "options": [
+        "37 paise",
+        "47 paise",
+        "17 paise",
+        "27 paise"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Rupee fell by 27 paise against the U.S. dollar in early trade, settling at 95.79. This depreciation was influenced by factors such as soaring crude oil prices and the ongoing West Asia conflict, which impact India's import bill.",
+      "background": "The value of the Rupee against major international currencies like the US dollar is a key indicator of economic health. Factors such as global crude oil prices, foreign exchange reserves, RBI intervention, and geopolitical events significantly affect its fluctuation, impacting trade and inflation.",
+      "examRelevance": "Rupee fell by 27 paise against the US dollar to 95.79.",
+      "tags": [
+        "Rupee",
+        "US Dollar",
+        "Forex",
+        "Economy",
+        "Crude Oil"
+      ],
+      "source": {
+        "title": "Rupee falls 27 paise to 95.79 against U.S. dollar in early trade",
+        "url": "https://www.thehindu.com/business/markets/rupee-falls-27-paise-to-9579-against-us-dollar-in-early-trade/article71454782.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q25",
+      "question": "What percentage of students expressed interest in continuing studies into the fourth year under Kerala’s Four-Year Undergraduate Programme (FYUGP) survey?",
+      "options": [
+        "52%",
+        "62%",
+        "32%",
+        "42%"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "A recent survey conducted by the Kerala State Higher Education Council revealed that 42% of students currently pursuing their third year of undergraduate studies expressed interest in continuing into the fourth year under Kerala’s Four-Year Undergraduate Programme (FYUGP). A total of 66,014 students participated in the survey.",
+      "background": "The Four-Year Undergraduate Programme (FYUGP) is a new curriculum structure being implemented in various universities, offering students the option to pursue an honours degree with research. The survey results provide insights into student acceptance and preferences for this academic reform.",
+      "examRelevance": "42% of Kerala students are interested in the fourth year of FYUGP.",
+      "tags": [
+        "Kerala",
+        "FYUGP",
+        "Higher Education",
+        "Student Survey",
+        "Education Policy"
+      ],
+      "source": {
+        "title": "42% students express interest in continuing studies into fourth year under Keralam’s FYUGP: survey",
+        "url": "https://www.thehindu.com/news/national/kerala/42-students-express-interest-in-continuing-studies-intofourth-year-under-keralams-fyugp-survey/article71454776.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q26",
+      "question": "The U.S. has proposed a new rule to scrap the 60-day grace period for which category of foreign workers after job loss?",
+      "options": [
+        "F-1 student visa holders",
+        "H-1B specialty occupation workers",
+        "J-1 exchange visitors",
+        "L-1 intracompany transferees"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The U.S. has proposed a new rule that would scrap the 60-day grace period for H-1B specialty occupation workers after job loss. If finalized, foreign workers facing job loss would need to leave the United States immediately unless they have separate authorization to remain.",
+      "background": "The H-1B visa program allows U.S. employers to temporarily employ foreign workers in specialty occupations. The current 60-day grace period provides a window for workers to find new employment or change their visa status. Eliminating this period would significantly impact foreign professionals working in the U.S.",
+      "examRelevance": "US proposes scrapping 60-day grace period for H-1B workers after job loss.",
+      "tags": [
+        "US Immigration",
+        "H-1B Visa",
+        "Foreign Workers",
+        "Job Loss",
+        "International Law"
+      ],
+      "source": {
+        "title": "U.S. proposes new rule to scrap 60-day grace period for H-1B workers after job loss",
+        "url": "https://www.thehindu.com/news/international/us-proposes-new-rule-to-scrap-60-day-grace-period-for-h-1b-workers-after-job-loss/article71454521.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q27",
+      "question": "What is cited as a reason for the controversy surrounding GDP figures in India?",
+      "options": [
+        "Claims and counter-claims by government and opposition",
+        "Lack of data collection",
+        "Infrequent revisions",
+        "Reliance on outdated methodologies"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The controversy surrounding GDP figures in India is attributed to frequent revisions and the claims and counter-claims made by the government and the Opposition. This often leads to disputes over the accuracy and interpretation of economic data.",
+      "background": "GDP (Gross Domestic Product) is a critical indicator of a country's economic health. Discrepancies and political debates over its calculation and reporting can undermine public trust in official statistics and create uncertainty about the true state of the economy. The IMF has backed India's statistical reforms, but the political debate persists.",
+      "examRelevance": "GDP figures in India face controversy due to government and opposition claims.",
+      "tags": [
+        "GDP",
+        "Economy",
+        "India",
+        "Economic Data",
+        "Polity"
+      ],
+      "source": {
+        "title": "Why do GDP figures face a controversy in India?",
+        "url": "https://www.thehindu.com/business/Economy/why-do-gdp-figures-face-a-controversy-in-india/article71454662.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q28",
+      "question": "ESDS Software Solution shares recently surged by what percentage from its IPO price of Rs 429 within six trading days of listing?",
+      "options": [
+        "Nearly 287%",
+        "Nearly 487%",
+        "Nearly 387%",
+        "Nearly 187%"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "ESDS Software Solution shares continued their rally, climbing 5.03% to Rs 1,661.75 and extending their winning run to six consecutive trading sessions. The stock has now surged nearly 287% from its IPO price of Rs 429 within just six trading days of listing.",
+      "background": "A significant post-listing rally like this is often driven by strong investor optimism, especially in sectors with high growth potential such as data centers and digital infrastructure. This performance indicates robust market confidence in the company's prospects.",
+      "examRelevance": "ESDS Software Solution shares surged nearly 287% from its IPO price.",
+      "tags": [
+        "ESDS Software Solution",
+        "Stock Market",
+        "IPO",
+        "Economy",
+        "Shares"
+      ],
+      "source": {
+        "title": "ESDS Software Solution jumps 5%, extends 6-session rally; shares up 287% from IPO price",
+        "url": "https://economictimes.indiatiatimes.com/markets/stocks/news/esds-software-solution-jumps-5-extends-6-session-rally-shares-up-287-from-ipo-price/articleshow/134047669.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q29",
+      "question": "Maratha protesters, led by Jarange Patil, have stated their intention to head to which major Indian city?",
+      "options": [
+        "Aurangabad",
+        "Mumbai",
+        "Pune",
+        "Nagpur"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "Maratha protesters, under the leadership of Jarange Patil, have announced their plan to head to Mumbai. Patil stated that they are waiting for supporters to assemble before deciding the next course of action for their agitation.",
+      "background": "The Maratha community has been demanding reservations in education and government jobs for a long time. Protests often involve large-scale mobilizations, and heading to the state capital, Mumbai, is a common strategy to pressure the government and gain wider public attention for their demands.",
+      "examRelevance": "Maratha protesters led by Jarange Patil plan to head to Mumbai.",
+      "tags": [
+        "Maratha Protest",
+        "Jarange Patil",
+        "Mumbai",
+        "Maharashtra",
+        "Reservations"
+      ],
+      "source": {
+        "title": "Maratha protesters will head to Mumbai, says Jarange Patil",
+        "url": "https://www.thehindu.com/news/national/maharashtra/maratha-protesters-will-head-to-mumbai-says-jarange-patil/article71452663.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-11-q30",
+      "question": "Besides the leaders of BRICS member states, which international figure is expected to attend the 18th BRICS Summit in New Delhi?",
+      "options": [
+        "European Commission President",
+        "UN Secretary-General",
+        "World Bank President",
+        "IMF Managing Director"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Besides the leaders of the BRICS member states, UN Secretary-General Guterres is among the international figures expected to attend the 18th BRICS Summit in New Delhi. Iran President Pezeshkian is also expected to be present.",
+      "background": "The BRICS summit often invites leaders from other countries and international organizations to participate in discussions, reflecting its growing global influence and engagement with broader multilateral issues. The presence of the UN Secretary-General underscores the summit's relevance to global governance.",
+      "examRelevance": "UN Secretary-General Guterres is attending the 18th BRICS Summit.",
+      "tags": [
+        "BRICS Summit",
+        "UN Secretary-General",
+        "Guterres",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Wars, global crises may top agenda of 18th BRICS summit",
+        "url": "https://www.thehindu.com/news/national/amid-global-crisis-top-leaders-to-attend-brics-summit-this-weekend/article71453048.ece"
+      }
+    }
+  ]
+}
