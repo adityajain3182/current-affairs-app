@@ -1,0 +1,805 @@
+{
+  "id": "daily-2026-09-17",
+  "type": "daily",
+  "date": "2026-09-17",
+  "title": "Current Affairs — 17 Sept 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-09-17-q1",
+      "question": "In which Indian state was a woman recently bludgeoned to death over suspicion of witchcraft?",
+      "options": [
+        "Odisha",
+        "Jharkhand",
+        "Bihar",
+        "Chhattisgarh"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "A woman was bludgeoned to death in Jharkhand on September 15 by two accused who took her to the forest, suspecting her of witchcraft. The police have arrested two individuals in connection with the crime.",
+      "background": "Witchcraft accusations leading to violence, particularly against women, remain a significant social problem in some parts of India, despite laws against it.",
+      "examRelevance": "Jharkhand = site of recent witchcraft-related murder.",
+      "tags": [
+        "Jharkhand",
+        "Witchcraft",
+        "Crime",
+        "Social Issue"
+      ],
+      "source": {
+        "title": "Woman bludgeoned to death over witchcraft suspicion in Jharkhand, 2 held",
+        "url": "https://www.thehindu.com/news/national/jharkhand/woman-bludgeoned-to-death-over-witchcraft-suspicion-in-jharkhand-2-held/article71475487.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q2",
+      "question": "The Left Democratic Front (LDF) is set to launch a protest over dysfunctional streetlights in the limits of which city's Corporation?",
+      "options": [
+        "Kochi",
+        "Kozhikode",
+        "Thiruvananthapuram",
+        "Thrissur"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Left Democratic Front (LDF) in Kerala is launching a protest against the Kochi civic body due to the continued neglect in ensuring the functioning of streetlights within the Kochi Corporation limits.",
+      "background": "The LDF accuses the civic body of allowing companies entrusted with streetlight operation to exploit advertisement opportunities while neglecting maintenance.",
+      "examRelevance": "Kochi Corporation = site of LDF protest over dysfunctional streetlights.",
+      "tags": [
+        "LDF",
+        "Kochi",
+        "Streetlights",
+        "Protest",
+        "Kerala"
+      ],
+      "source": {
+        "title": "LDF to launch protest over dysfunctional streetlights in Kochi Corporation limits",
+        "url": "https://www.thehindu.com/news/national/kerala/ldf-to-launch-protest-over-dysfunctional-streetlights-in-kochi-corporation-limits/article71475488.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q3",
+      "question": "The Enforcement Directorate (ED) recently conducted searches linked to former Haryana Minister Gopal Kanda in connection with the Vatika Limited case. Gopal Kanda was a minister in which state?",
+      "options": [
+        "Haryana",
+        "Rajasthan",
+        "Punjab",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Enforcement Directorate (ED) searched three premises linked to former Haryana Minister Gopal Kanda as part of an investigation into suspected diversion of funds collected from investors in four commercial real-estate projects developed by Vatika Limited.",
+      "background": "The action follows the ED's investigation into the Vatika Limited case, which involves alleged real estate fraud and money laundering.",
+      "examRelevance": "Gopal Kanda = former Haryana Minister, linked to ED searches in Vatika Limited case.",
+      "tags": [
+        "ED",
+        "Gopal Kanda",
+        "Haryana",
+        "Vatika Limited",
+        "Real Estate Fraud"
+      ],
+      "source": {
+        "title": "Vatika Limited case: ED searches three premises linked to former Haryana Minister Gopal Kanda",
+        "url": "https://www.thehindu.com/news/national/haryana/ed-raids-ex-haryana-minister-gopal-kanda-in-pmla-case-linked-to-real-estate-fraud/article71475431.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q4",
+      "question": "The historic 'kumbabishekam' (consecration ceremony) recently took place after 17 years at which famous temple in Madurai?",
+      "options": [
+        "Meenakshi Sundareswarar Temple",
+        "Srirangam Ranganathaswamy Temple",
+        "Brihadeeswarar Temple",
+        "Ramanathaswamy Temple"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "The historic 'kumbabishekam' or consecration ceremony of the Meenakshi Sundareswarar Temple in Madurai, Tamil Nadu, was witnessed by thousands of devotees. The ceremony took place after a gap of 17 years.",
+      "background": "The Meenakshi Sundareswarar Temple is a historic Hindu temple located on the southern bank of the Vaigai River in Madurai, Tamil Nadu, dedicated to Parvati (Meenakshi) and Shiva (Sundareswarar). Kumbabishekam is a major ritual performed to sanctify a temple.",
+      "examRelevance": "Meenakshi Sundareswarar Temple, Madurai = recent Kumbabishekam after 17 years.",
+      "tags": [
+        "Meenakshi Temple",
+        "Madurai",
+        "Kumbabishekam",
+        "Tamil Nadu",
+        "Hindu Temple"
+      ],
+      "source": {
+        "title": "Devotees gather in thousands for historic consecration of Meenakshi temple in Madurai",
+        "url": "https://www.thehindu.com/news/cities/Madurai/devotees-gather-for-historic-consecration-of-meenakshi-temple-in-madurai/article71475121.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q5",
+      "question": "The Indian government recently announced a slash in export duty on which of the following?",
+      "options": [
+        "Pharmaceuticals",
+        "Steel",
+        "Petrol",
+        "Gold"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The Indian government recently slashed the export duty on petrol, diesel, and jet fuel. This move aims to influence the domestic availability and pricing of these essential fuels.",
+      "background": "The government periodically adjusts export duties on petroleum products to balance domestic supply, prices, and revenue collection, especially in response to global crude oil price fluctuations. Excise duty on petrol and diesel for domestic consumption remains unchanged.",
+      "examRelevance": "Government = slashed export duty on petrol, diesel, and jet fuel.",
+      "tags": [
+        "Export Duty",
+        "Petrol",
+        "Diesel",
+        "Jet Fuel",
+        "Economy"
+      ],
+      "source": {
+        "title": "Government slashes export duty on petrol, diesel and jet fuel",
+        "url": "https://www.thehindu.com/business/govt-cuts-windfall-tax-on-export-of-petrol-diesel-and-atf/article71474189.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q6",
+      "question": "Chief Minister D.K. Shivakumar recently unveiled development plans including a Sports City, IT park, and CCTV camera network for which region of Karnataka?",
+      "options": [
+        "Central Karnataka",
+        "Kalyana Karnataka",
+        "Coastal Karnataka",
+        "Malnad Karnataka"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "Karnataka Chief Minister D.K. Shivakumar unveiled development plans for the Kalyana Karnataka region, which include projects such as a Sports City, an IT park, and a comprehensive CCTV camera network. These plans were announced after hoisting the national flag at the Kalyana Karnataka Utsav in Kalaburagi.",
+      "background": "The Kalyana Karnataka Utsav marks the end of the Nizam’s rule and the region’s integration with the Indian Union in 1948. The development plans aim to boost infrastructure and economic growth in the historically underserved region.",
+      "examRelevance": "Kalyana Karnataka = new development projects (Sports City, IT Park, CCTV network) unveiled by CM.",
+      "tags": [
+        "Kalyana Karnataka",
+        "D.K. Shivakumar",
+        "Sports City",
+        "IT Park",
+        "Development Projects",
+        "Karnataka"
+      ],
+      "source": {
+        "title": "Sports City, IT park, CCTV camera network among projects for Kalyana Karnataka: CM",
+        "url": "https://www.thehindu.com/news/national/karnataka/sports-city-it-park-cctv-camera-network-among-projects-for-kalyana-karnataka-cm/article71475425.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q7",
+      "question": "Tamil Nadu Chief Minister recently returned from the U.K. with investment commitments worth ₹15,300 crore. What was the total value of these investment commitments?",
+      "options": [
+        "₹10,000 crore",
+        "₹15,300 crore",
+        "₹12,500 crore",
+        "₹18,000 crore"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Tamil Nadu Chief Minister M.K. Stalin returned from the United Kingdom with investment commitments totaling ₹15,300 crore. During his visit, he also met the Indian High Commissioner Kumaran Periyasamy to discuss joint ventures between India and the U.K. under the Comprehensive Economic and Trade Agreement.",
+      "background": "Such international visits by state chief ministers are often aimed at attracting foreign direct investment (FDI) to boost economic growth and create employment opportunities within their respective states.",
+      "examRelevance": "Tamil Nadu CM = secured ₹15,300 crore investment commitments from U.K.",
+      "tags": [
+        "Tamil Nadu",
+        "UK",
+        "Investment Commitments",
+        "Economy",
+        "Foreign Investment"
+      ],
+      "source": {
+        "title": "T.N. CM Vijay returns from U.K. with ₹15,300-crore investment commitments",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-vijay-returns-from-uk-with-15300-crore-investment-commitments/article71475246.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q8",
+      "question": "Arundhati Bhattacharya, who recently discussed factors for leaders considering AI deployment, holds which position at Salesforce, South Asia?",
+      "options": [
+        "Chief Technology Officer",
+        "Chief Operating Officer",
+        "Head of Research",
+        "President and CEO"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Arundhati Bhattacharya, President and CEO at Salesforce, South Asia, recently shared her insights on factors leaders need to consider when deploying human talent or AI agents in their workplaces.",
+      "background": "Arundhati Bhattacharya is a prominent Indian banker who previously served as the chairperson of the State Bank of India. Her current role at Salesforce involves leading the company's operations in the South Asia region.",
+      "examRelevance": "Arundhati Bhattacharya = President and CEO, Salesforce, South Asia.",
+      "tags": [
+        "Arundhati Bhattacharya",
+        "Salesforce",
+        "AI",
+        "Technology",
+        "Appointments"
+      ],
+      "source": {
+        "title": "Agentic AI is not a magic wand | Arundhati Bhattacharya, President and CEO at Salesforce, South Asia",
+        "url": "https://www.thehindu.com/sci-tech/technology/agentic-ai-is-not-a-magic-wand-says-arundhati-bhattacharya-president-and-ceo-at-salesforce-south-asia/article71475429.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q9",
+      "question": "A Station House Officer (SHO) and Sub-Inspector (SI) from Keesara were recently caught by the Anti-Corruption Bureau (ACB) for allegedly accepting a bribe of what amount?",
+      "options": [
+        "₹10 lakh",
+        "₹1 lakh",
+        "₹5 lakh",
+        "₹2 lakh"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The City Range-I unit of the Anti-Corruption Bureau (ACB) caught a Station House Officer (SHO) and a Sub-Inspector (SI) from Keesara, Telangana, for allegedly accepting a bribe of ₹5 lakh from a complainant. The SHO was caught around 11:25 p.m. on September 16.",
+      "background": "The ACB is a specialized agency in India responsible for investigating and prosecuting cases of corruption among public servants. Such arrests highlight ongoing efforts to combat corruption in government departments.",
+      "examRelevance": "Keesara SHO/SI = caught by ACB for ₹5 lakh bribe.",
+      "tags": [
+        "ACB",
+        "Keesara",
+        "Bribe",
+        "Corruption",
+        "Telangana",
+        "Law Enforcement"
+      ],
+      "source": {
+        "title": "Keesara SHO, SI caught in ACB case over ₹5 lakh bribe",
+        "url": "https://www.thehindu.com/news/national/telangana/keesara-sho-si-caught-in-acb-case-over-5-lakh-bribe/article71475407.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q10",
+      "question": "According to Congress MP Gaurav Gogoi, what specific charges on UPI transactions were not discussed by the Parliament Standing Committee?",
+      "options": [
+        "MDR charges",
+        "Service charges",
+        "Processing fees",
+        "Transaction fees"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Congress MP Gaurav Gogoi stated that the Parliament Standing Committee did not discuss the Merchant Discount Rate (MDR) charges on UPI transactions. He added that government representatives failed to provide specific or satisfactory answers regarding the need for new UPI charges.",
+      "background": "The issue of imposing MDR on UPI transactions, particularly those above a certain threshold (like ₹2,000 as mentioned in other articles), has sparked political debate, with opposition leaders alleging government capitulation to US pressure. Currently, UPI peer-to-peer and peer-to-merchant transactions are largely free for users.",
+      "examRelevance": "MDR charges = on UPI transactions, not discussed by Parliament Standing Committee as per Gaurav Gogoi.",
+      "tags": [
+        "UPI",
+        "MDR",
+        "Parliament Standing Committee",
+        "Gaurav Gogoi",
+        "Economy",
+        "Digital Payments"
+      ],
+      "source": {
+        "title": "Parliament Standing Committee didn’t discuss MDR charges on UPI transactions, says Gaurav Gogoi",
+        "url": "https://www.thehindu.com/business/Economy/parliament-standing-committee-didnt-discuss-mdr-charges-on-upi-transactions-says-gaurav-gogoi/article71475383.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q11",
+      "question": "What event related to the National Stock Exchange (NSE) is currently in focus in the stock markets, as mentioned in recent reports?",
+      "options": [
+        "Initial Public Offering (IPO)",
+        "New trading platform launch",
+        "Debt issuance",
+        "Merger with BSE"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Initial Public Offering (IPO) of the National Stock Exchange (NSE) is currently in focus in the stock markets. This comes as domestic equities traded marginally higher following a U.S. Fed rate hike.",
+      "background": "An IPO is the process by which a privately held company offers its shares to the public for the first time. The NSE has been contemplating an IPO for some time, and its potential listing is a significant event for the Indian capital markets.",
+      "examRelevance": "NSE = IPO in focus in stock markets.",
+      "tags": [
+        "NSE",
+        "IPO",
+        "Stock Market",
+        "Economy",
+        "Financial Markets"
+      ],
+      "source": {
+        "title": "Stock markets trade marginally higher after U.S. Fed rate hike; NSE IPO in focus",
+        "url": "https://www.thehindu.com/business/markets/stock-markets-trade-marginally-higher-after-us-fed-rate-hike-nse-ipo-in-focus/article71475428.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q12",
+      "question": "Which Indian High Court recently allowed the correction of school records, such as names or birth dates, even after a student has left the institution?",
+      "options": [
+        "Madras High Court",
+        "Calcutta High Court",
+        "Bombay High Court",
+        "Delhi High Court"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Bombay High Court recently delivered a judgment allowing students to correct errors in their school records or leaving certificates, including inaccuracies in names or birth dates, even after they have left the school.",
+      "background": "This judgment provides significant relief to individuals who previously faced difficulties in rectifying errors in their official documents, which can impact various aspects of their lives, including employment and further education.",
+      "examRelevance": "Bombay High Court = allowed correction of school records post-leaving.",
+      "tags": [
+        "Bombay High Court",
+        "School Records",
+        "Legal Judgment",
+        "Education",
+        "Maharashtra"
+      ],
+      "source": {
+        "title": "Bombay Court allows correction of school records even after leaving",
+        "url": "https://www.thehindu.com/news/national/maharashtra/bombay-court-allows-correction-of-school-records-even-after-leaving/article71473076.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q13",
+      "question": "Which investment instrument recently turned a ₹1 lakh investment into ₹3.95 lakh, yielding a significant return upon premature redemption?",
+      "options": [
+        "Sovereign Gold Bond (SGB)",
+        "Kisan Vikas Patra (KVP)",
+        "Public Provident Fund (PPF)",
+        "National Savings Certificate (NSC)"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "A Sovereign Gold Bond (SGB) investment recently demonstrated substantial growth, converting an initial ₹1 lakh investment into ₹3.95 lakh upon its premature redemption date. This represents a 295% return on investment.",
+      "background": "Sovereign Gold Bonds are government securities denominated in grams of gold. They are substitutes for holding physical gold, offering benefits like interest payments and capital appreciation linked to gold prices, without the risks of storage.",
+      "examRelevance": "Sovereign Gold Bond (SGB) = turned ₹1 lakh investment into ₹3.95 lakh.",
+      "tags": [
+        "SGB",
+        "Sovereign Gold Bond",
+        "Investment",
+        "Gold",
+        "Economy",
+        "Financial Products"
+      ],
+      "source": {
+        "title": "SGB turns Rs 1L investment into Rs 3.95L",
+        "url": "https://economictimes.indiatimes.com/wealth/invest/295-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-95-lakh/articleshow/134302845.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q14",
+      "question": "Manoj Jarange, an activist known for demanding Maratha quota reservation, recently stated that his tour might be cancelled due to health issues from a hunger strike. In which state is he leading this agitation?",
+      "options": [
+        "Karnataka",
+        "Maharashtra",
+        "Gujarat",
+        "Madhya Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Maratha quota activist Manoj Jarange recently announced that his proposed tour might be cancelled due to health issues arising from his ongoing hunger strike. He emphasizes that reservation is more important than the tour.",
+      "background": "Manoj Jarange has been a prominent figure in the agitation for reservation for the Maratha community in Maharashtra. His protests often involve hunger strikes and public demonstrations, leading to significant political and social attention. Mumbai Police have also sought clarification from him regarding proposed protests.",
+      "examRelevance": "Manoj Jarange = Maratha quota activist in Maharashtra, facing health issues from hunger strike.",
+      "tags": [
+        "Manoj Jarange",
+        "Maratha Quota",
+        "Reservation",
+        "Hunger Strike",
+        "Maharashtra",
+        "Social Activism"
+      ],
+      "source": {
+        "title": "I’m facing health issues due to hunger strike, tour might be cancelled: Jarange",
+        "url": "https://www.thehindu.com/news/national/maharashtra/im-facing-health-issues-due-to-hunger-strike-tour-might-be-cancelled-jarange/article71471354.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q15",
+      "question": "Which specific line of Bengaluru's Namma Metro is likely to miss its September deadline due to pending approvals for rolling stock?",
+      "options": [
+        "Green Line",
+        "Yellow Line",
+        "Purple Line",
+        "Pink Line"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Pink Line of Bengaluru's Namma Metro is expected to miss its September deadline for completion. The Bangalore Metro Rail Corporation Limited (BMRCL) is still awaiting sanction for its rolling stock, with the application submitted to the Railway Board on September 7.",
+      "background": "The Namma Metro is the rapid transit system serving the city of Bengaluru, Karnataka. Various lines are under construction or planning to expand connectivity across the city. Delays in approvals and construction are common challenges for such large-scale infrastructure projects.",
+      "examRelevance": "Namma Metro Pink Line = likely to miss September deadline.",
+      "tags": [
+        "Namma Metro",
+        "Pink Line",
+        "Bengaluru",
+        "BMRCL",
+        "Infrastructure",
+        "Project Delay"
+      ],
+      "source": {
+        "title": "Namma Metro: Pink Line may miss September deadline as approvals pending",
+        "url": "https://www.thehindu.com/news/national/karnataka/namma-metro-pink-line-may-miss-september-deadline-as-approvals-remain-pending/article71473162.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q16",
+      "question": "Which country's hockey players were recently reported to be inspired by the Bollywood film 'Chak De! India' ahead of their Asian Games clash?",
+      "options": [
+        "Indonesia",
+        "Malaysia",
+        "Thailand",
+        "Singapore"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Indonesia's hockey players have expressed their admiration and inspiration from the Bollywood film 'Chak De! India'. This sentiment was highlighted ahead of their clash at the Asian Games.",
+      "background": "'Chak De! India' is a popular 2007 Indian sports film about a former hockey star who coaches the Indian women's national hockey team to a World Cup victory. It is known for its motivational themes and patriotism.",
+      "examRelevance": "Indonesia's hockey players = inspired by 'Chak De! India'.",
+      "tags": [
+        "Indonesia",
+        "Hockey",
+        "Chak De! India",
+        "Asian Games",
+        "Sports",
+        "Bollywood"
+      ],
+      "source": {
+        "title": "Why Indonesia’s hockey players love Chak De! India",
+        "url": "https://economictimes.indiatimes.com/news/sports/hockey/chak-de-india-inspires-indonesias-hockey-underdogs-ahead-of-asian-games-clash/articleshow/134302762.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q17",
+      "question": "Which state's Food and Drug Administration (FDA) Commissioner recently made recommendations to the National Pharmaceutical Pricing Authority (NPPA) regarding the pricing gap of hospital consumables?",
+      "options": [
+        "Gujarat",
+        "Tamil Nadu",
+        "Maharashtra",
+        "Karnataka"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The Maharashtra FDA Commissioner, Tukaram Munde, recently made a recommendation to the National Pharmaceutical Pricing Authority (NPPA) concerning the significant pricing gap observed in hospital consumables. The aim is to address the issue where patients are unaware of the actual cost versus the marked-up price of medical items.",
+      "background": "The NPPA is a government regulatory body that controls the prices of pharmaceutical drugs in India. Recommendations like these aim to bring transparency and fairness in healthcare costs for patients.",
+      "examRelevance": "Maharashtra FDA Commissioner = recommended NPPA on hospital consumable pricing gap.",
+      "tags": [
+        "Maharashtra FDA",
+        "NPPA",
+        "Hospital Pricing",
+        "Healthcare",
+        "Economy",
+        "Consumables"
+      ],
+      "source": {
+        "title": "Hospital pricing gets a ₹11 IV reality check",
+        "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/hospitals-seek-new-pricing-rules-as-maharashtra-fda-flags-high-markups/articleshow/134302712.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q18",
+      "question": "A recent song by a Bengaluru man highlighted the crumbling infrastructure, potholes, flooding, and traffic issues in which Indian city?",
+      "options": [
+        "Delhi",
+        "Bengaluru",
+        "Chennai",
+        "Mumbai"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "A Bengaluru resident recently released a song that critically highlights the city's infrastructure woes, including widespread potholes, recurrent flooding, and severe traffic congestion. The song advocates for basic drivable roads in the city.",
+      "background": "Bengaluru, often called the 'Silicon Valley of India,' has faced persistent challenges with its civic infrastructure despite its rapid economic growth. Public expressions like this song reflect citizen frustration and calls for improved governance.",
+      "examRelevance": "Bengaluru = city whose infrastructure issues were highlighted in a song.",
+      "tags": [
+        "Bengaluru",
+        "Infrastructure",
+        "Potholes",
+        "Flooding",
+        "Traffic",
+        "Art"
+      ],
+      "source": {
+        "title": "Bengaluru man’s song on crumbling infrastructure, potholes, flooding, traffic",
+        "url": "https://www.thehindu.com/news/cities/bangalore/bengalurus-infrastructure-woes-strike-a-musical-chord/article71473332.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q19",
+      "question": "Anto Augustine, the Managing Director of Reporter TV, was recently arrested by the Excise Department in an Abkari case. In which city was he arrested?",
+      "options": [
+        "Thrissur",
+        "Thiruvananthapuram",
+        "Kozhikode",
+        "Kochi"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Anto Augustine, the Managing Director of Reporter TV, was arrested from his channel’s office in Kochi by the Excise Department. The arrest was made in an Abkari case on charges of alleged possession of liquor in excess of the legally permissible limit.",
+      "background": "The Abkari Act deals with the laws relating to the manufacture, import, export, transport, purchase, possession, and sale of intoxicating liquor and intoxicating drugs in certain states, notably Kerala.",
+      "examRelevance": "Anto Augustine = Reporter TV MD, arrested in Kochi in Abkari case.",
+      "tags": [
+        "Anto Augustine",
+        "Reporter TV",
+        "Abkari Case",
+        "Excise Department",
+        "Kochi",
+        "Kerala"
+      ],
+      "source": {
+        "title": "Anto Augustine arrested by Excise in Abkari case",
+        "url": "https://www.thehindu.com/news/national/kerala/anto-augustine-arrested-by-excise-in-abkari-case/article71475222.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q20",
+      "question": "Mark Carney, who is preparing for an EU Parliament speech and whose Europe push is drawing attention, is associated with which country?",
+      "options": [
+        "United Kingdom",
+        "United States",
+        "Ireland",
+        "Canada"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Mark Carney, a prominent figure, is associated with Canada. His focus on Europe is drawing attention and he is preparing for a speech in the EU Parliament.",
+      "background": "Mark Carney is a Canadian economist and banker who has served as the Governor of the Bank of Canada and the Governor of the Bank of England. He is known for his roles in international finance and climate-related financial disclosures.",
+      "examRelevance": "Mark Carney = Canadian, preparing for EU Parliament speech.",
+      "tags": [
+        "Mark Carney",
+        "Canada",
+        "EU Parliament",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Carney’s Europe push puts Trump on the defensive",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/canadas-european-pivot-draws-trump-threat-as-mark-carney-prepares-for-eu-parliament-speech/articleshow/134302681.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q21",
+      "question": "Which port, located in Oman, is being pitched as a new facility that could provide India with better access to Gulf energy, away from the Strait of Hormuz?",
+      "options": [
+        "Duqm Port",
+        "Sohar Port",
+        "Salalah Port",
+        "Khasab Port"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Oman is pitching Sohar Port as a new strategic facility that could enhance India's access to Gulf energy resources. The port's location, away from the conflict-hit Strait of Hormuz and close to vital energy pipelines of the UAE and eastern Saudi Arabia, makes it a significant alternative.",
+      "background": "The Strait of Hormuz is a critical chokepoint for global oil shipments. Developing alternative routes and partnerships, like with Oman's Sohar Port, can enhance energy security and reduce reliance on volatile regions.",
+      "examRelevance": "Sohar Port, Oman = pitched for India's access to Gulf energy.",
+      "tags": [
+        "Sohar Port",
+        "Oman",
+        "India",
+        "Gulf Energy",
+        "Strait of Hormuz",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Oman pitches new port that could give India better access to Gulf energy",
+        "url": "https://www.thehindu.com/news/national/oman-pitches-new-port-that-could-give-india-better-access-to-gulf-energy/article71473404.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q22",
+      "question": "Anant Nag, a prominent actor, was recently mentioned for being the second actor after Dr. Rajkumar to win the country’s highest award in which regional cinema?",
+      "options": [
+        "Tamil cinema",
+        "Kannada cinema",
+        "Malayalam cinema",
+        "Telugu cinema"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "Anant Nag, a versatile actor, is recognized as only the second actor, after Dr. Rajkumar, to win the country's highest award in Kannada cinema. He is known for his extensive range, from sombre to comic roles.",
+      "background": "Dr. Rajkumar is a legendary figure in Kannada cinema, often regarded as one of the greatest actors in the history of Indian cinema. Anant Nag's achievement places him in an elite category within the industry.",
+      "examRelevance": "Anant Nag = second actor after Dr. Rajkumar to win highest award in Kannada cinema.",
+      "tags": [
+        "Anant Nag",
+        "Dr. Rajkumar",
+        "Kannada Cinema",
+        "Awards",
+        "Art & Culture",
+        "Actor"
+      ],
+      "source": {
+        "title": "From sombre to comic, the infinite range of Anant Nag",
+        "url": "https://www.thehindu.com/news/national/karnataka/from-sombre-to-comic-the-infinite-range-of-anant-nag/article71473964.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q23",
+      "question": "The automotive brand Seat, which may disappear after 75 years, is owned by which major car manufacturer?",
+      "options": [
+        "Volkswagen",
+        "BMW",
+        "Renault",
+        "Mercedes-Benz"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The automotive brand Seat, which has been in existence for 75 years, might be phased out by its parent company, Volkswagen. This move is reportedly part of a broader overhaul within Volkswagen as Chinese rivals reshape the global auto industry.",
+      "background": "Seat, S.A. is a Spanish automobile manufacturer, which has been a wholly-owned subsidiary of the Volkswagen Group since 1986. The potential discontinuation of the brand reflects strategic shifts in the highly competitive global automotive market.",
+      "examRelevance": "Seat = automotive brand, owned by Volkswagen, may disappear.",
+      "tags": [
+        "Seat",
+        "Volkswagen",
+        "Automotive",
+        "Business",
+        "Brand",
+        "Economy"
+      ],
+      "source": {
+        "title": "Why Volkswagen may let Seat disappear after 75 years",
+        "url": "https://economictimes.indiatimes.com/news/international/business/volkswagen-overhaul-puts-seats-future-at-risk-as-chinese-rivals-reshape-global-auto-industry/articleshow/134302507.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q24",
+      "question": "Mirwaiz Umar Farooq recently urged restraint following a reported drone attack near which holy city?",
+      "options": [
+        "Medina",
+        "Mecca",
+        "Jerusalem",
+        "Karbala"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Mirwaiz Umar Farooq called for all sides to exercise restraint and return to dialogue and diplomacy after a reported drone attack near the holy city of Mecca. He highlighted that the region is already suffering from prolonged conflict.",
+      "background": "Mecca, located in Saudi Arabia, is the holiest city in Islam and the destination for the annual Hajj pilgrimage. Any attack near it raises significant international concern due to its religious importance. Mirwaiz Umar Farooq is a prominent Kashmiri religious and political leader.",
+      "examRelevance": "Mirwaiz Umar Farooq = urged restraint after reported drone attack near Mecca.",
+      "tags": [
+        "Mirwaiz Umar Farooq",
+        "Mecca",
+        "Drone Attack",
+        "International Relations",
+        "Conflict",
+        "Saudi Arabia"
+      ],
+      "source": {
+        "title": "Exercise restraint: Mirwaiz on reported drone attack near Mecca",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/exercise-restraint-mirwaiz-on-reported-drone-attack-near-mecca/article71473097.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q25",
+      "question": "The U.S. House of Representatives recently passed a Russia sanctions bill that authorizes the U.S. President to impose tariffs of up to what percentage on India and other countries for buying oil and gas from Russia?",
+      "options": [
+        "75%",
+        "100%",
+        "25%",
+        "50%"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The U.S. House of Representatives recently passed a Russia sanctions bill that authorizes the U.S. President to impose tariffs of up to 100% on India and other countries if they continue to purchase oil and gas from Russia. This bill aims to hit the Kremlin's coffers hard.",
+      "background": "This bill, also known as the Lindsey O Graham Sanctioning Russia and Iran Act, reflects ongoing international efforts to pressure Russia over its actions. India has maintained its energy imports from Russia, citing national energy security interests, leading to diplomatic complexities with the U.S.",
+      "examRelevance": "U.S. Russia sanctions bill = authorizes up to 100% tariffs on countries (e.g., India) buying Russian oil/gas.",
+      "tags": [
+        "US",
+        "Russia Sanctions",
+        "India",
+        "Tariffs",
+        "Oil & Gas",
+        "International Relations"
+      ],
+      "source": {
+        "title": "U.S. House passes Russia sanctions bill seeking to impose up to 100% tariffs on India, others",
+        "url": "https://www.thehindu.com/news/international/us-house-passes-russia-sanctions-bill-india-tariffs/article71474350.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q26",
+      "question": "Which two diseases have emerged as major killers in Kerala this season, with the state reporting significant cases and deaths as of September 15?",
+      "options": [
+        "Dengue and Malaria",
+        "Hepatitis and Tuberculosis",
+        "Chikungunya and Typhoid",
+        "Influenza and Leptospirosis"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "As of September 15, influenza and leptospirosis have emerged as major killers in Kerala this season. The state reported 10,244 cases of influenza with 109 deaths, and 100 confirmed leptospirosis deaths along with 78 probable deaths.",
+      "background": "Kerala often faces seasonal outbreaks of infectious diseases, influenced by its tropical climate and monsoon patterns. Public health departments monitor these trends to implement preventive measures and manage outbreaks. Climate change is also identified as increasing dengue risk in the state.",
+      "examRelevance": "Kerala = Influenza and Leptospirosis are major killers this season.",
+      "tags": [
+        "Kerala",
+        "Influenza",
+        "Leptospirosis",
+        "Public Health",
+        "Disease Outbreak"
+      ],
+      "source": {
+        "title": "Influenza, leptospirosis emerge as major killers this season in Keralam",
+        "url": "https://www.thehindu.com/news/national/kerala/influenza-leptospirosis-emerge-as-major-killers-this-season-in-keralam/article71472830.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q27",
+      "question": "The Indian Rupee recently slipped below what level against the U.S. dollar in early trade?",
+      "options": [
+        "90 per dollar",
+        "96 per dollar",
+        "85 per dollar",
+        "92 per dollar"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Indian Rupee recently slipped below the 96 per dollar level in early trade. However, it later pared some losses and traded with a gain of 10 paise, possibly due to suspected intervention by the Reserve Bank of India (RBI).",
+      "background": "The exchange rate of the Indian Rupee against the U.S. dollar is a key economic indicator, influenced by factors such as foreign fund flows, global economic cues, and interventions by the central bank to manage volatility.",
+      "examRelevance": "Indian Rupee = slipped below 96 per dollar.",
+      "tags": [
+        "Indian Rupee",
+        "US Dollar",
+        "Exchange Rate",
+        "Economy",
+        "RBI",
+        "Forex"
+      ],
+      "source": {
+        "title": "Rupee slips below 96 per dollar level in early trade",
+        "url": "https://www.thehindu.com/business/markets/rupee-slips-below-96-per-dollar-level-in-early-trade/article71475324.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q28",
+      "question": "Which High Court recently asked the Central government if it plans to regulate addictive features on social media platforms?",
+      "options": [
+        "Calcutta High Court",
+        "Karnataka High Court",
+        "Bombay High Court",
+        "Delhi High Court"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Delhi High Court recently questioned the Central government about its plans to regulate engagement-maximizing and addiction-causing design features on social media applications. The bench stated it would hear the Public Interest Litigation (PIL) seeking an expert committee on this matter after three weeks.",
+      "background": "Concerns about the addictive nature of social media and its impact on mental health, especially among youth, have led to increasing calls for regulation worldwide. This PIL in India reflects similar societal concerns.",
+      "examRelevance": "Delhi High Court = asked Centre about regulating addictive social media features.",
+      "tags": [
+        "Delhi High Court",
+        "Social Media",
+        "Addiction",
+        "Regulation",
+        "Government",
+        "PIL"
+      ],
+      "source": {
+        "title": "Does Centre plan to regulate addictive features on social media: Delhi HC",
+        "url": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-asks-government-if-it-is-contemplating-policy-to-regulate-addiction-causing-features-on-social-media-apps/article71471823.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q29",
+      "question": "António Guterres, the Secretary-General of the United Nations, recently criticized the paralysis of the Security Council, stating that global powers violating international law sit in it. What is his designation?",
+      "options": [
+        "UN Secretary-General",
+        "President of the International Court of Justice",
+        "High Commissioner for Human Rights",
+        "President of the UN General Assembly"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "António Guterres, the UN Secretary-General, recently highlighted the paralysis of the Security Council. He stated that this paralysis is due to global powers that violate international law themselves also holding seats in the Security Council.",
+      "background": "The UN Security Council is one of the six principal organs of the United Nations, charged with ensuring international peace and security. Its five permanent members (China, France, Russia, the United Kingdom, and the United States) hold veto power, which can lead to stalemates on critical issues.",
+      "examRelevance": "António Guterres = UN Secretary-General, criticized Security Council paralysis.",
+      "tags": [
+        "António Guterres",
+        "UN",
+        "Security Council",
+        "International Law",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Global powers that themselves violate international law sit in Security Council: Guterres",
+        "url": "https://www.thehindu.com/news/international/global-powers-that-themselves-violate-international-law-sit-in-security-council-guterres/article71475285.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-17-q30",
+      "question": "The Centre recently informed the Delhi High Court that competent adults can nominate same-sex partners for medical decisions in case of incapacity, subject to law and safeguards. Which court was informed of this stance?",
+      "options": [
+        "Delhi High Court",
+        "Madras High Court",
+        "Supreme Court of India",
+        "Bombay High Court"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Central government, along with the National Medical Commission (NMC), informed the Delhi High Court that competent adults can nominate their same-sex partners for medical decisions if they become incapacitated. This is subject to existing laws and necessary safeguards.",
+      "background": "This development comes amidst ongoing discussions and legal proceedings regarding LGBTQ+ rights in India, particularly concerning the recognition of same-sex relationships and associated legal protections.",
+      "examRelevance": "Centre = informed Delhi HC that same-sex partners can be nominated for medical decisions.",
+      "tags": [
+        "Same-sex partners",
+        "Medical Decisions",
+        "Delhi High Court",
+        "Centre",
+        "LGBTQ+",
+        "Polity"
+      ],
+      "source": {
+        "title": "Same-sex partners can be nominated for medical decisions, Centre tells Delhi HC",
+        "url": "https://www.thehindu.com/news/cities/Delhi/centre-tells-delhi-hc-queer-partners-can-be-nominated-for-medical-decisions/article71472906.ece"
+      }
+    }
+  ]
+}
