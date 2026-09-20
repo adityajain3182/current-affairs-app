@@ -1,0 +1,771 @@
+{
+  "id": "daily-2026-09-20",
+  "type": "daily",
+  "date": "2026-09-20",
+  "title": "Current Affairs — 20 Sept 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-09-20-q1",
+      "question": "The Veligonda project, recently revived in Andhra Pradesh, primarily aims to address which long-standing issue in the region?",
+      "options": [
+        "Urban housing shortages and infrastructure development",
+        "Chronic drought, depleted water resources, and fluoride contamination",
+        "Industrial pollution and waste management",
+        "Coastal erosion and sea-level rise"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The Veligonda project in Andhra Pradesh, conceived as a long-term response to a nearly four-decade fight against chronic drought, depleted water resources, and fluoride contamination, aims to create a large irrigation network spanning four districts and 30 mandals, while also extending drinking water facilities to drought-prone populations.",
+      "background": "This project has been a long-standing initiative to combat severe water scarcity and quality issues in parts of Andhra Pradesh, highlighting the state's ongoing efforts in water resource management and rural development.",
+      "examRelevance": "Veligonda project addresses chronic drought, water depletion, and fluoride contamination in Andhra Pradesh.",
+      "tags": [
+        "Veligonda Project",
+        "Andhra Pradesh",
+        "Irrigation",
+        "Water Resources"
+      ],
+      "source": {
+        "title": "Hope flows anew with revival of Andhra’s Veligonda project",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/hope-flows-anew-with-revival-of-andhras-veligonda-project/article71479450.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q2",
+      "question": "Which individual's social media network was recently designated as a terror group by the Indian Home Ministry?",
+      "options": [
+        "Shahzad Bhatti",
+        "Hafiz Saeed",
+        "Imran Khan",
+        "Masood Azhar"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Pakistani social media influencer Shahzad Bhatti's campaign, which aimed to establish fear and clout in India, has spread to 14 States, leading the Indian Home Ministry to designate his network as a terror group.",
+      "background": "The designation of a social media network as a terror group by the Home Ministry underscores the growing concern over online radicalization and the use of digital platforms for hostile activities across borders.",
+      "examRelevance": "Shahzad Bhatti's social media network designated as a terror group by Indian Home Ministry.",
+      "tags": [
+        "Shahzad Bhatti",
+        "Terror Group",
+        "Home Ministry",
+        "Social Media"
+      ],
+      "source": {
+        "title": "The digital recruiter | Shahzad Bhatti",
+        "url": "https://www.thehindu.com/profile/the-digital-recruiter-shahzad-bhatti/article71485789.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q3",
+      "question": "Which city was recently targeted by a ballistic missile launched by the Houthis, according to the Riyadh-led coalition?",
+      "options": [
+        "Abu Dhabi",
+        "Dubai",
+        "Doha",
+        "Riyadh"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The Riyadh-led coalition confirmed on September 19, 2026, that a ballistic missile launched by the Houthis towards the capital, Riyadh, was successfully intercepted and destroyed.",
+      "background": "Attacks by Houthi rebels on Saudi Arabian targets have been a recurring feature of the Yemen conflict, leading to ongoing regional instability and international concern over potential escalation in West Asia.",
+      "examRelevance": "Houthis attacked Riyadh with a ballistic missile on September 19, 2026.",
+      "tags": [
+        "Houthis",
+        "Riyadh",
+        "Ballistic Missile",
+        "West Asia"
+      ],
+      "source": {
+        "title": "U.S. fears rapid escalation in West Asia after Houthis attack Riyadh",
+        "url": "https://www.thehindu.com/news/international/us-fears-rapid-escalation-in-west-asia-after-houthis-attack-riyadh/article71487153.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q4",
+      "question": "What is NMDC's target for iron ore production for the current fiscal year?",
+      "options": [
+        "70 MT",
+        "100 MT",
+        "50 MT",
+        "60 MT"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "NMDC, India's largest iron ore producer, is looking to hit the 60 MT (million tonnes) iron ore production mark this fiscal year. Additionally, it aims to scale its output to 100 MT by 2030-31.",
+      "background": "This target is aligned with the National Steel Policy 2017, which aims for an installed domestic steelmaking capacity of 300 MT by 2030-31, positioning NMDC as a key player in supporting India's steel industry growth.",
+      "examRelevance": "NMDC targets 60 MT iron ore production this fiscal, 100 MT by 2030-31.",
+      "tags": [
+        "NMDC",
+        "Iron Ore",
+        "Production Target",
+        "National Steel Policy"
+      ],
+      "source": {
+        "title": "NMDC looks to hit 60 MT iron ore production mark this fiscal: Chairman",
+        "url": "https://www.thehindu.com/business/Industry/nmdc-looks-to-hit-60-mt-iron-ore-production-mark-this-fiscal-chairman/article71487223.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q5",
+      "question": "The Uttar Pradesh High Court recently affirmed that being in a live-in relationship is a fundamental right for two adult citizens. This ruling is based on the law laid down by which judicial body?",
+      "options": [
+        "The Lok Adalat",
+        "The District Court",
+        "The Supreme Court",
+        "The High Court itself"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Uttar Pradesh High Court, considering the law laid down by the Supreme Court, directed the Uttar Pradesh Police to ensure the safety of a same-sex couple in a live-in relationship, stating that it is a fundamental right of two adult citizens who decide to live together by choice.",
+      "background": "The Supreme Court of India has, in various judgments, affirmed the right to live-in relationships for consenting adults, recognizing it as a part of the right to life and personal liberty under Article 21 of the Constitution.",
+      "examRelevance": "UP High Court affirmed live-in relationship as fundamental right, citing Supreme Court law.",
+      "tags": [
+        "Live-in Relationship",
+        "Fundamental Right",
+        "Uttar Pradesh High Court",
+        "Supreme Court"
+      ],
+      "source": {
+        "title": "High Court directs Uttar Pradesh Police to ensure safety of same-sex couple in live-in relationship",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/high-court-directs-uttar-pradesh-police-to-ensure-safety-of-same-sex-couple-in-live-in-relationship/article71487019.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q6",
+      "question": "How many electors were flagged by the Election Commission of India (ECI) in Delhi for 'logical discrepancies' or 'no mapping' in their details?",
+      "options": [
+        "4.5 million",
+        "1.3 million",
+        "3.31 million",
+        "2.2 million"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Election Commission of India (ECI) published a list of 33.1 lakh (3.31 million) electors in Delhi, who were flagged either because of 'logical discrepancies' in their details or 'no mapping'. Prominent names in this list included former Vice President Jagdeep Dhankhar and former CM Kejriwal.",
+      "background": "This exercise, often termed a Special Electoral Roll Revision (SIR), aims to clean up electoral rolls and ensure accuracy, though it can lead to confusion and challenges for voters, particularly those with fewer documents.",
+      "examRelevance": "ECI flagged 3.31 million electors in Delhi for discrepancies.",
+      "tags": [
+        "ECI",
+        "Delhi",
+        "Electoral Roll",
+        "Voter List"
+      ],
+      "source": {
+        "title": "CM Rekha Gupta, former CM Kejriwal among those to get notices amid Delhi SIR",
+        "url": "https://www.thehindu.com/news/cities/Delhi/delhi-election-commission-publishes-names-excluded-from-delhi-electoral-roll/article71484653.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q7",
+      "question": "What was a significant characteristic of the recently concluded Russian election, as reported?",
+      "options": [
+        "Barring of most anti-war candidates from the ballot",
+        "A large number of anti-war candidates on the ballot",
+        "High participation of international observers",
+        "Unanimous international endorsement of the results"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The Russian election, cast as a test of support for the Ukraine war, entered its final day with most anti-war candidates being barred from the ballot. Those who did run from the liberal Yabloko party expressed fears for their freedom after courts handed long jail terms to senior party figures for comments deemed illegal about the conflict.",
+      "background": "Elections in Russia, particularly since the conflict in Ukraine, have been subject to international scrutiny regarding fairness and the suppression of dissent, with critics often highlighting limitations on opposition participation.",
+      "examRelevance": "Most anti-war candidates were barred from the ballot in the recent Russian election.",
+      "tags": [
+        "Russian Election",
+        "Ukraine War",
+        "Anti-war Candidates",
+        "Political Freedom"
+      ],
+      "source": {
+        "title": "Russian election, cast as test of support for Ukraine war, enters final day",
+        "url": "https://www.thehindu.com/news/international/russian-election-cast-as-test-of-support-for-ukraine-war-enters-final-day/article71487152.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q8",
+      "question": "Who recently became the leading run-scorer in Women's T20 Internationals (WT20I)?",
+      "options": [
+        "Harmanpreet Kaur",
+        "Smriti Mandhana",
+        "Meg Lanning",
+        "Mithali Raj"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Smriti Mandhana became the leading run-scorer in Women's T20 Internationals (WT20I) during the Asian Games 2026 semi-final against Bangladesh.",
+      "background": "This achievement highlights Mandhana's consistent performance and growing stature in women's cricket, particularly in the shortest format of the game. Her record was set during a major continental multi-sport event.",
+      "examRelevance": "Smriti Mandhana became the leading run-scorer in Women's T20 Internationals.",
+      "tags": [
+        "Smriti Mandhana",
+        "WT20I",
+        "Cricket",
+        "Asian Games"
+      ],
+      "source": {
+        "title": "Smriti Mandhana now WT20I's leading run-scorer",
+        "url": "https://economictimes.indiatimes.com/news/sports/cricket/smriti-mandhana-becomes-leading-run-scorer-in-womens-t20is-achieves-feat-during-asian-games-2026-semi-final-against-bangladesh/articleshow/134364178.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q9",
+      "question": "Which medal did India secure in the women's 10m air rifle team event at the Asian Games 2026?",
+      "options": [
+        "Gold",
+        "Bronze",
+        "Silver",
+        "No medal"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "India secured a silver medal in the women’s 10m air rifle team event at the Aichi-Nagoya Asian Games 2026. The team of Elavenil Valarivan, Sonam Maskar, and Vidarsa Vinod combined for a total of 1898.0 points, finishing second behind China.",
+      "background": "This was India's first medal at the Asian Games 2026, marking a strong start to their campaign in Aichi-Nagoya, Japan. The Chinese team set a new world record score in the event.",
+      "examRelevance": "India won silver in women's 10m air rifle team event at Asian Games 2026.",
+      "tags": [
+        "Asian Games 2026",
+        "Shooting",
+        "Silver Medal",
+        "Elavenil Valarivan",
+        "Sonam Maskar",
+        "Vidarsa Vinod"
+      ],
+      "source": {
+        "title": "India open shooting campaign with silver in women's 10m air rifle team event",
+        "url": "https://www.thehindu.com/sport/india-open-shooting-campaign-with-silver-in-womens-10m-air-rifle-team-event/article71487112.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q10",
+      "question": "In which sport did Suchika Tariyal assure India of its first medal at the Asian Games 2026 by reaching the semifinals?",
+      "options": [
+        "Boxing",
+        "Wrestling",
+        "Mixed Martial Arts (MMA)",
+        "Judo"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Suchika Tariyal assured India of its first medal at the Asian Games 2026 by reaching the semifinals in the women’s Traditional MMA 60kg category. A place in the semifinals guarantees at least a bronze medal in MMA.",
+      "background": "Mixed Martial Arts (MMA) is a relatively newer addition to major multi-sport events like the Asian Games. Tariyal's achievement marks a significant milestone for India in this sport on a continental stage.",
+      "examRelevance": "Suchika Tariyal secured India's first Asian Games 2026 medal in Mixed Martial Arts (MMA).",
+      "tags": [
+        "Suchika Tariyal",
+        "Asian Games 2026",
+        "MMA",
+        "Medal"
+      ],
+      "source": {
+        "title": "Suchika Tariyal confirms first medal for India at Asian Games with MMA semifinal berth",
+        "url": "https://www.thehindu.com/sport/suchika-tariyal-confirms-first-medal-for-india-at-asian-games-with-mma-semifinal-berth/article71487058.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q11",
+      "question": "The Indian women's hockey team achieved a dominant victory against which country with a score of 19-0 at the Asian Games 2026?",
+      "options": [
+        "Uzbekistan",
+        "Thailand",
+        "Malaysia",
+        "Indonesia"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "The Indian women’s hockey team thrashed Uzbekistan 19-0 at the Asian Games 2026. Deepika contributed eight goals to this massive victory.",
+      "background": "Such high-scoring matches are common in the preliminary stages of major tournaments against lower-ranked teams, allowing stronger teams to boost their goal difference and build momentum for later stages.",
+      "examRelevance": "Indian women's hockey team defeated Uzbekistan 19-0 at Asian Games 2026.",
+      "tags": [
+        "Indian Women's Hockey",
+        "Asian Games 2026",
+        "Uzbekistan",
+        "Deepika"
+      ],
+      "source": {
+        "title": "Asian Games 2026: Deepika’s eight-goal blitz powers India to 19-0 hockey win over Uzbekistan",
+        "url": "https://www.thehindu.com/sport/asian-games-2026-deepikas-eight-goal-blitz-powers-india-to-19-0-hockey-win-over-uzbekistan/article71487156.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q12",
+      "question": "India's women's table tennis team opened their Asian Games 2026 campaign with a 3-0 win over which country?",
+      "options": [
+        "Thailand",
+        "Indonesia",
+        "Vietnam",
+        "Philippines"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "India's women's table tennis team opened their Asian Games 2026 campaign with a commanding 3-0 win over Indonesia. Yashaswini Ghorpade sealed the tie for India by overcoming Citra Rasmi 3-0 in the third rubber.",
+      "background": "Table tennis is a competitive sport at the Asian Games, with strong contenders from several East Asian nations. A strong start for India's team is crucial for their medal aspirations in the tournament.",
+      "examRelevance": "India women's table tennis team defeated Indonesia 3-0 at Asian Games 2026.",
+      "tags": [
+        "Indian Women's Table Tennis",
+        "Asian Games 2026",
+        "Indonesia",
+        "Yashaswini Ghorpade"
+      ],
+      "source": {
+        "title": "Asian Games 2026: India women open table tennis campaign with 3-0 win over Indonesia",
+        "url": "https://www.thehindu.com/sport/asian-games-2026-india-women-open-table-tennis-campaign-with-3-0-win-over-indonesia/article71487114.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q13",
+      "question": "Which versatile Kannada actor was recently honoured with the Dadasaheb Phalke Award?",
+      "options": [
+        "Kamal Haasan",
+        "Rajinikanth",
+        "Chiranjeevi",
+        "Anant Nag"
+      ],
+      "answerIndex": 3,
+      "category": "Awards & Honours",
+      "explanation": "Versatile Kannada actor Anant Nag, known for exploring multiple genres ranging from social drama and romance to comedy and horror, has been honoured with the Dadasaheb Phalke Award.",
+      "background": "The Dadasaheb Phalke Award is India's highest honour in the film industry, presented annually at the National Film Awards ceremony by the Directorate of Film Festivals. It recognizes outstanding contributions to Indian cinema.",
+      "examRelevance": "Anant Nag received the Dadasaheb Phalke Award.",
+      "tags": [
+        "Anant Nag",
+        "Dadasaheb Phalke Award",
+        "Kannada Actor",
+        "Indian Cinema"
+      ],
+      "source": {
+        "title": "Not in a mould | Anant Nag",
+        "url": "https://www.thehindu.com/news/national/karnataka/not-in-a-mould-anant-nag/article71485785.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q14",
+      "question": "Approximately how many drones were intercepted and shot down during a recent mass drone barrage on Moscow?",
+      "options": [
+        "1200",
+        "800",
+        "450",
+        "1600"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Moscow's Mayor Sergei Sobyanin stated that more than 1,600 drones had been intercepted and shot down during a recent mass drone barrage, with 450 of these specifically aimed at Moscow.",
+      "background": "Drone attacks on Moscow have become a feature of the ongoing conflict, indicating attempts to target the Russian capital and disrupt normal life. The scale of the reported interception highlights the intensity of such attacks.",
+      "examRelevance": "More than 1,600 drones intercepted during Moscow drone barrage.",
+      "tags": [
+        "Moscow",
+        "Drone Attack",
+        "Sergei Sobyanin",
+        "Defence"
+      ],
+      "source": {
+        "title": "Mass drone barrage on Moscow kills two",
+        "url": "https://www.thehindu.com/news/international/mass-drone-barrage-on-moscow-kills-two/article71487158.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q15",
+      "question": "When are the bypolls slated to be held in Rejinagar (West Bengal) and Madurantakam (Tamil Nadu)?",
+      "options": [
+        "September 25",
+        "December 1",
+        "October 6",
+        "November 12"
+      ],
+      "answerIndex": 2,
+      "category": "Dates & Days",
+      "explanation": "Bypolls are slated for October 6 in Rejinagar, West Bengal, and Madurantakam, Tamil Nadu. The Rejinagar bypoll was necessitated after Humayun Kabir vacated the seat, while Madurantakam also has a public holiday declared for the byelection.",
+      "background": "Bypolls are conducted to fill vacancies in legislative bodies that arise due to various reasons such as resignation, death, or disqualification of the elected representative. These bypolls are significant for regional political dynamics.",
+      "examRelevance": "Bypolls in Rejinagar (WB) and Madurantakam (TN) scheduled for October 6.",
+      "tags": [
+        "Bypolls",
+        "Rejinagar",
+        "Madurantakam",
+        "West Bengal",
+        "Tamil Nadu",
+        "October 6"
+      ],
+      "source": {
+        "title": "Bengal police arrest Rejinagar bypoll candidate days after Nandigram candidate Milan Pradhan’s arrest",
+        "url": "https://www.thehindu.com/news/national/west-bengal/bengal-police-arrest-rejinagar-bypoll-candidate-days-after-nandigram-candidate-milan-pradhans-arrest/article71487021.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q16",
+      "question": "Which new U.S. law, if fully implemented, could impact India's imports of Russian oil by imposing tariffs?",
+      "options": [
+        "The Asia Reassurance Initiative Act",
+        "The Magnitsky Act",
+        "The Lindsey O. Graham Sanctioning Russia and Iran Act, 2026",
+        "The Countering America's Adversaries Through Sanctions Act"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The U.S. introduced the Lindsey O. Graham Sanctioning Russia and Iran Act, 2026. This new law includes a particular condition that could impact India’s imports of Russian oil by imposing tariffs, although provisions for waivers exist.",
+      "background": "The U.S. frequently uses sanctions and tariff policies to exert geopolitical influence and pressure on countries, especially concerning energy trade and international relations. Such acts can have significant implications for global supply chains and economies.",
+      "examRelevance": "The Lindsey O. Graham Sanctioning Russia and Iran Act, 2026, could impact India's Russian oil imports.",
+      "tags": [
+        "US Sanctions",
+        "Russia",
+        "Iran",
+        "India",
+        "Oil Imports",
+        "Lindsey O. Graham Act"
+      ],
+      "source": {
+        "title": "How will the U.S.’s Sanctioning Act affect India? | Explained",
+        "url": "https://www.thehindu.com/news/national/how-will-the-uss-sanctioning-act-affect-india-explained/article71485870.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q17",
+      "question": "Donald Trump has directed his budget director to draft an executive order to create a board that would decide which grants would be funded by which institution?",
+      "options": [
+        "The Centers for Disease Control and Prevention",
+        "The Department of Defense",
+        "The National Institutes of Health",
+        "The National Science Foundation"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Donald Trump has directed his budget director, Russ Vought, to draft an executive order to create a board that would decide which grants would be funded by the National Institutes of Health (NIH).",
+      "background": "The National Institutes of Health (NIH) is the primary agency of the U.S. government responsible for biomedical and public health research. Centralizing control over its grant funding could significantly alter the landscape of health research in the country.",
+      "examRelevance": "Donald Trump seeks to control National Institutes of Health (NIH) research funding.",
+      "tags": [
+        "Donald Trump",
+        "National Institutes of Health",
+        "Health Research",
+        "Executive Order"
+      ],
+      "source": {
+        "title": "Donald Trump seeks to bring health-research funding under his control, Politico reports",
+        "url": "https://www.thehindu.com/news/international/donald-trump-seeks-to-bring-health-research-funding-under-his-control-politico-reports/article71487082.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q18",
+      "question": "Uttar Pradesh Chief Minister Adityanath recently announced that how many youth would receive government jobs?",
+      "options": [
+        "1 lakh",
+        "1.5 lakh",
+        "50,000",
+        "75,000"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Uttar Pradesh Chief Minister Adityanath announced that one lakh (100,000) youth would receive government jobs. He further specified that 25-30 thousand recruitments would occur through UPSSSC results and 20-25 thousand through the Uttar Pradesh Education Selection Commission.",
+      "background": "Job creation, particularly in the government sector, is a significant promise made by political leaders in India, aimed at addressing unemployment and securing public support. These announcements often involve various state-level recruitment boards.",
+      "examRelevance": "Uttar Pradesh CM Adityanath promised 1 lakh government jobs.",
+      "tags": [
+        "Uttar Pradesh",
+        "Government Jobs",
+        "Adityanath",
+        "Employment"
+      ],
+      "source": {
+        "title": "Govt jobs to one lakh youth in Uttar Pradesh, says Adityanath",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/govt-jobs-to-one-lakh-youth-in-uttar-pradesh-says-adityanath/article71487054.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q19",
+      "question": "The Hindu newspaper recently celebrated its 148th anniversary. In which year was The Hindu founded?",
+      "options": [
+        "1878",
+        "1898",
+        "1908",
+        "1888"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "The Hindu recently celebrated its 148th anniversary. This means it was founded in 1878 (2026 - 148 = 1878).",
+      "background": "The Hindu is one of India's oldest and most respected English-language newspapers, known for its extensive coverage and editorial standards. Its long history reflects its significant role in Indian journalism and public discourse.",
+      "examRelevance": "The Hindu celebrated its 148th anniversary, founded in 1878.",
+      "tags": [
+        "The Hindu",
+        "Newspaper",
+        "Anniversary",
+        "History"
+      ],
+      "source": {
+        "title": "The Hindu Foundation Day: revisiting the journey",
+        "url": "https://www.thehindu.com/specials/the-hindu-145/article67326072.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q20",
+      "question": "Approximately how many companies have fixed record dates for dividends and stock splits this week (September 21-25)?",
+      "options": [
+        "More than 150",
+        "Around 80",
+        "Less than 50",
+        "Exactly 200"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "More than 150 companies, including Hindustan Copper, Cochin Shipyard, and RCF, have fixed record dates for dividends and stock splits this week, from September 21 (Monday) to September 25 (Friday).",
+      "background": "Record dates are crucial for investors as they determine eligibility for corporate actions like dividends, bonus issues, and stock splits. Investors must hold shares in their demat accounts on the record date to receive these benefits.",
+      "examRelevance": "Over 150 companies fixed record dates for dividends/splits this week (Sept 21-25).",
+      "tags": [
+        "Corporate Actions",
+        "Dividends",
+        "Stock Splits",
+        "Record Dates",
+        "Indian Stock Market"
+      ],
+      "source": {
+        "title": "Dividends and stock splits: IRCTC, BEML among 150+ stocks with record dates this week. Check full list",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/dividends-and-stock-splits-irctc-beml-among-150-stocks-with-record-dates-this-week-check-full-list/articleshow/134363543.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q21",
+      "question": "Recent clinical trials of new, sophisticated drugs built against specific biomarkers hsCRP and Lp(a) failed to reduce the number of heart attacks and strokes. What is the key takeaway highlighted by cardiovascular medicine from this outcome?",
+      "options": [
+        "Advanced surgeries are more effective than drug interventions",
+        "Lifestyle interventions (eat well, move, don't smoke, stay lean) remain the most effective",
+        "Newer drugs are inherently superior to older medications",
+        "Genetic engineering is the future of heart disease treatment"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "New, sophisticated drugs built against specific biomarkers hsCRP and Lp(a) failed to reduce heart attacks and strokes in recent clinical trials. Cardiovascular medicine emphasizes that the interventions with the best evidence are still the 'boring ones': eat well, move, don't smoke, and stay lean.",
+      "background": "Despite advancements in pharmaceutical research, fundamental lifestyle modifications continue to be the cornerstone of preventive cardiology. This outcome reinforces the importance of public health campaigns promoting healthy living.",
+      "examRelevance": "Lifestyle interventions are key for heart attack/stroke prevention despite new drug failures.",
+      "tags": [
+        "Cardiovascular Health",
+        "Heart Attacks",
+        "Strokes",
+        "Lifestyle",
+        "Drug Trials"
+      ],
+      "source": {
+        "title": "New, sophisticated drugs did not move the needle on hearts attacks, strokes: what this teaches us",
+        "url": "https://www.thehindu.com/sci-tech/health/new-sophisticated-drugs-did-not-move-the-needs-on-hearts-attacks-strokes-what-this-teaches-us/article71467117.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q22",
+      "question": "Violent protests recently erupted in Manipur's Kangpokpi district due to the detention of which group?",
+      "options": [
+        "Student activists",
+        "Village volunteers",
+        "Environmental conservationists",
+        "Farmers protesting land acquisition"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Violent protests rocked Manipur's Kangpokpi district over the detention of six village volunteers. A senior official confirmed that the detained volunteers were subsequently released by security forces, after which the protests ended.",
+      "background": "Manipur has experienced periods of ethnic and social unrest, often leading to protests and law and order challenges. The detention of local community members can quickly escalate tensions in such sensitive regions.",
+      "examRelevance": "Violent protests in Manipur's Kangpokpi over detention of village volunteers.",
+      "tags": [
+        "Manipur",
+        "Kangpokpi",
+        "Protests",
+        "Village Volunteers",
+        "Law and Order"
+      ],
+      "source": {
+        "title": "Violent protests rock Manipur's Kangpokpi over detention of 6 villagers",
+        "url": "https://www.thehindu.com/news/national/manipur/violent-protests-rock-manipurs-kangpokpi-over-detention-of-6-villagers/article71487061.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q23",
+      "question": "Actor and political activist Prakash Raj recently raised questions about the new fee announced for which digital payment system?",
+      "options": [
+        "UPI",
+        "NEFT",
+        "IMPS",
+        "RTGS"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Actor and political activist Prakash Raj recently asked hard questions about the new UPI (Unified Payments Interface) fee that has been announced by the Indian government.",
+      "background": "UPI has been a transformative digital payment system in India, facilitating instant inter-bank transactions. Any introduction of fees or changes to its structure can draw significant public and political attention due to its widespread usage.",
+      "examRelevance": "New UPI fee announced by Indian government, questioned by Prakash Raj.",
+      "tags": [
+        "UPI",
+        "Digital Payments",
+        "Prakash Raj",
+        "Government Policy"
+      ],
+      "source": {
+        "title": "‘They called it a gift, then I sat with the gazette’: Prakash Raj on UPI fee",
+        "url": "https://www.thehindu.com/society/actor-prakash-raj-reacts-upi-fees-india-digital-payments/article71484470.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q24",
+      "question": "The Tamil Nadu government, led by Chief Minister C. Joseph Vijay, recently wrote to Prime Minister Modi seeking to change the operator of which major airport?",
+      "options": [
+        "Tiruchirappalli International Airport",
+        "Coimbatore International Airport",
+        "Chennai International Airport",
+        "Madurai Airport"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Tamil Nadu government, through Chief Minister C. Joseph Vijay, wrote to Prime Minister Modi in August, seeking to change the operator of the Chennai International Airport. The letter emphasized the importance of better airport management for attracting business and investment to the state.",
+      "background": "Major airports are critical infrastructure for economic development and connectivity. State governments often advocate for management changes to enhance efficiency, capacity, and service quality, especially in key industrial and commercial hubs.",
+      "examRelevance": "Tamil Nadu seeks to change Chennai International Airport operator.",
+      "tags": [
+        "Chennai Airport",
+        "Tamil Nadu Government",
+        "Chief Minister C. Joseph Vijay",
+        "Airport Operations"
+      ],
+      "source": {
+        "title": "T.N. government writes to PM Modi seeking to change the operator of Chennai airport",
+        "url": "https://www.thehindu.com/news/cities/chennai/tn-government-writes-to-pm-modi-seeking-to-change-the-operator-of-chennai-airport/article71481590.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q25",
+      "question": "Which political leader recently promised jobs to one crore (10 million) women in Bihar?",
+      "options": [
+        "Samrat Choudhary",
+        "Tejashwi Yadav",
+        "Nitish Kumar",
+        "Sushil Kumar Modi"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Samrat Choudhary recently promised jobs to one crore women in Bihar. He stated that women in Bihar are progressing rapidly, and their increasing economic, social, and political participation reflects the state’s changing landscape.",
+      "background": "Empowering women through employment and economic participation is a significant policy focus for many state governments in India. Such promises are often made in the context of broader development goals and electoral campaigns.",
+      "examRelevance": "Samrat Choudhary promised 1 crore jobs to women in Bihar.",
+      "tags": [
+        "Samrat Choudhary",
+        "Bihar",
+        "Women Empowerment",
+        "Jobs"
+      ],
+      "source": {
+        "title": "Samrat Choudhary promises jobs to one crore women",
+        "url": "https://www.thehindu.com/news/national/bihar/samrat-choudhary-promises-jobs-to-one-crore-women/article71485207.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q26",
+      "question": "Multiple crude bomb blasts recently rocked which city in Bangladesh?",
+      "options": [
+        "Dhaka",
+        "Chittagong",
+        "Sylhet",
+        "Khulna"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Multiple blasts, including four crude bombs in Dhaka's Jatrabari and two blasts at Kamalapur station, recently rocked Bangladesh's capital city, Dhaka.",
+      "background": "Incidents of crude bomb blasts or political violence occasionally occur in Bangladesh, particularly during periods of political tension or ahead of major elections. Such events can cause public alarm and security concerns.",
+      "examRelevance": "Multiple crude bomb blasts occurred in Dhaka, Bangladesh.",
+      "tags": [
+        "Dhaka",
+        "Bangladesh",
+        "Bomb Blasts",
+        "Security"
+      ],
+      "source": {
+        "title": "Multiple blasts rock Bangladesh's Dhaka",
+        "url": "https://economictimes.indiatimes.com/news/defence/four-crude-bombs-explode-in-dhakas-jatrabari-two-blasts-at-kamalapur-station-in-bangladesh/articleshow/134362612.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q27",
+      "question": "Which country recently defeated the USA to qualify for the Davis Cup finals?",
+      "options": [
+        "Czech Republic",
+        "Serbia",
+        "Spain",
+        "Italy"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "The Czech Republic recently defeated the USA to qualify for the Davis Cup finals. Jiri Lehecka commented on the team competition aspect of the wins.",
+      "background": "The Davis Cup is the premier international team event in men's tennis, contested annually between competing nations. Qualification for the finals is a significant achievement in the tournament structure.",
+      "examRelevance": "Czech Republic defeated USA to qualify for Davis Cup finals.",
+      "tags": [
+        "Davis Cup",
+        "Czech Republic",
+        "USA",
+        "Tennis",
+        "Jiri Lehecka"
+      ],
+      "source": {
+        "title": "Davis Cup: Czechs beat USA to qualify for finals",
+        "url": "https://www.thehindu.com/sport/tennis/davis-cup-czechs-beat-usa-to-qualify-for-finals/article71486927.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q28",
+      "question": "Which Chinese video-sharing platform are Indian creators increasingly eyeing, despite its lack of an official India launch?",
+      "options": [
+        "Kuaishou",
+        "Douyin",
+        "TikTok",
+        "Bilibili"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Indian creators are increasingly eyeing China's video-sharing platform Bilibili, often referred to as China's YouTube. This trend occurs despite Bilibili not having an official launch in India, indicating a thawing of India-China ties and potential shifts in content monetization.",
+      "background": "The digital content creation landscape is global, and creators often seek new platforms for audience reach and monetization. Bilibili, known for its anime, comics, and games (ACG) content, presents a new market opportunity for Indian creators.",
+      "examRelevance": "Indian creators are exploring China's Bilibili platform.",
+      "tags": [
+        "Bilibili",
+        "Indian Creators",
+        "China",
+        "Video Platform",
+        "Digital Content"
+      ],
+      "source": {
+        "title": "Indian creators eye China's Bilibili",
+        "url": "https://economictimes.indiatimes.com/industry/media/entertainment/bilibili-chinas-youtube-draws-indian-creators-despite-no-india-launch-as-india-china-ties-thaw-and-youtube-monetisation-set-to-tighten/articleshow/134359258.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q29",
+      "question": "The Malayalam movie 'HALF' was screened under which section at the Toronto Film Festival?",
+      "options": [
+        "Official Selection",
+        "Contemporary World Cinema",
+        "Midnight Madness",
+        "Discovery"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "The Malayalam movie 'HALF' was screened under the 'Midnight Madness' section at the Toronto Film Festival.",
+      "background": "The Toronto International Film Festival (TIFF) is one of the most prestigious film festivals globally. The 'Midnight Madness' section is typically dedicated to genre films, including horror, action, and cult cinema, often screened late at night for an enthusiastic audience.",
+      "examRelevance": "Malayalam movie 'HALF' screened in Midnight Madness section at Toronto Film Festival.",
+      "tags": [
+        "Malayalam Cinema",
+        "HALF Movie",
+        "Toronto Film Festival",
+        "Midnight Madness"
+      ],
+      "source": {
+        "title": "Malayalam movie HALF screened under Midnight Madness section at Toronto film festival",
+        "url": "https://www.thehindu.com/news/national/kerala/malayalam-movie-half-screened-under-midnight-madness-section-at-toronto-film-festival/article71485652.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-20-q30",
+      "question": "Bihar Chief Minister recently donated his one month's salary to aid flood victims in the state. Approximately how many districts in Bihar are affected by floods?",
+      "options": [
+        "15",
+        "5",
+        "10",
+        "20"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "The Bihar Chief Minister donated his one month’s salary to flood victims. In Bihar, nearly 50 lakh people are affected by floods in 15 districts. A central team led by Union Agriculture Minister Shivraj Singh Chouhan also visited Bihar on September 16 to assess the damage.",
+      "background": "Bihar is highly susceptible to annual monsoon floods, which cause widespread damage to lives, livelihoods, and infrastructure. Government and individual efforts for relief and rehabilitation are crucial during such calamities.",
+      "examRelevance": "Bihar CM donated salary to flood victims; 15 districts affected by floods.",
+      "tags": [
+        "Bihar",
+        "Flood Victims",
+        "Chief Minister",
+        "Donation",
+        "Natural Disaster"
+      ],
+      "source": {
+        "title": "Bihar CM donates one month’s salary to flood victims",
+        "url": "https://www.thehindu.com/news/national/bihar/bihar-cm-donates-one-months-salary-to-flood-victims/article71485520.ece"
+      }
+    }
+  ]
+}
