@@ -1,0 +1,669 @@
+{
+  "id": "daily-2026-09-23",
+  "type": "daily",
+  "date": "2026-09-23",
+  "title": "Current Affairs — 23 Sept 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-09-23-q1",
+      "question": "Which acclaimed Kerala actor, known for her role in 'Sudani from Nigeria' and recipient of a Special Jury Mention at the 66th National Film Awards, recently passed away at 78?",
+      "options": [
+        "Philomina",
+        "Savithri Sreedharan",
+        "Sukumari",
+        "K.P.A.C. Lalitha"
+      ],
+      "answerIndex": 1,
+      "category": "Obituaries",
+      "explanation": "Savithri Sreedharan, a Kerala actor, passed away at 78. She was critically acclaimed for her role as Jameela in 'Sudani from Nigeria', for which she received the Kerala State Film Award for Best Character Actress and a Special Jury Mention at the 66th National Film Awards.",
+      "background": "Her role in 'Sudani from Nigeria' brought her widespread recognition later in her career. The National Film Awards are among the most prestigious film honours in India, recognizing excellence in cinematic achievements.",
+      "examRelevance": "Kerala actor Savithri Sreedharan, known for 'Sudani from Nigeria', passed away at 78.",
+      "tags": [
+        "Savithri Sreedharan",
+        "Obituary",
+        "Kerala actor",
+        "National Film Awards"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q2",
+      "question": "Which company recently purchased a residential tower in Juhu from Embassy Developments for ₹711 crore, marking the largest single residential unit transaction in the country?",
+      "options": [
+        "Godrej Properties",
+        "DLF",
+        "Prestige Estates",
+        "Angel One"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Angel One purchased a residential tower in Juhu from Embassy Developments for ₹711 crore. Embassy Developments claimed this deal to be the largest single residential unit transaction in India, highlighting a significant investment in the real estate sector.",
+      "background": "Major real estate transactions often reflect market confidence and investment trends in prime urban areas. Juhu is a premium locality in Mumbai known for its high-value properties.",
+      "examRelevance": "Angel One bought Juhu residential tower for ₹711 crore, largest single unit transaction.",
+      "tags": [
+        "Angel One",
+        "Embassy Developments",
+        "Juhu",
+        "Real Estate",
+        "Business"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q3",
+      "question": "Which country's men's and women's skeet teams clinched bronze medals at the Asian Games 2026 in Nagoya, adding to its shooting medal tally?",
+      "options": [
+        "India",
+        "Japan",
+        "South Korea",
+        "China"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "India's men's and women's skeet teams clinched bronze medals at the Asian Games 2026, held in Nagoya, Japan. This achievement added two more shooting medals to the country's overall tally at the continental event.",
+      "background": "The Asian Games are a multi-sport event held every four years among athletes from all over Asia. Shooting is a strong sport for India at these games, consistently contributing to the medal count. The 2026 edition is being hosted in Aichi-Nagoya, Japan.",
+      "examRelevance": "India's men's and women's skeet teams won bronze at Asian Games 2026, Nagoya.",
+      "tags": [
+        "Asian Games 2026",
+        "Skeet",
+        "Shooting",
+        "Bronze medal",
+        "India"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q4",
+      "question": "Where were the 72nd National Film Awards for 2024 distributed by President Droupadi Murmu?",
+      "options": [
+        "Mumbai",
+        "New Delhi",
+        "Chennai",
+        "Ekta Nagar (Kevadia)"
+      ],
+      "answerIndex": 3,
+      "category": "Awards & Honours",
+      "explanation": "President Droupadi Murmu distributed the 72nd National Film Awards for 2024 in various categories of cinema at Ekta Nagar (Kevadia), near the Statue of Unity. During the ceremony, she urged actors against endorsing harmful health products.",
+      "background": "The National Film Awards are one of the most prominent film award ceremonies in India. They are administered by the Directorate of Film Festivals, an organisation under the Ministry of Information and Broadcasting.",
+      "examRelevance": "72nd National Film Awards 2024 distributed by President Murmu at Ekta Nagar (Kevadia).",
+      "tags": [
+        "National Film Awards",
+        "Droupadi Murmu",
+        "Ekta Nagar",
+        "Kevadia",
+        "Statue of Unity"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q5",
+      "question": "Which Indian state recently launched an action plan to reduce salt intake by 30% by the year 2030?",
+      "options": [
+        "Karnataka",
+        "Kerala",
+        "Andhra Pradesh",
+        "Tamil Nadu"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "Karnataka launched an action plan aimed at cutting salt intake by 30% by the year 2030. This plan focuses on reducing salt consumption at three levels: households, food consumed outside the home, and processed and packaged foods.",
+      "background": "High salt intake is a significant risk factor for non-communicable diseases such as hypertension and cardiovascular diseases. Public health initiatives often target dietary changes for better health outcomes and disease prevention.",
+      "examRelevance": "Karnataka launched a plan to cut salt intake by 30% by 2030.",
+      "tags": [
+        "Karnataka",
+        "Salt intake",
+        "Public Health",
+        "Health Plan",
+        "2030 target"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q6",
+      "question": "In which city is a Genome Analysis Centre slated to be established, according to Andhra Pradesh Health Minister Satya Kumar Yadav?",
+      "options": [
+        "Visakhapatnam",
+        "Guntur",
+        "Amaravati",
+        "Vijayawada"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Andhra Pradesh Health Minister Satya Kumar Yadav announced that a Genome Analysis Centre will be established in Amaravati. He also inaugurated a genome sequencing centre at the NATCO cancer centre at the Government General Hospital in Guntur, indicating a broader focus on genetic research.",
+      "background": "Genome analysis centres are crucial for advanced genetic testing and research, especially in areas like cancer and rare diseases. Establishing such a centre in Amaravati aims to expand these capabilities and strengthen healthcare infrastructure in the state.",
+      "examRelevance": "Genome Analysis Centre to be established in Amaravati, Andhra Pradesh.",
+      "tags": [
+        "Genome Analysis Centre",
+        "Amaravati",
+        "Andhra Pradesh",
+        "Science & Technology",
+        "Health"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q7",
+      "question": "Which Kadapa-based company recently shipped its first 345 kV power transformer to the U.S., targeting ₹600 crore in exports?",
+      "options": [
+        "ABB India",
+        "Bharat Heavy Electricals Limited",
+        "Shirdi Sai Electricals",
+        "Siemens Energy India"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Kadapa-based Shirdi Sai Electricals (SSEL) shipped its first 345 kV power transformer, a 175 MVA extra-high voltage unit, to the U.S. The transformer was built at the company’s Naini plant in Prayagraj. SSEL is targeting ₹600 crore in exports and is also seeking approvals in Europe.",
+      "background": "This marks a significant step for an Indian company in the high-voltage power equipment export market, showcasing indigenous manufacturing capabilities on an international scale and contributing to the 'Make in India' initiative.",
+      "examRelevance": "Kadapa's Shirdi Sai Electricals shipped first 345 kV power transformer to U.S.",
+      "tags": [
+        "Shirdi Sai Electricals",
+        "Power Transformer",
+        "Exports",
+        "Make in India",
+        "Kadapa"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q8",
+      "question": "Which political party's name and 'Flowers and Grass' symbol were recently frozen by the Election Commission ahead of the West Bengal bypolls?",
+      "options": [
+        "Bharatiya Janata Party",
+        "All India Trinamool Congress",
+        "Communist Party of India (Marxist)",
+        "Indian National Congress"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Election Commission of India temporarily froze the All India Trinamool Congress (TMC) name and its ‘Flowers and Grass’ symbol. This action was taken ahead of the West Bengal bypolls, and both rival factions have been asked to submit alternative names and symbols.",
+      "background": "The Election Commission has the power to recognise political parties and allocate symbols. Freezing a party symbol usually occurs during disputes between factions of the same party, preventing either from using the established symbol.",
+      "examRelevance": "Election Commission froze TMC's 'Flowers and Grass' symbol.",
+      "tags": [
+        "Election Commission",
+        "TMC",
+        "Trinamool Congress",
+        "Symbol Freeze",
+        "West Bengal"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q9",
+      "question": "Which international financial institution announced it would unlock $170 million in emergency financing for Nepal's flood response?",
+      "options": [
+        "World Bank",
+        "International Monetary Fund",
+        "New Development Bank",
+        "Asian Development Bank"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The World Bank announced that it would unlock $170 million in emergency financing for Nepal's flood response. This fund is intended to assist Nepal in its efforts to manage and recover from flood-related disasters, supporting immediate relief and reconstruction.",
+      "background": "The World Bank provides financial and technical assistance to developing countries around the world. Emergency financing is crucial for countries affected by natural disasters to support recovery efforts and rebuild infrastructure, mitigating long-term impacts.",
+      "examRelevance": "World Bank to provide $170 million emergency fund to Nepal for flood response.",
+      "tags": [
+        "World Bank",
+        "Nepal",
+        "Flood Response",
+        "Emergency Financing",
+        "International Aid"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q10",
+      "question": "Meta recently collaborated with the police force of which country to act against 3.7 million scammers' accounts?",
+      "options": [
+        "Singapore",
+        "United States",
+        "United Kingdom",
+        "Australia"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Meta acted against 3.7 million scammers' accounts, collaborating with the Singapore police. This joint effort highlights the challenge of scammers operating across different platforms and countries, requiring international cooperation to combat cybercrime.",
+      "background": "Online scamming is a global issue, and tech companies frequently partner with law enforcement agencies worldwide to combat cybercrime and protect users. Such collaborations are essential for cross-border enforcement and digital security.",
+      "examRelevance": "Meta collaborated with Singapore police against 3.7 million scammer accounts.",
+      "tags": [
+        "Meta",
+        "Scammers",
+        "Singapore Police",
+        "Cybercrime",
+        "Online Safety"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q11",
+      "question": "Which company has started using AI-powered cameras at its CNG pumps to automatically check vehicle number plates against hydro-test records of cylinders before allowing refuelling?",
+      "options": [
+        "GAIL",
+        "ONGC",
+        "BPCL",
+        "IGL"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "IGL (Indraprastha Gas Limited) has started using AI with cameras at its CNG pumps. This technology automatically checks vehicle number plates against hydro-test records of cylinders to ensure their validity before refuelling, enhancing safety and compliance.",
+      "background": "CNG cylinders require periodic hydro-testing to ensure their structural integrity and safety. This AI-based system aims to automate and enforce compliance with safety regulations, preventing refuelling of expired or unsafe cylinders, thereby improving public safety.",
+      "examRelevance": "IGL CNG pumps use AI cameras to check cylinder test certificates.",
+      "tags": [
+        "IGL",
+        "CNG",
+        "AI",
+        "Safety",
+        "Hydro-test"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q12",
+      "question": "According to Mark Carney, Canada and India aim to conclude trade talks by which international event, ahead of PM Modi's visit?",
+      "options": [
+        "G20",
+        "ASEAN Summit",
+        "SCO Summit",
+        "BRICS Summit"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Mark Carney stated that he and Prime Minister Narendra Modi had committed to try to conclude negotiations for trade talks between Canada and India by the G20. This announcement comes ahead of PM Modi's visit, signalling strong diplomatic efforts.",
+      "background": "Trade agreements between major economies are crucial for fostering economic growth and bilateral relations. The G20 summit serves as an important platform for such high-level discussions and commitments, driving global economic cooperation.",
+      "examRelevance": "Canada-India aim to conclude trade talks by G20.",
+      "tags": [
+        "Canada",
+        "India",
+        "Trade Talks",
+        "G20",
+        "Mark Carney",
+        "Narendra Modi"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q13",
+      "question": "Which individual did former U.S. President Donald Trump praise as the 'new British PM' during a recent interaction, despite the individual not being the actual Prime Minister?",
+      "options": [
+        "Keir Starmer",
+        "Andy Burnham",
+        "Boris Johnson",
+        "Rishi Sunak"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Former U.S. President Donald Trump praised Andy Burnham, stating that trans-Atlantic relations were 'more up than they were with your last Prime Minister.' This occurred despite Andy Burnham not being the current British Prime Minister.",
+      "background": "Donald Trump is known for his unconventional diplomatic style and sometimes makes statements that deviate from official protocols or current political realities. Andy Burnham is a prominent Labour politician, currently the Mayor of Greater Manchester.",
+      "examRelevance": "Donald Trump praised Andy Burnham as 'new British PM'.",
+      "tags": [
+        "Donald Trump",
+        "Andy Burnham",
+        "UK Politics",
+        "International Relations"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q14",
+      "question": "According to the University of Chicago-based Climate Impact Lab, this year’s El Niño-driven heat could cause how many additional deaths globally?",
+      "options": [
+        "Approximately two hundred thousand",
+        "Over one million",
+        "Around seventy-five thousand",
+        "Nearly half a million"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The University of Chicago-based Climate Impact Lab reported that this year’s El Niño-driven heat could cause nearly half a million more deaths globally. The heaviest toll is expected in poorer countries, which are already struggling with food insecurity and high energy costs.",
+      "background": "El Niño is a climate pattern that describes the unusual warming of surface waters in the eastern tropical Pacific Ocean. it can lead to significant global weather disruptions, including increased temperatures and altered precipitation patterns, exacerbating existing vulnerabilities in many regions.",
+      "examRelevance": "El Niño-driven heat could cause nearly half a million more deaths (Climate Impact Lab).",
+      "tags": [
+        "El Niño",
+        "Climate Change",
+        "Mortality",
+        "Climate Impact Lab",
+        "Global Warming"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q15",
+      "question": "Which cyclone is predicted to form, leading to high alert in Odisha and Andhra Pradesh?",
+      "options": [
+        "Cyclone Hamoon",
+        "Cyclone Michaung",
+        "Cyclone Biparjoy",
+        "Cyclone Arnab"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Odisha and Andhra Pradesh have been placed on high alert due to the impending formation of Cyclone Arnab. Schools have been shut across Odisha and Andhra Pradesh, with heavy rain and winds of up to 75 kmph likely as a Bay of Bengal depression inches closer.",
+      "background": "Cyclones are frequently named by regional meteorological centres to help identify and track them, improving communication and preparedness. The Bay of Bengal is a common breeding ground for cyclonic storms affecting India's eastern coast, necessitating timely warnings.",
+      "examRelevance": "Cyclone Arnab predicted, Odisha and Andhra Pradesh on high alert.",
+      "tags": [
+        "Cyclone Arnab",
+        "Odisha",
+        "Andhra Pradesh",
+        "Bay of Bengal",
+        "Natural Disaster"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q16",
+      "question": "In which hospital's SNCU ward in Telangana did a fire accident occur, resulting in the death of three infants and the rescue of 25 other children?",
+      "options": [
+        "Osmania General Hospital",
+        "RIMS Adilabad",
+        "Gandhi Hospital Hyderabad",
+        "Nizam's Institute of Medical Sciences"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "A fire accident occurred in the Special Newborn Care Unit (SNCU) ward of RIMS Adilabad hospital in Telangana, leading to the tragic death of three infants. Despite the fire, 25 other children were successfully rescued from the ward. Telangana Chief Minister A. Revanth Reddy has ordered an inquiry into the incident.",
+      "background": "Such incidents highlight critical safety concerns in healthcare facilities, especially those catering to vulnerable populations like newborns. Investigations typically focus on identifying the cause and implementing preventative measures to avoid future tragedies.",
+      "examRelevance": "Three infants killed in fire at RIMS Adilabad SNCU ward, Telangana.",
+      "tags": [
+        "RIMS Adilabad",
+        "Fire Accident",
+        "Infants",
+        "Telangana",
+        "Hospital Safety"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q17",
+      "question": "S P Global Ratings recently raised India's FY27 growth forecast to what percentage, citing robust industrial activity and healthy consumption?",
+      "options": [
+        "7%",
+        "6.2%",
+        "7.5%",
+        "6.6%"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "S P Global Ratings raised India's FY27 growth forecast to 7% from its previous estimate of 6.6%. The revision was attributed to robust industrial activity, healthy consumption, strong goods exports, and accelerating government investment, pushing growth above earlier expectations in the June quarter.",
+      "background": "Global ratings agencies like S P Global Ratings provide crucial assessments of countries' economic health and prospects, influencing investor confidence and policy decisions. Their forecasts are closely watched by financial markets and policymakers.",
+      "examRelevance": "S P Global Ratings raised India FY27 growth forecast to 7%.",
+      "tags": [
+        "S P Global Ratings",
+        "India",
+        "Economic Growth",
+        "FY27",
+        "GDP Forecast"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q18",
+      "question": "Which ratings agency recently raised India's FY27 growth forecast to 6.9%, pointing to stronger-than-expected activity and resilience in the economy?",
+      "options": [
+        "CRISIL",
+        "Moody's",
+        "S&P Global Ratings",
+        "Fitch"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Fitch Ratings raised India's FY27 growth forecast to 6.9%. This revision was based on stronger-than-expected economic activity and resilience in the economy, despite the shock from the US-Iran war.",
+      "background": "Like S&P, Fitch is a major global credit rating agency whose forecasts are influential for international investors and policymakers. Differences in forecasts among agencies reflect varying methodologies and interpretations of economic indicators.",
+      "examRelevance": "Fitch raised India FY27 growth forecast to 6.9%.",
+      "tags": [
+        "Fitch Ratings",
+        "India",
+        "Economic Growth",
+        "FY27",
+        "GDP Forecast"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q19",
+      "question": "Opposition parties recently called for the removal of which Chief Election Commissioner (CEC), citing dissent within the Election Commission?",
+      "options": [
+        "Arun Goel",
+        "Gyanesh Kumar",
+        "Sukhbir Singh Sandhu",
+        "Rajiv Kumar"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Opposition parties recently called for the removal of Chief Election Commissioner (CEC) Gyanesh Kumar. This demand followed reports of dissent within the Election Commission, and parties also asked the Supreme Court to take suo motu cognizance of the report.",
+      "background": "The Election Commission of India (ECI) is an autonomous constitutional authority responsible for administering election processes in India. The CEC and Election Commissioners are appointed for a fixed tenure, and their removal process is stringent, designed to ensure independence.",
+      "examRelevance": "Opposition calls for removal of CEC Gyanesh Kumar.",
+      "tags": [
+        "Gyanesh Kumar",
+        "CEC",
+        "Election Commission",
+        "Polity",
+        "Opposition"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q20",
+      "question": "Which French President's UN remarks, stating that 'Hamas has never struck in the West Bank,' were recently denounced by Israel as 'grotesque absurdity'?",
+      "options": [
+        "Jacques Chirac",
+        "Nicolas Sarkozy",
+        "Emmanuel Macron",
+        "François Hollande"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "French President Emmanuel Macron's remarks at the UN, where he stated that 'Hamas has never struck in the West Bank,' were recently denounced by Israel as 'grotesque absurdity'. The West Bank is a territory seized by Israel in 1967 and is home to the Palestinian Authority.",
+      "background": "The West Bank is a highly contested territory at the core of the Israeli-Palestinian conflict. Statements by international leaders on the region's dynamics are often met with strong reactions from the involved parties, reflecting the sensitivity of the issue.",
+      "examRelevance": "Israel denounced French President Emmanuel Macron's UN remarks on West Bank.",
+      "tags": [
+        "Emmanuel Macron",
+        "Israel",
+        "West Bank",
+        "Hamas",
+        "UN",
+        "International Relations"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q21",
+      "question": "Which country recently set guidelines for fentanyl-related crimes, a day before its President was expected to meet the United States President for their second summit this year?",
+      "options": [
+        "Canada",
+        "Russia",
+        "China",
+        "Mexico"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "China recently set guidelines for fentanyl-related crimes. This development occurred a day before Chinese President Xi Jinping was expected to meet United States President Donald Trump in Washington for their second summit this year.",
+      "background": "Fentanyl is a potent synthetic opioid that has been a major focus of drug control efforts, particularly in the US. The issue of fentanyl trafficking and production has been a point of discussion in US-China relations, especially regarding international cooperation.",
+      "examRelevance": "China set fentanyl crime guidelines before Trump-Xi summit.",
+      "tags": [
+        "China",
+        "Fentanyl",
+        "Trump",
+        "Xi Jinping",
+        "International Relations",
+        "Drug Control"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q22",
+      "question": "Which former U.S. President recently called the International Criminal Court (ICC) 'evil' and demanded its members resign immediately?",
+      "options": [
+        "Donald Trump",
+        "Bill Clinton",
+        "Barack Obama",
+        "George W. Bush"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Former U.S. President Donald Trump recently called the International Criminal Court (ICC) 'evil' and demanded that its members resign immediately. He has previously been critical of international bodies and treaties, often expressing skepticism about their authority.",
+      "background": "The International Criminal Court is an intergovernmental organization and international tribunal that sits in The Hague, Netherlands. It has jurisdiction to prosecute individuals for international crimes. The US has historically had a complex relationship with the ICC, often refusing to ratify the Rome Statute.",
+      "examRelevance": "Donald Trump called International Criminal Court 'evil'.",
+      "tags": [
+        "Donald Trump",
+        "International Criminal Court",
+        "ICC",
+        "International Law"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q23",
+      "question": "Who recently confirmed that U.S. and Iranian officials had met, shortly after he had warned he might 'annihilate' Iran?",
+      "options": [
+        "Mike Pompeo",
+        "Joe Biden",
+        "Donald Trump",
+        "Antony Blinken"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Former U.S. President Donald Trump recently confirmed that U.S. and Iranian officials had met. This announcement came shortly after he had issued a warning that he might 'annihilate' Iran. The engagement follows months of languishing communications after a short-lived ceasefire collapsed in June.",
+      "background": "Relations between the United States and Iran have been historically tense, marked by periods of conflict and attempts at diplomacy. Direct talks, even amidst strong rhetoric, are significant developments in international relations, indicating potential shifts in strategy.",
+      "examRelevance": "Donald Trump confirmed U.S. and Iranian officials met.",
+      "tags": [
+        "Donald Trump",
+        "US-Iran",
+        "International Relations",
+        "Diplomacy",
+        "Middle East"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q24",
+      "question": "Which country recently suspended Iranian flights to its capital, Baghdad, following a threat of U.S. sanctions?",
+      "options": [
+        "Iraq",
+        "Saudi Arabia",
+        "Kuwait",
+        "Turkey"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Iraq recently suspended Iranian flights to its capital, Baghdad. This decision was made following a threat of U.S. sanctions, indicating pressure on Iraq to comply with international restrictions against Iran and navigate complex geopolitical alliances.",
+      "background": "U.S. sanctions against Iran have significant implications for countries that maintain economic or diplomatic ties with Iran. Countries in the Middle East often navigate complex relationships with both the U.S. and Iran, balancing national interests with international pressures.",
+      "examRelevance": "Iraq suspended Iranian flights to Baghdad after US sanctions threat.",
+      "tags": [
+        "Iraq",
+        "Iran",
+        "US Sanctions",
+        "Baghdad",
+        "International Relations"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q25",
+      "question": "At the Asian Games 2026, Indian men shuttlers were assured of a medal. This marks the first time in how many years that the men's team has won back-to-back medals at the continental event?",
+      "options": [
+        "20 years",
+        "50 years",
+        "40 years",
+        "30 years"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Indian men shuttlers were assured of a medal at the Asian Games 2026. This achievement is significant as it marks the first time in 40 years that the men's team has won back-to-back medals at the continental extravaganza. However, the women's team crashed out.",
+      "background": "Badminton is a popular sport in Asia, and the Asian Games represent a major competitive platform. Consistently winning medals, especially back-to-back, indicates a rising standard and sustained performance in the sport for the country, reflecting improved training and talent.",
+      "examRelevance": "Indian men shuttlers assured Asian Games 2026 medal, first time in 40 years for back-to-back.",
+      "tags": [
+        "Asian Games 2026",
+        "Badminton",
+        "Indian Shuttlers",
+        "Sports",
+        "Medal"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q26",
+      "question": "In which Indian state were nearly 2,000 marriage records manipulated to illegally claim welfare aid through the 'Nirman Shramik Scheme'?",
+      "options": [
+        "Jharkhand",
+        "Bihar",
+        "West Bengal",
+        "Odisha"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "A report revealed that nearly 2,000 marriage records in Odisha were manipulated to illegally claim welfare aid through the 'Nirman Shramik Scheme'. This comes as further evidence of how the scheme was exploited to avail illegal benefits, highlighting systemic vulnerabilities.",
+      "background": "Government welfare schemes are designed to support vulnerable populations, but they are sometimes susceptible to fraud and manipulation. Such incidents highlight the need for robust verification mechanisms and oversight to ensure benefits reach the intended beneficiaries and prevent misuse of public funds.",
+      "examRelevance": "Odisha's Nirman Shramik Scheme saw 2,000 marriage records manipulated for welfare aid.",
+      "tags": [
+        "Odisha",
+        "Nirman Shramik Scheme",
+        "Welfare Aid",
+        "Fraud",
+        "Governance"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q27",
+      "question": "Which Union Minister recently surveyed Bihar’s flood-affected areas, stating that 50 lakh people have been impacted and a central team will review the situation for aid disbursement?",
+      "options": [
+        "Shivraj Singh Chouhan",
+        "Nitin Gadkari",
+        "Amit Shah",
+        "Rajnath Singh"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "Union Minister Shivraj Singh Chouhan recently surveyed Bihar’s flood-affected areas, including Hajipur and Bhagalpur. He stated that 50 lakh people have been affected by the floods and announced that a Central team would review the situation and submit a report based on which aid would be disbursed.",
+      "background": "Flood relief and rehabilitation efforts are critical responsibilities of both state and central governments in India. Central ministerial visits often precede the allocation of significant central assistance to disaster-stricken regions, demonstrating governmental support.",
+      "examRelevance": "Union Minister Shivraj Singh Chouhan surveyed Bihar flood areas; 50 lakh affected.",
+      "tags": [
+        "Shivraj Singh Chouhan",
+        "Bihar Floods",
+        "Disaster Management",
+        "Central Aid",
+        "Hajipur"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q28",
+      "question": "Which Union Law Minister recently visited NLSIU in Bengaluru, where a delegation of the Akhil Bharatiya Vidyarthi Parishad (ABVP) submitted a memorandum against a documentary screening?",
+      "options": [
+        "Ravi Shankar Prasad",
+        "Arjun Ram Meghwal",
+        "Ashwini Vaishnaw",
+        "Kiren Rijiju"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Union Law Minister Arjun Ram Meghwal recently visited the National Law School of India University (NLSIU) in Bengaluru. During his visit, a delegation of the Akhil Bharatiya Vidyarthi Parishad (ABVP), Bengaluru, met him and submitted a memorandum regarding the screening of a documentary.",
+      "background": "NLSIU is a premier law institution in India. Visits by Union Ministers to educational institutions are common, but the submission of memoranda by student bodies often highlights ongoing campus debates or political issues, reflecting the dynamic nature of student activism.",
+      "examRelevance": "Union Law Minister Arjun Ram Meghwal visited NLSIU, ABVP protested documentary screening.",
+      "tags": [
+        "Arjun Ram Meghwal",
+        "NLSIU",
+        "ABVP",
+        "Bengaluru",
+        "Law Minister"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q29",
+      "question": "Which former Bombay High Court judge recently resigned from Maharashtra government's panel to prepare a draft for implementing the Uniform Civil Code (UCC), citing reservations about restricting public feedback?",
+      "options": [
+        "Justice R.C. Chavan",
+        "Justice B.N. Srikrishna",
+        "Justice P.V. Reddi",
+        "Justice A.P. Shah"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Former Bombay High Court judge Justice R.C. Chavan recently resigned from the Maharashtra government's panel tasked with preparing a draft for implementing the Uniform Civil Code (UCC). He cited serious reservations about the panel's decision to restrict public feedback on crucial social issues to a 'Yes/No' format.",
+      "background": "The Uniform Civil Code (UCC) is a proposal in India to formulate and implement personal laws that apply to all citizens equally, regardless of their religion, sex, gender, and sexual orientation. The issue is highly debated, and panels are often constituted to gather recommendations before drafting legislation.",
+      "examRelevance": "Justice R.C. Chavan resigned from Maharashtra's UCC panel.",
+      "tags": [
+        "Justice R.C. Chavan",
+        "Uniform Civil Code",
+        "UCC",
+        "Maharashtra",
+        "Polity & Governance"
+      ]
+    },
+    {
+      "id": "daily-2026-09-23-q30",
+      "question": "Which Ladakh activist recently criticized the delay in making public the judicial panel report concerning the police action that occurred in September 2025?",
+      "options": [
+        "Ladakhi Lama",
+        "Stanzin Dorjai",
+        "Chewang Norphel",
+        "Sonam Wangchuk"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Ladakh activist Sonam Wangchuk recently slammed the delay in making public the judicial panel report concerning the police action that occurred in September 2025. He stated that civil society groups might constitute a 'people’s tribunal' if the panel does not table its report soon.",
+      "background": "Sonam Wangchuk is a renowned innovator and education reformist, also known for his environmental activism in Ladakh. He has been a prominent voice on issues related to local governance, environmental protection, and constitutional safeguards for Ladakh's unique culture and ecology.",
+      "examRelevance": "Sonam Wangchuk slammed delay in Ladakh police action report.",
+      "tags": [
+        "Sonam Wangchuk",
+        "Ladakh",
+        "Judicial Panel",
+        "Police Action",
+        "Activism"
+      ]
+    }
+  ]
+}
