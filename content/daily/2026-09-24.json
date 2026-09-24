@@ -1,0 +1,796 @@
+{
+  "id": "daily-2026-09-24",
+  "type": "daily",
+  "date": "2026-09-24",
+  "title": "Current Affairs — 24 Sept 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-09-24-q1",
+      "question": "Who is the current Chief Election Commissioner (CEC) of India, facing calls for his removal amid allegations of dissent from fellow Election Commissioners?",
+      "options": [
+        "Gyanesh Kumar",
+        "Sunil Arora",
+        "Sushil Chandra",
+        "Rajiv Kumar"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Chief Election Commissioner Gyanesh Kumar is currently facing calls for his removal from opposition parties, who allege that major decisions have been made without the knowledge or consent of his fellow Election Commissioners, leading to a dissent row within the Election Commission of India.",
+      "background": "The controversy stems from reports that two of the three Election Commissioners recorded objections multiple times over several months, stating that significant decisions were made without their input. This has led to accusations of centralisation of power and 'vote chori' by the CEC.",
+      "examRelevance": "CEC Gyanesh Kumar is facing a dissent row and calls for removal due to alleged bypassing of other Election Commissioners.",
+      "tags": [
+        "Gyanesh Kumar",
+        "CEC",
+        "Election Commission",
+        "Polity",
+        "Dissent"
+      ],
+      "source": {
+        "title": "Opposition calls for CEC Gyanesh Kumar’s removal after report on Election Commissioners’ dissent",
+        "url": "https://www.thehindu.com/news/national/election-commission-dissent-sparks-opposition-call-for-cec-gyanesh-kumars-removal/article71498434.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q2",
+      "question": "Which specific exercise related to electoral rolls has former Chief Election Commissioner S.Y. Quraishi questioned, raising concerns about its necessity, legality, and implementation?",
+      "options": [
+        "Special Intensive Revision (SIR)",
+        "National Electoral Roll Purification (NERP)",
+        "Voter ID Linkage Program (VILP)",
+        "Aadhaar-Voter Linking Initiative (AVLI)"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Former Chief Election Commissioner S.Y. Quraishi has questioned the necessity, legality, and implementation of the Special Intensive Revision (SIR) exercise for electoral rolls. He argues that India’s electoral rolls have been effectively maintained for decades.",
+      "background": "Quraishi's comments come amidst a broader controversy surrounding the Election Commission, with current CEC Gyanesh Kumar facing scrutiny over allegations of internal dissent and procedural irregularities in decision-making.",
+      "examRelevance": "Former CEC S.Y. Quraishi questioned the legality and implementation of the Special Intensive Revision (SIR) exercise.",
+      "tags": [
+        "S.Y. Quraishi",
+        "CEC",
+        "ECI",
+        "Electoral rolls",
+        "SIR"
+      ],
+      "source": {
+        "title": "Former Chief Election Commissioner questions legality of SIR, demands reversal of decisions",
+        "url": "https://www.thehindu.com/videos/former-chief-election-commissioner-questions-legality-of-sir-demands-reversal-of-decisions/article71502825.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q3",
+      "question": "In which Indian state is there a demand for a special legislature session to discuss the recently submitted caste survey report?",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Telangana"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "There is a demand for a special session of the Karnataka legislature to discuss the caste survey report. The report was submitted to Siddaramaiah a day before he stepped down as chief minister.",
+      "background": "Caste surveys are significant for policy-making related to reservations and welfare schemes. The submission of such a report often triggers intense political debate and demands for its public release and discussion.",
+      "examRelevance": "Karnataka legislature faces demand for special session on caste survey report.",
+      "tags": [
+        "Karnataka",
+        "Caste survey",
+        "Siddaramaiah",
+        "Legislature",
+        "Polity"
+      ],
+      "source": {
+        "title": "Demand for special session of Karnataka legislature on caste survey",
+        "url": "https://www.thehindu.com/news/national/karnataka/demand-for-special-session-of-karnataka-legislature-on-caste-survey/article71500165.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q4",
+      "question": "An elephant calf was recently rescued by fishermen after being swept away by strong currents in which river in West Bengal?",
+      "options": [
+        "Mahananda",
+        "Teesta",
+        "Damodar",
+        "Hooghly"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "An elephant calf was successfully rescued by fishermen in West Bengal after being swept away by strong currents in the Teesta river. The calf was attempting to cross the river near a barrage when it was separated from its herd.",
+      "background": "The Teesta River is a major trans-boundary river flowing through India and Bangladesh, originating in the eastern Himalayas. Incidents of wildlife, particularly elephants, being affected by river currents are not uncommon in regions with significant elephant populations and large river systems.",
+      "examRelevance": "Elephant calf rescued from Teesta River in West Bengal by fishermen.",
+      "tags": [
+        "Elephant calf",
+        "Teesta River",
+        "West Bengal",
+        "Wildlife rescue",
+        "Environment"
+      ],
+      "source": {
+        "title": "Elephant calf swept away in Bengal’s Teesta rescued by fishermen, reunited with mother",
+        "url": "https://www.thehindu.com/news/national/elephant-calf-swept-away-in-teesta-rescued-by-fishermen-reunited-with-mother/article71501503.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q5",
+      "question": "Which Chief Minister is facing political controversy over a chartered flight to flood-hit Malappuram and is being criticized through mobile games regarding a power crisis?",
+      "options": [
+        "Basavaraj Bommai",
+        "M.K. Stalin",
+        "Pinarayi Vijayan",
+        "V.D. Satheesan"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Keralam Chief Minister V.D. Satheesan is currently embroiled in a 'freebie' row concerning a chartered flight he took to flood-hit Malappuram. Additionally, he is facing criticism through mobile games developed by Left-leaning youth organizations, which satirically target his government over a power crisis.",
+      "background": "The controversy highlights political tensions in Keralam, where the DYFI (Democratic Youth Federation of India) is actively protesting the Chief Minister's actions and policies. The use of mobile games as a form of political protest reflects a modern approach to public dissent.",
+      "examRelevance": "Keralam CM V.D. Satheesan is under scrutiny for a chartered flight and criticized via mobile games over a power crisis.",
+      "tags": [
+        "V.D. Satheesan",
+        "Keralam",
+        "Chief Minister",
+        "Political controversy",
+        "Freebie row"
+      ],
+      "source": {
+        "title": "‘Freebie’ row over Satheesan’s chartered flight to flood-hit Malappuram heats up Keralam politics",
+        "url": "https://www.thehindu.com/news/national/kerala/freebie-row-over-satheesans-chartered-flight-to-flood-hit-malappuram-dominates-keralam-politics/article71502884.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q6",
+      "question": "For which tunnel project in Bengaluru are over 1,100 trees, including more than 70 species like Indian Kino and Big-leaf Mahogany, marked for felling?",
+      "options": [
+        "Electronic City tunnel project",
+        "Hebbal tunnel project",
+        "Shivajinagar tunnel project",
+        "Whitefield tunnel project"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Over 1,128 trees, comprising more than 70 species such as Indian Kino, Big-leaf Mahogany, Beleric Myrobalan, and Indian Jujube, have been marked for felling for the Hebbal tunnel project in Bengaluru.",
+      "background": "Large infrastructure projects in urban areas often face environmental concerns due to tree felling. Such projects typically require environmental impact assessments and compensatory afforestation plans, which are subjects of public debate and scrutiny.",
+      "examRelevance": "Over 1,100 trees, including 70+ species, marked for felling for Bengaluru's Hebbal tunnel project.",
+      "tags": [
+        "Hebbal tunnel",
+        "Bengaluru",
+        "Tree felling",
+        "Environment",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "Over 70 tree species among 1,128 marked for felling for Hebbal tunnel project in Bengaluru",
+        "url": "https://www.thehindu.com/news/cities/bangalore/over-70-tree-species-among-1128-marked-for-felling-for-hebbal-tunnel-project/article71500072.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q7",
+      "question": "Which acclaimed actor is presenting the environmental storytelling project titled 'How to Live on Earth'?",
+      "options": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Benedict Cumberbatch",
+        "Tom Hiddleston"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "Acclaimed actor Benedict Cumberbatch is presenting 'How to Live on Earth', an environmental storytelling project. He emphasizes the importance of humanity remembering its integral part in nature, rather than being separate from it.",
+      "background": "Benedict Cumberbatch is known for his roles in various films and television series, including 'Sherlock' and 'Doctor Strange'. His involvement in environmental projects highlights a growing trend of celebrities using their platform for social and environmental advocacy.",
+      "examRelevance": "Benedict Cumberbatch is presenting the environmental storytelling project 'How to Live on Earth'.",
+      "tags": [
+        "Benedict Cumberbatch",
+        "How to Live on Earth",
+        "Environmental storytelling",
+        "Actor",
+        "Nature"
+      ],
+      "source": {
+        "title": "Benedict Cumberbatch interview: Why ‘How to Live on Earth’ left him ‘turbocharged’",
+        "url": "https://www.thehindu.com/entertainment/movies/benedict-cumberbatch-interview-how-to-live-on-earth/article71495138.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q8",
+      "question": "What was the initial listing price per share of National Stock Exchange (NSE) on BSE, marking a 0.8% premium over its IPO price?",
+      "options": [
+        "Rs 1,750",
+        "Rs 1,785",
+        "Rs 1,900",
+        "Rs 1,800"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Shares of National Stock Exchange (NSE) made a muted debut on Dalal Street, listing at Rs 1,800 apiece on BSE. This price represented a 0.8% premium over its IPO price of Rs 1,785 apiece.",
+      "background": "An IPO (Initial Public Offering) is the process by which a private company can go public by selling its stocks to the general public. A muted debut indicates that the shares did not see a significant price surge immediately after listing, though they later gained over 5%.",
+      "examRelevance": "NSE shares listed at Rs 1,800 apiece on BSE, a 0.8% premium over the IPO price of Rs 1,785.",
+      "tags": [
+        "NSE",
+        "IPO",
+        "Stock market",
+        "BSE",
+        "Economy"
+      ],
+      "source": {
+        "title": "NSE’s debut far quieter than IPO frenzy",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-shares-make-muted-debut-list-at-less-than-1-premium-to-ipo-price-should-you-buy-sell-or-hold/articleshow/134451187.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q9",
+      "question": "The Indian Rupee recently fell 11 paise against the U.S. dollar, trading at what value in early trade?",
+      "options": [
+        "83.50",
+        "95.84",
+        "90.15",
+        "78.20"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Indian Rupee recently fell by 11 paise against the U.S. dollar, trading at 95.84 in early trade. This decline was attributed to selling pressure in the domestic equity market and a strengthening American currency, despite an inflow of foreign capital.",
+      "background": "The value of the Rupee against the dollar is a key economic indicator, influenced by factors such as foreign capital flows, crude oil prices, domestic market sentiment, and global economic trends. A weaker rupee can make imports more expensive.",
+      "examRelevance": "Indian Rupee fell 11 paise to 95.84 against the U.S. dollar.",
+      "tags": [
+        "Indian Rupee",
+        "US Dollar",
+        "Forex",
+        "Economy",
+        "Markets"
+      ],
+      "source": {
+        "title": "Rupee falls 11 paise to 95.84 against U.S. dollar in early trade",
+        "url": "https://www.thehindu.com/business/markets/rupee-falls-11-paise-to-9584-against-us-dollar-in-early-trade/article71502800.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q10",
+      "question": "Deepika Pandey Singh, a minister in Jharkhand, recently lost her daughter in a road accident. In which state is Deepika Pandey Singh a minister?",
+      "options": [
+        "Odisha",
+        "Bihar",
+        "Jharkhand",
+        "Chhattisgarh"
+      ],
+      "answerIndex": 2,
+      "category": "Obituaries",
+      "explanation": "Deepika Pandey Singh, a minister in the state of Jharkhand, recently experienced a personal tragedy as her daughter and three other individuals died in a road accident. The incident involved a speeding car ramming into a parked truck.",
+      "background": "Road accidents continue to be a significant concern in India, often leading to tragic loss of life. Such incidents highlight the need for improved road safety measures and adherence to traffic regulations.",
+      "examRelevance": "Jharkhand Minister Deepika Pandey Singh's daughter died in a road accident.",
+      "tags": [
+        "Deepika Pandey Singh",
+        "Jharkhand",
+        "Minister",
+        "Road accident",
+        "Obituary"
+      ],
+      "source": {
+        "title": "Jharkhand Minister Deepika Pandey Singh’s daughter and three others die in road accident",
+        "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-minister-deepika-pandey-singhs-daughter-and-three-others-die-in-road-accident/article71502834.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q11",
+      "question": "Which regulatory body has recognized 'blue bonds' as part of sustainable finance instruments to support India’s blue economy?",
+      "options": [
+        "RBI",
+        "PFRDA",
+        "IRDAI",
+        "SEBI"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Securities and Exchange Board of India (SEBI) has recognized 'blue bonds' as a component of sustainable finance instruments. This recognition aims to harness the potential of these bonds to fund initiatives related to India’s blue economy.",
+      "background": "Blue bonds are a type of debt instrument issued to raise capital from impact investors to finance marine and ocean-based projects that have positive environmental, economic, and climate benefits. SEBI's move aligns with global efforts to promote sustainable finance.",
+      "examRelevance": "SEBI recognized blue bonds as sustainable finance instruments for India's blue economy.",
+      "tags": [
+        "Blue bonds",
+        "SEBI",
+        "Sustainable finance",
+        "Blue economy",
+        "Capital markets"
+      ],
+      "source": {
+        "title": "Blue bonds: India’s new ocean of finance",
+        "url": "https://www.thehindu.com/business/Economy/blue-bonds-indias-new-ocean-of-finance/article71502859.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q12",
+      "question": "Roshibina Devi Naorem recently secured her second silver medal in Wushu at the Asian Games 2026. In which city and country are the Asian Games 2026 being held?",
+      "options": [
+        "Jakarta-Palembang, Indonesia",
+        "Doha, Qatar",
+        "Aichi-Nagoya, Japan",
+        "Hangzhou, China"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Roshibina Devi Naorem clinched her second silver medal in Wushu at the Asian Games 2026, which are being held in Aichi-Nagoya, Japan. This is her third overall Asian Games medal, following a silver in 2023 Hangzhou and a bronze in 2018 Jakarta-Palembang.",
+      "background": "The Asian Games are a multi-sport event held every four years among athletes from all over Asia. Wushu is a full-contact sport derived from traditional Chinese martial arts. Roshibina Devi has been a consistent performer for India in this discipline.",
+      "examRelevance": "Roshibina Devi Naorem won silver in Wushu at Asian Games 2026 in Aichi-Nagoya, Japan.",
+      "tags": [
+        "Roshibina Devi Naorem",
+        "Wushu",
+        "Asian Games 2026",
+        "Aichi-Nagoya",
+        "Japan",
+        "Sports"
+      ],
+      "source": {
+        "title": "Asian Games 2026 Tally: Roshibina Devi Naorem wins silver in Wushu",
+        "url": "https://www.thehindu.com/sport/asian-games-2026-medal-tally-live-india-full-winners-list-table-aichi-nagoya/article71484008.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q13",
+      "question": "Which Indian city is set to host the first Cycling World Championships in 2032?",
+      "options": [
+        "Bengaluru",
+        "Chennai",
+        "Pune",
+        "Delhi"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Pune, an Indian city, has been selected to host the first Cycling World Championships in 2032. This marks a significant milestone for India in hosting international cycling events.",
+      "background": "Hosting global sporting events like the Cycling World Championships can boost sports infrastructure, promote tourism, and inspire local athletes. This decision reflects India's growing presence in the international sports arena.",
+      "examRelevance": "Pune, India, will host the first Cycling World Championships in 2032.",
+      "tags": [
+        "Pune",
+        "Cycling World Championships",
+        "2032",
+        "Sports",
+        "India"
+      ],
+      "source": {
+        "title": "India to host first Cycling's World Championships",
+        "url": "https://economictimes.indiatimes.com/news/sports/other-sports/india-to-host-first-cycling-world-championships-in-2032-pune/articleshow/134449520.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q14",
+      "question": "India has recently intensified its efforts against junk food by focusing on which specific locations?",
+      "options": [
+        "Large supermarket chains",
+        "Shops near school gates",
+        "Public transportation hubs",
+        "Online food delivery platforms"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "India has recently intensified its 'junk food war' by specifically targeting shops located near school gates. This initiative aims to curb the availability and consumption of unhealthy food items by schoolchildren.",
+      "background": "Concerns over rising rates of obesity and non-communicable diseases among children have prompted governments worldwide to implement measures to regulate the sale of junk food, especially around educational institutions. This move aligns with public health objectives.",
+      "examRelevance": "India focuses its 'junk food war' on shops near school gates.",
+      "tags": [
+        "Junk food",
+        "Schools",
+        "Public health",
+        "Government initiative",
+        "India"
+      ],
+      "source": {
+        "title": "India takes junk food war to school gates",
+        "url": "https://economictimes.indiatimes.com/news/india/india-takes-battle-against-junk-food-to-shops-near-schools/articleshow/134452057.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q15",
+      "question": "Which advanced stealth fighter jet's parts were recently obtained by China, prompting an investigation by the Pentagon?",
+      "options": [
+        "F-35",
+        "F-22",
+        "F-16",
+        "B-2 Spirit"
+      ],
+      "answerIndex": 0,
+      "category": "Defence",
+      "explanation": "The Pentagon has launched an investigation after China reportedly obtained parts from an F-35 stealth fighter jet. Australian Defense Minister Richard Marles confirmed that some jet components ended up in Hong Kong, though he denied they were 'sensitive equipment'.",
+      "background": "The F-35 Lightning II is a family of single-seat, single-engine, all-weather stealth multirole combat aircraft developed by Lockheed Martin for the United States and its allies. Its advanced technology makes the unauthorized acquisition of its parts a significant security concern.",
+      "examRelevance": "Pentagon investigates after China obtained parts from an F-35 stealth fighter jet.",
+      "tags": [
+        "F-35",
+        "Stealth fighter",
+        "China",
+        "Pentagon",
+        "Defence",
+        "Espionage"
+      ],
+      "source": {
+        "title": "Pentagon investigates after China obtains parts from F-35 stealth fighter jet",
+        "url": "https://www.thehindu.com/news/international/pentagon-investigates-after-china-obtains-parts-from-f-35-stealth-fighter-jet/article71502726.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q16",
+      "question": "A new study has found that deaf adults exhibit distinctly superior vision in which specific area, with their brains providing more power to it?",
+      "options": [
+        "Central visual field",
+        "Night vision",
+        "Peripheral vision",
+        "Color perception"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "A recent study revealed that deaf adults possess distinctly superior peripheral vision. The brain, in individuals with deafness, does not entirely expand its visual processing capacity but instead reallocates more power to peripheral vision while slightly reducing it for the central visual field.",
+      "background": "This phenomenon is an example of sensory compensation, where the brain adapts to the absence or impairment of one sense by enhancing others. Such studies provide valuable insights into brain plasticity and sensory processing.",
+      "examRelevance": "Deaf adults have superior peripheral vision due to brain reallocation of visual processing power.",
+      "tags": [
+        "Deafness",
+        "Peripheral vision",
+        "Brain plasticity",
+        "Neuroscience",
+        "Science & Tech"
+      ],
+      "source": {
+        "title": "Deaf adults have distinctly superior peripheral vision, finds new study",
+        "url": "https://www.thehindu.com/sci-tech/health/deaf-adults-have-distinctly-superior-peripheral-vision-finds-new-study/article71499191.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q17",
+      "question": "According to the Australian Prime Minister, which prominent AI company recently hacked a government health website in Australia?",
+      "options": [
+        "Microsoft AI",
+        "OpenAI",
+        "Google DeepMind",
+        "IBM Watson"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The Australian Prime Minister stated that OpenAI, a leading artificial intelligence company, recently hacked a government health website in Australia. OpenAI reportedly did not alert the Australian government about the breach until September.",
+      "background": "This incident highlights growing concerns about cybersecurity in the age of advanced AI and the potential vulnerabilities even government systems face. It also raises questions about responsible disclosure and the ethical implications for AI developers.",
+      "examRelevance": "Australian PM confirmed OpenAI hacked a government health website.",
+      "tags": [
+        "OpenAI",
+        "Australia",
+        "Cybersecurity",
+        "AI",
+        "Government hack"
+      ],
+      "source": {
+        "title": "Australian PM says OpenAI hacked government health website",
+        "url": "https://www.thehindu.com/sci-tech/technology/australian-pm-says-openai-hacked-government-health-website/article71502736.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q18",
+      "question": "Who has been replaced as the in-charge leader of the BJP’s Karnataka unit?",
+      "options": [
+        "D.V. Sadananda Gowda",
+        "B.S. Yeddyurappa",
+        "Dr. Radhamohan Das Agarwal",
+        "Jagadish Shettar"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "The BJP's Karnataka unit has received a new in-charge leader, replacing Dr. Radhamohan Das Agarwal, who previously held the position. The news item does not specify the name of the new leader.",
+      "background": "In-charge leaders play a crucial role in party organization and strategy, especially in states where the party is either in opposition or preparing for upcoming elections. Changes in these roles are common as parties adjust their leadership for political effectiveness.",
+      "examRelevance": "Dr. Radhamohan Das Agarwal was replaced as the in-charge leader of Karnataka BJP.",
+      "tags": [
+        "BJP",
+        "Karnataka",
+        "Radhamohan Das Agarwal",
+        "Appointments",
+        "Polity"
+      ],
+      "source": {
+        "title": "Karnataka BJP gets new in-charge leader",
+        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-bjp-gets-new-in-charge-leader/article71500938.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q19",
+      "question": "What is the full form of HEADS, an AI-based initiative being launched by NIMHANS, IIT Kharagpur, and Lokopriya Gopinath Bordoloi Regional Institute of Mental Health to address India's mental healthcare gap?",
+      "options": [
+        "High-Efficiency Automated Data System",
+        "Human-in-the-loop Evaluation of Assisted Depression Screening",
+        "Holistic Evaluation for Adolescent Developmental Support",
+        "Healthcare Efficiency and Advanced Diagnostic System"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "HEADS stands for Human-in-the-loop Evaluation of Assisted Depression Screening. This AI-based initiative is a collaboration between NIMHANS, IIT Kharagpur, and Lokopriya Gopinath Bordoloi Regional Institute of Mental Health, Tezpur, and is set to launch on September 24 to bridge India’s mental healthcare gap.",
+      "background": "Mental health remains a significant public health challenge in India, with a large treatment gap. AI-powered tools like HEADS aim to improve screening and early intervention, making mental healthcare more accessible and efficient, especially in underserved areas.",
+      "examRelevance": "HEADS, an AI initiative for depression screening, stands for Human-in-the-loop Evaluation of Assisted Depression Screening.",
+      "tags": [
+        "HEADS",
+        "AI",
+        "Mental health",
+        "NIMHANS",
+        "IIT Kharagpur",
+        "Healthcare"
+      ],
+      "source": {
+        "title": "HEADS to bridge India’s mental healthcare gap with AI",
+        "url": "https://www.thehindu.com/news/national/karnataka/heads-to-bridge-indias-mental-healthcare-gap-with-ai/article71499835.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q20",
+      "question": "Akasa Air is set to launch daily flights from October 25 between New Delhi and which new airport in Andhra Pradesh?",
+      "options": [
+        "Gannavaram",
+        "Kadapa",
+        "Tirupati",
+        "Bhogapuram"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Akasa Air has announced that it will commence daily flight operations between New Delhi and Bhogapuram from October 25. Bhogapuram is a new airport located in Andhra Pradesh.",
+      "background": "The expansion of flight routes to new airports like Bhogapuram enhances regional connectivity and supports economic development in the area. Akasa Air, a relatively new Indian airline, has been rapidly expanding its network.",
+      "examRelevance": "Akasa Air will launch daily flights between New Delhi and Bhogapuram, Andhra Pradesh, from October 25.",
+      "tags": [
+        "Akasa Air",
+        "Bhogapuram",
+        "New Delhi",
+        "Aviation",
+        "Andhra Pradesh"
+      ],
+      "source": {
+        "title": "Akasa Air to fly Bhogapuram-New Delhi daily from October 25",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/akasa-air-to-fly-bhogapuram-new-delhi-daily-from-october-25/article71502615.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q21",
+      "question": "Which state's industries have been urged to ensure proper disposal of hazardous waste and upload details on the APEMCL website, which features a GPS-enabled monitoring system?",
+      "options": [
+        "Telangana",
+        "Karnataka",
+        "Andhra Pradesh",
+        "Tamil Nadu"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Industries in Andhra Pradesh have been urged by Dinesh Reddy to ensure the proper disposal of hazardous waste. They are also required to promptly upload details of hazardous waste management and shifting onto the APEMCL website, which is equipped with a GPS-enabled monitoring system.",
+      "background": "Effective hazardous waste management is crucial for environmental protection and public health. Digital monitoring systems like the one implemented by APEMCL (Andhra Pradesh Environmental Management Corporation Limited) enhance transparency and accountability in waste disposal practices.",
+      "examRelevance": "Andhra Pradesh industries urged to use GPS-enabled APEMCL website for hazardous waste disposal monitoring.",
+      "tags": [
+        "Andhra Pradesh",
+        "Hazardous waste",
+        "APEMCL",
+        "Environment",
+        "Waste management"
+      ],
+      "source": {
+        "title": "Ensure proper disposal of hazardous waste: Dinesh Reddy",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/ensure-proper-disposal-of-hazardous-waste-dinesh-reddy/article71502694.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q22",
+      "question": "At which metro station in Bengaluru did a passenger recently jump onto the tracks and was subsequently rescued by security guards?",
+      "options": [
+        "Rajajinagar",
+        "Majestic",
+        "Indiranagar",
+        "MG Road"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "A passenger jumped onto the tracks at Rajajinagar metro station in Bengaluru and was rescued by platform security guards. Officials from Bangalore Metro Rail Corporation Limited (BMRCL) confirmed the incident.",
+      "background": "Metro systems often have strict safety protocols to prevent such incidents, including platform screen doors in some stations and vigilant security staff. Rapid intervention is crucial in these situations to prevent serious injury or disruption to services.",
+      "examRelevance": "Passenger jumped onto tracks at Rajajinagar metro station in Bengaluru and was rescued.",
+      "tags": [
+        "Bengaluru Metro",
+        "Rajajinagar",
+        "Metro station",
+        "Safety",
+        "BMRCL"
+      ],
+      "source": {
+        "title": "Bengaluru: Passenger jumps onto tracks at Rajajinagar metro station, rescued",
+        "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-passenger-jumps-onto-tracks-at-rajajinagar-metro-station-rescuing/article71501007.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q23",
+      "question": "Besides India, which other three nations form the G4 group that recently called for urgent reform of the UN Security Council (UNSC)?",
+      "options": [
+        "Indonesia, Turkey, South Korea",
+        "Canada, Italy, Mexico",
+        "Brazil, Germany, Japan",
+        "South Africa, Argentina, Australia"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The G4 group, comprising India, Brazil, Germany, and Japan, recently issued a collective call for urgent reform of the UN Security Council (UNSC). These nations aspire to become permanent members of an expanded UNSC.",
+      "background": "The G4 nations advocate for the expansion of both permanent and non-permanent seats in the UNSC to better reflect the geopolitical realities of the 21st century. They argue that the current structure, largely unchanged since 1945, is anachronistic.",
+      "examRelevance": "G4 nations (India, Brazil, Germany, Japan) called for urgent UN Security Council reform.",
+      "tags": [
+        "G4 nations",
+        "UNSC reform",
+        "India",
+        "Brazil",
+        "Germany",
+        "Japan"
+      ],
+      "source": {
+        "title": "India, G4 nations call for urgent UNSC reform",
+        "url": "https://economictimes.indiatimes.com/news/india/india-brazil-germany-japan-call-un-security-council-anachronistic-seek-urgent-reform/articleshow/134451078.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q24",
+      "question": "Which organization recently conducted a search and seizure operation at a jewellery shop in Mysuru, seizing gold ornaments lacking mandatory Hallmark Unique Identification (HUID) markings?",
+      "options": [
+        "Enforcement Directorate (ED)",
+        "Directorate of Revenue Intelligence (DRI)",
+        "Bureau of Indian Standards (BIS)",
+        "Reserve Bank of India (RBI)"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The Bureau of Indian Standards (BIS) conducted a search and seizure operation at a jewellery shop in Mysuru. During the operation, approximately 430 grams of gold ornaments that did not bear the mandatory Hallmark Unique Identification (HUID) markings were seized.",
+      "background": "HUID is a six-digit alphanumeric code that provides uniqueness to each hallmarked jewellery article. It was introduced to ensure transparency and protect consumers from buying non-hallmarked or under-karatage gold, making hallmarking mandatory for gold jewellery in India.",
+      "examRelevance": "BIS seized 430 grams of gold ornaments without HUID markings from a Mysuru jewellery shop.",
+      "tags": [
+        "BIS",
+        "HUID",
+        "Mysuru",
+        "Gold ornaments",
+        "Hallmarking",
+        "Consumer protection"
+      ],
+      "source": {
+        "title": "BIS conducts search and seizure at Mysuru jewellery shop",
+        "url": "https://www.thehindu.com/news/national/karnataka/bis-conducts-search-and-seizure-at-mysuru-jewellery-shop/article71500028.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q25",
+      "question": "Which institution's management is the Jangama Lingayat Mahasabha (JLM) urging the Karnataka government to retain?",
+      "options": [
+        "Udupi Krishna Math",
+        "Suttur Math",
+        "Anubhava Mantapa",
+        "Shringeri Sharada Peetham"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "The Jangama Lingayat Mahasabha (JLM) is urging the Karnataka government to retain the day-to-day management of Anubhava Mantapa. This appeal follows a resolution by the JLM general body to seek control over the institution from the State government.",
+      "background": "Anubhava Mantapa is considered the first Parliament of the world, established in the 12th century by Basavanna, a philosopher and social reformer. It was a spiritual and philosophical academy of the Lingayat faith. Its management is a matter of cultural and religious significance.",
+      "examRelevance": "Jangama Lingayat Mahasabha (JLM) urges Karnataka government to retain management of Anubhava Mantapa.",
+      "tags": [
+        "Anubhava Mantapa",
+        "JLM",
+        "Karnataka government",
+        "Art & Culture",
+        "Lingayat"
+      ],
+      "source": {
+        "title": "JLM urges Karnataka government to retain management of Anubhava Mantapa",
+        "url": "https://www.thehindu.com/news/national/karnataka/jlm-urges-the-government-to-retain-management-of-anubhava-mantapa/article71499983.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q26",
+      "question": "Which company recently launched camera-free AI glasses and teased a 'Muse Charm' product at its annual Connect conference?",
+      "options": [
+        "Apple",
+        "Samsung",
+        "Meta",
+        "Google"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Meta, led by CEO Mark Zuckerberg, recently launched camera-free AI glasses and teased a 'Muse Charm' product at its annual Connect conference. The new glasses aim to address privacy concerns by omitting cameras while still offering AI capabilities.",
+      "background": "Meta has been investing heavily in augmented reality (AR) and virtual reality (VR) technologies, including smart glasses. The introduction of camera-free AI glasses indicates a strategic move to balance technological innovation with user privacy concerns, a common challenge in wearable tech.",
+      "examRelevance": "Meta launched camera-free AI glasses and teased 'Muse Charm' product at Connect conference.",
+      "tags": [
+        "Meta",
+        "AI glasses",
+        "Muse Charm",
+        "Mark Zuckerberg",
+        "Wearable tech",
+        "Privacy"
+      ],
+      "source": {
+        "title": "Meta launches camera-free AI glasses amid privacy pushback, teases Muse Charm product",
+        "url": "https://www.thehindu.com/sci-tech/technology/meta-launches-camera-free-ai-glasses-amid-privacy-pushback-teases-muse-charm-product/article71502702.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q27",
+      "question": "Which bank has recently launched an FD-backed credit card, named 'Advantage SBI Card'?",
+      "options": [
+        "ICICI Bank",
+        "HDFC Bank",
+        "Axis Bank",
+        "SBI"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "State Bank of India (SBI) has recently launched an FD-backed credit card, specifically named the 'Advantage SBI Card'. This product is designed to offer credit card facilities against a Fixed Deposit.",
+      "background": "FD-backed credit cards are typically offered to individuals who may not qualify for a regular credit card due to a lack of credit history or a low credit score. They provide an opportunity to build credit while being secured by the Fixed Deposit.",
+      "examRelevance": "SBI launched 'Advantage SBI Card', an FD-backed credit card.",
+      "tags": [
+        "SBI",
+        "FD-backed credit card",
+        "Advantage SBI Card",
+        "Banking",
+        "Financial products"
+      ],
+      "source": {
+        "title": "FD-backed SBI Card launched: Check details",
+        "url": "https://economictimes.indiatimes.com/wealth/spend/fd-backed-sbi-card-advantage-sbi-card-launched-who-can-benefit-from-it/articleshow/134450704.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q28",
+      "question": "For how many years has the National Testing Agency (NTA) debarred the son of a Latur coaching centre owner from NEET-UG due to involvement in a paper leak?",
+      "options": [
+        "One year",
+        "Three years",
+        "Two years",
+        "Five years"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "The National Testing Agency (NTA) has debarred the son of a Latur coaching centre owner from appearing in NEET-UG for a period of two years. This action was taken due to his involvement in a paper leak, where Shivraj Motegaonkar allegedly paid ₹5 lakh to procure chemistry questions.",
+      "background": "Paper leaks undermine the integrity of competitive examinations and severely affect deserving candidates. Strict actions like debarment are implemented to deter such malpractices and maintain the fairness of the examination system.",
+      "examRelevance": "NTA debarred the son of a Latur coaching centre owner from NEET-UG for two years over a paper leak.",
+      "tags": [
+        "NTA",
+        "NEET-UG",
+        "Paper leak",
+        "Latur",
+        "Debarment",
+        "Education"
+      ],
+      "source": {
+        "title": "Paper Leak: NTA debars Latur coaching centre owner’s son from NEET-UG for two years",
+        "url": "https://www.thehindu.com/news/national/maharashtra/paper-leak-nta-debars-latur-coaching-centre-owners-son-from-neet-ug-for-two-years/article71502661.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q29",
+      "question": "U.S. President Donald Trump recently greeted Chinese President Xi Jinping at which location for their bilateral talks?",
+      "options": [
+        "Pentagon",
+        "Joint Base Andrews",
+        "White House",
+        "Camp David"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "U.S. President Donald Trump recently greeted Chinese President Xi Jinping at Joint Base Andrews, just outside Washington, for their bilateral talks. This high-level treatment for Xi, including a personal welcome at the base, is a courtesy Trump has not extended to other leaders.",
+      "background": "Meetings between the leaders of the U.S. and China are crucial for global diplomacy, often setting the tone for international relations and trade. Such gestures of hospitality can signify efforts to ease tensions or strengthen ties between the two major powers.",
+      "examRelevance": "Donald Trump greeted Xi Jinping at Joint Base Andrews for bilateral talks.",
+      "tags": [
+        "Donald Trump",
+        "Xi Jinping",
+        "Joint Base Andrews",
+        "US-China relations",
+        "International Diplomacy"
+      ],
+      "source": {
+        "title": "Xi says China, U.S. should be ‘partners rather than rivals’: state media",
+        "url": "https://www.thehindu.com/news/international/china-us-donald-trump-xi-meet/article71502548.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-24-q30",
+      "question": "At least nine people were killed when a sleeper bus caught fire on which expressway in Uttar Pradesh?",
+      "options": [
+        "Purvanchal Expressway",
+        "Agra-Lucknow Expressway",
+        "Yamuna Expressway",
+        "Delhi-Meerut Expressway"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "At least nine people were killed when a sleeper bus caught fire on the Yamuna Expressway in Uttar Pradesh. The incident occurred near the 33-km marker, with the bus carrying 35 passengers from Delhi to Mahua in Jhansi district.",
+      "background": "Bus fires, particularly involving sleeper coaches, pose significant safety risks due to the enclosed spaces and potential for rapid spread of flames. Investigations into such incidents typically focus on the cause of the fire, vehicle maintenance, and adherence to safety standards.",
+      "examRelevance": "Nine killed in a sleeper bus fire on Yamuna Expressway in Uttar Pradesh.",
+      "tags": [
+        "Yamuna Expressway",
+        "Bus fire",
+        "Uttar Pradesh",
+        "Road accident",
+        "Tragedy"
+      ],
+      "source": {
+        "title": "At least nine killed as sleeper bus catches fire on Yamuna Expressway; driver, conductor arrested for culpable homicide",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/noida-bus-fire-accident-death-toll-updates/article71502592.ece"
+      }
+    }
+  ]
+}
