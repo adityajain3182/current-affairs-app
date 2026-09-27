@@ -1,0 +1,782 @@
+{
+  "id": "daily-2026-09-27",
+  "type": "daily",
+  "date": "2026-09-27",
+  "title": "Current Affairs — 27 Sept 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-09-27-q1",
+      "question": "Who is the Chief Election Commissioner (CEC) of India facing calls for his removal from various political parties, trade unions, and farm outfits?",
+      "options": [
+        "Sunil Arora",
+        "Anup Chandra Pandey",
+        "Gyanesh Kumar",
+        "Rajiv Kumar"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Chief Election Commissioner Gyanesh Kumar is currently facing calls for his removal from various trade unions, farm outfits, and Left parties. This comes amid protests and accusations regarding alleged irregularities in the electoral process, including claims of deleted voters still residing in Bihar villages.",
+      "background": "The process for removing a Chief Election Commissioner is similar to that of a Supreme Court judge, requiring a resolution passed by both Houses of Parliament with a special majority. The Supreme Court has previously emphasized the need for collegial functioning within the Election Commission.",
+      "examRelevance": "Gyanesh Kumar = Current CEC, facing calls for removal due to alleged electoral irregularities.",
+      "tags": [
+        "Gyanesh Kumar",
+        "CEC",
+        "Election Commission",
+        "Polity"
+      ],
+      "source": {
+        "title": "Trade unions, farm outfits join chorus to remove CEC Gyanesh Kumar",
+        "url": "https://www.thehindu.com/news/national/trade-unions-farm-outfits-join-chorus-to-remove-cec-gyanesh-kumar/article71513513.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q2",
+      "question": "Which team will the full-strength Indian cricket squad face in their opening match at the Asian Games 2026?",
+      "options": [
+        "Afghanistan",
+        "Bangladesh",
+        "Pakistan",
+        "Sri Lanka"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "The full-strength Indian cricket squad is set to face an inexperienced Afghanistan team in their opening match at the Asian Games 2026. This marks a change from the previous edition where India sent a less experienced side.",
+      "background": "The Asian Games 2026 are being held in Aichi-Nagoya, Japan. India is participating with a full-strength squad, including prominent players like Shreyas Iyer, Jasprit Bumrah, Ishan Kishan, Abhishek Sharma, and Axar Patel, aiming for a strong performance in the cricket event.",
+      "examRelevance": "Asian Games 2026 Cricket = India vs Afghanistan in opener.",
+      "tags": [
+        "Asian Games 2026",
+        "Cricket",
+        "India",
+        "Afghanistan",
+        "Sports"
+      ],
+      "source": {
+        "title": "Asian Games 2026: Full-strength India to face inexperienced Afghanistan in opener",
+        "url": "https://www.thehindu.com/sport/cricket/asian-games-2026-full-strength-india-to-face-inexperienced-afghanistan-in-opener/article71515301.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q3",
+      "question": "Which recruitment examination in Jharkhand was recently cancelled, leading to protests from candidates who had cleared it?",
+      "options": [
+        "Jharkhand Staff Selection Commission Combined Graduate Level (JSSC-CGL) Exam",
+        "Jharkhand Teacher Eligibility Test (JTET)",
+        "Jharkhand Police Sub-Inspector Exam",
+        "Jharkhand Public Service Commission (JPSC) Exam"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Jharkhand Staff Selection Commission Combined Graduate Level (JSSC-CGL) examination was recently cancelled. While this decision was a major demand of initial exam protesters, it has now triggered a new wave of protests from approximately 2,000 candidates who had cleared the exam and fear losing their jobs.",
+      "background": "The cancellation of the JSSC-CGL exam came after allegations of irregularities. This decision, intended to quell an existing agitation, has instead created a fresh concern for the state government as it now faces protests from a different group of affected candidates.",
+      "examRelevance": "Jharkhand = JSSC-CGL exam cancelled due to irregularities.",
+      "tags": [
+        "Jharkhand",
+        "JSSC-CGL",
+        "Exam Cancellation",
+        "Protest"
+      ],
+      "source": {
+        "title": "Jharkhand: JSSC-CGL exam cancellation to end one protest triggers another as 2,000 fear job loss",
+        "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-jssc-cgl-exam-cancellation-to-end-one-protest-triggers-another-as-2000-fear-job-loss/article71360260.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q4",
+      "question": "Which Pope is currently on a four-day official visit to France, marking the first such papal visit in nearly two decades?",
+      "options": [
+        "Pope Leo XIV",
+        "Pope John Paul II",
+        "Pope Francis",
+        "Pope Benedict XVI"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Pope Leo XIV is currently on a four-day trip to France, a secular country with deep Catholic roots. This visit marks the first official papal visit to France in nearly two decades, during which he is expected to meet with clerical sex abuse victims.",
+      "background": "Papal visits are significant diplomatic and religious events. This visit by Pope Leo XIV to France underscores the Vatican's engagement with secular nations and its ongoing efforts to address sensitive issues like clerical sex abuse.",
+      "examRelevance": "Pope Leo XIV = First official papal visit to France in nearly two decades.",
+      "tags": [
+        "Pope Leo XIV",
+        "France",
+        "Papal Visit",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Pope Leo XIV to meet clerical sex abuse victims during France visit",
+        "url": "https://www.thehindu.com/news/international/pope-leo-xiv-to-meet-clerical-sex-abuse-victims-during-france-visit/article71515383.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q5",
+      "question": "Who won a silver medal for India in the men's shot put event at the Asian Games 2026 in Nagoya?",
+      "options": [
+        "Avinash Sable",
+        "Neeraj Chopra",
+        "Tajinderpal Singh Toor",
+        "Murali Sreeshankar"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Tajinderpal Singh Toor secured a silver medal for India in the men's shot put event at the Asian Games 2026 in Nagoya. Despite his performance, Toor expressed disappointment at not winning gold.",
+      "background": "The Asian Games 2026 are being held in Aichi-Nagoya, Japan. Tajinderpal Singh Toor is a prominent Indian shot-putter, and his silver medal adds to India's tally at these games. He aims to throw 22m or above at the Olympics.",
+      "examRelevance": "Tajinderpal Singh Toor = Silver medal in Men's Shot Put at Asian Games 2026.",
+      "tags": [
+        "Tajinderpal Singh Toor",
+        "Asian Games 2026",
+        "Shot Put",
+        "Athletics",
+        "Sports"
+      ],
+      "source": {
+        "title": "Asian Games 2026: My aim now only is to throw 22m or above at Olympics, says Toor",
+        "url": "https://www.thehindu.com/sport/athletics/india-tajinderpal-toor-finishes-second-in-nagoya-shot-put-amid-injuries-asian-games-2026/article71513617.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q6",
+      "question": "Which country recently expressed its support for India's candidature for a permanent seat in the United Nations Security Council (UNSC)?",
+      "options": [
+        "Russia",
+        "France",
+        "Germany",
+        "United States"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Russian Foreign Minister Sergey Lavrov recently stated that Russia supports India's candidature for a permanent seat in the United Nations Security Council (UNSC). Russia also backs Brazil's candidature and emphasizes satisfying the interests of the African continent.",
+      "background": "India has long sought a permanent seat in an expanded UNSC, arguing that its growing global influence and democratic credentials warrant such a role. Support from major powers like Russia is crucial for India's aspirations in UN reforms.",
+      "examRelevance": "Russia = Backs India's candidature for UNSC permanent seat.",
+      "tags": [
+        "Russia",
+        "India",
+        "UNSC",
+        "Permanent Seat",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Russia backs India’s candidature for UNSC permanent seat",
+        "url": "https://www.thehindu.com/news/international/russia-backs-indias-candidature-for-unsc-permanent-seat/article71515381.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q7",
+      "question": "On what date did India address the United Nations Headquarters, emphasizing the need for resilient health systems and pandemic preparedness?",
+      "options": [
+        "September 23, 2026",
+        "September 25, 2026",
+        "September 26, 2026",
+        "September 24, 2026"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "India addressed the meeting at the United Nations Headquarters on Friday, September 25, 2026. Ms. Srivastava outlined India's coordinated approach to pandemic prevention and response, covering a wide range of potential health emergencies.",
+      "background": "The COVID-19 pandemic highlighted the critical need for robust global health infrastructure and preparedness. India's emphasis at the UN reflects its commitment to international cooperation on public health and its own experiences in managing large-scale health crises.",
+      "examRelevance": "India at UN = Stressed health systems, pandemic preparedness on Sep 25, 2026.",
+      "tags": [
+        "UN",
+        "India",
+        "Pandemic Preparedness",
+        "Health Systems",
+        "International"
+      ],
+      "source": {
+        "title": "India stresses resilient health systems, pandemic preparedness at UN",
+        "url": "https://www.thehindu.com/sci-tech/health/india-stresses-resilient-health-systems-pandemic-preparedness-at-un/article71515374.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q8",
+      "question": "What market share does Tata Motors Passenger Vehicles (PV) business aim to achieve by Fiscal Year 2031 (FY31)?",
+      "options": [
+        "25%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Tata Motors MD & CEO Shailesh Chandra stated that the passenger vehicle business expects to achieve a 15% market share 'very soon' and aims to reach 20% by Fiscal Year 2031 (FY31). The PV business grew nearly 40% over the past year since its demerger.",
+      "background": "Tata Motors' passenger vehicle business became a standalone entity following its demerger, effective October 1 last year. This strategic move is aimed at enhancing focus and accelerating growth in the competitive passenger vehicle segment.",
+      "examRelevance": "Tata Motors PV = Aims for 20% market share by FY31.",
+      "tags": [
+        "Tata Motors",
+        "Passenger Vehicles",
+        "Market Share",
+        "Business Targets"
+      ],
+      "source": {
+        "title": "Tata Motors PV expects 15% market share 'very soon', eyes 20% by FY31: MD Shailesh Chandra",
+        "url": "https://www.thehindu.com/business/tata-motors-pv-expects-15-market-share-very-soon-eyes-20-by-fy31-md-shailesh-chandra/article71515356.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q9",
+      "question": "In which country was a new mpox case recently confirmed in a northeastern city, despite the national public health emergency for mpox having ended in April?",
+      "options": [
+        "Sudan",
+        "Uganda",
+        "Democratic Republic of Congo",
+        "Nigeria"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "A new mpox case was recently confirmed in a northeastern Congolese city, which is also at the center of an Ebola outbreak. This development comes after Congo declared an end to mpox as a national public health emergency in April, following a three-year outbreak with over 34,000 confirmed cases nationwide.",
+      "background": "Authorities in Congo had cautioned that the mpox virus had not been eradicated and could resurge, even after ending the public health emergency. The recurrence highlights the persistent challenge of managing infectious diseases in the region.",
+      "examRelevance": "Democratic Republic of Congo = New mpox case confirmed after emergency ended in April.",
+      "tags": [
+        "Mpox",
+        "Congo",
+        "Public Health",
+        "Disease Outbreak"
+      ],
+      "source": {
+        "title": "Mpox case confirmed in northeastern Congolese city at center of Ebola outbreak",
+        "url": "https://www.thehindu.com/sci-tech/health/mpox-case-confirmed-in-northeastern-congolese-city-at-center-of-ebola-outbreak/article71515372.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q10",
+      "question": "Which country has called the CEOs of OpenAI and Anthropic to appear at an AI probe over a high-profile health database breach?",
+      "options": [
+        "Canada",
+        "Australia",
+        "United Kingdom",
+        "United States"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Australia has called the CEOs of OpenAI and Anthropic to appear at an AI probe. This follows a Medicare health database breach, which Prime Minister Anthony Albanese condemned as one of the highest-profile incidents of AI agents accessing external systems outside the U.S.",
+      "background": "The increasing use of AI systems raises significant concerns about data privacy and security. This probe highlights global efforts to regulate AI and hold technology companies accountable for data breaches involving their AI agents.",
+      "examRelevance": "Australia = Summoned OpenAI, Anthropic CEOs for AI probe over Medicare breach.",
+      "tags": [
+        "Australia",
+        "OpenAI",
+        "Anthropic",
+        "AI Probe",
+        "Data Breach"
+      ],
+      "source": {
+        "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe over health database breach",
+        "url": "https://www.thehindu.com/sci-tech/health/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe-over-health-database-breach/article71515354.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q11",
+      "question": "Which significant event was recently hailed by Prime Minister Narendra Modi as a milestone in India's counter-terrorism policy?",
+      "options": [
+        "The 2016 Surgical Strikes",
+        "Operation Parakram",
+        "Operation Vijay",
+        "Operation Black Thunder"
+      ],
+      "answerIndex": 0,
+      "category": "Defence",
+      "explanation": "Prime Minister Narendra Modi recently highlighted the 2016 surgical strikes as a milestone in India's counter-terrorism policy. He praised the strikes as a model for effectively dealing with terror threats.",
+      "background": "The 2016 surgical strikes were conducted by the Indian Army across the Line of Control (LoC) in Pakistan-occupied Kashmir in response to the Uri attack. These strikes were widely seen as a decisive demonstration of India's resolve against cross-border terrorism.",
+      "examRelevance": "PM Modi = Hailed 2016 Surgical Strikes as counter-terror model.",
+      "tags": [
+        "PM Modi",
+        "Surgical Strikes",
+        "Counter-terrorism",
+        "Defence Policy"
+      ],
+      "source": {
+        "title": "Modi hails surgical strikes as counter-terror model",
+        "url": "https://economictimes.indiatimes.com/news/india/pm-modi-highlights-2016-surgical-strikes-as-milestone-in-indias-counter-terrorism-policy/articleshow/134515418.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q12",
+      "question": "On what date did the Karnataka Legislature decide to reject the draft notification for the Ecologically Sensitive Area (ESA) in the Western Ghats?",
+      "options": [
+        "September 18",
+        "September 25",
+        "September 15",
+        "September 22"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The Karnataka Legislature made a decision on September 22 to reject the draft notification for the Ecologically Sensitive Area (ESA) in the Western Ghats. The state has repeatedly expressed its objections to the ESA draft.",
+      "background": "The Kasturirangan Committee had recommended declaring a significant portion of the Western Ghats as an Ecologically Sensitive Area. Karnataka's objection stems from concerns about the impact on the livelihoods of people residing in these regions.",
+      "examRelevance": "Karnataka Legislature = Rejected ESA draft on September 22.",
+      "tags": [
+        "Karnataka",
+        "ESA",
+        "Western Ghats",
+        "Environment",
+        "Legislature"
+      ],
+      "source": {
+        "title": "What is Karnataka’s objection to the ESA? | Explained",
+        "url": "https://www.thehindu.com/news/national/karnataka/what-is-karnatakas-objection-to-the-esa-explained/article71512650.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q13",
+      "question": "Which port has become India’s first large-scale private multi-cargo port to operate fully on renewable electricity?",
+      "options": [
+        "Pipavav Port",
+        "Paradip Port",
+        "Mundra Port",
+        "Dhamra Port"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Dhamra Port in Odisha has achieved the milestone of becoming India’s first large-scale private multi-cargo port to operate fully on renewable electricity. Operated by Adani Ports and Special Economic Zone (APSEZ), this transition took effect in August 2026 as part of APSEZ’s long-term Net-Zero strategy.",
+      "background": "The port now meets over 90 lakh units of monthly electricity demand from renewable sources, exceeding 108 gigawatt-hours (GWh) on an annualised basis. This initiative is expected to significantly reduce emissions linked to purchased electricity.",
+      "examRelevance": "Dhamra Port = India's first large private multi-cargo port fully on renewable electricity.",
+      "tags": [
+        "Dhamra Port",
+        "Adani Ports",
+        "Renewable Energy",
+        "Green Port",
+        "Odisha"
+      ],
+      "source": {
+        "title": "Adani's Dhamra Port makes history",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/adanis-dhamra-port-becomes-indias-first-large-private-multi-cargo-port-to-run-fully-on-renewable-electricity/articleshow/134515050.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q14",
+      "question": "Which country has recently experienced widespread floods and landslips triggered by relentless rainfall, particularly affecting the Rupandehi district?",
+      "options": [
+        "Nepal",
+        "Bangladesh",
+        "Bhutan",
+        "Myanmar"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Relentless rainfall has triggered widespread floods and landslips across Nepal. In Rupandehi district, part of Lumbini province, floodwaters from the Tinau River swept away six houses in Butwal after the river rose above its danger level.",
+      "background": "Nepal is highly vulnerable to natural disasters such as floods and landslides during the monsoon season due to its mountainous terrain and heavy rainfall. Such events frequently cause significant damage to infrastructure and displacement of communities.",
+      "examRelevance": "Nepal = Widespread floods and landslips due to relentless rainfall.",
+      "tags": [
+        "Nepal",
+        "Floods",
+        "Landslips",
+        "Natural Disaster",
+        "Rupandehi"
+      ],
+      "source": {
+        "title": "Relentless rainfall triggers floods, landslips across Nepal",
+        "url": "https://www.thehindu.com/news/international/relentless-rainfall-triggers-floods-landslips-across-nepal/article71515295.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q15",
+      "question": "Which oil refinery in southern Russia did Ukraine claim to have struck, causing a fire at the facility?",
+      "options": [
+        "Volgograd Oil Refinery",
+        "Ilsky Oil Refinery",
+        "Tuapse Oil Refinery",
+        "Novoshakhtinsk Oil Refinery"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Ukraine has claimed responsibility for striking the Ilsky oil refinery in southern Russia, stating that a fire had broken out at the facility. Ukraine described the refinery as helping fuel Moscow's war effort.",
+      "background": "Since the full-scale invasion, Ukraine has increasingly targeted Russian energy infrastructure, including oil refineries, with drone attacks. These strikes aim to disrupt Russia's logistical capabilities and economic resources supporting its military operations.",
+      "examRelevance": "Ukraine = Struck Ilsky oil refinery in southern Russia.",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "Ilsky Oil Refinery",
+        "Conflict",
+        "Energy Infrastructure"
+      ],
+      "source": {
+        "title": "Ukraine says it struck Ilsky oil refinery in southern Russia",
+        "url": "https://www.thehindu.com/news/international/russia-ukraine-war-ilsky-oil-refinery/article71512127.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q16",
+      "question": "How many talukas in Maharashtra has the state government recently declared as drought-affected?",
+      "options": [
+        "180",
+        "300",
+        "265",
+        "220"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Maharashtra Government has declared drought in 265 talukas across the state. This decision follows an 18.8% rainfall deficit, with the state receiving only 755.9 mm of actual rainfall from June to September 18.",
+      "background": "Drought declarations are crucial for activating relief measures and assistance programs for affected farmers and communities. The significant rainfall deficit indicates a severe impact on agriculture and water resources in Maharashtra.",
+      "examRelevance": "Maharashtra = Declared drought in 265 talukas.",
+      "tags": [
+        "Maharashtra",
+        "Drought",
+        "Talukas",
+        "Rainfall Deficit",
+        "Government Policy"
+      ],
+      "source": {
+        "title": "Maharashtra Government declares drought in 265 talukas",
+        "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-declares-drought-in-265-talukas-covering-74-of-state/article71511967.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q17",
+      "question": "Which district in Maharashtra recently experienced a mild tremor of 3.6-magnitude, with no reported casualties or damage?",
+      "options": [
+        "Raigad",
+        "Satara",
+        "Nashik",
+        "Palghar"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "A mild tremor of 3.6-magnitude recently struck the Talasari area of Palghar district in Maharashtra. District Disaster Management Cell chief Vivekanand Kadam confirmed that there were no injuries or damage reported.",
+      "background": "Palghar district, particularly its northern parts, has experienced seismic activity in the past. Such tremors, though mild, are monitored by disaster management authorities to ensure public safety and readiness.",
+      "examRelevance": "Palghar, Maharashtra = Experienced 3.6-magnitude tremor.",
+      "tags": [
+        "Palghar",
+        "Maharashtra",
+        "Earthquake",
+        "Tremor",
+        "Natural Event"
+      ],
+      "source": {
+        "title": "Mild tremor hits Palghar in Maharashtra; no casualties",
+        "url": "https://www.thehindu.com/news/national/maharashtra/earthquake-in-palghar-maharashtra/article71515275.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q18",
+      "question": "On what date are bypolls scheduled for the Nandigram and Rejinagar Assembly constituencies in West Bengal?",
+      "options": [
+        "October 2",
+        "September 30",
+        "October 4",
+        "October 6"
+      ],
+      "answerIndex": 3,
+      "category": "Dates & Days",
+      "explanation": "Bypolls for the Nandigram and Rejinagar Assembly constituencies in West Bengal are scheduled for October 6. These elections are reportedly facing a lack of significant contest on the ground due to alleged dropouts and intimidation of non-BJP candidates.",
+      "background": "Bypolls are held to fill vacancies in legislative bodies. Nandigram is a politically significant constituency in West Bengal, known for high-stakes electoral battles. The current bypolls are marked by concerns over the fairness of the electoral process.",
+      "examRelevance": "West Bengal Bypolls = Nandigram and Rejinagar on October 6.",
+      "tags": [
+        "Nandigram",
+        "Rejinagar",
+        "West Bengal",
+        "Bypoll",
+        "October 6"
+      ],
+      "source": {
+        "title": "Nandigram and Rejinagar bypoll: Ballot without the battle",
+        "url": "https://www.thehindu.com/news/national/west-bengal/nandigram-and-rejinagar-bypoll-ballot-without-the-battle/article71512622.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q19",
+      "question": "Which state government recently issued an order to exempt its Public (Law and Order) Department from the Right to Information (RTI) Act?",
+      "options": [
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Kerala"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Tamil Nadu government recently issued an order to exempt its Public (Law and Order) Department from the Right to Information (RTI) Act. This exemption covers information on subjects such as communal and caste clashes, NSA detentions, reports into deaths in police custody, and agitations.",
+      "background": "The RTI Act aims to promote transparency and accountability in government functioning. Exempting certain departments or types of information from its ambit can be controversial, often debated on grounds of national security, public order, or privacy versus the public's right to know.",
+      "examRelevance": "Tamil Nadu = Exempted Public (Law and Order) Dept from RTI Act.",
+      "tags": [
+        "Tamil Nadu",
+        "RTI Act",
+        "Law and Order",
+        "Government Exemption",
+        "Transparency"
+      ],
+      "source": {
+        "title": "Tamil Nadu government exempts Public (Law and Order) Department from RTI Act",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-exempts-public-law-and-order-department-from-rti-act/article71515196.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q20",
+      "question": "In which district of Tamil Nadu is a mega greenfield shipyard proposed, aimed at boosting development in the southern region?",
+      "options": [
+        "Nagapattinam",
+        "Chennai",
+        "Cuddalore",
+        "Thoothukudi"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "A mega greenfield shipyard is proposed in Thoothukudi district of Tamil Nadu. This project is expected to bring significant development benefits not only to the district but also to the entire southern region.",
+      "background": "Greenfield projects involve building new facilities from scratch, often in undeveloped areas. A mega shipyard can boost industrial growth, create employment opportunities, and enhance maritime trade and defence capabilities for the region.",
+      "examRelevance": "Thoothukudi, Tamil Nadu = Proposed mega greenfield shipyard.",
+      "tags": [
+        "Thoothukudi",
+        "Tamil Nadu",
+        "Shipyard",
+        "Infrastructure",
+        "Economic Development"
+      ],
+      "source": {
+        "title": "Greenfield shipyard in Thoothukudi: a southern port to development",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/greenfield-shipyard-in-thoothukudi-a-southern-port-to-development/article71513807.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q21",
+      "question": "The first anniversary of the tragic Karur stampede, which occurred during a political rally addressed by Vijay, was recently observed. In which state did this incident take place?",
+      "options": [
+        "Andhra Pradesh",
+        "Telangana",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "The first anniversary of the tragic Karur stampede, which resulted in 41 deaths in a crowd crush at a political rally addressed by Vijay, was recently observed on September 27, 2026. The incident took place at Velusamypuram in Karur, Tamil Nadu.",
+      "background": "The stampede occurred on September 27, 2025, during a rally where TVK president Vijay was scheduled to speak. The delayed arrival of the leader and overcrowding contributed to the tragedy. Investigations into the incident are ongoing, with victims' families still seeking justice.",
+      "examRelevance": "Karur stampede = Tamil Nadu, occurred Sept 27, 2025 (first anniversary observed).",
+      "tags": [
+        "Karur",
+        "Tamil Nadu",
+        "Stampede",
+        "Vijay",
+        "Political Rally"
+      ],
+      "source": {
+        "title": "Karur stampede left an indelible scar, says Vijay on first anniversary",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/karur-stampede-left-an-indelible-scar-says-vijay-on-first-anniversary/article71515129.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q22",
+      "question": "Which Indian minister recently stated at the UN General Assembly (UNGA) that nations can shape their own Artificial Intelligence (AI) ecosystems?",
+      "options": [
+        "Nirmala Sitharaman",
+        "Amit Shah",
+        "Rajnath Singh",
+        "S. Jaishankar"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "External Affairs Minister S. Jaishankar recently stated at the UN General Assembly that nations have the ability to shape their own Artificial Intelligence (AI) ecosystems. He also emphasized challenges faced by the Global South and the role of technology.",
+      "background": "India has been actively engaging in global discussions on AI governance and ethics. Jaishankar's remarks underscore India's stance on national sovereignty in developing AI frameworks while also advocating for global cooperation and addressing disparities.",
+      "examRelevance": "S. Jaishankar = Stated nations can shape own AI ecosystems at UNGA.",
+      "tags": [
+        "S. Jaishankar",
+        "UNGA",
+        "AI",
+        "International Relations",
+        "Technology"
+      ],
+      "source": {
+        "title": "Nations can shape own AI ecosystems: Jaishankar",
+        "url": "https://economictimes.indiatimes.com/news/india/jaishankar-advocates-for-ai-sovereignty-at-unga-emphasizes-global-south-challenges-and-technologys-role/articleshow/134514752.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q23",
+      "question": "At which Indian Institute of Technology (IIT) are students currently protesting regarding various issues?",
+      "options": [
+        "IIT Kanpur",
+        "IIT Bombay",
+        "IIT Delhi",
+        "IIT Madras"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "Students are currently protesting at IIT Bombay regarding various issues. The protests involve specific demands from the students, and the institution has responded to the situation, with faculty members also raising questions.",
+      "background": "Student protests at premier educational institutions often highlight concerns regarding academic policies, campus facilities, fee structures, or social issues. These agitations typically involve dialogues between students, faculty, and administration to resolve grievances.",
+      "examRelevance": "IIT Bombay = Site of ongoing student protests.",
+      "tags": [
+        "IIT Bombay",
+        "Student Protest",
+        "Education",
+        "Mumbai"
+      ],
+      "source": {
+        "title": "Why are students protesting at IIT-Bombay? | Explained",
+        "url": "https://www.thehindu.com/news/national/maharashtra/why-are-students-protesting-at-iit-bombay-explained/article71513061.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q24",
+      "question": "Which state recently received respite from a severe rainfall deficit, attributed to the El Niño phenomenon, after a sharp turn in weather brought refreshing rains?",
+      "options": [
+        "Odisha",
+        "Gujarat",
+        "Telangana",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Andhra Pradesh recently received refreshing rainfall, bringing relief to parts of the state that had been reeling under a severe rainfall deficit. This deficit was attributed to the El Niño phenomenon.",
+      "background": "El Niño is a climate pattern associated with the warming of the ocean surface in the central and eastern tropical Pacific Ocean. It often leads to significant changes in global weather patterns, including reduced monsoon rainfall in parts of India.",
+      "examRelevance": "Andhra Pradesh = Received rainfall after El Niño-attributed deficit.",
+      "tags": [
+        "Andhra Pradesh",
+        "El Niño",
+        "Rainfall",
+        "Drought",
+        "Weather"
+      ],
+      "source": {
+        "title": "News in Frames: After the drought,a refreshing respite",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/news-in-frames-after-the-droughta-refreshing-respite/article71515224.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q25",
+      "question": "Which former U.S. President recently rejected Iran's proposal for a deal to reopen the Strait of Hormuz?",
+      "options": [
+        "Barack Obama",
+        "Donald Trump",
+        "George W. Bush",
+        "Bill Clinton"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Former U.S. President Donald Trump recently rejected Iran's proposal for a deal to reopen the Strait of Hormuz. Iran's Foreign Minister Abbas Araghchi had detailed the proposal, suggesting a speedy agreement would benefit Trump ahead of November's midterm elections.",
+      "background": "The Strait of Hormuz is a crucial strategic waterway for global oil shipments. Tensions over its closure or restrictions have been a recurring point of contention between Iran and the United States, impacting international energy markets.",
+      "examRelevance": "Donald Trump = Rejected Iran's proposal to reopen Strait of Hormuz.",
+      "tags": [
+        "Donald Trump",
+        "Iran",
+        "Strait of Hormuz",
+        "International Diplomacy",
+        "US Policy"
+      ],
+      "source": {
+        "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
+        "url": "https://www.thehindu.com/news/international/trump-rejects-iran-proposal-for-deal-to-reopen-hormuz/article71514089.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q26",
+      "question": "Which country's football players recently agreed to play Israel fixtures in the UEFA Nations League but planned to wear black armbands as a sign of protest?",
+      "options": [
+        "Scotland",
+        "Ireland",
+        "Northern Ireland",
+        "Wales"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Ireland's football players recently agreed to play their Israel fixtures in the UEFA Nations League. However, they plan to wear black armbands during the matches as a form of protest. This decision followed deliberations within the squad due to an unnamed player's discomfort with fulfilling the fixture.",
+      "background": "Sports events can often become platforms for political or social statements. The decision by the Irish players highlights the ongoing complexities and sensitivities surrounding the Israel-Palestine conflict, which sometimes spill over into international sporting arenas.",
+      "examRelevance": "Ireland football team = Agreed to play Israel fixtures, plans black armbands.",
+      "tags": [
+        "Ireland",
+        "Israel",
+        "UEFA Nations League",
+        "Football",
+        "Protest"
+      ],
+      "source": {
+        "title": "UEFA Nations League: Ireland players agree to play Israel fixtures, plan black armbands",
+        "url": "https://www.thehindu.com/sport/uefa-nations-league-ireland-players-agree-to-play-israel-fixtures-plan-black-armbands/article71515148.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q27",
+      "question": "Which state's Chief Minister is set to launch a 1-gram gold ring scheme for newborns on September 28?",
+      "options": [
+        "Kerala",
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "Tamil Nadu Chief Minister Vijay is set to launch a 1-gram gold ring scheme for newborns on Monday, September 28. This scheme aims to provide a tangible benefit to families with new additions.",
+      "background": "State governments often introduce welfare schemes targeting specific demographics, such as newborns, to promote health, education, or economic well-being. Such initiatives are typically part of a broader social security framework.",
+      "examRelevance": "Tamil Nadu CM Vijay = Launching 1-gram gold ring scheme for newborns on Sept 28.",
+      "tags": [
+        "Tamil Nadu",
+        "Vijay",
+        "Gold Ring Scheme",
+        "Newborns",
+        "Welfare Scheme"
+      ],
+      "source": {
+        "title": "TN: Vijay to launch gold ring scheme for newborns",
+        "url": "https://economictimes.indiatimes.com/news/india/tamil-nadu-cm-vijay-to-launch-1-gram-gold-ring-scheme-for-newborns-on-monday-sept-28/articleshow/134514254.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q28",
+      "question": "Which tech giant recently celebrated its 28th birthday, having been founded by Larry Page and Sergey Brin?",
+      "options": [
+        "Microsoft",
+        "Amazon",
+        "Apple",
+        "Google"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Google recently celebrated its 28th birthday. The company was founded by Larry Page and Sergey Brin in 1998, initially operating out of a garage, and has since grown into a multi-trillion dollar corporation.",
+      "background": "Google's origins trace back to a research project by Page and Brin at Stanford University. An early investment of $100,000 helped them establish the company, which revolutionized internet search and expanded into numerous other technology sectors.",
+      "examRelevance": "Google = Celebrated 28th birthday, founded by Larry Page and Sergey Brin.",
+      "tags": [
+        "Google",
+        "Larry Page",
+        "Sergey Brin",
+        "Tech Company",
+        "Anniversary"
+      ],
+      "source": {
+        "title": "Stanford dorm to $4trillion co: Google's 28th bday",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/in-1998-an-investor-writes-a-100000-cheque-to-a-startup-called-google-which-was-running-out-of-a-garage-founders-larry-page-sergey-brin-set-it-up-as-a-business-the-very-next-day-now-the-company-is-worth-more-than-4-trillion/articleshow/134513837.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q29",
+      "question": "Which state recently informed the Supreme Court that it had no role in enacting changes to the transgender rights law and would not defend them?",
+      "options": [
+        "Karnataka",
+        "Kerala",
+        "Andhra Pradesh",
+        "Madhya Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Andhra Pradesh recently informed the Supreme Court that it had no role in enacting the changes to the transgender rights law and has not taken any action discriminatory towards transgender persons. The state clarified it would not defend the changes.",
+      "background": "The Supreme Court has previously stated that changes in transgender law cannot take away rights already granted. This case involves petitioners urging the court to prevent authorities from cancelling transgender ID cards, highlighting ongoing legal complexities surrounding transgender rights in India.",
+      "examRelevance": "Andhra Pradesh = Refused to defend changes to transgender rights law in SC.",
+      "tags": [
+        "Andhra Pradesh",
+        "Transgender Rights",
+        "Supreme Court",
+        "Law",
+        "Polity"
+      ],
+      "source": {
+        "title": "NDA-ruled Andhra Pradesh refuses to defend changes to trans rights law in SC; Uttarakhand says law beneficial",
+        "url": "https://www.thehindu.com/news/national/nda-ruled-andhra-pradesh-refuses-to-defend-changes-to-trans-rights-law-in-sc-uttarakhand-says-law-beneficial/article71512778.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-27-q30",
+      "question": "Which two countries recently discussed their annual summit on the sidelines of the UN, with External Affairs Minister Jaishankar and Foreign Minister Lavrov participating?",
+      "options": [
+        "India and Russia",
+        "India and Japan",
+        "India and France",
+        "India and China"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "India and Russia recently discussed their annual summit on the sidelines of the United Nations, with India's External Affairs Minister S. Jaishankar and Russia's Foreign Minister Sergey Lavrov participating in the talks. The BRICS Parliamentary Forum was also on the agenda.",
+      "background": "India and Russia maintain a long-standing strategic partnership, with regular high-level exchanges and annual summits. Meetings on the sidelines of international forums like the UN provide opportunities for leaders to discuss bilateral issues and global developments.",
+      "examRelevance": "India-Russia = Discussed annual summit on UN sidelines (Jaishankar, Lavrov).",
+      "tags": [
+        "India",
+        "Russia",
+        "Annual Summit",
+        "UN",
+        "International Relations"
+      ],
+      "source": {
+        "title": "India, Russia discuss annual summit on UN sidelines",
+        "url": "https://economictimes.indiatimes.com/news/india/jaishankar-lavrov-meet-annual-summit-brics-parliamentary-forum-on-agenda/articleshow/134513560.cms"
+      }
+    }
+  ]
+}
