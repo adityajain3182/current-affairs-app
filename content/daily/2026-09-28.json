@@ -1,0 +1,781 @@
+{
+  "id": "daily-2026-09-28",
+  "type": "daily",
+  "date": "2026-09-28",
+  "title": "Current Affairs — 28 Sept 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-09-28-q1",
+      "question": "Indian shooter Esha Singh recently won a silver medal in which event at the Asian Games 2026?",
+      "options": [
+        "Women's 50m Rifle 3 Positions",
+        "Women's Trap Shooting",
+        "Women's 10m Air Pistol",
+        "Women's 25m Pistol"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Indian shooter Esha Singh clinched a silver medal in the women's 25m pistol event at the Asian Games 2026. She engaged in multiple shoot-offs to secure her position, ultimately competing for gold against China's Xiao Jiaruixuan.",
+      "background": "Esha Singh, a 21-year-old from Hyderabad, is the reigning world number one in her discipline. Her performance at the Asian Games highlights India's strong presence in shooting sports at international competitions.",
+      "examRelevance": "Esha Singh won silver in Women's 25m Pistol at Asian Games 2026.",
+      "tags": [
+        "Esha Singh",
+        "Shooting",
+        "Asian Games 2026",
+        "Silver Medal"
+      ],
+      "source": {
+        "title": "Asian Games 2026 LIVE: Esha Singh wins silver, misses 25m pistol gold by a whisker",
+        "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-28-2026/article71517841.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q2",
+      "question": "Why did the Indian men’s cricket team advance to the semi-finals of the Asian Games 2026 after their quarter-final against Afghanistan was abandoned?",
+      "options": [
+        "India had a better net run rate",
+        "India was ranked higher in ICC T20I rankings",
+        "Afghanistan forfeited the match",
+        "Afghanistan was penalized for slow over-rate"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "The Indian men’s cricket team progressed to the semi-finals of the Asian Games 2026 after their quarter-final match against Afghanistan was abandoned due to inclement weather. India advanced because they are ranked No.1 in the ICC T20I rankings, while Afghanistan is currently placed 10th.",
+      "background": "In multi-sport events like the Asian Games, tie-breaking rules often favour higher-ranked teams in situations where matches cannot be completed. The Indian team is the defending champion in this format.",
+      "examRelevance": "Indian men's cricket team advanced to Asian Games 2026 semi-finals due to higher ICC T20I ranking.",
+      "tags": [
+        "Indian Cricket Team",
+        "Asian Games 2026",
+        "ICC T20I Rankings",
+        "Semi-finals"
+      ],
+      "source": {
+        "title": "Asian Games 2026: Indian cricket team advance to semis after Afghanistan QF abandoned",
+        "url": "https://www.thehindu.com/sport/cricket/asian-games-2026-indian-cricket-team-advance-to-semis-after-afghanistan-qf-abandoned/article71518662.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q3",
+      "question": "Lovlina Borgohain recently secured at least a bronze medal at the Asian Games 2026 by advancing to the semi-finals in which sport?",
+      "options": [
+        "Taekwondo",
+        "Wrestling",
+        "Judo",
+        "Boxing"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Lovlina Borgohain defeated South Korea’s Seong Suyeon 5-0 in her quarter-final bout at the Asian Games 2026, assuring herself of at least a bronze medal by moving to the semi-final in boxing. This was her first bout of the tournament.",
+      "background": "Lovlina Borgohain is an Olympic medallist and a prominent figure in Indian boxing. Her consistent performance at international events makes her a strong contender for medals.",
+      "examRelevance": "Lovlina Borgohain secured at least a bronze medal in boxing at Asian Games 2026.",
+      "tags": [
+        "Lovlina Borgohain",
+        "Boxing",
+        "Asian Games 2026",
+        "Bronze Medal"
+      ],
+      "source": {
+        "title": "Lovlina Borgohain moves to semifinal; assured of Asian Games medal",
+        "url": "https://www.thehindu.com/sport/lovlina-borgohain-moves-to-semifinal-assured-of-asian-games-medal/article71518668.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q4",
+      "question": "Aslam Inamdar, who recently won two gold medals at the Asian Games 2026, is associated with which sport?",
+      "options": [
+        "Volleyball",
+        "Kabaddi",
+        "Hockey",
+        "Badminton"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Aslam Inamdar, a star raider, secured two gold medals in kabaddi at the Asian Games 2026. He has overcome various challenges in his career since starting kabaddi at the age of 14.",
+      "background": "Aslam Inamdar's journey from humble beginnings to a two-time Asian Games gold medallist highlights the talent and dedication within Indian kabaddi. Kabaddi is a traditional Indian sport that has gained significant popularity and international recognition.",
+      "examRelevance": "Aslam Inamdar won two gold medals in Kabaddi at Asian Games 2026.",
+      "tags": [
+        "Aslam Inamdar",
+        "Kabaddi",
+        "Asian Games 2026",
+        "Gold Medals"
+      ],
+      "source": {
+        "title": "From cleaning rest rooms to winning two Asian Games golds — the rise of Aslam Inamdar",
+        "url": "https://www.thehindu.com/sport/from-cleaning-rest-rooms-to-winning-two-asian-games-golds-the-rise-of-aslam-inamdar/article71517229.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q5",
+      "question": "At the Asian Games 2026, the Indian men's and women's squash teams recently began their campaigns with wins against which country?",
+      "options": [
+        "Japan",
+        "Malaysia",
+        "South Korea",
+        "China"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Both the Indian men’s and women’s squash teams commenced their Asian Games 2026 journey with victories over China. The men's team blanked China 3-0 in Pool A, while the women's team came from behind to win 2-1 in Pool C, with Joshna Chinappa sealing the tie.",
+      "background": "Indian squash players have consistently performed well at the Asian Games, bringing home multiple medals in previous editions. These initial wins set a positive tone for their performance in the tournament.",
+      "examRelevance": "Indian squash teams defeated China in their opening matches at Asian Games 2026.",
+      "tags": [
+        "Indian Squash",
+        "Asian Games 2026",
+        "China",
+        "Joshna Chinappa"
+      ],
+      "source": {
+        "title": "Asian Games 2026: Indian squash teams begin with wins over China",
+        "url": "https://www.thehindu.com/sport/asian-games-2026-indian-squash-teams-begin-with-wins-over-china/article71518610.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q6",
+      "question": "The \"Thaimaman Thanga Mothiram Thittam\" recently announced by Tamil Nadu Chief Minister Vijay is a scheme related to what?",
+      "options": [
+        "Providing educational scholarships for girls",
+        "Distributing one-gram gold rings to newborn babies",
+        "Subsidizing housing for economically weaker sections",
+        "Offering financial aid for farmers"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "Tamil Nadu Chief Minister Vijay announced the launch of the \"Thaimaman Thanga Mothiram Thittam,\" which is a state government scheme to provide one-gram gold rings for newborn babies in the state.",
+      "background": "This scheme aims to support families with newborns, particularly focusing on the welfare of mothers and infants. It is part of the state government's broader initiatives for social welfare and child development.",
+      "examRelevance": "Tamil Nadu's Thaimaman Thanga Mothiram Thittam provides one-gram gold rings for newborn babies.",
+      "tags": [
+        "Tamil Nadu",
+        "Thaimaman Thanga Mothiram Thittam",
+        "Newborns",
+        "Gold Ring Scheme"
+      ],
+      "source": {
+        "title": "What is the Tamil Nadu government’s one-gram gold ring scheme? | Explained",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/explained-what-is-the-tamil-nadu-government-one-gram-gold-ring-scheme-of-thaimaman-thanga-mothiram/article71399218.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q7",
+      "question": "China recently announced tariff cuts on U.S. farm goods following a summit between leaders Xi Jinping and Donald Trump. Which specific U.S. farm product was explicitly excluded from these tariff cuts?",
+      "options": [
+        "Corn",
+        "Pork",
+        "Soybeans",
+        "Wheat"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "China announced its decision to cut tariffs on various U.S. farm goods. However, soybeans, a major U.S. agricultural export, were explicitly excluded from these tariff reductions, following a summit between leaders Xi Jinping and Donald Trump.",
+      "background": "The trade relationship between China and the U.S. has seen periods of tension and negotiation, particularly concerning agricultural products. Tariff adjustments often reflect ongoing diplomatic and economic discussions between the two nations.",
+      "examRelevance": "China excluded soybeans from recent tariff cuts on U.S. farm goods.",
+      "tags": [
+        "China",
+        "U.S.",
+        "Tariffs",
+        "Farm Goods",
+        "Soybeans"
+      ],
+      "source": {
+        "title": "China to cut tariffs on U.S. farm goods, but soybeans excluded",
+        "url": "https://www.thehindu.com/news/international/china-to-cut-tariffs-on-us-farm-goods-but-soybeans-excluded/article71518383.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q8",
+      "question": "The Madras High Court recently refused to review its order regarding warning labels on bottled water, sugar, and salt for the presence of what harmful substances?",
+      "options": [
+        "Chemical pesticides",
+        "Heavy metals",
+        "Artificial sweeteners",
+        "Micro/nano plastics"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The Madras High Court, comprising Justices N. Sathish Kumar and D. Bharatha Chakravarthy, dismissed a review application filed by the Food Safety and Standards Authority of India (FSSAI). The court upheld its previous order requiring warning labels on bottled water, sugar, and salt due to the presence of micro/nano plastics.",
+      "background": "This ruling underscores growing concerns about environmental pollutants, particularly microplastics, entering the food chain and consumer products. Regulatory bodies like FSSAI are tasked with ensuring food safety and addressing such emerging health concerns.",
+      "examRelevance": "Madras High Court refused review on order for micro/nano plastics warning labels on bottled water, sugar, salt.",
+      "tags": [
+        "Madras High Court",
+        "Microplastics",
+        "Nanoplastics",
+        "Warning Labels",
+        "FSSAI"
+      ],
+      "source": {
+        "title": "Madras High Court refuses to review its order on micro/nano plastics warning labels on bottled water, sugar, and salt",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-hc-refuses-to-review-its-order-on-micronano-plastics-warning-labels-on-bottled-water-sugar-and-salt/article71518436.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q9",
+      "question": "China's space diplomacy initiatives are currently bringing astronauts from which country closer to orbit, with their pilots already selected and deployed to China?",
+      "options": [
+        "Sri Lanka",
+        "Nepal",
+        "Pakistan",
+        "Bangladesh"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "China's ongoing space diplomacy efforts are facilitating the training and preparation of Pakistani astronauts for space missions. Pakistan’s space agency has provided initial insights into this programme, confirming that pilots have been selected and deployed to China for this purpose.",
+      "background": "China has been increasingly active in international space cooperation, extending its expertise and facilities to partner nations. This collaboration with Pakistan signifies a strengthening of bilateral ties in the field of science and technology.",
+      "examRelevance": "China's space diplomacy is training Pakistani astronauts for orbit.",
+      "tags": [
+        "China",
+        "Pakistan",
+        "Space Diplomacy",
+        "Astronauts",
+        "Space Programme"
+      ],
+      "source": {
+        "title": "China’s space diplomacy brings Pakistani astronauts closer to orbit",
+        "url": "https://www.thehindu.com/sci-tech/science/chinas-space-diplomacy-brings-pakistani-astronauts-closer-to-orbit/article71518664.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q10",
+      "question": "The Kerala High Court recently held that the Central government can intervene when patented medicines are sold at exorbitant rates. How did the court suggest the government could utilize a medicine’s patent in such a scenario?",
+      "options": [
+        "Negotiate lower prices with patent holders",
+        "Manufacture and sell the medicine to the public on a non-commercial basis",
+        "Subsidize the cost of patented medicines for all patients",
+        "Compulsorily revoke the patent entirely"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Kerala High Court ruled that the Central government has the authority to intervene when patented medicines are sold at exorbitant rates. The court held that the government can use a medicine’s patent to manufacture and sell it to the public, including underprivileged patients, on a non-commercial basis to ensure affordability and accessibility.",
+      "background": "This judgment highlights the legal provisions available to the government to ensure public access to essential medicines, even those under patent protection, especially in cases of price gouging. It touches upon the balance between intellectual property rights and public health interests.",
+      "examRelevance": "Kerala HC ruled Centre can manufacture/sell patented medicines non-commercially if prices are exorbitant.",
+      "tags": [
+        "Kerala High Court",
+        "Patented Medicines",
+        "Central Government",
+        "Public Health",
+        "Drug Pricing"
+      ],
+      "source": {
+        "title": "Centre should intervene when patented medicines are sold at exorbitant rate: Kerala HC",
+        "url": "https://www.thehindu.com/news/national/kerala/centre-should-intervene-when-patented-medicines-are-sold-at-exorbitant-rate-kerala-hc/article71518618.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q11",
+      "question": "The Chakma Autonomous District Council (CADC) recently resolved to introduce \"Mizo Speaking Day\" in all primary and middle schools within its area. On which day of the week will this be observed?",
+      "options": [
+        "Friday",
+        "Wednesday",
+        "Monday",
+        "Saturday"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "The Chakma Autonomous District Council (CADC) recently decided to implement the National Education Policy (NEP) from 2027-28 and introduce 'Mizo Speaking Day' in all primary and middle schools within the CADC area. This initiative will be observed every Wednesday to provide students regular opportunities to learn and practice the Mizo language.",
+      "background": "Autonomous district councils in India have significant powers to govern their respective regions, including cultural and educational policies. This move aims to promote and preserve the Mizo language among students in the CADC area.",
+      "examRelevance": "Chakma Autonomous District Council will observe 'Mizo Speaking Day' every Wednesday in schools.",
+      "tags": [
+        "Chakma Autonomous District Council",
+        "Mizo Language",
+        "Mizo Speaking Day",
+        "Education Policy"
+      ],
+      "source": {
+        "title": "Chakma council to implement NEP from 2027-28, introduce ‘Mizo Speaking Day’ in schools",
+        "url": "https://www.thehindu.com/news/national/mizoram/chakma-council-to-implement-nep-from-2027-28-introduce-mizo-speaking-day-in-schools/article71518647.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q12",
+      "question": "Who has recently been appointed as the new Chairman of V-Guard Industries Ltd.?",
+      "options": [
+        "Kochouseph Chittilappilly",
+        "Arun Kumar",
+        "Suresh Kumar",
+        "Mithun Chittilappilly"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "V-Guard Industries Ltd., a prominent electrical and electronic appliance manufacturer, has recently appointed Mithun Chittilappilly as its new chairman. He previously served as the Managing Director of the company.",
+      "background": "V-Guard is a well-known Indian brand with a significant presence in the consumer durables market. Leadership changes at the top often signal strategic shifts or continuity in the company's direction.",
+      "examRelevance": "Mithun Chittilappilly is the new Chairman of V-Guard Industries Ltd.",
+      "tags": [
+        "V-Guard",
+        "Mithun Chittilappilly",
+        "Chairman",
+        "Appointment"
+      ],
+      "source": {
+        "title": "V-Guard appoints Mithun Chittilappilly as chairman",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/durables/v-guard-md-mithun-k-chittilappilly-takes-over-as-chairperson/articleshow/134534350.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q13",
+      "question": "How many adult learners recently appeared for the ULLAS literacy assessment in Telangana?",
+      "options": [
+        "5.12 lakh",
+        "6.32 lakh",
+        "4.58 lakh",
+        "7.05 lakh"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "In Telangana, a total of 6.32 lakh adult learners recently participated in the ULLAS (Understanding Lifelong Learning for All in Society) literacy assessment. This initiative aims to evaluate and promote adult literacy across the state.",
+      "background": "ULLAS is a national programme focused on adult education and lifelong learning, spearheaded by the Ministry of Education. Such assessments are crucial for measuring the impact of literacy campaigns and identifying areas for further intervention.",
+      "examRelevance": "6.32 lakh adults appeared for ULLAS literacy assessment in Telangana.",
+      "tags": [
+        "ULLAS",
+        "Literacy Assessment",
+        "Telangana",
+        "Adult Education"
+      ],
+      "source": {
+        "title": "6.32 lakh adults appear for ULLAS literacy assessment in Telangana",
+        "url": "https://www.thehindu.com/news/national/telangana/632-lakh-adults-appear-for-ullas-literacy-assessment-in-telangana/article71516318.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q14",
+      "question": "Republican Senator Tommy Tuberville recently introduced the 'Americans First Immigration Act'. What is a key proposed change in this bill regarding the U.S. legal immigration system?",
+      "options": [
+        "Granting automatic citizenship to all undocumented immigrants",
+        "Introducing a merit-based system to replace the Diversity Visa Lottery",
+        "Expanding the Diversity Visa Lottery",
+        "Increasing family-sponsored immigration categories"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Republican Senator Tommy Tuberville introduced the 'Americans First Immigration Act' in the U.S. This bill proposes significant changes to the legal immigration system, including replacing the Diversity Visa Lottery with a merit-based system and limiting family-sponsored immigration to spouses and minor children.",
+      "background": "The Diversity Visa Lottery program currently provides up to 50,000 visas annually to individuals from countries with historically low rates of immigration to the U.S. Proposals for merit-based immigration systems often prioritize factors like education, English proficiency, job offers, and specialized skills.",
+      "examRelevance": "Republican Senator Tommy Tuberville introduced 'Americans First Immigration Act' to replace Diversity Visa Lottery with a merit-based system.",
+      "tags": [
+        "U.S. Immigration",
+        "Tommy Tuberville",
+        "Americans First Immigration Act",
+        "Green Card",
+        "Diversity Visa Lottery"
+      ],
+      "source": {
+        "title": "US Green Card: New ‘America First’ bill",
+        "url": "https://economictimes.indiatimes.com/nri/migrate/us-green-card-overhaul-republican-senator-tubervilles-new-america-first-bill-proposes-merit-based-system-ends-diversity-lottery/articleshow/134533958.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q15",
+      "question": "Drought conditions in Karnataka have recently caused significant damage to agricultural crops. Which specific crop recorded the highest crop loss, with 84,656 hectares affected?",
+      "options": [
+        "Coconut",
+        "Arecanut",
+        "Paddy",
+        "Sugarcane"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "According to officials from the Horticulture Department, drought in Karnataka has severely impacted agricultural production, causing damage to 84,656 hectares of coconut plantations. This makes coconut the crop with the highest recorded loss among all crops surveyed in recent months.",
+      "background": "Karnataka is a major agricultural state, and its economy is highly dependent on monsoon rainfall. Droughts have recurring impacts on the state's agriculture, affecting livelihoods and food security.",
+      "examRelevance": "Drought in Karnataka damaged 84,656 hectares of coconut plantations, the highest crop loss.",
+      "tags": [
+        "Karnataka",
+        "Drought",
+        "Coconut Plantations",
+        "Crop Loss",
+        "Horticulture Department"
+      ],
+      "source": {
+        "title": "Drought damages 84,656 hectares of coconut plantations in Karnataka; impact may last for three years",
+        "url": "https://www.thehindu.com/news/national/karnataka/drought-damages-84656-hectares-of-coconut-plantations-in-karnataka-impact-may-last-for-three-years/article71516055.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q16",
+      "question": "According to U.S. Ambassador David Perdue, what unusual offer did Donald Trump recently make to China's President Xi Jinping?",
+      "options": [
+        "To jointly invest in space exploration",
+        "To reduce tariffs on all Chinese goods",
+        "To form a new economic alliance",
+        "To sell U.S. arms to China"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "U.S. Ambassador David Perdue revealed that Donald Trump recently raised the prospect of selling U.S. arms to China's President Xi Jinping. This offer is considered highly unusual as it would contradict generations of U.S. policy towards China and Taiwan.",
+      "background": "U.S. foreign policy has historically involved restrictions on arms sales to China, particularly given the complex relationship with Taiwan. Such a proposition could significantly alter geopolitical dynamics in the Indo-Pacific region.",
+      "examRelevance": "Donald Trump offered to sell U.S. arms to China's President Xi Jinping, as stated by Ambassador David Perdue.",
+      "tags": [
+        "Donald Trump",
+        "China",
+        "U.S. Arms Sales",
+        "Xi Jinping",
+        "David Perdue"
+      ],
+      "source": {
+        "title": "Trump asked China’s President if he wants to buy U.S. arms, Ambassador says",
+        "url": "https://www.thehindu.com/news/international/trump-asked-chinas-president-if-he-wants-to-buy-us-arms-ambassador-says/article71518145.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q17",
+      "question": "The Supreme Court recently took suo motu cognisance of sexual assault cases in Delhi-NCR and flagged what specific issue by authorities?",
+      "options": [
+        "Inadequate forensic infrastructure",
+        "Insufficient public awareness campaigns",
+        "Lack of judicial fast-tracking",
+        "Lax patrolling and administrative deficiencies"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently registered a suo motu case concerning recent sexual assault incidents in the Delhi-NCR region. The top court specifically flagged \"lax patrolling and other preventable administrative deficiencies\" by authorities, emphasizing that public spaces should not become zones of high risk.",
+      "background": "Suo motu cognisance allows the Supreme Court to take up a matter on its own initiative, without a formal petition, usually in cases of significant public interest or human rights violations. This reflects the judiciary's role in ensuring public safety and accountability of law enforcement.",
+      "examRelevance": "Supreme Court took suo motu cognisance of Delhi-NCR sexual assault cases, flagging lax patrolling.",
+      "tags": [
+        "Supreme Court",
+        "Delhi-NCR",
+        "Sexual Assault",
+        "Suo Motu",
+        "Lax Patrolling"
+      ],
+      "source": {
+        "title": "Supreme Court takes suo motu cognisance of recent sexual assault cases in Delhi-NCR, flags ‘lax patrolling’ by authorities",
+        "url": "https://www.thehindu.com/news/cities/Delhi/supreme-court-register-suo-motu-case-on-delhi-rape-case/article71518477.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q18",
+      "question": "Scientists at the Institute of Advanced Virology (IAV) in Kerala have developed an early warning system to forecast trends for which disease?",
+      "options": [
+        "Malaria",
+        "Zika Virus",
+        "Chikungunya",
+        "Dengue"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Scientists at the Institute of Advanced Virology (IAV) in Kerala have successfully developed a dengue early warning system. This system is designed to forecast dengue trends, enabling public health managers to proactively plan resource allocation and preventive measures before outbreaks occur.",
+      "background": "Dengue is a mosquito-borne viral infection that is a significant public health concern in tropical and subtropical regions, including parts of India. Early warning systems are critical tools in disease surveillance and control, allowing for timely interventions.",
+      "examRelevance": "IAV Kerala developed a dengue early warning system to forecast dengue trends.",
+      "tags": [
+        "Institute of Advanced Virology",
+        "Kerala",
+        "Dengue",
+        "Early Warning System",
+        "Public Health"
+      ],
+      "source": {
+        "title": "Scientists at IAV, Keralam develop dengue early warning system to forecast trends",
+        "url": "https://www.thehindu.com/news/national/kerala/iav-develops-dengue-early-warning-system-to-forecast-dengue-trends/article71512981.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q19",
+      "question": "On a recent trading day, the 30-share BSE Sensex tanked by how many points amid surging crude oil prices and geopolitical uncertainties?",
+      "options": [
+        "730 points",
+        "810 points",
+        "520 points",
+        "650 points"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The 30-share BSE Sensex recently experienced a significant drop, tanking 730 points to settle at 73,170.12 in early trade. Concurrently, the 50-share NSE Nifty also fell by 231.50 points to 22,908.95, driven by surging crude oil prices and prevailing geopolitical uncertainties.",
+      "background": "Global crude oil prices and geopolitical events often have a direct impact on stock market volatility. Investors react to such factors, leading to fluctuations in indices like the Sensex and Nifty.",
+      "examRelevance": "BSE Sensex tanked 730 points to 73,170.12 in early trade due to crude oil prices and geopolitical uncertainties.",
+      "tags": [
+        "Sensex",
+        "Nifty",
+        "Stock Market",
+        "Crude Oil Prices",
+        "Geopolitical Uncertainty"
+      ],
+      "source": {
+        "title": "Sensex tanks 730 points amid surging crude oil prices, geopolitical uncertainties",
+        "url": "https://www.thehindu.com/business/markets/sensex-tanks-730-points-amid-surging-crude-oil-prices-geopolitical-uncertainties/article71518449.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q20",
+      "question": "South Korea recently demanded an apology from Ukraine over the denial of a confidential deal concerning prisoners of war from which country?",
+      "options": [
+        "Belarus",
+        "North Korea",
+        "China",
+        "Russia"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "South Korea demanded an apology from Ukraine after Ukrainian President Volodymyr Zelenskyy denied a confidential deal regarding North Korean prisoners of war. Zelenskyy had earlier stated at the United Nations that Ukraine had sent two North Korean soldiers to the South, noting they were \"not easy to capture alive.\"",
+      "background": "The issue of prisoners of war is highly sensitive in international relations. Ukraine's actions and subsequent denial have created diplomatic tension with South Korea, highlighting the complexities of international conflicts and their broader implications.",
+      "examRelevance": "South Korea demanded an apology from Ukraine over denial of a confidential deal on North Korean prisoners of war.",
+      "tags": [
+        "South Korea",
+        "Ukraine",
+        "North Korea",
+        "Prisoners of War",
+        "Volodymyr Zelenskyy"
+      ],
+      "source": {
+        "title": "South Korea demands Ukraine apology over denial of confidential deal on North’s prisoners of war",
+        "url": "https://www.thehindu.com/news/international/south-korea-demands-ukraine-apology-over-denial-of-confidential-deal-on-norths-prisoners-of-war/article71518214.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q21",
+      "question": "The Indian Rupee recently fell by how many paise against the U.S. dollar in early trade?",
+      "options": [
+        "20 paise",
+        "15 paise",
+        "10 paise",
+        "25 paise"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "In recent early trade, the Indian Rupee depreciated by 20 paise against the American currency. It opened at 95.89 against the U.S. dollar and further lost ground to touch 95.95 in the interbank foreign exchange market.",
+      "background": "The value of the Indian Rupee against the U.S. dollar is influenced by various factors, including global economic conditions, crude oil prices, foreign investment flows, and domestic economic policies.",
+      "examRelevance": "Indian Rupee fell 20 paise to 95.95 against the U.S. dollar in early trade.",
+      "tags": [
+        "Indian Rupee",
+        "U.S. Dollar",
+        "Forex Market",
+        "Currency Depreciation"
+      ],
+      "source": {
+        "title": "Rupee falls 20 paise to 95.95 against U.S. dollar in early trade",
+        "url": "https://www.thehindu.com/business/markets/rupee-falls-20-paise-to-9595-against-us-dollar-in-early-trade/article71518444.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q22",
+      "question": "Russia's Defence Ministry recently announced that it hit a data centre belonging to which of Ukraine's largest mobile providers?",
+      "options": [
+        "Kyivstar",
+        "Lifecell",
+        "Ukrtelecom",
+        "Vodafone Ukraine"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Russia’s Defence Ministry announced that it hit a data centre belonging to Vodafone Ukraine, the country’s second-largest cell network provider. This incident occurred on a Sunday and impacted critical communication infrastructure.",
+      "background": "Cyberattacks and targeting of civilian infrastructure, including communication networks, have been a feature of the ongoing conflict between Russia and Ukraine. Such actions aim to disrupt services and exert pressure.",
+      "examRelevance": "Russia hit Vodafone Ukraine's data centre, Ukraine's second-largest cell network provider.",
+      "tags": [
+        "Russia",
+        "Ukraine",
+        "Vodafone Ukraine",
+        "Cyberattack",
+        "Data Centre"
+      ],
+      "source": {
+        "title": "Russia hits Ukraine’s largest mobile provider, strikes data centres",
+        "url": "https://www.thehindu.com/news/international/russia-hits-ukraines-largest-mobile-provider-strikes-data-centres/article71518164.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q23",
+      "question": "The Chinese government may allow some domestic firms, including ByteDance and Alibaba, to purchase a specific new chip from Nvidia. What is the model name of this chip?",
+      "options": [
+        "RTX 4090",
+        "H100",
+        "RTX PRO 5500",
+        "A100"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "The Chinese government is reportedly considering allowing certain domestic firms, such as ByteDance and Alibaba, to acquire Nvidia’s new RTX PRO 5500 chip. This development was reported by The Information outlet.",
+      "background": "The U.S. has imposed restrictions on the export of advanced AI chips to China, citing national security concerns. Any allowance for Chinese companies to purchase specific Nvidia chips indicates a nuanced approach to these export controls.",
+      "examRelevance": "China may allow ByteDance, Alibaba to buy Nvidia's RTX PRO 5500 chip.",
+      "tags": [
+        "China",
+        "Nvidia",
+        "ByteDance",
+        "Alibaba",
+        "RTX PRO 5500",
+        "Technology"
+      ],
+      "source": {
+        "title": "ByteDance, Alibaba to be allowed by China’s govt. to buy new Nvidia chips",
+        "url": "https://www.thehindu.com/sci-tech/technology/bytedance-alibaba-to-be-allowed-by-chinas-govt-to-buy-new-nvidia-chips/article71518472.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q24",
+      "question": "According to AIIMS experts, dental trauma is a neglected global health concern affecting over how many people worldwide?",
+      "options": [
+        "A million",
+        "A billion",
+        "A hundred million",
+        "Ten million"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Experts from AIIMS have highlighted that dental trauma represents a significant yet overlooked global health concern, affecting over a billion people worldwide. They noted that if included among the world’s most frequent acute and chronic diseases and injuries, it could rank fifth in terms of prevalence.",
+      "background": "Dental trauma, often resulting from accidents or injuries, can lead to long-term oral health issues if not properly addressed. Raising awareness about its prevalence and impact is crucial for improved public health strategies.",
+      "examRelevance": "Dental trauma affects over a billion globally and could rank fifth among most frequent diseases/injuries.",
+      "tags": [
+        "Dental Trauma",
+        "AIIMS",
+        "Global Health",
+        "Health Concern",
+        "Prevalence"
+      ],
+      "source": {
+        "title": "Dental trauma affects over a billion globally, remains overlooked health concern: AIIMS experts",
+        "url": "https://www.thehindu.com/sci-tech/health/dental-trauma-affects-over-a-billion-globally-remains-overlooked-health-concern-aiims-experts/article71518410.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q25",
+      "question": "R. Prashanth, the alleged kingpin of a spurious drugs racket recently arrested in Bengaluru, was reportedly hiding in which country?",
+      "options": [
+        "Thailand",
+        "UAE",
+        "Azerbaijan",
+        "Malaysia"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "R. Prashanth, identified as the alleged kingpin of a spurious drugs racket, was recently apprehended in Bengaluru. He was reportedly hiding in Azerbaijan after the illegal drugs case initially came to light.",
+      "background": "The crackdown on spurious drugs rackets is crucial for public health and safety, as counterfeit medicines pose serious risks. International cooperation is often necessary to track and apprehend individuals involved in such cross-border criminal activities.",
+      "examRelevance": "Spurious drugs racket kingpin R. Prashanth was arrested in Bengaluru after hiding in Azerbaijan.",
+      "tags": [
+        "Spurious Drugs Racket",
+        "R. Prashanth",
+        "Bengaluru",
+        "Azerbaijan",
+        "Arrest"
+      ],
+      "source": {
+        "title": "Spurious drugs racket kingpin arrested in Bengaluru",
+        "url": "https://www.thehindu.com/news/national/karnataka/spurious-drugs-racket-kingpin-arrested-in-bengaluru/article71518285.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q26",
+      "question": "Switzerland's recently explained 'neutrality initiative' proposed stricter rules concerning which aspects of its foreign policy?",
+      "options": [
+        "Trade agreements and economic partnerships",
+        "Military alliances, armed conflicts, and sanctions",
+        "Environmental protection and climate change cooperation",
+        "Cultural exchange programs and tourism"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Switzerland's 'neutrality initiative' was a proposal seeking to introduce stricter rules on its foreign policy, specifically regarding military alliances, armed conflicts, and sanctions. The initiative aimed to reinforce the country's traditional stance of neutrality.",
+      "background": "Switzerland has a long-standing tradition of neutrality, which has shaped its foreign policy for centuries. This initiative was a public debate on how to interpret and apply this neutrality in the contemporary global landscape, especially concerning international conflicts and sanction regimes.",
+      "examRelevance": "Switzerland's 'neutrality initiative' proposed stricter rules on military alliances, armed conflicts, and sanctions.",
+      "tags": [
+        "Switzerland",
+        "Neutrality Initiative",
+        "Foreign Policy",
+        "Military Alliances",
+        "Sanctions"
+      ],
+      "source": {
+        "title": "What is Switzerland’s ‘neutrality initiative’? | Explained",
+        "url": "https://www.thehindu.com/news/international/what-is-switzerlands-neutrality-initiative-explained/article71518396.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q27",
+      "question": "According to recent scientific findings, bats first originated on which continent approximately 65 million years ago?",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "North America"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Recent scientific research indicates that bats, known for their extraordinarily long lives and disease resistance, first originated in Europe around 65 million years ago. Scientists suggest that studying bats could provide insights for improving human health.",
+      "background": "Bats are the only mammals capable of sustained flight and play crucial ecological roles, including pollination and insect control. Understanding their evolutionary history and unique biological traits contributes significantly to zoology and medical research.",
+      "examRelevance": "Bats first originated in Europe 65 million years ago.",
+      "tags": [
+        "Bats",
+        "Origin",
+        "Europe",
+        "Evolution",
+        "Science"
+      ],
+      "source": {
+        "title": "Bats first originated in Europe 65 million years ago, scientists say",
+        "url": "https://www.thehindu.com/sci-tech/science/bats-first-originated-in-europe-65-million-years-ago-scientists-say/article71506978.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q28",
+      "question": "The 31st Conference of the Parties (COP31) to the UNFCCC will be jointly hosted by which two countries?",
+      "options": [
+        "Canada and New Zealand",
+        "Australia and Türkiye",
+        "Brazil and South Africa",
+        "Germany and France"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The 31st Conference of the Parties (COP31) to the UNFCCC is set to be jointly hosted by Australia and Türkiye. Both host nations are expected to face pressure regarding the inclusion of fossil fuel language as part of the conference agenda.",
+      "background": "COPs are annual global climate summits where countries negotiate and agree upon actions to address climate change. The choice of hosts often reflects geopolitical dynamics and their respective stances on climate policy, particularly concerning fossil fuels.",
+      "examRelevance": "Australia and Türkiye will jointly host COP31.",
+      "tags": [
+        "COP31",
+        "UNFCCC",
+        "Australia",
+        "Türkiye",
+        "Climate Change",
+        "Fossil Fuels"
+      ],
+      "source": {
+        "title": "COP31 hosts Australia and Türkiye face the fossil-fuel question",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-hosts-australia-and-turkiye-face-the-fossil-fuel-question/article71515307.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q29",
+      "question": "A U.S. jury recently ruled that Apple owes a record $5.7 billion in a patent case involving its 'Taptic Engine'. This technology creates what kind of feedback?",
+      "options": [
+        "Visual feedback",
+        "Audio feedback",
+        "Olfactory feedback",
+        "Haptic (tapping vibrations) feedback"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "A U.S. jury recently ordered Apple to pay a record $5.7 billion in a patent infringement case. The jury found that Apple’s 'Taptic Engine', which is responsible for creating tapping vibrations (haptic feedback), infringed upon two patents held by Taction.",
+      "background": "Haptic technology enhances user experience by providing tactile feedback, commonly used in smartphones, smartwatches, and gaming controllers. Patent disputes in the technology sector are frequent, especially concerning innovative features that become industry standards.",
+      "examRelevance": "Apple owes $5.7 billion in a patent case for its Taptic Engine, which creates haptic (tapping vibrations) feedback.",
+      "tags": [
+        "Apple",
+        "Taptic Engine",
+        "Haptic Technology",
+        "Patent Infringement",
+        "Taction"
+      ],
+      "source": {
+        "title": "Apple owes record $5.7 billion in haptic technology patent case, US jury says",
+        "url": "https://www.thehindu.com/sci-tech/technology/apple-owes-record-57-billion-in-haptic-technology-patent-case-us-jury-says/article71518293.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-28-q30",
+      "question": "Bank unions recently deferred their three-day nationwide strike after reaching understandings with which organization?",
+      "options": [
+        "State Bank of India (SBI)",
+        "Indian Banks' Association (IBA)",
+        "Ministry of Finance",
+        "Reserve Bank of India (RBI)"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Bank unions recently decided to defer their planned three-day nationwide strike after reaching understandings with the Indian Banks' Association (IBA). A high-level committee comprising representatives from IBA and UFBU will be immediately formed to discuss the issue of declaring the remaining Saturdays as holidays.",
+      "background": "Bank strikes are often called to press for demands related to wages, working conditions, and other employee benefits. The deferral of the strike indicates a positive step towards negotiation and resolution of the issues between bank employees and management.",
+      "examRelevance": "Bank unions deferred their strike after understandings with the Indian Banks' Association (IBA).",
+      "tags": [
+        "Bank Unions",
+        "Strike",
+        "Indian Banks' Association",
+        "IBA",
+        "UFBU"
+      ],
+      "source": {
+        "title": "Bank unions defer three-day nationwide strike after ‘understandings reached’ with IBA",
+        "url": "https://www.thehindu.com/business/Industry/bank-unions-defer-three-day-nationwide-strike-ubfu/article71517225.ece"
+      }
+    }
+  ]
+}
