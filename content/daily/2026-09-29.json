@@ -1,0 +1,765 @@
+{
+  "id": "daily-2026-09-29",
+  "type": "daily",
+  "date": "2026-09-29",
+  "title": "Current Affairs — 29 Sept 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-09-29-q1",
+      "question": "Who scripted history by winning India's first-ever women's trap gold medal at the Asian Games 2026?",
+      "options": [
+        "Apurvi Chandela",
+        "Manu Bhaker",
+        "Shreyasi Singh",
+        "Neeru Dhanda"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Neeru Dhanda scripted history by winning India's first-ever women's trap gold medal at the Asian Games 2026. She had qualified for the eight-shooter final after finishing as joint topper with Qatar's Ray Bassil at 118, which is a qualification Games record.",
+      "background": "India has a strong presence in shooting events at the Asian Games. This achievement marks a significant milestone as the first individual gold in the women's trap event for India.",
+      "examRelevance": "Neeru Dhanda = India's first women's trap gold medallist at Asian Games 2026.",
+      "tags": [
+        "Neeru Dhanda",
+        "Asian Games 2026",
+        "Shooting",
+        "Trap Gold"
+      ],
+      "source": {
+        "title": "Asian Games 2026 LIVE: Neeru Dhanda scripts history with India’s first women’s trap gold",
+        "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-29-2026/article71521586.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q2",
+      "question": "What medal did the Indian women's trap team secure at the Asian Games 2026, alongside Neeru Dhanda's individual gold?",
+      "options": [
+        "Silver",
+        "No medal",
+        "Gold",
+        "Bronze"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "The Indian women's trap team secured a silver medal at the Asian Games 2026. This team medal was achieved alongside Neeru Dhanda's historic individual gold in the same event.",
+      "background": "Team events often complement individual performances in major multi-sport events like the Asian Games, contributing significantly to the national medal tally. India has consistently aimed for strong performances in shooting disciplines.",
+      "examRelevance": "Indian women's trap team = Silver medal at Asian Games 2026.",
+      "tags": [
+        "Asian Games 2026",
+        "Women's Trap Team",
+        "Silver Medal",
+        "Shooting"
+      ],
+      "source": {
+        "title": "Asian Games 2026: Neeru Dhanda strikes first-ever women's trap gold, leads team to silver",
+        "url": "https://www.thehindu.com/sport/asian-games-2026-neeru-dhanda-strikes-first-ever-womens-trap-gold-leads-team-to-silver/article71522726.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q3",
+      "question": "Which British Indian schoolgirl was recently crowned the youngest chess player in history to earn the Woman Grandmaster (WGM) title?",
+      "options": [
+        "Rameshbabu Vaishali",
+        "Humpy Koneru",
+        "Tania Sachdev",
+        "Bodhana Sivanandan"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "11-year-old London schoolgirl Bodhana Sivanandan was crowned the youngest chess player in history to earn the Woman Grandmaster (WGM) title.",
+      "background": "The Woman Grandmaster (WGM) title is awarded by FIDE, the international chess federation, and is one of the highest titles a female chess player can achieve. This achievement highlights Sivanandan's exceptional talent at a very young age.",
+      "examRelevance": "Bodhana Sivanandan = Youngest Woman Grandmaster (WGM).",
+      "tags": [
+        "Bodhana Sivanandan",
+        "Chess",
+        "Woman Grandmaster",
+        "WGM"
+      ],
+      "source": {
+        "title": "British Indian schoolgirl Bodhana Sivanandan crowned youngest chess grandmaster",
+        "url": "https://www.thehindu.com/sport/british-indian-schoolgirl-bodhana-sivanandan-crowned-youngest-chess-grandmaster/article71522787.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q4",
+      "question": "Which company recently put its Starship megarocket into orbit for the first time during its 14th test flight?",
+      "options": [
+        "NASA",
+        "Blue Origin",
+        "Roscosmos",
+        "SpaceX"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "SpaceX successfully put its Starship megarocket into orbit for the first time during its ambitious 14th test flight. The black-and-silver behemoth stands more than 120 metres tall.",
+      "background": "Starship is SpaceX's fully reusable launch system designed for interplanetary travel, including missions to Mars. This orbital flight is a critical step in its development, following numerous test flights.",
+      "examRelevance": "SpaceX Starship = First orbital flight.",
+      "tags": [
+        "SpaceX",
+        "Starship",
+        "Rocket",
+        "Space Exploration"
+      ],
+      "source": {
+        "title": "SpaceX puts Starship megarocket in orbit for first time",
+        "url": "https://www.thehindu.com/sci-tech/science/spacex-puts-starship-megarocket-in-orbit-for-first-time/article71521071.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q5",
+      "question": "Which Indian stock exchange is set to enter the NSE's benchmark Nifty 50 index, replacing IT major Wipro Ltd., effective September 30, 2026?",
+      "options": [
+        "BSE Ltd.",
+        "MCX",
+        "NSE",
+        "NCDEX"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "India's oldest stock exchange, BSE Ltd., is set to enter the NSE’s benchmark Nifty 50 index, replacing IT major Wipro Ltd. The changes will take effect from September 30, 2026.",
+      "background": "Index rebalancing is a semi-annual process where constituents of benchmark indices like Nifty 50 are reviewed based on criteria such as free-float market capitalisation. This ensures the index remains representative of the broader market.",
+      "examRelevance": "BSE Ltd. = Entry into Nifty 50, replacing Wipro.",
+      "tags": [
+        "BSE",
+        "Nifty 50",
+        "Stock Market",
+        "Index Rebalancing"
+      ],
+      "source": {
+        "title": "BSE set to enter Nifty 50 from tomorrow, IT major Wipro to exit. What shareholders must know?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bse-set-to-enter-nifty-50-from-tomorrow-it-major-wipro-to-exit-what-shareholders-must-know/articleshow/134554977.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q6",
+      "question": "What is the name of the revolutionary procedure that has ushered in a new age in treating severe aortic valve diseases, moving beyond open-heart surgery?",
+      "options": [
+        "Coronary Artery Bypass Graft (CABG)",
+        "Transcatheter Aortic Valve Implantation (TAVI)",
+        "Percutaneous Transluminal Coronary Angioplasty (PTCA)",
+        "Ventricular Assist Device (VAD)"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Transcatheter Aortic Valve Implantation (TAVI) has revolutionised the treatment of severe aortic valve diseases. For several decades, these conditions were treated only with open heart surgery, but TAVI offers a less invasive alternative for eligible patients.",
+      "background": "Aortic valve disease involves the narrowing or leakage of the aortic valve, affecting blood flow from the heart. TAVI allows a new valve to be implanted via a catheter, avoiding the need for open-chest surgery, which is particularly beneficial for high-risk patients.",
+      "examRelevance": "TAVI = Transcatheter Aortic Valve Implantation for aortic valve diseases.",
+      "tags": [
+        "TAVI",
+        "Aortic Valve Disease",
+        "Medical Procedure",
+        "Cardiology"
+      ],
+      "source": {
+        "title": "TAVI has ushered in a new age in treating aortic valve diseases: how it works and who it is for",
+        "url": "https://www.thehindu.com/sci-tech/health/tavi-has-ushered-in-new-age-in-treating-aortic-valve-diseases-how-it-works-and-who-it-is-for/article71472008.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q7",
+      "question": "What subject in university curricula is the Prime Minister's Office (PMO) reviewing after an anonymous post called them 'poison'?",
+      "options": [
+        "Gandhian philosophy",
+        "Ambedkarite writings",
+        "Nehruvian economics",
+        "Ancient Indian history"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Prime Minister's Office (PMO) is reviewing Ambedkarite writings in university curricula after an anonymous post called them 'poison'. Academic Kancha Ilaiah Shepherd questioned the PMO's interference in syllabus matters.",
+      "background": "University curricula typically fall under the purview of the Department of Higher Education or the University Grants Commission (UGC), raising concerns about political interference in academic autonomy.",
+      "examRelevance": "PMO review = Ambedkarite writings in university curricula.",
+      "tags": [
+        "PMO",
+        "Ambedkarite Writings",
+        "University Curricula",
+        "Academic Autonomy"
+      ],
+      "source": {
+        "title": "PMO reviews Ambedkarite writings in university curricula after anonymous post calls them ‘poison’",
+        "url": "https://www.thehindu.com/news/national/telangana/pmo-reviews-ambedkarite-writings-in-university-curricula-after-anonymous-post-calls-them-poison/article71521420.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q8",
+      "question": "In which city was the renovated Gandhi Memorial Museum recently declared open by Tamil Nadu CM Vijay, following renovation work costing ₹10.25 crore?",
+      "options": [
+        "Madurai",
+        "Chennai",
+        "Tiruchirappalli",
+        "Kanyakumari"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "The renovated Gandhi Memorial Museum in Madurai was recently declared open by Tamil Nadu Chief Minister Vijay. The renovation work was carried out by the Heritage Wing of the Public Works Department at a total cost of ₹10.25 crore.",
+      "background": "The Gandhi Memorial Museum in Madurai is one of the five Gandhi Sangrahalayas (museums) in India and houses a significant collection of Gandhiji's belongings and historical records related to his life and the freedom movement.",
+      "examRelevance": "Renovated Gandhi Memorial Museum = Madurai, Tamil Nadu.",
+      "tags": [
+        "Gandhi Memorial Museum",
+        "Madurai",
+        "Tamil Nadu",
+        "Cultural Heritage"
+      ],
+      "source": {
+        "title": "Tamil Nadu CM Vijay declares open renovated Gandhi Memorial Museum in Madurai",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-declares-open-renovated-gandhi-memorial-museum-in-madurai/article71518869.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q9",
+      "question": "How many talukas in Maharashtra have been recently declared drought-affected due to a significant shortfall in rainfall as the monsoon nears its end?",
+      "options": [
+        "265",
+        "180",
+        "415",
+        "340"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Maharashtra has recently declared drought in 265 talukas due to a significant shortfall in rainfall as the monsoon nears its end. Only five districts recorded rain at or above the average for the period.",
+      "background": "A drought declaration triggers various relief measures for farmers, including waiving land revenue, restructuring crop loans, and providing subsidies for agricultural inputs. This decision is based on specific criteria related to rainfall deficit, crop yield, and soil moisture.",
+      "examRelevance": "Maharashtra drought = 265 talukas affected.",
+      "tags": [
+        "Maharashtra",
+        "Drought",
+        "Monsoon",
+        "Agriculture"
+      ],
+      "source": {
+        "title": "Why has Maharashtra declared drought in 265 talukas and what do farmers get? | Explained",
+        "url": "https://www.thehindu.com/news/national/maharashtra/why-has-maharashtra-declared-drought-in-265-talukas-and-what-do-farmers-get-explained/article71522489.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q10",
+      "question": "From which date will Delhi's new measures, including vehicle curbs and construction bans, be in force to tackle winter pollution?",
+      "options": [
+        "October 1, 2026",
+        "November 1, 2026",
+        "December 1, 2026",
+        "January 1, 2027"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Delhi's new measures to tackle winter pollution, including staggered office timings, doubled parking charges, vehicle curbs, work-from-home provisions, and construction bans, will remain in force from November 1, 2026, to January 31, 2027.",
+      "background": "Delhi faces severe air pollution during winter months due to a combination of factors including stubble burning, vehicular emissions, and industrial pollution. These measures are part of the Graded Response Action Plan (GRAP) to mitigate the crisis.",
+      "examRelevance": "Delhi winter pollution measures = Effective from November 1, 2026.",
+      "tags": [
+        "Delhi",
+        "Air Pollution",
+        "Winter",
+        "Vehicle Curbs",
+        "Environment"
+      ],
+      "source": {
+        "title": "Delhi announces vehicle curbs, work-from-home, construction bans for winter pollution",
+        "url": "https://www.thehindu.com/news/cities/Delhi/delhi-announces-vehicle-curbs-work-from-home-construction-bans-for-winter-pollution/article71519626.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q11",
+      "question": "The US Embassy recently hailed the debut of which advanced fighter jet at the Tarang Shakti 2026 exercise in India?",
+      "options": [
+        "F-16",
+        "F-22",
+        "F-15",
+        "F-35"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "The US Embassy hailed the F-35 fighter jet's debut at the Tarang Shakti 2026 exercise in India, emphasizing the strengthening of coordination and readiness between the two nations.",
+      "background": "Tarang Shakti is a multilateral air exercise hosted by India, involving air forces from several countries. The participation of advanced aircraft like the F-35 signifies deepening strategic ties and interoperability between the participating nations.",
+      "examRelevance": "F-35 = Debuted at Tarang Shakti 2026 in India.",
+      "tags": [
+        "F-35",
+        "Tarang Shakti 2026",
+        "Defence Exercise",
+        "US-India"
+      ],
+      "source": {
+        "title": "US embassy hails F-35 debut in India",
+        "url": "https://economictimes.indiatimes.com/news/defence/strengthening-coordination-readiness-us-embassy-hails-f-35-debut-at-tarang-shakti-2026-in-india/articleshow/134556486.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q12",
+      "question": "Which gangster, linked to cross-border criminal activities, has been recently placed on the FBI's 10 most wanted list with a $1 million reward?",
+      "options": [
+        "Chhota Rajan",
+        "Goldy Brar",
+        "Dawood Ibrahim",
+        "Abu Salem"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The FBI has placed gangster Goldy Brar on its 10 most wanted list, offering a $1 million reward for information leading to his capture. The probe agency warned that he should be considered armed, dangerous, and an escape risk.",
+      "background": "Goldy Brar is an alleged gangster believed to be operating from Canada, with significant involvement in criminal activities in India, including high-profile murder cases. His inclusion on the FBI's list highlights international cooperation in tackling organized crime.",
+      "examRelevance": "Goldy Brar = FBI's 10 most wanted list.",
+      "tags": [
+        "Goldy Brar",
+        "FBI",
+        "Most Wanted",
+        "Crime"
+      ],
+      "source": {
+        "title": "FBI puts gangster Goldy Brar on 10 most wanted list with $1 million reward",
+        "url": "https://www.thehindu.com/news/international/fbi-puts-gangster-goldy-brar-on-10-most-wanted-list-with-1-million-reward/article71522317.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q13",
+      "question": "Which network, declared a terrorist organisation by the Centre and allegedly involved in cross-border smuggling of weapons and narcotics, had over 40 modules busted across 15 states?",
+      "options": [
+        "Lakhvi network",
+        "Haqqani network",
+        "D-Company",
+        "Shahzad Bhatti network"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "Union Home Minister Amit Shah announced that over 40 modules of the Shahzad Bhatti network were busted, leading to 350 arrests across 15 states. The Centre has declared the Bhatti network a terrorist organisation, allegedly involved in cross-border smuggling of weapons, explosives, and narcotics.",
+      "background": "Shahzad Bhatti is identified as a Pakistani social media influencer who allegedly orchestrates these illicit activities. The busting of such a widespread network signifies a major success in national security and anti-narcotics efforts.",
+      "examRelevance": "Shahzad Bhatti network = Terrorist organisation, 40+ modules busted.",
+      "tags": [
+        "Shahzad Bhatti",
+        "Terrorism",
+        "Narcotics Smuggling",
+        "National Security"
+      ],
+      "source": {
+        "title": "Over 40 modules of Shahzad Bhatti network busted, 350 held across 15 States: Amit Shah",
+        "url": "https://www.thehindu.com/news/national/over-40-modules-of-shahzad-bhatti-network-busted-350-held-across-15-states-amit-shah/article71520689.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q14",
+      "question": "In the recent Keralam local body bypolls, which political front retained the Ayyappankkavu ward in Kochi Corporation?",
+      "options": [
+        "LDF",
+        "UDF",
+        "SDPI",
+        "NDA"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "In the recent Keralam local body bypolls, the United Democratic Front (UDF) retained the Ayyappankkavu ward in Kochi Corporation. Ajith Kumar A.K. of UDF registered his maiden electoral victory, defeating P.K. Usman of CPI(M) by a margin of 549 votes.",
+      "background": "Local body bypolls are often seen as a barometer of public sentiment and can have significant consequences for the ruling and opposition fronts in a state. The UDF's victory in this ward is a boost for the front.",
+      "examRelevance": "UDF = Retained Ayyappankkavu ward in Kochi Corporation bypolls.",
+      "tags": [
+        "Keralam Bypolls",
+        "UDF",
+        "Ayyappankkavu",
+        "Kochi Corporation"
+      ],
+      "source": {
+        "title": "Keralam local body bypolls: UDF retains Ayyappankkavu in Kochi Corporation",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-local-body-bypolls-udf-retains-ayyappankkavu-in-kochi-corporation/article71522772.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q15",
+      "question": "The Supreme Court recently ruled that a confession statement of an accused cannot be the sole basis for detention under which Act?",
+      "options": [
+        "National Security Act (NSA)",
+        "Narcotic Drugs and Psychotropic Substances Act (NDPS)",
+        "Unlawful Activities (Prevention) Act (UAPA)",
+        "Prevention of Money Laundering Act (PMLA)"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently stated that detention under the National Security Act (NSA) cannot be based solely on the confession statement of an accused.",
+      "background": "The National Security Act (NSA) allows for preventive detention for up to 12 months without charge if authorities are satisfied that a person is a threat to national security or public order. This ruling reinforces safeguards against arbitrary detention and emphasizes due process.",
+      "examRelevance": "SC ruling = Confession not sole basis for NSA detention.",
+      "tags": [
+        "Supreme Court",
+        "NSA",
+        "Detention",
+        "Confession",
+        "Legal Ruling"
+      ],
+      "source": {
+        "title": "Confession no basis for NSA detention, says SC",
+        "url": "https://economictimes.indiatimes.com/news/india/detention-under-nsa-cant-be-based-on-confession-statement-of-accused-sc/articleshow/134558090.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q16",
+      "question": "According to External Affairs Minister S Jaishankar, a trade agreement between India and the US, if concluded, would contribute to what?",
+      "options": [
+        "Better bilateral ties",
+        "Regional trade dominance",
+        "Global economic stability",
+        "Reduced trade deficit"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "External Affairs Minister S Jaishankar stated that a trade agreement between India and the US, if concluded, would contribute to 'better' bilateral ties. He noted that expectations of rapid progress in negotiations had been 'tested' against a much more complex ground reality.",
+      "background": "India and the US have been engaged in trade talks aimed at finalizing an interim trade deal. Such agreements are crucial for strengthening economic cooperation and overall diplomatic relations between the two countries.",
+      "examRelevance": "Jaishankar = India-US trade agreement for better bilateral ties.",
+      "tags": [
+        "India-US",
+        "Trade Agreement",
+        "S Jaishankar",
+        "Bilateral Ties"
+      ],
+      "source": {
+        "title": "Trade agreement can contribute to ‘better’ India-US ties, says Jaishankar as Piyush Goyal set to hold talks",
+        "url": "https://www.livemint.com/economy/trade-agreement-can-contribute-to-better-india-us-ties-says-jaishankar-as-piyush-goyal-set-to-hold-talks-11790664730693.html"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q17",
+      "question": "Which Indian investment platform has begun a phased rollout of US stock investing, allowing users to invest in US equities?",
+      "options": [
+        "Upstox",
+        "Zerodha",
+        "PayTM Money",
+        "Groww"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Groww, an Indian investment platform, has begun a phased rollout of US stock investing, allowing its users to invest in equities listed on US exchanges through GIFT City.",
+      "background": "This move enables Indian investors to diversify their portfolios by gaining exposure to international markets, specifically the US, which hosts many of the world's largest companies. GIFT City provides a regulatory framework for such international financial services.",
+      "examRelevance": "Groww = Phased rollout of US stock investing.",
+      "tags": [
+        "Groww",
+        "US Stock Investing",
+        "Investment Platform",
+        "GIFT City"
+      ],
+      "source": {
+        "title": "Groww begins phased rollout of US stock investing",
+        "url": "https://economictimes.indiatimes.com/tech/technology/groww-begins-phased-rollout-of-us-stock-investing-through-gift-city/articleshow/134558491.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q18",
+      "question": "The High-Level Committee on Demographic Changes recently sought religion-wise data for the past 15 years on which of the following?",
+      "options": [
+        "Agricultural land holdings and crop yields",
+        "Income tax filings and employment records",
+        "Passport applications and foreign travel",
+        "Birth and vehicle registrations, school enrolment, and property transactions"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The High-Level Committee on Demographic Changes recently sought religion-wise data for the past 15 years on birth and vehicle registrations, school enrolment, and property transactions. It also requested district-wise details of religious structures and unusual increases in Aadhaar, voter ID, and ration card registrations.",
+      "background": "This data request has sparked controversy, with officials stating that data is not maintained on religious lines, and political parties alleging pre-conceived biases behind the panel's agenda.",
+      "examRelevance": "Demography panel = Sought religion-wise data on various registrations/transactions.",
+      "tags": [
+        "Demography Panel",
+        "Religion-wise Data",
+        "Voter ID",
+        "Aadhaar"
+      ],
+      "source": {
+        "title": "States stumped as demography panel seeks religion-wise data on vehicles, schools, voters",
+        "url": "https://www.thehindu.com/news/national/states-stumped-as-demography-panel-seeks-religion-wise-data-on-vehicles-schools-voters/article71520565.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q19",
+      "question": "What reason did OpenAI cite for cancelling the release of its newest model, just one day before its annual developer conference?",
+      "options": [
+        "Technical glitches",
+        "Safety concerns",
+        "Market competition",
+        "Regulatory hurdles"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "OpenAI cancelled the release of its newest model due to safety concerns, just one day before its annual developer conference, OpenAI DevDay, where the company was expected to make several announcements.",
+      "background": "Safety in AI development is a growing concern, balancing rapid innovation with responsible deployment. This decision by OpenAI highlights the industry's increasing focus on ethical considerations and potential risks associated with advanced AI models.",
+      "examRelevance": "OpenAI = Cancelled new model release due to safety concerns.",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "New Model",
+        "Tech News"
+      ],
+      "source": {
+        "title": "OpenAI cancels release of newest model due to safety concerns",
+        "url": "https://www.thehindu.com/sci-tech/technology/openai-cancels-release-of-newest-model-due-to-safety-concerns/article71522314.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q20",
+      "question": "According to a TDP spokesperson, Lokesh's investment drive has taken Andhra Pradesh's FDI inflows to what amount?",
+      "options": [
+        "$1.1 billion",
+        "$820 million",
+        "$350 million",
+        "$609 million"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "According to TDP spokesperson Neelayapalem Vijay Kumar, Lokesh's investment drive has taken Andhra Pradesh's FDI inflows to $609 million. He stated that the Speed of Doing Business framework, backed by an escrow-based incentive distribution system, enabled the government to clinch deals on a scale not witnessed before.",
+      "background": "Foreign Direct Investment (FDI) is crucial for economic growth, job creation, and technology transfer. States actively compete to attract FDI through various policies and incentives.",
+      "examRelevance": "Andhra Pradesh FDI inflows = $609 million.",
+      "tags": [
+        "Andhra Pradesh",
+        "FDI",
+        "Investment Drive",
+        "Economy"
+      ],
+      "source": {
+        "title": "Lokesh’s investment drive has taken Andhra’s FDI inflows to $609 million, says TDP spokesperson",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/lokeshs-investment-drive-has-taken-andhras-fdi-inflows-to-609-million-says-tdp-spokesperson/article71520548.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q21",
+      "question": "India is soon to release a new steel policy, with a target of achieving what capacity by 2047?",
+      "options": [
+        "750 million tons",
+        "300 million tons",
+        "600 million tons",
+        "450 million tons"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "India is soon to release a new steel policy, with a target of achieving 600 million tons capacity by 2047. This was announced by a secretary.",
+      "background": "The steel industry is a core sector of the Indian economy, crucial for infrastructure development and manufacturing. A new policy aims to boost domestic production, reduce imports, and enhance competitiveness, aligning with long-term economic goals.",
+      "examRelevance": "New Steel Policy = 600 million tons capacity target by 2047.",
+      "tags": [
+        "Steel Policy",
+        "India",
+        "Manufacturing",
+        "Economy 2047"
+      ],
+      "source": {
+        "title": "India to soon release new steel policy, secy says",
+        "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/india-to-soon-release-new-steel-policy-600-million-tons-capacity-by-2047-secy-says/articleshow/134557955.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q22",
+      "question": "By how much did cement prices increase per bag in September, with further hikes expected in October?",
+      "options": [
+        "₹3",
+        "₹10",
+        "₹7",
+        "₹5"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Cement prices increased by ₹7 per bag in September. Centrum Broking reported that cement companies could attempt another round of ₹5-20 per bag price hikes across most markets in October.",
+      "background": "Cement prices are influenced by factors such as fuel costs, demand recovery, and dealer acceptance. Recent sharp increases in fuel prices are noted as a key monitorable for the sustainability of these hikes.",
+      "examRelevance": "Cement prices = Up ₹7/bag in September.",
+      "tags": [
+        "Cement Prices",
+        "Economy",
+        "Inflation",
+        "Construction"
+      ],
+      "source": {
+        "title": "Cement prices up ₹7/bag; more hikes likely",
+        "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/cement/cement-prices-rise-rs-7/bag-in-september-further-rs-5-20-hikes-expected-in-october-report/articleshow/134558103.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q23",
+      "question": "By how many paise did the Indian Rupee fall against the U.S. dollar in early trade, reaching 96.13?",
+      "options": [
+        "12 paise",
+        "20 paise",
+        "8 paise",
+        "16 paise"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Indian Rupee fell 16 paise to 96.13 against the U.S. dollar in early trade. Forex traders attributed this pressure largely to a combination of firm oil prices and rising U.S. nominal and real yields.",
+      "background": "The depreciation of the rupee against the dollar is influenced by global economic factors, including crude oil prices and interest rate differentials, which impact portfolio flows into and out of emerging markets like India.",
+      "examRelevance": "Rupee fall = 16 paise against US dollar, reaching 96.13.",
+      "tags": [
+        "Indian Rupee",
+        "US Dollar",
+        "Forex",
+        "Economy"
+      ],
+      "source": {
+        "title": "Rupee falls 16 paise to 96.13 against U.S. dollar in early trade",
+        "url": "https://www.thehindu.com/business/rupee-falls-16-paise-to-9613-against-us-dollar-in-early-trade/article71522669.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q24",
+      "question": "Former Home Secretary R.K. Singh recently accused CEC Gyanesh Kumar of ‘illegalities’ in relation to which process?",
+      "options": [
+        "Appointment of District Election Officers",
+        "Delimitation Commission proceedings",
+        "Electronic Voting Machine (EVM) procurement",
+        "Special Electoral Roll Revision (SIR)"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Former Home Secretary R.K. Singh, in an open letter, accused Chief Election Commissioner (CEC) Gyanesh Kumar of ‘illegalities’ in relation to the Special Electoral Roll Revision (SIR). He also urged Opposition parties to boycott elections until the CEC and Election Commissioners resign.",
+      "background": "The Special Electoral Roll Revision (SIR) is a process undertaken by the Election Commission to update voter lists. Allegations of illegalities in this process, especially concerning voter deletions, have become a contentious issue, leading to calls for transparency and legal challenges.",
+      "examRelevance": "R.K. Singh = Accused CEC Gyanesh Kumar of illegalities in SIR.",
+      "tags": [
+        "CEC",
+        "Gyanesh Kumar",
+        "R.K. Singh",
+        "SIR",
+        "Electoral Roll"
+      ],
+      "source": {
+        "title": "Ex-Home Secretary R.K. Singh accuses CEC Gyanesh Kumar of ‘illegalities’ in SIR",
+        "url": "https://www.thehindu.com/news/national/ex-home-secretary-rk-singh-accuses-cec-gyanesh-kumar-of-illegalities-in-sir-calls-for-opposition-unity/article71522341.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q25",
+      "question": "Which ancient custom, used to inform the public about property attachment proceedings, has been removed from Keralam's courts by the High Court's Rules Committee?",
+      "options": [
+        "\"Panchavadyam\" and \"Thayambaka\"",
+        "\"Tom-tom\" and \"kinnam mutti vilambaram\"",
+        "\"Kathakali\" and \"Mohiniyattam\"",
+        "\"Kalaripayattu\" and \"Theyyam\""
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "Following a campaign by a rights activist, the Keralam High Court's Rules Committee decided to remove the provision for the 'tom-tom' and 'kinnam mutti vilambaram'. These were ancient customs used to inform the public about property attachment proceedings, dating back to princely rule.",
+      "background": "The 'tom-tom' (drumming) and 'kinnam mutti vilambaram' (announcement by clanging vessels) were traditional methods of public proclamation. Their removal signifies a modernization of legal procedures and a phasing out of archaic customs in the judicial system.",
+      "examRelevance": "Keralam courts = Removed 'tom-tom' and 'kinnam mutti vilambaram' customs.",
+      "tags": [
+        "Keralam",
+        "Court Customs",
+        "Tom-tom",
+        "Kinnam Mutti Vilambaram",
+        "Legal Reform"
+      ],
+      "source": {
+        "title": "Beats of an old custom fade away from Keralam’s courts",
+        "url": "https://www.thehindu.com/news/national/kerala/beats-of-an-old-custom-fade-away-from-keralams-courts/article71513254.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q26",
+      "question": "A lad from Vijayapura recently won a silver medal at the Commonwealth powerlifting championship held in which country?",
+      "options": [
+        "Canada",
+        "Australia",
+        "South Africa",
+        "United Kingdom"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "A lad from Vijayapura recently won a silver medal at the Commonwealth powerlifting championship held in Canada. He has been practicing powerlifting for nearly five years.",
+      "background": "The Commonwealth Powerlifting Championship is a significant international event for powerlifters from Commonwealth nations. Achieving a silver medal at such a championship is a notable accomplishment, bringing recognition to the athlete and his region.",
+      "examRelevance": "Vijayapura lad = Silver medal at Commonwealth powerlifting in Canada.",
+      "tags": [
+        "Vijayapura",
+        "Powerlifting",
+        "Commonwealth Championship",
+        "Canada"
+      ],
+      "source": {
+        "title": "Vijayapura lad wins silver medal at Commonwealth powerlifting championship in Canada",
+        "url": "https://www.thehindu.com/news/national/karnataka/vijayapura-lad-wins-silver-medal-at-commonwealth-powerlifting-championship-in-canada/article71520321.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q27",
+      "question": "Union Minister Nitin Gadkari recently announced a new expressway that will connect Uttar Pradesh with which region of India?",
+      "options": [
+        "Western Coast",
+        "Southern Plateau",
+        "North-East",
+        "Central Highlands"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "Union Minister Nitin Gadkari announced a new expressway that will connect Uttar Pradesh with the North-East region of India. The proposed Gorakhpur to Meghalaya highway will connect UP, Bengal, Assam, and Meghalaya, reducing travel time by half.",
+      "background": "Infrastructure development, particularly expressways, is a key focus of the government to improve connectivity, boost economic activity, and reduce travel time across different regions of the country. Connecting the North-East is a strategic priority.",
+      "examRelevance": "New Expressway = Connects Uttar Pradesh with North-East.",
+      "tags": [
+        "Nitin Gadkari",
+        "Expressway",
+        "Uttar Pradesh",
+        "North-East",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "Expressway to connect UP with north-east: Gadkari",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/roadways/nitin-gadkari-announces-new-expressway-for-north-east-proposed-gorakhpur-to-meghalaya-highway-connecting-up-bengal-assam-meghalaya-to-reduce-travel-time-by-half/articleshow/134555099.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q28",
+      "question": "Which Indian organization warned that a prolonged El Nino event may hurt the marine ecosystem?",
+      "options": [
+        "ISRO",
+        "IMD",
+        "CPCB",
+        "INCOIS"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The Indian National Centre for Ocean Information Services (INCOIS) warned that a prolonged El Nino event may hurt the marine ecosystem.",
+      "background": "El Nino is a climate pattern associated with the warming of ocean surface temperatures in the central and eastern tropical Pacific Ocean. It can have significant impacts on global weather patterns, including marine ecosystems, leading to coral bleaching, changes in fish migration, and altered ocean productivity.",
+      "examRelevance": "INCOIS = Warned about prolonged El Nino hurting marine ecosystem.",
+      "tags": [
+        "INCOIS",
+        "El Nino",
+        "Marine Ecosystem",
+        "Environment",
+        "Climate Change"
+      ],
+      "source": {
+        "title": "Prolonged El Nino may hurt marine ecosystem: INCOIS",
+        "url": "https://www.thehindu.com/news/national/telangana/prolonged-el-nino-may-hurt-marine-ecosystem-incois/article71519304.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q29",
+      "question": "The Hindu Quiz recently featured the life and career of legendary singer Lata Mangeshkar on her 97th birthday. In which year was she born?",
+      "options": [
+        "1933",
+        "1937",
+        "1929",
+        "1941"
+      ],
+      "answerIndex": 2,
+      "category": "Dates & Days",
+      "explanation": "The Hindu Quiz featured the life and career of legendary singer Lata Mangeshkar on her 97th birthday. Given she celebrated her 97th birthday, she would have been born in 2026 - 97 = 1929.",
+      "background": "Lata Mangeshkar (1929-2022) was an iconic Indian playback singer and occasional music composer. Known as the 'Nightingale of India', her career spanned over seven decades, and she recorded over 30,000 songs in various Indian languages.",
+      "examRelevance": "Lata Mangeshkar = Born in 1929.",
+      "tags": [
+        "Lata Mangeshkar",
+        "Birthday",
+        "Singer",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "The Hindu Quiz | The life and career of Lata Mangeshkar on the legendary singer’s 97th birthday",
+        "url": "https://www.thehindu.com/news/national/the-hindu-quiz-the-life-and-career-of-lata-mangeshkar-on-the-legendary-singers-97th-birthday/article71518599.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-29-q30",
+      "question": "The newly launched Oppo K14 Plus smartphone in India ships with an 8,000 mAh battery, paired with which fast charging technology?",
+      "options": [
+        "100W UltraDart Charge",
+        "45W SUPERVOOC charging",
+        "33W Flash Charge",
+        "65W Warp Charge"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The newly launched Oppo K14 Plus smartphone in India ships with an 8,000 mAh battery, paired with 45W SUPERVOOC charging. It also supports 10W reverse wired charging.",
+      "background": "Oppo's SUPERVOOC charging technology is known for its fast-charging capabilities, allowing devices to be charged rapidly. High-capacity batteries combined with fast charging are increasingly common features in modern smartphones.",
+      "examRelevance": "Oppo K14 Plus = 45W SUPERVOOC charging.",
+      "tags": [
+        "Oppo K14 Plus",
+        "Smartphone",
+        "SUPERVOOC",
+        "Fast Charging"
+      ],
+      "source": {
+        "title": "Oppo launches K14 Plus with Dimensity processor in India",
+        "url": "https://www.thehindu.com/sci-tech/technology/gadgets/oppo-launches-k14-plus-with-dimensity-processor-in-india/article71522887.ece"
+      }
+    }
+  ]
+}
