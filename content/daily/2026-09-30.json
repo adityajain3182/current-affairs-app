@@ -1,0 +1,782 @@
+{
+  "id": "daily-2026-09-30",
+  "type": "daily",
+  "date": "2026-09-30",
+  "title": "Current Affairs — 30 Sept 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-09-30-q1",
+      "question": "The culture of unopposed elections has taken root in hundreds of villages across which Indian state, raising concerns about democratic choice?",
+      "options": [
+        "Maharashtra",
+        "Gujarat",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The culture of unopposed elections, where candidates win without opposition, has become prevalent in hundreds of villages across Maharashtra. This trend is raising concerns among observers about the lack of democratic choice and the silencing of dissent in rural local governance.",
+      "background": "Unopposed elections, while sometimes seen as a sign of village unity, can also indicate a lack of genuine democratic contestation or the influence of local power dynamics that deter other candidates from filing nominations. This phenomenon impacts the vibrancy of grassroots democracy.",
+      "examRelevance": "Maharashtra rural polls = unopposed elections trend, raising democratic concerns.",
+      "tags": [
+        "Maharashtra",
+        "Rural Elections",
+        "Unopposed",
+        "Democracy"
+      ],
+      "source": {
+        "title": "Democracy without choice: how unopposed Maharashtra rural polls silence dissent",
+        "url": "https://www.thehindu.com/news/national/maharashtra/democracy-without-choice-how-unopposed-maharashtra-rural-polls-silence-dissent/article71524112.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q2",
+      "question": "A Mumbai court recently granted bail to former policeman Sachin Vaze in the 2021 Antilia bomb scare case. Which specific law's applicability did the NIA court question?",
+      "options": [
+        "Unlawful Activities (Prevention) Act (UAPA)",
+        "Narcotic Drugs and Psychotropic Substances Act (NDPS)",
+        "Prevention of Money Laundering Act (PMLA)",
+        "Maharashtra Control of Organised Crime Act (MCOCA)"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "A Mumbai court granted bail to ex-policeman Sachin Vaze in the 2021 Antilia bomb scare case, questioning the applicability of the Unlawful Activities (Prevention) Act (UAPA). The NIA court noted a lack of evidence that the Ambanis were terrorised or that the SUV’s contents constituted a terrorist act, while confirming Hiran’s death as separate from terrorism.",
+      "background": "Sachin Vaze was arrested in connection with the placement of an explosives-laden SUV near industrialist Mukesh Ambani's residence, Antilia, and the subsequent death of Thane businessman Mansukh Hiran. The case drew national attention due to the involvement of a police officer and the serious charges, including those under UAPA.",
+      "examRelevance": "Sachin Vaze bail = NIA court questioned UAPA applicability in Antilia bomb scare case.",
+      "tags": [
+        "Sachin Vaze",
+        "Antilia Bomb Scare",
+        "UAPA",
+        "Mumbai Court"
+      ],
+      "source": {
+        "title": "2021 Antilia bomb scare case: Mumbai court grants bail to ex-policeman Sachin Vaze",
+        "url": "https://www.thehindu.com/news/national/2021-antilia-bomb-scare-case-mumbai-court-grants-bail-to-ex-policeman-sachin-vaze/article71523259.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q3",
+      "question": "Indian Coast Guard recently seized high-grade methamphetamine and heroin worth ₹3,000 crore from an Iranian boat. This operation took place in which sea?",
+      "options": [
+        "Bay of Bengal",
+        "Arabian Sea",
+        "Red Sea",
+        "Andaman Sea"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "The Indian Coast Guard successfully seized high-grade methamphetamine and heroin valued at ₹3,000 crore from an Iranian boat in the Arabian Sea. During the operation, five Pakistani nationals were detained.",
+      "background": "India actively monitors its maritime borders to combat drug trafficking, which often uses sea routes to transport contraband from West Asia and the Golden Crescent. Such seizures are part of ongoing efforts by Indian security agencies to curb the illicit drug trade.",
+      "examRelevance": "₹3,000 crore drugs seized from Iranian boat by Coast Guard in Arabian Sea.",
+      "tags": [
+        "Drug Seizure",
+        "Arabian Sea",
+        "Indian Coast Guard",
+        "Methamphetamine",
+        "Heroin"
+      ],
+      "source": {
+        "title": "₹3,000 crore drugs seized from Iranian boat in Arabian Sea; 5 Pakistan nationals detained",
+        "url": "https://www.thehindu.com/news/national/3000-crore-drugs-seized-from-iranian-boat-in-arabian-sea/article71526673.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q4",
+      "question": "The U.S. Citizenship and Immigration Services (USCIS) is set to more than double filing fees for which investor visa program, effective November 30, 2026?",
+      "options": [
+        "EB-5 Green Card",
+        "O-1 Visa",
+        "L-1 Visa",
+        "H-1B Visa"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The U.S. Citizenship and Immigration Services (USCIS) will more than double the filing fees for the EB-5 Green Card investor visa program. This fee hike is scheduled to become effective on November 30, 2026.",
+      "background": "The EB-5 Immigrant Investor Program allows foreign investors to obtain a Green Card by investing in commercial enterprises in the United States that create or preserve at least 10 full-time jobs for qualified U.S. workers. It is a pathway for high-net-worth individuals to gain permanent residency.",
+      "examRelevance": "USCIS to hike EB-5 Green Card fees effective November 30, 2026.",
+      "tags": [
+        "US Immigration",
+        "EB-5 Green Card",
+        "Visa Fees",
+        "USCIS"
+      ],
+      "source": {
+        "title": "U.S. to hike EB-5 Green Card fees",
+        "url": "https://www.thehindu.com/news/international/us-to-hike-eb-5-green-card-fees/article71527035.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q5",
+      "question": "The Mamallan Reservoir project in Tamil Nadu is facing opposition from local communities and environmental groups. This project's construction began during which political regime?",
+      "options": [
+        "PMK regime",
+        "AIADMK regime",
+        "Congress regime",
+        "DMK regime"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Mamallan Reservoir project in Tamil Nadu, which is currently facing opposition due to its potential impact on wetlands, fisheries, and local hydrology, began its construction during the erstwhile DMK regime.",
+      "background": "The project aims to enhance water supply or irrigation in the region. However, like many large-scale infrastructure projects, it has drawn criticism from environmentalists and local residents concerned about ecological disruption and livelihood impacts, particularly for fishing communities.",
+      "examRelevance": "Mamallan Reservoir project in Tamil Nadu = began during erstwhile DMK regime, facing opposition.",
+      "tags": [
+        "Mamallan Reservoir",
+        "Tamil Nadu",
+        "DMK",
+        "Environmental Concerns"
+      ],
+      "source": {
+        "title": "What is the Mamallan Reservoir project in Tamil Nadu and why is it being opposed? Explained",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/what-is-the-mamallan-reservoir-project-in-tamil-nadu-and-why-is-it-being-opposed-explained/article71526982.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q6",
+      "question": "External Affairs Minister S. Jaishankar recently met with UN chief Antonio Guterres to discuss ongoing conflicts and their impact. Which group of countries was specifically mentioned as being affected?",
+      "options": [
+        "European Union countries",
+        "G7 countries",
+        "Global South countries",
+        "NATO member states"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "External Affairs Minister S. Jaishankar recently met with UN chief Antonio Guterres. Their discussions focused on ongoing global conflicts and their significant impact, particularly on the countries of the Global South.",
+      "background": "India, as a prominent voice of the Global South, frequently highlights the disproportionate impact of global crises, such as conflicts, climate change, and economic instability, on developing nations. Such discussions at the UN underscore India's commitment to advocating for these countries.",
+      "examRelevance": "EAM Jaishankar met UN chief Guterres = discussed conflicts' impact on Global South.",
+      "tags": [
+        "S. Jaishankar",
+        "Antonio Guterres",
+        "United Nations",
+        "Global South",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Jaishankar meets UN chief Guterres, discusses ongoing conflicts, impact on Global South countries",
+        "url": "https://www.thehindu.com/news/national/jaishankar-meets-un-chief-guterres-discusses-ongoing-conflicts-impact-on-global-south-countries/article71526924.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q7",
+      "question": "At the Asian Games 2026, the Indian team of Kynan and Neeru won a gold medal and set an Asian record in which sporting event?",
+      "options": [
+        "Mixed Doubles Badminton",
+        "Mixed Team Archery",
+        "Mixed Relay Swimming",
+        "Mixed Team Trap Shooting"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "The Indian team comprising Kynan and Neeru won a gold medal in the Mixed Team Trap Shooting event at the Asian Games 2026. They also set a new Asian record in the process, shooting a score of 34 in the final.",
+      "background": "India has a strong tradition in shooting sports and consistently performs well at international events like the Asian Games and Commonwealth Games. This victory adds to India's medal tally and highlights the talent in mixed-team events.",
+      "examRelevance": "Asian Games 2026 = Kynan and Neeru won gold in Mixed Team Trap Shooting, set Asian record.",
+      "tags": [
+        "Asian Games 2026",
+        "Kynan Chenai",
+        "Neeru Dhanda",
+        "Trap Shooting",
+        "Gold Medal"
+      ],
+      "source": {
+        "title": "Asian Games 2026 LIVE: Kynan, Neeru win gold, set Asian record in trap shooting",
+        "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-30-2026/article71525800.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q8",
+      "question": "Which political alliance recently held a meeting in Delhi to discuss issues, including a row with the Election Commission of India?",
+      "options": [
+        "Third Front",
+        "NDA",
+        "Left Front",
+        "INDIA Bloc"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The INDIA Bloc, an alliance of opposition parties, recently gathered in Delhi for a meeting. Key leaders, including Mamata Banerjee, attended to discuss various issues, particularly focusing on a row with the Election Commission of India.",
+      "background": "The INDIA (Indian National Developmental Inclusive Alliance) bloc was formed by various opposition parties to challenge the ruling NDA government in upcoming elections. Meetings like this are crucial for strategy formulation and presenting a united front on national issues.",
+      "examRelevance": "INDIA Bloc meeting in Delhi = discussed EC row.",
+      "tags": [
+        "INDIA Bloc",
+        "Delhi",
+        "Election Commission",
+        "Political Alliance"
+      ],
+      "source": {
+        "title": "Who is attending INDIA Bloc meet today? Mamata Banerjee, other top leaders gather in Delhi over EC row",
+        "url": "https://www.thehindu.com/news/national/india-bloc-meeting-today-who-are-attending-rahul-mamata-kharge-full-list-of-leaders/article71526950.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q9",
+      "question": "The Centre has recently notified new CAFE norms, tightening fuel-efficiency targets for passenger vehicles. What does CAFE stand for?",
+      "options": [
+        "Consumer Automobile Fuel Efficiency",
+        "Carbon Abatement for Future Energy",
+        "Corporate Average Fuel Economy",
+        "Clean Air and Fuel Emissions"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The Centre has notified new Corporate Average Fuel Economy (CAFE) norms, which aim to tighten fuel-efficiency targets for passenger vehicles. This new framework also provides incentives for cleaner fuels and technologies, including ethanol-powered vehicles.",
+      "background": "CAFE norms are standards that require automakers to achieve a certain average fuel economy across their fleet of vehicles sold in a given year. These norms are crucial for reducing fuel consumption, mitigating greenhouse gas emissions, and promoting the adoption of more energy-efficient and eco-friendly vehicle technologies.",
+      "examRelevance": "New CAFE norms = Corporate Average Fuel Economy, tighten fuel-efficiency targets for passenger vehicles.",
+      "tags": [
+        "CAFE Norms",
+        "Fuel Efficiency",
+        "Passenger Vehicles",
+        "Environment",
+        "Automobile Industry"
+      ],
+      "source": {
+        "title": "Centre notifies new CAFE norms, tightens fuel-efficiency targets for passenger vehicles",
+        "url": "https://www.thehindu.com/business/government-notifies-new-cafe-3-norms-for-passenger-vehicles/article71527012.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q10",
+      "question": "The Mayor of which city recently apologized for 'inconveniences' at the Asian Games 2026, citing challenges with managing over 17,000 athletes and officials?",
+      "options": [
+        "Nagoya",
+        "Busan",
+        "Hangzhou",
+        "Doha"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "The Mayor of Nagoya, the host city for the Asian Games 2026, recently issued an apology for 'inconveniences' experienced during the event. The Mayor cited the challenge of managing over 17,000 athletes and officials, a number larger than that of the Olympics, and acknowledged accusations of mismanagement from various countries.",
+      "background": "Hosting major international sporting events like the Asian Games involves immense logistical and organizational challenges. Issues related to accommodation, transport, and athlete facilities are common, and host cities often face scrutiny and criticism, necessitating such apologies to address concerns.",
+      "examRelevance": "Nagoya Mayor apologized for Asian Games 2026 'inconveniences'.",
+      "tags": [
+        "Asian Games 2026",
+        "Nagoya",
+        "Sports",
+        "Host City"
+      ],
+      "source": {
+        "title": "Nagoya Mayor says sorry for Asian Games 'inconveniences'",
+        "url": "https://www.thehindu.com/sport/nagoya-mayor-says-sorry-for-asian-games-inconveniences/article71527109.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q11",
+      "question": "The Maharashtra Chief Electoral Officer recently directed poll officials to accept voter documents on WhatsApp during the Special Intensive Revision (SIR) exercise. What is the extended deadline for claims and objections for this exercise?",
+      "options": [
+        "September 30",
+        "October 20",
+        "October 12",
+        "October 5"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Maharashtra's Chief Electoral Officer, S. Chockalingam, directed poll officials to accept voter documents via WhatsApp during the Special Intensive Revision (SIR) exercise. The deadline for submitting claims and objections for this exercise has been extended to October 12.",
+      "background": "The Special Intensive Revision (SIR) is an exercise undertaken by the Election Commission to update electoral rolls, ensuring accuracy and inclusivity. Allowing WhatsApp submissions aims to simplify the process for citizens, especially in rural or remote areas, and increase participation in the revision process.",
+      "examRelevance": "Maharashtra poll body = accept voter documents on WhatsApp for SIR, deadline extended to October 12.",
+      "tags": [
+        "Maharashtra",
+        "Electoral Rolls",
+        "WhatsApp",
+        "SIR",
+        "Election Commission"
+      ],
+      "source": {
+        "title": "Accept voter documents on WhatsApp, verify at homes if needed: Maharashtra poll body to BLOs",
+        "url": "https://www.thehindu.com/news/national/maharashtra/accept-voter-documents-on-whatsapp-verify-at-homes-if-needed-maharashtra-poll-body-to-blos/article71527107.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q12",
+      "question": "The Chettinad Heritage and Cultural Festival was recently held, aiming to revive and preserve the region's unique architecture, crafts, and traditions. In which Indian state is the Chettinad region located?",
+      "options": [
+        "Tamil Nadu",
+        "Kerala",
+        "Andhra Pradesh",
+        "Karnataka"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "The Chettinad Heritage and Cultural Festival was recently organized to showcase and revive the distinctive architecture, crafts, and traditions of the Chettinad region. The Chettinad region is located in the state of Tamil Nadu.",
+      "background": "Chettinad is renowned for its grand mansions, distinctive cuisine, and a rich cultural heritage shaped by the Nattukottai Chettiar community. Festivals like this play a vital role in drawing attention to and preserving these unique cultural assets, which are significant for tourism and local identity.",
+      "examRelevance": "Chettinad Heritage and Cultural Festival = held in Tamil Nadu.",
+      "tags": [
+        "Chettinad",
+        "Tamil Nadu",
+        "Heritage Festival",
+        "Culture",
+        "Architecture"
+      ],
+      "source": {
+        "title": "At the Chettinad Heritage and Cultural Festival, a revival takes root",
+        "url": "https://www.thehindu.com/society/at-the-chettinad-heritage-and-cultural-festival-a-revival-takes-root/article71519870.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q13",
+      "question": "Christa Pike is set to become the first woman executed by which U.S. state in two centuries, following the U.S. Supreme Court's rejection of a stay of execution?",
+      "options": [
+        "Texas",
+        "Florida",
+        "Tennessee",
+        "California"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Christa Pike is scheduled to be executed, which would make her the first woman executed by the U.S. state of Tennessee in two centuries. The U.S. Supreme Court rejected an eleventh-hour bid for a stay of execution.",
+      "background": "Capital punishment remains a contentious issue in the United States, with varying practices across states. This execution in Tennessee marks a significant and rare event, drawing attention to the state's judicial system and its history of capital punishment.",
+      "examRelevance": "Christa Pike = first woman executed by Tennessee in two centuries.",
+      "tags": [
+        "Christa Pike",
+        "Tennessee",
+        "Execution",
+        "US Supreme Court"
+      ],
+      "source": {
+        "title": "Christa Pike set to become first woman executed by Tennessee in two centuries",
+        "url": "https://www.thehindu.com/news/international/christa-pike-set-for-execution-as-tennessee-prepares-for-first-womans-death-in-two-centuries/article71526970.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q14",
+      "question": "The Ministry of Education is working on a national examination-grade computer-based testing (CBT) infrastructure strategy. This plan could pave the way for which major Indian entrance examination to move from pen-and-paper to online mode?",
+      "options": [
+        "UPSC Civil Services Exam",
+        "NEET-UG",
+        "JEE Advanced",
+        "CAT"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The Ministry of Education is developing a national examination-grade computer-based testing (CBT) infrastructure strategy. This initiative aims to address infrastructure and accessibility challenges, potentially enabling NEET-UG, India's largest undergraduate entrance examination, to transition from a pen-and-paper format to an online mode.",
+      "background": "Shifting large-scale examinations like NEET-UG to a computer-based format involves significant logistical planning, including ensuring widespread access to testing centers, standardizing facilities, and maintaining exam integrity. This move would align with global trends in examination delivery and potentially streamline the process for millions of students.",
+      "examRelevance": "Ministry of Education plans CBT infrastructure = NEET-UG may go online.",
+      "tags": [
+        "NEET-UG",
+        "CBT",
+        "Online Exam",
+        "Ministry of Education",
+        "Education Technology"
+      ],
+      "source": {
+        "title": "Centre plans online NEET infrastructure",
+        "url": "https://economictimes.indiatimes.com/industry/services/education/neet-ug-may-go-online-as-centre-works-on-national-exam-grade-cbt-infrastructure/articleshow/134583538.cms"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q15",
+      "question": "OpenAI recently unveiled its new AI models/agents at DevDay. Which of the following is one of the new AI agents showcased?",
+      "options": [
+        "Sentinel",
+        "Atlas",
+        "Dots",
+        "Nexus"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "OpenAI recently unveiled new AI models and 'Dots' AI agents at its DevDay event. Along with GPT-6.1 Sol, 'Dots' AI agents were showcased as part of OpenAI's advancements, offering always-on AI capabilities.",
+      "background": "OpenAI is a leading artificial intelligence research and deployment company known for its large language models like GPT series. DevDay is a key event where OpenAI announces its latest innovations, often impacting the broader AI industry and developer community.",
+      "examRelevance": "OpenAI unveiled GPT-6.1 Sol and 'Dots' AI agents at DevDay.",
+      "tags": [
+        "OpenAI",
+        "AI Agents",
+        "Dots",
+        "GPT-6.1 Sol",
+        "Artificial Intelligence"
+      ],
+      "source": {
+        "title": "OpenAI unveils GPT-6.1 Sol and ‘Dots’ AI agents at DevDay",
+        "url": "https://www.thehindu.com/sci-tech/technology/openai-unveils-gpt-61-sol-and-dots-ai-agents-at-devday/article71525534.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q16",
+      "question": "Former U.S. President Donald Trump recently released an AI accord. Which of the following tech companies was NOT listed as a signatory to this accord?",
+      "options": [
+        "Google",
+        "OpenAI",
+        "Meta",
+        "Amazon"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Former U.S. President Donald Trump released an AI accord, which was signed by him and the bosses of several major tech companies. The signatories included Google, Anthropic, Meta, OpenAI, social media platform X, and NVIDIA. Amazon was not listed as a signatory.",
+      "background": "The development and regulation of Artificial Intelligence have become a significant focus for governments and tech leaders globally. Such accords aim to establish principles or guidelines for the responsible development and deployment of AI technologies, often covering areas like safety, ethics, and innovation.",
+      "examRelevance": "Trump released AI accord = signed by Google, Anthropic, Meta, OpenAI, X, NVIDIA.",
+      "tags": [
+        "Donald Trump",
+        "AI Accord",
+        "Tech Executives",
+        "Artificial Intelligence",
+        "International"
+      ],
+      "source": {
+        "title": "Trump releases AI accord with tech executives",
+        "url": "https://www.thehindu.com/sci-tech/technology/trump-releases-ai-accord-with-tech-executives/article71525807.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q17",
+      "question": "The Election Commission of India (ECI) recently withdrew a separate declaration from Form 6 that was previously required during the Special Intensive Revision (SIR) exercise. This change applies to which category of states?",
+      "options": [
+        "All states and Union Territories",
+        "Only states with upcoming elections",
+        "States where the SIR exercise is already over",
+        "Only Union Territories"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Election Commission of India (ECI) has withdrawn the additional declaration from Form 6, which was required during the Special Intensive Revision (SIR) process. This rollback applies to states where the SIR exercise has already been completed.",
+      "background": "Form 6 is primarily used for new voter registrations. During the SIR, it was also used for re-enlisting voters who had been deleted. The additional declaration concerned mapping self or parents with electoral rolls from the previous SIR period, and its withdrawal aims to simplify the process where the revision is concluded.",
+      "examRelevance": "ECI withdrew SIR declaration from Form 6 in states where exercise is over.",
+      "tags": [
+        "Election Commission of India",
+        "Form 6",
+        "SIR",
+        "Voter Registration",
+        "Electoral Rolls"
+      ],
+      "source": {
+        "title": "EC reverts to allowing Form 6 submission without attached declaration in non-SIR States",
+        "url": "https://www.thehindu.com/news/national/ec-reverts-to-allowing-form-6-submission-without-attached-declaration-in-non-sir-states/article71525571.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q18",
+      "question": "Apple Pay has recently gone live in India, allowing iPhone users to make payments. Which bank's Visa and Mastercard cards are supported for this service at launch?",
+      "options": [
+        "ICICI Bank",
+        "HDFC Bank",
+        "State Bank of India",
+        "Axis Bank"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Apple Pay has officially launched in India, enabling iPhone users to make payments. At its launch, the service supports Axis Bank-issued Visa and Mastercard cards, allowing customers to add their eligible credit cards to the Apple Wallet via the Axis Bank app or the Wallet app on their iPhone.",
+      "background": "Apple Pay is a mobile payment and digital wallet service by Apple Inc. that allows users to make payments using an iPhone, Apple Watch, iPad, or Mac. Its launch in India signifies a major expansion in the digital payments landscape, offering a new contactless payment option.",
+      "examRelevance": "Apple Pay live in India = supports Axis Bank-issued Visa and Mastercard cards.",
+      "tags": [
+        "Apple Pay",
+        "India",
+        "Axis Bank",
+        "Digital Payments",
+        "FinTech"
+      ],
+      "source": {
+        "title": "Apple Pay goes live in India with Axis Bank-issued Visa and Mastercard cards",
+        "url": "https://www.thehindu.com/sci-tech/technology/apple-pay-goes-live-in-india-with-axis-bank-issued-visa-and-mastercard-cards/article71526771.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q19",
+      "question": "At the Asian Games 2026, Indian boxer Lovlina Borgohain reached the final, assuring India of at least a silver medal. Which other Indian boxer signed off with a bronze medal at the same event?",
+      "options": [
+        "Priya Ghanghas",
+        "Mary Kom",
+        "Nikhat Zareen",
+        "Simranjit Kaur"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "At the Asian Games 2026, Indian boxer Lovlina Borgohain made history by becoming the first Indian woman boxer to reach back-to-back Asian Games finals, thereby securing at least a silver medal for India. In the same event, boxer Priya Ghanghas signed off with a bronze medal.",
+      "background": "Indian boxing has seen significant success on the international stage, with women boxers consistently bringing home medals. Achievements at the Asian Games are crucial for athletes as they often serve as qualifiers or build momentum for bigger events like the Olympics.",
+      "examRelevance": "Asian Games 2026 Boxing = Lovlina Borgohain in final, Priya Ghanghas won bronze.",
+      "tags": [
+        "Asian Games 2026",
+        "Lovlina Borgohain",
+        "Priya Ghanghas",
+        "Boxing",
+        "Medal Winners"
+      ],
+      "source": {
+        "title": "Asian Games 2026: Lovlina to fight for gold, Priya signs off with bronze medal",
+        "url": "https://www.thehindu.com/sport/asian-games-2026-lovlina-to-fight-for-gold-priya-signs-off-with-bronze-medal/article71527076.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q20",
+      "question": "The Enforcement Directorate (ED) recently uncovered an illegal immigration syndicate in the 'Donkey Route' case, involving significant seizures of cash, gold, and silver. This syndicate primarily targeted Indian nationals seeking to illegally enter which country?",
+      "options": [
+        "United Kingdom",
+        "Australia",
+        "United States",
+        "Canada"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The Enforcement Directorate (ED) has exposed an illegal immigration syndicate, known as the 'Donkey Route' case, which involved human traffickers using fake visas to send Indian nationals abroad. The syndicate primarily targeted Indian nationals attempting to illegally enter the United States, leading to significant seizures of cash, gold, and silver by the ED.",
+      "background": "The 'Donkey Route' refers to illegal and often perilous methods used by individuals to cross international borders, typically involving multiple countries and agents. Investigations like this by the ED aim to dismantle such networks, seize illicit gains, and prevent further exploitation of individuals seeking to migrate.",
+      "examRelevance": "ED uncovered 'Donkey Route' case = illegal immigration to U.S., seized cash/gold/silver.",
+      "tags": [
+        "Donkey Route",
+        "ED",
+        "Illegal Immigration",
+        "Human Trafficking",
+        "United States"
+      ],
+      "source": {
+        "title": "ED seizes crores in cash, gold, and silver in ‘Donkey Route’ case",
+        "url": "https://www.thehindu.com/news/national/ed-seizes-crores-in-cash-gold-and-silver-in-donkey-route-case/article70415602.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q21",
+      "question": "According to a recent Moody’s Ratings report, India's fertility rate has fallen below replacement level. This demographic shift is projected to result in India having more elderly people later in which century?",
+      "options": [
+        "22nd century",
+        "19th century",
+        "20th century",
+        "21st century"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Moody’s Ratings recently reported that India’s fertility rate has fallen below replacement level, a global trend where the fertility rate has declined from 4.9 to about 2.2 children per woman since 1950. This demographic shift indicates that India will have a larger proportion of elderly people later in the 21st century.",
+      "background": "A declining fertility rate below replacement level (approximately 2.1 children per woman) signals a future aging population. This has significant economic and social implications, including potential labor shortages, increased pressure on social security and healthcare systems, and shifts in consumer demand.",
+      "examRelevance": "Moody's Ratings = India's fertility fell below replacement level, more elderly people in 21st century.",
+      "tags": [
+        "Moody's Ratings",
+        "India",
+        "Fertility Rate",
+        "Demographic Shift",
+        "Elderly Population"
+      ],
+      "source": {
+        "title": "India to have more elderly people later this century as fertility falls, age structure shifts: Moody’s",
+        "url": "https://www.thehindu.com/news/national/india-to-have-more-elderly-people-later-this-century-as-fertility-falls-age-structure-shifts-moodys/article71526967.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q22",
+      "question": "The U.S. State Department spokesperson recently announced a policy to impose visa restrictions on Indian travel agents. This measure is aimed at cutting off networks involved in facilitating what?",
+      "options": [
+        "Intellectual property theft",
+        "Tax evasion",
+        "Illegal immigration",
+        "Cybercrime"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The U.S. State Department spokesperson announced a new policy to impose visa restrictions on Indian travel agents. This measure is specifically aimed at cutting off 'alien smuggling networks' and applies globally, even to Visa Waiver Program qualifiers, in an effort to combat illegal immigration.",
+      "background": "Illegal immigration is a significant concern for many countries, including the U.S. Policies like these are implemented to deter human trafficking and illegal border crossings, often involving severe penalties for facilitators. This move highlights ongoing efforts to strengthen border security and immigration enforcement.",
+      "examRelevance": "U.S. to impose visa restrictions on Indian travel agents = facilitating illegal immigration.",
+      "tags": [
+        "US Visa Restrictions",
+        "Illegal Immigration",
+        "Travel Agents",
+        "Alien Smuggling",
+        "International Relations"
+      ],
+      "source": {
+        "title": "U.S. to impose visa restrictions on Indian travel agents who facilitate illegal immigration",
+        "url": "https://www.thehindu.com/news/national/us-to-impose-visa-restrictions-on-indian-travel-agents-who-facilitate-illegal-immigration/article69595077.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q23",
+      "question": "India's drug regulator recently issued a fresh warning to the public against the indiscriminate use of certain medicines. Which two categories of drugs were specifically mentioned due to their potential link with kidney disease if misused?",
+      "options": [
+        "Antivirals and Antifungals",
+        "Vitamins and Supplements",
+        "Painkillers (NSAIDs) and Antibiotics",
+        "Antacids and Antihistamines"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "India's drug regulator has issued a fresh warning urging the public not to take non-steroidal anti-inflammatory drugs (NSAIDs) or antibiotics indiscriminately, repeatedly, or for prolonged periods without medical advice. This warning highlights their potential link to kidney disease if misused.",
+      "background": "The misuse and overuse of medications, particularly antibiotics, contribute to antimicrobial resistance, a global health threat. Additionally, prolonged use of certain drugs like NSAIDs can have adverse effects on organs like the kidneys. Public health advisories are crucial for promoting responsible medication use.",
+      "examRelevance": "Drug regulator warning = indiscriminate use of Painkillers (NSAIDs) and Antibiotics linked to kidney disease.",
+      "tags": [
+        "Drug Regulator",
+        "NSAIDs",
+        "Antibiotics",
+        "Kidney Disease",
+        "Public Health"
+      ],
+      "source": {
+        "title": "Painkillers, antibiotics, and kidney disease: Why has drug regulator issued a fresh warning?",
+        "url": "https://www.thehindu.com/sci-tech/health/painkillers-antibiotics-and-kidney-disease-why-has-drug-regulator-issued-a-fresh-warning/article71523918.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q24",
+      "question": "The Supreme Court recently issued formal notices on a special leave petition challenging a Bombay High Court Division Bench’s judgment of acquittal in which high-profile encounter case?",
+      "options": [
+        "Sohrabuddin Shaikh encounter case",
+        "Jessica Lal murder case",
+        "Arushi Talwar murder case",
+        "Priyadarshini Mattoo murder case"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently issued formal notices on a special leave petition challenging a Bombay High Court Division Bench’s judgment of acquittal in the high-profile Sohrabuddin Shaikh encounter case. The petition focuses on aspects like hostile witnesses and trial fairness.",
+      "background": "The Sohrabuddin Shaikh encounter case has been a significant and contentious legal battle, involving allegations of extrajudicial killings and the involvement of high-ranking police officials and politicians. The Supreme Court's decision to re-examine the acquittals underscores the ongoing scrutiny of the justice delivery system in such sensitive cases.",
+      "examRelevance": "Supreme Court to examine acquittals = Sohrabuddin Shaikh encounter case.",
+      "tags": [
+        "Sohrabuddin Shaikh",
+        "Encounter Case",
+        "Supreme Court",
+        "Bombay High Court",
+        "Acquittal"
+      ],
+      "source": {
+        "title": "Sohrabuddin Shaikh’s encounter case: On Supreme Court’s call to examine the acquittals",
+        "url": "https://www.thehindu.com/news/national/sohrabuddin-shaikhs-encounter-case-on-supreme-courts-call-to-examine-the-acquittals/article71526881.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q25",
+      "question": "External Affairs Minister S. Jaishankar stated that a lack of understanding about cross-border terror concerns impacts bilateral ties. This remark was made in the context of India's relations with which country, amid warming Washington-Islamabad relations?",
+      "options": [
+        "China",
+        "United Kingdom",
+        "Russia",
+        "United States"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "External Affairs Minister S. Jaishankar stated that the lack of full appreciation by partners regarding India's primary concern of terrorism from Pakistan impacts bilateral ties. This remark was made in the context of India-U.S. relations, particularly amid warming Washington-Islamabad relations.",
+      "background": "India has consistently highlighted cross-border terrorism, particularly emanating from Pakistan, as a core national security concern. The EAM's statement underscores India's expectation for its strategic partners, including the U.S., to acknowledge and address these concerns more effectively, especially when engaging with countries perceived as supporting terrorism.",
+      "examRelevance": "EAM Jaishankar on India-U.S. relations = lack of understanding of cross-border terror impacts ties.",
+      "tags": [
+        "S. Jaishankar",
+        "India-US Relations",
+        "Cross-border Terrorism",
+        "Pakistan",
+        "Diplomacy"
+      ],
+      "source": {
+        "title": "Lack of understanding about cross-border terror concerns impacts bilateral ties: Jaishankar on India-U.S. relations",
+        "url": "https://www.thehindu.com/news/national/lack-of-understanding-about-cross-border-terror-concerns-impacts-bilateral-ties-jaishankar-on-india-us-relations/article71522626.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q26",
+      "question": "Which country recently retaliated by launching drones and firing ballistic missiles at Israel after alleged Israeli strikes on its nuclear program?",
+      "options": [
+        "Syria",
+        "Iran",
+        "Egypt",
+        "Lebanon"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Iran recently retaliated against alleged Israeli strikes on its nuclear program by launching drones and subsequently firing waves of ballistic missiles at Israel. Explosions were reported over Jerusalem and Tel Aviv.",
+      "background": "The Middle East remains a region of significant geopolitical tension, with long-standing rivalries and conflicts. This exchange of strikes between Iran and Israel marks a serious escalation, raising concerns about regional stability and the potential for a wider conflict.",
+      "examRelevance": "Iran retaliated against Israeli strikes = launched drones and ballistic missiles at Israel.",
+      "tags": [
+        "Iran",
+        "Israel",
+        "Middle East Conflict",
+        "Nuclear Program",
+        "Ballistic Missiles"
+      ],
+      "source": {
+        "title": "Iran retaliates after Israeli strikes its nuclear program; 3 killed, several wounded",
+        "url": "https://www.thehindu.com/news/international/iran-retaliates-after-israeli-strikes-its-nuclear-program-3-killed-several-wounded/article69693787.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q27",
+      "question": "A CISF constable recently gunned down four colleagues in a fratricide incident. This tragic event occurred at the Sewa-III hydroelectric power project in Mashka village, located in which Indian state/UT?",
+      "options": [
+        "Himachal Pradesh",
+        "Jammu & Kashmir",
+        "Uttarakhand",
+        "Arunachal Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "A CISF constable was involved in a fratricide incident, gunning down four colleagues at the Sewa-III hydroelectric power project. This incident took place at Mashka village in Basohli, Kathua district, located in Jammu & Kashmir, near the border with Himachal Pradesh.",
+      "background": "Incidents of fratricide within armed forces and paramilitary units are a serious concern, often attributed to stress, mental health issues, or personal conflicts. Such events prompt investigations into the well-being of personnel and the management of high-stress environments.",
+      "examRelevance": "CISF fratricide incident = four colleagues killed in Kathua, Jammu & Kashmir.",
+      "tags": [
+        "CISF",
+        "Fratricide",
+        "Kathua",
+        "Jammu & Kashmir",
+        "Sewa-III"
+      ],
+      "source": {
+        "title": "CISF constable guns down four colleagues in J&K’s Kathua",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/four-cisf-personnel-killed-in-fratricide-incident-in-kathua-accused-held/article71525156.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q28",
+      "question": "Japan has called on India to fast-track the internal process for an agreement on the transfer of technology for the UNICORN naval radar. This pact was signed during which Prime Minister's India visit in July?",
+      "options": [
+        "Sanae Takaichi",
+        "Shinzo Abe",
+        "Fumio Kishida",
+        "Yoshihide Suga"
+      ],
+      "answerIndex": 0,
+      "category": "Defence",
+      "explanation": "Japan has urged India to expedite its internal process regarding the UNICORN naval radar agreement, which involves the transfer of technology. This pact was initially signed during Japanese Prime Minister Sanae Takaichi’s visit to India in July.",
+      "background": "Defence cooperation, including technology transfer, is a growing aspect of India-Japan strategic partnership. Such agreements are vital for enhancing both nations' defence capabilities and fostering a stronger strategic alliance in the Indo-Pacific region.",
+      "examRelevance": "Japan calls on India to fast-track UNICORN naval radar agreement, signed during PM Sanae Takaichi's visit.",
+      "tags": [
+        "India-Japan",
+        "UNICORN Radar",
+        "Naval Technology",
+        "Defence Cooperation",
+        "Sanae Takaichi"
+      ],
+      "source": {
+        "title": "Japan calls on India to fast-track internal process on UNICORN naval radar agreement",
+        "url": "https://www.thehindu.com/news/national/japan-calls-on-india-to-fast-trackinternal-process-on-unicorn-naval-radar-agreement/article71524306.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q29",
+      "question": "The Bangalore Metropolitan Transport Corporation (BMTC) is set to introduce an automatic passenger counting system on 30 buses. This initiative is being implemented in which city?",
+      "options": [
+        "Mumbai",
+        "Bengaluru",
+        "Hyderabad",
+        "Chennai"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The Bangalore Metropolitan Transport Corporation (BMTC) is introducing an automatic passenger counting system on 30 of its buses in Bengaluru. This initiative aims to provide BMTC with a more detailed understanding of passenger demand across various routes and trips.",
+      "background": "Technological advancements in public transport systems are crucial for optimizing operations, improving efficiency, and enhancing passenger experience. Automatic passenger counting systems help in route planning, resource allocation, and identifying peak demand times, leading to better service delivery.",
+      "examRelevance": "BMTC to introduce automatic passenger counting system on 30 buses in Bengaluru.",
+      "tags": [
+        "BMTC",
+        "Bengaluru",
+        "Automatic Passenger Counting",
+        "Public Transport",
+        "Technology"
+      ],
+      "source": {
+        "title": "BMTC to introduce automatic passenger counting system on 30 buses in Bengaluru",
+        "url": "https://www.thehindu.com/news/national/karnataka/bmtc-to-introduce-automatic-passenger-counting-system-on-30-buses/article71523643.ece"
+      }
+    },
+    {
+      "id": "daily-2026-09-30-q30",
+      "question": "A senior Indian official recently led a delegation to Islamabad for an SCO preparatory meeting, marking the first such official visit since 'Operation Indoor'. What does SCO stand for?",
+      "options": [
+        "South Asian Cooperation Organization",
+        "Security Cooperation Outlook",
+        "Strategic Connectivity Organization",
+        "Shanghai Cooperation Organization"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "A senior Indian official recently led a team to Islamabad for a three-day preparatory meeting of the Shanghai Cooperation Organization (SCO). This visit marks the first official Indian delegation to Islamabad since 'Operation Indoor', indicating diplomatic engagement despite recent tensions.",
+      "background": "The Shanghai Cooperation Organization (SCO) is an Eurasian political, economic, and security alliance, with India and Pakistan as full members. Such preparatory meetings are essential for planning upcoming SCO summits and ensuring regional cooperation on various fronts, including security and economic development.",
+      "examRelevance": "Indian official visited Islamabad for Shanghai Cooperation Organization (SCO) preparatory meeting.",
+      "tags": [
+        "India-Pakistan",
+        "Islamabad",
+        "SCO",
+        "Shanghai Cooperation Organization",
+        "Diplomacy"
+      ],
+      "source": {
+        "title": "Days after India-Pakistan sparring at UN, senior Indian official visits Islamabad for SCO planning meet",
+        "url": "https://www.thehindu.com/news/national/days-after-india-pakistan-sparring-at-un-senior-indian-official-visits-islamabad-for-sco-planning-meet/article71525343.ece"
+      }
+    }
+  ]
+}
