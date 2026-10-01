@@ -1,0 +1,777 @@
+{
+  "id": "daily-2026-10-01",
+  "type": "daily",
+  "date": "2026-10-01",
+  "title": "Current Affairs — 01 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-01-q1",
+      "question": "Which Indian university is currently weighing options to develop an internship portal for its Four-Year Undergraduate Programme (FYUGP) students?",
+      "options": [
+        "University of Mumbai",
+        "Delhi University",
+        "University of Calicut",
+        "Jawaharlal Nehru University"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "The University of Calicut is weighing options to develop an internship portal specifically for students enrolled in its Four-Year Undergraduate Programme (FYUGP). This initiative aims to facilitate practical experience for students as part of their curriculum.",
+      "background": "The National Education Policy (NEP) 2020 promotes a flexible and multidisciplinary approach to higher education, including the introduction of Four-Year Undergraduate Programmes (FYUGP) that often integrate internships as a crucial component for skill development and career readiness.",
+      "examRelevance": "University of Calicut is considering an internship portal for FYUGP students.",
+      "tags": [
+        "Calicut University",
+        "FYUGP",
+        "Internship Portal",
+        "Kerala"
+      ],
+      "source": {
+        "title": "Internship portal for FYUGP students: Calicut varsity weighs options",
+        "url": "https://www.thehindu.com/news/national/kerala/internship-portal-for-fyugp-students-calicut-varsity-weighs-options/article71528560.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q2",
+      "question": "What medal did the Indian women's squash team win at the Asian Games 2026?",
+      "options": [
+        "Silver",
+        "Bronze",
+        "No medal",
+        "Gold"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "The Indian women's squash team secured a bronze medal at the Asian Games 2026. This achievement contributes to India's overall medal tally at the prestigious multi-sport event.",
+      "background": "The Asian Games are a continental multi-sport event held every four years among athletes from all over Asia. Squash is a regular event at the Asian Games, with India consistently performing well in both individual and team categories.",
+      "examRelevance": "Indian women's squash team won bronze at Asian Games 2026.",
+      "tags": [
+        "Asian Games 2026",
+        "Squash",
+        "Women's Team",
+        "Bronze Medal"
+      ],
+      "source": {
+        "title": "Asian Games 2026 LIVE: India thrash Sri Lanka by 124 runs to storm into final",
+        "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-30-2026/article71530982.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q3",
+      "question": "India defeated which team by 124 runs to storm into the men's cricket final at the Asian Games 2026?",
+      "options": [
+        "Sri Lanka",
+        "Bangladesh",
+        "Afghanistan",
+        "Pakistan"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "The Indian men's cricket team defeated Sri Lanka by a margin of 124 runs in the semifinal to secure their place in the final of the Asian Games 2026.",
+      "background": "Cricket was reintroduced into the Asian Games program in 2010. India's participation in cricket at the Asian Games has seen them field strong teams, often aiming for gold, reflecting the sport's popularity and competitive edge in the region.",
+      "examRelevance": "India men's cricket team defeated Sri Lanka by 124 runs to enter Asian Games 2026 final.",
+      "tags": [
+        "Asian Games 2026",
+        "Cricket",
+        "Men's Team",
+        "Semifinal"
+      ],
+      "source": {
+        "title": "Asian Games 2026 LIVE: India thrash Sri Lanka by 124 runs to storm into final",
+        "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-30-2026/article71530982.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q4",
+      "question": "Who won a bronze medal in men's individual compound archery at the Asian Games 2026?",
+      "options": [
+        "Ganesh Mani Ratnam Thirumuru",
+        "Ojas Pravin Deotale",
+        "Prathamesh Samadhan Jawkar",
+        "Abhishek Verma"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Ganesh Mani Ratnam Thirumuru secured a bronze medal in the men's individual compound archery event at the Asian Games 2026. He defeated Vietnam's Cong Duc Dang with a score of 149-144 in the bronze medal playoff.",
+      "background": "Ganesh Mani Ratnam Thirumuru was also part of the gold-winning men's team in compound archery at the same Asian Games. Archery is a sport where India has consistently excelled, particularly in compound events, bringing home multiple medals in recent international competitions.",
+      "examRelevance": "Ganesh Mani Ratnam Thirumuru won bronze in men's individual compound archery at Asian Games 2026.",
+      "tags": [
+        "Asian Games 2026",
+        "Archery",
+        "Ganesh Mani Ratnam Thirumuru",
+        "Bronze Medal"
+      ],
+      "source": {
+        "title": "Asian Games: Ganesh wins bronze in men's individual compound archery",
+        "url": "https://www.thehindu.com/sport/asian-games-ganesh-wins-bronze-in-mens-individual-compound-archery/article71531772.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q5",
+      "question": "What was the Goods and Services Tax (GST) collection in September 2026?",
+      "options": [
+        "₹1.92 lakh crore",
+        "₹1.85 lakh crore",
+        "₹2.15 lakh crore",
+        "₹2.03 lakh crore"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Goods and Services Tax (GST) mop-up in September 2026 grew by 14.7% year-on-year, reaching over ₹2.03 lakh crore. However, GST refunds slowed to ₹27,001 crore, a 3% decline year-on-year.",
+      "background": "GST is an indirect tax (or consumption tax) used in India on the supply of goods and services. It is a comprehensive, multi-stage, destination-based tax: comprehensive because it has subsumed almost all the indirect taxes except a few state taxes. Its collections are a key indicator of economic activity.",
+      "examRelevance": "GST collection in September 2026 was over ₹2.03 lakh crore, a 14.7% growth.",
+      "tags": [
+        "GST",
+        "Tax Collection",
+        "September 2026",
+        "Economy"
+      ],
+      "source": {
+        "title": "GST mop-up grows 14.7% to over ₹2.03 lakh crore in September 2026",
+        "url": "https://www.thehindu.com/business/Economy/gst-collections-september-2026/article71531826.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q6",
+      "question": "Where did Tamil Nadu's first booth-less toll system become operational?",
+      "options": [
+        "Madurai",
+        "Paranur",
+        "Coimbatore",
+        "Chennai"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "Tamil Nadu's first booth-less toll system has become operational at Paranur. This system allows vehicles equipped with FASTag cards or exempt tags to pass through without stopping, as their tags are scanned ahead of the plaza point.",
+      "background": "The implementation of booth-less toll systems aims to reduce traffic congestion and waiting times at toll plazas, promoting smoother and more efficient travel on national highways. FASTag, an electronic toll collection system, is integral to such initiatives.",
+      "examRelevance": "Tamil Nadu's first booth-less toll system is operational at Paranur.",
+      "tags": [
+        "Tamil Nadu",
+        "Booth-less Toll",
+        "Paranur",
+        "FASTag",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "Tamil Nadu’s first booth-less toll system becomes operational at Paranur",
+        "url": "https://www.thehindu.com/news/cities/chennai/tns-first-booth-less-toll-system-becomes-operational-at-paranur/article71529979.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q7",
+      "question": "How many Indian school students recently visited CERN for their subatomic ambitions?",
+      "options": [
+        "Five",
+        "Three",
+        "Two",
+        "Ten"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Five Indian school students recently had the opportunity to visit CERN, the European Organization for Nuclear Research, as part of their pursuit of subatomic ambitions. They reportedly spent several hours daily preparing for the competition that led to this visit.",
+      "background": "CERN is one of the world's largest and most respected centres for scientific research, particularly in particle physics. Opportunities for students to visit CERN often arise from competitive programs designed to foster interest in science and engineering among young minds.",
+      "examRelevance": "Five Indian school students visited CERN.",
+      "tags": [
+        "CERN",
+        "Indian Students",
+        "Science Education",
+        "Subatomic Research"
+      ],
+      "source": {
+        "title": "Subatomic ambitions take five Indian school students to CERN",
+        "url": "https://www.thehindu.com/sci-tech/science/subatomic-ambitions-take-five-indian-school-students-to-cern/article71528053.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q8",
+      "question": "Which company recently launched its Galaxy Tab S12 Ultra and Tab S12+ in India?",
+      "options": [
+        "Samsung",
+        "Apple",
+        "Xiaomi",
+        "Lenovo"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Samsung recently launched its new tablet models, the Galaxy Tab S12 Ultra and Tab S12+, in India. These devices operate on One UI 9.0, which is based on Android 17, and are promised up to seven OS upgrades and security updates.",
+      "background": "Samsung is a leading global manufacturer of electronics, including smartphones, tablets, and other consumer devices. Their Galaxy Tab series is a prominent line of Android tablets, offering various models for different market segments.",
+      "examRelevance": "Samsung launched Galaxy Tab S12 Ultra and Tab S12+ in India.",
+      "tags": [
+        "Samsung",
+        "Galaxy Tab S12 Ultra",
+        "Galaxy Tab S12+",
+        "Android 17",
+        "Tablets"
+      ],
+      "source": {
+        "title": "Samsung launches Galaxy Tab S12 Ultra and Tab S12+ in India",
+        "url": "https://www.thehindu.com/sci-tech/technology/gadgets/samsung-laundches-galaxy-tab-s12-ultra-and-tab-s12-in-india/article71531807.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q9",
+      "question": "Who is referred to as 'Indian archery's latest golden girl' after winning double gold?",
+      "options": [
+        "Chikitha Taniparthi",
+        "Vennam Jyothi",
+        "Aditi Gopichand Swami",
+        "Jyothi Surekha Vennam"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Chikitha Taniparthi has been hailed as 'Indian archery's latest golden girl' after winning double gold in compound archery. Her journey, which began in a backyard, culminated in this significant achievement in Japan.",
+      "background": "Indian archery has seen a surge in talent and international recognition, with many young archers achieving success in global competitions like the Asian Games. Compound archery, in particular, has been a strong suit for India.",
+      "examRelevance": "Chikitha Taniparthi won double gold in compound archery.",
+      "tags": [
+        "Chikitha Taniparthi",
+        "Archery",
+        "Double Gold",
+        "Asian Games"
+      ],
+      "source": {
+        "title": "Too shy for stardom, too good to ignore: Meet Chikitha Taniparthi, Indian archery’s latest golden girl",
+        "url": "https://www.thehindu.com/sport/other-sports/chikitha-taniparthi-2026-asian-games-gold-compound-archery-la-2028-olympics-profile-bio/article71530197.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q10",
+      "question": "According to the PMI, India's manufacturing sector growth reached a seven-month high in which month of 2026?",
+      "options": [
+        "August",
+        "October",
+        "July",
+        "September"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "India's manufacturing sector growth reached a seven-month high in September 2026, driven by strong demand across various sectors including electronics, food, pharma, and textiles. The Purchasing Managers' Index (PMI) indicated that total sales growth was at its highest level since February.",
+      "background": "The Manufacturing PMI is an indicator of the economic health of the manufacturing sector. It is based on five major indicators: new orders, inventory levels, production, supplier deliveries, and the employment environment. A reading above 50 indicates expansion.",
+      "examRelevance": "India's manufacturing sector growth hit a seven-month high in September 2026 as per PMI.",
+      "tags": [
+        "Manufacturing Sector",
+        "PMI",
+        "September 2026",
+        "Economic Growth"
+      ],
+      "source": {
+        "title": "India's manufacturing sector growth hits seven-month high in Sept. 2026 on strong demand: PMI",
+        "url": "https://www.thehindu.com/business/Economy/indias-manufacturing-sector-growth-september-2026-strong-demand-pmi/article71531702.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q11",
+      "question": "Which company recently launched its AI model, Gemini 4 Argon, to a select group?",
+      "options": [
+        "Amazon",
+        "Google",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Google recently launched its new AI model, Gemini 4 Argon, to a select group of users. This model is specifically designed to refuse requests that could facilitate cyberattacks or the development of chemical, biological, or nuclear weapons, emphasizing safety concerns.",
+      "background": "Gemini is a family of multimodal large language models developed by Google AI. The launch of specific versions like Gemini 4 Argon to select groups often signifies advanced capabilities and a focus on specialized applications, with safety and ethical considerations being paramount in AI development.",
+      "examRelevance": "Google launched its AI model Gemini 4 Argon.",
+      "tags": [
+        "Google",
+        "Gemini 4 Argon",
+        "AI Model",
+        "Artificial Intelligence"
+      ],
+      "source": {
+        "title": "Google launches Gemini 4 Argon to a select group",
+        "url": "https://www.thehindu.com/sci-tech/technology/google-restricts-access-to-new-ai-model-over-safety-concerns/article71530282.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q12",
+      "question": "On September 30, which body relaxed the framework for redesigned 'Gen-2' joined green crackers, subject to NEERI’s conditions?",
+      "options": [
+        "Supreme Court",
+        "National Green Tribunal",
+        "Ministry of Environment, Forest and Climate Change",
+        "Central Pollution Control Board"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "On September 30, the Supreme Court issued an order relaxing the framework for a redesigned version of the 'Gen-2' joined green cracker. This relaxation is subject to specific conditions set by the National Environmental Engineering Research Institute (NEERI).",
+      "background": "The Supreme Court has been actively involved in regulating the production and sale of firecrackers to combat air pollution, especially during festive seasons. The concept of 'green crackers' emerged as an alternative to conventional crackers, aiming to reduce emissions and harmful pollutants, with NEERI playing a key role in their formulation and testing.",
+      "examRelevance": "Supreme Court relaxed framework for 'Gen-2' joined green crackers on Sept 30.",
+      "tags": [
+        "Supreme Court",
+        "Green Crackers",
+        "Gen-2",
+        "NEERI",
+        "Environment"
+      ],
+      "source": {
+        "title": "Gen-2 joined green crackers | Explained",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-allows-limited-conditional-release-of-gen-2-green-crackers-neeri/article71531674.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q13",
+      "question": "Which High Court recently took up a suo motu Public Interest Litigation (PIL) for the removal of caste appellations from names of streets, roads, and localities in Tamil Nadu?",
+      "options": [
+        "Bombay High Court",
+        "Kerala High Court",
+        "Madras High Court",
+        "Andhra Pradesh High Court"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Madras High Court, led by Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan, recently initiated a suo motu Public Interest Litigation (PIL) concerning the removal of caste appellations from the names of streets, roads, and localities across Tamil Nadu. The court has requested a status report on the appellations that have been removed and those that are yet to be removed.",
+      "background": "The practice of naming public places after caste groups has been a subject of debate in India, often seen as perpetuating caste-based distinctions and hindering social cohesion. Courts have, at times, intervened to promote a more inclusive public sphere by addressing such issues.",
+      "examRelevance": "Madras High Court took suo motu PIL for removal of caste appellations from street names in Tamil Nadu.",
+      "tags": [
+        "Madras High Court",
+        "PIL",
+        "Caste Appellations",
+        "Tamil Nadu",
+        "Social Reform"
+      ],
+      "source": {
+        "title": "Madras High Court takes up suo motu PIL for removal of caste appellations from names of streets, roads, and localities in Tamil Nadu",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-takes-up-suo-motu-pil-for-removal-of-caste-appellations-from-names-of-streets-roads-and-localities-in-tamil-nadu/article71531578.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q14",
+      "question": "Which High Court recently ruled that draft electoral rolls cannot be the basis for deleting names without a hearing?",
+      "options": [
+        "Bombay High Court at Goa",
+        "Allahabad High Court",
+        "Karnataka High Court",
+        "Calcutta High Court"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Bombay High Court at Goa recently stated that draft electoral rolls cannot serve as a basis for deleting names of voters without providing them an opportunity for a hearing. The Goa Bench expressed perturbation and questioned the Election Commission of India (ECI) on provisions empowering such deletions.",
+      "background": "The electoral roll revision process is crucial for maintaining the accuracy of voter lists. Due process, including the right to be heard, is a fundamental principle in administrative law, especially when it involves citizens' rights like voting. The ECI's procedures for additions, deletions, and modifications to electoral rolls are subject to judicial scrutiny to ensure fairness and transparency.",
+      "examRelevance": "Bombay High Court at Goa ruled draft electoral rolls cannot delete names without hearing.",
+      "tags": [
+        "Bombay High Court",
+        "Goa",
+        "Electoral Rolls",
+        "Election Commission",
+        "Voter Deletion"
+      ],
+      "source": {
+        "title": "‘Very perturbed’, draft electoral roll cannot be basis for deleting names without hearing: Bombay HC at Goa",
+        "url": "https://www.thehindu.com/news/national/goa/bomaby-hc-rules-draft-electoral-roll-cannot-delete-names-without-hearing/article71531689.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q15",
+      "question": "What is the new price of Aviation Turbine Fuel (ATF) per litre after the recent increase?",
+      "options": [
+        "₹137 per litre",
+        "₹145 per litre",
+        "₹121 per litre",
+        "₹115 per litre"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Aviation Turbine Fuel (ATF) prices have recently increased by approximately ₹16 per litre, moving from ₹121 per litre to ₹137 per litre. This marks a significant hike following previous increases in August and September.",
+      "background": "ATF prices are crucial for the aviation industry, as they directly impact operating costs for airlines. Fluctuations in crude oil prices and currency exchange rates are primary factors influencing ATF price revisions, which are typically announced by oil marketing companies on a fortnightly or monthly basis.",
+      "examRelevance": "New ATF price is ₹137 per litre after a ₹16 increase.",
+      "tags": [
+        "ATF",
+        "Fuel Price",
+        "Aviation",
+        "Economy"
+      ],
+      "source": {
+        "title": "ATF prices increased by around ₹16 from ₹121 per litre to ₹137 per litre",
+        "url": "https://www.thehindu.com/business/Industry/atf-prices-increased-by-around-16-from-121-per-litre-to-137-per-litre/article71531663.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q16",
+      "question": "Which US President recently replaced 'Artificial Intelligence' with 'Super Intelligence' in an executive order?",
+      "options": [
+        "Donald Trump",
+        "George W. Bush",
+        "Joe Biden",
+        "Barack Obama"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "U.S. President Donald Trump formally replaced the term 'Artificial Intelligence' with 'Super Intelligence' in a recent executive order. He justified this change by citing the 'promise, potential, and rapidly advancing capabilities' of AI technologies.",
+      "background": "Executive orders are directives issued by the President of the United States that manage operations of the federal government. Changes in terminology like this can reflect a shift in policy focus or a rhetorical emphasis on the advanced potential of emerging technologies, even if the underlying regulatory framework remains largely consistent.",
+      "examRelevance": "US President Donald Trump replaced 'Artificial Intelligence' with 'Super Intelligence' in an executive order.",
+      "tags": [
+        "Donald Trump",
+        "Super Intelligence",
+        "Artificial Intelligence",
+        "Executive Order",
+        "US Policy"
+      ],
+      "source": {
+        "title": "Trump formally replaces ‘Artificial Intelligence’ with ’Super Intelligence’ in an executive order",
+        "url": "https://www.thehindu.com/sci-tech/technology/trump-formally-replaces-artificial-intelligence-with-super-intelligence-in-an-executive-order/article71531394.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q17",
+      "question": "The Centre recently approved a ₹93.94 crore project for the redevelopment of Maharaja Ajj Sarovar in which state?",
+      "options": [
+        "Uttar Pradesh",
+        "Rajasthan",
+        "Haryana",
+        "Punjab"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Centre has approved a project worth ₹93.94 crore for the redevelopment of Maharaja Ajj Sarovar, located in Kharar, Punjab. This approval followed several rounds of consultations between the Punjab government and the Union government.",
+      "background": "Such redevelopment projects often fall under national tourism or heritage conservation initiatives, aiming to boost local tourism, preserve historical sites, and enhance public amenities. Kharar is a town in the Mohali district of Punjab, known for its historical and cultural significance.",
+      "examRelevance": "Centre approved ₹93.94 crore for redevelopment of Maharaja Ajj Sarovar in Kharar, Punjab.",
+      "tags": [
+        "Maharaja Ajj Sarovar",
+        "Kharar",
+        "Punjab",
+        "Redevelopment Project",
+        "Central Government"
+      ],
+      "source": {
+        "title": "Centre approves ₹93.94 crore project to redevelop Maharaja Ajj Sarovar in Punjab’s Kharar",
+        "url": "https://www.thehindu.com/news/national/punjab/union-tourism-ministry-approves-9394-crore-for-redeveloping-maharaja-ajj-sarovar-in-kharar/article71528960.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q18",
+      "question": "Who is the current Punjab Congress chief who is set to quit his post?",
+      "options": [
+        "Raja Warring",
+        "Navjot Singh Sidhu",
+        "Amarinder Singh",
+        "Vijay Inder Singla"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Raja Warring, the current chief of the Punjab Congress, is set to quit his post. Vijay Inder Singla is reportedly a frontrunner to succeed him.",
+      "background": "Leadership changes in state political parties are common, especially in the run-up to elections or following electoral outcomes. The Punjab Congress has seen several leadership shifts in recent years as it navigates the state's political landscape.",
+      "examRelevance": "Raja Warring is the Punjab Congress chief set to quit.",
+      "tags": [
+        "Raja Warring",
+        "Punjab Congress",
+        "Political Appointment",
+        "Vijay Inder Singla"
+      ],
+      "source": {
+        "title": "Punjab Congress chief Warring set to quit, Vijay Inder Singla frontrunner for post",
+        "url": "https://www.thehindu.com/news/national/punjab/punjab-congress-chief-resignation/article71531181.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q19",
+      "question": "With whom did Union Minister Piyush Goyal recently hold discussions regarding an early conclusion of a trade deal?",
+      "options": [
+        "Sarah Greer",
+        "Katherine Tai",
+        "Janet Yellen",
+        "Gina Raimondo"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Union Minister Piyush Goyal held a productive discussion with USTR Sarah Greer regarding the early conclusion of a trade deal. This meeting coincided with a telephone conversation between Prime Minister Narendra Modi and US President Donald Trump to review progress in bilateral cooperation.",
+      "background": "The Office of the United States Trade Representative (USTR) is responsible for developing and coordinating U.S. international trade, commodity, and direct investment policy, and overseeing negotiations with other countries. India and the US have been engaged in discussions for a comprehensive trade deal to boost economic ties.",
+      "examRelevance": "Piyush Goyal discussed trade deal with USTR Sarah Greer.",
+      "tags": [
+        "Piyush Goyal",
+        "USTR Sarah Greer",
+        "Trade Deal",
+        "India-US Relations"
+      ],
+      "source": {
+        "title": "Productive discussion with USTR Greer on early conclusion of trade deal: Goyal",
+        "url": "https://www.thehindu.com/business/Economy/productive-discussion-with-ustr-greer-on-early-conclusion-of-trade-deal-goyal/article71531414.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q20",
+      "question": "Which company recently unveiled a 60-tonne Electric Dump Truck for mining operations?",
+      "options": [
+        "Mahindra & Mahindra",
+        "BEML",
+        "Tata Motors",
+        "Ashok Leyland"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "BEML (Bharat Earth Movers Limited) recently unveiled its 60-tonne Electric Dump Truck, designated BH60-EV, designed for mining operations. This new model expands BEML’s growing portfolio of electric vehicles, following the launch of its 35-ton Electric Dump Truck earlier on April 10.",
+      "background": "BEML is an Indian public sector undertaking that manufactures a variety of heavy equipment, including those for mining, construction, and defence. The development of electric vehicles in the heavy machinery sector is a step towards sustainable mining practices and reducing carbon emissions in industrial operations.",
+      "examRelevance": "BEML unveiled a 60-tonne Electric Dump Truck (BH60-EV) for mining.",
+      "tags": [
+        "BEML",
+        "Electric Dump Truck",
+        "Mining",
+        "BH60-EV",
+        "Electric Vehicles"
+      ],
+      "source": {
+        "title": "BEML unveils 60-tonne Electric Dump Truck for mining operations",
+        "url": "https://www.thehindu.com/news/national/karnataka/beml-mysuru-unveils-60-tonne-electric-dump-truck-for-mining-operations/article71529632.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q21",
+      "question": "Which Indian pilot was recently praised by President Murmu and PM Modi for saving a flydubai flight from a crash?",
+      "options": [
+        "Captain Anil Singh",
+        "Captain Rajesh Kumar",
+        "Captain Smit Machchhar",
+        "Captain Pooja Sharma"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Indian pilot Captain Smit Machchhar was praised by President Droupadi Murmu and Prime Minister Narendra Modi for his heroic actions in saving a flydubai flight, bound for Israel, from a crash. He is credited with saving the lives of 174 people onboard when the co-pilot allegedly attempted to crash the plane.",
+      "background": "The incident involved an altercation in the cockpit of a flydubai flight from Dubai to Tel Aviv, where the co-pilot allegedly stabbed the pilot and attempted to crash the aircraft. Captain Machchhar's quick thinking and bravery averted a major disaster, leading to widespread recognition and commendation.",
+      "examRelevance": "Captain Smit Machchhar was praised by President Murmu and PM Modi for saving a flydubai flight.",
+      "tags": [
+        "Smit Machchhar",
+        "Flydubai",
+        "Pilot",
+        "Heroism",
+        "National Recognition"
+      ],
+      "source": {
+        "title": "President Murmu, PM Modi praise Indian pilot Smit Machchhar for saving Israel-bound flight from crash",
+        "url": "https://www.thehindu.com/news/national/president-murmu-pm-modi-praise-indian-pilot-smit-machchhar-for-saving-flydubai-flight-from-crash/article71531524.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q22",
+      "question": "Union Minister Nitin Gadkari recently announced a ₹1,176 crore six-lane bridge project over which river?",
+      "options": [
+        "Yamuna",
+        "Ganga",
+        "Brahmaputra",
+        "Teesta"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Union Minister Nitin Gadkari announced a ₹1,176 crore project for a six-lane bridge over the Teesta river. This bridge will be built on National Highway 10 and is intended to connect North East Sikkim with the Siliguri corridor.",
+      "background": "Nitin Gadkari is the Union Minister for Road Transport and Highways. Infrastructure projects like this bridge are crucial for improving connectivity, especially in challenging terrains like the North East, fostering economic development and facilitating movement of goods and people across regions.",
+      "examRelevance": "Nitin Gadkari announced ₹1,176 crore six-lane bridge project over Teesta river on NH-10.",
+      "tags": [
+        "Nitin Gadkari",
+        "Teesta River",
+        "Bridge Project",
+        "NH-10",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "Gadkari announes new Rs 1,176 crore bridge project",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/roadways/nitin-gadkari-says-rs-1176-crore-six-lane-bridge-will-be-built-on-nh-10-over-teesta-river-connecting-north-east-sikkim-and-siliguri-corridor/articleshow/134608965.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q23",
+      "question": "Which messaging platform recently introduced new parental controls for teens?",
+      "options": [
+        "Snapchat",
+        "WhatsApp",
+        "Telegram",
+        "Signal"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "WhatsApp recently introduced new parental controls designed for teens. These controls allow parents to track teen group activity, manage privacy settings, and limit Meta AI interactions without having access to their children's private chats.",
+      "background": "As digital communication platforms become integral to daily life, concerns about online safety for minors have increased. Parental control features are developed by tech companies to address these concerns, offering tools for parents to monitor and guide their children's online interactions while maintaining a degree of privacy.",
+      "examRelevance": "WhatsApp introduced new parental controls for teens.",
+      "tags": [
+        "WhatsApp",
+        "Parental Controls",
+        "Teens",
+        "Online Safety",
+        "Meta AI"
+      ],
+      "source": {
+        "title": "WhatsApp introduces parental controls for teens",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/whatsapp-changes-for-parents-new-controls-let-you-track-teen-group-activity-manage-privacy-settings-limit-meta-ai-without-seeing-chats/articleshow/134609337.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q24",
+      "question": "Who is the Chief Electoral Officer of Odisha who recently applied for voluntary retirement?",
+      "options": [
+        "Sushil Chandra",
+        "Rajiv Kumar",
+        "R. S. Gopalan",
+        "Om Prakash"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "R. S. Gopalan, the Chief Electoral Officer (CEO) of Odisha, recently applied for voluntary retirement (VRS). He cited personal reasons for his application, clarifying that it is unrelated to the Special Summary Revision (SIR) process.",
+      "background": "The Chief Electoral Officer (CEO) in each state is responsible for supervising the election work in the state, under the overall superintendence, direction, and control of the Election Commission of India. A CEO's application for VRS, especially during or after a significant electoral process like SIR, can be noteworthy for state administration.",
+      "examRelevance": "R. S. Gopalan, Odisha's CEO, applied for voluntary retirement.",
+      "tags": [
+        "R. S. Gopalan",
+        "Odisha",
+        "Chief Electoral Officer",
+        "VRS",
+        "Polity"
+      ],
+      "source": {
+        "title": "Soon after SIR, Odisha’s Chief Electoral Officer applies for voluntary retirement",
+        "url": "https://www.thehindu.com/news/national/odisha/soon-after-sir-odishas-chief-electoral-officer-applies-vrs/article71531376.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q25",
+      "question": "Who has been appointed as the next MD & CEO of Kotak Mahindra Bank, with RBI clearance?",
+      "options": [
+        "Uday Kotak",
+        "C. Jayaram",
+        "Anup Kumar Saha",
+        "Dipak Gupta"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Anup Kumar Saha has been appointed as the next Managing Director & CEO of Kotak Mahindra Bank, following clearance from the Reserve Bank of India (RBI). Saha joined the bank in January 2026 and currently serves as Whole-time Director (Executive Director), overseeing Retail Bank, Data Analytics, and Marketing functions.",
+      "background": "The Reserve Bank of India plays a crucial role in regulating the appointment of key managerial personnel in private sector banks to ensure good governance and financial stability. Kotak Mahindra Bank is one of India's leading private sector banks, and such appointments are significant for its strategic direction and market position.",
+      "examRelevance": "Anup Kumar Saha appointed next MD & CEO of Kotak Mahindra Bank.",
+      "tags": [
+        "Anup Kumar Saha",
+        "Kotak Mahindra Bank",
+        "MD & CEO",
+        "RBI",
+        "Appointments"
+      ],
+      "source": {
+        "title": "Anup Kumar Saha to be next MD & CEO of Kotak Mahindra Bank; RBI clears appointment",
+        "url": "https://www.thehindu.com/business/anup-kumar-saha-to-be-next-md-ceo-of-kotak-mahindra-bank-rbi-clears-appointment/article71531423.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q26",
+      "question": "Which Indian entity recently released new guidelines for Indian and foreign hosted-payloads?",
+      "options": [
+        "DRDO",
+        "IN-SPACe",
+        "ISRO",
+        "Department of Space"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "IN-SPACe recently released new guidelines pertaining to Indian and foreign hosted-payloads. These guidelines detail the authorization rules for both Indian and foreign entities, covering aspects like security, ITU filings, and broader regulatory compliance for space activities.",
+      "background": "IN-SPACe (Indian National Space Promotion and Authorisation Centre) is an autonomous agency of the Government of India responsible for promoting, authorizing, and supervising space activities by non-governmental private entities and PSUs in India. Its guidelines are crucial for regulating the growing private sector participation in India's space economy.",
+      "examRelevance": "IN-SPACe released new guidelines for Indian and foreign hosted-payloads.",
+      "tags": [
+        "IN-SPACe",
+        "Hosted-Payloads",
+        "Space Policy",
+        "Guidelines",
+        "Space Tech"
+      ],
+      "source": {
+        "title": "What are the new guidelines set by IN-SPACe for Indian and foreign hosted-payloads? | Explained",
+        "url": "https://www.thehindu.com/sci-tech/science/new-guidelines-set-by-in-space-for-indian-and-foreign-hosted-payloads-explained/article71528617.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q27",
+      "question": "Which Indian city recently honoured shooter Rudrankksh Patil for his Asian Games medals?",
+      "options": [
+        "Mumbai",
+        "Thane",
+        "Nagpur",
+        "Pune"
+      ],
+      "answerIndex": 1,
+      "category": "Awards & Honours",
+      "explanation": "The Thane Municipal Corporation recently honored shooter Rudrankksh Patil for his achievements, specifically his medals won at the Asian Games. Patil expressed satisfaction with his performance despite preparations not going as planned.",
+      "background": "Rudrankksh Patil is a prominent Indian shooter who has achieved success in international competitions. Public felicitations by municipal bodies like Thane Municipal Corporation are common ways to recognize and encourage athletes for bringing glory to their region and country.",
+      "examRelevance": "Thane honoured shooter Rudrankksh Patil for Asian Games medals.",
+      "tags": [
+        "Rudrankksh Patil",
+        "Thane",
+        "Asian Games",
+        "Shooting",
+        "Awards"
+      ],
+      "source": {
+        "title": "Thane honours shooter Rudrankksh Patil for Asian Games medals",
+        "url": "https://www.thehindu.com/news/national/maharashtra/shooter-patil-gets-thane-municipal-corporation-reception-after-asian-games-medals/article71529367.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q28",
+      "question": "Which mutual fund recently saw its stake in Swiggy cross 5%?",
+      "options": [
+        "HDFC Mutual Fund",
+        "SBI Mutual Fund",
+        "Axis Mutual Fund",
+        "ICICI Prudential Mutual Fund"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "SBI Mutual Fund's stake in the food delivery platform Swiggy recently crossed the 5% threshold. This increase in stake reflects SBI Mutual Fund's investment strategy in the growing Indian startup and digital economy sector.",
+      "background": "Swiggy is one of India's largest online food delivery and quick commerce platforms. Investments by major institutional investors like SBI Mutual Fund are significant indicators of market confidence in the company's growth potential and valuation, especially in the context of its potential IPO.",
+      "examRelevance": "SBI Mutual Fund's stake in Swiggy crossed 5%.",
+      "tags": [
+        "SBI Mutual Fund",
+        "Swiggy",
+        "Investment",
+        "Stake",
+        "Economy"
+      ],
+      "source": {
+        "title": "SBI Mutual Fund’s stake in Swiggy crosses 5%",
+        "url": "https://economictimes.indiatimes.com/tech/technology/sbi-mutual-funds-stake-in-swiggy-crosses-5-as-asset-manager-picks-up-shares-worth-rs-300-crore/articleshow/134608509.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q29",
+      "question": "Which documentary, directed by Ameya Gore, was featured at the IDSFFK 2026?",
+      "options": [
+        "Pedal Power",
+        "The Last Ride",
+        "Going Solo",
+        "Wheels of Fortune"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "Ameya Gore's documentary titled 'Going Solo' was featured at the IDSFFK 2026 (International Documentary and Short Film Festival of Kerala). The film, produced by Sharib Khan and Vikas Kumar, follows women cyclists Gareema Shankar and Renu Singhi on their journey to the London-Edinburgh-London cycling event in 2022.",
+      "background": "The IDSFFK is an annual film festival in Kerala, India, dedicated to showcasing documentary and short films. It serves as a significant platform for independent filmmakers to present their work, often exploring diverse themes including sports, social issues, and personal journeys.",
+      "examRelevance": "Ameya Gore's documentary 'Going Solo' was featured at IDSFFK 2026.",
+      "tags": [
+        "IDSFFK 2026",
+        "Ameya Gore",
+        "Going Solo",
+        "Documentary",
+        "Cycling"
+      ],
+      "source": {
+        "title": "IDSFFK 2026: Ameya Gore on his documentary ‘Going Solo’ and pushing the boundaries of sports documentaries",
+        "url": "https://www.thehindu.com/entertainment/movies/idsffk-2026-ameya-gore-on-his-documentary-going-solo-and-pushing-the-boundaries-of-sports-documentaries/article71527453.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-01-q30",
+      "question": "Which renowned football player recently left the Portugal national team camp after a confirmed rift with the coach?",
+      "options": [
+        "Kylian Mbappé",
+        "Neymar Jr.",
+        "Lionel Messi",
+        "Cristiano Ronaldo"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Cristiano Ronaldo recently left the Portugal national team camp following a confirmed rift with coach Jorge Jesus. His departure came after the coach's press conference and discussions with FPF President Pedro Proenca.",
+      "background": "Cristiano Ronaldo is one of the most celebrated footballers globally, known for his illustrious career with clubs like Real Madrid, Manchester United, and Juventus, as well as his leadership of the Portuguese national team. Disagreements between star players and coaches, while not uncommon, often attract significant media attention due to their potential impact on team dynamics and performance.",
+      "examRelevance": "Cristiano Ronaldo left Portugal camp due to rift with coach Jorge Jesus.",
+      "tags": [
+        "Cristiano Ronaldo",
+        "Portugal Football",
+        "Jorge Jesus",
+        "Football",
+        "Sports News"
+      ],
+      "source": {
+        "title": "Cristiano Ronaldo leaves Portugal camp after coach Jorge Jesus confirms rift",
+        "url": "https://www.thehindu.com/sport/football/cristiano-ronaldo-leaves-portugal-camp-after-coach-jorge-jesus-confirms-rift/article71531310.ece"
+      }
+    }
+  ]
+}
