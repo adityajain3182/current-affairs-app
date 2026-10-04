@@ -1,0 +1,2581 @@
+{
+  "id": "weekly-2026-W40",
+  "type": "weekly",
+  "date": "2026-10-04",
+  "title": "Weekly Current Affairs — Week 40, 2026",
+  "questionCount": 100,
+  "questions": [
+    {
+      "id": "weekly-2026-W40-q1",
+      "question": "According to a recent UN report, approximately how many people have been killed or wounded in the Haiti gang crisis this year?",
+      "options": [
+        "At least 5,700",
+        "At least 2,000",
+        "At least 7,000",
+        "At least 3,500"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Addressing the UN Human Rights Council, Mr. Turk warned that at least 5,700 people have been killed or wounded in the Haiti gang crisis this year. This alarming figure indicates the severe humanitarian crisis in the country.",
+      "background": "Haiti has been grappling with escalating gang violence, which continues to expand despite the deployment of an international security force. The UN has been actively monitoring the situation and calling for concerted efforts to restore order and protect human rights.",
+      "examRelevance": "At least 5,700 people killed/wounded in Haiti gang crisis this year, per UN.",
+      "tags": [
+        "Haiti",
+        "Gang Crisis",
+        "UN Report",
+        "Casualties"
+      ],
+      "source": {
+        "title": "At least 5,700 killed, wounded in Haiti gang crisis this year: UN",
+        "url": "https://www.thehindu.com/news/international/at-least-5700-killed-wounded-in-haiti-gang-crisis-this-year-un/article71538621.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q2",
+      "question": "Who has been appointed as the next MD & CEO of Kotak Mahindra Bank, with RBI clearance?",
+      "options": [
+        "Uday Kotak",
+        "C. Jayaram",
+        "Anup Kumar Saha",
+        "Dipak Gupta"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Anup Kumar Saha has been appointed as the next Managing Director & CEO of Kotak Mahindra Bank, following clearance from the Reserve Bank of India (RBI). Saha joined the bank in January 2026 and currently serves as Whole-time Director (Executive Director), overseeing Retail Bank, Data Analytics, and Marketing functions.",
+      "background": "The Reserve Bank of India plays a crucial role in regulating the appointment of key managerial personnel in private sector banks to ensure good governance and financial stability. Kotak Mahindra Bank is one of India's leading private sector banks, and such appointments are significant for its strategic direction and market position.",
+      "examRelevance": "Anup Kumar Saha appointed next MD & CEO of Kotak Mahindra Bank.",
+      "tags": [
+        "Anup Kumar Saha",
+        "Kotak Mahindra Bank",
+        "MD & CEO",
+        "RBI",
+        "Appointments"
+      ],
+      "source": {
+        "title": "Anup Kumar Saha to be next MD & CEO of Kotak Mahindra Bank; RBI clears appointment",
+        "url": "https://www.thehindu.com/business/anup-kumar-saha-to-be-next-md-ceo-of-kotak-mahindra-bank-rbi-clears-appointment/article71531423.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q3",
+      "question": "Citizens for Justice and Peace (CJP) recently organized protests in Delhi demanding the resignation of which official, citing alleged irregularities in electoral processes?",
+      "options": [
+        "Anup Chandra Pandey",
+        "Rajiv Kumar",
+        "Arun Goel",
+        "Gyanesh Kumar"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Citizens for Justice and Peace (CJP) has been actively demanding the resignation of Gyanesh Kumar, citing alleged irregularities in the electoral processes and the conduct of the Special Intensive Revision (SIR) exercise. Protests were organized in Delhi, with plans for further demonstrations on October 10 if Kumar does not resign.",
+      "background": "The CJP's concerns highlight broader issues surrounding electoral transparency and the integrity of voter registration processes. The Special Intensive Revision (SIR) exercise has drawn criticism for the deletion of lakhs of voters from electoral rolls in states like Bihar and West Bengal.",
+      "examRelevance": "CJP protests demand the resignation of Gyanesh Kumar over alleged electoral irregularities.",
+      "tags": [
+        "Gyanesh Kumar",
+        "CJP",
+        "Electoral Process",
+        "Protest"
+      ],
+      "source": {
+        "title": "CJP stresses non-violence, urges citizens to join October 10 Delhi protest",
+        "url": "https://www.thehindu.com/news/national/cjp-stresses-non-violence-urges-citizens-to-join-october-10-delhi-protest/article71539852.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q4",
+      "question": "Which company recently put its Starship megarocket into orbit for the first time during its 14th test flight?",
+      "options": [
+        "NASA",
+        "Blue Origin",
+        "Roscosmos",
+        "SpaceX"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "SpaceX successfully put its Starship megarocket into orbit for the first time during its ambitious 14th test flight. The black-and-silver behemoth stands more than 120 metres tall.",
+      "background": "Starship is SpaceX's fully reusable launch system designed for interplanetary travel, including missions to Mars. This orbital flight is a critical step in its development, following numerous test flights.",
+      "examRelevance": "SpaceX Starship = First orbital flight.",
+      "tags": [
+        "SpaceX",
+        "Starship",
+        "Rocket",
+        "Space Exploration"
+      ],
+      "source": {
+        "title": "SpaceX puts Starship megarocket in orbit for first time",
+        "url": "https://www.thehindu.com/sci-tech/science/spacex-puts-starship-megarocket-in-orbit-for-first-time/article71521071.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q5",
+      "question": "Which political alliance recently held a meeting in Delhi to discuss issues, including a row with the Election Commission of India?",
+      "options": [
+        "Third Front",
+        "NDA",
+        "Left Front",
+        "INDIA Bloc"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The INDIA Bloc, an alliance of opposition parties, recently gathered in Delhi for a meeting. Key leaders, including Mamata Banerjee, attended to discuss various issues, particularly focusing on a row with the Election Commission of India.",
+      "background": "The INDIA (Indian National Developmental Inclusive Alliance) bloc was formed by various opposition parties to challenge the ruling NDA government in upcoming elections. Meetings like this are crucial for strategy formulation and presenting a united front on national issues.",
+      "examRelevance": "INDIA Bloc meeting in Delhi = discussed EC row.",
+      "tags": [
+        "INDIA Bloc",
+        "Delhi",
+        "Election Commission",
+        "Political Alliance"
+      ],
+      "source": {
+        "title": "Who is attending INDIA Bloc meet today? Mamata Banerjee, other top leaders gather in Delhi over EC row",
+        "url": "https://www.thehindu.com/news/national/india-bloc-meeting-today-who-are-attending-rahul-mamata-kharge-full-list-of-leaders/article71526950.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q6",
+      "question": "Which country recently announced that it conducted an intermediate-range strategic missile drill?",
+      "options": [
+        "South Korea",
+        "China",
+        "Japan",
+        "North Korea"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "North Korea recently announced that it conducted an intermediate-range strategic missile drill. This launch is part of a series of weapons tests by North Korea this year, occurring amidst escalating tensions on the Korean peninsula.",
+      "background": "North Korea's missile tests are often seen as a response to joint military exercises by the US and South Korea, and are a key component of its military strategy and nuclear deterrence efforts, leading to international condemnation and sanctions.",
+      "examRelevance": "North Korea conducted intermediate-range strategic missile drill.",
+      "tags": [
+        "North Korea",
+        "Missile drill",
+        "Strategic missile",
+        "Defence",
+        "Korean peninsula"
+      ],
+      "source": {
+        "title": "North Korea says it conducted intermediate-range strategic missile drill",
+        "url": "https://www.thehindu.com/news/international/north-korea-says-it-conducted-intermediate-range-strategic-missile-drill/article71541953.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q7",
+      "question": "The High-Level Committee on Demographic Changes recently sought religion-wise data for the past 15 years on which of the following?",
+      "options": [
+        "Agricultural land holdings and crop yields",
+        "Income tax filings and employment records",
+        "Passport applications and foreign travel",
+        "Birth and vehicle registrations, school enrolment, and property transactions"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The High-Level Committee on Demographic Changes recently sought religion-wise data for the past 15 years on birth and vehicle registrations, school enrolment, and property transactions. It also requested district-wise details of religious structures and unusual increases in Aadhaar, voter ID, and ration card registrations.",
+      "background": "This data request has sparked controversy, with officials stating that data is not maintained on religious lines, and political parties alleging pre-conceived biases behind the panel's agenda.",
+      "examRelevance": "Demography panel = Sought religion-wise data on various registrations/transactions.",
+      "tags": [
+        "Demography Panel",
+        "Religion-wise Data",
+        "Voter ID",
+        "Aadhaar"
+      ],
+      "source": {
+        "title": "States stumped as demography panel seeks religion-wise data on vehicles, schools, voters",
+        "url": "https://www.thehindu.com/news/national/states-stumped-as-demography-panel-seeks-religion-wise-data-on-vehicles-schools-voters/article71520565.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q8",
+      "question": "Former U.S. President Donald Trump recently released an AI accord. Which of the following tech companies was NOT listed as a signatory to this accord?",
+      "options": [
+        "Google",
+        "OpenAI",
+        "Meta",
+        "Amazon"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Former U.S. President Donald Trump released an AI accord, which was signed by him and the bosses of several major tech companies. The signatories included Google, Anthropic, Meta, OpenAI, social media platform X, and NVIDIA. Amazon was not listed as a signatory.",
+      "background": "The development and regulation of Artificial Intelligence have become a significant focus for governments and tech leaders globally. Such accords aim to establish principles or guidelines for the responsible development and deployment of AI technologies, often covering areas like safety, ethics, and innovation.",
+      "examRelevance": "Trump released AI accord = signed by Google, Anthropic, Meta, OpenAI, X, NVIDIA.",
+      "tags": [
+        "Donald Trump",
+        "AI Accord",
+        "Tech Executives",
+        "Artificial Intelligence",
+        "International"
+      ],
+      "source": {
+        "title": "Trump releases AI accord with tech executives",
+        "url": "https://www.thehindu.com/sci-tech/technology/trump-releases-ai-accord-with-tech-executives/article71525807.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q9",
+      "question": "Amid ongoing protests against the Chief Election Commissioner, which political leader recently launched a digital platform named 'Satyagraha'?",
+      "options": [
+        "Rahul Gandhi",
+        "Sonia Gandhi",
+        "Mallikarjun Kharge",
+        "Priyanka Gandhi"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Rahul Gandhi recently launched a digital platform named 'Satyagraha' amid widespread protests against Chief Election Commissioner Gyanesh Kumar. The launch is part of a broader opposition campaign seeking electoral reforms.",
+      "background": "The term 'Satyagraha' refers to a philosophy and practice of nonviolent resistance, famously employed by Mahatma Gandhi. Its use for a digital platform reflects a modern approach to political protest and advocacy.",
+      "examRelevance": "Rahul Gandhi launched 'Satyagraha' digital platform.",
+      "tags": [
+        "Rahul Gandhi",
+        "Satyagraha",
+        "CEC",
+        "Gyanesh Kumar",
+        "Political protest",
+        "Digital platform"
+      ],
+      "source": {
+        "title": "‘Satyagraha’ website launched by Rahul Gandhi: What is it?",
+        "url": "https://www.thehindu.com/news/national/satyagraha-website-rahul-gandhi-explained-what-is-it/article71542853.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q10",
+      "question": "Which ancient custom, used to inform the public about property attachment proceedings, has been removed from Keralam's courts by the High Court's Rules Committee?",
+      "options": [
+        "\"Panchavadyam\" and \"Thayambaka\"",
+        "\"Tom-tom\" and \"kinnam mutti vilambaram\"",
+        "\"Kathakali\" and \"Mohiniyattam\"",
+        "\"Kalaripayattu\" and \"Theyyam\""
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "Following a campaign by a rights activist, the Keralam High Court's Rules Committee decided to remove the provision for the 'tom-tom' and 'kinnam mutti vilambaram'. These were ancient customs used to inform the public about property attachment proceedings, dating back to princely rule.",
+      "background": "The 'tom-tom' (drumming) and 'kinnam mutti vilambaram' (announcement by clanging vessels) were traditional methods of public proclamation. Their removal signifies a modernization of legal procedures and a phasing out of archaic customs in the judicial system.",
+      "examRelevance": "Keralam courts = Removed 'tom-tom' and 'kinnam mutti vilambaram' customs.",
+      "tags": [
+        "Keralam",
+        "Court Customs",
+        "Tom-tom",
+        "Kinnam Mutti Vilambaram",
+        "Legal Reform"
+      ],
+      "source": {
+        "title": "Beats of an old custom fade away from Keralam’s courts",
+        "url": "https://www.thehindu.com/news/national/kerala/beats-of-an-old-custom-fade-away-from-keralams-courts/article71513254.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q11",
+      "question": "The 31st Conference of the Parties (COP31) to the UNFCCC will be jointly hosted by which two countries?",
+      "options": [
+        "Canada and New Zealand",
+        "Australia and Türkiye",
+        "Brazil and South Africa",
+        "Germany and France"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The 31st Conference of the Parties (COP31) to the UNFCCC is set to be jointly hosted by Australia and Türkiye. Both host nations are expected to face pressure regarding the inclusion of fossil fuel language as part of the conference agenda.",
+      "background": "COPs are annual global climate summits where countries negotiate and agree upon actions to address climate change. The choice of hosts often reflects geopolitical dynamics and their respective stances on climate policy, particularly concerning fossil fuels.",
+      "examRelevance": "Australia and Türkiye will jointly host COP31.",
+      "tags": [
+        "COP31",
+        "UNFCCC",
+        "Australia",
+        "Türkiye",
+        "Climate Change",
+        "Fossil Fuels"
+      ],
+      "source": {
+        "title": "COP31 hosts Australia and Türkiye face the fossil-fuel question",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-hosts-australia-and-turkiye-face-the-fossil-fuel-question/article71515307.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q12",
+      "question": "For the upcoming Dasara and Deepavali festivals, special train services are being operated between Mysuru and which other city?",
+      "options": [
+        "Rameswaram",
+        "Tirupati",
+        "Kanyakumari",
+        "Madurai"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "Special train services consisting of nine trips in each direction are being operated between Mysuru and Rameswaram from October 5 to December 1, to accommodate the increased passenger traffic during the Dasara and Deepavali festivals.",
+      "background": "Indian Railways frequently runs special trains during major festival seasons to manage the surge in passenger demand and ensure convenient travel for people visiting their hometowns or pilgrimage sites.",
+      "examRelevance": "Special trains for Dasara/Deepavali = Mysuru to Rameswaram.",
+      "tags": [
+        "Indian Railways",
+        "Festival special trains",
+        "Mysuru",
+        "Rameswaram",
+        "Dasara",
+        "Deepavali"
+      ],
+      "source": {
+        "title": "Special trains between Mysuru and Rameswaram for Dasara, Deepavali",
+        "url": "https://www.thehindu.com/news/national/karnataka/special-trains-between-mysuru-and-rameswaram-for-dasara-deepavali/article71533554.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q13",
+      "question": "Apple Pay has recently gone live in India, allowing iPhone users to make payments. Which bank's Visa and Mastercard cards are supported for this service at launch?",
+      "options": [
+        "ICICI Bank",
+        "HDFC Bank",
+        "State Bank of India",
+        "Axis Bank"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Apple Pay has officially launched in India, enabling iPhone users to make payments. At its launch, the service supports Axis Bank-issued Visa and Mastercard cards, allowing customers to add their eligible credit cards to the Apple Wallet via the Axis Bank app or the Wallet app on their iPhone.",
+      "background": "Apple Pay is a mobile payment and digital wallet service by Apple Inc. that allows users to make payments using an iPhone, Apple Watch, iPad, or Mac. Its launch in India signifies a major expansion in the digital payments landscape, offering a new contactless payment option.",
+      "examRelevance": "Apple Pay live in India = supports Axis Bank-issued Visa and Mastercard cards.",
+      "tags": [
+        "Apple Pay",
+        "India",
+        "Axis Bank",
+        "Digital Payments",
+        "FinTech"
+      ],
+      "source": {
+        "title": "Apple Pay goes live in India with Axis Bank-issued Visa and Mastercard cards",
+        "url": "https://www.thehindu.com/sci-tech/technology/apple-pay-goes-live-in-india-with-axis-bank-issued-visa-and-mastercard-cards/article71526771.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q14",
+      "question": "Indian athlete Vithya Ramraj recently broke P.T. Usha's 42-year-old national record in which athletics event?",
+      "options": [
+        "Long jump",
+        "400m sprint",
+        "400m hurdles",
+        "100m hurdles"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Indian athlete Vithya Ramraj recently broke P.T. Usha’s 42-year-old national record in the 400m hurdles event. She achieved this while winning a bronze medal in the individual event, and also secured gold in the women’s 4x400m relay and silver in the mixed 4x400m relay at the Asian Games 2026.",
+      "background": "P.T. Usha, known as the 'Queen of Indian Track and Field,' set numerous national records during her illustrious career. Breaking such a long-standing record by a legendary athlete is a significant achievement in Indian athletics.",
+      "examRelevance": "Vithya Ramraj broke P.T. Usha's 42-year-old 400m hurdles national record.",
+      "tags": [
+        "Vithya Ramraj",
+        "P.T. Usha",
+        "400m hurdles",
+        "Athletics",
+        "National record",
+        "Asian Games"
+      ],
+      "source": {
+        "title": "Vithya Ramraj’s record run: How far has India come in the 400m hurdles?",
+        "url": "https://www.thehindu.com/data/vithya-ramrajs-record-run-how-far-has-india-come-in-the-400m-hurdles/article71541845.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q15",
+      "question": "Which renowned football player recently left the Portugal national team camp after a confirmed rift with the coach?",
+      "options": [
+        "Kylian Mbappé",
+        "Neymar Jr.",
+        "Lionel Messi",
+        "Cristiano Ronaldo"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Cristiano Ronaldo recently left the Portugal national team camp following a confirmed rift with coach Jorge Jesus. His departure came after the coach's press conference and discussions with FPF President Pedro Proenca.",
+      "background": "Cristiano Ronaldo is one of the most celebrated footballers globally, known for his illustrious career with clubs like Real Madrid, Manchester United, and Juventus, as well as his leadership of the Portuguese national team. Disagreements between star players and coaches, while not uncommon, often attract significant media attention due to their potential impact on team dynamics and performance.",
+      "examRelevance": "Cristiano Ronaldo left Portugal camp due to rift with coach Jorge Jesus.",
+      "tags": [
+        "Cristiano Ronaldo",
+        "Portugal Football",
+        "Jorge Jesus",
+        "Football",
+        "Sports News"
+      ],
+      "source": {
+        "title": "Cristiano Ronaldo leaves Portugal camp after coach Jorge Jesus confirms rift",
+        "url": "https://www.thehindu.com/sport/football/cristiano-ronaldo-leaves-portugal-camp-after-coach-jorge-jesus-confirms-rift/article71531310.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q16",
+      "question": "The Consumer Commission recently directed Canara Bank to pay ₹5.04 lakh to a resident for unauthorized transactions. This order was passed in which state?",
+      "options": [
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Consumer Commission passed an order on September 29, 2026, directing Canara Bank to pay ₹5.04 lakh to Siddayya Nandikol of Hirapur, Kalaburagi, for unauthorized transactions. This incident occurred in Karnataka.",
+      "background": "This case highlights the importance of consumer protection against financial fraud and the accountability of banks in safeguarding customer funds. The Consumer Commission's ruling reinforces consumer rights and the need for banks to ensure secure transaction systems.",
+      "examRelevance": "Karnataka Consumer Commission directed Canara Bank to pay ₹5.04 lakh for unauthorized transactions.",
+      "tags": [
+        "Canara Bank",
+        "Consumer Commission",
+        "Karnataka",
+        "Unauthorized Transactions"
+      ],
+      "source": {
+        "title": "Consumer Commission directs Canara Bank to pay ₹5.04 lakh over unauthorised transactions",
+        "url": "https://www.thehindu.com/news/national/karnataka/consumer-commission-directs-canara-bank-to-pay-504-lakh-over-unauthorised-transactions/article71536968.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q17",
+      "question": "Russia's Defence Ministry recently announced that it hit a data centre belonging to which of Ukraine's largest mobile providers?",
+      "options": [
+        "Kyivstar",
+        "Lifecell",
+        "Ukrtelecom",
+        "Vodafone Ukraine"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Russia’s Defence Ministry announced that it hit a data centre belonging to Vodafone Ukraine, the country’s second-largest cell network provider. This incident occurred on a Sunday and impacted critical communication infrastructure.",
+      "background": "Cyberattacks and targeting of civilian infrastructure, including communication networks, have been a feature of the ongoing conflict between Russia and Ukraine. Such actions aim to disrupt services and exert pressure.",
+      "examRelevance": "Russia hit Vodafone Ukraine's data centre, Ukraine's second-largest cell network provider.",
+      "tags": [
+        "Russia",
+        "Ukraine",
+        "Vodafone Ukraine",
+        "Cyberattack",
+        "Data Centre"
+      ],
+      "source": {
+        "title": "Russia hits Ukraine’s largest mobile provider, strikes data centres",
+        "url": "https://www.thehindu.com/news/international/russia-hits-ukraines-largest-mobile-provider-strikes-data-centres/article71518164.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q18",
+      "question": "The 'Kasai Pitta', a long-tailed shrike, was recently sighted in the Rayalaseema scrub lands, particularly along the Penna River belt, an event attributed to the El Niño phenomenon. This region is located in which Indian state?",
+      "options": [
+        "Telangana",
+        "Karnataka",
+        "Kerala",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The 'Kasai Pitta' (Lanius schach), a long-tailed shrike, was recently sighted in the Rayalaseema scrub lands, specifically along the Penna River belt and fringes of the Erramala and Palakonda ranges in Nandyal and Kadapa. This region is in Andhra Pradesh, and its appearance is attributed to the El Niño effect.",
+      "background": "El Niño is a climate pattern that describes the unusual warming of surface waters in the eastern tropical Pacific Ocean. It can significantly impact weather patterns and biodiversity across the globe, including migratory bird movements.",
+      "examRelevance": "'Kasai Pitta' sighted in Rayalaseema (Andhra Pradesh) due to El Niño.",
+      "tags": [
+        "Kasai Pitta",
+        "Rayalaseema",
+        "Andhra Pradesh",
+        "El Niño",
+        "Environment",
+        "Biodiversity"
+      ],
+      "source": {
+        "title": "El Niño draws ‘Kasai Pitta' out in Rayalaseema scrub lands",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/el-nino-draws-kasai-pitta-out-in-rayalaseema-scrub-lands/article71540589.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q19",
+      "question": "Lovlina Borgohain recently secured at least a bronze medal at the Asian Games 2026 by advancing to the semi-finals in which sport?",
+      "options": [
+        "Taekwondo",
+        "Wrestling",
+        "Judo",
+        "Boxing"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Lovlina Borgohain defeated South Korea’s Seong Suyeon 5-0 in her quarter-final bout at the Asian Games 2026, assuring herself of at least a bronze medal by moving to the semi-final in boxing. This was her first bout of the tournament.",
+      "background": "Lovlina Borgohain is an Olympic medallist and a prominent figure in Indian boxing. Her consistent performance at international events makes her a strong contender for medals.",
+      "examRelevance": "Lovlina Borgohain secured at least a bronze medal in boxing at Asian Games 2026.",
+      "tags": [
+        "Lovlina Borgohain",
+        "Boxing",
+        "Asian Games 2026",
+        "Bronze Medal"
+      ],
+      "source": {
+        "title": "Lovlina Borgohain moves to semifinal; assured of Asian Games medal",
+        "url": "https://www.thehindu.com/sport/lovlina-borgohain-moves-to-semifinal-assured-of-asian-games-medal/article71518668.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q20",
+      "question": "Aslam Inamdar, who recently won two gold medals at the Asian Games 2026, is associated with which sport?",
+      "options": [
+        "Volleyball",
+        "Kabaddi",
+        "Hockey",
+        "Badminton"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Aslam Inamdar, a star raider, secured two gold medals in kabaddi at the Asian Games 2026. He has overcome various challenges in his career since starting kabaddi at the age of 14.",
+      "background": "Aslam Inamdar's journey from humble beginnings to a two-time Asian Games gold medallist highlights the talent and dedication within Indian kabaddi. Kabaddi is a traditional Indian sport that has gained significant popularity and international recognition.",
+      "examRelevance": "Aslam Inamdar won two gold medals in Kabaddi at Asian Games 2026.",
+      "tags": [
+        "Aslam Inamdar",
+        "Kabaddi",
+        "Asian Games 2026",
+        "Gold Medals"
+      ],
+      "source": {
+        "title": "From cleaning rest rooms to winning two Asian Games golds — the rise of Aslam Inamdar",
+        "url": "https://www.thehindu.com/sport/from-cleaning-rest-rooms-to-winning-two-asian-games-golds-the-rise-of-aslam-inamdar/article71517229.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q21",
+      "question": "What reason did OpenAI cite for cancelling the release of its newest model, just one day before its annual developer conference?",
+      "options": [
+        "Technical glitches",
+        "Safety concerns",
+        "Market competition",
+        "Regulatory hurdles"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "OpenAI cancelled the release of its newest model due to safety concerns, just one day before its annual developer conference, OpenAI DevDay, where the company was expected to make several announcements.",
+      "background": "Safety in AI development is a growing concern, balancing rapid innovation with responsible deployment. This decision by OpenAI highlights the industry's increasing focus on ethical considerations and potential risks associated with advanced AI models.",
+      "examRelevance": "OpenAI = Cancelled new model release due to safety concerns.",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "New Model",
+        "Tech News"
+      ],
+      "source": {
+        "title": "OpenAI cancels release of newest model due to safety concerns",
+        "url": "https://www.thehindu.com/sci-tech/technology/openai-cancels-release-of-newest-model-due-to-safety-concerns/article71522314.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q22",
+      "question": "Indian shooter Esha Singh recently won a silver medal in which event at the Asian Games 2026?",
+      "options": [
+        "Women's 50m Rifle 3 Positions",
+        "Women's Trap Shooting",
+        "Women's 10m Air Pistol",
+        "Women's 25m Pistol"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Indian shooter Esha Singh clinched a silver medal in the women's 25m pistol event at the Asian Games 2026. She engaged in multiple shoot-offs to secure her position, ultimately competing for gold against China's Xiao Jiaruixuan.",
+      "background": "Esha Singh, a 21-year-old from Hyderabad, is the reigning world number one in her discipline. Her performance at the Asian Games highlights India's strong presence in shooting sports at international competitions.",
+      "examRelevance": "Esha Singh won silver in Women's 25m Pistol at Asian Games 2026.",
+      "tags": [
+        "Esha Singh",
+        "Shooting",
+        "Asian Games 2026",
+        "Silver Medal"
+      ],
+      "source": {
+        "title": "Asian Games 2026 LIVE: Esha Singh wins silver, misses 25m pistol gold by a whisker",
+        "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-28-2026/article71517841.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q23",
+      "question": "Former Chief Minister Ashok Gehlot recently urged which state government to prepare a contingency plan for a 'drought-like' situation?",
+      "options": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Former Chief Minister Ashok Gehlot urged the Rajasthan government to prepare a contingency plan to deal with a potential 'drought-like' situation. He highlighted that drinking water, fodder, and employment could become major concerns in the coming months.",
+      "background": "Rajasthan is a desert state prone to drought conditions. Monsoon patterns and water scarcity are recurring challenges that necessitate proactive planning and resource management by the state government.",
+      "examRelevance": "Ashok Gehlot urged Rajasthan government to prepare for 'drought-like' situation.",
+      "tags": [
+        "Ashok Gehlot",
+        "Rajasthan",
+        "Drought",
+        "Water scarcity",
+        "Environment",
+        "Governance"
+      ],
+      "source": {
+        "title": "Rajasthan government should prepare contingency plan to deal with ‘drought-like’ situation: Ashok Gehlot",
+        "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-government-should-prepare-contingency-plan-to-deal-with-drought-like-situation-ashok-gehlot/article71542955.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q24",
+      "question": "Which acclaimed Indian filmmaker, known for directing experimental films like 'Pushpaka Vimanam' and 'Aditya 369', recently passed away?",
+      "options": [
+        "Singeetham Srinivasa Rao",
+        "Adoor Gopalakrishnan",
+        "K. Viswanath",
+        "Shyam Benegal"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Legendary movie director and writer Singeetham Srinivasa Rao recently passed away. He was known for his experimental work, including the silent comedy 'Pushpaka Vimanam' and the time-travel film 'Aditya 369'. He made his directorial debut with 'Neeti Nijayati' in 1972.",
+      "background": "Singeetham Srinivasa Rao had a prolific career in Indian cinema, spanning multiple languages. His collaborations with actors like Kamal Haasan were particularly notable, allowing him creative freedom in the industry.",
+      "examRelevance": "Veteran filmmaker Singeetham Srinivasa Rao passed away; known for 'Pushpaka Vimanam', 'Aditya 369'.",
+      "tags": [
+        "Singeetham Srinivasa Rao",
+        "Filmmaker",
+        "Obituaries",
+        "Pushpaka Vimanam",
+        "Aditya 369",
+        "Indian cinema"
+      ],
+      "source": {
+        "title": "Naidu, Pawan Kalyan, Jagan pay tribute to filmmaker Singeetham Srinivasa Rao",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/condolences-pour-in-for-filmmaker-singeetham-srinivasa-rao/article71542959.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q25",
+      "question": "Union Minister Nitin Gadkari recently announced a new expressway that will connect Uttar Pradesh with which region of India?",
+      "options": [
+        "Western Coast",
+        "Southern Plateau",
+        "North-East",
+        "Central Highlands"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "Union Minister Nitin Gadkari announced a new expressway that will connect Uttar Pradesh with the North-East region of India. The proposed Gorakhpur to Meghalaya highway will connect UP, Bengal, Assam, and Meghalaya, reducing travel time by half.",
+      "background": "Infrastructure development, particularly expressways, is a key focus of the government to improve connectivity, boost economic activity, and reduce travel time across different regions of the country. Connecting the North-East is a strategic priority.",
+      "examRelevance": "New Expressway = Connects Uttar Pradesh with North-East.",
+      "tags": [
+        "Nitin Gadkari",
+        "Expressway",
+        "Uttar Pradesh",
+        "North-East",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "Expressway to connect UP with north-east: Gadkari",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/roadways/nitin-gadkari-announces-new-expressway-for-north-east-proposed-gorakhpur-to-meghalaya-highway-connecting-up-bengal-assam-meghalaya-to-reduce-travel-time-by-half/articleshow/134555099.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q26",
+      "question": "The Hindu Quiz recently featured the life and career of legendary singer Lata Mangeshkar on her 97th birthday. In which year was she born?",
+      "options": [
+        "1933",
+        "1937",
+        "1929",
+        "1941"
+      ],
+      "answerIndex": 2,
+      "category": "Dates & Days",
+      "explanation": "The Hindu Quiz featured the life and career of legendary singer Lata Mangeshkar on her 97th birthday. Given she celebrated her 97th birthday, she would have been born in 2026 - 97 = 1929.",
+      "background": "Lata Mangeshkar (1929-2022) was an iconic Indian playback singer and occasional music composer. Known as the 'Nightingale of India', her career spanned over seven decades, and she recorded over 30,000 songs in various Indian languages.",
+      "examRelevance": "Lata Mangeshkar = Born in 1929.",
+      "tags": [
+        "Lata Mangeshkar",
+        "Birthday",
+        "Singer",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "The Hindu Quiz | The life and career of Lata Mangeshkar on the legendary singer’s 97th birthday",
+        "url": "https://www.thehindu.com/news/national/the-hindu-quiz-the-life-and-career-of-lata-mangeshkar-on-the-legendary-singers-97th-birthday/article71518599.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q27",
+      "question": "India is soon to release a new steel policy, with a target of achieving what capacity by 2047?",
+      "options": [
+        "750 million tons",
+        "300 million tons",
+        "600 million tons",
+        "450 million tons"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "India is soon to release a new steel policy, with a target of achieving 600 million tons capacity by 2047. This was announced by a secretary.",
+      "background": "The steel industry is a core sector of the Indian economy, crucial for infrastructure development and manufacturing. A new policy aims to boost domestic production, reduce imports, and enhance competitiveness, aligning with long-term economic goals.",
+      "examRelevance": "New Steel Policy = 600 million tons capacity target by 2047.",
+      "tags": [
+        "Steel Policy",
+        "India",
+        "Manufacturing",
+        "Economy 2047"
+      ],
+      "source": {
+        "title": "India to soon release new steel policy, secy says",
+        "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/india-to-soon-release-new-steel-policy-600-million-tons-capacity-by-2047-secy-says/articleshow/134557955.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q28",
+      "question": "Indian Coast Guard recently seized high-grade methamphetamine and heroin worth ₹3,000 crore from an Iranian boat. This operation took place in which sea?",
+      "options": [
+        "Bay of Bengal",
+        "Arabian Sea",
+        "Red Sea",
+        "Andaman Sea"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "The Indian Coast Guard successfully seized high-grade methamphetamine and heroin valued at ₹3,000 crore from an Iranian boat in the Arabian Sea. During the operation, five Pakistani nationals were detained.",
+      "background": "India actively monitors its maritime borders to combat drug trafficking, which often uses sea routes to transport contraband from West Asia and the Golden Crescent. Such seizures are part of ongoing efforts by Indian security agencies to curb the illicit drug trade.",
+      "examRelevance": "₹3,000 crore drugs seized from Iranian boat by Coast Guard in Arabian Sea.",
+      "tags": [
+        "Drug Seizure",
+        "Arabian Sea",
+        "Indian Coast Guard",
+        "Methamphetamine",
+        "Heroin"
+      ],
+      "source": {
+        "title": "₹3,000 crore drugs seized from Iranian boat in Arabian Sea; 5 Pakistan nationals detained",
+        "url": "https://www.thehindu.com/news/national/3000-crore-drugs-seized-from-iranian-boat-in-arabian-sea/article71526673.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q29",
+      "question": "The Houthi group, from which country, recently claimed responsibility for a missile and drone attack on an Aramco facility in Riyadh?",
+      "options": [
+        "Lebanon",
+        "Iraq",
+        "Yemen",
+        "Syria"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Yemen’s Houthi group recently claimed responsibility for a missile and drone attack on an Aramco facility in Riyadh. This reported attack comes amid escalating hostilities between Saudi Arabia and the Houthis, who have increased attacks on Saudi cities and energy infrastructure.",
+      "background": "The conflict in Yemen, involving the Houthi movement and a Saudi-led coalition, has been ongoing for years, with cross-border attacks on Saudi targets being a recurring feature of the hostilities. Aramco is Saudi Arabia's national oil company.",
+      "examRelevance": "Yemen's Houthi group claimed attack on Aramco facility in Riyadh.",
+      "tags": [
+        "Houthi",
+        "Yemen",
+        "Aramco",
+        "Riyadh",
+        "Saudi Arabia",
+        "International conflict"
+      ],
+      "source": {
+        "title": "Yemen’s Houthis say they attacked Aramco facility in Riyadh with missiles, drones",
+        "url": "https://www.thehindu.com/news/international/yemen-houthis-say-they-attacked-aramco-facility-in-riyadh-with-missiles-drones/article71541954.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q30",
+      "question": "The Hindu recently published a daily quiz on Mahatma Gandhi on the occasion of his 157th birth anniversary. On which date is Mahatma Gandhi's birth anniversary celebrated?",
+      "options": [
+        "January 30",
+        "January 26",
+        "October 2",
+        "August 15"
+      ],
+      "answerIndex": 2,
+      "category": "Dates & Days",
+      "explanation": "Mahatma Gandhi's 157th birth anniversary was recently observed, and The Hindu marked the occasion with a daily quiz. His birth anniversary is celebrated annually on October 2.",
+      "background": "October 2 is observed as Gandhi Jayanti in India, a national holiday commemorating the birth of the 'Father of the Nation'. It is also recognized internationally as the International Day of Non-Violence by the United Nations.",
+      "examRelevance": "Mahatma Gandhi's birth anniversary is celebrated on October 2.",
+      "tags": [
+        "Mahatma Gandhi",
+        "Gandhi Jayanti",
+        "October 2",
+        "Birth Anniversary"
+      ],
+      "source": {
+        "title": "Daily Quiz: on Mahatma Gandhi",
+        "url": "https://www.thehindu.com/news/national/daily-quiz-on-mahatma-gandhi/article71539770.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q31",
+      "question": "A senior Indian official recently led a delegation to Islamabad for an SCO preparatory meeting, marking the first such official visit since 'Operation Indoor'. What does SCO stand for?",
+      "options": [
+        "South Asian Cooperation Organization",
+        "Security Cooperation Outlook",
+        "Strategic Connectivity Organization",
+        "Shanghai Cooperation Organization"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "A senior Indian official recently led a team to Islamabad for a three-day preparatory meeting of the Shanghai Cooperation Organization (SCO). This visit marks the first official Indian delegation to Islamabad since 'Operation Indoor', indicating diplomatic engagement despite recent tensions.",
+      "background": "The Shanghai Cooperation Organization (SCO) is an Eurasian political, economic, and security alliance, with India and Pakistan as full members. Such preparatory meetings are essential for planning upcoming SCO summits and ensuring regional cooperation on various fronts, including security and economic development.",
+      "examRelevance": "Indian official visited Islamabad for Shanghai Cooperation Organization (SCO) preparatory meeting.",
+      "tags": [
+        "India-Pakistan",
+        "Islamabad",
+        "SCO",
+        "Shanghai Cooperation Organization",
+        "Diplomacy"
+      ],
+      "source": {
+        "title": "Days after India-Pakistan sparring at UN, senior Indian official visits Islamabad for SCO planning meet",
+        "url": "https://www.thehindu.com/news/national/days-after-india-pakistan-sparring-at-un-senior-indian-official-visits-islamabad-for-sco-planning-meet/article71525343.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q32",
+      "question": "Who is the Chief Electoral Officer of Odisha who recently applied for voluntary retirement?",
+      "options": [
+        "Sushil Chandra",
+        "Rajiv Kumar",
+        "R. S. Gopalan",
+        "Om Prakash"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "R. S. Gopalan, the Chief Electoral Officer (CEO) of Odisha, recently applied for voluntary retirement (VRS). He cited personal reasons for his application, clarifying that it is unrelated to the Special Summary Revision (SIR) process.",
+      "background": "The Chief Electoral Officer (CEO) in each state is responsible for supervising the election work in the state, under the overall superintendence, direction, and control of the Election Commission of India. A CEO's application for VRS, especially during or after a significant electoral process like SIR, can be noteworthy for state administration.",
+      "examRelevance": "R. S. Gopalan, Odisha's CEO, applied for voluntary retirement.",
+      "tags": [
+        "R. S. Gopalan",
+        "Odisha",
+        "Chief Electoral Officer",
+        "VRS",
+        "Polity"
+      ],
+      "source": {
+        "title": "Soon after SIR, Odisha’s Chief Electoral Officer applies for voluntary retirement",
+        "url": "https://www.thehindu.com/news/national/odisha/soon-after-sir-odishas-chief-electoral-officer-applies-vrs/article71531376.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q33",
+      "question": "In which city was the renovated Gandhi Memorial Museum recently declared open by Tamil Nadu CM Vijay, following renovation work costing ₹10.25 crore?",
+      "options": [
+        "Madurai",
+        "Chennai",
+        "Tiruchirappalli",
+        "Kanyakumari"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "The renovated Gandhi Memorial Museum in Madurai was recently declared open by Tamil Nadu Chief Minister Vijay. The renovation work was carried out by the Heritage Wing of the Public Works Department at a total cost of ₹10.25 crore.",
+      "background": "The Gandhi Memorial Museum in Madurai is one of the five Gandhi Sangrahalayas (museums) in India and houses a significant collection of Gandhiji's belongings and historical records related to his life and the freedom movement.",
+      "examRelevance": "Renovated Gandhi Memorial Museum = Madurai, Tamil Nadu.",
+      "tags": [
+        "Gandhi Memorial Museum",
+        "Madurai",
+        "Tamil Nadu",
+        "Cultural Heritage"
+      ],
+      "source": {
+        "title": "Tamil Nadu CM Vijay declares open renovated Gandhi Memorial Museum in Madurai",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-declares-open-renovated-gandhi-memorial-museum-in-madurai/article71518869.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q34",
+      "question": "The FBI recently arrested Ashton Hamed Ellaboudy, an employee of the U.S. Energy Department, on charges of trying to support which Iran-backed group in Yemen?",
+      "options": [
+        "Al-Qaeda",
+        "Hamas",
+        "Houthis",
+        "Hezbollah"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The FBI arrested Ashton Hamed Ellaboudy, a 51-year-old employee of the U.S. Energy Department from Richland, Washington, on October 1, 2026. He was charged with attempting to provide support to the Iran-backed Houthis in Yemen.",
+      "background": "This arrest highlights ongoing efforts by U.S. law enforcement to counter foreign influence and potential threats to national security. The Houthis are a significant armed group in Yemen, involved in a long-standing conflict and often targeted by international sanctions.",
+      "examRelevance": "FBI arrested a US Energy Dept employee for supporting Iran-backed Houthis.",
+      "tags": [
+        "FBI",
+        "Ashton Hamed Ellaboudy",
+        "Houthis",
+        "Yemen"
+      ],
+      "source": {
+        "title": "FBI arrests Energy Department employee on charge of trying to support Iran-backed Houthis in Yemen",
+        "url": "https://www.thehindu.com/news/international/fbi-arrests-energy-department-employee-on-charge-of-trying-to-support-iran-backed-houthis-in-yemen/article71538629.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q35",
+      "question": "Who was chosen as the flag bearer for India at the closing ceremony of the Asian Games 2026?",
+      "options": [
+        "Neeru Dhanda",
+        "Kumkum Mohod",
+        "Pranavi Urs",
+        "Sreeshankar"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Neeru Dhanda was chosen as the flag bearer for India at the closing ceremony of the Asian Games 2026 in Nagoya. She had an impressive performance at the Games, earning three medals.",
+      "background": "Neeru Dhanda's medals included a women's individual trap gold, a women's team silver with Manisha Keer and Aashima Ahlawat, and a trap mixed team gold with Chenai. The flag bearer is typically a prominent athlete who has achieved significant success during the Games, representing the nation's sporting spirit.",
+      "examRelevance": "Neeru Dhanda was India's flag bearer at the Asian Games 2026 closing ceremony.",
+      "tags": [
+        "Neeru Dhanda",
+        "Asian Games 2026",
+        "Flag Bearer",
+        "Shooting"
+      ],
+      "source": {
+        "title": "Neeru Dhanda to be flag bearer at Asian Games closing",
+        "url": "https://www.thehindu.com/sport/neeru-dhanda-to-be-flag-bearer-at-asian-games-closing/article71539496.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q36",
+      "question": "OpenAI recently announced that it fired three staffers for mishandling what type of information?",
+      "options": [
+        "Financial data",
+        "Research findings",
+        "Sensitive information",
+        "Marketing strategies"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "OpenAI recently disclosed that it fired three staffers for mishandling 'sensitive' information. This decision comes amidst an ongoing debate about AI safety and the potential existential risks posed by the technology.",
+      "background": "The handling of sensitive data is crucial for AI companies, especially given the ethical and security implications of their advanced models. Such actions underscore the internal measures taken by tech giants to maintain data integrity and address potential breaches.",
+      "examRelevance": "OpenAI fired three staffers for mishandling sensitive information.",
+      "tags": [
+        "OpenAI",
+        "Staff Firing",
+        "Sensitive Information",
+        "AI Safety"
+      ],
+      "source": {
+        "title": "OpenAI says three staffers fired for mishandling 'sensitive' info",
+        "url": "https://www.thehindu.com/sci-tech/technology/openai-says-three-staffers-fired-for-mishandling-sensitive-info/article71539550.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q37",
+      "question": "With whom did Union Minister Piyush Goyal recently hold discussions regarding an early conclusion of a trade deal?",
+      "options": [
+        "Sarah Greer",
+        "Katherine Tai",
+        "Janet Yellen",
+        "Gina Raimondo"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Union Minister Piyush Goyal held a productive discussion with USTR Sarah Greer regarding the early conclusion of a trade deal. This meeting coincided with a telephone conversation between Prime Minister Narendra Modi and US President Donald Trump to review progress in bilateral cooperation.",
+      "background": "The Office of the United States Trade Representative (USTR) is responsible for developing and coordinating U.S. international trade, commodity, and direct investment policy, and overseeing negotiations with other countries. India and the US have been engaged in discussions for a comprehensive trade deal to boost economic ties.",
+      "examRelevance": "Piyush Goyal discussed trade deal with USTR Sarah Greer.",
+      "tags": [
+        "Piyush Goyal",
+        "USTR Sarah Greer",
+        "Trade Deal",
+        "India-US Relations"
+      ],
+      "source": {
+        "title": "Productive discussion with USTR Greer on early conclusion of trade deal: Goyal",
+        "url": "https://www.thehindu.com/business/Economy/productive-discussion-with-ustr-greer-on-early-conclusion-of-trade-deal-goyal/article71531414.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q38",
+      "question": "In the recent Keralam local body bypolls, which political front retained the Ayyappankkavu ward in Kochi Corporation?",
+      "options": [
+        "LDF",
+        "UDF",
+        "SDPI",
+        "NDA"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "In the recent Keralam local body bypolls, the United Democratic Front (UDF) retained the Ayyappankkavu ward in Kochi Corporation. Ajith Kumar A.K. of UDF registered his maiden electoral victory, defeating P.K. Usman of CPI(M) by a margin of 549 votes.",
+      "background": "Local body bypolls are often seen as a barometer of public sentiment and can have significant consequences for the ruling and opposition fronts in a state. The UDF's victory in this ward is a boost for the front.",
+      "examRelevance": "UDF = Retained Ayyappankkavu ward in Kochi Corporation bypolls.",
+      "tags": [
+        "Keralam Bypolls",
+        "UDF",
+        "Ayyappankkavu",
+        "Kochi Corporation"
+      ],
+      "source": {
+        "title": "Keralam local body bypolls: UDF retains Ayyappankkavu in Kochi Corporation",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-local-body-bypolls-udf-retains-ayyappankkavu-in-kochi-corporation/article71522772.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q39",
+      "question": "What is the new price of Aviation Turbine Fuel (ATF) per litre after the recent increase?",
+      "options": [
+        "₹137 per litre",
+        "₹145 per litre",
+        "₹121 per litre",
+        "₹115 per litre"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Aviation Turbine Fuel (ATF) prices have recently increased by approximately ₹16 per litre, moving from ₹121 per litre to ₹137 per litre. This marks a significant hike following previous increases in August and September.",
+      "background": "ATF prices are crucial for the aviation industry, as they directly impact operating costs for airlines. Fluctuations in crude oil prices and currency exchange rates are primary factors influencing ATF price revisions, which are typically announced by oil marketing companies on a fortnightly or monthly basis.",
+      "examRelevance": "New ATF price is ₹137 per litre after a ₹16 increase.",
+      "tags": [
+        "ATF",
+        "Fuel Price",
+        "Aviation",
+        "Economy"
+      ],
+      "source": {
+        "title": "ATF prices increased by around ₹16 from ₹121 per litre to ₹137 per litre",
+        "url": "https://www.thehindu.com/business/Industry/atf-prices-increased-by-around-16-from-121-per-litre-to-137-per-litre/article71531663.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q40",
+      "question": "R. Prashanth, the alleged kingpin of a spurious drugs racket recently arrested in Bengaluru, was reportedly hiding in which country?",
+      "options": [
+        "Thailand",
+        "UAE",
+        "Azerbaijan",
+        "Malaysia"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "R. Prashanth, identified as the alleged kingpin of a spurious drugs racket, was recently apprehended in Bengaluru. He was reportedly hiding in Azerbaijan after the illegal drugs case initially came to light.",
+      "background": "The crackdown on spurious drugs rackets is crucial for public health and safety, as counterfeit medicines pose serious risks. International cooperation is often necessary to track and apprehend individuals involved in such cross-border criminal activities.",
+      "examRelevance": "Spurious drugs racket kingpin R. Prashanth was arrested in Bengaluru after hiding in Azerbaijan.",
+      "tags": [
+        "Spurious Drugs Racket",
+        "R. Prashanth",
+        "Bengaluru",
+        "Azerbaijan",
+        "Arrest"
+      ],
+      "source": {
+        "title": "Spurious drugs racket kingpin arrested in Bengaluru",
+        "url": "https://www.thehindu.com/news/national/karnataka/spurious-drugs-racket-kingpin-arrested-in-bengaluru/article71518285.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q41",
+      "question": "On September 30, which body relaxed the framework for redesigned 'Gen-2' joined green crackers, subject to NEERI’s conditions?",
+      "options": [
+        "Supreme Court",
+        "National Green Tribunal",
+        "Ministry of Environment, Forest and Climate Change",
+        "Central Pollution Control Board"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "On September 30, the Supreme Court issued an order relaxing the framework for a redesigned version of the 'Gen-2' joined green cracker. This relaxation is subject to specific conditions set by the National Environmental Engineering Research Institute (NEERI).",
+      "background": "The Supreme Court has been actively involved in regulating the production and sale of firecrackers to combat air pollution, especially during festive seasons. The concept of 'green crackers' emerged as an alternative to conventional crackers, aiming to reduce emissions and harmful pollutants, with NEERI playing a key role in their formulation and testing.",
+      "examRelevance": "Supreme Court relaxed framework for 'Gen-2' joined green crackers on Sept 30.",
+      "tags": [
+        "Supreme Court",
+        "Green Crackers",
+        "Gen-2",
+        "NEERI",
+        "Environment"
+      ],
+      "source": {
+        "title": "Gen-2 joined green crackers | Explained",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-allows-limited-conditional-release-of-gen-2-green-crackers-neeri/article71531674.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q42",
+      "question": "How many adult learners recently appeared for the ULLAS literacy assessment in Telangana?",
+      "options": [
+        "5.12 lakh",
+        "6.32 lakh",
+        "4.58 lakh",
+        "7.05 lakh"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "In Telangana, a total of 6.32 lakh adult learners recently participated in the ULLAS (Understanding Lifelong Learning for All in Society) literacy assessment. This initiative aims to evaluate and promote adult literacy across the state.",
+      "background": "ULLAS is a national programme focused on adult education and lifelong learning, spearheaded by the Ministry of Education. Such assessments are crucial for measuring the impact of literacy campaigns and identifying areas for further intervention.",
+      "examRelevance": "6.32 lakh adults appeared for ULLAS literacy assessment in Telangana.",
+      "tags": [
+        "ULLAS",
+        "Literacy Assessment",
+        "Telangana",
+        "Adult Education"
+      ],
+      "source": {
+        "title": "6.32 lakh adults appear for ULLAS literacy assessment in Telangana",
+        "url": "https://www.thehindu.com/news/national/telangana/632-lakh-adults-appear-for-ullas-literacy-assessment-in-telangana/article71516318.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q43",
+      "question": "Which Indian university is currently weighing options to develop an internship portal for its Four-Year Undergraduate Programme (FYUGP) students?",
+      "options": [
+        "University of Mumbai",
+        "Delhi University",
+        "University of Calicut",
+        "Jawaharlal Nehru University"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "The University of Calicut is weighing options to develop an internship portal specifically for students enrolled in its Four-Year Undergraduate Programme (FYUGP). This initiative aims to facilitate practical experience for students as part of their curriculum.",
+      "background": "The National Education Policy (NEP) 2020 promotes a flexible and multidisciplinary approach to higher education, including the introduction of Four-Year Undergraduate Programmes (FYUGP) that often integrate internships as a crucial component for skill development and career readiness.",
+      "examRelevance": "University of Calicut is considering an internship portal for FYUGP students.",
+      "tags": [
+        "Calicut University",
+        "FYUGP",
+        "Internship Portal",
+        "Kerala"
+      ],
+      "source": {
+        "title": "Internship portal for FYUGP students: Calicut varsity weighs options",
+        "url": "https://www.thehindu.com/news/national/kerala/internship-portal-for-fyugp-students-calicut-varsity-weighs-options/article71528560.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q44",
+      "question": "Who is the current Punjab Congress chief who is set to quit his post?",
+      "options": [
+        "Raja Warring",
+        "Navjot Singh Sidhu",
+        "Amarinder Singh",
+        "Vijay Inder Singla"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Raja Warring, the current chief of the Punjab Congress, is set to quit his post. Vijay Inder Singla is reportedly a frontrunner to succeed him.",
+      "background": "Leadership changes in state political parties are common, especially in the run-up to elections or following electoral outcomes. The Punjab Congress has seen several leadership shifts in recent years as it navigates the state's political landscape.",
+      "examRelevance": "Raja Warring is the Punjab Congress chief set to quit.",
+      "tags": [
+        "Raja Warring",
+        "Punjab Congress",
+        "Political Appointment",
+        "Vijay Inder Singla"
+      ],
+      "source": {
+        "title": "Punjab Congress chief Warring set to quit, Vijay Inder Singla frontrunner for post",
+        "url": "https://www.thehindu.com/news/national/punjab/punjab-congress-chief-resignation/article71531181.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q45",
+      "question": "The Fort Catholic Girls’ School in Visakhapatnam, founded by French nuns, recently celebrated which significant anniversary?",
+      "options": [
+        "175th",
+        "125th",
+        "150th",
+        "200th"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "The Fort Catholic Girls’ School in Visakhapatnam, which was founded by French nuns in 1852, recently celebrated its 175th anniversary. The closing ceremony of its jubilee year is scheduled for January 2027.",
+      "background": "Educational institutions with long histories often play a significant role in the cultural and social development of a region, educating generations of students and contributing to community building.",
+      "examRelevance": "Visakhapatnam's Fort Catholic Girls' School = 175th anniversary, founded 1852.",
+      "tags": [
+        "Visakhapatnam",
+        "Fort Catholic Girls' School",
+        "Anniversary",
+        "Education",
+        "History"
+      ],
+      "source": {
+        "title": "Founded by French nuns in 1852, Visakhapatnam’s Fort Catholic Girls’ School turns 175",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh//article71536824.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q46",
+      "question": "What was the Goods and Services Tax (GST) collection in September 2026?",
+      "options": [
+        "₹1.92 lakh crore",
+        "₹1.85 lakh crore",
+        "₹2.15 lakh crore",
+        "₹2.03 lakh crore"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Goods and Services Tax (GST) mop-up in September 2026 grew by 14.7% year-on-year, reaching over ₹2.03 lakh crore. However, GST refunds slowed to ₹27,001 crore, a 3% decline year-on-year.",
+      "background": "GST is an indirect tax (or consumption tax) used in India on the supply of goods and services. It is a comprehensive, multi-stage, destination-based tax: comprehensive because it has subsumed almost all the indirect taxes except a few state taxes. Its collections are a key indicator of economic activity.",
+      "examRelevance": "GST collection in September 2026 was over ₹2.03 lakh crore, a 14.7% growth.",
+      "tags": [
+        "GST",
+        "Tax Collection",
+        "September 2026",
+        "Economy"
+      ],
+      "source": {
+        "title": "GST mop-up grows 14.7% to over ₹2.03 lakh crore in September 2026",
+        "url": "https://www.thehindu.com/business/Economy/gst-collections-september-2026/article71531826.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q47",
+      "question": "The Chinese government may allow some domestic firms, including ByteDance and Alibaba, to purchase a specific new chip from Nvidia. What is the model name of this chip?",
+      "options": [
+        "RTX 4090",
+        "H100",
+        "RTX PRO 5500",
+        "A100"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "The Chinese government is reportedly considering allowing certain domestic firms, such as ByteDance and Alibaba, to acquire Nvidia’s new RTX PRO 5500 chip. This development was reported by The Information outlet.",
+      "background": "The U.S. has imposed restrictions on the export of advanced AI chips to China, citing national security concerns. Any allowance for Chinese companies to purchase specific Nvidia chips indicates a nuanced approach to these export controls.",
+      "examRelevance": "China may allow ByteDance, Alibaba to buy Nvidia's RTX PRO 5500 chip.",
+      "tags": [
+        "China",
+        "Nvidia",
+        "ByteDance",
+        "Alibaba",
+        "RTX PRO 5500",
+        "Technology"
+      ],
+      "source": {
+        "title": "ByteDance, Alibaba to be allowed by China’s govt. to buy new Nvidia chips",
+        "url": "https://www.thehindu.com/sci-tech/technology/bytedance-alibaba-to-be-allowed-by-chinas-govt-to-buy-new-nvidia-chips/article71518472.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q48",
+      "question": "The \"Thaimaman Thanga Mothiram Thittam\" recently announced by Tamil Nadu Chief Minister Vijay is a scheme related to what?",
+      "options": [
+        "Providing educational scholarships for girls",
+        "Distributing one-gram gold rings to newborn babies",
+        "Subsidizing housing for economically weaker sections",
+        "Offering financial aid for farmers"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "Tamil Nadu Chief Minister Vijay announced the launch of the \"Thaimaman Thanga Mothiram Thittam,\" which is a state government scheme to provide one-gram gold rings for newborn babies in the state.",
+      "background": "This scheme aims to support families with newborns, particularly focusing on the welfare of mothers and infants. It is part of the state government's broader initiatives for social welfare and child development.",
+      "examRelevance": "Tamil Nadu's Thaimaman Thanga Mothiram Thittam provides one-gram gold rings for newborn babies.",
+      "tags": [
+        "Tamil Nadu",
+        "Thaimaman Thanga Mothiram Thittam",
+        "Newborns",
+        "Gold Ring Scheme"
+      ],
+      "source": {
+        "title": "What is the Tamil Nadu government’s one-gram gold ring scheme? | Explained",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/explained-what-is-the-tamil-nadu-government-one-gram-gold-ring-scheme-of-thaimaman-thanga-mothiram/article71399218.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q49",
+      "question": "The Ministry of Education is working on a national examination-grade computer-based testing (CBT) infrastructure strategy. This plan could pave the way for which major Indian entrance examination to move from pen-and-paper to online mode?",
+      "options": [
+        "UPSC Civil Services Exam",
+        "NEET-UG",
+        "JEE Advanced",
+        "CAT"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The Ministry of Education is developing a national examination-grade computer-based testing (CBT) infrastructure strategy. This initiative aims to address infrastructure and accessibility challenges, potentially enabling NEET-UG, India's largest undergraduate entrance examination, to transition from a pen-and-paper format to an online mode.",
+      "background": "Shifting large-scale examinations like NEET-UG to a computer-based format involves significant logistical planning, including ensuring widespread access to testing centers, standardizing facilities, and maintaining exam integrity. This move would align with global trends in examination delivery and potentially streamline the process for millions of students.",
+      "examRelevance": "Ministry of Education plans CBT infrastructure = NEET-UG may go online.",
+      "tags": [
+        "NEET-UG",
+        "CBT",
+        "Online Exam",
+        "Ministry of Education",
+        "Education Technology"
+      ],
+      "source": {
+        "title": "Centre plans online NEET infrastructure",
+        "url": "https://economictimes.indiatimes.com/industry/services/education/neet-ug-may-go-online-as-centre-works-on-national-exam-grade-cbt-infrastructure/articleshow/134583538.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q50",
+      "question": "Republican Senator Tommy Tuberville recently introduced the 'Americans First Immigration Act'. What is a key proposed change in this bill regarding the U.S. legal immigration system?",
+      "options": [
+        "Granting automatic citizenship to all undocumented immigrants",
+        "Introducing a merit-based system to replace the Diversity Visa Lottery",
+        "Expanding the Diversity Visa Lottery",
+        "Increasing family-sponsored immigration categories"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Republican Senator Tommy Tuberville introduced the 'Americans First Immigration Act' in the U.S. This bill proposes significant changes to the legal immigration system, including replacing the Diversity Visa Lottery with a merit-based system and limiting family-sponsored immigration to spouses and minor children.",
+      "background": "The Diversity Visa Lottery program currently provides up to 50,000 visas annually to individuals from countries with historically low rates of immigration to the U.S. Proposals for merit-based immigration systems often prioritize factors like education, English proficiency, job offers, and specialized skills.",
+      "examRelevance": "Republican Senator Tommy Tuberville introduced 'Americans First Immigration Act' to replace Diversity Visa Lottery with a merit-based system.",
+      "tags": [
+        "U.S. Immigration",
+        "Tommy Tuberville",
+        "Americans First Immigration Act",
+        "Green Card",
+        "Diversity Visa Lottery"
+      ],
+      "source": {
+        "title": "US Green Card: New ‘America First’ bill",
+        "url": "https://economictimes.indiatimes.com/nri/migrate/us-green-card-overhaul-republican-senator-tubervilles-new-america-first-bill-proposes-merit-based-system-ends-diversity-lottery/articleshow/134533958.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q51",
+      "question": "Who became the first Indian woman golfer to win a gold medal at the Asian Games 2026?",
+      "options": [
+        "Diksha Dagar",
+        "Avani Prashanth",
+        "Aditi Ashok",
+        "Pranavi Urs"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Pranavi Urs made history by becoming the first Indian woman golfer to strike gold at the Asian Games 2026. She recovered from a triple bogey on the third hole with three birdies to secure her victory.",
+      "background": "This achievement marks a significant milestone for Indian golf at the Asian Games, highlighting the growing talent and potential of women golfers in the country. The Indian women's golf team also clinched a silver medal at the same event.",
+      "examRelevance": "Pranavi Urs is the first Indian woman golfer to win gold at the Asian Games 2026.",
+      "tags": [
+        "Pranavi Urs",
+        "Asian Games 2026",
+        "Golf",
+        "Gold Medal"
+      ],
+      "source": {
+        "title": "Asian Games 2026 LIVE: Abhishek, Tilak fire India to 211/6 against Pakistan in gold clash",
+        "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-october-3-2026/article71539094.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q52",
+      "question": "Which combat jet programme's delays were recently cited by Air Chief Marshal A.P. Singh as detrimental to the Indian Air Force (IAF)?",
+      "options": [
+        "Rafale",
+        "Mirage 2000",
+        "Tejas",
+        "Sukhoi Su-30MKI"
+      ],
+      "answerIndex": 2,
+      "category": "Defence",
+      "explanation": "Air Chief Marshal A.P. Singh recently stated that delays in the Tejas combat jet programme are hurting the Indian Air Force (IAF). He also mentioned that India is looking to finalize the Medium Role Fighter Aircraft (MRFA) deal by the current financial year.",
+      "background": "The Tejas is an indigenous Light Combat Aircraft (LCA) developed by India. Delays in indigenous defence projects can impact the operational readiness and modernization plans of the armed forces, leading to reliance on imports.",
+      "examRelevance": "Delays in Tejas combat jet programme affecting IAF (Air Chief Marshal A.P. Singh).",
+      "tags": [
+        "Tejas",
+        "LCA",
+        "Indian Air Force",
+        "IAF",
+        "Defence",
+        "A.P. Singh"
+      ],
+      "source": {
+        "title": "Delays in Tejas combat jet programme hurting IAF: Air Chief Marshal A.P. Singh",
+        "url": "https://www.thehindu.com/news/national/delays-in-tejas-combat-jet-programme-hurting-iaf-air-chief-marshal-ap-singh/article71541421.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q53",
+      "question": "According to the PMI, India's manufacturing sector growth reached a seven-month high in which month of 2026?",
+      "options": [
+        "August",
+        "October",
+        "July",
+        "September"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "India's manufacturing sector growth reached a seven-month high in September 2026, driven by strong demand across various sectors including electronics, food, pharma, and textiles. The Purchasing Managers' Index (PMI) indicated that total sales growth was at its highest level since February.",
+      "background": "The Manufacturing PMI is an indicator of the economic health of the manufacturing sector. It is based on five major indicators: new orders, inventory levels, production, supplier deliveries, and the employment environment. A reading above 50 indicates expansion.",
+      "examRelevance": "India's manufacturing sector growth hit a seven-month high in September 2026 as per PMI.",
+      "tags": [
+        "Manufacturing Sector",
+        "PMI",
+        "September 2026",
+        "Economic Growth"
+      ],
+      "source": {
+        "title": "India's manufacturing sector growth hits seven-month high in Sept. 2026 on strong demand: PMI",
+        "url": "https://www.thehindu.com/business/Economy/indias-manufacturing-sector-growth-september-2026-strong-demand-pmi/article71531702.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q54",
+      "question": "The Madras High Court recently refused to review its order regarding warning labels on bottled water, sugar, and salt for the presence of what harmful substances?",
+      "options": [
+        "Chemical pesticides",
+        "Heavy metals",
+        "Artificial sweeteners",
+        "Micro/nano plastics"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The Madras High Court, comprising Justices N. Sathish Kumar and D. Bharatha Chakravarthy, dismissed a review application filed by the Food Safety and Standards Authority of India (FSSAI). The court upheld its previous order requiring warning labels on bottled water, sugar, and salt due to the presence of micro/nano plastics.",
+      "background": "This ruling underscores growing concerns about environmental pollutants, particularly microplastics, entering the food chain and consumer products. Regulatory bodies like FSSAI are tasked with ensuring food safety and addressing such emerging health concerns.",
+      "examRelevance": "Madras High Court refused review on order for micro/nano plastics warning labels on bottled water, sugar, salt.",
+      "tags": [
+        "Madras High Court",
+        "Microplastics",
+        "Nanoplastics",
+        "Warning Labels",
+        "FSSAI"
+      ],
+      "source": {
+        "title": "Madras High Court refuses to review its order on micro/nano plastics warning labels on bottled water, sugar, and salt",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-hc-refuses-to-review-its-order-on-micronano-plastics-warning-labels-on-bottled-water-sugar-and-salt/article71518436.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q55",
+      "question": "From which date will Delhi's new measures, including vehicle curbs and construction bans, be in force to tackle winter pollution?",
+      "options": [
+        "October 1, 2026",
+        "November 1, 2026",
+        "December 1, 2026",
+        "January 1, 2027"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Delhi's new measures to tackle winter pollution, including staggered office timings, doubled parking charges, vehicle curbs, work-from-home provisions, and construction bans, will remain in force from November 1, 2026, to January 31, 2027.",
+      "background": "Delhi faces severe air pollution during winter months due to a combination of factors including stubble burning, vehicular emissions, and industrial pollution. These measures are part of the Graded Response Action Plan (GRAP) to mitigate the crisis.",
+      "examRelevance": "Delhi winter pollution measures = Effective from November 1, 2026.",
+      "tags": [
+        "Delhi",
+        "Air Pollution",
+        "Winter",
+        "Vehicle Curbs",
+        "Environment"
+      ],
+      "source": {
+        "title": "Delhi announces vehicle curbs, work-from-home, construction bans for winter pollution",
+        "url": "https://www.thehindu.com/news/cities/Delhi/delhi-announces-vehicle-curbs-work-from-home-construction-bans-for-winter-pollution/article71519626.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q56",
+      "question": "Who has been recently appointed as the new President of the Punjab Pradesh Congress Committee (PPCC)?",
+      "options": [
+        "Navjot Singh Sidhu",
+        "Pargat Singh",
+        "Amarinder Singh",
+        "Sunil Jakhar"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "Pargat Singh, a former Olympic hockey captain, has been recently appointed as the new President of the Punjab Pradesh Congress Committee (PPCC). He replaced Warring in this significant party role.",
+      "background": "Pargat Singh's appointment is seen as a strategic move by the Congress to bridge factional divides within its Punjab unit. His background as a celebrated sportsman transitioning into a key political leadership role makes his appointment noteworthy.",
+      "examRelevance": "Pargat Singh is the new President of the Punjab Pradesh Congress Committee.",
+      "tags": [
+        "Pargat Singh",
+        "Appointments",
+        "Punjab Congress",
+        "PPCC"
+      ],
+      "source": {
+        "title": "Can Congress’s Pargat Singh bridge Punjab unit’s factional divide | Explained",
+        "url": "https://www.thehindu.com/news/national/punjab/punjab-pradesh-congress-committee-new-president-pargat-singh/article71539767.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q57",
+      "question": "Union Minister Nitin Gadkari recently announced a ₹1,176 crore six-lane bridge project over which river?",
+      "options": [
+        "Yamuna",
+        "Ganga",
+        "Brahmaputra",
+        "Teesta"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Union Minister Nitin Gadkari announced a ₹1,176 crore project for a six-lane bridge over the Teesta river. This bridge will be built on National Highway 10 and is intended to connect North East Sikkim with the Siliguri corridor.",
+      "background": "Nitin Gadkari is the Union Minister for Road Transport and Highways. Infrastructure projects like this bridge are crucial for improving connectivity, especially in challenging terrains like the North East, fostering economic development and facilitating movement of goods and people across regions.",
+      "examRelevance": "Nitin Gadkari announced ₹1,176 crore six-lane bridge project over Teesta river on NH-10.",
+      "tags": [
+        "Nitin Gadkari",
+        "Teesta River",
+        "Bridge Project",
+        "NH-10",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "Gadkari announes new Rs 1,176 crore bridge project",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/roadways/nitin-gadkari-says-rs-1176-crore-six-lane-bridge-will-be-built-on-nh-10-over-teesta-river-connecting-north-east-sikkim-and-siliguri-corridor/articleshow/134608965.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q58",
+      "question": "Japan has called on India to fast-track the internal process for an agreement on the transfer of technology for the UNICORN naval radar. This pact was signed during which Prime Minister's India visit in July?",
+      "options": [
+        "Sanae Takaichi",
+        "Shinzo Abe",
+        "Fumio Kishida",
+        "Yoshihide Suga"
+      ],
+      "answerIndex": 0,
+      "category": "Defence",
+      "explanation": "Japan has urged India to expedite its internal process regarding the UNICORN naval radar agreement, which involves the transfer of technology. This pact was initially signed during Japanese Prime Minister Sanae Takaichi’s visit to India in July.",
+      "background": "Defence cooperation, including technology transfer, is a growing aspect of India-Japan strategic partnership. Such agreements are vital for enhancing both nations' defence capabilities and fostering a stronger strategic alliance in the Indo-Pacific region.",
+      "examRelevance": "Japan calls on India to fast-track UNICORN naval radar agreement, signed during PM Sanae Takaichi's visit.",
+      "tags": [
+        "India-Japan",
+        "UNICORN Radar",
+        "Naval Technology",
+        "Defence Cooperation",
+        "Sanae Takaichi"
+      ],
+      "source": {
+        "title": "Japan calls on India to fast-track internal process on UNICORN naval radar agreement",
+        "url": "https://www.thehindu.com/news/national/japan-calls-on-india-to-fast-trackinternal-process-on-unicorn-naval-radar-agreement/article71524306.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q59",
+      "question": "Who scripted history by winning India's first-ever women's trap gold medal at the Asian Games 2026?",
+      "options": [
+        "Apurvi Chandela",
+        "Manu Bhaker",
+        "Shreyasi Singh",
+        "Neeru Dhanda"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Neeru Dhanda scripted history by winning India's first-ever women's trap gold medal at the Asian Games 2026. She had qualified for the eight-shooter final after finishing as joint topper with Qatar's Ray Bassil at 118, which is a qualification Games record.",
+      "background": "India has a strong presence in shooting events at the Asian Games. This achievement marks a significant milestone as the first individual gold in the women's trap event for India.",
+      "examRelevance": "Neeru Dhanda = India's first women's trap gold medallist at Asian Games 2026.",
+      "tags": [
+        "Neeru Dhanda",
+        "Asian Games 2026",
+        "Shooting",
+        "Trap Gold"
+      ],
+      "source": {
+        "title": "Asian Games 2026 LIVE: Neeru Dhanda scripts history with India’s first women’s trap gold",
+        "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-29-2026/article71521586.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q60",
+      "question": "At the Asian Games 2026, Indian boxer Lovlina Borgohain reached the final, assuring India of at least a silver medal. Which other Indian boxer signed off with a bronze medal at the same event?",
+      "options": [
+        "Priya Ghanghas",
+        "Mary Kom",
+        "Nikhat Zareen",
+        "Simranjit Kaur"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "At the Asian Games 2026, Indian boxer Lovlina Borgohain made history by becoming the first Indian woman boxer to reach back-to-back Asian Games finals, thereby securing at least a silver medal for India. In the same event, boxer Priya Ghanghas signed off with a bronze medal.",
+      "background": "Indian boxing has seen significant success on the international stage, with women boxers consistently bringing home medals. Achievements at the Asian Games are crucial for athletes as they often serve as qualifiers or build momentum for bigger events like the Olympics.",
+      "examRelevance": "Asian Games 2026 Boxing = Lovlina Borgohain in final, Priya Ghanghas won bronze.",
+      "tags": [
+        "Asian Games 2026",
+        "Lovlina Borgohain",
+        "Priya Ghanghas",
+        "Boxing",
+        "Medal Winners"
+      ],
+      "source": {
+        "title": "Asian Games 2026: Lovlina to fight for gold, Priya signs off with bronze medal",
+        "url": "https://www.thehindu.com/sport/asian-games-2026-lovlina-to-fight-for-gold-priya-signs-off-with-bronze-medal/article71527076.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q61",
+      "question": "The US Embassy recently hailed the debut of which advanced fighter jet at the Tarang Shakti 2026 exercise in India?",
+      "options": [
+        "F-16",
+        "F-22",
+        "F-15",
+        "F-35"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "The US Embassy hailed the F-35 fighter jet's debut at the Tarang Shakti 2026 exercise in India, emphasizing the strengthening of coordination and readiness between the two nations.",
+      "background": "Tarang Shakti is a multilateral air exercise hosted by India, involving air forces from several countries. The participation of advanced aircraft like the F-35 signifies deepening strategic ties and interoperability between the participating nations.",
+      "examRelevance": "F-35 = Debuted at Tarang Shakti 2026 in India.",
+      "tags": [
+        "F-35",
+        "Tarang Shakti 2026",
+        "Defence Exercise",
+        "US-India"
+      ],
+      "source": {
+        "title": "US embassy hails F-35 debut in India",
+        "url": "https://economictimes.indiatimes.com/news/defence/strengthening-coordination-readiness-us-embassy-hails-f-35-debut-at-tarang-shakti-2026-in-india/articleshow/134556486.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q62",
+      "question": "Who has recently been appointed as the new Chairman of V-Guard Industries Ltd.?",
+      "options": [
+        "Kochouseph Chittilappilly",
+        "Arun Kumar",
+        "Suresh Kumar",
+        "Mithun Chittilappilly"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "V-Guard Industries Ltd., a prominent electrical and electronic appliance manufacturer, has recently appointed Mithun Chittilappilly as its new chairman. He previously served as the Managing Director of the company.",
+      "background": "V-Guard is a well-known Indian brand with a significant presence in the consumer durables market. Leadership changes at the top often signal strategic shifts or continuity in the company's direction.",
+      "examRelevance": "Mithun Chittilappilly is the new Chairman of V-Guard Industries Ltd.",
+      "tags": [
+        "V-Guard",
+        "Mithun Chittilappilly",
+        "Chairman",
+        "Appointment"
+      ],
+      "source": {
+        "title": "V-Guard appoints Mithun Chittilappilly as chairman",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/durables/v-guard-md-mithun-k-chittilappilly-takes-over-as-chairperson/articleshow/134534350.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q63",
+      "question": "Which mutual fund recently saw its stake in Swiggy cross 5%?",
+      "options": [
+        "HDFC Mutual Fund",
+        "SBI Mutual Fund",
+        "Axis Mutual Fund",
+        "ICICI Prudential Mutual Fund"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "SBI Mutual Fund's stake in the food delivery platform Swiggy recently crossed the 5% threshold. This increase in stake reflects SBI Mutual Fund's investment strategy in the growing Indian startup and digital economy sector.",
+      "background": "Swiggy is one of India's largest online food delivery and quick commerce platforms. Investments by major institutional investors like SBI Mutual Fund are significant indicators of market confidence in the company's growth potential and valuation, especially in the context of its potential IPO.",
+      "examRelevance": "SBI Mutual Fund's stake in Swiggy crossed 5%.",
+      "tags": [
+        "SBI Mutual Fund",
+        "Swiggy",
+        "Investment",
+        "Stake",
+        "Economy"
+      ],
+      "source": {
+        "title": "SBI Mutual Fund’s stake in Swiggy crosses 5%",
+        "url": "https://economictimes.indiatimes.com/tech/technology/sbi-mutual-funds-stake-in-swiggy-crosses-5-as-asset-manager-picks-up-shares-worth-rs-300-crore/articleshow/134608509.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q64",
+      "question": "Former Home Secretary R.K. Singh recently accused CEC Gyanesh Kumar of ‘illegalities’ in relation to which process?",
+      "options": [
+        "Appointment of District Election Officers",
+        "Delimitation Commission proceedings",
+        "Electronic Voting Machine (EVM) procurement",
+        "Special Electoral Roll Revision (SIR)"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Former Home Secretary R.K. Singh, in an open letter, accused Chief Election Commissioner (CEC) Gyanesh Kumar of ‘illegalities’ in relation to the Special Electoral Roll Revision (SIR). He also urged Opposition parties to boycott elections until the CEC and Election Commissioners resign.",
+      "background": "The Special Electoral Roll Revision (SIR) is a process undertaken by the Election Commission to update voter lists. Allegations of illegalities in this process, especially concerning voter deletions, have become a contentious issue, leading to calls for transparency and legal challenges.",
+      "examRelevance": "R.K. Singh = Accused CEC Gyanesh Kumar of illegalities in SIR.",
+      "tags": [
+        "CEC",
+        "Gyanesh Kumar",
+        "R.K. Singh",
+        "SIR",
+        "Electoral Roll"
+      ],
+      "source": {
+        "title": "Ex-Home Secretary R.K. Singh accuses CEC Gyanesh Kumar of ‘illegalities’ in SIR",
+        "url": "https://www.thehindu.com/news/national/ex-home-secretary-rk-singh-accuses-cec-gyanesh-kumar-of-illegalities-in-sir-calls-for-opposition-unity/article71522341.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q65",
+      "question": "What medal did the Indian women's squash team win at the Asian Games 2026?",
+      "options": [
+        "Silver",
+        "Bronze",
+        "No medal",
+        "Gold"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "The Indian women's squash team secured a bronze medal at the Asian Games 2026. This achievement contributes to India's overall medal tally at the prestigious multi-sport event.",
+      "background": "The Asian Games are a continental multi-sport event held every four years among athletes from all over Asia. Squash is a regular event at the Asian Games, with India consistently performing well in both individual and team categories.",
+      "examRelevance": "Indian women's squash team won bronze at Asian Games 2026.",
+      "tags": [
+        "Asian Games 2026",
+        "Squash",
+        "Women's Team",
+        "Bronze Medal"
+      ],
+      "source": {
+        "title": "Asian Games 2026 LIVE: India thrash Sri Lanka by 124 runs to storm into final",
+        "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-30-2026/article71530982.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q66",
+      "question": "How many talukas in Maharashtra have been recently declared drought-affected due to a significant shortfall in rainfall as the monsoon nears its end?",
+      "options": [
+        "265",
+        "180",
+        "415",
+        "340"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Maharashtra has recently declared drought in 265 talukas due to a significant shortfall in rainfall as the monsoon nears its end. Only five districts recorded rain at or above the average for the period.",
+      "background": "A drought declaration triggers various relief measures for farmers, including waiving land revenue, restructuring crop loans, and providing subsidies for agricultural inputs. This decision is based on specific criteria related to rainfall deficit, crop yield, and soil moisture.",
+      "examRelevance": "Maharashtra drought = 265 talukas affected.",
+      "tags": [
+        "Maharashtra",
+        "Drought",
+        "Monsoon",
+        "Agriculture"
+      ],
+      "source": {
+        "title": "Why has Maharashtra declared drought in 265 talukas and what do farmers get? | Explained",
+        "url": "https://www.thehindu.com/news/national/maharashtra/why-has-maharashtra-declared-drought-in-265-talukas-and-what-do-farmers-get-explained/article71522489.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q67",
+      "question": "The prisons chief of which US state recently resigned following the failed execution of Christa Pike?",
+      "options": [
+        "Florida",
+        "Alabama",
+        "Texas",
+        "Tennessee"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The head of Tennessee’s prison system recently resigned after the failed execution of Christa Pike. This incident led to increased scrutiny of the state's execution protocols.",
+      "background": "Issues surrounding capital punishment, including the methods of execution and their administration, are subjects of ongoing debate and legal challenges in the United States. Failed executions often lead to resignations and policy reviews.",
+      "examRelevance": "Tennessee's prisons chief resigned after failed execution of Christa Pike.",
+      "tags": [
+        "Tennessee",
+        "Christa Pike",
+        "Prison system",
+        "Resignation",
+        "Capital punishment",
+        "International news"
+      ],
+      "source": {
+        "title": "Tennessee’s prisons chief is resigning after failed execution of Christa Pike",
+        "url": "https://www.thehindu.com/news/international/tennessees-prisons-chief-is-resigning-after-failed-execution-of-christa-pike/article71542835.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q68",
+      "question": "Which Indian organization warned that a prolonged El Nino event may hurt the marine ecosystem?",
+      "options": [
+        "ISRO",
+        "IMD",
+        "CPCB",
+        "INCOIS"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The Indian National Centre for Ocean Information Services (INCOIS) warned that a prolonged El Nino event may hurt the marine ecosystem.",
+      "background": "El Nino is a climate pattern associated with the warming of ocean surface temperatures in the central and eastern tropical Pacific Ocean. It can have significant impacts on global weather patterns, including marine ecosystems, leading to coral bleaching, changes in fish migration, and altered ocean productivity.",
+      "examRelevance": "INCOIS = Warned about prolonged El Nino hurting marine ecosystem.",
+      "tags": [
+        "INCOIS",
+        "El Nino",
+        "Marine Ecosystem",
+        "Environment",
+        "Climate Change"
+      ],
+      "source": {
+        "title": "Prolonged El Nino may hurt marine ecosystem: INCOIS",
+        "url": "https://www.thehindu.com/news/national/telangana/prolonged-el-nino-may-hurt-marine-ecosystem-incois/article71519304.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q69",
+      "question": "The Chakma Autonomous District Council (CADC) recently resolved to introduce \"Mizo Speaking Day\" in all primary and middle schools within its area. On which day of the week will this be observed?",
+      "options": [
+        "Friday",
+        "Wednesday",
+        "Monday",
+        "Saturday"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "The Chakma Autonomous District Council (CADC) recently decided to implement the National Education Policy (NEP) from 2027-28 and introduce 'Mizo Speaking Day' in all primary and middle schools within the CADC area. This initiative will be observed every Wednesday to provide students regular opportunities to learn and practice the Mizo language.",
+      "background": "Autonomous district councils in India have significant powers to govern their respective regions, including cultural and educational policies. This move aims to promote and preserve the Mizo language among students in the CADC area.",
+      "examRelevance": "Chakma Autonomous District Council will observe 'Mizo Speaking Day' every Wednesday in schools.",
+      "tags": [
+        "Chakma Autonomous District Council",
+        "Mizo Language",
+        "Mizo Speaking Day",
+        "Education Policy"
+      ],
+      "source": {
+        "title": "Chakma council to implement NEP from 2027-28, introduce ‘Mizo Speaking Day’ in schools",
+        "url": "https://www.thehindu.com/news/national/mizoram/chakma-council-to-implement-nep-from-2027-28-introduce-mizo-speaking-day-in-schools/article71518647.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q70",
+      "question": "The newly launched Oppo K14 Plus smartphone in India ships with an 8,000 mAh battery, paired with which fast charging technology?",
+      "options": [
+        "100W UltraDart Charge",
+        "45W SUPERVOOC charging",
+        "33W Flash Charge",
+        "65W Warp Charge"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The newly launched Oppo K14 Plus smartphone in India ships with an 8,000 mAh battery, paired with 45W SUPERVOOC charging. It also supports 10W reverse wired charging.",
+      "background": "Oppo's SUPERVOOC charging technology is known for its fast-charging capabilities, allowing devices to be charged rapidly. High-capacity batteries combined with fast charging are increasingly common features in modern smartphones.",
+      "examRelevance": "Oppo K14 Plus = 45W SUPERVOOC charging.",
+      "tags": [
+        "Oppo K14 Plus",
+        "Smartphone",
+        "SUPERVOOC",
+        "Fast Charging"
+      ],
+      "source": {
+        "title": "Oppo launches K14 Plus with Dimensity processor in India",
+        "url": "https://www.thehindu.com/sci-tech/technology/gadgets/oppo-launches-k14-plus-with-dimensity-processor-in-india/article71522887.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q71",
+      "question": "Which Punjabi influencer and makeup artist was recently shot dead by unidentified persons in Amritsar?",
+      "options": [
+        "Ranjit Kaur",
+        "Simranjeet Singh",
+        "Mad Sandhu",
+        "Amritpal Dhillon"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Punjabi influencer and makeup artist Mad Sandhu was recently shot dead by two unidentified persons on a motorbike in Amritsar. The assailants opened fire and fled the spot.",
+      "background": "The incident highlights concerns regarding safety and security, particularly for public figures, and prompts police investigation into the motive and perpetrators behind such violent acts.",
+      "examRelevance": "Punjabi influencer Mad Sandhu shot dead in Amritsar.",
+      "tags": [
+        "Mad Sandhu",
+        "Punjabi influencer",
+        "Amritsar",
+        "Crime",
+        "Obituaries"
+      ],
+      "source": {
+        "title": "Punjabi influencer, makeup artist shot dead in Amritsar",
+        "url": "https://www.thehindu.com/news/national/punjab/punjabi-influencer-makeup-artist-shot-dead-in-amritsar/article71542972.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q72",
+      "question": "The Chettinad Heritage and Cultural Festival was recently held, aiming to revive and preserve the region's unique architecture, crafts, and traditions. In which Indian state is the Chettinad region located?",
+      "options": [
+        "Tamil Nadu",
+        "Kerala",
+        "Andhra Pradesh",
+        "Karnataka"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "The Chettinad Heritage and Cultural Festival was recently organized to showcase and revive the distinctive architecture, crafts, and traditions of the Chettinad region. The Chettinad region is located in the state of Tamil Nadu.",
+      "background": "Chettinad is renowned for its grand mansions, distinctive cuisine, and a rich cultural heritage shaped by the Nattukottai Chettiar community. Festivals like this play a vital role in drawing attention to and preserving these unique cultural assets, which are significant for tourism and local identity.",
+      "examRelevance": "Chettinad Heritage and Cultural Festival = held in Tamil Nadu.",
+      "tags": [
+        "Chettinad",
+        "Tamil Nadu",
+        "Heritage Festival",
+        "Culture",
+        "Architecture"
+      ],
+      "source": {
+        "title": "At the Chettinad Heritage and Cultural Festival, a revival takes root",
+        "url": "https://www.thehindu.com/society/at-the-chettinad-heritage-and-cultural-festival-a-revival-takes-root/article71519870.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q73",
+      "question": "The wholesale market in Vellore, established in 1868, recently marked its 158th anniversary. This market is located in which Indian state?",
+      "options": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "The wholesale market in Vellore, which was established in 1868 and has grown significantly since then, recently marked its 158th anniversary. Vellore is a city located in the Indian state of Tamil Nadu.",
+      "background": "Historical markets often serve as economic and social hubs for their regions, reflecting long-standing trade practices and community life. Their continued existence and growth highlight their adaptability and importance.",
+      "examRelevance": "Vellore wholesale market (established 1868, 158th anniversary) is in Tamil Nadu.",
+      "tags": [
+        "Vellore",
+        "Wholesale market",
+        "Tamil Nadu",
+        "History",
+        "Anniversary",
+        "Economy"
+      ],
+      "source": {
+        "title": "News in Frames: The old world within a busy market",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/news-in-frames-the-old-world-within-a-busy-market/article71542953.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q74",
+      "question": "The Kerala High Court recently held that the Central government can intervene when patented medicines are sold at exorbitant rates. How did the court suggest the government could utilize a medicine’s patent in such a scenario?",
+      "options": [
+        "Negotiate lower prices with patent holders",
+        "Manufacture and sell the medicine to the public on a non-commercial basis",
+        "Subsidize the cost of patented medicines for all patients",
+        "Compulsorily revoke the patent entirely"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Kerala High Court ruled that the Central government has the authority to intervene when patented medicines are sold at exorbitant rates. The court held that the government can use a medicine’s patent to manufacture and sell it to the public, including underprivileged patients, on a non-commercial basis to ensure affordability and accessibility.",
+      "background": "This judgment highlights the legal provisions available to the government to ensure public access to essential medicines, even those under patent protection, especially in cases of price gouging. It touches upon the balance between intellectual property rights and public health interests.",
+      "examRelevance": "Kerala HC ruled Centre can manufacture/sell patented medicines non-commercially if prices are exorbitant.",
+      "tags": [
+        "Kerala High Court",
+        "Patented Medicines",
+        "Central Government",
+        "Public Health",
+        "Drug Pricing"
+      ],
+      "source": {
+        "title": "Centre should intervene when patented medicines are sold at exorbitant rate: Kerala HC",
+        "url": "https://www.thehindu.com/news/national/kerala/centre-should-intervene-when-patented-medicines-are-sold-at-exorbitant-rate-kerala-hc/article71518618.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q75",
+      "question": "A CISF constable recently gunned down four colleagues in a fratricide incident. This tragic event occurred at the Sewa-III hydroelectric power project in Mashka village, located in which Indian state/UT?",
+      "options": [
+        "Himachal Pradesh",
+        "Jammu & Kashmir",
+        "Uttarakhand",
+        "Arunachal Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "A CISF constable was involved in a fratricide incident, gunning down four colleagues at the Sewa-III hydroelectric power project. This incident took place at Mashka village in Basohli, Kathua district, located in Jammu & Kashmir, near the border with Himachal Pradesh.",
+      "background": "Incidents of fratricide within armed forces and paramilitary units are a serious concern, often attributed to stress, mental health issues, or personal conflicts. Such events prompt investigations into the well-being of personnel and the management of high-stress environments.",
+      "examRelevance": "CISF fratricide incident = four colleagues killed in Kathua, Jammu & Kashmir.",
+      "tags": [
+        "CISF",
+        "Fratricide",
+        "Kathua",
+        "Jammu & Kashmir",
+        "Sewa-III"
+      ],
+      "source": {
+        "title": "CISF constable guns down four colleagues in J&K’s Kathua",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/four-cisf-personnel-killed-in-fratricide-incident-in-kathua-accused-held/article71525156.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q76",
+      "question": "The 'Vettri Payanam' scheme, recently launched to provide no-fare travel for women passengers to workplaces, is associated with which state?",
+      "options": [
+        "Karnataka",
+        "Telangana",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The 'Vettri Payanam' scheme has been launched in Tamil Nadu, offering no-fare travel for women passengers commuting to their workplaces on government buses. This initiative aims to provide significant savings for women.",
+      "background": "The scheme has faced a legal challenge, with a private bus operator from Erode urging the Madras High Court to declare it unconstitutional, claiming it would severely impact their business.",
+      "examRelevance": "'Vettri Payanam' scheme = no-fare travel for women in government buses, launched in Tamil Nadu.",
+      "tags": [
+        "Vettri Payanam",
+        "Women empowerment",
+        "Tamil Nadu",
+        "Public transport",
+        "Government scheme"
+      ],
+      "source": {
+        "title": "‘Vettri Payanam’ scheme launched; women passengers travelling to workplaces to save a lot",
+        "url": "https://www.thehindu.com/news/cities/Madurai/vettri-payanam-scheme-launched-women-passengers-travelling-to-workplaces-to-save-a-lot/article71536783.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q77",
+      "question": "The Centre recently approved a ₹93.94 crore project for the redevelopment of Maharaja Ajj Sarovar in which state?",
+      "options": [
+        "Uttar Pradesh",
+        "Rajasthan",
+        "Haryana",
+        "Punjab"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Centre has approved a project worth ₹93.94 crore for the redevelopment of Maharaja Ajj Sarovar, located in Kharar, Punjab. This approval followed several rounds of consultations between the Punjab government and the Union government.",
+      "background": "Such redevelopment projects often fall under national tourism or heritage conservation initiatives, aiming to boost local tourism, preserve historical sites, and enhance public amenities. Kharar is a town in the Mohali district of Punjab, known for its historical and cultural significance.",
+      "examRelevance": "Centre approved ₹93.94 crore for redevelopment of Maharaja Ajj Sarovar in Kharar, Punjab.",
+      "tags": [
+        "Maharaja Ajj Sarovar",
+        "Kharar",
+        "Punjab",
+        "Redevelopment Project",
+        "Central Government"
+      ],
+      "source": {
+        "title": "Centre approves ₹93.94 crore project to redevelop Maharaja Ajj Sarovar in Punjab’s Kharar",
+        "url": "https://www.thehindu.com/news/national/punjab/union-tourism-ministry-approves-9394-crore-for-redeveloping-maharaja-ajj-sarovar-in-kharar/article71528960.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q78",
+      "question": "Christa Pike is set to become the first woman executed by which U.S. state in two centuries, following the U.S. Supreme Court's rejection of a stay of execution?",
+      "options": [
+        "Texas",
+        "Florida",
+        "Tennessee",
+        "California"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Christa Pike is scheduled to be executed, which would make her the first woman executed by the U.S. state of Tennessee in two centuries. The U.S. Supreme Court rejected an eleventh-hour bid for a stay of execution.",
+      "background": "Capital punishment remains a contentious issue in the United States, with varying practices across states. This execution in Tennessee marks a significant and rare event, drawing attention to the state's judicial system and its history of capital punishment.",
+      "examRelevance": "Christa Pike = first woman executed by Tennessee in two centuries.",
+      "tags": [
+        "Christa Pike",
+        "Tennessee",
+        "Execution",
+        "US Supreme Court"
+      ],
+      "source": {
+        "title": "Christa Pike set to become first woman executed by Tennessee in two centuries",
+        "url": "https://www.thehindu.com/news/international/christa-pike-set-for-execution-as-tennessee-prepares-for-first-womans-death-in-two-centuries/article71526970.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q79",
+      "question": "Which country recently retaliated by launching drones and firing ballistic missiles at Israel after alleged Israeli strikes on its nuclear program?",
+      "options": [
+        "Syria",
+        "Iran",
+        "Egypt",
+        "Lebanon"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Iran recently retaliated against alleged Israeli strikes on its nuclear program by launching drones and subsequently firing waves of ballistic missiles at Israel. Explosions were reported over Jerusalem and Tel Aviv.",
+      "background": "The Middle East remains a region of significant geopolitical tension, with long-standing rivalries and conflicts. This exchange of strikes between Iran and Israel marks a serious escalation, raising concerns about regional stability and the potential for a wider conflict.",
+      "examRelevance": "Iran retaliated against Israeli strikes = launched drones and ballistic missiles at Israel.",
+      "tags": [
+        "Iran",
+        "Israel",
+        "Middle East Conflict",
+        "Nuclear Program",
+        "Ballistic Missiles"
+      ],
+      "source": {
+        "title": "Iran retaliates after Israeli strikes its nuclear program; 3 killed, several wounded",
+        "url": "https://www.thehindu.com/news/international/iran-retaliates-after-israeli-strikes-its-nuclear-program-3-killed-several-wounded/article69693787.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q80",
+      "question": "Which Indian city recently honoured shooter Rudrankksh Patil for his Asian Games medals?",
+      "options": [
+        "Mumbai",
+        "Thane",
+        "Nagpur",
+        "Pune"
+      ],
+      "answerIndex": 1,
+      "category": "Awards & Honours",
+      "explanation": "The Thane Municipal Corporation recently honored shooter Rudrankksh Patil for his achievements, specifically his medals won at the Asian Games. Patil expressed satisfaction with his performance despite preparations not going as planned.",
+      "background": "Rudrankksh Patil is a prominent Indian shooter who has achieved success in international competitions. Public felicitations by municipal bodies like Thane Municipal Corporation are common ways to recognize and encourage athletes for bringing glory to their region and country.",
+      "examRelevance": "Thane honoured shooter Rudrankksh Patil for Asian Games medals.",
+      "tags": [
+        "Rudrankksh Patil",
+        "Thane",
+        "Asian Games",
+        "Shooting",
+        "Awards"
+      ],
+      "source": {
+        "title": "Thane honours shooter Rudrankksh Patil for Asian Games medals",
+        "url": "https://www.thehindu.com/news/national/maharashtra/shooter-patil-gets-thane-municipal-corporation-reception-after-asian-games-medals/article71529367.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q81",
+      "question": "By how many paise did the Indian Rupee fall against the U.S. dollar in early trade, reaching 96.13?",
+      "options": [
+        "12 paise",
+        "20 paise",
+        "8 paise",
+        "16 paise"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Indian Rupee fell 16 paise to 96.13 against the U.S. dollar in early trade. Forex traders attributed this pressure largely to a combination of firm oil prices and rising U.S. nominal and real yields.",
+      "background": "The depreciation of the rupee against the dollar is influenced by global economic factors, including crude oil prices and interest rate differentials, which impact portfolio flows into and out of emerging markets like India.",
+      "examRelevance": "Rupee fall = 16 paise against US dollar, reaching 96.13.",
+      "tags": [
+        "Indian Rupee",
+        "US Dollar",
+        "Forex",
+        "Economy"
+      ],
+      "source": {
+        "title": "Rupee falls 16 paise to 96.13 against U.S. dollar in early trade",
+        "url": "https://www.thehindu.com/business/rupee-falls-16-paise-to-9613-against-us-dollar-in-early-trade/article71522669.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q82",
+      "question": "Where did Tamil Nadu's first booth-less toll system become operational?",
+      "options": [
+        "Madurai",
+        "Paranur",
+        "Coimbatore",
+        "Chennai"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "Tamil Nadu's first booth-less toll system has become operational at Paranur. This system allows vehicles equipped with FASTag cards or exempt tags to pass through without stopping, as their tags are scanned ahead of the plaza point.",
+      "background": "The implementation of booth-less toll systems aims to reduce traffic congestion and waiting times at toll plazas, promoting smoother and more efficient travel on national highways. FASTag, an electronic toll collection system, is integral to such initiatives.",
+      "examRelevance": "Tamil Nadu's first booth-less toll system is operational at Paranur.",
+      "tags": [
+        "Tamil Nadu",
+        "Booth-less Toll",
+        "Paranur",
+        "FASTag",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "Tamil Nadu’s first booth-less toll system becomes operational at Paranur",
+        "url": "https://www.thehindu.com/news/cities/chennai/tns-first-booth-less-toll-system-becomes-operational-at-paranur/article71529979.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q83",
+      "question": "Union Road Transport and Highways Minister Nitin Gadkari recently announced an allocation of over ₹500 crore for highway projects in which district of West Bengal?",
+      "options": [
+        "Purba Bardhaman",
+        "Birbhum",
+        "Paschim Medinipur",
+        "Murshidabad"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "Union Road Transport and Highways Minister Nitin Gadkari announced an allocation of ₹508.66 crore for strengthening and selective widening of stretches of NH-14 and NH-114 in West Bengal’s Birbhum district. The project aims to improve road safety and reduce congestion.",
+      "background": "Infrastructure development, particularly national highways, is a key focus area for the central government to enhance connectivity, facilitate trade, and boost economic growth across regions.",
+      "examRelevance": "Nitin Gadkari allocated ₹508.66 crore for highway projects in Birbhum district, West Bengal.",
+      "tags": [
+        "Nitin Gadkari",
+        "Highway projects",
+        "West Bengal",
+        "Birbhum",
+        "NH-14",
+        "NH-114"
+      ],
+      "source": {
+        "title": "Gadkari clears Rs 508 cr highway projects",
+        "url": "https://economictimes.indiatimes.com/news/economy/infrastructure/nitin-gadkari-announces-over-rs-500-crore-for-highway-strengthening-widening-in-bengal-what-will-change-for-commuters-travelling-on-nh-14-and-nh-114/articleshow/134670204.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q84",
+      "question": "The Mamallan Reservoir project in Tamil Nadu is facing opposition from local communities and environmental groups. This project's construction began during which political regime?",
+      "options": [
+        "PMK regime",
+        "AIADMK regime",
+        "Congress regime",
+        "DMK regime"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Mamallan Reservoir project in Tamil Nadu, which is currently facing opposition due to its potential impact on wetlands, fisheries, and local hydrology, began its construction during the erstwhile DMK regime.",
+      "background": "The project aims to enhance water supply or irrigation in the region. However, like many large-scale infrastructure projects, it has drawn criticism from environmentalists and local residents concerned about ecological disruption and livelihood impacts, particularly for fishing communities.",
+      "examRelevance": "Mamallan Reservoir project in Tamil Nadu = began during erstwhile DMK regime, facing opposition.",
+      "tags": [
+        "Mamallan Reservoir",
+        "Tamil Nadu",
+        "DMK",
+        "Environmental Concerns"
+      ],
+      "source": {
+        "title": "What is the Mamallan Reservoir project in Tamil Nadu and why is it being opposed? Explained",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/what-is-the-mamallan-reservoir-project-in-tamil-nadu-and-why-is-it-being-opposed-explained/article71526982.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q85",
+      "question": "Drought conditions in Karnataka have recently caused significant damage to agricultural crops. Which specific crop recorded the highest crop loss, with 84,656 hectares affected?",
+      "options": [
+        "Coconut",
+        "Arecanut",
+        "Paddy",
+        "Sugarcane"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "According to officials from the Horticulture Department, drought in Karnataka has severely impacted agricultural production, causing damage to 84,656 hectares of coconut plantations. This makes coconut the crop with the highest recorded loss among all crops surveyed in recent months.",
+      "background": "Karnataka is a major agricultural state, and its economy is highly dependent on monsoon rainfall. Droughts have recurring impacts on the state's agriculture, affecting livelihoods and food security.",
+      "examRelevance": "Drought in Karnataka damaged 84,656 hectares of coconut plantations, the highest crop loss.",
+      "tags": [
+        "Karnataka",
+        "Drought",
+        "Coconut Plantations",
+        "Crop Loss",
+        "Horticulture Department"
+      ],
+      "source": {
+        "title": "Drought damages 84,656 hectares of coconut plantations in Karnataka; impact may last for three years",
+        "url": "https://www.thehindu.com/news/national/karnataka/drought-damages-84656-hectares-of-coconut-plantations-in-karnataka-impact-may-last-for-three-years/article71516055.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q86",
+      "question": "India recently standardized the names of how many places in Ladakh, including peaks, mountains, land areas, glaciers, passes, and water bodies?",
+      "options": [
+        "35",
+        "20",
+        "42",
+        "28"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "India recently undertook an exercise to standardize the names of 28 places in Ladakh. This list includes 11 peaks, five mountains, six land areas, two glaciers, two passes, one valley, one river, one lake, and one other water body.",
+      "background": "Standardizing geographical names is crucial for administrative clarity, mapping, and national security, especially in strategically sensitive regions like Ladakh. This initiative helps in maintaining official records and avoiding ambiguities in nomenclature.",
+      "examRelevance": "India standardized names of 28 places in Ladakh.",
+      "tags": [
+        "Ladakh",
+        "Place Names",
+        "Standardization",
+        "Geography"
+      ],
+      "source": {
+        "title": "India standardises names of 28 places in Ladakh",
+        "url": "https://www.thehindu.com/news/national/ladakh/india-standardises-names-of-28-places-in-ladakh/article71538275.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q87",
+      "question": "At the Asian Games 2026, the Indian team of Kynan and Neeru won a gold medal and set an Asian record in which sporting event?",
+      "options": [
+        "Mixed Doubles Badminton",
+        "Mixed Team Archery",
+        "Mixed Relay Swimming",
+        "Mixed Team Trap Shooting"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "The Indian team comprising Kynan and Neeru won a gold medal in the Mixed Team Trap Shooting event at the Asian Games 2026. They also set a new Asian record in the process, shooting a score of 34 in the final.",
+      "background": "India has a strong tradition in shooting sports and consistently performs well at international events like the Asian Games and Commonwealth Games. This victory adds to India's medal tally and highlights the talent in mixed-team events.",
+      "examRelevance": "Asian Games 2026 = Kynan and Neeru won gold in Mixed Team Trap Shooting, set Asian record.",
+      "tags": [
+        "Asian Games 2026",
+        "Kynan Chenai",
+        "Neeru Dhanda",
+        "Trap Shooting",
+        "Gold Medal"
+      ],
+      "source": {
+        "title": "Asian Games 2026 LIVE: Kynan, Neeru win gold, set Asian record in trap shooting",
+        "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-30-2026/article71525800.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q88",
+      "question": "Switzerland's recently explained 'neutrality initiative' proposed stricter rules concerning which aspects of its foreign policy?",
+      "options": [
+        "Trade agreements and economic partnerships",
+        "Military alliances, armed conflicts, and sanctions",
+        "Environmental protection and climate change cooperation",
+        "Cultural exchange programs and tourism"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Switzerland's 'neutrality initiative' was a proposal seeking to introduce stricter rules on its foreign policy, specifically regarding military alliances, armed conflicts, and sanctions. The initiative aimed to reinforce the country's traditional stance of neutrality.",
+      "background": "Switzerland has a long-standing tradition of neutrality, which has shaped its foreign policy for centuries. This initiative was a public debate on how to interpret and apply this neutrality in the contemporary global landscape, especially concerning international conflicts and sanction regimes.",
+      "examRelevance": "Switzerland's 'neutrality initiative' proposed stricter rules on military alliances, armed conflicts, and sanctions.",
+      "tags": [
+        "Switzerland",
+        "Neutrality Initiative",
+        "Foreign Policy",
+        "Military Alliances",
+        "Sanctions"
+      ],
+      "source": {
+        "title": "What is Switzerland’s ‘neutrality initiative’? | Explained",
+        "url": "https://www.thehindu.com/news/international/what-is-switzerlands-neutrality-initiative-explained/article71518396.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q89",
+      "question": "Taiwan recently received two long-delayed F-16V Block 70 fighter jets from which country at its Chihhang Air Base?",
+      "options": [
+        "France",
+        "United States",
+        "Germany",
+        "United Kingdom"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "Taiwan recently took delivery of two long-delayed F-16V Block 70 fighter jets from the United States. These advanced jets landed at Chihhang Air Base in Taitung.",
+      "background": "The delivery of these F-16V jets is part of a larger arms deal aimed at bolstering Taiwan's air defense capabilities amidst rising tensions in the region. The F-16V is an upgraded version of the F-16 fighter, featuring advanced avionics and weapon systems.",
+      "examRelevance": "Taiwan received F-16V fighter jets from the United States.",
+      "tags": [
+        "Taiwan",
+        "F-16V",
+        "United States",
+        "Defence"
+      ],
+      "source": {
+        "title": "Taiwan receives 2 long-delayed US F-16Vs, awaits additional fighter jets",
+        "url": "https://www.thehindu.com/news/international/taiwan-receives-2-long-delayed-us-f-16vs-awaits-additional-fighter-jets/article71538631.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q90",
+      "question": "Which documentary, directed by Ameya Gore, was featured at the IDSFFK 2026?",
+      "options": [
+        "Pedal Power",
+        "The Last Ride",
+        "Going Solo",
+        "Wheels of Fortune"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "Ameya Gore's documentary titled 'Going Solo' was featured at the IDSFFK 2026 (International Documentary and Short Film Festival of Kerala). The film, produced by Sharib Khan and Vikas Kumar, follows women cyclists Gareema Shankar and Renu Singhi on their journey to the London-Edinburgh-London cycling event in 2022.",
+      "background": "The IDSFFK is an annual film festival in Kerala, India, dedicated to showcasing documentary and short films. It serves as a significant platform for independent filmmakers to present their work, often exploring diverse themes including sports, social issues, and personal journeys.",
+      "examRelevance": "Ameya Gore's documentary 'Going Solo' was featured at IDSFFK 2026.",
+      "tags": [
+        "IDSFFK 2026",
+        "Ameya Gore",
+        "Going Solo",
+        "Documentary",
+        "Cycling"
+      ],
+      "source": {
+        "title": "IDSFFK 2026: Ameya Gore on his documentary ‘Going Solo’ and pushing the boundaries of sports documentaries",
+        "url": "https://www.thehindu.com/entertainment/movies/idsffk-2026-ameya-gore-on-his-documentary-going-solo-and-pushing-the-boundaries-of-sports-documentaries/article71527453.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q91",
+      "question": "OpenAI recently unveiled its new AI models/agents at DevDay. Which of the following is one of the new AI agents showcased?",
+      "options": [
+        "Sentinel",
+        "Atlas",
+        "Dots",
+        "Nexus"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "OpenAI recently unveiled new AI models and 'Dots' AI agents at its DevDay event. Along with GPT-6.1 Sol, 'Dots' AI agents were showcased as part of OpenAI's advancements, offering always-on AI capabilities.",
+      "background": "OpenAI is a leading artificial intelligence research and deployment company known for its large language models like GPT series. DevDay is a key event where OpenAI announces its latest innovations, often impacting the broader AI industry and developer community.",
+      "examRelevance": "OpenAI unveiled GPT-6.1 Sol and 'Dots' AI agents at DevDay.",
+      "tags": [
+        "OpenAI",
+        "AI Agents",
+        "Dots",
+        "GPT-6.1 Sol",
+        "Artificial Intelligence"
+      ],
+      "source": {
+        "title": "OpenAI unveils GPT-6.1 Sol and ‘Dots’ AI agents at DevDay",
+        "url": "https://www.thehindu.com/sci-tech/technology/openai-unveils-gpt-61-sol-and-dots-ai-agents-at-devday/article71525534.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q92",
+      "question": "A by-election is scheduled for October 6 in which constituency of Tamil Nadu, where CM Vijay recently held a roadshow?",
+      "options": [
+        "Dharapuram",
+        "Mamandur",
+        "Coimbatore North",
+        "Madurantakam"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Tamil Nadu Chief Minister Vijay recently held a roadshow in Madurantakam ahead of a by-election scheduled for October 6. The TVK president began his roadshow at Mamandur on GST Road.",
+      "background": "By-elections are crucial political events that can indicate shifts in public sentiment or reinforce the mandate of the ruling party. This particular by-election has generated significant political discourse, with opposition parties like the DMK criticizing the TVK government's role in it.",
+      "examRelevance": "Madurantakam constituency in Tamil Nadu is holding a by-election on October 6.",
+      "tags": [
+        "Madurantakam",
+        "By-election",
+        "Tamil Nadu",
+        "CM Vijay"
+      ],
+      "source": {
+        "title": "CM Vijay holds roadshow in Madurantakam ahead of October 6 byelection",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-holds-roadshow-in-madurantakam-ahead-of-the-october-6-byelection/article71537438.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q93",
+      "question": "Jio Platforms Ltd's initial public offering (IPO) is reportedly estimated at what value and may open for subscription on October 21?",
+      "options": [
+        "$4.1 billion",
+        "$3.8 billion",
+        "$5.2 billion",
+        "$2.5 billion"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Jio Platforms Ltd, the digital holding company of Reliance Industries, is reportedly putting the finishing touches on its much-awaited initial public offering (IPO). The IPO is estimated at $3.8 billion and could open for subscription on October 21.",
+      "background": "This IPO is expected to be a significant event in the Indian financial markets, given Jio Platforms' expansive digital ecosystem and its parent company, Reliance Industries' market presence. The anchor book is likely to open on October 19, with shares targeted to list on October 28.",
+      "examRelevance": "Jio Platforms Ltd's IPO is estimated at $3.8 billion and may open on October 21.",
+      "tags": [
+        "Jio Platforms",
+        "IPO",
+        "Reliance Industries",
+        "Economy"
+      ],
+      "source": {
+        "title": "Jio Platforms IPO may open on October 21, issue estimated at $3.8 billion: Report",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-may-open-on-october-21-issue-estimated-at-3-8-billion-report/articleshow/134652545.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q94",
+      "question": "Which network, declared a terrorist organisation by the Centre and allegedly involved in cross-border smuggling of weapons and narcotics, had over 40 modules busted across 15 states?",
+      "options": [
+        "Lakhvi network",
+        "Haqqani network",
+        "D-Company",
+        "Shahzad Bhatti network"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "Union Home Minister Amit Shah announced that over 40 modules of the Shahzad Bhatti network were busted, leading to 350 arrests across 15 states. The Centre has declared the Bhatti network a terrorist organisation, allegedly involved in cross-border smuggling of weapons, explosives, and narcotics.",
+      "background": "Shahzad Bhatti is identified as a Pakistani social media influencer who allegedly orchestrates these illicit activities. The busting of such a widespread network signifies a major success in national security and anti-narcotics efforts.",
+      "examRelevance": "Shahzad Bhatti network = Terrorist organisation, 40+ modules busted.",
+      "tags": [
+        "Shahzad Bhatti",
+        "Terrorism",
+        "Narcotics Smuggling",
+        "National Security"
+      ],
+      "source": {
+        "title": "Over 40 modules of Shahzad Bhatti network busted, 350 held across 15 States: Amit Shah",
+        "url": "https://www.thehindu.com/news/national/over-40-modules-of-shahzad-bhatti-network-busted-350-held-across-15-states-amit-shah/article71520689.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q95",
+      "question": "The Supreme Court recently took suo motu cognisance of sexual assault cases in Delhi-NCR and flagged what specific issue by authorities?",
+      "options": [
+        "Inadequate forensic infrastructure",
+        "Insufficient public awareness campaigns",
+        "Lack of judicial fast-tracking",
+        "Lax patrolling and administrative deficiencies"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently registered a suo motu case concerning recent sexual assault incidents in the Delhi-NCR region. The top court specifically flagged \"lax patrolling and other preventable administrative deficiencies\" by authorities, emphasizing that public spaces should not become zones of high risk.",
+      "background": "Suo motu cognisance allows the Supreme Court to take up a matter on its own initiative, without a formal petition, usually in cases of significant public interest or human rights violations. This reflects the judiciary's role in ensuring public safety and accountability of law enforcement.",
+      "examRelevance": "Supreme Court took suo motu cognisance of Delhi-NCR sexual assault cases, flagging lax patrolling.",
+      "tags": [
+        "Supreme Court",
+        "Delhi-NCR",
+        "Sexual Assault",
+        "Suo Motu",
+        "Lax Patrolling"
+      ],
+      "source": {
+        "title": "Supreme Court takes suo motu cognisance of recent sexual assault cases in Delhi-NCR, flags ‘lax patrolling’ by authorities",
+        "url": "https://www.thehindu.com/news/cities/Delhi/supreme-court-register-suo-motu-case-on-delhi-rape-case/article71518477.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q96",
+      "question": "Which company recently unveiled a 60-tonne Electric Dump Truck for mining operations?",
+      "options": [
+        "Mahindra & Mahindra",
+        "BEML",
+        "Tata Motors",
+        "Ashok Leyland"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "BEML (Bharat Earth Movers Limited) recently unveiled its 60-tonne Electric Dump Truck, designated BH60-EV, designed for mining operations. This new model expands BEML’s growing portfolio of electric vehicles, following the launch of its 35-ton Electric Dump Truck earlier on April 10.",
+      "background": "BEML is an Indian public sector undertaking that manufactures a variety of heavy equipment, including those for mining, construction, and defence. The development of electric vehicles in the heavy machinery sector is a step towards sustainable mining practices and reducing carbon emissions in industrial operations.",
+      "examRelevance": "BEML unveiled a 60-tonne Electric Dump Truck (BH60-EV) for mining.",
+      "tags": [
+        "BEML",
+        "Electric Dump Truck",
+        "Mining",
+        "BH60-EV",
+        "Electric Vehicles"
+      ],
+      "source": {
+        "title": "BEML unveils 60-tonne Electric Dump Truck for mining operations",
+        "url": "https://www.thehindu.com/news/national/karnataka/beml-mysuru-unveils-60-tonne-electric-dump-truck-for-mining-operations/article71529632.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q97",
+      "question": "In which district of Andhra Pradesh is the proposed Reliance data centre, currently facing land acquisition challenges, planned to be set up?",
+      "options": [
+        "Nellore",
+        "Visakhapatnam",
+        "Vizianagaram",
+        "Guntur"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The proposed Reliance data centre is planned for Bhogapuram, which is located in the Vizianagaram district of Andhra Pradesh. The project requires 855 acres of land, but currently only 25 acres are available, leading to protests from some farmers.",
+      "background": "Data centres are crucial infrastructure for the digital economy, and their establishment often involves large land parcels, leading to potential conflicts with local communities over land acquisition and environmental concerns.",
+      "examRelevance": "Reliance data centre in Bhogapuram, Vizianagaram district, Andhra Pradesh.",
+      "tags": [
+        "Reliance",
+        "Data centre",
+        "Bhogapuram",
+        "Vizianagaram",
+        "Andhra Pradesh",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "Reliance data centre at Bhogapuram will create jobs, says Collector after farmers’ protest",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/reliance-data-centre-at-bhogapuram-will-create-jobs-says-collector-after-farmers-protest/article71542907.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q98",
+      "question": "Which state government recently ordered a preliminary anti-corruption enquiry by its Vigilance and Anti-Corruption Bureau (VACB) against Chief Election Commissioner (CEC) Gyanesh Kumar?",
+      "options": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Keralam government recently ordered a preliminary enquiry by its Vigilance and Anti-Corruption Bureau (VACB) into a 20-year-old corruption allegation against Chief Election Commissioner (CEC) Gyanesh Kumar, dating back to when he was the State’s Public Works Department (PWD) secretary as a Kerala cadre IAS official.",
+      "background": "Gyanesh Kumar, a Kerala cadre IAS official, is currently serving as the Chief Election Commissioner of India. The allegations date back to 2006. This development comes amid broader protests against the CEC.",
+      "examRelevance": "Kerala government ordered VACB probe against CEC Gyanesh Kumar over 2006 allegations.",
+      "tags": [
+        "Gyanesh Kumar",
+        "CEC",
+        "Kerala",
+        "VACB",
+        "Corruption",
+        "Polity"
+      ],
+      "source": {
+        "title": "Keralam govt. orders anti-corruption enquiry against CEC Gyanesh Kumar over 2006 graft allegations",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-govt-orders-preliminary-anti-corruption-enquiry-against-cec-gyanesh-kumar-over-corruption-allegations/article71542954.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q99",
+      "question": "Which Indian pilot was recently praised by President Murmu and PM Modi for saving a flydubai flight from a crash?",
+      "options": [
+        "Captain Anil Singh",
+        "Captain Rajesh Kumar",
+        "Captain Smit Machchhar",
+        "Captain Pooja Sharma"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Indian pilot Captain Smit Machchhar was praised by President Droupadi Murmu and Prime Minister Narendra Modi for his heroic actions in saving a flydubai flight, bound for Israel, from a crash. He is credited with saving the lives of 174 people onboard when the co-pilot allegedly attempted to crash the plane.",
+      "background": "The incident involved an altercation in the cockpit of a flydubai flight from Dubai to Tel Aviv, where the co-pilot allegedly stabbed the pilot and attempted to crash the aircraft. Captain Machchhar's quick thinking and bravery averted a major disaster, leading to widespread recognition and commendation.",
+      "examRelevance": "Captain Smit Machchhar was praised by President Murmu and PM Modi for saving a flydubai flight.",
+      "tags": [
+        "Smit Machchhar",
+        "Flydubai",
+        "Pilot",
+        "Heroism",
+        "National Recognition"
+      ],
+      "source": {
+        "title": "President Murmu, PM Modi praise Indian pilot Smit Machchhar for saving Israel-bound flight from crash",
+        "url": "https://www.thehindu.com/news/national/president-murmu-pm-modi-praise-indian-pilot-smit-machchhar-for-saving-flydubai-flight-from-crash/article71531524.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W40-q100",
+      "question": "Which messaging platform recently introduced new parental controls for teens?",
+      "options": [
+        "Snapchat",
+        "WhatsApp",
+        "Telegram",
+        "Signal"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "WhatsApp recently introduced new parental controls designed for teens. These controls allow parents to track teen group activity, manage privacy settings, and limit Meta AI interactions without having access to their children's private chats.",
+      "background": "As digital communication platforms become integral to daily life, concerns about online safety for minors have increased. Parental control features are developed by tech companies to address these concerns, offering tools for parents to monitor and guide their children's online interactions while maintaining a degree of privacy.",
+      "examRelevance": "WhatsApp introduced new parental controls for teens.",
+      "tags": [
+        "WhatsApp",
+        "Parental Controls",
+        "Teens",
+        "Online Safety",
+        "Meta AI"
+      ],
+      "source": {
+        "title": "WhatsApp introduces parental controls for teens",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/whatsapp-changes-for-parents-new-controls-let-you-track-teen-group-activity-manage-privacy-settings-limit-meta-ai-without-seeing-chats/articleshow/134609337.cms"
+      }
+    }
+  ]
+}
