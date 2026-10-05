@@ -1,0 +1,791 @@
+{
+  "id": "daily-2026-10-05",
+  "type": "daily",
+  "date": "2026-10-05",
+  "title": "Current Affairs — 05 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-05-q1",
+      "question": "Who was recently removed from the post of CPI(M) Palakkad secretary?",
+      "options": [
+        "Sanju",
+        "E.N. Suresh Babu",
+        "R. Sreelekha",
+        "M.V. Jayarajan"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "E.N. Suresh Babu was recently removed from his position as the CPI(M) Palakkad secretary. This action followed a complaint filed by a woman lawyer associated with the party’s lawyers’ organisation, and the party is also considering his expulsion.",
+      "background": "The removal highlights internal party disciplinary actions within the CPI(M) in Kerala. Such decisions are usually taken after thorough review of complaints and evidence, reflecting the party's stance on internal conduct.",
+      "examRelevance": "E.N. Suresh Babu was removed as CPI(M) Palakkad secretary.",
+      "tags": [
+        "E.N. Suresh Babu",
+        "CPI(M)",
+        "Palakkad",
+        "Kerala",
+        "Appointments"
+      ],
+      "source": {
+        "title": "E.N. Suresh Babu removed as CPI(M) Palakkad secretary after woman lawyer’s complaint; party may consider expulsion",
+        "url": "https://www.thehindu.com/news/national/kerala/en-suresh-babu-removed-as-cpim-palakkad-secretary-after-woman-lawyers-complaint-party-may-consider-expulsion/article71546156.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q2",
+      "question": "The Supreme Court recently permitted 11 members of which club to move the Delhi High Court against the Centre’s decision to take over the club?",
+      "options": [
+        "Calcutta Club",
+        "Madras Club",
+        "Delhi Gymkhana Club",
+        "Bombay Gymkhana"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently granted permission to 11 members of the Delhi Gymkhana Club to file a plea with the Delhi High Court. This plea challenges the Centre’s decision to take over the club, after the High Court had initially refused their request on procedural grounds.",
+      "background": "The Delhi Gymkhana Club is a prominent social institution in the capital. The Centre's decision to take it over has been a contentious issue, leading to a prolonged legal dispute concerning its management and governance.",
+      "examRelevance": "SC allows Delhi Gymkhana Club members to challenge Centre's takeover in Delhi HC.",
+      "tags": [
+        "Delhi Gymkhana Club",
+        "Supreme Court",
+        "Delhi High Court",
+        "Centre",
+        "Takeover"
+      ],
+      "source": {
+        "title": "Supreme Court asks High Court to consider plea against Centre’s decision to take over Delhi Gymkhana Club",
+        "url": "https://www.thehindu.com/news/cities/Delhi/supreme-court-asks-high-court-to-consider-plea-against-centres-decision-to-take-over-delhi-gymkhana-club/article71546164.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q3",
+      "question": "Which new law has been introduced to overhaul urban governance in Hyderabad?",
+      "options": [
+        "CURE",
+        "HUGG",
+        "GOHYD",
+        "URBA"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "A new law, referred to as CURE, has been introduced with the objective of overhauling urban governance in the city of Hyderabad. This initiative aims to bring significant changes to the administrative structure and functioning of the city.",
+      "background": "The specific details of the CURE law are not elaborated, but it indicates a legislative effort to reform municipal administration in a major Indian city. Such reforms often aim to improve efficiency, transparency, and service delivery.",
+      "examRelevance": "New CURE law overhauls Hyderabad's urban governance.",
+      "tags": [
+        "CURE law",
+        "Hyderabad",
+        "Urban Governance",
+        "Telangana"
+      ],
+      "source": {
+        "title": "New CURE law seeks to overhaul Hyderabad’s urban governance",
+        "url": "https://www.thehindu.com/news/national/telangana/new-cure-law-seeks-to-overhaul-hyderabads-urban-governance/article71543763.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q4",
+      "question": "In the recent Bihar MLC polls, which political alliance or party announced its decision to back its own candidate amidst dissent within JD(U)?",
+      "options": [
+        "Grand Alliance",
+        "RJD",
+        "RLM",
+        "Congress"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "In the ongoing Bihar MLC polls, the RLM (Rashtriya Lok Morcha) has declared its intention to support its own candidate. This decision comes amidst dissent within the JD(U), though some rebel MLAs asserted they would remain with the NDA.",
+      "background": "Legislative Council (MLC) elections often involve complex political maneuvering and alliances. Dissent within a party during elections can indicate internal power struggles or dissatisfaction with candidate selection.",
+      "examRelevance": "RLM to back own candidate in Bihar MLC polls amidst JD(U) dissent.",
+      "tags": [
+        "Bihar MLC polls",
+        "RLM",
+        "JD(U)",
+        "NDA",
+        "Polity"
+      ],
+      "source": {
+        "title": "Bihar MLC polls: JD(U) faces dissent; RLM to back own candidate",
+        "url": "https://www.thehindu.com/news/national/bihar/bihar-mlc-polls-jdu-faces-dissent-rlm-to-back-own-candidate/article71546147.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q5",
+      "question": "Hyderabad's policing map has undergone changes recently. How many police commissionerates were created nine months prior to this fresh rationalization?",
+      "options": [
+        "Two",
+        "Four",
+        "Five",
+        "Three"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Hyderabad's policing map has seen recent changes, following a previous reorganisation nine months ago which involved the creation of four police commissionerates. The current changes are a 'fresh rationalisation' of these jurisdictions.",
+      "background": "The creation of police commissionerates is a significant administrative step in urban policing, often aimed at streamlining command and control, and improving law enforcement effectiveness in large metropolitan areas. This is the second round of changes in a short period.",
+      "examRelevance": "Hyderabad has four police commissionerates; recent changes in jurisdiction.",
+      "tags": [
+        "Hyderabad",
+        "Police Commissionerates",
+        "Policing",
+        "Telangana"
+      ],
+      "source": {
+        "title": "Hyderabad and its four police commissionerates: what has changed, and why? Explained",
+        "url": "https://www.thehindu.com/news/national/telangana/hyderabad-and-its-four-police-commissionerates-what-has-changed-and-why-explained/article71534480.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q6",
+      "question": "According to a recent ICMR-led study on rabies, what percentage of dog-bite victims received at least three doses of the anti-rabies vaccine?",
+      "options": [
+        "80%",
+        "66.2%",
+        "50%",
+        "20%"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "An ICMR-led study on rabies found significant gaps in post-animal bite care, revealing that about one in five dog-bite victims had not received any anti-rabies vaccine. Furthermore, only 66.2% of those bitten received at least three doses of the vaccine.",
+      "background": "The study highlights a critical public health issue in India, where official rabies death numbers differ sharply from estimates due to incomplete vaccination courses and lack of initial vaccination among dog-bite victims. Ensuring complete vaccination is crucial for rabies prevention.",
+      "examRelevance": "ICMR study found only 66.2% of dog-bite victims received at least three anti-rabies vaccine doses.",
+      "tags": [
+        "Rabies",
+        "ICMR",
+        "Vaccination",
+        "Public Health",
+        "Health Study"
+      ],
+      "source": {
+        "title": "Rabies and the missing deaths: Why do India’s official numbers differ so sharply from estimates? | Explained",
+        "url": "https://www.thehindu.com/sci-tech/health/rabies-and-the-missing-deaths-why-do-indias-official-numbers-differ-so-sharply-from-estimates-explained/article71545976.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q7",
+      "question": "Heritage activists are opposing the establishment of an open cast coal mine near which World Heritage Site in Telangana?",
+      "options": [
+        "Golconda Fort",
+        "Ramappa Temple",
+        "Charminar",
+        "Qutb Shahi Tombs"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Heritage activists are actively opposing the proposed open cast coal mine near the Ramappa Temple in Telangana, citing concerns that its operation would pose a significant threat to the integrity and preservation of the World Heritage Site.",
+      "background": "Ramappa Temple, also known as Rudreswara Temple, is a 13th-century Shiva temple located in Palampet village, Telangana. It was inscribed as a UNESCO World Heritage Site in 2021, recognized for its unique Kakatiyan architecture and artistic excellence.",
+      "examRelevance": "Ramappa Temple, a World Heritage Site in Telangana, is threatened by a proposed coal mine.",
+      "tags": [
+        "Ramappa Temple",
+        "World Heritage Site",
+        "Telangana",
+        "Coal Mine",
+        "Environment"
+      ],
+      "source": {
+        "title": "Heritage activists oppose open cast coal mine near Ramappa Temple in Telangana, fear threat to World Heritage Site",
+        "url": "https://www.thehindu.com/news/national/telangana/heritage-activists-oppose-open-cast-coal-mine-near-ramappa-temple-fear-threat-to-world-heritage-site/article71543622.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q8",
+      "question": "Tribal students were reportedly detained while heading to Mumbai to protest, demanding the resignation of the tribal development minister and the commissioner of which state's department?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Madhya Pradesh",
+        "Maharashtra"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Congress party has alleged that tribal students headed to Mumbai for a protest were detained. The students were seeking the resignation of the tribal development minister and the commissioner of the tribal development department of Maharashtra.",
+      "background": "Protests by student groups, especially from marginalized communities, often highlight grievances related to governance, welfare, and social justice. The detention of protesters raises concerns about freedom of assembly and expression.",
+      "examRelevance": "Tribal students detained heading to Mumbai protest seeking resignation of Maharashtra tribal development minister.",
+      "tags": [
+        "Tribal Students",
+        "Mumbai Protest",
+        "Maharashtra",
+        "Tribal Development Minister",
+        "Congress"
+      ],
+      "source": {
+        "title": "Congress claims tribal students headed for Mumbai protest detained; condemns action",
+        "url": "https://www.thehindu.com/news/national/maharashtra/congress-claims-tribal-students-headed-for-mumbai-protest-detained-condemns-action/article71545863.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q9",
+      "question": "In which district of Bihar was a Sub-Inspector (SI) recently suspended for pointing a pistol at a flood victim during the distribution of relief materials?",
+      "options": [
+        "Saran",
+        "Gaya",
+        "Muzaffarpur",
+        "Patna"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "A Sub-Inspector (SI) in Bihar's Saran district was recently suspended after being accused of pointing a pistol at a flood victim during the distribution of relief materials. The State government has also suspended seven engineers for alleged negligence in handling floods.",
+      "background": "This incident highlights issues of public service conduct during disaster relief operations and accountability within the state administration. Floods are a recurring problem in parts of Bihar.",
+      "examRelevance": "SI suspended in Saran, Bihar, for misconduct during flood relief.",
+      "tags": [
+        "Saran",
+        "Bihar",
+        "Flood Relief",
+        "Police Suspension",
+        "Public Conduct"
+      ],
+      "source": {
+        "title": "SI suspended for pointing pistol at flood victim during distribution of relief materials in Bihar’s Saran",
+        "url": "https://www.thehindu.com/news/national/bihar/si-suspended-for-pointing-pistol-at-flood-victim-during-distribution-of-relief-materials-in-bihars-saran/article71545906.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q10",
+      "question": "What significant change is expected soon regarding Goods and Services Tax (GST) registration?",
+      "options": [
+        "Introduction of new tax slabs",
+        "Requirement of just one form for registration",
+        "Mandatory biometric verification",
+        "Exemption for small businesses"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Businesses may soon be able to apply for GST registration across multiple states using just one form, streamlining the current process. This change aims to simplify compliance and ease of doing business.",
+      "background": "The Goods and Services Tax (GST) was introduced in India in 2017, unifying various indirect taxes. Simplification of registration processes is a continuous effort to improve the tax regime and encourage broader participation.",
+      "examRelevance": "GST registration process to be simplified with a single form for multiple states.",
+      "tags": [
+        "GST",
+        "Tax Reform",
+        "Economy",
+        "Business",
+        "Registration"
+      ],
+      "source": {
+        "title": "GST registration may soon need just one form",
+        "url": "https://economictimes.indiatimes.com/news/economy/policy/gst-registration-overhaul-businesses-may-soon-apply-for-multiple-states-at-once/articleshow/134688668.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q11",
+      "question": "The Supreme Court is set to list a plea seeking judicial directions to allow peaceful protests to which iconic protest site in Delhi?",
+      "options": [
+        "Red Fort",
+        "India Gate",
+        "Parliament House",
+        "Jantar Mantar"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court is scheduled to list a petition that seeks judicial directions to the police to permit peaceful protests at Jantar Mantar in Delhi. This plea aims to ensure the right to peaceful assembly.",
+      "background": "Jantar Mantar has historically been a designated site for protests and demonstrations in Delhi. Restrictions on protests there often lead to legal challenges regarding fundamental rights to free speech and assembly.",
+      "examRelevance": "Supreme Court to list plea allowing peaceful protests at Jantar Mantar.",
+      "tags": [
+        "Supreme Court",
+        "Jantar Mantar",
+        "Protests",
+        "Delhi",
+        "Fundamental Rights"
+      ],
+      "source": {
+        "title": "Supreme Court to list plea to allow peaceful protests to Jantar Mantar",
+        "url": "https://www.thehindu.com/news/national/supreme-court-to-list-plea-to-allow-peaceful-protests-to-jantar-mantar/article71546095.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q12",
+      "question": "Which AI company has recently brought in-country inference for its AI models to India through Amazon Bedrock, processing data on servers located within the country?",
+      "options": [
+        "Anthropic",
+        "OpenAI",
+        "Microsoft AI",
+        "Google DeepMind"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Anthropic has launched in-country inference for its Claude AI models in India through Amazon Bedrock. This allows prompts and model responses to be processed on servers located within India, addressing data-residency requirements for regulated sectors.",
+      "background": "This move enables Indian enterprises to keep sensitive AI workloads within the country while utilizing Anthropic's Claude models, which is crucial for compliance and data security in sectors with strict regulations.",
+      "examRelevance": "Anthropic's Claude AI models now offer in-country inference in India via Amazon Bedrock.",
+      "tags": [
+        "Anthropic",
+        "Claude AI",
+        "Amazon Bedrock",
+        "AI",
+        "Data Residency",
+        "India"
+      ],
+      "source": {
+        "title": "Anthropic's Claude goes local in India",
+        "url": "https://economictimes.indiatimes.com/ai/ai-insights/claude-comes-closer-to-indias-data-anthropic-brings-in-country-inference-to-aws/articleshow/134688317.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q13",
+      "question": "In which Tiger Reserve's Hasanur Range was a daily-wage worker, V. Periyasamy, recently killed by an animal, prompting intensified tracking efforts by the Forest Department?",
+      "options": [
+        "Sathyamangalam Tiger Reserve",
+        "Anamalai Tiger Reserve",
+        "Mudumalai Tiger Reserve",
+        "Periyar Tiger Reserve"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The Forest Department has intensified efforts to track an animal involved in the killing of V. Periyasamy, a daily-wage worker, whose partially consumed body was found near a stream in the forest fringes under the Hasanur Range of the Sathyamangalam Tiger Reserve.",
+      "background": "Sathyamangalam Tiger Reserve is located in Tamil Nadu and is a significant wildlife corridor. Incidents of human-wildlife conflict are a recurring challenge in areas bordering protected forests, especially for daily-wage workers who often venture into these regions.",
+      "examRelevance": "Animal attack on worker V. Periyasamy in Hasanur Range of Sathyamangalam Tiger Reserve.",
+      "tags": [
+        "Sathyamangalam Tiger Reserve",
+        "Hasanur",
+        "V. Periyasamy",
+        "Human-Wildlife Conflict",
+        "Environment"
+      ],
+      "source": {
+        "title": "Forest Department intensifies efforts to track animal involved in killing daily-wage worker in Hasanur",
+        "url": "https://www.thehindu.com/news/cities/Coimbatore/forest-department-intensifies-efforts-to-track-animal-involved-in-killing-daily-wage-worker-in-hasanur/article71545869.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q14",
+      "question": "Who recently called for the use of the term 'Tarun Bharat' instead of 'Gen Z' for the younger generation?",
+      "options": [
+        "Chief Justice of India",
+        "Prime Minister of India",
+        "Lok Sabha Speaker",
+        "MP Assembly Speaker"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "The Madhya Pradesh Assembly Speaker has recently proposed using the term 'Tarun Bharat' as a descriptor for the younger generation, suggesting it as an alternative to the commonly used 'Gen Z'.",
+      "background": "This suggestion reflects a cultural or nationalistic inclination to use an indigenous term over a Western one, potentially aiming to instill a sense of national identity among the youth.",
+      "examRelevance": "MP Assembly Speaker proposed 'Tarun Bharat' for Gen Z.",
+      "tags": [
+        "Tarun Bharat",
+        "Gen Z",
+        "MP Assembly Speaker",
+        "Madhya Pradesh"
+      ],
+      "source": {
+        "title": "Gen Z to be called 'Tarun Bharat' now?",
+        "url": "https://economictimes.indiatimes.com/news/india/mp-assembly-speaker-calls-for-use-of-tarun-bharat-instead-of-gen-z/articleshow/134688240.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q15",
+      "question": "Which country's Prime Minister, Sanae Takaichi, recently described population decline as a 'quietly advancing national crisis'?",
+      "options": [
+        "Germany",
+        "Japan",
+        "Italy",
+        "South Korea"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Japan's Prime Minister Sanae Takaichi recently addressed parliament, characterizing the nation's population decline as a 'quietly advancing national crisis' and pledged to formulate a comprehensive population strategy by the end of the year.",
+      "background": "Japan has been facing a severe demographic crisis for decades, marked by a rapidly aging population and declining birth rates, which poses significant challenges to its economy, social security, and workforce.",
+      "examRelevance": "Japan's PM Sanae Takaichi calls population decline a 'national crisis'.",
+      "tags": [
+        "Japan",
+        "Sanae Takaichi",
+        "Population Decline",
+        "Demographic Crisis",
+        "International"
+      ],
+      "source": {
+        "title": "Japan’s Takaichi calls population decline a ‘quietly advancing national crisis’",
+        "url": "https://www.thehindu.com/news/international/japans-takaichi-calls-population-decline-a-quietly-advancing-national-crisis/article71546039.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q16",
+      "question": "Who was recently inducted into a US Hall of Fame, recognized for turning \"deficit into dividend\"?",
+      "options": [
+        "Indira Nooyi",
+        "Sharmila Mona Sinha",
+        "Priyanka Chopra",
+        "Smita Patil"
+      ],
+      "answerIndex": 1,
+      "category": "Awards & Honours",
+      "explanation": "Sharmila Mona Sinha, an Indian-origin individual, has recently been inducted into a US Hall of Fame. She is recognized for her journey from being referred to as a 'third daughter' to achieving significant success, turning 'deficit into dividend'.",
+      "background": "The article highlights her personal narrative of overcoming challenges and achieving distinction, leading to her recognition in the US. Specific details of the Hall of Fame are not provided, but it signifies a notable achievement.",
+      "examRelevance": "Sharmila Mona Sinha inducted into a US Hall of Fame.",
+      "tags": [
+        "Sharmila Mona Sinha",
+        "US Hall of Fame",
+        "Achievements",
+        "NRI"
+      ],
+      "source": {
+        "title": "Sharmila Sinha: From ‘third daughter’ to US Hall of Famer",
+        "url": "https://economictimes.indiatimes.com/nri/latest-updates/sharmila-mona-sinha-the-third-daughter-who-turned-deficit-into-dividend-and-became-a-us-hall-of-famer/articleshow/134688035.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q17",
+      "question": "Protests have been ongoing against the Chief Election Commissioner (CEC) of India, Gyanesh Kumar, concerning allegations related to which issue?",
+      "options": [
+        "Failure to implement a new economic policy",
+        "Interference in judicial appointments",
+        "Undermining the Election Commission's independence and selective voter deletion",
+        "Mismanagement of public funds"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Protests have intensified against India's Chief Election Commissioner (CEC) Gyanesh Kumar, with allegations from political parties and activists that he has undermined the Election Commission's independence and is involved in selective voter deletion through the Special Integrated Revision (SIR) process.",
+      "background": "The integrity of the electoral process is fundamental to democracy. Concerns about voter deletion and the independence of the Election Commission are serious matters that draw significant public and political attention, leading to widespread protests and legal challenges.",
+      "examRelevance": "Protests against CEC Gyanesh Kumar over alleged undermining of EC independence and selective voter deletion (SIR).",
+      "tags": [
+        "CEC",
+        "Gyanesh Kumar",
+        "Election Commission",
+        "Voter Deletion",
+        "SIR",
+        "Protests"
+      ],
+      "source": {
+        "title": "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+        "url": "https://www.thehindu.com/news/national/cecs-ability-to-execute-g2s-illegal-orders-makes-him-a-liability-for-country-congress/article71545831.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q18",
+      "question": "What is the primary objective of GEC-III, as recently discussed?",
+      "options": [
+        "To reduce fossil fuel imports",
+        "To develop new nuclear power plants",
+        "To bridge the gap between installed renewable capacity and actual electricity generation",
+        "To increase coal production"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "GEC-III is designed to address the significant disparity between the installed renewable energy capacity and the actual electricity generated. This initiative aims to optimize the utilization of renewable sources.",
+      "background": "India has been rapidly expanding its renewable energy capacity, but challenges remain in integrating intermittent renewable sources into the grid and ensuring consistent power supply. GEC-III likely refers to a grid integration or energy storage solution.",
+      "examRelevance": "GEC-III aims to bridge the gap between installed renewable capacity and actual electricity generation.",
+      "tags": [
+        "GEC-III",
+        "Renewable Energy",
+        "Electricity Generation",
+        "Energy Grid",
+        "Science & Tech"
+      ],
+      "source": {
+        "title": "GEC III: Bridging geographic and temporal mismatch",
+        "url": "https://www.thehindu.com/business/Industry/gec-iii-bridging-geographic-and-temporal-mismatch/article71546014.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q19",
+      "question": "Honda is targeting a 20% cost reduction and faster car development in India with the help of which Indian company?",
+      "options": [
+        "Mahindra & Mahindra",
+        "Tata Motors",
+        "Tata Technologies",
+        "Infosys"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Honda is collaborating with Tata Technologies to achieve a 20% reduction in costs and accelerate car development processes specifically for the Indian market. This partnership aims to enhance efficiency and competitiveness.",
+      "background": "Tata Technologies is a global engineering services company, a subsidiary of Tata Motors, specializing in product development and digital engineering solutions. This collaboration indicates a strategic move by Honda to leverage local expertise for market-specific challenges.",
+      "examRelevance": "Honda partners with Tata Technologies for 20% cost cuts and faster car development in India.",
+      "tags": [
+        "Honda",
+        "Tata Technologies",
+        "Automotive",
+        "Cost Reduction",
+        "India Business"
+      ],
+      "source": {
+        "title": "Honda’s India problem and the Tata Technologies fix",
+        "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/honda-targets-20-cost-cuts-faster-car-development-in-india-with-tata-technologies-report/articleshow/134688084.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q20",
+      "question": "Which two spice crops are reported to be worst hit by the recent drought in Karnataka’s spice belt?",
+      "options": [
+        "Cardamom and Pepper",
+        "Chilli and Turmeric",
+        "Cumin and Coriander",
+        "Ginger and Cloves"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "A recent drought has severely affected Karnataka’s spice belt, with chilli and turmeric identified as the worst-hit crops. For chilli, the target cultivation area was 1,20,000.03 hectares, but the sown area was only 99,986.57 hectares.",
+      "background": "Karnataka is a significant producer of various spices. Drought conditions can lead to crop failure, reduced yields, and economic hardship for farmers, impacting both local supply and national agricultural output.",
+      "examRelevance": "Drought in Karnataka worst hits chilli and turmeric crops.",
+      "tags": [
+        "Karnataka",
+        "Drought",
+        "Chilli",
+        "Turmeric",
+        "Spice Crops",
+        "Agriculture"
+      ],
+      "source": {
+        "title": "Drought scorches Karnataka’s spice belt; chilli, turmeric worst hit",
+        "url": "https://www.thehindu.com/news/national/karnataka/drought-scorches-karnatakas-spice-belt-chilli-turmeric-worst-hit/article71543872.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q21",
+      "question": "Which of the following statements about 'ferritin face' is correct, according to recent health discussions?",
+      "options": [
+        "It is a distinct facial appearance caused by high iron levels",
+        "It is a recognized medical condition causing facial swelling",
+        "It is a rare genetic disorder affecting facial muscles",
+        "It is a social media trend and not a recognized medical diagnosis"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "The term 'ferritin face', along with 'iron-deficiency face', is currently trending on social media but is explicitly stated not to be a recognized medical diagnosis. Ferritin is a protein that stores iron, and its levels indicate the body's iron stores, but it does not produce a distinct facial appearance.",
+      "background": "This phenomenon highlights the spread of misinformation and unverified health claims on social media platforms. Medical professionals emphasize relying on scientific evidence and recognized diagnoses rather than social media trends for health information.",
+      "examRelevance": "'Ferritin face' is a social media trend, not a recognized medical diagnosis.",
+      "tags": [
+        "Ferritin Face",
+        "Health Scare",
+        "Social Media",
+        "Medical Diagnosis",
+        "Iron Deficiency"
+      ],
+      "source": {
+        "title": "What is ‘ferritin face’ and why is this health scare trending on social media?",
+        "url": "https://www.thehindu.com/sci-tech/health/what-is-ferritin-face-and-why-is-this-health-scare-trending-on-social-media/article71543324.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q22",
+      "question": "What was India's total medal tally at the 2026 Asian Games held in Aichi-Nagoya, Japan?",
+      "options": [
+        "106",
+        "75",
+        "85",
+        "98"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "India concluded its campaign at the 2026 Asian Games in Aichi-Nagoya, Japan, with a total of 85 medals, finishing fourth in the overall medal tally. The Indian contingent comprised 503 athletes (269 men and 234 women) competing across 36 sporting disciplines from September 19 to October 4.",
+      "background": "While the 85-medal tally fell short of India's record-breaking 106 medals at the 2023 Asian Games, it still represented a strong performance. Karnataka athletes contributed significantly with four gold, three silver, and two bronze medals.",
+      "examRelevance": "India won 85 medals and finished fourth at the 2026 Asian Games in Aichi-Nagoya, Japan.",
+      "tags": [
+        "Asian Games 2026",
+        "India",
+        "Medal Tally",
+        "Aichi-Nagoya",
+        "Sports"
+      ],
+      "source": {
+        "title": "Asian Games 2026: India's medal tally",
+        "url": "https://www.thehindu.com/infographics/2026-10-05/asian-games-2026-india-medal-winners-full-list/index.html"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q23",
+      "question": "The Supreme Court has recently sought a response from the Centre regarding the proposed relocation of which 135-year-old institution?",
+      "options": [
+        "National Museum",
+        "Parliament Library",
+        "Central Secretariat Library",
+        "National Archives of India"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court has directed the Union government to file a detailed affidavit within three weeks regarding the proposed relocation of the 135-year-old Central Secretariat Library. This action follows a plea concerning the arrangements being made for the library.",
+      "background": "The Central Secretariat Library is one of the oldest and largest government libraries in India, serving as a vital resource for policymakers, researchers, and the public. Its potential relocation raises concerns about preservation and accessibility of its vast collection.",
+      "examRelevance": "Supreme Court seeks Centre's response on proposed relocation of 135-year-old Central Secretariat Library.",
+      "tags": [
+        "Central Secretariat Library",
+        "Supreme Court",
+        "Relocation",
+        "Heritage",
+        "Delhi"
+      ],
+      "source": {
+        "title": "Supreme Court seeks response from Centre on proposed relocation of 135-year-old Central Secretariat Library",
+        "url": "https://www.thehindu.com/news/cities/Delhi/supreme-court-seeks-response-from-centre-on-proposed-relocation-of-135-year-old-central-secretariat-library/article71546006.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q24",
+      "question": "A California woman, Zhang, was recently accused by the U.S. Justice Department of spying for which country and surveilling the Taiwanese leader's son?",
+      "options": [
+        "North Korea",
+        "China",
+        "Iran",
+        "Russia"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The U.S. Justice Department has accused a California woman, identified as Zhang, of spying for China. She allegedly traveled to Seattle in 2025 at the direction of Chinese officials to surveil the Taiwanese leader's son and his family, sending photos, video, and license plate information.",
+      "background": "This accusation highlights ongoing geopolitical tensions and intelligence activities between the U.S., China, and Taiwan. Such cases often involve concerns about national security and foreign interference.",
+      "examRelevance": "US accuses California woman Zhang of spying for China and surveilling Taiwan leader's son.",
+      "tags": [
+        "US",
+        "China",
+        "Taiwan",
+        "Espionage",
+        "Justice Department",
+        "Zhang"
+      ],
+      "source": {
+        "title": "U.S. accuses California woman of spying for China, surveilling Taiwan leader's son",
+        "url": "https://www.thehindu.com/news/international/us-accuses-california-woman-of-spying-for-china-surveilling-taiwan-leaders-son/article71545758.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q25",
+      "question": "Who is the CEO of OpenAI who recently stated that the benefits of Artificial Intelligence (AI) warrant accepting some risks?",
+      "options": [
+        "Jensen Huang",
+        "Sundar Pichai",
+        "Sam Altman",
+        "Satya Nadella"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Sam Altman, the CEO of OpenAI, recently articulated that the substantial benefits offered by Artificial Intelligence (AI) are compelling enough to warrant accepting certain associated risks. This statement reflects a pragmatic approach to AI development.",
+      "background": "OpenAI is a leading AI research and deployment company known for its large language models like GPT series. Discussions around AI often involve balancing innovation with ethical concerns, safety, and potential societal risks.",
+      "examRelevance": "OpenAI CEO Sam Altman states AI benefits warrant accepting some risks.",
+      "tags": [
+        "Sam Altman",
+        "OpenAI",
+        "Artificial Intelligence",
+        "AI Risks",
+        "Science & Tech"
+      ],
+      "source": {
+        "title": "OpenAI's Sam Altman says AI benefits warrant accepting some risks",
+        "url": "https://www.thehindu.com/sci-tech/technology/openais-sam-altman-says-ai-benefits-warrant-accepting-some-risks/article71545764.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q26",
+      "question": "Which scheme, providing no-fare travel for women in government buses, is being challenged as unconstitutional by a private bus operator before the Madras High Court?",
+      "options": [
+        "Kalaignar Magalir Urimai Thogai Thittam",
+        "Pudhumai Penn Thittam",
+        "Vettri Payanam Scheme",
+        "Moovalur Ramamirtham Ammaiyar Memorial Marriage Assistance Scheme"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "A private bus operator from Erode has filed a plea before the Madras High Court, urging it to declare the 'Vettri Payanam' scheme unconstitutional. This scheme provides no-fare travel for women exclusively in government buses.",
+      "background": "The petitioner argues that the no-fare travel for women in government buses creates an unfair competitive disadvantage for private operators, causing a severe dent in their business and potentially forcing them to cease operations.",
+      "examRelevance": "'Vettri Payanam' scheme for free bus travel for women challenged in Madras High Court.",
+      "tags": [
+        "Vettri Payanam",
+        "Tamil Nadu",
+        "Women Empowerment",
+        "Free Travel",
+        "Madras High Court"
+      ],
+      "source": {
+        "title": "Declare ‘Vettri Payanam’ scheme unconstitutional, urges private bus operator before Madras High Court",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/declare-vettri-payanam-scheme-unconstitutional-urges-private-bus-operator-before-madras-high-court/article71542924.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q27",
+      "question": "Ireland's national football team players recently wore black armbands and refused handshakes with the Israel team during their second Nations League match. This action is best categorized under which aspect?",
+      "options": [
+        "A pre-match ritual",
+        "A tactical move to intimidate opponents",
+        "Standard sportsmanship protocol",
+        "A form of silent protest"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Ireland's national football team players recently wore black armbands and bowed their heads during the Israeli national anthem, also refusing handshakes with the Israel team, prior to their second Nations League match. This action serves as a form of silent protest.",
+      "background": "This action is often used in sports to express solidarity, draw attention to humanitarian issues, or protest political situations. It reflects the ongoing geopolitical tensions and conflicts.",
+      "examRelevance": "Ireland footballers wore black armbands, refused handshakes with Israel team in Nations League as a silent protest.",
+      "tags": [
+        "Ireland",
+        "Israel",
+        "Football",
+        "Nations League",
+        "Protest",
+        "Sports"
+      ],
+      "source": {
+        "title": "Ireland footballers wear black armbands again, refuse handshakes with Israel team",
+        "url": "https://www.thehindu.com/sport/football/ireland-soccer-players-again-wear-black-armbands-and-refuse-handshakes-with-israel-team/article71544858.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q28",
+      "question": "In which district of Karnataka was an FIR recently registered against a BJP Booth Level Agent (BLA) for allegedly seeking Form-7 deletions and verification against 7,561 names?",
+      "options": [
+        "Bengaluru",
+        "Mysuru",
+        "Hubballi",
+        "Ballari"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "An FIR, the sixth of its kind in Karnataka, was recently registered in Ballari district at the Brucepet police station against a BJP Booth Level Agent (BLA). The complaint, filed by a Congress BLA, alleges that the BJP agent sought Form-7 deletions and verification against 7,561 names.",
+      "background": "Form-7 is used for deletion of names from the electoral roll. Misuse of this form for selective voter deletion is a serious electoral offense, raising concerns about voter suppression and the integrity of the electoral process.",
+      "examRelevance": "FIR registered in Ballari, Karnataka, against BJP BLA for alleged Form-7 misuse.",
+      "tags": [
+        "Ballari",
+        "Karnataka",
+        "FIR",
+        "Form-7",
+        "Voter Deletion",
+        "BJP"
+      ],
+      "source": {
+        "title": "Karnataka SIR: BJP agent sought Form-7 deletions, verification against 7,561 names in Ballari; FIR registered",
+        "url": "https://www.thehindu.com/news/cities/bangalore/sir-bjp-bla-sought-form-7-deletions-verification-against-7561-names-in-ballari-fir-registered/article71543572.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q29",
+      "question": "The Kerala government has obtained legal opinion to proceed against Chief Election Commissioner Gyanesh Kumar in an abetment to suicide case involving which individual?",
+      "options": [
+        "Jacob Coxon",
+        "Lee See Been",
+        "Hamam al-Hammami",
+        "V. Periyasamy"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Keralam government has received legal advice from T. Asaf Ali, Director General of Prosecution, indicating no legal bar to proceed against Chief Election Commissioner Gyanesh Kumar in an abetment to suicide case. The case relates to the reported suicide of Malaysian Lee See Been, a former chief project officer of the Kerala State Transport Project.",
+      "background": "This development comes amid broader political scrutiny and protests regarding CEC Gyanesh Kumar's actions concerning electoral processes. The legal opinion allows the state government to pursue action in this specific case.",
+      "examRelevance": "Kerala government to proceed against CEC Gyanesh Kumar in abetment to suicide case involving Lee See Been.",
+      "tags": [
+        "Gyanesh Kumar",
+        "CEC",
+        "Kerala Government",
+        "Abetment to Suicide",
+        "Lee See Been"
+      ],
+      "source": {
+        "title": "Keralam government gets legal opinion to proceed against Chief Election Commissioner Gyanesh Kumar in abetment to suicide case",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-government-gets-legal-opinion-to-proceed-against-chief-election-commissioner-gyanesh-kumar-in-abetment-to-suicide-case/article71544342.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-05-q30",
+      "question": "The Delhi High Court recently dismissed pleas seeking a Special Investigation Team (SIT) probe into which two significant events?",
+      "options": [
+        "2015 Dadri lynching and 2022 Hathras gang-rape",
+        "2017 Ram Rahim Singh verdict protests and 2021 farmers' protest violence",
+        "2020 Delhi riots and 2019 Jamia violence",
+        "2016 JNU protests and 2018 Bhima Koregaon violence"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Delhi High Court has dismissed a batch of pleas that sought a Special Investigation Team (SIT) probe into two major incidents: the 2020 northeast Delhi riots and the 2019 Jamia Millia Islamia violence.",
+      "background": "Both the 2020 Delhi riots and the 2019 Jamia violence were highly contentious events that led to significant loss of life and property, as well as widespread public debate and legal challenges regarding accountability and justice.",
+      "examRelevance": "Delhi High Court dismisses pleas for SIT probe into 2020 Delhi riots and 2019 Jamia violence.",
+      "tags": [
+        "Delhi High Court",
+        "SIT Probe",
+        "Delhi Riots 2020",
+        "Jamia Violence 2019",
+        "Justice"
+      ],
+      "source": {
+        "title": "Delhi High Court dismisses pleas for SIT probe into 2020 riots, 2019 Jamia violence",
+        "url": "https://www.thehindu.com/news/national/delhi-high-court-dismisses-pleas-for-sit-probe-into-2020-riots-2019-jamia-violence/article71545981.ece"
+      }
+    }
+  ]
+}
