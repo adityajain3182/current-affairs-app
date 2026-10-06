@@ -1,0 +1,773 @@
+{
+  "id": "daily-2026-10-06",
+  "type": "daily",
+  "date": "2026-10-06",
+  "title": "Current Affairs — 06 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-06-q1",
+      "question": "Who is the Election Commissioner whose resignation was demanded by INDIA bloc MPs during a recent march to the Election Commission of India headquarters?",
+      "options": [
+        "Arun Goel",
+        "Rajiv Kumar",
+        "Gyanesh Kumar",
+        "Anup Chandra Pandey"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "INDIA bloc MPs recently marched to the Election Commission of India headquarters, demanding the resignation of Election Commissioner Gyanesh Kumar amidst heavy security deployment and barricading.",
+      "background": "The protest highlights ongoing political tensions and allegations regarding the functioning and appointments within the Election Commission of India, a crucial body for democratic processes.",
+      "examRelevance": "Election Commissioner Gyanesh Kumar's resignation demanded by INDIA bloc MPs.",
+      "tags": [
+        "Gyanesh Kumar",
+        "Election Commission",
+        "INDIA bloc",
+        "Protest"
+      ],
+      "source": {
+        "title": "CEC row LIVE updates: Several INDIA bloc MPs detained by police during march to ECI",
+        "url": "https://www.thehindu.com/news/national/cec-row-protest-against-gyanesh-kumar-india-bloc-march-election-commission-sir-issue-live-updates-october-6-2026/article71549790.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q2",
+      "question": "Which company recently received a court breather over a ban on its 'Campa energy drink' label?",
+      "options": [
+        "Reliance Industries Ltd.",
+        "Coca-Cola India",
+        "Tata Consumer Products",
+        "PepsiCo India"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Reliance Industries Ltd. (RIL) recently received a court breather regarding a ban on its 'Campa energy drink' label, providing temporary relief in a legal dispute.",
+      "background": "Campa is a legacy Indian beverage brand acquired by Reliance Retail Ventures Ltd (RRVL) in 2022. The legal issue likely pertains to regulatory compliance or intellectual property related to its branding.",
+      "examRelevance": "Reliance Industries Ltd. received court breather for 'Campa energy drink' label.",
+      "tags": [
+        "Reliance Industries",
+        "Campa",
+        "Energy Drink",
+        "Legal"
+      ],
+      "source": {
+        "title": "RIL gets breather over Campa ‘energy drink’ ban",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/food/reliance-gets-court-breather-over-campa-energy-drink-label-ban/articleshow/134726812.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q3",
+      "question": "In which state were recent byelections held in constituencies like Dharapuram and Madurantakam?",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Byelections were recently held in Tamil Nadu, with constituencies such as Dharapuram and Madurantakam reporting polling activity and issues like technical glitches in EVMs.",
+      "background": "Byelections are held to fill vacancies in legislative bodies that arise due to resignation, death, or disqualification of elected members. These specific byelections observed various incidents, including alleged violations of ECI rules by polling agents.",
+      "examRelevance": "Tamil Nadu byelections held in Dharapuram and Madurantakam constituencies.",
+      "tags": [
+        "Tamil Nadu",
+        "Byelections",
+        "Dharapuram",
+        "Madurantakam"
+      ],
+      "source": {
+        "title": "Byelections 2026 LIVE updates: AJUP chief Humayun Kabir arrested; Bengal Congress alleges EVM issues, voter intimidation in Nandigram",
+        "url": "https://www.thehindu.com/news/national/byelection-bypoll-voting-nandigram-rejinagar-madurantakam-dharapuram-thattanchavady-nagaon-live-updates-october-6-2026/article71549585.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q4",
+      "question": "Which organization is currently facing an internal rift over the legality of new executive panel appointments, with actress Ansiba Hassan raising concerns?",
+      "options": [
+        "A.R.T.I.S.T. (Association for the Revival of Traditional Indian Arts and Skills)",
+        "FEFKA (Film Employees Federation of Kerala)",
+        "MACTA (Malayalam Cine Technicians Association)",
+        "AMMA (Association of Malayalam Movie Artists)"
+      ],
+      "answerIndex": 3,
+      "category": "Art & Culture",
+      "explanation": "The Association of Malayalam Movie Artists (AMMA) is currently embroiled in an internal crisis, with actress Ansiba Hassan questioning the legality of new appointments to its executive panel, citing that the panel had previously announced its decision to step down.",
+      "background": "AMMA is a prominent organization representing actors in the Malayalam film industry. Internal disputes and leadership changes within such influential bodies often draw significant media attention and can impact the industry's functioning.",
+      "examRelevance": "AMMA faces internal rift over executive panel appointments; Ansiba Hassan raises concerns.",
+      "tags": [
+        "AMMA",
+        "Malayalam Cinema",
+        "Ansiba Hassan",
+        "Film Industry"
+      ],
+      "source": {
+        "title": "AMMA crisis: Executive panel revamp widens internal rift",
+        "url": "https://www.thehindu.com/news/national/kerala/amma-crisis-executive-panel-revamp-widens-internal-rift/article71550324.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q5",
+      "question": "In which district of Andhra Pradesh were five individuals recently arrested for their involvement in the marriage of a minor?",
+      "options": [
+        "Chittoor",
+        "Annamayya",
+        "Guntur",
+        "Visakhapatnam"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "Five individuals, including the groom, his parents, the minor’s mother, and a mediator, were recently arrested and remanded in Chittoor district, Andhra Pradesh, for their involvement in the marriage of a minor.",
+      "background": "Child marriage is illegal in India under the Prohibition of Child Marriage Act, 2006. Police acted on a tip-off from neighbours after the wedding, highlighting the role of community vigilance in enforcing social laws.",
+      "examRelevance": "Five arrested in Chittoor, Andhra Pradesh, for minor marriage.",
+      "tags": [
+        "Chittoor",
+        "Andhra Pradesh",
+        "Child Marriage",
+        "Arrest"
+      ],
+      "source": {
+        "title": "Five arrested in Andhra’s Chittoor over marriage of a minor",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/five-arrested-in-andhras-chittoor-over-marriage-of-a-minor/article71549998.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q6",
+      "question": "What was the approximate year-on-year surge in auto retail sales reported for September, making it the 'best ever September'?",
+      "options": [
+        "40%",
+        "32%",
+        "18%",
+        "25%"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Auto retail sales in September witnessed a significant 32% surge year-on-year, marking it as the 'best ever September' for the sector. This growth was attributed to festive buying, steady rural and semi-urban demand, premium motorcycle sales, and accelerating EV adoption.",
+      "background": "The automotive sector is a key indicator of economic health. Strong retail sales in September, often influenced by the onset of the festive season in India, suggest robust consumer demand and positive market sentiment.",
+      "examRelevance": "Auto retail sales surged 32% year-on-year in September.",
+      "tags": [
+        "Auto Sales",
+        "Retail",
+        "Economic Growth",
+        "September"
+      ],
+      "source": {
+        "title": "‘Best ever September’: Auto retail sales surge 32% year-on-year",
+        "url": "https://www.thehindu.com/business/Industry/best-ever-september-auto-retail-sales-surge-32-year-on-year/article71550095.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q7",
+      "question": "For which date's anniversary did Israel recently put its military on alert, citing intelligence regarding potential attacks?",
+      "options": [
+        "October 7",
+        "November 1",
+        "September 11",
+        "December 25"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Israel recently put its military on alert for the anniversary of October 7, in light of intelligence regarding Hamas's intentions to attempt attacks and terror operations against Israeli forces in Gaza on that day.",
+      "background": "October 7 marks a significant date in the recent history of the Israel-Hamas conflict. The heightened alert reflects ongoing security concerns and the volatile situation in the region.",
+      "examRelevance": "Israel put military on alert for October 7 anniversary.",
+      "tags": [
+        "Israel",
+        "Hamas",
+        "Military Alert",
+        "Gaza",
+        "October 7"
+      ],
+      "source": {
+        "title": "Israel puts military on alert for October 7 anniversary, warns Gazans",
+        "url": "https://www.thehindu.com/news/international/israel-puts-military-on-alert-for-october-7-anniversary-warns-gazans/article71550358.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q8",
+      "question": "What is the approximate amount of true-up charges approved by the Telangana ERC for recovery, leading to heavier electricity bills from November 2026?",
+      "options": [
+        "₹5,420 crore",
+        "₹4,800 crore",
+        "₹6,100 crore",
+        "₹3,950 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Telangana Electricity Regulatory Commission (ERC) has approved the recovery of ₹5,420 crore in true-up charges, which will result in heavier monthly electricity bills for consumers in Telangana starting from November 2026.",
+      "background": "True-up charges are adjustments made by regulatory commissions to reconcile the difference between the actual cost of power incurred by distribution companies and the estimated cost approved during tariff fixation. This recovery will continue till March 2029 for TGSPDCL consumers and till December 2028 for TGNPDCL consumers.",
+      "examRelevance": "Telangana ERC approved recovery of ₹5,420 crore true-up charges.",
+      "tags": [
+        "Telangana",
+        "Electricity Bills",
+        "ERC",
+        "True-up Charges"
+      ],
+      "source": {
+        "title": "Monthly electricity bills in Telangana to become heavy from November 2026; ERC approves true-up charges recovery",
+        "url": "https://www.thehindu.com/news/national/telangana/monthly-electricity-bills-in-telangana-to-become-heavy-from-november-2026-erc-approves-true-up-charges-recovery/article71550236.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q9",
+      "question": "Which prominent Indian sportsperson recently stepped down as the captain of the India women's cricket team?",
+      "options": [
+        "Harmanpreet Kaur",
+        "Mithali Raj",
+        "Jhulan Goswami",
+        "Smriti Mandhana"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Harmanpreet Kaur, the 37-year-old cricketer, recently stepped down as the captain of the India women's cricket team. She had led the Indian T20 side for a decade since 2016 and became the all-format leader in 2023.",
+      "background": "Harmanpreet Kaur is one of India's most accomplished women cricketers, known for her aggressive batting and leadership. Her stepping down marks a significant transition in the leadership of the national team.",
+      "examRelevance": "Harmanpreet Kaur stepped down as captain of India women's cricket team.",
+      "tags": [
+        "Harmanpreet Kaur",
+        "Cricket",
+        "India Women's Team",
+        "Captaincy"
+      ],
+      "source": {
+        "title": "Harmanpreet Kaur steps down as captain of India women's team",
+        "url": "https://www.thehindu.com/sport/cricket/harmanpreet-kaur-steps-down-as-captain-of-india-womens-team/article71550199.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q10",
+      "question": "Which state's government recently approached the Supreme Court against a CBI probe linked to the Chief Minister's office, which the Supreme Court agreed to hear urgently?",
+      "options": [
+        "Punjab",
+        "Uttar Pradesh",
+        "Rajasthan",
+        "Haryana"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently agreed to urgently hear a plea filed by the Punjab government against a CBI probe. The probe is linked to the Chief Minister Mann's office and involves allegations of corruption in transfers, postings, policy manipulation, and cash for tenders, raised by the Enforcement Directorate (ED).",
+      "background": "The CBI (Central Bureau of Investigation) and ED (Enforcement Directorate) are central investigative agencies in India. States often challenge central agency probes in the Supreme Court, raising questions of federalism and jurisdiction, especially when investigations involve state government officials.",
+      "examRelevance": "Supreme Court to urgently hear Punjab's plea against CBI probe linked to CM Mann's office.",
+      "tags": [
+        "Punjab",
+        "Supreme Court",
+        "CBI",
+        "CM Mann",
+        "Corruption"
+      ],
+      "source": {
+        "title": "Supreme Court agrees to hear urgently Punjab’s plea against CBI probe linked to CM Mann’s office",
+        "url": "https://www.thehindu.com/news/national/supreme-court-agrees-to-hear-urgently-punjabs-plea-against-cbi-probe-linked-to-cm-manns-office/article71550220.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q11",
+      "question": "What is the primary rate that the RBI is widely expected to raise due to factors like rising inflation and higher oil prices?",
+      "options": [
+        "Reverse repo rate",
+        "CRR",
+        "Bank rate",
+        "Repo rate"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Reserve Bank of India (RBI) is widely expected to raise the repo rate. This anticipated hike is driven by rising inflation, higher global oil prices, and the broader trend of global monetary tightening.",
+      "background": "The repo rate is the rate at which the RBI lends money to commercial banks, and it is a key tool for controlling inflation and managing liquidity in the economy. Changes in the repo rate directly influence interest rates for loans and deposits across the banking system.",
+      "examRelevance": "RBI expected to raise the repo rate.",
+      "tags": [
+        "RBI",
+        "Repo Rate",
+        "Inflation",
+        "Monetary Policy"
+      ],
+      "source": {
+        "title": "Mint Explainer | Why the RBI looks set to hike rates",
+        "url": "https://www.livemint.com/economy/rbi-repo-rate-hike-mpc-october-2026-11791267893186.html"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q12",
+      "question": "The Keralam government is working on a new Bill for affordable private healthcare, bringing which existing Act back into focus?",
+      "options": [
+        "Kerala Health Sector Reforms Act 2020",
+        "Kerala Public Health Act 2015",
+        "Kerala Medical Services Act 2010",
+        "Kerala Clinical Establishments (Registration and Regulations) Act 2018"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Keralam government's efforts to draft a new Bill aimed at ensuring affordable private healthcare has brought the Kerala Clinical Establishments (Registration and Regulations) Act 2018 back into focus. The private health sector has been resistant to this Act, which seeks to regulate both public and private health sectors.",
+      "background": "The Kerala Clinical Establishments (Registration and Regulations) Act 2018 was enacted to standardize and regulate clinical establishments in the state, ensuring quality and affordability of healthcare services. Its re-evaluation for a new Bill highlights ongoing challenges in healthcare governance and regulation.",
+      "examRelevance": "Kerala Clinical Establishments (Registration and Regulations) Act 2018 is in focus for new healthcare Bill.",
+      "tags": [
+        "Kerala",
+        "Healthcare",
+        "Clinical Establishments Act",
+        "Legislation"
+      ],
+      "source": {
+        "title": "In Keralam, ‘affordable’ private health care is easier said than done",
+        "url": "https://www.thehindu.com/news/national/kerala/in-keralam-affordable-private-health-care-is-easier-said-than-done/article71547179.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q13",
+      "question": "How many forms for new voters and corrections were received by Maharashtra's CEO after the publication of draft electoral rolls, under the Special Intensive Revision (SIR)?",
+      "options": [
+        "6.24 lakh",
+        "7.10 lakh",
+        "4.95 lakh",
+        "5.80 lakh"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Maharashtra's Chief Electoral Officer (CEO) recently received 6.24 lakh forms for new voters and corrections following the publication of draft electoral rolls under the Special Intensive Revision (SIR). Pune recorded the highest number of forms at 56,605.",
+      "background": "The Special Intensive Revision (SIR) is a process undertaken by the Election Commission to update electoral rolls, ensuring accuracy and inclusivity. The period for filing claims and objections for this revision was extended to October 12.",
+      "examRelevance": "Maharashtra CEO received 6.24 lakh forms for voter revision under SIR.",
+      "tags": [
+        "Maharashtra",
+        "Electoral Rolls",
+        "Voter Registration",
+        "CEO"
+      ],
+      "source": {
+        "title": "Maharashtra SIR: CEO gets 6.24 lakh forms for new voters, corrections after draft rolls publication",
+        "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-sir-ceo-gets-624-lakh-forms-for-new-voters-corrections-after-draft-rolls-publication/article71550096.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q14",
+      "question": "What is the revised economic growth forecast for India for FY27 by the World Bank?",
+      "options": [
+        "7.1%",
+        "6.9%",
+        "7.5%",
+        "6.6%"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The World Bank has raised its forecast for India's economic growth in FY27 to 7.1% from an earlier projection of 6.6%. This revision is based on stronger-than-expected activity, supported by robust domestic demand and exports.",
+      "background": "The World Bank's economic forecasts are closely watched indicators for global and national economic health. The upward revision for India reflects confidence in its economic resilience, despite warnings about elevated global risks.",
+      "examRelevance": "World Bank raised India's FY27 growth forecast to 7.1%.",
+      "tags": [
+        "World Bank",
+        "India",
+        "Economic Growth",
+        "FY27",
+        "Forecast"
+      ],
+      "source": {
+        "title": "World Bank raises India FY27 growth forecast to 7.1% from 6.6% on stronger-than-expected activity",
+        "url": "https://www.livemint.com/economy/world-bank-raises-india-fy27-growth-forecast-to-7-1-from-6-6-on-stronger-than-expected-activity-11791270536568.html"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q15",
+      "question": "Residents of R.R. Nagar recently protested against the construction of a milk booth belonging to which brand on rangamandira premises?",
+      "options": [
+        "Aavin",
+        "Nandini",
+        "Mother Dairy",
+        "Amul"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "Residents of R.R. Nagar recently staged a protest against the proposed construction of a Nandini milk booth on the premises of a rangamandira, a cultural performance space.",
+      "background": "Nandini is a well-known dairy brand operated by the Karnataka Milk Federation (KMF). Protests against construction on public or culturally significant land often arise due to concerns over public space utilization and potential disruption to community activities.",
+      "examRelevance": "Nandini milk booth construction protested in R.R. Nagar.",
+      "tags": [
+        "Nandini",
+        "R.R. Nagar",
+        "Protest",
+        "Milk Booth"
+      ],
+      "source": {
+        "title": "R.R. Nagar residents protest against construction of Nandini milk booth on rangamandira premises",
+        "url": "https://www.thehindu.com/news/national/karnataka/rr-nagar-residents-protest-against-construction-of-nandini-milk-booth-on-rangamandira-premises/article71543509.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q16",
+      "question": "The Supreme Court recently dismissed a plea seeking the recitation of which part of the Constitution during morning assembly in schools?",
+      "options": [
+        "Directive Principles",
+        "Fundamental Rights",
+        "Preamble",
+        "Fundamental Duties"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently dismissed a plea that sought a direction for the recitation of the Preamble of the Constitution during morning assembly in schools. The Court noted that the Preamble is already covered in classroom teachings.",
+      "background": "The Preamble to the Constitution of India serves as an introduction to the Constitution and outlines its core principles and objectives. The plea aimed to reinforce constitutional values among students, but the Court found existing educational frameworks sufficient.",
+      "examRelevance": "Supreme Court dismissed plea for Preamble recitation in schools.",
+      "tags": [
+        "Supreme Court",
+        "Preamble",
+        "Constitution",
+        "Education",
+        "Schools"
+      ],
+      "source": {
+        "title": "Supreme Court dismisses plea seeking recitation of Preamble of Constitution during morning assembly in schools",
+        "url": "https://www.thehindu.com/news/national/supreme-court-dismisses-plea-seeking-recitation-of-preamble-of-constitution-during-morning-assembly-in-schools/article71550297.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q17",
+      "question": "What was the existing cash incentive offered by the Karnataka government for a gold medallist at the Commonwealth and Asian Games, which is now being revised?",
+      "options": [
+        "₹50 lakh",
+        "₹25 lakh",
+        "₹1 crore",
+        "₹35 lakh"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "The Karnataka government is set to revise its cash incentive scheme for medallists at the Commonwealth and Asian Games. Currently, it offers ₹35 lakh for a gold medal, ₹25 lakh for silver, and ₹15 lakh for bronze.",
+      "background": "State governments provide cash incentives to encourage athletes and recognize their achievements in international multi-sport events. The revision comes amidst comparisons with other states like Haryana, which offer significantly higher prize money for medallists.",
+      "examRelevance": "Karnataka to revise ₹35 lakh cash incentive for Asian Games gold medallists.",
+      "tags": [
+        "Karnataka",
+        "Asian Games",
+        "Commonwealth Games",
+        "Cash Incentive",
+        "Sports Awards"
+      ],
+      "source": {
+        "title": "Karnataka to revise cash incentive for Asian Games medallists",
+        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-revise-cash-incentive-for-asian-games-medalists/article71548364.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q18",
+      "question": "Which former US President recently approved the firing squad execution for Fort Hood shooter Nidal Hasan?",
+      "options": [
+        "Joe Biden",
+        "Donald Trump",
+        "Barack Obama",
+        "George W. Bush"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Former US President Donald Trump recently approved the firing squad execution for Nidal Hasan, the Army psychiatrist responsible for the Fort Hood shooting that killed 13 people and injured over 30.",
+      "background": "Nidal Hasan was convicted for the 2009 Fort Hood shooting. The approval by a former president for a military execution, particularly by firing squad, is a significant legal and political development in the United States.",
+      "examRelevance": "Donald Trump approved firing squad execution for Fort Hood shooter Nidal Hasan.",
+      "tags": [
+        "Donald Trump",
+        "Nidal Hasan",
+        "Fort Hood",
+        "Execution",
+        "US Politics"
+      ],
+      "source": {
+        "title": "Trump approves firing squad execution for Fort Hood shooter Nidal Hasan",
+        "url": "https://www.thehindu.com/news/international/trump-approves-firing-squad-execution-for-fort-hood-shooter-nidal-hasan/article71549975.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q19",
+      "question": "Which political leader recently alleged that the UDF government in Keralam is implementing the RSS-BJP agenda, citing the move to weaken the State Planning Board?",
+      "options": [
+        "Rahul Gandhi",
+        "Pinarayi Vijayan",
+        "Arvind Kejriwal",
+        "M.K. Stalin"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Kerala Chief Minister Pinarayi Vijayan recently alleged that the UDF government in Keralam is implementing the RSS-BJP agenda. He cited the reported move to weaken the State Planning Board as the latest example during a CPI(M) extended district committee meeting in Kozhikode.",
+      "background": "The State Planning Board plays a crucial role in formulating development plans and policies for the state. Allegations of weakening such institutions or of one party implementing another's agenda are common in Indian political discourse, especially in states with strong regional parties.",
+      "examRelevance": "Pinarayi Vijayan alleged UDF implementing RSS-BJP agenda in Keralam.",
+      "tags": [
+        "Pinarayi Vijayan",
+        "Kerala",
+        "UDF",
+        "RSS-BJP",
+        "State Planning Board"
+      ],
+      "source": {
+        "title": "UDF govt in Keralam implementing RSS-BJP agenda, says Pinarayi Vijayan",
+        "url": "https://www.thehindu.com/news/national/kerala/udf-govt-in-keralam-implementing-rss-bjp-agenda-says-pinarayi-vijayan/article71550245.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q20",
+      "question": "Which political figure recently announced that his super PAC would pay for taxpayer-funded ads that had sparked backlash for glorifying him?",
+      "options": [
+        "Bernie Sanders",
+        "Donald Trump",
+        "Joe Biden",
+        "Mike Pence"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Donald Trump recently announced that his super PAC would pay for taxpayer-funded ads that had previously sparked backlash for glorifying him. He did not provide details on how the reimbursement or future payments would be handled.",
+      "background": "Super PACs (Political Action Committees) are independent political expenditure-only committees in the US that can raise unlimited sums of money from corporations, unions, associations, and individuals, then spend unlimited sums to overtly advocate for or against political candidates.",
+      "examRelevance": "Donald Trump's super PAC to pay for glorifying taxpayer-funded ads.",
+      "tags": [
+        "Donald Trump",
+        "Super PAC",
+        "US Politics",
+        "Advertising"
+      ],
+      "source": {
+        "title": "Trump says his super PAC will pay for taxpayer-funded ads that sparked backlash for glorifying him",
+        "url": "https://www.thehindu.com/news/international/trump-says-his-super-pac-will-pay-for-taxpayer-funded-ads-that-sparked-backlash-for-glorifying-him/article71549746.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q21",
+      "question": "Which group from Yemen recently claimed to have struck Riyadh airport and other sites in Saudi Arabia?",
+      "options": [
+        "Ansar al-Sharia",
+        "Al-Qaeda in the Arabian Peninsula",
+        "ISIS-Yemen",
+        "Houthis"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Yemen's Houthis recently claimed responsibility for striking Riyadh airport and other sites in Saudi Arabia. This development comes as the conflict in Yemen has intensified, displacing over 1,84,000 people.",
+      "background": "The Houthis are an Iran-backed Shia Islamist political and military organization that emerged in northern Yemen in the 1990s. Their conflict with the Saudi-led coalition has been a major front in the broader West Asia war.",
+      "examRelevance": "Yemen's Houthis claimed strikes on Riyadh airport and other Saudi sites.",
+      "tags": [
+        "Yemen",
+        "Houthis",
+        "Saudi Arabia",
+        "Riyadh Airport",
+        "West Asia Conflict"
+      ],
+      "source": {
+        "title": "Yemen’s Houthis say struck Riyadh airport, other Saudi sites",
+        "url": "https://www.thehindu.com/news/international/yemens-houthis-say-struck-riyadh-airport-other-saudi-sites/article71550273.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q22",
+      "question": "Which state government has made school education a central part of its political identity, implementing initiatives such as the 'Schools of Eminence' scheme?",
+      "options": [
+        "Kerala",
+        "West Bengal",
+        "Punjab",
+        "Delhi"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The Aam Aadmi Party (AAP) government in Punjab has made school education a central part of its political identity. Its initiatives include the 'Schools of Eminence' scheme, teacher training, foundational learning programs, and larger parent-teacher meetings.",
+      "background": "The 'Schools of Eminence' scheme aims to transform government schools into centers of excellence, providing high-quality education and facilities. This focus on education mirrors the AAP's governance model in Delhi, where education reforms have been a key policy plank.",
+      "examRelevance": "Punjab government's 'Schools of Eminence' scheme is a key education initiative.",
+      "tags": [
+        "Punjab",
+        "AAP",
+        "Schools of Eminence",
+        "Education Scheme"
+      ],
+      "source": {
+        "title": "Rebel AAP MLA’s poser on ‘education revolution’ in Punjab: a reality check",
+        "url": "https://www.thehindu.com/education/rebel-aap-mlas-poser-on-education-revolution-in-punjab-a-reality-check/article71550187.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q23",
+      "question": "Which state government is facing increasing pressure to withdraw its anti-cow slaughter and anti-conversion laws?",
+      "options": [
+        "Gujarat",
+        "Madhya Pradesh",
+        "Karnataka",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Karnataka government is currently facing increasing pressure to withdraw its existing anti-cow slaughter and anti-conversion laws. These laws have been subjects of significant debate and public discourse.",
+      "background": "Anti-cow slaughter laws prohibit the killing of cows, while anti-conversion laws regulate religious conversions, often requiring prior notification to authorities. These laws are contentious, with proponents arguing for cultural and religious protection, and opponents citing concerns over individual freedoms and minority rights.",
+      "examRelevance": "Karnataka government faces pressure to withdraw anti-cow slaughter and anti-conversion laws.",
+      "tags": [
+        "Karnataka",
+        "Anti-Cow Slaughter Law",
+        "Anti-Conversion Law",
+        "Legislation"
+      ],
+      "source": {
+        "title": "Pressure rising on Karnataka government to withdraw anti-cow slaughter and anti-conversion laws",
+        "url": "https://www.thehindu.com/news/national/karnataka/pressure-on-karnataka-government-to-withdraw-anti-cow-slaughter-and-anti-conversion-laws-increasing/article71546754.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q24",
+      "question": "What percentage of 'Praja Seva' applications have been resolved, according to the Belagavi DC?",
+      "options": [
+        "40%",
+        "25%",
+        "35%",
+        "30%"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "According to the Belagavi Deputy Commissioner (DC), approximately 30% of the 'Praja Seva' applications have been resolved. Most of the grievances pertained to departments such as Forest, Public Works, and Revenue, and matters related to cremation grounds and school building construction.",
+      "background": "Praja Seva (meaning 'Public Service') likely refers to a grievance redressal or public service delivery mechanism implemented at the district level. The resolution rate indicates the progress and effectiveness of addressing citizen complaints.",
+      "examRelevance": "Belagavi DC stated 30% of Praja Seva applications resolved.",
+      "tags": [
+        "Belagavi",
+        "Praja Seva",
+        "Grievance Redressal",
+        "Karnataka"
+      ],
+      "source": {
+        "title": "As many as 30% of Praja Seva applications resolved, says Belagavi DC",
+        "url": "https://www.thehindu.com/news/national/karnataka/as-many-as-30-of-praja-seva-applications-resolved-says-belagavi-dc/article71546849.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q25",
+      "question": "Which South American country is currently in talks with India for the sale of crude oil, critical minerals, and copper?",
+      "options": [
+        "Brazil",
+        "Argentina",
+        "Ecuador",
+        "Venezuela"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Ecuador is currently engaged in discussions with India for the sale of crude oil, critical minerals, and copper. India is actively seeking to diversify its energy purchases beyond the West Asia region.",
+      "background": "India is a major importer of crude oil and minerals, and diversifying its supply sources is a strategic move to enhance energy security and reduce reliance on specific volatile regions. South American countries are emerging as important partners in this diversification strategy.",
+      "examRelevance": "Ecuador in talks with India for crude oil, critical minerals, copper sale.",
+      "tags": [
+        "Ecuador",
+        "India",
+        "Crude Oil",
+        "Critical Minerals",
+        "Trade"
+      ],
+      "source": {
+        "title": "Ecuador in talks with India for sale of crude oil, critical minerals, copper: ambassador Buchelli",
+        "url": "https://www.livemint.com/economy/ecuador-india-talks-crude-oil-critical-minerals-copper-trade-11791257129841.html"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q26",
+      "question": "The Archaeological Survey of India (ASI) is undertaking Dwarapala restoration work at the Thousand Pillar Temple, located in which district of Telangana?",
+      "options": [
+        "Nalgonda",
+        "Warangal",
+        "Hanumakonda",
+        "Karimnagar"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "The Archaeological Survey of India (ASI) is carrying out Dwarapala (door-guardian) restoration work at the historic Thousand Pillar Temple, which is located in Hanumakonda district of Telangana. Compatible stone matching the original is being selected for replacement or mending.",
+      "background": "The Thousand Pillar Temple is an ancient Hindu temple built by the Kakatiya dynasty in the 12th century. Restoration efforts by the ASI are crucial for preserving such significant cultural heritage sites, ensuring their structural integrity and historical authenticity.",
+      "examRelevance": "ASI undertaking Dwarapala restoration at Thousand Pillar Temple in Hanumakonda, Telangana.",
+      "tags": [
+        "ASI",
+        "Thousand Pillar Temple",
+        "Hanumakonda",
+        "Telangana",
+        "Restoration"
+      ],
+      "source": {
+        "title": "ASI undertakes Dwarapala restoration at Thousand Pillar Temple in Telangana’s Hanumakonda",
+        "url": "https://www.thehindu.com/news/national/telangana/asi-undertakes-dwarapala-restoration-at-thousand-pillar-temple-in-telanganas-hanumakonda/article71549912.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q27",
+      "question": "Which state's Public Service Commission (PSC) chairpersons are being recommended for a probe over alleged paper leaks and irregularities?",
+      "options": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Devendra Fadnavis recently recommended the formation of a panel to probe the chairpersons and members of the Maharashtra Public Service Commission (MPSC). This move comes amidst protests by MPSC aspirants over alleged irregularities in the commission's functioning and examination-related controversies, including paper leaks.",
+      "background": "Public Service Commissions are constitutional bodies responsible for conducting examinations for recruitment to state services. Allegations of paper leaks and irregularities undermine public trust in the examination system and are a serious concern for aspirants.",
+      "examRelevance": "Probe recommended for Maharashtra Public Service Commission (MPSC) chairpersons over paper leaks.",
+      "tags": [
+        "Maharashtra",
+        "MPSC",
+        "Paper Leaks",
+        "Probe",
+        "Devendra Fadnavis"
+      ],
+      "source": {
+        "title": "Fadnavis recommends panel to probe MPSC chairpersons over paper leaks",
+        "url": "https://www.thehindu.com/news/national/maharashtra/fadnavis-recommends-panel-to-probe-mpsc-chairpersons-members-over-paper-leaks/article71550173.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q28",
+      "question": "According to a recent PMI survey, India's services sector growth has hit a new high for what duration?",
+      "options": [
+        "One-year high",
+        "Three-month high",
+        "Six-month high",
+        "Two-year high"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "According to a recent Purchasing Managers' Index (PMI) survey, India's services sector growth has reached a three-month high. Companies reported improved sales performance due to increased demand in various segments like digital solutions, food, insurance, loans, software, transportation, and tours and travel.",
+      "background": "The PMI is an economic indicator derived from monthly surveys of private sector companies. A rising PMI indicates expansion in the sector, reflecting positive economic sentiment and activity. The services sector is a significant contributor to India's GDP.",
+      "examRelevance": "India's services sector growth hit a three-month high as per PMI survey.",
+      "tags": [
+        "India",
+        "Services Sector",
+        "PMI",
+        "Economic Indicator",
+        "Growth"
+      ],
+      "source": {
+        "title": "India’s services sector growth hits three-month high: PMI survey",
+        "url": "https://www.livemint.com/economy/india-services-economy-pmi-survey-business-consumer-services-11791265040418.html"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q29",
+      "question": "In which state was AJUP chief Humayun Kabir recently arrested in Rejinagar during a bypoll, for alleged violation of ECI rules?",
+      "options": [
+        "Odisha",
+        "West Bengal",
+        "Bihar",
+        "Assam"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "AJUP chief Humayun Kabir was recently arrested in Rejinagar, West Bengal, during a bypoll. He was detained by the police for allegedly violating Election Commission of India (ECI) rules, specifically for being present at his party office on polling day.",
+      "background": "Election laws often restrict the presence of political leaders and party workers near polling booths on election day to prevent voter intimidation or undue influence. Such arrests during elections highlight the ECI's efforts to ensure free and fair polls.",
+      "examRelevance": "AJUP chief Humayun Kabir arrested in Rejinagar, West Bengal during bypoll.",
+      "tags": [
+        "West Bengal",
+        "Bypoll",
+        "Humayun Kabir",
+        "AJUP",
+        "ECI Rules"
+      ],
+      "source": {
+        "title": "Bengal bypoll: AJUP chief Humayun Kabir arrested in Rejinagar after verbal altercation with police",
+        "url": "https://www.thehindu.com/news/national/west-bengal/bengal-bypoll-ajup-chief-humayun-kabir-detained-in-rejinagar/article71550043.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-06-q30",
+      "question": "What is the projected percentage increase for Indian banks' Q2FY27 earnings?",
+      "options": [
+        "15%",
+        "11%",
+        "13%",
+        "9%"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Indian banks' earnings for the second quarter of Fiscal Year 2027 (Q2FY27) are projected to rise by 11%. This forecast indicates continued growth in the banking sector.",
+      "background": "Quarterly earnings reports are crucial for assessing the financial health and performance of the banking sector. Factors such as interest rates, credit growth, asset quality, and global economic conditions influence these projections.",
+      "examRelevance": "Indian banks' Q2FY27 earnings projected to rise 11%.",
+      "tags": [
+        "Indian Banks",
+        "Earnings",
+        "Q2FY27",
+        "Banking Sector",
+        "Financial Forecast"
+      ],
+      "source": {
+        "title": "Indian banks' Q2FY27 earnings seen rising 11%",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-banks-q2fy27-earnings-seen-rising-11-fcnr-deposits-may-weigh-on-margins-kotak/articleshow/134725479.cms"
+      }
+    }
+  ]
+}
