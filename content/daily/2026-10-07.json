@@ -1,0 +1,769 @@
+{
+  "id": "daily-2026-10-07",
+  "type": "daily",
+  "date": "2026-10-07",
+  "title": "Current Affairs — 07 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-07-q1",
+      "question": "What is the name of the new open-weight AI model recently unveiled by Mistral to compete with Chinese models?",
+      "options": [
+        "Le Petit",
+        "Le Grand",
+        "Le Chonk",
+        "Le Brave"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Mistral recently unveiled its new open-weight AI model named 'Le Chonk'. The open weights for Le Chonk are scheduled to be released at the end of October. This model is designed to compete with existing Chinese open-weight AI models in the market.",
+      "background": "Mistral is a prominent AI company known for its contributions to open-source AI models. The release of open-weight models fosters innovation and competition in the AI landscape, allowing developers and researchers to access and build upon the underlying technology.",
+      "examRelevance": "Mistral's new open-weight AI model is 'Le Chonk'.",
+      "tags": [
+        "Mistral",
+        "Le Chonk",
+        "AI Model",
+        "Open-weight AI"
+      ],
+      "source": {
+        "title": "Mistral unveils ‘Le Chonk’ to compete with Chinese open-weight AI models",
+        "url": "https://www.thehindu.com/sci-tech/technology/mistral-unveils-le-chonk-to-compete-with-chinese-open-weight-ai-models/article71554171.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q2",
+      "question": "Who is the Chief Election Commissioner against whom protests have intensified recently, leading to Supreme Court issuing a notice?",
+      "options": [
+        "Gyanesh Kumar",
+        "Rajiv Kumar",
+        "Om Prakash Rawat",
+        "Sunil Arora"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Protests have intensified against Chief Election Commissioner (CEC) Gyanesh Kumar over the last week. The Supreme Court has issued a notice to the Election Commission of India (ECI) and the Centre regarding the developments in the furore against the Election Commission.",
+      "background": "The role and appointment process of the Chief Election Commissioner are crucial for maintaining the integrity of India's democratic elections. Recent controversies and legal challenges surrounding appointments to the ECI highlight ongoing debates about its independence and transparency.",
+      "examRelevance": "Chief Election Commissioner (CEC) is Gyanesh Kumar.",
+      "tags": [
+        "Gyanesh Kumar",
+        "Chief Election Commissioner",
+        "ECI",
+        "Supreme Court"
+      ],
+      "source": {
+        "title": "Key developments in the ECI row: A timeline",
+        "url": "https://www.thehindu.com/news/national/key-developments-in-the-eci-row-a-timeline/article71552265.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q3",
+      "question": "Which HPV vaccine from Serum Institute has recently received WHO prequalification, allowing it to be procured by U.N. agencies?",
+      "options": [
+        "Papillomax",
+        "Vaxigard",
+        "Immunovac",
+        "Cervavac"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "The Serum Institute of India's HPV vaccine, Cervavac, has recently received prequalification from the World Health Organization (WHO). This inclusion on the WHO list will enable U.N. agencies to procure the vaccine, facilitating wider distribution. The vaccine targets four HPV types and is indicated for individuals aged 9 through 26 years.",
+      "background": "HPV (Human Papillomavirus) vaccines are vital for preventing cervical cancer and other HPV-related diseases. WHO prequalification ensures that vaccines meet global standards of quality, safety, and efficacy, making them eligible for procurement by international bodies like UNICEF and PAHO for public health programs.",
+      "examRelevance": "Serum Institute's HPV vaccine 'Cervavac' received WHO prequalification.",
+      "tags": [
+        "Cervavac",
+        "HPV Vaccine",
+        "Serum Institute",
+        "WHO Prequalification"
+      ],
+      "source": {
+        "title": "Serum Institute’s HPV vaccine Cervavac receives WHO prequalification",
+        "url": "https://www.thehindu.com/sci-tech/health/serum-institutes-hpv-vaccine-cervavac-receives-who-prequalification/article71554508.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q4",
+      "question": "What is the new repo rate announced by the RBI's Monetary Policy Committee, marking a hike after nearly three-and-a-half years?",
+      "options": [
+        "5.25%",
+        "5.75%",
+        "5.50%",
+        "6.00%"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The Reserve Bank of India's (RBI) Monetary Policy Committee (MPC) has hiked the repo rate by 25 basis points to 5.50%. This marks the first increase in the repo rate after nearly three-and-a-half years. The decision comes amidst rising inflation pressures, partly due to the continuing West Asia conflict.",
+      "background": "The repo rate is the interest rate at which the RBI lends money to commercial banks, influencing borrowing costs across the economy. Changes in the repo rate are a key tool for the RBI to manage inflation and stimulate or cool down economic activity. A hike typically leads to higher lending rates for consumers and businesses.",
+      "examRelevance": "RBI hiked repo rate to 5.50%.",
+      "tags": [
+        "RBI",
+        "Repo Rate",
+        "Monetary Policy",
+        "Inflation"
+      ],
+      "source": {
+        "title": "RBI MPC meeting LIVE updates: Repo rate hiked to 5.5%; 'focus is on bringing headline inflation to target of 4%', Governor Sanjay Malhotra says",
+        "url": "https://www.thehindu.com/business/rbi-monetary-policy-meeting-decision-on-repo-rate-live-updates-october-7-2026/article71554262.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q5",
+      "question": "What new monetary policy stance has the RBI adopted, shifting from 'neutral', after hiking the repo rate by 25 basis points?",
+      "options": [
+        "Dovish stance",
+        "Hawkish stance",
+        "Calibrated tightening",
+        "Accommodative stance"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The Reserve Bank of India (RBI) has revised its monetary policy stance to 'calibrated tightening' from its previous 'neutral' stance. This shift accompanies the decision by the Monetary Policy Committee (MPC) to hike the repo rate by 25 basis points to 5.50%. The change in stance reflects the RBI's focus on bringing headline inflation to its target of 4%.",
+      "background": "The monetary policy stance indicates the RBI's future outlook and actions regarding interest rates and liquidity. A 'neutral' stance implies readiness to move either way, while 'calibrated tightening' suggests a bias towards further rate hikes or withdrawal of liquidity, but in a measured manner, to control inflation without severely dampening growth.",
+      "examRelevance": "RBI's new monetary policy stance is 'calibrated tightening'.",
+      "tags": [
+        "RBI",
+        "Monetary Policy Stance",
+        "Calibrated Tightening",
+        "Repo Rate"
+      ],
+      "source": {
+        "title": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
+        "url": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q6",
+      "question": "Which state government is currently facing pressure to withdraw its anti-cow slaughter and anti-conversion laws?",
+      "options": [
+        "Madhya Pradesh",
+        "Gujarat",
+        "Karnataka",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Karnataka government is currently under increasing pressure to withdraw or amend its anti-cow slaughter and anti-conversion laws. Chief Minister Siddaramaiah had initiated the process to address these legislations in 2023, but faced pressure from Hindu mutt seers.",
+      "background": "Anti-cow slaughter and anti-conversion laws have been subjects of significant political and social debate in various Indian states. These laws often involve complex legal challenges and evoke strong sentiments from different community groups, reflecting broader discussions on religious freedom, cultural practices, and state policy.",
+      "examRelevance": "Karnataka government faces pressure to withdraw anti-cow slaughter and anti-conversion laws.",
+      "tags": [
+        "Karnataka",
+        "Anti-Cow Slaughter Law",
+        "Anti-Conversion Law",
+        "State Legislation"
+      ],
+      "source": {
+        "title": "Pressure rising on Karnataka government to withdraw anti-cow slaughter and anti-conversion laws",
+        "url": "https://www.thehindu.com/news/national/karnataka/pressure-on-karnataka-government-to-withdraw-anti-cow-slaughter-and-anti-conversion-laws-increasing/article71546754.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q7",
+      "question": "Which form should eligible deleted voters apply through to restore their names in the electoral rolls, according to the West Bengal poll office?",
+      "options": [
+        "Form 8",
+        "Form 7",
+        "Form 9",
+        "Form 6"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The West Bengal poll office has stated that eligible deleted voters can apply through Form 6 to restore their names in the electoral rolls. This process allows individuals whose names have been removed from the voter list to re-register and ensure their right to vote.",
+      "background": "Form 6 is typically used for new voter registration or for individuals who need to shift their residence within the same constituency. Other forms like Form 7 are for objections to inclusion of names or deletion of names, and Form 8 is for correction of particulars in the electoral roll or transfer within constituency. Understanding these forms is crucial for electoral processes.",
+      "examRelevance": "Form 6 is used to restore deleted voter names in West Bengal.",
+      "tags": [
+        "West Bengal",
+        "Voter Rolls",
+        "Form 6",
+        "Election Commission"
+      ],
+      "source": {
+        "title": "West Bengal poll office says eligible deleted voters can apply through Form 6 to restore name in rolls",
+        "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-poll-office-says-eligible-deleted-voters-can-apply-through-form-6-to-restore-name-in-rolls/article71554122.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q8",
+      "question": "What was the value of the Indian Rupee against the U.S. dollar, as it fell by 10 paise, ahead of the recent RBI monetary policy decision?",
+      "options": [
+        "96.45",
+        "95.35",
+        "98.05",
+        "97.15"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Indian Rupee recently fell by 10 paise, trading at 96.45 against the U.S. dollar. This decline occurred ahead of the Reserve Bank of India’s monetary policy decision. Forex traders noted that the rupee is under continuous pressure due to persistent outflows of foreign funds from domestic equities and a strong U.S. dollar.",
+      "background": "Currency exchange rates are influenced by various domestic and international factors, including interest rate differentials, foreign investment flows, trade balances, and geopolitical events. A depreciating rupee can make imports more expensive and exports more competitive, impacting inflation and economic growth.",
+      "examRelevance": "Rupee fell to 96.45 against the U.S. dollar.",
+      "tags": [
+        "Indian Rupee",
+        "USD",
+        "Forex",
+        "Exchange Rate"
+      ],
+      "source": {
+        "title": "Rupee falls 10 paise to 96.45 against U.S. dollar ahead of RBI monetary policy decision",
+        "url": "https://www.thehindu.com/business/markets/rupee-against-dollar-opening-rbi-monetary-policy-decision/article71554511.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q9",
+      "question": "The former First Lady of which country was recently arrested in Colombo in connection with a charity graft probe?",
+      "options": [
+        "Nepal",
+        "Maldives",
+        "Sri Lanka",
+        "Bangladesh"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The 73-year-old wife of former President Mahinda Rajapaksa, the ex-First Lady of Sri Lanka, was recently arrested in Colombo. The arrest was made by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) in connection with a charity graft probe.",
+      "background": "Sri Lanka has faced significant political and economic turmoil in recent years, leading to increased scrutiny of public figures and allegations of corruption. The arrest of a former first lady highlights ongoing efforts to address accountability and transparency in the country's governance.",
+      "examRelevance": "Sri Lanka's ex-First Lady arrested in charity graft probe.",
+      "tags": [
+        "Sri Lanka",
+        "Mahinda Rajapaksa",
+        "Charity Graft",
+        "Colombo"
+      ],
+      "source": {
+        "title": "Sri Lanka arrests ex-First Lady in charity graft probe",
+        "url": "https://www.thehindu.com/news/international/sri-lanka-arrests-ex-first-lady-in-charity-graft-probe/article71554550.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q10",
+      "question": "How many points did the Sensex fall in early trade recently, after two days of rally?",
+      "options": [
+        "520 points",
+        "460 points",
+        "380 points",
+        "410 points"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The markets recently experienced a fall in early trade, with the Sensex dropping by 460 points. This decline followed two consecutive days of rally. Among the 30 Sensex firms, major laggards included Titan, Asian Paints, Bharat Electronics, Maruti, Axis Bank, and Mahindra & Mahindra.",
+      "background": "Stock market indices like the Sensex reflect the overall health and sentiment of the economy. Fluctuations are common and can be influenced by various factors such as corporate earnings, global economic indicators, geopolitical events, and domestic monetary policy decisions. A fall after a rally can indicate profit-booking or new concerns emerging.",
+      "examRelevance": "Sensex fell by 460 points in early trade.",
+      "tags": [
+        "Sensex",
+        "Stock Market",
+        "Indian Economy",
+        "Market Fall"
+      ],
+      "source": {
+        "title": "Markets fall in early trade after two days of rally; Sensex falls 460 points",
+        "url": "https://www.thehindu.com/business/markets/markets-fall-in-early-trade-after-two-days-of-rally-sensex-falls-460-points/article71554552.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q11",
+      "question": "Which bank recently announced a cut in its lending rates across tenures by up to 15 basis points?",
+      "options": [
+        "ICICI Bank",
+        "Axis Bank",
+        "SBI",
+        "HDFC Bank"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "HDFC Bank recently announced a cut in its lending rates across various tenures by up to 15 basis points. This move by one of India's largest private sector banks will provide relief to certain borrowers. The new rates will impact different types of loans.",
+      "background": "Banks periodically adjust their lending rates based on internal cost of funds, market conditions, and the Reserve Bank of India's monetary policy decisions. A reduction in lending rates typically makes loans cheaper, potentially stimulating credit demand for home, car, and other retail or corporate loans.",
+      "examRelevance": "HDFC Bank cut lending rates by up to 15 basis points.",
+      "tags": [
+        "HDFC Bank",
+        "Lending Rates",
+        "Interest Rates",
+        "Banking"
+      ],
+      "source": {
+        "title": "HDFC Bank cuts lending rates for these borrowers",
+        "url": "https://economictimes.indiatimes.com/wealth/borrow/good-news-for-hdfc-bank-borrowers-bank-cuts-lending-rates-across-tenures-by-up-to-15-bps-check-latest-list/articleshow/134758224.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q12",
+      "question": "In which state did the Enforcement Directorate (ED) recently conduct searches at 3 cooperative societies across about 20 premises in Thrissur, Ernakulam, and Kozhikode?",
+      "options": [
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Enforcement Directorate (ED) recently conducted searches at three cooperative societies in Kerala. These searches spanned approximately 20 premises across the districts of Thrissur, Ernakulam, and Kozhikode. The action is likely part of an investigation into alleged financial irregularities within these societies.",
+      "background": "Cooperative societies play a significant role in India's rural and urban economies, providing banking and financial services. However, they have occasionally been subject to scrutiny for mismanagement and financial fraud. The ED's involvement indicates a focus on potential money laundering or other economic offenses.",
+      "examRelevance": "ED conducted searches at cooperative societies in Kerala.",
+      "tags": [
+        "Enforcement Directorate",
+        "Kerala",
+        "Cooperative Societies",
+        "Thrissur",
+        "Ernakulam",
+        "Kozhikode"
+      ],
+      "source": {
+        "title": "ED conducts searches at 3 cooperative societies in Keralam",
+        "url": "https://www.thehindu.com/news/national/kerala/ed-conducts-searches-at-3-cooperative-societies-in-keralam/article71554567.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q13",
+      "question": "According to a recent opinion piece, what payment system's economic value is discussed in the context of collecting Merchant Discount Rate (MDR)?",
+      "options": [
+        "UPI",
+        "RTGS",
+        "IMPS",
+        "NEFT"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "A recent opinion piece discusses the economic implications of charging for the Unified Payments Interface (UPI) system, specifically in the context of collecting Merchant Discount Rate (MDR). It questions whether the economic value derived from MDR collection outweighs potential losses elsewhere in the payment system.",
+      "background": "UPI is India's premier real-time payment system, enabling instant fund transfers between bank accounts. The debate around MDR for UPI transactions involves balancing the need for payment system sustainability with the goal of promoting digital payments and financial inclusion, as MDR can add costs for merchants.",
+      "examRelevance": "UPI's economic value and MDR collection are being discussed.",
+      "tags": [
+        "UPI",
+        "MDR",
+        "Digital Payments",
+        "Economy"
+      ],
+      "source": {
+        "title": "Why charging for UPI changes the math",
+        "url": "https://www.thehindu.com/opinion/op-ed/why-charging-for-upi-changes-the-math/article71552957.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q14",
+      "question": "Victims of which financial scheme or company were recently asked to produce original bonds for verification by the CID?",
+      "options": [
+        "Peerless",
+        "Sahara",
+        "AgriGold",
+        "Rose Valley"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Victims of the AgriGold financial scheme were recently asked by the CID to produce their original bonds for verification. The CID clarified that only the original documents would be examined and victims would not need to surrender them. This process is part of ongoing efforts to resolve claims related to the AgriGold scam.",
+      "background": "The AgriGold scam involved a large-scale financial fraud that affected millions of depositors, particularly in Andhra Pradesh and Telangana. Various government agencies and courts have been involved in recovering assets and facilitating refunds to the victims, making this verification a crucial step in the long-drawn process.",
+      "examRelevance": "AgriGold victims were asked to produce original bonds for verification.",
+      "tags": [
+        "AgriGold",
+        "Financial Scam",
+        "CID",
+        "Victim Verification"
+      ],
+      "source": {
+        "title": "AgriGold victims asked to produce original bonds for verification",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/agrigold-victims-asked-to-produce-original-bonds-for-verification/article71552835.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q15",
+      "question": "A recent chemical leak at a dyeing unit in which city left 50 people with breathing difficulties?",
+      "options": [
+        "Coimbatore",
+        "Tiruppur",
+        "Madurai",
+        "Salem"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "A chemical leak at a dyeing unit in Salem recently caused breathing difficulties for 50 people. The incident led to immediate health concerns for those exposed. Authorities are investigating the cause of the leak and ensuring proper medical attention for affected individuals.",
+      "background": "Industrial accidents, especially chemical leaks, pose significant environmental and public health risks. Such incidents highlight the importance of stringent safety regulations, regular inspections, and robust emergency response protocols in industrial areas to prevent harm to workers and surrounding communities.",
+      "examRelevance": "Chemical leak in a Salem dyeing unit affected 50 people.",
+      "tags": [
+        "Salem",
+        "Chemical Leak",
+        "Dyeing Unit",
+        "Industrial Accident"
+      ],
+      "source": {
+        "title": "Chemical leak at dyeing unit leaves 50 people with breathing difficulties in Salem",
+        "url": "https://www.thehindu.com/news/cities/Coimbatore/chemical-leak-at-dyeing-unit-leaves-50-people-with-breathing-difficulties-in-salem/article71554335.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q16",
+      "question": "What is the name of the airport bus service in Telangana for which RTC recently slashed fares, effective from October 7?",
+      "options": [
+        "Aero Express",
+        "Pushpak",
+        "Airlink",
+        "Vayu Vajra"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Telangana Road Transport Corporation (RTC) recently slashed the fares for its Pushpak Airport bus service. These revised fares became effective from October 7, making airport travel more affordable for commuters. The fare reduction aims to encourage more passengers to use public transport for airport connectivity.",
+      "background": "Airport bus services are crucial for providing affordable and efficient connectivity between cities and their airports. Fare adjustments by state transport corporations often aim to increase ridership, alleviate traffic congestion, and provide economic relief to the public, especially in competitive urban transport markets.",
+      "examRelevance": "Telangana RTC slashed fares for Pushpak Airport bus service.",
+      "tags": [
+        "Telangana RTC",
+        "Pushpak Airport Bus",
+        "Bus Fares",
+        "Hyderabad"
+      ],
+      "source": {
+        "title": "Telangana RTC slashes Pushpak Airport bus fares, effective from October 7",
+        "url": "https://www.thehindu.com/news/cities/Hyderabad/telangana-rtc-slashes-pushpak-airport-bus-fares-up-to-40-effective-from-october-7/article71552826.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q17",
+      "question": "Which satellite internet service, pitched by a SpaceX executive, is awaiting approvals to become operational in India?",
+      "options": [
+        "OneWeb",
+        "Starlink",
+        "Project Kuiper",
+        "Viasat"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Starlink, the satellite internet service from SpaceX, is currently awaiting approvals to become operational in India. Lauren Dreyer, a SpaceX executive, recently renewed the pitch for Starlink, expressing hope that the service would be operational by next year. The Union government has held up satellite internet in India with a bevy of security requirements.",
+      "background": "Satellite internet services aim to provide high-speed internet access to remote and underserved areas, bypassing traditional terrestrial infrastructure. However, their launch in countries like India often involves complex regulatory hurdles, including licensing, security clearances, and spectrum allocation, due to national security and strategic considerations.",
+      "examRelevance": "SpaceX's Starlink satellite internet service awaits Indian approval.",
+      "tags": [
+        "Starlink",
+        "SpaceX",
+        "Satellite Internet",
+        "Telecom Regulations"
+      ],
+      "source": {
+        "title": "SpaceX exec renews Starlink pitch as approvals lay pending",
+        "url": "https://www.thehindu.com/sci-tech/technology/spacex-exec-renews-starlink-pitch-as-approvals-lay-pending/article71554510.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q18",
+      "question": "Which welfare scheme, allowing 84 lakh daily journeys, is being discussed in the context of its economic mileage and impact on female employment and productivity in Tamil Nadu?",
+      "options": [
+        "Pudhumai Penn Thittam",
+        "Vettri Payanam",
+        "Makkaludan Mudhalvar",
+        "Kalaignar Magalir Urimai Thogai"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The 'Vettri Payanam' welfare scheme in Tamil Nadu, which facilitates 84 lakh daily journeys, is currently under discussion for its economic mileage. The scheme's real test lies in its ability to translate these free rides into measurable gains in female employment, productivity, household income, and mobility. Chief Minister Joseph Vijay is credited with accommodating this gratis within the state's revenue-spending framework.",
+      "background": "Many state governments implement welfare schemes, often involving subsidies or free services, to improve social indicators and alleviate economic burdens. The economic impact of such schemes is frequently debated, focusing on whether they lead to sustainable economic growth and empowerment, beyond immediate relief.",
+      "examRelevance": "Tamil Nadu's 'Vettri Payanam' scheme for free rides is under economic review.",
+      "tags": [
+        "Vettri Payanam",
+        "Tamil Nadu",
+        "Welfare Scheme",
+        "Women Empowerment"
+      ],
+      "source": {
+        "title": "Vettri Payanam: What is the economic mileage of a free ride?",
+        "url": "https://www.thehindu.com/business/Economy/vettri-payanam-what-is-the-economic-mileage-of-a-free-ride/article71554318.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q19",
+      "question": "Which two countries' leaders are reportedly cooling off on an interim trade agreement and overall Bilateral Trade Agreement due to delayed talks?",
+      "options": [
+        "India and U.S.",
+        "India and EU",
+        "India and Japan",
+        "India and UK"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Leaders from India and the U.S. are reportedly cooling off on an interim trade agreement and the broader Bilateral Trade Agreement. Talks for both agreements are heavily delayed, and recent statements from both sides suggest that negotiations are currently stalled. This indicates a pause in significant trade deal progress between the two nations.",
+      "background": "Trade agreements are complex negotiations that involve various sectors and often face challenges related to market access, tariffs, intellectual property rights, and regulatory differences. Delays in such deals between major economies like India and the U.S. can have implications for global trade dynamics and investor confidence.",
+      "examRelevance": "India and U.S. trade deal talks are stalled.",
+      "tags": [
+        "India",
+        "U.S.",
+        "Trade Agreement",
+        "Bilateral Trade"
+      ],
+      "source": {
+        "title": "Why are Indian and U.S. leaders cooling off on a trade deal? | Explained",
+        "url": "https://www.thehindu.com/business/Economy/why-are-indian-and-us-leaders-cooling-off-on-a-trade-deal-explained/article71554453.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q20",
+      "question": "Which country is preparing a proposal seeking a temporary ban on smart glasses in select public and sensitive locations?",
+      "options": [
+        "Norway",
+        "Denmark",
+        "Sweden",
+        "Finland"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Norway is taking the lead in regulating emerging technologies, with its government preparing a proposal to seek a temporary ban on smart glasses. This proposed moratorium would apply to select public and sensitive locations, addressing concerns related to privacy and surveillance.",
+      "background": "Smart glasses, while offering innovative functionalities, also raise significant privacy concerns due to their integrated cameras and recording capabilities. Governments worldwide are grappling with how to regulate such devices to balance technological advancement with individual rights and public safety, making Norway's move a notable development in this area.",
+      "examRelevance": "Norway proposes a temporary ban on smart glasses.",
+      "tags": [
+        "Norway",
+        "Smart Glasses",
+        "Technology Regulation",
+        "Privacy"
+      ],
+      "source": {
+        "title": "Norway’s proposed moratorium on smart glasses | Explained",
+        "url": "https://www.thehindu.com/sci-tech/technology/norways-proposed-moratorium-on-smart-glasses-explained/article71554512.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q21",
+      "question": "Israelis recently marked the three-year anniversary of an attack by which group that set off the Gaza assault?",
+      "options": [
+        "Hamas",
+        "Hezbollah",
+        "Fatah",
+        "Islamic Jihad"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Israelis recently marked the three-year anniversary of the Hamas attack that set off the Gaza assault. This anniversary is particularly significant as it is the first for Israelis without any hostages still held in Gaza. All hostages, both dead and alive, were exchanged in swaps with Hamas for Palestinians held in Israeli jails, with the remains of the last Israeli hostage recovered in January.",
+      "background": "The conflict between Israel and Hamas has deep historical roots, marked by intermittent periods of intense violence and fragile ceasefires. The anniversary of this specific attack serves as a somber reminder of the human cost of the conflict and the ongoing challenges to achieving lasting peace and security in the region.",
+      "examRelevance": "Israelis marked three years since the Hamas attack.",
+      "tags": [
+        "Israel",
+        "Hamas",
+        "Gaza",
+        "Anniversary"
+      ],
+      "source": {
+        "title": "Israelis mark three years since Hamas attack that set off Gaza assault",
+        "url": "https://www.thehindu.com/news/international/israelis-mark-three-years-since-hamas-attack-that-set-off-gaza-assault/article71554506.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q22",
+      "question": "How many coastal panchayats in Kerala have been equipped for UNESCO assessment as ‘tsunami-ready’ based on specific indicators?",
+      "options": [
+        "9",
+        "12",
+        "15",
+        "7"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Nine coastal panchayats in Kerala have been equipped for UNESCO assessment to be recognized as ‘tsunami-ready’. This recognition is granted based on specific indicators achieved through a series of well-planned activities aimed at building resilience against tsunamis. This initiative enhances the preparedness of coastal communities for natural disasters.",
+      "background": "The Indian Ocean Tsunami of 2004 highlighted the critical need for robust tsunami preparedness and early warning systems. The UNESCO/IOC Tsunami Ready Programme is a global initiative that promotes community-level preparedness through a set of guidelines and indicators, helping vulnerable coastal areas to be better equipped to respond to tsunami threats.",
+      "examRelevance": "9 coastal panchayats in Kerala are equipped for UNESCO 'tsunami-ready' assessment.",
+      "tags": [
+        "Kerala",
+        "Tsunami-Ready",
+        "UNESCO",
+        "Coastal Panchayats",
+        "Disaster Preparedness"
+      ],
+      "source": {
+        "title": "9 coastal panchayats in Keralam equipped for UNSECO assessment as ‘tsunami-ready’",
+        "url": "https://www.thehindu.com/news/national/kerala/9-coastal-panchayats-in-keralam-equipped-for-unseco-assessment-as-tsunami-ready/article71554422.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q23",
+      "question": "Kerala is set to collaborate with which public sector undertaking to establish a 2,000-MW battery energy storage system at Kayamkulam?",
+      "options": [
+        "BHEL",
+        "NHPC",
+        "NTPC",
+        "PowerGrid"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Kerala is set to join hands with NTPC (National Thermal Power Corporation) to establish a 2,000-MW battery energy storage system at Kayamkulam. This collaboration was discussed during a meeting between Chief Minister V.D. Satheesan and NTPC officials in New Delhi, where Kerala also sought a dedicated power plant.",
+      "background": "Battery energy storage systems are crucial for integrating renewable energy sources into the grid, ensuring grid stability, and managing peak demand. This project signifies Kerala's commitment to enhancing its energy infrastructure and transitioning towards cleaner energy solutions, with the support of a major central public sector undertaking.",
+      "examRelevance": "Kerala to collaborate with NTPC for 2,000-MW battery energy storage system at Kayamkulam.",
+      "tags": [
+        "Kerala",
+        "NTPC",
+        "Battery Energy Storage",
+        "Kayamkulam",
+        "Renewable Energy"
+      ],
+      "source": {
+        "title": "Keralam to join hands with NTPC to set up 2,000-MW battery energy storage system at Kayamkulam",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-to-join-hands-with-ntpc-to-set-up-2000-mw-battery-energy-storage-system-at-kayamkulam/article71554410.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q24",
+      "question": "Off the coast of which Russian city did a Ukraine drone attack trigger a huge tanker fire, from which 23 Indian citizens were rescued?",
+      "options": [
+        "Novorossiysk",
+        "Sochi",
+        "Kaliningrad",
+        "Vladivostok"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "A Ukraine drone attack triggered a huge tanker fire off the coast of Russia's Sochi. Firefighters were unable to tackle the blaze due to its intensity. However, a crew of 23 Indian citizens, who were on board the tanker, were successfully rescued from the incident.",
+      "background": "The ongoing conflict between Russia and Ukraine has led to various incidents, including attacks on maritime targets. This event highlights the risks posed to international shipping and the involvement of foreign nationals in such conflict zones. The rescue of Indian citizens underscores the importance of diplomatic and consular efforts during international crises.",
+      "examRelevance": "Ukraine drone attack off Russia's Sochi led to the rescue of 23 Indian citizens.",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "Sochi",
+        "Drone Attack",
+        "Indian Citizens"
+      ],
+      "source": {
+        "title": "Ukraine drone attack triggers huge tanker fire off Russia’s Sochi; 23 Indians rescued",
+        "url": "https://www.thehindu.com/news/international/ukraine-drone-attack-triggers-huge-tanker-fire-off-russias-sochi-23-indians-rescued/article71554355.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q25",
+      "question": "Which Bhubaneswar-based company recently deployed a royalty management system for the mineral sector of Kenya?",
+      "options": [
+        "Wipro",
+        "CSM Technologies",
+        "Infosys",
+        "TCS"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Bhubaneswar-based CSM Technologies recently deployed a royalty management system for the mineral sector in Kenya. According to CSM MD Priyadarshi Pany, building a transparent and technology-driven royalty administration system is crucial for managing natural wealth, which has significant public value and impacts future generations.",
+      "background": "Effective royalty management systems are essential for governments to ensure fair and transparent collection of revenues from natural resources. This project demonstrates how Indian technology companies are contributing to digital governance and resource management solutions on an international scale, enhancing transparency and accountability in the mining sector.",
+      "examRelevance": "CSM Technologies deployed a royalty management system for Kenya's mineral sector.",
+      "tags": [
+        "CSM Technologies",
+        "Kenya",
+        "Royalty Management",
+        "Mineral Sector",
+        "Bhubaneswar"
+      ],
+      "source": {
+        "title": "Bhubaneswar-based CSM Technologies deploys royalty management system for Kenyan mineral sector",
+        "url": "https://www.thehindu.com/business/Industry/bhubaneswar-based-csm-technologies-deploys-royalty-management-system-for-kenyan-mineral-sector/article71554211.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q26",
+      "question": "An Ebola death was recently recorded in Kenya after a victim traveled from which country?",
+      "options": [
+        "Uganda",
+        "South Sudan",
+        "Rwanda",
+        "Democratic Republic of Congo (DRC)"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "An Ebola death was recently recorded in Kenya. The victim had traveled from the Democratic Republic of Congo (DRC), where Ebola outbreaks have occurred. Following this, strict infection-control measures must be put in place in Kenya, and targeted information on prevention and control disseminated among communities.",
+      "background": "Ebola is a severe, often fatal, illness in humans, caused by the Ebola virus. Outbreaks are most common in Central and West Africa. The potential for international spread through travel necessitates robust public health surveillance and rapid response mechanisms to prevent wider transmission, highlighting global health security challenges.",
+      "examRelevance": "Ebola death recorded in Kenya after victim traveled from DRC.",
+      "tags": [
+        "Ebola",
+        "Kenya",
+        "DRC",
+        "Public Health",
+        "Infection Control"
+      ],
+      "source": {
+        "title": "Ebola death recorded in Kenya after victim travelled from DRC | Explained",
+        "url": "https://www.thehindu.com/sci-tech/health/ebola-death-recorded-in-kenya-after-victim-travelled-from-drc-explained/article71554368.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q27",
+      "question": "Which company recently entered a massive 3.6-GW power deal with Constellation Energy to power its data centres across the US?",
+      "options": [
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Apple"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Google recently entered a massive 3.6-gigawatt (GW) power deal with Constellation Energy. This agreement is aimed at securing electricity supplies to power Google's data centres across the United States. Major tech companies are increasingly racing to secure large amounts of electricity for their energy-intensive data operations.",
+      "background": "Data centers consume enormous amounts of electricity, and with the rapid expansion of AI and cloud services, the demand for power is surging. Tech giants are increasingly investing in renewable energy and long-term power purchase agreements to meet their energy needs, reduce carbon footprints, and ensure operational stability.",
+      "examRelevance": "Google entered a 3.6-GW power deal with Constellation Energy for its data centers.",
+      "tags": [
+        "Google",
+        "Constellation Energy",
+        "Power Deal",
+        "Data Centers",
+        "Renewable Energy"
+      ],
+      "source": {
+        "title": "Google enters massive 3.6-GW power deal with Constellation Energy",
+        "url": "https://www.thehindu.com/sci-tech/technology/google-enters-massive-36-gw-power-deal-with-constellation-energy/article71554255.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q28",
+      "question": "Scientists from which IIT recently demonstrated India’s first free-space quantum-key distribution (QKD) link over a distance of 5.56 km?",
+      "options": [
+        "IIT-Delhi",
+        "IIT-Bombay",
+        "IIT-Gandhinagar",
+        "IIT-Madras"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Scientists from IIT-Gandhinagar recently demonstrated India’s first free-space quantum-key distribution (QKD) link. This significant achievement was demonstrated over a distance of 5.56 km of air. This research marks a crucial step in advancing quantum communication technologies in India.",
+      "background": "Quantum-key distribution (QKD) is a secure communication method that implements a cryptographic protocol involving components of quantum mechanics. It offers ultra-secure communication by detecting any eavesdropping attempts. Free-space QKD is particularly challenging due to atmospheric disturbances and is vital for future satellite-based quantum communication networks.",
+      "examRelevance": "IIT-Gandhinagar demonstrated India’s first 5.56 km free-space QKD link.",
+      "tags": [
+        "IIT-Gandhinagar",
+        "Quantum Key Distribution",
+        "QKD",
+        "Quantum Communication",
+        "Science & Technology"
+      ],
+      "source": {
+        "title": "IIT-Gandhinagar scientists demo quantum link through 5.5 km of air",
+        "url": "https://www.thehindu.com/sci-tech/science/iit-gandhinagar-scientists-demo-quantum-link-through-55-km-of-air/article71544660.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q29",
+      "question": "Which Indian pharmaceutical company, along with MSN Labs, recently launched a generic version of Bayer's PAH drug (Adempas) in the U.S.?",
+      "options": [
+        "Sun Pharma",
+        "Dr. Reddy's",
+        "Zydus",
+        "Cipla"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Zydus, an Indian pharmaceutical company, in collaboration with MSN Labs, recently launched a generic version of Bayer's Pulmonary Arterial Hypertension (PAH) drug, Adempas, in the U.S. These two companies are the first to introduce this generic product into the American market. This launch provides a more affordable alternative for patients.",
+      "background": "The launch of generic drugs after patent expiration is a common practice in the pharmaceutical industry, aiming to increase access to essential medicines and reduce healthcare costs. PAH is a serious condition, and the availability of generic alternatives can significantly impact patient affordability and treatment accessibility.",
+      "examRelevance": "Zydus and MSN Labs launched a generic version of Bayer's Adempas in the U.S.",
+      "tags": [
+        "Zydus",
+        "MSN Labs",
+        "Generic Drug",
+        "Adempas",
+        "Pharmaceuticals"
+      ],
+      "source": {
+        "title": "Zydus launches in U.S. MSN Labs generic of Bayer’s PAH drug",
+        "url": "https://www.thehindu.com/business/Industry/zydus-launches-in-us-msn-labs-generic-of-bayers-pah-drug/article71552208.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-07-q30",
+      "question": "Which famous footballer recently apologised for walking out on his national team, Portugal, and offered to serve a suspension?",
+      "options": [
+        "Lionel Messi",
+        "Neymar Jr.",
+        "Cristiano Ronaldo",
+        "Kylian Mbappé"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Cristiano Ronaldo, the renowned Portuguese footballer, recently issued a statement of nearly 2,000 words apologising for walking out on his national team. He also indicated his willingness to serve a suspension if deemed necessary. This follows reports that he felt his national coach broke promises.",
+      "background": "Cristiano Ronaldo is one of the most celebrated footballers globally, known for his prolific goal-scoring and numerous accolades. Incidents involving high-profile athletes and their national teams often draw significant media attention and spark debates about player conduct, team discipline, and the pressures of international sports.",
+      "examRelevance": "Cristiano Ronaldo apologised for walking out on the Portugal national team.",
+      "tags": [
+        "Cristiano Ronaldo",
+        "Football",
+        "Portugal",
+        "Sports Controversy"
+      ],
+      "source": {
+        "title": "Ronaldo says Portugal coach broke promises, apologises for walkout",
+        "url": "https://www.thehindu.com/sport/football/ronaldo-says-portugal-coach-broke-promises-apologises-for-walkout/article71554218.ece"
+      }
+    }
+  ]
+}
