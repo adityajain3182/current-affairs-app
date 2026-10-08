@@ -1,0 +1,779 @@
+{
+  "id": "daily-2026-10-08",
+  "type": "daily",
+  "date": "2026-10-08",
+  "title": "Current Affairs — 08 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-08-q1",
+      "question": "The Supreme Court recently directed the Guruvayoor temple to follow which traditional practice?",
+      "options": [
+        "Choroonu",
+        "Thulabharam",
+        "Annaprasanam",
+        "Ekadasi Udayasthamana Pooja"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "The Supreme Court recently directed the Guruvayoor temple in Kerala to adhere to the traditional Ekadasi Udayasthamana Pooja. This directive came after the court heard a petition regarding the temple's practices.",
+      "background": "The Guruvayoor temple is one of the most important pilgrimage centers for Hindus in Kerala, dedicated to Lord Krishna. The Ekadasi Udayasthamana Pooja is a significant ritual performed at the temple, and the Supreme Court's intervention reiterates the importance of maintaining traditional religious practices.",
+      "examRelevance": "SC directed Guruvayoor temple to follow traditional Ekadasi Udayasthamana Pooja.",
+      "tags": [
+        "Supreme Court",
+        "Guruvayoor Temple",
+        "Kerala",
+        "Religious Practice"
+      ],
+      "source": {
+        "title": "Ekadasi Udayasthamana Pooja: Supreme court directs Guruvayoor temple to follow traditional practice",
+        "url": "https://www.thehindu.com/news/national/ekadasi-udayasthamana-pooja-supreme-court-directs-guruvayoor-temple-to-follow-traditional-practice/article71558814.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q2",
+      "question": "What percentage of its mandals did Andhra Pradesh declare as drought-affected recently?",
+      "options": [
+        "56%",
+        "53%",
+        "45%",
+        "62%"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Andhra Pradesh recently declared drought in 56% of its mandals, specifically 283 mandals across 21 districts. This declaration was made due to a significant rainfall deficit of 53.4% observed between June and August, exacerbated by El Niño conditions.",
+      "background": "Drought declarations are crucial for states to implement relief measures and seek central assistance. The classification of mandals as severely drought-affected enables targeted interventions to support affected farmers and communities.",
+      "examRelevance": "Andhra Pradesh declared 56% of its mandals as drought-affected.",
+      "tags": [
+        "Andhra Pradesh",
+        "Drought",
+        "Rainfall Deficit",
+        "El Niño"
+      ],
+      "source": {
+        "title": "Andhra Pradesh declares drought in 56% of its mandals after 53% rainfall deficit",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-declares-early-kharif-drought-in-388-mandals-across-21-districts/article71558175.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q3",
+      "question": "The Supreme Court recently directed the Central government to form a panel to regulate which of the following?",
+      "options": [
+        "Unethical pharmaceutical marketing",
+        "Online gaming",
+        "Cryptocurrency trading",
+        "Social media content"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently directed the Central government to constitute an expert panel aimed at regulating unethical marketing practices within the pharmaceutical industry. This directive came in response to concerns regarding pharmaceutical companies offering incentives to doctors for prescribing specific drugs.",
+      "background": "The issue of unethical pharma marketing has been a long-standing concern, impacting patient care and drug prescription practices. The court's intervention underscores the need for statutory backing to curb such practices and ensure transparency in the pharmaceutical sector.",
+      "examRelevance": "SC directed Centre to form panel for regulating unethical pharma marketing.",
+      "tags": [
+        "Supreme Court",
+        "Pharma Marketing",
+        "Regulation",
+        "Ethics"
+      ],
+      "source": {
+        "title": "Supreme Court orders Centre to form panel to regulate unethical pharma marketing",
+        "url": "https://www.thehindu.com/news/national/sc-directs-centre-to-form-expert-panel-to-assess-statutory-backing-for-pharma-marketing-regulation/article71558619.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q4",
+      "question": "Veteran actor Nana Patekar, who recently passed away at the age of 75, was primarily associated with which film industry?",
+      "options": [
+        "Bollywood",
+        "Telugu",
+        "Bengali",
+        "Marathi"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Veteran actor Nana Patekar, a prominent figure in the Indian film industry, passed away at the age of 75 at his residence in Goa. He was widely known for his versatile roles and impactful performances primarily in Bollywood films, although he also worked in Marathi cinema.",
+      "background": "Nana Patekar had a distinguished career spanning several decades, receiving numerous awards for his acting. Following his demise, the Maharashtra government announced that he would be cremated with full State honours, acknowledging his significant contributions to Indian cinema.",
+      "examRelevance": "Veteran actor Nana Patekar passed away at 75, associated with Bollywood.",
+      "tags": [
+        "Nana Patekar",
+        "Obituary",
+        "Bollywood",
+        "State Honours"
+      ],
+      "source": {
+        "title": "Nana Patekar passes away: Leaders, film fraternity mourn actor's death | LIVE updates",
+        "url": "https://www.thehindu.com/entertainment/movies/nana-patekar-death-live-updates-family-bollywood-film-industry-condolences-tributes-funeral-rites/article71558310.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q5",
+      "question": "India recently exercised its Right of Reply in which UN body's committee on the Agenda Item: Measures to Eliminate International Terrorism?",
+      "options": [
+        "Human Rights Council",
+        "Security Council",
+        "General Assembly's Sixth Committee",
+        "Economic and Social Council"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "India, on October 7, exercised its Right of Reply in response to Pakistan's statement in the Sixth Committee of the UN General Assembly. This occurred during discussions on the Agenda Item: Measures to Eliminate International Terrorism, where India highlighted Pakistan's alleged doublespeak on terrorism.",
+      "background": "The Sixth Committee is the primary forum for the consideration of legal questions in the General Assembly. India frequently uses such platforms to counter Pakistan's narrative on terrorism and draw global attention to cross-border terrorism originating from Pakistan.",
+      "examRelevance": "India exercised Right of Reply at UN General Assembly's Sixth Committee on terrorism.",
+      "tags": [
+        "India",
+        "Pakistan",
+        "UN General Assembly",
+        "Terrorism"
+      ],
+      "source": {
+        "title": "India exposes Pakistan’s doublespeak at UN, says world has not forgotten 9/11, 26/11, Pahalgam attacks",
+        "url": "https://www.thehindu.com/news/national/india-exposes-pakistans-terrorism-doublespeak-at-the-un/article71558639.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q6",
+      "question": "In which state did the 'Vande Mataram seminar row' occur, leading to 25 students being booked for disrupting proceedings?",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Karnataka"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "A 'Vande Mataram seminar row' occurred at the Central University of Kerala, located in Kerala, where 25 students were booked by the police. The case was registered suo motu after protesters allegedly gathered and disrupted the proceedings of the seminar.",
+      "background": "Such incidents involving protests and disruptions at educational institutions often highlight underlying political or ideological tensions. The police action underscores the legal consequences for disrupting public order, even in academic settings.",
+      "examRelevance": "25 students booked in Kerala's Central University for 'Vande Mataram' seminar row.",
+      "tags": [
+        "Kerala",
+        "Central University of Kerala",
+        "Vande Mataram",
+        "Protest"
+      ],
+      "source": {
+        "title": "Vande Mataram seminar row: 25 students booked after protests at Central University of Kerala",
+        "url": "https://www.thehindu.com/news/national/kerala/vande-mataram-seminar-row-25-students-booked-after-protests-at-central-university-of-kerala/article71558615.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q7",
+      "question": "Which High Court recently allowed a Srinagar student, whose passport was impounded over her father's 1997 case, to pursue MBBS in Iran?",
+      "options": [
+        "Punjab and Haryana High Court",
+        "Jammu & Kashmir High Court",
+        "Himachal Pradesh High Court",
+        "Delhi High Court"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Jammu & Kashmir High Court recently allowed a medical student from Srinagar to pursue her MBBS studies in Iran. Her passport had been impounded due to a case involving her father from 1997, but the court ruled in her favor, enabling her to continue her education.",
+      "background": "This case highlights the complexities faced by individuals when their legal rights, such as the right to education or travel, are impacted by past legal issues of family members. The High Court's decision provided relief to the student who had returned to India due to ongoing conflict in the region.",
+      "examRelevance": "J&K High Court allowed Srinagar student to pursue MBBS in Iran despite impounded passport.",
+      "tags": [
+        "J&K High Court",
+        "Srinagar",
+        "Passport",
+        "MBBS",
+        "Iran"
+      ],
+      "source": {
+        "title": "Passport impounded over father’s 1997 case: J&K High Court allows Srinagar student to pursue MBBS in Iran",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/passport-impounded-over-fathers-1997-case-jk-high-court-allows-srinagar-student-to-pursue-mbbs-in-iran/article71558697.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q8",
+      "question": "Who recently alleged 'oligarch' interference was blocking the launch of Starlink's internet service in India?",
+      "options": [
+        "Jeff Bezos",
+        "Elon Musk",
+        "Mark Zuckerberg",
+        "Tim Cook"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Elon Musk, the CEO of SpaceX, recently alleged that 'oligarch' interference was hindering the launch of Starlink's satellite internet service in India. This statement came hours after a SpaceX executive expressed hopes for the service to be operational in India by next year.",
+      "background": "Starlink, SpaceX's satellite internet constellation, aims to provide global internet coverage. Its entry into various markets, including India, has faced regulatory and competitive challenges. The Indian government, in turn, rebutted Musk's claims, calling them 'baseless and misconceived'.",
+      "examRelevance": "Elon Musk alleged 'oligarch' interference in Starlink's India launch.",
+      "tags": [
+        "Elon Musk",
+        "Starlink",
+        "SpaceX",
+        "India",
+        "Internet Service"
+      ],
+      "source": {
+        "title": "Elon Musk alleges ‘oligarch’ interference in Starlink’s India launch",
+        "url": "https://www.thehindu.com/business/Industry/elon-musk-alleges-oligarch-interference-instarlinksindia-launch/article71557189.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q9",
+      "question": "Prime Minister Narendra Modi recently called for a global framework to tackle which set of issues?",
+      "options": [
+        "Cyber frauds, deepfakes, and digital crimes",
+        "Pandemics and infectious diseases",
+        "Climate change and pollution",
+        "Poverty and inequality"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Prime Minister Narendra Modi recently advocated for a global framework to effectively tackle emerging challenges such as cyber frauds, deepfakes, and other digital crimes. He emphasized that technology can achieve scale only when it gains people's trust.",
+      "background": "With the rapid advancement of digital technologies, new forms of crime and misinformation are emerging, posing significant threats globally. The call for a global framework highlights the need for international cooperation to develop common strategies and regulations to ensure digital safety and trust.",
+      "examRelevance": "PM Modi called for global framework against cyber frauds, deepfakes, digital crimes.",
+      "tags": [
+        "PM Modi",
+        "Cyber Security",
+        "Deepfakes",
+        "Digital Crimes",
+        "Global Framework"
+      ],
+      "source": {
+        "title": "PM Modi calls for global framework to tackle cyber frauds, deepfakes, digital crimes",
+        "url": "https://www.thehindu.com/news/national/narendra-modi-scindia-telecom-imc-2026/article71558670.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q10",
+      "question": "What recent action have public sector banks like PNB and Bank of Baroda taken regarding their lending rates?",
+      "options": [
+        "Increased lending rates",
+        "Maintained lending rates",
+        "Introduced floating rates",
+        "Decreased lending rates"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Public sector banks including Punjab National Bank (PNB), Bank of Baroda (BoB), Bank of India, and Indian Bank have recently increased their lending rates. This move follows signals of potential tightening from the Reserve Bank of India.",
+      "background": "Changes in lending rates by major banks directly impact borrowers, leading to higher Equated Monthly Installments (EMIs) for loans. Such adjustments are often a response to the central bank's monetary policy decisions, reflecting broader economic conditions and inflation management strategies.",
+      "examRelevance": "PNB, Bank of Baroda, and other banks increased lending rates.",
+      "tags": [
+        "Lending Rates",
+        "PNB",
+        "Bank of Baroda",
+        "Economy",
+        "Banking"
+      ],
+      "source": {
+        "title": "PNB, BoB others increase lending rates",
+        "url": "https://economictimes.indiatimes.com/wealth/borrow/higher-emis-ahead-pnb-bank-of-india-bank-of-baroda-and-indian-bank-raise-lending-rates-check-details/articleshow/134782736.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q11",
+      "question": "What is the title of the new book by ornithologist and conservationist Asad Rahmani?",
+      "options": [
+        "\"Where Have the Birds Gone?\"",
+        "\"The Silent Sky\"",
+        "\"Wings of Change\"",
+        "\"Bird Migration Patterns\""
+      ],
+      "answerIndex": 0,
+      "category": "Books & Authors",
+      "explanation": "Ornithologist and conservationist Asad Rahmani has recently released a new book titled 'Where Have the Birds Gone?'. The book explores the importance of birds to the wider environment and concerns regarding their diminishing populations.",
+      "background": "Asad Rahmani is a renowned figure in ornithology and wildlife conservation in India. His work often focuses on the conservation of endangered bird species and their habitats, making his new book a significant contribution to environmental literature.",
+      "examRelevance": "Asad Rahmani's new book is titled 'Where Have the Birds Gone?'.",
+      "tags": [
+        "Asad Rahmani",
+        "Books",
+        "Ornithology",
+        "Conservation",
+        "Environment"
+      ],
+      "source": {
+        "title": "Interview | Ornithologist Asad Rahmani on his new book ‘Where Have the Birds Gone?’",
+        "url": "https://www.thehindu.com/books/asad-rahmani-interview/article71481626.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q12",
+      "question": "Margaret Hamilton, who recently passed away at 90, was a pioneering scientist known for her work on which NASA program?",
+      "options": [
+        "Voyager Program",
+        "International Space Station",
+        "Hubble Space Telescope",
+        "Apollo Program"
+      ],
+      "answerIndex": 3,
+      "category": "Obituaries",
+      "explanation": "Margaret Hamilton, a pioneering scientist and computer engineer, passed away at the age of 90. She was widely recognized for her critical contributions to NASA's Apollo program, where her work in software engineering was instrumental in humanity's first journeys to the moon.",
+      "background": "Hamilton led the team that developed the on-board flight software for the Apollo missions, including Apollo 11. Her innovative approaches to software design and engineering were foundational for modern computing and space exploration, earning her the Presidential Medal of Freedom in 2016.",
+      "examRelevance": "Margaret Hamilton, who passed away, worked on NASA's Apollo program.",
+      "tags": [
+        "Margaret Hamilton",
+        "Obituary",
+        "NASA",
+        "Apollo Program",
+        "Science & Tech"
+      ],
+      "source": {
+        "title": "Margaret Hamilton, scientist who worked on NASA's Apollo program, dead at 90",
+        "url": "https://www.thehindu.com/sci-tech/science/margaret-hamilton-scientist-who-worked-on-nasas-apollo-program-dead-at-90/article71558711.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q13",
+      "question": "In which state was toll collection recently suspended on NH 66 at Nattika due to protests and incomplete construction work?",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "Toll collection on National Highway 66 (NH 66) at Nattika, located in Kerala, was recently suspended. The Kerala government ordered the suspension following protests and citing the likelihood of severe traffic congestion as construction work on the stretch remains incomplete.",
+      "background": "Local protests against toll collection often arise when road infrastructure is perceived as incomplete or inadequate, leading to inconvenience for commuters. Government intervention to suspend toll collection aims to address public grievances and manage traffic flow during ongoing construction.",
+      "examRelevance": "Toll collection on NH 66 at Nattika, Kerala, suspended.",
+      "tags": [
+        "NH 66",
+        "Nattika",
+        "Kerala",
+        "Toll Collection",
+        "Protest"
+      ],
+      "source": {
+        "title": "Toll collection on NH 66 at Nattika in Keralam suspended amid protests",
+        "url": "https://www.thehindu.com/news/national/kerala/toll-collection-on-nh-66-at-nattika-in-keralam-suspended-amid-protests/article71558625.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q14",
+      "question": "Which edition of the GST Council meeting was held on October 8, 2026, in New Delhi?",
+      "options": [
+        "57th",
+        "56th",
+        "55th",
+        "58th"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The 57th GST Council meeting was held on October 8, 2026, in New Delhi. The meeting focused primarily on procedural reforms rather than changes to GST rates, with key agenda items including input tax credit protection, faster refunds, and potential removal of arrest provisions under GST law.",
+      "background": "The GST Council is the governing body for Goods and Services Tax in India, responsible for making recommendations on all matters related to GST. Its meetings are crucial for policy decisions, addressing implementation challenges, and evolving the tax regime.",
+      "examRelevance": "57th GST Council meeting held on October 8, 2026, in New Delhi.",
+      "tags": [
+        "GST Council",
+        "GST",
+        "New Delhi",
+        "Taxation",
+        "Reforms"
+      ],
+      "source": {
+        "title": "GST Council meeting today: No rate changes likely, faster refunds | 10 key expections, reforms on table",
+        "url": "https://www.livemint.com/economy/gst-council-meeting-today-no-rate-changes-likely-faster-refunds-10-key-expections-reforms-on-table-11791440734965.html"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q15",
+      "question": "Which social media company recently announced it is using AI to detect child sexual abuse content on its platforms like Instagram and Facebook?",
+      "options": [
+        "TikTok",
+        "Meta",
+        "X (formerly Twitter)",
+        "Google"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Meta, the parent company of Instagram and Facebook, recently announced its use of Artificial Intelligence (AI) to detect child sexual abuse content (CSAC) on its platforms. Between January and June 2026, Meta actioned 5.3 million pieces of such content on Facebook and Instagram in India.",
+      "background": "The use of AI in content moderation is a critical step for social media companies to combat illegal and harmful content, especially child exploitation material. This initiative reflects a broader industry effort to leverage technology for online safety and protect vulnerable users.",
+      "examRelevance": "Meta uses AI to detect child sexual abuse content on Instagram and Facebook.",
+      "tags": [
+        "Meta",
+        "AI",
+        "Child Safety",
+        "Instagram",
+        "Facebook"
+      ],
+      "source": {
+        "title": "Meta says it is using AI to detect child sexual abuse content on Instagram and Facebook",
+        "url": "https://www.thehindu.com/sci-tech/technology/meta-says-it-is-using-ai-to-detect-child-sexual-abuse-content-on-instagram-and-facebook/article71558704.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q16",
+      "question": "According to Nokia, what is the estimated timeframe for India to get its 6G contributions into global standards?",
+      "options": [
+        "24-30 months",
+        "12-18 months",
+        "6-12 months",
+        "18-24 months"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Nokia recently stated that India has a window of 12-18 months to integrate its 6G contributions into global standards. This timeframe is crucial for India to play a significant role in shaping the future of next-generation wireless technology.",
+      "background": "The development of 6G technology is a global race, with various countries and companies contributing to its research and standardization. India's active participation in setting global standards is vital for its technological sovereignty and economic competitiveness in the future.",
+      "examRelevance": "Nokia stated India has 12-18 months for 6G global contributions.",
+      "tags": [
+        "India",
+        "6G",
+        "Nokia",
+        "Global Standards",
+        "Science & Tech"
+      ],
+      "source": {
+        "title": "India has 12-18 months for its 6G global feat: Nokia",
+        "url": "https://economictimes.indiatimes.com/ai/ai-insights/india-has-12-18-months-to-get-its-6g-contributions-into-global-standards-nokia/articleshow/134782274.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q17",
+      "question": "What significant reform regarding tax officers' powers is on the agenda for the upcoming GST Council meeting?",
+      "options": [
+        "Mandatory digital payments",
+        "Increased audit powers",
+        "Removal of arrest provisions",
+        "Introduction of new tax slabs"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "A significant reform on the agenda for the upcoming GST Council meeting is the potential removal of arrest provisions for tax officers under the GST law. This move aims to decriminalize certain offenses and streamline the enforcement process.",
+      "background": "The power of arrest for tax officers has been a contentious issue, with concerns raised about its potential misuse and impact on businesses. The proposed reform indicates a shift towards a more facilitative tax regime, focusing on compliance rather than punitive measures for minor infractions.",
+      "examRelevance": "Removal of tax officers' arrest powers under GST is on the agenda.",
+      "tags": [
+        "GST",
+        "Tax Reforms",
+        "Arrest Powers",
+        "GST Council",
+        "Economy"
+      ],
+      "source": {
+        "title": "GST: Tax officers' arrest powers may go away",
+        "url": "https://economictimes.indiatimes.com/news/economy/policy/gst-council-meet-scrapping-tax-officers-arrest-powers-decriminalisation-among-reforms-on-agenda/articleshow/134782442.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q18",
+      "question": "World Post Day is observed annually on which date?",
+      "options": [
+        "October 8",
+        "October 7",
+        "October 9",
+        "October 10"
+      ],
+      "answerIndex": 2,
+      "category": "Dates & Days",
+      "explanation": "World Post Day is observed annually on October 9. This day marks the anniversary of the establishment of the Universal Postal Union (UPU) in 1874 in Bern, Switzerland, and aims to raise awareness of the postal sector's role in people’s and businesses’ daily lives.",
+      "background": "The UPU is a specialized agency of the United Nations that coordinates postal policies among member nations. World Post Day highlights the importance of postal services in global communication, economic development, and cultural exchange, with activities often focusing on rekindling the love for traditional mail, as seen with art mail clubs in Kerala.",
+      "examRelevance": "World Post Day is observed annually on October 9.",
+      "tags": [
+        "World Post Day",
+        "October 9",
+        "Universal Postal Union",
+        "Dates & Days"
+      ],
+      "source": {
+        "title": "How art mail clubs are rekindling the love for post",
+        "url": "https://www.thehindu.com/life-and-style/art-mail-clubs-keralam-run-by-youngsters/article71554818.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q19",
+      "question": "Which university recently enabled its students to obtain certificates online without the ₹3,000 tatkal fee?",
+      "options": [
+        "Anna University",
+        "Andhra University",
+        "Osmania University",
+        "JNTU-GV"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "Jawaharlal Nehru Technological University Gurajada, Vizianagaram (JNTU-GV) recently announced that its students can now obtain certificates online within days, without the previously charged ₹3,000 tatkal fee. This initiative is expected to benefit approximately 90,000 students across 37 affiliated colleges.",
+      "background": "This move by JNTU-GV aims to streamline administrative processes and reduce financial burdens on students, particularly those requiring urgent documents. It reflects a broader trend in educational institutions to adopt digital solutions for better service delivery and transparency.",
+      "examRelevance": "JNTU-GV enabled students to get online certificates without ₹3,000 tatkal fee.",
+      "tags": [
+        "JNTU-GV",
+        "Online Certificates",
+        "Education",
+        "Andhra Pradesh"
+      ],
+      "source": {
+        "title": "JNTU-GV students can now get certificates online in days, without ₹3,000 tatkal fee",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/jntu-gv-students-can-now-get-certificates-online-in-days-without-3000-tatkal-fee/article71558367.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q20",
+      "question": "An FIR was recently filed against an MLA in Vijayapura for allegedly creating false death certificates of voters. Vijayapura is located in which state?",
+      "options": [
+        "Andhra Pradesh",
+        "Telangana",
+        "Maharashtra",
+        "Karnataka"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "An FIR was recently filed against an MLA in Vijayapura, Karnataka, for allegedly creating false death certificates of voters. The complainant accused the MLA and a Booth Level Agent of falsely claiming voters had died to remove their names from the electoral rolls under the Special Intensive Revision program.",
+      "background": "Such incidents of electoral fraud undermine the integrity of the democratic process. The Special Intensive Revision (SIR) is a process used to update electoral rolls, and allegations of manipulation during this process are taken seriously by election authorities and law enforcement.",
+      "examRelevance": "FIR filed against MLA in Vijayapura, Karnataka, for false death certificates of voters.",
+      "tags": [
+        "Vijayapura",
+        "Karnataka",
+        "MLA",
+        "Electoral Fraud",
+        "FIR"
+      ],
+      "source": {
+        "title": "FIR against MLA for creating false death certificates of voters in Vijayapura",
+        "url": "https://www.thehindu.com/news/national/karnataka/fir-against-basanagouda-patil-yatnal-mla-expelled-by-bjp-for-creating-false-death-certificates-of-voters-in-vijayapura-karnataka/article71558508.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q21",
+      "question": "Which payments bank was recently removed by the RBI from its list of scheduled banks?",
+      "options": [
+        "Jio Payments Bank",
+        "Fino Payments Bank",
+        "Airtel Payments Bank",
+        "Paytm Payments Bank"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Reserve Bank of India (RBI) recently removed Paytm Payments Bank (PPBL) from its list of scheduled banks. This action follows the RBI's cancellation of PPBL's banking license in April of this year due to non-compliance with regulatory norms.",
+      "background": "Scheduled banks are those included in the Second Schedule of the Reserve Bank of India Act, 1934, granting them certain privileges and obligations. The removal of PPBL from this list signifies a significant regulatory action, impacting its operational scope and market standing.",
+      "examRelevance": "RBI removed Paytm Payments Bank from list of scheduled banks.",
+      "tags": [
+        "RBI",
+        "Paytm Payments Bank",
+        "Scheduled Banks",
+        "Banking Regulation"
+      ],
+      "source": {
+        "title": "RBI removes Paytm Payments Bank from list of scheduled banks",
+        "url": "https://www.thehindu.com/business/rbi-removes-paytm-payments-bank-from-the-official-list-of-scheduled-banks/article71558512.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q22",
+      "question": "Which company recently introduced its new AI model, Claude Haiku 5.5?",
+      "options": [
+        "Google",
+        "Microsoft",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Anthropic recently introduced its new AI model, Claude Haiku 5.5. This new version is positioned to compete with cheaper, open-source models, offering enhanced capabilities at a more accessible price point compared to its predecessor, Haiku 4.5.",
+      "background": "Anthropic is a leading AI safety and research company, known for developing advanced AI models like the Claude series. The introduction of Claude Haiku 5.5 reflects the ongoing competition and rapid advancements in the field of artificial intelligence, aiming to provide more efficient and cost-effective solutions.",
+      "examRelevance": "Anthropic introduced its new AI model, Claude Haiku 5.5.",
+      "tags": [
+        "Anthropic",
+        "Claude Haiku 5.5",
+        "AI Model",
+        "Artificial Intelligence"
+      ],
+      "source": {
+        "title": "Anthropic introduces Claude Haiku 5.5 in competition to cheaper, open source models",
+        "url": "https://www.thehindu.com/sci-tech/technology/anthropic-introduces-claude-haiku-55-in-competition-to-cheaper-open-source-models/article71558643.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q23",
+      "question": "Which major e-commerce company recently announced fresh job cuts, primarily impacting its retail and customer teams in India?",
+      "options": [
+        "Meesho",
+        "Myntra",
+        "Flipkart",
+        "Amazon India"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Amazon India recently announced fresh job cuts, with employees across its retail and customer service functions being affected. These layoffs are part of a broader trend of workforce adjustments by the company, which its founder Jeff Bezos attributed to overhiring during the pandemic.",
+      "background": "Major tech and e-commerce companies have undergone restructuring and layoffs in recent times, often citing economic headwinds and a need for operational efficiency. These decisions impact a significant number of employees and reflect the dynamic nature of the global economy.",
+      "examRelevance": "Amazon India announced fresh job cuts in retail and customer teams.",
+      "tags": [
+        "Amazon India",
+        "Layoffs",
+        "E-commerce",
+        "Economy",
+        "Job Cuts"
+      ],
+      "source": {
+        "title": "Amazon India layoffs: Retail, customer teams hit",
+        "url": "https://economictimes.indiatimes.com/tech/technology/amazon-india-layoffs-pink-slips-handed-to-employees-across-retail-customer-service-functions/articleshow/134781923.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q24",
+      "question": "In which state was self-styled tantric Shrawan Mahto arrested for allegedly swinging small children as part of a ritual?",
+      "options": [
+        "Uttar Pradesh",
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Bihar"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "Self-styled tantric Shrawan Mahto was arrested in Bihar after a video went viral showing him swinging small children as part of a bizarre 'ritual'. He claimed these rituals were meant to 'cure' the toddlers, performing them in the presence of their parents.",
+      "background": "Such incidents highlight the prevalence of superstitious practices and the exploitation of vulnerable individuals in certain regions. Law enforcement agencies often intervene in such cases to protect children and prevent harmful practices, emphasizing the need for public awareness against superstition.",
+      "examRelevance": "Self-styled tantric Shrawan Mahto arrested in Bihar for swinging children as ritual.",
+      "tags": [
+        "Shrawan Mahto",
+        "Bihar",
+        "Tantric",
+        "Ritual Abuse",
+        "Arrest"
+      ],
+      "source": {
+        "title": "Self-styled tantric Shrawan Mahto arrested after video of him swinging small children as part of ‘ritual’ goes viral",
+        "url": "https://www.thehindu.com/news/national/bihar/self-styled-tantric-shrawan-mahto-arrested-after-video-of-him-swinging-small-children-as-part-of-ritual-goes-viral/article71558583.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q25",
+      "question": "Which international bloc recently sent an envoy to Beijing due to rising economic anxiety over China's increasing exports?",
+      "options": [
+        "African Union",
+        "BRICS",
+        "European Union",
+        "ASEAN"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The European Union (EU) recently dispatched an envoy to Beijing. This diplomatic move comes amid rising economic anxiety within the 27-nation bloc regarding China's increasing exports and massive state subsidies, which are seen as a major threat to core European industrial sectors.",
+      "background": "The relationship between the EU and China is complex, balancing economic cooperation with concerns over trade imbalances, human rights, and geopolitical issues. Sending an envoy signifies a direct attempt to address these economic tensions and protect European industries from unfair competition.",
+      "examRelevance": "EU sent envoy to Beijing over rising economic anxiety due to China's exports.",
+      "tags": [
+        "European Union",
+        "China",
+        "Beijing",
+        "Economic Anxiety",
+        "International Relations"
+      ],
+      "source": {
+        "title": "EU sends envoy to Beijing as rising exports from China raise economic anxiety",
+        "url": "https://www.thehindu.com/news/international/eu-sends-envoy-to-beijing-as-rising-exports-from-china-raise-economic-anxiety/article71558543.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q26",
+      "question": "Which university is set to celebrate its Ruby Jubilee (40th anniversary) on October 26, to which the Andhra Governor has been invited?",
+      "options": [
+        "Andhra University",
+        "N.T. Rama Rao University of Health Sciences (NTRUHS)",
+        "Sri Venkateswara University",
+        "Jawaharlal Nehru Technological University, Kakinada"
+      ],
+      "answerIndex": 1,
+      "category": "Dates & Days",
+      "explanation": "N.T. Rama Rao University of Health Sciences (NTRUHS) is preparing to celebrate its Ruby Jubilee, marking its 40th anniversary, on October 26. The university's Vice-Chancellor and other officials extended an invitation to the Andhra Governor, S. Abdul Nazeer, who has agreed to attend the celebrations.",
+      "background": "A Ruby Jubilee signifies 40 years of existence, a significant milestone for any institution. NTRUHS plays a crucial role in medical education and research in Andhra Pradesh, and its anniversary celebration highlights its journey and contributions to the healthcare sector.",
+      "examRelevance": "NTRUHS is celebrating its Ruby Jubilee (40th anniversary) on October 26.",
+      "tags": [
+        "NTRUHS",
+        "Ruby Jubilee",
+        "Andhra Pradesh",
+        "University",
+        "Anniversary"
+      ],
+      "source": {
+        "title": "NTRUHS invites Andhra Governor to its Ruby Jubilee celebrations on October 26",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/ntruhs-invites-andhra-governor-to-its-ruby-jubilee-celebrations-on-october-26/article71556690.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q27",
+      "question": "The Parliament of which country is currently voting on a new electoral law that proposes a fully proportional system guaranteeing a parliamentary majority to any alliance winning over 42% of the vote?",
+      "options": [
+        "Germany",
+        "Spain",
+        "Italy",
+        "France"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The Parliament of Italy is currently voting on a new electoral law. This proposed law aims to introduce a fully proportional system that would guarantee a parliamentary majority to any alliance securing more than 42% of the vote, representing a key test for Prime Minister Giorgia Meloni's government.",
+      "background": "Electoral reforms are often critical political events, shaping the future governance and stability of a country. The proposed system in Italy seeks to ensure governmental stability by guaranteeing a majority, thereby potentially avoiding fragmented coalitions, which have historically been common in Italian politics.",
+      "examRelevance": "Italy Parliament is voting on a new electoral law for a proportional system.",
+      "tags": [
+        "Italy",
+        "Electoral Law",
+        "Parliament",
+        "Giorgia Meloni",
+        "Polity"
+      ],
+      "source": {
+        "title": "Italy Parliament votes on electoral law in key test for Meloni",
+        "url": "https://www.thehindu.com/news/international/italy-parliament-votes-on-electoral-law-in-key-test-for-meloni/article71558577.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q28",
+      "question": "Which organization recently prequalified Serum Institute of India’s quadrivalent HPV vaccine, CERVAVAC?",
+      "options": [
+        "World Health Organization (WHO)",
+        "Doctors Without Borders",
+        "UNICEF",
+        "Gavi, the Vaccine Alliance"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "The World Health Organization (WHO) recently prequalified Serum Institute of India’s quadrivalent Human Papillomavirus (HPV) vaccine, CERVAVAC. This prequalification is a significant step, enabling the vaccine to be procured by UN agencies and global vaccine initiatives, bolstering efforts to prevent cervical cancer worldwide.",
+      "background": "WHO prequalification ensures that vaccines meet international standards of quality, safety, and efficacy, making them eligible for global procurement. CERVAVAC, developed by the Serum Institute of India, represents an affordable and accessible option for cervical cancer prevention, particularly crucial for low and middle-income countries.",
+      "examRelevance": "WHO prequalified Serum Institute of India’s quadrivalent HPV vaccine, CERVAVAC.",
+      "tags": [
+        "WHO",
+        "CERVAVAC",
+        "HPV Vaccine",
+        "Serum Institute of India",
+        "Cervical Cancer"
+      ],
+      "source": {
+        "title": "WHO prequalifies Serum Institute of India’s quadrivalent HPV vaccine, CERVAVAC | Explained",
+        "url": "https://www.thehindu.com/business/rbi-removes-paytm-payments-bank-from-the-official-list-of-scheduled-banks/article71558512.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q29",
+      "question": "State Level Bankers’ Committees (SLBCs) and Union Territory Level Bankers’ Committees (UTLBCs) have recently been asked to report beneficiary data for key government schemes for which specific community?",
+      "options": [
+        "Economically Weaker Sections (EWS)",
+        "Other Backward Classes (OBC)",
+        "Scheduled Tribes (ST)",
+        "Scheduled Castes (SC)"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "State Level Bankers’ Committees (SLBCs) and Union Territory Level Bankers’ Committees (UTLBCs) have recently been directed to report beneficiary data specifically for Scheduled Castes (SC) for key government schemes related to jobs and entrepreneurship. This move aims to monitor the reach and impact of financial inclusion initiatives for this community.",
+      "background": "SLBCs and UTLBCs play a crucial role in coordinating banking activities and implementing financial inclusion policies at the state and union territory levels. The directive to report SC beneficiary data is part of a broader effort to ensure equitable distribution of benefits from government schemes and to address the credit needs of priority sectors.",
+      "examRelevance": "SLBCs/UTLBCs asked to report SC beneficiary data for government schemes.",
+      "tags": [
+        "SLBCs",
+        "UTLBCs",
+        "Scheduled Castes",
+        "Government Schemes",
+        "Financial Inclusion"
+      ],
+      "source": {
+        "title": "Why have SLBCs/UTLBCs been asked to report SC beneficiary data for key government schemes for jobs and entrepreneurship? | Explained",
+        "url": "https://www.thehindu.com/news/national/why-have-slbcsutlbcs-been-asked-to-report-sc-beneficiary-data-for-key-government-schemes-for-jobs-and-entrepreneurship-explained/article71558428.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-08-q30",
+      "question": "Which state transport corporation recently launched a new bus service connecting Mumbai to Navi Mumbai Airport?",
+      "options": [
+        "Karnataka State Road Transport Corporation (KSRTC)",
+        "Gujarat State Road Transport Corporation (GSRTC)",
+        "Brihanmumbai Electric Supply and Transport (BEST)",
+        "Maharashtra State Road Transport Corporation (MSRTC)"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "The Maharashtra State Road Transport Corporation (MSRTC) recently launched a new bus service connecting Mumbai to Navi Mumbai Airport. This initiative aims to improve connectivity amidst the ongoing controversy surrounding the redevelopment plan for Mumbai's Terminal 1.",
+      "background": "The development of connectivity to Navi Mumbai Airport is crucial for easing travel and managing passenger load in the Mumbai Metropolitan Region. The launch of this MSRTC service provides a public transport option, addressing demands for better access to the new airport.",
+      "examRelevance": "MSRTC launched Mumbai-Navi Mumbai Airport bus service.",
+      "tags": [
+        "MSRTC",
+        "Mumbai",
+        "Navi Mumbai Airport",
+        "Bus Service",
+        "Maharashtra"
+      ],
+      "source": {
+        "title": "MSRTC launches Mumbai-Navi Mumbai Airport bus service amid T1 redevelopment plan controversy",
+        "url": "https://www.thehindu.com/news/national/maharashtra/msrtc-launches-mumbai-navi-mumbai-airport-bus-service/article71556195.ece"
+      }
+    }
+  ]
+}
