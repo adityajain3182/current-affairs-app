@@ -1,0 +1,760 @@
+{
+  "id": "daily-2026-10-10",
+  "type": "daily",
+  "date": "2026-10-10",
+  "title": "Current Affairs — 10 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-10-q1",
+      "question": "Who is the Chief Election Commissioner (CEC) against whom protests were held in Delhi on October 10, 2026, demanding his resignation?",
+      "options": [
+        "Rajiv Kumar",
+        "Anup Chandra Pandey",
+        "Arun Goel",
+        "Gyanesh Kumar"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Protests were held in Delhi on October 10, 2026, demanding the resignation of Chief Election Commissioner Gyanesh Kumar. The protests were organized by groups like the Cockroach Janata Party (CJP) and supported by the INDIA bloc.",
+      "background": "The protests stemmed from alleged irregularities in electoral rolls and concerns over the Election Commission of India’s (ECI) Special Intensive Revision (SIR) exercise. Various political leaders and activists were detained during the demonstrations.",
+      "examRelevance": "Gyanesh Kumar = Chief Election Commissioner, subject of recent protests.",
+      "tags": [
+        "Gyanesh Kumar",
+        "CEC",
+        "Delhi Protest",
+        "Electoral Reforms"
+      ],
+      "source": {
+        "title": "Anti-CEC Delhi protest LIVE updates: CJP urges youth to take charge of movement as leaders detained; protesters being taken away from Jantar Mantar, nearby areas",
+        "url": "https://www.thehindu.com/news/cities/Delhi/cjp-protests-jantar-mantar-new-delhi-election-commissioner-gyanesh-kumar-resignation-sir-cec-row-october-10-2026-live-news/article71566021.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q2",
+      "question": "What was the primary reason cited for the protests against Chief Election Commissioner Gyanesh Kumar in Delhi on October 10, 2026?",
+      "options": [
+        "Irregularities in electoral rolls and the SIR exercise",
+        "Controversial remarks made by the CEC",
+        "Allegations of EVM tampering",
+        "Delay in conducting state assembly elections"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The primary reason cited for the protests against CEC Gyanesh Kumar on October 10, 2026, was alleged irregularities in electoral rolls and concerns over the Election Commission of India’s (ECI) Special Intensive Revision (SIR) exercise. Protesters demanded the CEC's resignation over these issues.",
+      "background": "The Special Intensive Revision (SIR) is an exercise conducted by the ECI to update voter lists. The allegations of irregularities in this process led to widespread discontent among certain political groups and activists.",
+      "examRelevance": "Anti-CEC protest reason = alleged irregularities in electoral rolls and SIR exercise.",
+      "tags": [
+        "CEC Protest",
+        "Electoral Rolls",
+        "SIR Exercise",
+        "Gyanesh Kumar"
+      ],
+      "source": {
+        "title": "CJP’s October 10 protest seeking CEC Gyanesh Kumar’s resignation | Full Coverage",
+        "url": "https://www.thehindu.com/news/national/cjps-october-10-protest-seeking-cec-gyanesh-kumars-resignation-full-coverage/article71565355.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q3",
+      "question": "Which specific location in Delhi was designated as the primary site for the planned anti-CEC protest on October 10, 2026, for which Delhi Police denied permission?",
+      "options": [
+        "India Gate",
+        "Parliament Street",
+        "Jantar Mantar",
+        "Rajpath"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Jantar Mantar was the specific location in Delhi designated for the planned anti-CEC protest on October 10, 2026. Delhi Police denied permission for the protest at this site, citing security considerations and procedural requirements.",
+      "background": "Jantar Mantar is a popular site for protests and demonstrations in Delhi due to its historical significance and proximity to various government buildings. However, authorities often impose restrictions on gatherings there for security reasons.",
+      "examRelevance": "Anti-CEC protest location = Jantar Mantar, Delhi.",
+      "tags": [
+        "Jantar Mantar",
+        "Delhi Protest",
+        "CJP",
+        "Security"
+      ],
+      "source": {
+        "title": "Anti-CEC Delhi protest LIVE updates: CJP urges youth to take charge of movement as leaders detained; protesters being taken away from Jantar Mantar, nearby areas",
+        "url": "https://www.thehindu.com/news/cities/Delhi/cjp-protests-jantar-mantar-new-delhi-election-commissioner-gyanesh-kumar-resignation-sir-cec-row-october-10-2026-live-news/article71566021.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q4",
+      "question": "Which major political leader called the detention of protesters ahead of the anti-CEC demonstration on October 10, 2026, 'worse than emergency' and stated that India was 'living under an absolute dictatorship'?",
+      "options": [
+        "Rahul Gandhi",
+        "Nitin Nabin",
+        "Pinarayi Vijayan",
+        "Arvind Kejriwal"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Aam Aadmi Party (AAP) national convenor Arvind Kejriwal criticized the detentions of protesters ahead of the anti-CEC demonstration on October 10, 2026, stating that India was 'living under an absolute dictatorship ruled by Modi' and called the situation 'worse than emergency.'",
+      "background": "The detentions and security measures were part of a widespread crackdown by Delhi Police to prevent the planned protests against Chief Election Commissioner Gyanesh Kumar, leading to condemnation from various opposition figures.",
+      "examRelevance": "Arvind Kejriwal = called detentions 'worse than emergency'.",
+      "tags": [
+        "Arvind Kejriwal",
+        "AAP",
+        "Emergency",
+        "Delhi Protest"
+      ],
+      "source": {
+        "title": "Arvind Kejriwal calls detention of protesters ‘worse than emergency’",
+        "url": "https://www.thehindu.com/news/cities/Delhi/black-emergency-imposed-in-the-country-aap/article71567157.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q5",
+      "question": "What was one of the significant measures taken by Delhi Police to manage the anti-CEC protest on October 10, 2026, which led to a contempt plea being filed in the Supreme Court?",
+      "options": [
+        "Mass arrest of political leaders",
+        "Imposition of Section 144",
+        "Deployment of riot control vehicles",
+        "Shutting down of Metro stations"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "One of the significant measures taken by Delhi Police to manage the anti-CEC protest on October 10, 2026, was the shutting down of Metro stations in parts of Delhi. This action led to advocate Shailendra Mani Tripathi filing a contempt plea in the Supreme Court, alleging a violation of an earlier court order that emphasized avoiding hardship to commuters.",
+      "background": "The Supreme Court had previously issued an order on October 9, 2026, emphasizing that authorities must not cause any hardship or suffering to ordinary commuters through a blanket ban during protests. The Metro shutdowns were seen as a direct contravention of this directive.",
+      "examRelevance": "Delhi Police measure = shutting down Metro stations, led to SC contempt plea.",
+      "tags": [
+        "Delhi Police",
+        "Metro Shutdown",
+        "Contempt Plea",
+        "Supreme Court"
+      ],
+      "source": {
+        "title": "Anti-CEC protest: Contempt plea filed in Supreme Court on continued transit shutdown in Delhi",
+        "url": "https://www.thehindu.com/news/cities/Delhi/anti-cec-protest-contempt-plea-filed-in-supreme-court-on-continued-transit-shutdown-in-delhi/article71567164.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q6",
+      "question": "Approximately how many security personnel were planned for deployment by Delhi Police for managing the anti-CEC protest on October 10, 2026?",
+      "options": [
+        "10,000",
+        "20,000",
+        "35,000",
+        "50,000"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Delhi Police planned to deploy approximately 35,000 security personnel for managing the anti-CEC protest on October 10, 2026. The security arrangements also included the use of bodycams, drones, and establishing six detention centers.",
+      "background": "The large-scale deployment and security measures were implemented to maintain law and order and prevent any untoward incidents during the planned demonstrations against Chief Election Commissioner Gyanesh Kumar.",
+      "examRelevance": "Delhi Police deployment for protest = 35,000 personnel.",
+      "tags": [
+        "Delhi Police",
+        "Security Deployment",
+        "Protest Management",
+        "Jantar Mantar"
+      ],
+      "source": {
+        "title": "Delhi Police plan: 35,000 force, bodycams, drones",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/delhi-protest-today-35000-security-personnel-bodycams-drones-six-detention-centers-face-recognition-traffic-diversions-and-metro-closures-inside-delhi-polices-security-plan/articleshow/134846550.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q7",
+      "question": "The National Commission recently sought a report from the Collector and Superintendent of Police of which district regarding alleged caste discrimination during an SC man's burial?",
+      "options": [
+        "Tirunelveli",
+        "Erode",
+        "Coimbatore",
+        "Madurai"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The National Commission recently sought a report from the Erode Collector and SP regarding alleged caste discrimination during an SC man's burial. The commission also sought information on disciplinary action taken against officials who allegedly failed to take preventive measures.",
+      "background": "Incidents of caste discrimination, particularly concerning access to public facilities like burial grounds, continue to be reported in various parts of India. Such cases often lead to interventions by national and state commissions to ensure justice and accountability.",
+      "examRelevance": "Caste discrimination report sought from = Erode Collector and SP.",
+      "tags": [
+        "Caste Discrimination",
+        "Erode",
+        "National Commission",
+        "Burial Rights"
+      ],
+      "source": {
+        "title": "Caste discrimination during SC man’s burial: Commission seeks report from Erode Collector, SP",
+        "url": "https://www.thehindu.com/news/cities/Coimbatore/caste-discrimination-during-sc-mans-burial-commission-seeks-report-from-erode-collector-sp/article71567189.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q8",
+      "question": "How many candidates from the BJP were elected unopposed to the Rajya Sabha from Uttar Pradesh recently?",
+      "options": [
+        "Seven",
+        "Nine",
+        "Six",
+        "Eight"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Eight candidates from the BJP were elected unopposed to the Rajya Sabha from Uttar Pradesh recently. Along with these eight, two Samajwadi Party candidates were also elected unopposed from the state.",
+      "background": "Elections to the Rajya Sabha, the upper house of India's Parliament, are held indirectly by the Members of Legislative Assemblies (MLAs) of the states. When the number of candidates equals the number of vacant seats, candidates are declared elected unopposed.",
+      "examRelevance": "BJP Rajya Sabha candidates from UP elected unopposed = eight.",
+      "tags": [
+        "Rajya Sabha",
+        "Uttar Pradesh",
+        "BJP",
+        "Unopposed Election"
+      ],
+      "source": {
+        "title": "Eight BJP, two SP candidates elected unopposed in Rajya Sabha from U.P.",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/eight-bjp-and-two-sp-candidates-from-up-elected-unopposed-to-rajya-sabha/article71564306.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q9",
+      "question": "Which city's Corporation recently faced backlash for its proposed move to put a leash on serial Right to Information (RTI) 'abusers'?",
+      "options": [
+        "Bengaluru",
+        "Chennai",
+        "Kochi",
+        "Thiruvananthapuram"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Kochi Corporation recently faced backlash for its proposed move to put a leash on serial Right to Information (RTI) 'abusers'. Supreme Court lawyer Kaleeswaram Raj stated that the move went against the spirit of the RTI Act, which does not prescribe any ceiling on the number of applications.",
+      "background": "The Right to Information Act, 2005, is a landmark legislation in India that empowers citizens to access information held by public authorities. Attempts to restrict its use, even in cases of perceived abuse, often draw criticism for potentially undermining transparency.",
+      "examRelevance": "Kochi Corporation = faced backlash for restricting RTI 'abusers'.",
+      "tags": [
+        "Kochi Corporation",
+        "RTI Act",
+        "Transparency",
+        "Kerala"
+      ],
+      "source": {
+        "title": "Kochi Corporation’s move to put a leash on serial RTI ‘abusers’ triggers backlash",
+        "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-faces-backlash-after-proposing-to-blacklist-and-hand-over-serial-rti-abusers-to-vacb/article71567095.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q10",
+      "question": "Which Padma Shri awardee recently had her Special Intensive Revision (SIR) enumeration form rejected, citing that she had not received any notices during the SIR notice period?",
+      "options": [
+        "Medha Patkar",
+        "Aruna Roy",
+        "Sunitha Krishnan",
+        "Kiran Bedi"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Padma Shri awardee Sunitha Krishnan recently had her Special Intensive Revision (SIR) enumeration form rejected. She stated that neither she nor her family had received any notices during the SIR notice period asking them to submit any of the 12 listed documents to prove their citizenship.",
+      "background": "The Special Intensive Revision (SIR) exercise is conducted by the Election Commission to update voter rolls. The rejection of forms, particularly for individuals like Padma Shri awardees, highlights concerns regarding the transparency and implementation of the process.",
+      "examRelevance": "Padma Shri Sunitha Krishnan = SIR enumeration form rejected.",
+      "tags": [
+        "Sunitha Krishnan",
+        "Padma Shri",
+        "SIR",
+        "Electoral Roll"
+      ],
+      "source": {
+        "title": "SIR: Padma Shri awardee Sunitha Krishnan’s enumeration form rejected",
+        "url": "https://www.thehindu.com/news/national/telangana/padma-shri-recipient-sunitha-krishnans-sir-enumeration-form-rejected/article71565640.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q11",
+      "question": "In which Ukrainian city did a Russian attack on October 10, 2026, kill seven people and wound ten others, according to Governor Mykhailo Semikin?",
+      "options": [
+        "Kyiv",
+        "Zaporizhzhia",
+        "Lviv",
+        "Odesa"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "A Russian attack on October 10, 2026, killed seven people and wounded ten others in the Ukrainian city of Zaporizhzhia. Governor Mykhailo Semikin stated that the attack hit several locations at once in the early hours.",
+      "background": "Zaporizhzhia is a city in southeastern Ukraine, known for its large nuclear power plant. The region has been a focal point of conflict since the full-scale Russian invasion, with frequent attacks reported.",
+      "examRelevance": "Russian attack on October 10, 2026 = Zaporizhzhia, Ukraine.",
+      "tags": [
+        "Zaporizhzhia",
+        "Ukraine",
+        "Russia",
+        "Conflict"
+      ],
+      "source": {
+        "title": "Russian attack on Ukraine's Zaporizhzhia kills seven, governor says",
+        "url": "https://www.thehindu.com/news/international/russian-attack-on-zaporizhzhia-kills-several-people-and-wounds-many/article71567296.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q12",
+      "question": "Donald Trump recently reiterated his claim of facilitating a ceasefire between which two countries, referencing it in a Nobel Prize claim?",
+      "options": [
+        "Russia and Ukraine",
+        "Israel and Palestine",
+        "India and Pakistan",
+        "North Korea and South Korea"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Donald Trump recently reiterated his claim of taking credit for an Indo-Pak ceasefire. He made this assertion in the context of claiming he deserved a Nobel Peace Prize for his efforts.",
+      "background": "Trump has previously claimed credit for various international diplomatic achievements during his presidency. The India-Pakistan ceasefire refers to the renewed commitment to the 2003 ceasefire agreement along the Line of Control, announced in February 2021.",
+      "examRelevance": "Donald Trump claim = credit for India-Pakistan ceasefire.",
+      "tags": [
+        "Donald Trump",
+        "India-Pakistan",
+        "Ceasefire",
+        "Nobel Prize"
+      ],
+      "source": {
+        "title": "Trump again takes credit for Indo-Pak ceasefire",
+        "url": "https://economictimes.indiatimes.com/news/india/far-more-than-necessary-to-win-trump-again-takes-credit-for-india-pakistan-ceasefire-in-nobel-prize-claim/articleshow/134849255.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q13",
+      "question": "Taiwan's government has earmarked a record NT$1.1 trillion ($34.5 billion) in defence spending for 2027, which accounts for more than what percentage of its GDP?",
+      "options": [
+        "4%",
+        "2%",
+        "3%",
+        "1%"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Taiwan's President Lai Ching-te’s government has earmarked a record NT$1.1 trillion ($34.5 billion) in defence spending for 2027, which accounts for more than 3% of its GDP. This increase is aimed at deterring war.",
+      "background": "Taiwan faces constant military threats from mainland China, which considers the island a breakaway province. Increased defence spending is a key part of Taiwan's strategy to enhance its self-defence capabilities and deter potential aggression.",
+      "examRelevance": "Taiwan 2027 defence spending = over 3% of GDP.",
+      "tags": [
+        "Taiwan",
+        "Defence Spending",
+        "GDP",
+        "Lai Ching-te"
+      ],
+      "source": {
+        "title": "Taiwan's leader says increasing defence spending to 'deter war'",
+        "url": "https://www.thehindu.com/news/international/taiwan-to-deter-war-by-boosting-defense-spending/article71567211.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q14",
+      "question": "An Indian lawyer who previously represented Mehul Choksi is now facing rape charges in which country, along with a charge of 'arranging or facilitating travel of another person with a view to exploitation'?",
+      "options": [
+        "France",
+        "United Kingdom",
+        "Germany",
+        "United States"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "An Indian lawyer, aged 57, who previously represented Mehul Choksi, is now facing rape charges in the United Kingdom. The Crown Prosecution Service (CPS) also referenced a charge of 'arranging or facilitating travel of another person with a view to exploitation' against him.",
+      "background": "Mehul Choksi is an Indian-born diamantaire and fugitive who is wanted in India in connection with the PNB fraud case. His legal battles have involved lawyers across multiple jurisdictions.",
+      "examRelevance": "Indian lawyer (Mehul Choksi representative) = facing rape charges in UK.",
+      "tags": [
+        "Mehul Choksi",
+        "Indian Lawyer",
+        "UK",
+        "Rape Charges"
+      ],
+      "source": {
+        "title": "Lawyer who represented Mehul Choksi faces rape charges in U.K.",
+        "url": "https://www.thehindu.com/news/international/indian-lawyer-faces-rape-charges-in-uk/article71567214.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q15",
+      "question": "What has intensified in the West Bank as Israel goes to the polls, with more than 1,600 incidents recorded between January and August, displacing thousands?",
+      "options": [
+        "Settler attacks and expansion",
+        "Economic boycotts",
+        "Diplomatic negotiations",
+        "International aid efforts"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Settler attacks and expansion have intensified in the West Bank as Israel goes to the polls. More than 1,600 settler attacks against Palestinians were recorded between January and August, leading to the displacement of thousands due to movement curbs, land seizures, and demolitions.",
+      "background": "The West Bank is a territory occupied by Israel since 1967. Israeli settlements in the West Bank are considered illegal under international law and are a major point of contention in the Israeli-Palestinian conflict.",
+      "examRelevance": "West Bank = intensification of settler attacks and expansion.",
+      "tags": [
+        "West Bank",
+        "Israel",
+        "Palestine",
+        "Settler Attacks"
+      ],
+      "source": {
+        "title": "As Israel goes to the polls, settler attacks and expansion intensify in West Bank",
+        "url": "https://www.thehindu.com/news/international/as-israel-goes-to-the-polls-settler-attacks-and-expansion-intensify-in-west-bank/article71564412.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q16",
+      "question": "Which country's government, led by President Lula, recently lowered fuel prices by eliminating federal taxes on the import and sale of gasoline for 30 days, with a possibility of extension?",
+      "options": [
+        "South Africa",
+        "Argentina",
+        "Brazil",
+        "Mexico"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Brazil's government, led by President Lula, recently lowered fuel prices by eliminating federal taxes on the import and sale of gasoline for 30 days, with a possibility of extension. This move was made ahead of a runoff vote against Flavio Bolsonaro.",
+      "background": "Fuel prices are a significant economic and political issue globally. Governments often intervene through tax adjustments or subsidies to manage inflation and public sentiment, especially during election periods.",
+      "examRelevance": "Brazil (Lula) = lowered fuel prices by eliminating federal taxes.",
+      "tags": [
+        "Brazil",
+        "Lula",
+        "Fuel Prices",
+        "Taxation"
+      ],
+      "source": {
+        "title": "Lula’s government in Brazil lowers fuel prices ahead of runoff vote against Flavio Bolsonaro",
+        "url": "https://www.thehindu.com/news/international/lulas-government-in-brazil-lowers-fuel-prices-ahead-of-runoff-vote-against-flavio-bolsonaro/article71567143.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q17",
+      "question": "India exercised its Right of Reply at which specific committee of the UN General Assembly to address Pakistan's 'lies and falsehoods' regarding Kashmir and nuclear weapons?",
+      "options": [
+        "Third Committee (Social, Humanitarian & Cultural)",
+        "Fourth Committee (Special Political and Decolonization)",
+        "First Committee (Disarmament and International Security)",
+        "Second Committee (Economic and Financial)"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "India exercised its Right of Reply at the plenary meeting of the First Committee of the UN General Assembly, which deals with Disarmament and International Security issues. MP Mahima Kumari Mewar accused Pakistan of abusing the UN platform and peddling 'lies and falsehoods' regarding Kashmir and nuclear weapons.",
+      "background": "The First Committee is one of the six main committees of the UN General Assembly. India and Pakistan frequently use UN platforms to address bilateral issues, often leading to strong exchanges and exercises of the Right of Reply.",
+      "examRelevance": "India's Right of Reply against Pakistan at UN = First Committee.",
+      "tags": [
+        "India",
+        "Pakistan",
+        "UN General Assembly",
+        "First Committee"
+      ],
+      "source": {
+        "title": "Nuclear weapons must not be treated as ‘routine instruments of statecraft’: India slams Pak at UN",
+        "url": "https://www.thehindu.com/news/national/nuclear-weapons-must-not-be-treated-as-routine-instruments-of-statecraft-india-slams-pak-at-un/article71567068.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q18",
+      "question": "An Indian man named Rohan Rane was recently jailed in which city for leading an online child abuse ring, guilty of offences including extortion and acts of torture and barbarity?",
+      "options": [
+        "Rome",
+        "Paris",
+        "London",
+        "Berlin"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "An Indian man named Rohan Rane was recently jailed in Paris for leading an online child abuse ring. The court found him guilty of offences including extortion committed as part of an organised gang, with aggravating circumstances of acts of torture and barbarity perpetrated on the victims.",
+      "background": "International cooperation in law enforcement has become crucial in combating transnational crimes like online child abuse. Cases like this highlight the global nature of such criminal activities and the efforts to bring perpetrators to justice.",
+      "examRelevance": "Rohan Rane (Indian man) jailed for child abuse ring = Paris.",
+      "tags": [
+        "Rohan Rane",
+        "Child Abuse",
+        "Paris",
+        "Online Crime"
+      ],
+      "source": {
+        "title": "Indian man jailed in Paris over leading online child abuse ring",
+        "url": "https://www.thehindu.com/news/international/indian-man-jailed-in-paris-over-leading-online-child-abuse-ring/article71567145.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q19",
+      "question": "In which city of South Korea did a shopping mall ceiling collapse, injuring 36 people and prompting President Lee Jae Myung to instruct officials for a thorough response?",
+      "options": [
+        "Daegu",
+        "Busan",
+        "Incheon",
+        "Seoul"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "A shopping mall ceiling collapsed in South Korea’s Daegu city, injuring 36 people. About 70 people evacuated the facility after the collapse, and President Lee Jae Myung instructed officials to ensure a thorough response.",
+      "background": "Infrastructure safety is a critical concern in densely populated urban areas. Incidents like ceiling collapses in public spaces often lead to immediate investigations and reviews of safety standards and building regulations.",
+      "examRelevance": "Shopping mall ceiling collapse = Daegu, South Korea.",
+      "tags": [
+        "Daegu",
+        "South Korea",
+        "Mall Collapse",
+        "Public Safety"
+      ],
+      "source": {
+        "title": "36 people hurt after shopping mall ceiling collapses in South Korea’s Daegu city",
+        "url": "https://www.thehindu.com/news/international/36-people-hurt-after-shopping-mall-ceiling-collapses-in-south-koreas-daegu-city/article71567116.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q20",
+      "question": "What type of deal did Donald Trump announce with Russia, which was met with criticism from Ukrainian President Zelenskiy who called it an 'investment in war'?",
+      "options": [
+        "Arms deal",
+        "Natural gas deal",
+        "Grain deal",
+        "Diesel deal"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Donald Trump announced a diesel deal with Russia, which was subsequently criticized by Ukrainian President Zelenskiy. Zelenskiy stated that letting Russia sell diesel to the U.S. is an 'investment in war.'",
+      "background": "The ongoing conflict between Russia and Ukraine has led to significant geopolitical realignments and sanctions against Russia. Any deal involving Russian energy exports, especially with Western nations, draws scrutiny and strong reactions from Ukraine.",
+      "examRelevance": "Donald Trump-Russia deal = diesel.",
+      "tags": [
+        "Donald Trump",
+        "Russia",
+        "Ukraine",
+        "Diesel Deal"
+      ],
+      "source": {
+        "title": "U.S.-Ukraine-European negotiators meet in Miami as Trump announces diesel deal with Russia",
+        "url": "https://www.thehindu.com/news/international/us-ukraine-european-negotiators-meet-in-miami-as-trump-announces-diesel-deal-with-russia/article71567031.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q21",
+      "question": "Donald Trump recently took a suit against Hillary Clinton over which election to the Supreme Court?",
+      "options": [
+        "2008 US Presidential election",
+        "2016 US Presidential election",
+        "2020 US Presidential election",
+        "2012 US Presidential election"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Donald Trump recently took a suit against Hillary Clinton over the 2016 US Presidential election to the Supreme Court. Trump's lawyers stated that Supreme Court review of the case is needed to protect the Presidency.",
+      "background": "The 2016 US Presidential election was highly contentious, and its aftermath saw numerous legal challenges and controversies. This particular suit appears to be a continuation of legal battles stemming from that period.",
+      "examRelevance": "Donald Trump suit against Hillary Clinton = 2016 US Presidential election.",
+      "tags": [
+        "Donald Trump",
+        "Hillary Clinton",
+        "Supreme Court",
+        "2016 Election"
+      ],
+      "source": {
+        "title": "Trump takes suit against Hillary Clinton over 2016 election to Supreme Court",
+        "url": "https://www.thehindu.com/news/international/trump-takes-suit-against-hillary-clinton-over-2016-election-to-supreme-court/article71566999.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q22",
+      "question": "Who was recently named by Donald Trump as his White House Press Secretary?",
+      "options": [
+        "Kayleigh McEnany",
+        "Stephanie Grisham",
+        "Katie Zacharia",
+        "Sarah Huckabee Sanders"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Donald Trump recently named commentator Katie Zacharia, from his media company, as his next White House Press Secretary. This appointment comes amidst various political developments involving Trump.",
+      "background": "The White House Press Secretary is a high-profile role responsible for communicating the administration's message to the public and the media. Trump's previous administrations have seen several individuals hold this position.",
+      "examRelevance": "Donald Trump's White House Press Secretary = Katie Zacharia.",
+      "tags": [
+        "Donald Trump",
+        "Katie Zacharia",
+        "White House",
+        "Press Secretary"
+      ],
+      "source": {
+        "title": "Trump names Katie Zacharia as WH press secretary",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-names-commentator-katie-zacharia-of-his-media-company-as-next-white-house-press-secretary/articleshow/134846288.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q23",
+      "question": "Which Central American country was recently rocked by two powerful earthquakes and multiple aftershocks, prompting evacuations?",
+      "options": [
+        "Nicaragua",
+        "Costa Rica",
+        "Honduras",
+        "Panama"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Panama was recently rocked by two powerful earthquakes and multiple aftershocks, prompting evacuations. The seismic activity caused significant concern in the region.",
+      "background": "Central America lies on the Ring of Fire, a major area in the basin of the Pacific Ocean where a large number of earthquakes and volcanic eruptions occur. Countries in this region are frequently susceptible to seismic events.",
+      "examRelevance": "Panama = rocked by two powerful earthquakes.",
+      "tags": [
+        "Panama",
+        "Earthquake",
+        "Central America",
+        "Seismic Activity"
+      ],
+      "source": {
+        "title": "Panama rocked by 2 powerful earthquakes",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/panama-rocked-by-2-powerful-earthquakes-and-multiple-aftershocks-prompting-evacuations/articleshow/134846240.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q24",
+      "question": "To support the rupee and ease pressure on the foreign-exchange market, the Reserve Bank of India (RBI) recently opened a special dollar window for which specific entities?",
+      "options": [
+        "State-run oil companies",
+        "Export-oriented units",
+        "Private sector banks",
+        "Foreign institutional investors"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Reserve Bank of India (RBI) recently announced measures to ease pressure on the rupee, including supplying dollars directly to three state-run oil companies. This special dollar window will come into effect from October 12, 2026, and will remain in place until further notice.",
+      "background": "When global crude oil prices rise, state-run oil companies require more dollars to import oil, increasing demand for the US dollar and putting depreciation pressure on the Indian rupee. The RBI's intervention aims to reduce this demand and volatility.",
+      "examRelevance": "RBI dollar window = for state-run oil companies.",
+      "tags": [
+        "RBI",
+        "Rupee",
+        "Dollar Window",
+        "Oil Companies"
+      ],
+      "source": {
+        "title": "Reserve Bank of India takes steps to support rupee, opens dollar window for oil companies",
+        "url": "https://www.livemint.com/economy/reserve-bank-of-india-takes-steps-to-support-rupee-opens-dollar-window-for-oil-companies-11791610568736.html"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q25",
+      "question": "What is the estimated value of Jio Platforms Ltd’s planned Initial Public Offering (IPO) that is drawing strong interest from global and domestic investors?",
+      "options": [
+        "Rs 40,000 crore",
+        "Rs 20,000 crore",
+        "Rs 10,000 crore",
+        "Rs 30,000 crore"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Jio Platforms Ltd’s planned Initial Public Offering (IPO) is estimated to be worth Rs 30,000 crore. The IPO is drawing strong interest from global and domestic investors, with existing marquee backers also seeking to increase their holdings.",
+      "background": "Jio Platforms, the telecom and digital services arm of Reliance Industries, has completed international roadshows across the Americas, Europe, and Southeast Asia, with Akash Ambani and Isha Ambani personally meeting investors.",
+      "examRelevance": "Jio Platforms IPO value = Rs 30,000 crore.",
+      "tags": [
+        "Jio Platforms",
+        "IPO",
+        "Reliance Industries",
+        "Akash Ambani"
+      ],
+      "source": {
+        "title": "Exclusive | Akash, Isha Ambani take Rs 30,000 crore Jio IPO pitch global; marquee investors seek bigger stake",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/exclusive-akash-isha-ambani-take-rs-30000-crore-jio-ipo-pitch-global-marquee-investors-seek-bigger-stake/articleshow/134849084.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q26",
+      "question": "Which technology company announced it is using Artificial Intelligence (AI) to detect child sexual abuse content (CSAC) on its platforms like Instagram and Facebook, actioning 5.3 million pieces in India between January and June 2026?",
+      "options": [
+        "Microsoft",
+        "Meta",
+        "Amazon",
+        "Google"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Meta announced that it is using Artificial Intelligence (AI) to detect child sexual abuse content (CSAC) on its platforms, including Instagram and Facebook. Between January and June 2026, Meta actioned 5.3 million pieces of CSAC in India.",
+      "background": "Technology companies are under increasing pressure to combat the spread of illegal content, especially child sexual abuse material, on their platforms. AI and machine learning are being deployed as critical tools in these efforts to identify and remove such content.",
+      "examRelevance": "Meta = using AI to detect child sexual abuse content.",
+      "tags": [
+        "Meta",
+        "AI",
+        "CSAC",
+        "Instagram",
+        "Facebook"
+      ],
+      "source": {
+        "title": "Meta says it is using AI to detect child sexual abuse content on Instagram and Facebook",
+        "url": "https://www.thehindu.com/sci-tech/technology/meta-says-it-is-using-ai-to-detect-child-sexual-abuse-content-on-instagram-and-facebook/article71558704.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q27",
+      "question": "An oil tanker with 22 Indian seafarers was recently attacked at which anchorage, with all crew members reported to be completely safe by Union Minister Sarbananda Sonowal?",
+      "options": [
+        "Salalah Anchorage",
+        "Fujairah Anchorage",
+        "Sharjah Anchorage",
+        "Muscat Anchorage"
+      ],
+      "answerIndex": 2,
+      "category": "Defence",
+      "explanation": "An oil tanker with 22 Indian seafarers onboard was recently attacked at Sharjah Anchorage. Union Minister Sarbananda Sonowal confirmed that all Indian crew members were reported to be completely safe after the incident.",
+      "background": "The waters around the Arabian Peninsula, particularly key shipping lanes and anchorages, have seen incidents involving attacks on commercial vessels. Such events raise concerns about maritime security and the safety of seafarers.",
+      "examRelevance": "Oil tanker with Indian crew attacked = Sharjah Anchorage.",
+      "tags": [
+        "Sharjah Anchorage",
+        "Maritime Security",
+        "Indian Seafarers",
+        "Oil Tanker"
+      ],
+      "source": {
+        "title": "All Indian crew members safe after oil tanker attacked at Sharjah Anchorage: Sarbananda Sonowal",
+        "url": "https://www.thehindu.com/news/national/all-indian-crew-members-safe-after-oil-tanker-attacked-at-sharjah-anchorage-sarbananda-sonowal/article71567057.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q28",
+      "question": "Which Indian institution conducted a study that found loneliness to be linked to psychological distress and excessive series watching among parents of emigrated children, ahead of World Mental Health Day?",
+      "options": [
+        "AIIMS Delhi",
+        "CMC Vellore",
+        "NIMHANS Bengaluru",
+        "PGI Chandigarh"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "A study conducted by NIMHANS (National Institute of Mental Health and Neurosciences) Bengaluru found loneliness to be linked to psychological distress and excessive series watching among parents of emigrated children. The findings were highlighted ahead of World Mental Health Day on October 10.",
+      "background": "World Mental Health Day is observed annually on October 10 to raise awareness about mental health issues. Studies like these shed light on specific demographic groups and their mental well-being challenges, such as the elderly experiencing loneliness due to children living abroad.",
+      "examRelevance": "NIMHANS study = loneliness, psychological distress in parents of emigrated children.",
+      "tags": [
+        "NIMHANS",
+        "Loneliness",
+        "Menta lHealth",
+        "Emigrated Children"
+      ],
+      "source": {
+        "title": "NIMHANS study finds loneliness linked to psychological distress, excessive series watching among parents of emigrated children",
+        "url": "https://www.thehindu.com/news/national/karnataka/nimhans-study-finds-loneliness-linked-to-psychological-distress-excessive-series-watching-among-parents-of-emigrated-children/article71564189.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q29",
+      "question": "Telangana CM Revanth Reddy recently called for the implementation of a Personal Rapid Transit (PRT) system to improve public transport in which city?",
+      "options": [
+        "Karimnagar",
+        "Warangal",
+        "Hyderabad",
+        "Nizamabad"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Telangana CM Revanth Reddy recently called for the implementation of a Personal Rapid Transit (PRT) system to improve public transport in Hyderabad. He emphasized the need to prioritize advanced technology, careful location selection, and efficient maintenance for the system.",
+      "background": "Personal Rapid Transit (PRT) systems are automated, driverless vehicles that operate on a dedicated guideway network, offering on-demand, non-stop transportation. Such systems are considered for improving last-mile connectivity and reducing traffic congestion in large cities.",
+      "examRelevance": "Telangana CM Revanth Reddy = called for PRT system in Hyderabad.",
+      "tags": [
+        "Telangana",
+        "Revanth Reddy",
+        "PRT System",
+        "Hyderabad"
+      ],
+      "source": {
+        "title": "Telangana CM Revanth calls for Personal Rapid Transit system to improve public transport in Hyderabad",
+        "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-calls-for-prt-system-to-improve-public-transport-in-hyderabad/article71567016.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-10-q30",
+      "question": "Which Indian speedster was noted for his quick learning and pace in the recent IND vs WI T20Is, with a comment stating he 'quickly understood he should be quick, and quick he was'?",
+      "options": [
+        "Mohammed Siraj",
+        "Mayank Yadav",
+        "Umran Malik",
+        "Arshdeep Singh"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Speedster Mayank Yadav was noted for his quick learning and pace in the recent IND vs WI T20Is. A report mentioned that he 'quickly understood he should be quick, and quick he was come the second T20I.'",
+      "background": "Mayank Yadav has emerged as a promising fast bowler for India, known for his high pace and ability to trouble batsmen. His performances in T20 internationals are being closely watched for future selections.",
+      "examRelevance": "Mayank Yadav = Indian speedster noted in IND vs WI T20Is.",
+      "tags": [
+        "Mayank Yadav",
+        "Cricket",
+        "T20Is",
+        "India vs West Indies"
+      ],
+      "source": {
+        "title": "IND vs WI T20Is | Keep it simple, keep it fast: Speedster Mayank lets it rip",
+        "url": "https://www.thehindu.com/sport/cricket/ind-vs-wi-t20is-keep-it-simple-keep-it-fast-speedster-mayank-lets-it-rip/article71567035.ece"
+      }
+    }
+  ]
+}
