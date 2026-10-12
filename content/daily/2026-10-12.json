@@ -1,0 +1,775 @@
+{
+  "id": "daily-2026-10-12",
+  "type": "daily",
+  "date": "2026-10-12",
+  "title": "Current Affairs — 12 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-12-q1",
+      "question": "What was the approximate total value of the development projects inaugurated by Prime Minister Narendra Modi in Chennai on October 11, 2026?",
+      "options": [
+        "₹15,000 crore",
+        "₹8,000 crore",
+        "₹10,000 crore",
+        "₹13,000 crore"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Prime Minister Narendra Modi inaugurated development projects worth approximately ₹13,000 crore in Chennai on October 11, 2026. These projects included the Phase 2 stretch of the Chennai Metro Rail.",
+      "background": "The inauguration marked a significant investment in Tamil Nadu's infrastructure and urban development, with the Chief Minister C. Joseph Vijay also present, committing to work together for the state's progress.",
+      "examRelevance": "PM Modi inaugurated ₹13,000 crore worth of development projects in Chennai, including Chennai Metro Rail Phase 2.",
+      "tags": [
+        "Chennai",
+        "PM Modi",
+        "Development Projects",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "PM Modi in Chennai updates | Prime Minister inaugurates Metro Rail's Phase 2 stretch, ₹13000-crore worth development projects",
+        "url": "https://www.thehindu.com/news/cities/chennai/chennai-metro-phase-two-inauguration-poonamallee-vadapalani-narendra-modi-visit-schedule-cm-vijay-meeting-live-updates/article71570613.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q2",
+      "question": "Which stretch of the Chennai Metro Rail Phase 2 was inaugurated by Prime Minister Narendra Modi on October 11, 2026?",
+      "options": [
+        "Vadapalani - Poonamallee",
+        "Koyambedu - Alandur",
+        "Anna Salai - Tambaram",
+        "Airport - Washermanpet"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "On October 11, 2026, Prime Minister Narendra Modi inaugurated the Chennai Metro Rail services on the Vadapalani-Poonamallee stretch, which is part of the Phase 2 expansion. The first train ran from Porur Bypass.",
+      "background": "The Chennai Metro Rail project aims to enhance urban connectivity and reduce traffic congestion in the rapidly growing metropolitan area. The Phase 2 work began six years prior to its inauguration.",
+      "examRelevance": "Chennai Metro Rail Phase 2 Vadapalani-Poonamallee stretch inaugurated by PM Modi.",
+      "tags": [
+        "Chennai Metro",
+        "Infrastructure",
+        "Tamil Nadu",
+        "PM Modi"
+      ],
+      "source": {
+        "title": "PM Modi in Chennai updates | Prime Minister inaugurates Metro Rail's Phase 2 stretch, ₹13000-crore worth development projects",
+        "url": "https://www.thehindu.com/news/cities/chennai/chennai-metro-phase-two-inauguration-poonamallee-vadapalani-narendra-modi-visit-schedule-cm-vijay-meeting-live-updates/article71570613.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q3",
+      "question": "What did the Supreme Court recently rule regarding preventive detention orders based on custodial confessions?",
+      "options": [
+        "Subjective satisfaction for preventive detention requires only a police officer's report.",
+        "Preventive detention orders can be sustained only with independent material supporting the confession.",
+        "Confessions made before a police officer are always inadmissible for preventive detention.",
+        "Custodial confession alone is sufficient for preventive detention."
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently held that a confession made before a police officer cannot, in the absence of independent material supporting it, constitute the basis for 'subjective satisfaction' required to sustain a preventive detention order.",
+      "background": "Preventive detention laws in India allow for the detention of individuals to prevent them from committing future crimes, distinct from punitive detention. The Supreme Court's ruling reinforces the need for corroborating evidence beyond mere confession to uphold such orders.",
+      "examRelevance": "SC ruled preventive detention orders require independent material to support custodial confessions.",
+      "tags": [
+        "Supreme Court",
+        "Preventive Detention",
+        "Custodial Confession",
+        "Judiciary"
+      ],
+      "source": {
+        "title": "What did the Supreme Court say about preventive detention based on custodial confession? | Explained",
+        "url": "https://www.thehindu.com/news/national/what-did-the-supreme-court-say-about-preventive-detention-based-on-custodial-confession-explained/article71532421.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q4",
+      "question": "Where did a recent drone attack on a tanker occur, resulting in two Indian seafarers missing and nine rescued?",
+      "options": [
+        "Bab-el-Mandeb Strait",
+        "Strait of Hormuz",
+        "Sohar Anchorage",
+        "Gulf of Aden"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "A drone attack on a tanker at Sohar Anchorage resulted in two Indian seafarers missing and nine rescued. Union Shipping Minister Sonowal stated that search-and-rescue operations were underway by the local Coast Guard.",
+      "background": "Sohar Anchorage is located off the coast of Oman in the Gulf of Oman, a critical maritime route for global oil trade. Such incidents highlight ongoing security concerns in the region's shipping lanes.",
+      "examRelevance": "Drone attack on tanker occurred at Sohar Anchorage, two Indian seafarers missing.",
+      "tags": [
+        "Drone Attack",
+        "Tanker",
+        "Indian Seafarers",
+        "Sohar Anchorage"
+      ],
+      "source": {
+        "title": "Two Indian seafarers missing, nine rescued after drone attack on tanker at Sohar Anchorage, says Sonowal",
+        "url": "https://www.thehindu.com/news/national/two-indian-seafarers-missing-nine-rescued-after-drone-attack-on-tanker-at-sohar-anchorage-says-sonowal/article71573679.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q5",
+      "question": "The Enforcement Directorate (ED) recently filed a prosecution complaint in a ponzi scam that duped over 35,000 investors. What was the approximate value of this scam?",
+      "options": [
+        "₹2,459 crore",
+        "₹1,500 crore",
+        "₹3,000 crore",
+        "₹2,000 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Enforcement Directorate (ED) filed a prosecution complaint in a ₹2,459 crore ponzi scam that had duped over 35,000 investors. The complaint signifies further legal action against the perpetrators.",
+      "background": "Ponzi schemes are fraudulent investment operations that pay returns to earlier investors with money taken from later investors. The ED is India's primary agency responsible for enforcing economic laws and fighting economic crime.",
+      "examRelevance": "ED filed prosecution complaint in ₹2,459 crore ponzi scam.",
+      "tags": [
+        "Enforcement Directorate",
+        "Ponzi Scam",
+        "Financial Crime",
+        "Investors"
+      ],
+      "source": {
+        "title": "ED files prosecution complaint in ₹2,459 crore ponzi scam; over 35,000 investors duped",
+        "url": "https://www.thehindu.com/news/national/karnataka/ed-files-prosecution-complaint-in-2459-crore-ponzi-scam-over-35000-investors-duped/article71567526.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q6",
+      "question": "Which High Court recently rejected an arbitrary fixed deposit (FD) interest rate cut from 7.75% to 3.5% citing non-renewal?",
+      "options": [
+        "Madras High Court",
+        "Calcutta High Court",
+        "Bombay High Court",
+        "Delhi High Court"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Delhi High Court recently rejected an arbitrary decision by a bank to cut the interest rate on a fixed deposit from 7.75% to 3.5%, citing non-renewal as the reason. The court found such a rate cut on this ground unacceptable.",
+      "background": "This ruling provides relief to depositors and reinforces consumer protection against unilateral and arbitrary actions by financial institutions regarding interest rates on deposits.",
+      "examRelevance": "Delhi High Court rejected arbitrary FD rate cut from 7.75% to 3.5%.",
+      "tags": [
+        "Delhi High Court",
+        "Fixed Deposit",
+        "Interest Rate",
+        "Banking"
+      ],
+      "source": {
+        "title": "FD rate cut from 7.75% to 3.5%; Delhi HC rejects it",
+        "url": "https://economictimes.indiatimes.com/wealth/legal/will/bank-reduced-interest-on-rs-5-89-crore-fd-from-7-75-to-3-5-citing-non-renewal-delhi-hc-rejects-arbitrary-rate-cut-on-this-ground/articleshow/134884399.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q7",
+      "question": "Who among the following Indian business leaders is set to receive France’s highest civilian honour?",
+      "options": [
+        "Ratan Tata",
+        "Sunil Bharti Mittal",
+        "Mukesh Ambani",
+        "Gautam Adani"
+      ],
+      "answerIndex": 1,
+      "category": "Awards & Honours",
+      "explanation": "Sunil Bharti Mittal, Chairman of Bharti Enterprises, is set to receive France’s highest civilian honour, which will be presented by President Macron. This recognition highlights his contributions to business and international relations.",
+      "background": "France's highest civilian award is the Legion of Honour (Légion d'honneur), established by Napoleon Bonaparte. It is bestowed upon individuals for their outstanding services to France, regardless of their nationality.",
+      "examRelevance": "Sunil Bharti Mittal to receive France’s highest civilian honour.",
+      "tags": [
+        "Sunil Bharti Mittal",
+        "France",
+        "Civilian Honour",
+        "Bharti Airtel"
+      ],
+      "source": {
+        "title": "Sunil Bharti Mittal to receive France’s top honour",
+        "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/sunil-bharti-mittal-to-receive-frances-highest-civilian-honour-from-president-macron/articleshow/134884764.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q8",
+      "question": "According to Minister Santosh Lad, what amount has India's national debt recently crossed?",
+      "options": [
+        "₹175 lakh crore",
+        "₹200 lakh crore",
+        "₹225 lakh crore",
+        "₹150 lakh crore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Minister Santosh Lad stated that India's national debt has recently crossed the mark of ₹225 lakh crore. This figure highlights the total outstanding liabilities of the central government.",
+      "background": "National debt comprises internal and external liabilities of the government. Its management is crucial for the country's economic stability and fiscal health, often a subject of political and economic debate.",
+      "examRelevance": "India's national debt crossed ₹225 lakh crore.",
+      "tags": [
+        "India",
+        "National Debt",
+        "Economy",
+        "Government Finance"
+      ],
+      "source": {
+        "title": "India’s national debt has crossed ₹225 lakh crore, says Minister Santosh Lad",
+        "url": "https://www.thehindu.com/news/national/karnataka/indias-national-debt-has-crossed-225-lakh-crore-says-minister-santosh-lad/article71572367.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q9",
+      "question": "What electoral process did the Odisha Chief Minister recently back, stating its necessity for free and fair elections?",
+      "options": [
+        "Special Intensive Revision (SIR) of electoral rolls",
+        "Mandatory biometric verification for voters",
+        "Electronic Voting Machine (EVM) audit",
+        "Introduction of postal ballots for all citizens"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Odisha Chief Minister recently backed the Special Intensive Revision (SIR) exercise of electoral rolls, stating that it is necessary for free and fair elections. He emphasized that duplicate entries, outdated records, and names of deceased persons can compromise voter list accuracy.",
+      "background": "The Special Intensive Revision (SIR) is a process undertaken by the Election Commission of India to update and purify electoral rolls, removing discrepancies and ensuring accuracy ahead of elections. However, it has also faced criticism regarding potential disenfranchisement.",
+      "examRelevance": "Odisha CM backed Special Intensive Revision (SIR) of electoral rolls.",
+      "tags": [
+        "Odisha",
+        "Chief Minister",
+        "Electoral Rolls",
+        "Election Commission",
+        "SIR"
+      ],
+      "source": {
+        "title": "Odisha CM backs SIR exercise, says it is necessary for free and fair elections",
+        "url": "https://www.thehindu.com/news/national/odisha/odisha-cm-backs-sir-exercise-says-it-is-necessary-for-free-and-fair-elections/article71573944.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q10",
+      "question": "Who has been recently appointed as the new Deputy Election Commissioner in the Election Commission of India (ECI)?",
+      "options": [
+        "Vivek Joshi",
+        "S.S. Sandhu",
+        "Gyanesh Kumar",
+        "Prakash Rajpurohit"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Prakash Rajpurohit has been recently appointed as the new Deputy Election Commissioner in the Election Commission of India (ECI). He fills the vacancy left by Sanjay Kumar’s premature repatriation.",
+      "background": "This appointment comes amid concerns raised by Election Commissioners S.S. Sandhu and Vivek Joshi over work hierarchy, specifically regarding IT department files not being routed through CEC Gyanesh Kumar.",
+      "examRelevance": "Prakash Rajpurohit appointed new Deputy Election Commissioner in ECI.",
+      "tags": [
+        "Election Commission of India",
+        "Deputy Election Commissioner",
+        "Prakash Rajpurohit",
+        "ECI"
+      ],
+      "source": {
+        "title": "New Deputy Election Commissioner appointed in ECI amid concerns over work hierarchy",
+        "url": "https://www.thehindu.com/news/national/eci-appoints-new-deputy-election-commissioner-amid-hierarchy-concerns/article71570989.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q11",
+      "question": "Which anti-submarine warfare shallow water craft (ASW SWC) was recently inducted into the Indian Navy?",
+      "options": [
+        "INS Chennai",
+        "INS Kochi",
+        "INS Mormugao",
+        "INS Mangrol"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "The INS Mangrol, an anti-submarine warfare shallow water craft (ASW SWC), was recently inducted into the Indian Navy. It is built with over 80% indigenous content.",
+      "background": "The induction of INS Mangrol reflects India's growing capabilities in warship construction and the integration of indigenous weapons and sensors, bolstering coastal security and anti-submarine capabilities in shallow waters. It is the third such craft to be commissioned.",
+      "examRelevance": "INS Mangrol, an anti-submarine warfare shallow water craft, inducted into Indian Navy.",
+      "tags": [
+        "Indian Navy",
+        "INS Mangrol",
+        "Anti-Submarine Warfare",
+        "Warship"
+      ],
+      "source": {
+        "title": "INS Mangrol, anti-submarine warfare shallow water craft, inducted into Navy",
+        "url": "https://www.thehindu.com/news/national/ins-mangrol-anti-submarine-warfare-shallow-water-craft-inducted-into-navy/article71573861.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q12",
+      "question": "What amount was the Supreme Court directed the Mumbai Metropolitan Region Development Authority (MMRDA) to deposit in the Reliance BKC case?",
+      "options": [
+        "₹800 crore",
+        "₹323 crore",
+        "₹485 crore",
+        "₹646 crore"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently directed the Mumbai Metropolitan Region Development Authority (MMRDA) to deposit ₹646 crore in the Reliance BKC case. This order is part of an ongoing legal dispute.",
+      "background": "The Bandra-Kurla Complex (BKC) in Mumbai is a prominent business district. Disputes involving land and infrastructure projects often reach the Supreme Court for final adjudication, impacting large corporations and public bodies.",
+      "examRelevance": "SC directed MMRDA to deposit ₹646 crore in Reliance BKC case.",
+      "tags": [
+        "Supreme Court",
+        "MMRDA",
+        "Reliance Industries",
+        "BKC Case"
+      ],
+      "source": {
+        "title": "SC: MMRDA to deposit ₹646 cr in Reliance BKC case",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/supreme-court-asks-mmrda-to-deposit-rs-646-crore-in-reliance-industries-bkc-case/articleshow/134884362.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q13",
+      "question": "According to recent data, on how many days out of 382 did Visakhapatnam's air quality fall below 'satisfactory' over a 12-month period?",
+      "options": [
+        "259 days",
+        "150 days",
+        "300 days",
+        "200 days"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Recent data revealed that Visakhapatnam's air quality was worse than 'satisfactory' on 259 out of 382 days over a 12-month period. All 10 monitoring stations in the city breached the annual PM10 limit during this time.",
+      "background": "Visakhapatnam's bowl-shaped terrain and winter temperature inversion are identified as factors that trap pollutants, leading to worsened air quality, particularly during colder months. The APPCB scientist highlighted these environmental challenges.",
+      "examRelevance": "Visakhapatnam's air quality was below 'satisfactory' on 259 of 382 days.",
+      "tags": [
+        "Visakhapatnam",
+        "Air Quality",
+        "PM10",
+        "Pollution"
+      ],
+      "source": {
+        "title": "Visakhapatnam’s air was worse than ‘satisfactory’ on 259 of 382 days; data show winter brings the worst",
+        "url": "https://www.thehindu.com/news/cities/Visakhapatnam/visakhapatnams-air-was-poor-or-worse-on-41-of-60-winter-days-pollution-board-data-show/article71567623.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q14",
+      "question": "What specific concern did the United Planters' Association of Southern India (UPASI) point out regarding the draft Western Ghats Ecologically Sensitive Area (ESA) notification?",
+      "options": [
+        "Critical lack of clarity on agricultural land use",
+        "Absence of provisions for mineral extraction",
+        "Insufficient allocation for wildlife corridors",
+        "Lack of clarity on tourism activities"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The United Planters' Association of Southern India (UPASI) pointed out a critical lack of clarity in the draft Western Ghats Ecologically Sensitive Area (ESA) notification. While the preamble mentions land can be used for agricultural purposes, UPASI insisted this must be explicitly codified into the operative part of the notification.",
+      "background": "The Western Ghats are a UNESCO World Heritage Site and one of the world's eight 'hottest hotspots' of biological diversity. The ESA notification aims to regulate activities in these sensitive areas to balance conservation with the livelihoods of local communities, particularly those dependent on agriculture.",
+      "examRelevance": "UPASI raised concerns about clarity on agricultural land use in Western Ghats ESA notification.",
+      "tags": [
+        "Western Ghats",
+        "Ecologically Sensitive Area",
+        "ESA Notification",
+        "UPASI",
+        "Agriculture"
+      ],
+      "source": {
+        "title": "Policy, production concerns dominate KPA annual media briefing",
+        "url": "https://www.thehindu.com/business/Industry/policy-production-concerns-dominatekpa-annual-media-briefing/article71572058.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q15",
+      "question": "Who is set to play OpenAI CEO Sam Altman in the upcoming film 'Artificial'?",
+      "options": [
+        "Ryan Gosling",
+        "Andrew Garfield",
+        "Tom Hanks",
+        "Leonardo DiCaprio"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "Andrew Garfield is set to play OpenAI CEO Sam Altman in the upcoming film 'Artificial'. The film will unfold over two decades, chronicling the conception and growth of the artificial intelligence company behind ChatGPT.",
+      "background": "OpenAI is a leading artificial intelligence research and deployment company, known for developing advanced AI models like ChatGPT. The film aims to explore the creators and the impact of this 'new world' of AI.",
+      "examRelevance": "Andrew Garfield plays OpenAI CEO Sam Altman in the film 'Artificial'.",
+      "tags": [
+        "OpenAI",
+        "Sam Altman",
+        "Artificial",
+        "Andrew Garfield",
+        "Film"
+      ],
+      "source": {
+        "title": "OpenAI film 'Artificial' turns lens on creators of 'new world,’ Andrew Garfield says",
+        "url": "https://www.thehindu.com/sci-tech/technology/openai-film-artificial-turns-lens-on-creators-of-new-world-andrew-garfield-says/article71573676.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q16",
+      "question": "A final survey has begun to connect which two cities by a direct railway line, despite being only 60 km apart?",
+      "options": [
+        "Mathura and Aligarh",
+        "Lucknow and Varanasi",
+        "Bareilly and Moradabad",
+        "Agra and Kanpur"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "A final survey has begun to connect Mathura and Aligarh by a direct railway line. These two cities, despite being only 60 km apart, have not had a direct railway connection for 79 years since independence.",
+      "background": "The establishment of this rail link is expected to significantly improve connectivity and facilitate economic and social integration between these two important cities in Uttar Pradesh. Vande Bharat extension is also on the cards for the region.",
+      "examRelevance": "Final survey begins for Mathura-Aligarh direct rail link.",
+      "tags": [
+        "Mathura",
+        "Aligarh",
+        "Railway Link",
+        "Infrastructure",
+        "Uttar Pradesh"
+      ],
+      "source": {
+        "title": "Mathura-Aligarh rail link: Final survey begins",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/railways/just-60-km-apart-yet-no-direct-railway-line-even-after-79-years-of-independence-railways-begin-final-survey-to-connect-mathura-aligarh-vande-bharat-extension-also-on-the-cards/articleshow/134882729.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q17",
+      "question": "Which country's approach to testing AI models did the US recently reverse its course on, indicating a shift in its stance on binding safety requirements?",
+      "options": [
+        "Japan",
+        "China",
+        "Germany",
+        "Britain"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The US recently reversed its course on Britain's approach to testing AI models. This shift indicates a change in the US position, as President Trump, who had previously dismissed calls for binding safety requirements on AI developers, appears to be adopting a different stance.",
+      "background": "International cooperation and differing regulatory philosophies are key aspects of global AI governance. The US's shift could influence future global standards and collaborations in AI development and safety.",
+      "examRelevance": "US reversed course on Britain's testing of AI models.",
+      "tags": [
+        "US",
+        "AI Models",
+        "Britain",
+        "Technology Policy",
+        "Artificial Intelligence"
+      ],
+      "source": {
+        "title": "US reverses course on Britain's testing of AI models",
+        "url": "https://www.thehindu.com/sci-tech/technology/us-reverses-course-on-britains-testing-of-ai-models/article71573685.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q18",
+      "question": "Which two Latin American countries had their ministers sanctioned by China recently due to their ties with Taiwan?",
+      "options": [
+        "Chile and Peru",
+        "Brazil and Argentina",
+        "Paraguay and Belize",
+        "Mexico and Colombia"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "China recently sanctioned ministers from Paraguay and Belize due to their continued diplomatic ties with Taiwan. These sanctions are part of China's broader strategy to isolate Taiwan internationally.",
+      "background": "China considers Taiwan a breakaway province and insists that countries adhere to its 'One China' policy, which prohibits diplomatic recognition of both Beijing and Taipei. Many Latin American and Caribbean nations maintain official diplomatic relations with Taiwan, leading to recurring diplomatic tensions.",
+      "examRelevance": "China sanctioned Paraguay and Belize ministers over Taiwan ties.",
+      "tags": [
+        "China",
+        "Taiwan",
+        "Sanctions",
+        "Paraguay",
+        "Belize",
+        "Latin America"
+      ],
+      "source": {
+        "title": "China sanctions LatAm ministers over Taiwan ties",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/china-sanctions-paraguay-belize-ministers-over-taiwan-ties/articleshow/134882832.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q19",
+      "question": "Which country recently lifted sanctions on the sale of Russian diesel in global markets, following an agreement between its President and Russian President Vladimir Putin?",
+      "options": [
+        "Canada",
+        "United Kingdom",
+        "European Union",
+        "United States"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The United States recently lifted sanctions on the sale of Russian diesel in global markets. This announcement by the US Department of Treasury came minutes after US President Donald Trump spoke with Russian President Vladimir Putin and struck a deal to supply diesel to American and global markets.",
+      "background": "Sanctions on Russian energy products were imposed in response to geopolitical events. The lifting of these sanctions could have significant implications for global energy markets, crude oil prices, and international relations.",
+      "examRelevance": "US lifted sanctions on the sale of Russian diesel in global markets.",
+      "tags": [
+        "US",
+        "Russia",
+        "Sanctions",
+        "Diesel",
+        "Global Markets",
+        "Energy"
+      ],
+      "source": {
+        "title": "U.S. lifts sanctions on sale of Russian diesel in global markets",
+        "url": "https://www.thehindu.com/news/international/us-lifts-sanctions-on-sale-of-russian-diesel-in-global-markets/article71565823.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q20",
+      "question": "Which state's Vigilance and Anti-Corruption Bureau (VACB) recently registered two FIRs in the CMRL pay-off case, naming Chief Minister Pinarayi Vijayan and his family members among the accused?",
+      "options": [
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh",
+        "Keralam"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Keralam's Vigilance and Anti-Corruption Bureau (VACB) recently registered two FIRs in the CMRL pay-off case. Among the accused are Chief Minister Pinarayi Vijayan, his daughter Veena, and son-in-law Mohamed Riyas.",
+      "background": "The transactions in question initially came under scrutiny following investigations by the Income Tax Department and subsequent action by the Enforcement Directorate. The case involves alleged illegal payments made to CMRL and its related entities.",
+      "examRelevance": "Keralam VACB registered FIRs in CMRL pay-off case, naming CM Pinarayi Vijayan.",
+      "tags": [
+        "Keralam",
+        "VACB",
+        "CMRL Payoff Case",
+        "Pinarayi Vijayan",
+        "Corruption"
+      ],
+      "source": {
+        "title": "CMRL pay-off case: Keralam VACB registers two FIRs, Pinarayi Vijayan, Veena, Mohamed Riyas among accused",
+        "url": "https://www.thehindu.com/news/national/kerala/cmrl-pay-off-case-keralamvacb-registers-two-firs-pinarayi-vijayan-veena-mohamed-riyas-among-accused/article71573840.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q21",
+      "question": "N.M. Salim, who recently passed away, was a noted personality in which field?",
+      "options": [
+        "Architecture",
+        "Literature",
+        "Classical Dance",
+        "Sports"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Noted architect N.M. Salim recently passed away. He was active in the architecture field for over five decades, playing a key role in transforming the face of urban centres in Keralam and other South Indian States.",
+      "background": "N.M. Salim's contributions to architecture have left a significant mark on the urban landscape of South India. His legacy includes numerous iconic structures and innovative designs that influenced regional development.",
+      "examRelevance": "Noted architect N.M. Salim passed away.",
+      "tags": [
+        "N.M. Salim",
+        "Obituary",
+        "Architect",
+        "Kerala"
+      ],
+      "source": {
+        "title": "Noted architect N.M. Salim passes away",
+        "url": "https://www.thehindu.com/news/national/kerala/noted-architect-nm-salim-passes-away/article71573692.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q22",
+      "question": "What was the Indian Rupee's value against the U.S. dollar in early trade after a recent jump of 91 paise?",
+      "options": [
+        "95.80",
+        "94.89",
+        "96.71",
+        "97.50"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Indian Rupee jumped 91 paise to trade at 95.80 against the U.S. dollar in early trade. Forex analysts anticipate that measures taken are expected to help the Indian currency sustain pressure from elevated crude oil prices and a strong dollar.",
+      "background": "Currency fluctuations are influenced by various factors including interest rates, inflation, trade balances, and central bank interventions. A stronger rupee can make imports cheaper and help curb inflation.",
+      "examRelevance": "Indian Rupee jumped to 95.80 against US dollar.",
+      "tags": [
+        "Indian Rupee",
+        "US Dollar",
+        "Forex Market",
+        "Currency Exchange"
+      ],
+      "source": {
+        "title": "Rupee jumps 91 paise to 95.80 against U.S. dollar in early trade",
+        "url": "https://www.thehindu.com/business/markets/rupee-jumps-91-paise-to-9580-against-us-dollar-in-early-trade/article71573788.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q23",
+      "question": "Which Chief Justice of India (CJI) recently declined to meet leaders of the INDIA bloc who sought to submit a memorandum regarding alleged 'vote chori' and the Special Intensive Revision (SIR) of electoral rolls?",
+      "options": [
+        "Justice U.U. Lalit",
+        "Justice N.V. Ramana",
+        "Justice D.Y. Chandrachud",
+        "Justice Surya Kant"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Chief Justice of India (CJI) Surya Kant recently declined to meet leaders of the INDIA bloc, including Rahul Gandhi and Mallikarjun Kharge, who intended to submit a memorandum concerning alleged 'vote chori' and the Special Intensive Revision (SIR) of electoral rolls. The CJI stated that the issues were already sub judice.",
+      "background": "The INDIA bloc's planned march to the Supreme Court was part of a series of protests against the Election Commission of India and its Chief Election Commissioner Gyanesh Kumar, particularly regarding the SIR exercise. The CJI's refusal underscored the judiciary's stance on not intervening in matters that are actively being litigated or are political in nature.",
+      "examRelevance": "CJI Surya Kant declined to meet INDIA bloc leaders over 'vote chori' and SIR.",
+      "tags": [
+        "CJI",
+        "Surya Kant",
+        "INDIA bloc",
+        "Electoral Rolls",
+        "Protest"
+      ],
+      "source": {
+        "title": "CJI Surya Kant declines to meet INDIA bloc leaders on October 12 ‘with reasons’",
+        "url": "https://www.thehindu.com/news/national/cji-surya-kant-declines-to-meet-india-bloc-leaders-on-october-12-with-reasons/article71572588.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q24",
+      "question": "When are the Panchayati Raj polls in Rajasthan scheduled to be held?",
+      "options": [
+        "November 22 to December 16",
+        "October 22 to November 16",
+        "December 22 to January 16",
+        "September 22 to October 16"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Panchayati Raj polls in Rajasthan are scheduled to be held in four phases from October 22 to November 16. Former Chief Minister Gehlot cautioned Congress leaders about alleged misuse of police and administration by the BJP during these polls.",
+      "background": "Panchayat elections are crucial for local self-governance in India, determining leadership at the village, block, and district levels. They are often highly contested and seen as a barometer of political sentiment at the grassroots.",
+      "examRelevance": "Rajasthan Panchayat polls to be held from October 22 to November 16.",
+      "tags": [
+        "Rajasthan",
+        "Panchayat Polls",
+        "Elections",
+        "Dates",
+        "Panchayati Raj"
+      ],
+      "source": {
+        "title": "Gehlot cautions Congress leaders about ‘misuse’ of police, administration by BJP in Rajasthan Panchayat polls",
+        "url": "https://www.thehindu.com/news/national/rajasthan/gehlot-cautions-congress-leaders-about-misuse-of-police-administration-by-bjp-in-rajasthan-panchayat-polls/article71573819.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q25",
+      "question": "What is the current monthly cost of the Hyderabad Metro-Telangana RTC common mobility card that the Telangana government plans to reconsider?",
+      "options": [
+        "₹10,000",
+        "₹6,500",
+        "₹5,000",
+        "₹8,500"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Telangana government plans to reconsider the charges of the Hyderabad Metro-Telangana RTC common mobility card, which currently costs ₹8,500 per month. This cost includes Hyderabad Metro Rail’s share of ₹7,000 and TGSRTC’s share of ₹1,500.",
+      "background": "Common mobility cards aim to streamline public transport usage by integrating different modes of transport with a single payment system. Reconsidering charges could make public transport more accessible and affordable for commuters in Hyderabad.",
+      "examRelevance": "Hyderabad Metro-Telangana RTC common mobility card costs ₹8,500 monthly.",
+      "tags": [
+        "Hyderabad Metro",
+        "Telangana RTC",
+        "Common Mobility Card",
+        "Public Transport"
+      ],
+      "source": {
+        "title": "Telangana government to reconsider charges of Hyderabad Metro-Telangana RTC common mobility card",
+        "url": "https://www.thehindu.com/news/cities/Hyderabad/telangana-government-to-revise-charges-of-hyderabad-metro-telangana-rtc-common-mobility-card/article71573734.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q26",
+      "question": "A recent research finding indicates that which group of animals is suffering the most as Earth heats up?",
+      "options": [
+        "Older warm-blooded animals",
+        "Aquatic warm-blooded animals",
+        "Young cold-blooded animals",
+        "Adult cold-blooded animals"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Recent research has found that young cold-blooded animals are suffering the most as Earth heats up. Specifically, young, land-based cold-blooded animals were observed to be worse at acclimatising to rising temperatures compared to aquatic animals.",
+      "background": "Cold-blooded animals (poikilotherms) rely on external sources to regulate their body temperature, making them particularly vulnerable to climate change. The vulnerability of young individuals has significant implications for species survival and ecosystem stability in a warming world.",
+      "examRelevance": "Young cold-blooded animals suffer most from rising Earth temperatures.",
+      "tags": [
+        "Climate Change",
+        "Cold-blooded Animals",
+        "Global Warming",
+        "Research"
+      ],
+      "source": {
+        "title": "Young cold-blooded animals are suffering the most as Earth heats up, research finds",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/young-cold-blooded-animals-are-suffering-the-most-as-earth-heats-up-research-finds/article65913082.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q27",
+      "question": "What phenomenon in frogs, which is becoming more frequent due to global warming, is now identified as an extinction risk?",
+      "options": [
+        "Reduced reproductive cycles",
+        "Accelerated metamorphosis",
+        "Sex reversal",
+        "Increased predatory behaviour"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Global warming is making sex reversal in frogs more frequent, which is now identified as an extinction risk. In a population skewed towards one sex due to these changes, individuals may run out of mates to reproduce with, threatening their survival.",
+      "background": "Sex reversal, where an individual changes its sex during its lifetime, is a documented phenomenon in the animal kingdom. However, the increased frequency due to a warming planet disrupts population demographics and reproductive success, posing a serious threat to amphibian species already vulnerable to environmental changes.",
+      "examRelevance": "Global warming is turning frogs’ sex reversal into an extinction risk.",
+      "tags": [
+        "Global Warming",
+        "Frogs",
+        "Sex Reversal",
+        "Extinction Risk",
+        "Climate Change"
+      ],
+      "source": {
+        "title": "Global warming is turning frogs’ sex reversal into an extinction risk",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/global-warming-is-turning-frogs-sex-reversal-into-an-extinction-risk/article71570813.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q28",
+      "question": "How many people reportedly drowned to death in Bihar on the first day of the Dussehra festival?",
+      "options": [
+        "10 people",
+        "20 people",
+        "16 people",
+        "12 people"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "On the first day of the Dussehra festival, 16 people reportedly drowned to death in Bihar. Most of these death reports came from the districts of Muzaffarpur, Darbhanga, and Sitamarhi.",
+      "background": "Such tragic incidents often occur during festivals when large numbers of people gather near water bodies for rituals or celebrations, highlighting the need for increased safety measures and awareness.",
+      "examRelevance": "16 people drowned in Bihar on the first day of Dussehra.",
+      "tags": [
+        "Bihar",
+        "Drowning",
+        "Dussehra",
+        "Festival",
+        "Accidents"
+      ],
+      "source": {
+        "title": "16 people drowned to death in Bihar on the first day of Dussehra festival",
+        "url": "https://www.thehindu.com/news/national/bihar/16-people-drowned-to-death-in-bihar-on-the-first-day-of-dussehra-festival/article71573726.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q29",
+      "question": "After the recent oath-taking by two newly-elected MLAs, what is the current strength of the TVK party in the 234-member Tamil Nadu Assembly?",
+      "options": [
+        "105",
+        "111",
+        "107",
+        "109"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "With the recent oath-taking of newly-elected TVK MLAs Maragatham Kumaravel and Sathyabama, the strength of the TVK party in the 234-member Tamil Nadu Assembly has increased to 109.",
+      "background": "By-elections or mid-term elections can alter the party-wise composition of state legislative assemblies. The TVK is a political party in Tamil Nadu, and its increased strength can influence legislative proceedings and power dynamics.",
+      "examRelevance": "TVK's strength in Tamil Nadu Assembly rose to 109 after new MLAs took oath.",
+      "tags": [
+        "Tamil Nadu",
+        "TVK",
+        "MLAs",
+        "Assembly",
+        "Elections"
+      ],
+      "source": {
+        "title": "Newly-elected TVK MLAs Maragatham Kumaravel, Sathyabama take oath in Tamil Nadu",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/newly-elected-tvk-mlas-maragatham-kumaravel-and-p-sathyabama-take-oath/article71574063.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-12-q30",
+      "question": "In early September, two AI models made history by taking the top spots in which competition among prediction champions?",
+      "options": [
+        "Kaggle Grandmaster Challenge",
+        "Metaculus Cup",
+        "IBM Watson Prize",
+        "Google AI Prediction League"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "In early September, two AI models made history by taking the top spots in the Metaculus Cup, a competition among prediction champions, both human and nonhuman. This event highlighted the growing capabilities of AI in forecasting future events.",
+      "background": "Metaculus is a prediction platform that hosts forecasting challenges across various domains, including science, technology, and current events. The success of AI models in such competitions demonstrates advancements in machine learning and data analysis for predictive analytics.",
+      "examRelevance": "Two AI models won the Metaculus Cup prediction competition.",
+      "tags": [
+        "AI",
+        "Prediction",
+        "Metaculus Cup",
+        "Artificial Intelligence",
+        "Startups"
+      ],
+      "source": {
+        "title": "Startups are betting on AI to predict the future",
+        "url": "https://www.thehindu.com/sci-tech/technology/startups-are-betting-on-ai-to-predict-the-future/article71573682.ece"
+      }
+    }
+  ]
+}
