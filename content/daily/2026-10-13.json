@@ -1,0 +1,782 @@
+{
+  "id": "daily-2026-10-13",
+  "type": "daily",
+  "date": "2026-10-13",
+  "title": "Current Affairs — 13 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-13-q1",
+      "question": "Which Chief Justice of India headed the three-judge Bench that extended the time for the government to file its reply affidavit regarding allegations of illegal detention?",
+      "options": [
+        "Justice U.U. Lalit",
+        "Justice N.V. Ramana",
+        "Justice Surya Kant",
+        "Justice D.Y. Chandrachud"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "A three-judge Bench headed by Chief Justice of India Surya Kant extended the time for the government to file a reply affidavit by October 15, 2026. The affidavit concerns allegations of illegal detention and a clampdown.",
+      "background": "The Supreme Court is hearing pleas related to alleged illegal detentions and curbs, which have been a point of contention recently. The government sought more time to fine-tune its response to these serious allegations.",
+      "examRelevance": "Chief Justice of India Surya Kant headed the bench extending time for the government's reply on detention allegations.",
+      "tags": [
+        "Chief Justice of India",
+        "Surya Kant",
+        "Supreme Court",
+        "Illegal Detention"
+      ],
+      "source": {
+        "title": "Response to allegations of illegal detention, clampdown ready, but needs fine-tuning: Government",
+        "url": "https://www.thehindu.com/news/national/response-to-allegations-of-illegal-detention-clampdown-ready-but-needs-fine-tuning-government/article71578376.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q2",
+      "question": "Which US President announced an 'energy ceasefire' between Russia and Ukraine as part of a deal allowing Russia to sell diesel to the US and global markets?",
+      "options": [
+        "Joe Biden",
+        "Donald Trump",
+        "George W. Bush",
+        "Barack Obama"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "U.S. President Donald Trump announced an 'energy ceasefire' between Russia and Ukraine. This announcement was made alongside a deal that permits Russia to sell diesel to the U.S. and global markets.",
+      "background": "The U.S.-Russia diesel deal and the 'energy ceasefire' are significant developments in international energy politics and the ongoing conflict between Russia and Ukraine, impacting global energy markets.",
+      "examRelevance": "US President Donald Trump announced an 'energy ceasefire' between Russia and Ukraine.",
+      "tags": [
+        "Donald Trump",
+        "Russia",
+        "Ukraine",
+        "Energy Ceasefire"
+      ],
+      "source": {
+        "title": "How does the U.S.-Russia diesel deal impact India | Explained",
+        "url": "https://www.thehindu.com/news/national/how-does-the-us-russia-diesel-deal-impact-india/article71578205.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q3",
+      "question": "The Kerala State Pollution Control Board directed Kochi Corporation to stop vehicle washing and waste dumping near which river at Brahmapuram?",
+      "options": [
+        "Kadambrayar River",
+        "Bharathappuzha River",
+        "Pamba River",
+        "Periyar River"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The Kerala State Pollution Control Board has asked the Kochi Corporation to cease vehicle washing and waste dumping activities near the Kadambrayar River at the Brahmapuram dumping site. Inspections revealed that vehicles transporting food waste were being washed there.",
+      "background": "Pollution of water bodies near waste dumping sites is a recurring environmental issue. The directive aims to protect the Kadambrayar River from further contamination due to improper waste management practices.",
+      "examRelevance": "Kochi Corporation directed to stop pollution near Kadambrayar river at Brahmapuram.",
+      "tags": [
+        "Kerala",
+        "Kochi Corporation",
+        "Pollution Control Board",
+        "Kadambrayar River",
+        "Brahmapuram"
+      ],
+      "source": {
+        "title": "Keralam pollution control board asks Kochi Corporation to stop vehicle washing, waste dumping near Kadambrayar at Brahmapuram",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-pollution-control-board-asks-kochi-corporation-to-stop-vehicle-washing-waste-dumping-near-kadambrayar-at-brahmapuram/article71578110.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q4",
+      "question": "Which veteran Malayalam author's new book, '50 Stories', was recently reviewed?",
+      "options": [
+        "Kamala Das",
+        "M.T. Vasudevan Nair",
+        "O.V. Vijayan",
+        "Paul Zacharia"
+      ],
+      "answerIndex": 3,
+      "category": "Books & Authors",
+      "explanation": "Veteran Malayalam author Paul Zacharia's new book, '50 Stories', was recently reviewed. The collection is noted for its rich blend of the ordinary and the bizarre, showcasing his distinctive and fearless writing style.",
+      "background": "Paul Zacharia is a renowned figure in Malayalam literature, celebrated for his unique narrative voice and experimental approach to storytelling. '50 Stories' contributes to his extensive body of work.",
+      "examRelevance": "Paul Zacharia's '50 Stories' recently reviewed.",
+      "tags": [
+        "Paul Zacharia",
+        "50 Stories",
+        "Malayalam Literature",
+        "Book Review"
+      ],
+      "source": {
+        "title": "Review | Paul Zacharia’s ‘50 Stories’ is a rich blend of the ordinary and the bizarre",
+        "url": "https://www.thehindu.com/books/books-reviews/50-stories-paul-zacharia-blending-ordinary-and-bizarre/article71545777.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q5",
+      "question": "Which two Indian cricketers were recently honoured with the ICC ‘Player of the Month’ awards?",
+      "options": [
+        "Shubman Gill and Shafali Verma",
+        "Rohit Sharma and Smriti Mandhana",
+        "Virat Kohli and Harmanpreet Kaur",
+        "Rishabh Pant and Deepti Sharma"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Indian cricketers Shubman Gill and Shafali Verma were recently honoured with the ICC ‘Player of the Month’ awards. This marks the fifth instance where players from the same national board have swept both the men's and women's awards in a single month.",
+      "background": "The ICC Player of the Month awards recognize outstanding performances in international cricket across both men's and women's categories. Indian players have previously achieved this feat on two occasions.",
+      "examRelevance": "Shubman Gill and Shafali Verma won ICC Player of the Month awards.",
+      "tags": [
+        "Shubman Gill",
+        "Shafali Verma",
+        "ICC Player of the Month",
+        "Cricket"
+      ],
+      "source": {
+        "title": "Shubman Gill and Shafali Verma honoured with ICC ‘Player of the Month’",
+        "url": "https://www.thehindu.com/sport/cricket/shubman-gill-and-shafali-verma-honoured-with-icc-player-of-the-month/article71578352.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q6",
+      "question": "Who among the following, a South African judge of Indian origin, recently won the Nobel Peace Prize?",
+      "options": [
+        "Abiy Ahmed Ali",
+        "Kailash Satyarthi",
+        "Malala Yousafzai",
+        "Navanethem \"Navi\" Pillay"
+      ],
+      "answerIndex": 3,
+      "category": "Awards & Honours",
+      "explanation": "Navanethem “Navi” Pillay, a South African judge of Indian origin, recently won the Nobel Peace Prize. She is recognized for her significant contributions to human rights and international justice.",
+      "background": "Navi Pillay has a distinguished career in law and human rights, including serving as a judge on the International Criminal Court and as the United Nations High Commissioner for Human Rights. The Nobel Peace Prize is one of the most prestigious international awards.",
+      "examRelevance": "Navanethem \"Navi\" Pillay won the Nobel Peace Prize.",
+      "tags": [
+        "Navi Pillay",
+        "Nobel Peace Prize",
+        "South Africa",
+        "Indian Origin",
+        "Awards"
+      ],
+      "source": {
+        "title": "Nobel Prize 2026: Full list of this year’s winners",
+        "url": "https://www.thehindu.com/news/international/nobel-prize-2026-date-timings-ist-how-to-watch/article71546193.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q7",
+      "question": "Tyagi Sankaralinganar, to whom Tamil Nadu CM Vijay paid homage, sacrificed his life after a 76-day hunger strike primarily demanding what?",
+      "options": [
+        "Abolition of the Zamindari system",
+        "Inclusion of Tamil in the Eighth Schedule",
+        "Formation of Andhra Pradesh",
+        "Renaming the state as Tamil Nadu"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Tamil Nadu CM Vijay paid homage to Tyagi Sankaralinganar on his death anniversary. Sankaralinganar sacrificed his life after observing a 76-day hunger strike, with his principal demand being the renaming of the state as Tamil Nadu.",
+      "background": "Sankaralinganar's hunger strike in 1956 was a pivotal moment in the movement for renaming Madras State to Tamil Nadu, a demand that was eventually met in 1969. His sacrifice is remembered as a significant event in Tamil Nadu's political history.",
+      "examRelevance": "Tyagi Sankaralinganar demanded renaming the state as Tamil Nadu.",
+      "tags": [
+        "Tyagi Sankaralinganar",
+        "Tamil Nadu",
+        "Hunger Strike",
+        "State Renaming"
+      ],
+      "source": {
+        "title": "Tamil Nadu CM Vijay pays homage to Tyagi Sankaralinganar on his death anniversary",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-pays-homage-to-tyagi-sankaralinganar-on-his-death-anniversary/article71577903.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q8",
+      "question": "Which railway bridge, known as the world's highest railway arch bridge, is set to open a tourists' viewing deck?",
+      "options": [
+        "Pamban Bridge",
+        "Vidyasagar Setu",
+        "Chenab Rail Bridge",
+        "Bogibeel Bridge"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "The Chenab Rail Bridge, which is acclaimed as the world's highest railway arch bridge, is slated to open a new viewing deck for tourists. This will allow visitors to witness panoramic views of the Himalayan peaks from a height of 359 metres above the riverbed.",
+      "background": "The Chenab Bridge is an engineering marvel, part of the Udhampur-Srinagar-Baramulla Rail Link (USBRL) project in Jammu and Kashmir. Its opening to tourists is expected to boost tourism in the region.",
+      "examRelevance": "Chenab rail bridge, world's highest railway arch bridge, to open viewing deck.",
+      "tags": [
+        "Chenab Bridge",
+        "Railway Bridge",
+        "Tourism",
+        "Jammu and Kashmir",
+        "Engineering"
+      ],
+      "source": {
+        "title": "Chenab rail bridge to open tourists viewing deck",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/railways/chenab-railway-bridge-to-open-new-tourists-viewing-deck-vistors-will-see-himalayan-peaks-from-the-worlds-highest-railway-arch-bridge-standing-359-metres-above-riverbed/articleshow/134910828.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q9",
+      "question": "Which historical site in Delhi has recently been de-notified by the Delhi Police as a designated protest site?",
+      "options": [
+        "Red Fort",
+        "India Gate",
+        "Jantar Mantar",
+        "Qutub Minar"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Delhi Police has recently de-notified Jantar Mantar as a designated protest site. Alternative venues like Ramlila Ground, Burari Ground, and CBD Ground have been named, a decision that has drawn criticism from activists.",
+      "background": "Jantar Mantar has historically been a prominent site for protests and demonstrations due to its proximity to Parliament. The de-notification aims to regulate protests, but activists argue it curtails their ability to make their voices heard effectively.",
+      "examRelevance": "Jantar Mantar de-notified as a protest site by Delhi Police.",
+      "tags": [
+        "Jantar Mantar",
+        "Delhi Police",
+        "Protest Site",
+        "Delhi"
+      ],
+      "source": {
+        "title": "Delhi Police de-notifies Jantar Mantar as protest site; activists slam decision",
+        "url": "https://www.thehindu.com/news/cities/Delhi/jantar-mantar-no-longer-legal-protest-site-three-alternative-sites-designated-by-delhi-police/article71574232.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q10",
+      "question": "According to Knight Frank, what percentage rise did Hyderabad record in office leasing in the first nine months of 2026?",
+      "options": [
+        "25%",
+        "75%",
+        "100%",
+        "50%"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Hyderabad recorded a 50% rise in office leasing during the first nine months of 2026, crossing 13.1 million sq ft. Global Capability Centres (GCCs) accounted for 47% of the total office transactions, while flexible workspaces contributed 26%.",
+      "background": "The increase in office leasing indicates robust growth in Hyderabad's commercial real estate sector. This trend is driven by the expansion of GCCs and the growing demand for flexible workspace solutions.",
+      "examRelevance": "Hyderabad recorded a 50% rise in office leasing in the first nine months of 2026.",
+      "tags": [
+        "Hyderabad",
+        "Office Leasing",
+        "Knight Frank",
+        "Real Estate",
+        "Economy"
+      ],
+      "source": {
+        "title": "Hyderabad records 50% rise in office leasing, crosses 13.1 million sq ft in nine months of 2026: Knight Frank",
+        "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-records-50-rise-in-office-leasing-crosses-131-million-sq-ft-in-nine-months-of-2026-knight-frank/article71575028.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q11",
+      "question": "Which Ukrainian-owned ship recently sank off Bulgaria’s Black Sea coast after being hit by three drones?",
+      "options": [
+        "Chelsea 3",
+        "Starlink Express",
+        "MV Rubymar",
+        "MV True Confidence"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The Ukrainian-owned ship “Chelsea 3” sank off Bulgaria’s Black Sea coast after being hit by three drones. Bulgarian Prime Minister Rumen Radev confirmed the incident, stating that all crew members were rescued.",
+      "background": "This incident marks the second such occurrence in a week, highlighting ongoing maritime security concerns in the Black Sea region amidst the conflict in Ukraine. Drone attacks on shipping vessels pose significant risks to international trade and safety.",
+      "examRelevance": "Ukrainian-owned ship 'Chelsea 3' sank off Bulgaria's Black Sea coast.",
+      "tags": [
+        "Ukraine",
+        "Bulgaria",
+        "Black Sea",
+        "Drones",
+        "Chelsea 3"
+      ],
+      "source": {
+        "title": "Drone sinks Ukrainian-owned ship off Bulgaria’s Black Sea coast, Bulgarian Prime Minister says",
+        "url": "https://www.thehindu.com/news/international/drone-sinks-ukrainian-owned-ship-off-bulgarias-black-sea-coast-bulgarian-prime-minister-says/article71578213.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q12",
+      "question": "India's NSA Ajit Doval recently discussed 'latest developments' with his Iranian counterpart after ships were attacked in which Strait?",
+      "options": [
+        "Strait of Gibraltar",
+        "Strait of Malacca",
+        "Bab-el-Mandeb Strait",
+        "Strait of Hormuz"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "India's National Security Advisor Ajit Doval held discussions with his Iranian counterpart regarding 'latest developments' following attacks on ships in the Strait of Hormuz. Two Indians remain missing after the Sunday attacks.",
+      "background": "The Strait of Hormuz is a crucial maritime chokepoint for global oil shipments, and attacks in this region have significant implications for international trade and regional stability. The IRGC Navy has also issued warnings to merchant vessels.",
+      "examRelevance": "Ships attacked in the Strait of Hormuz discussed by India's NSA and Iran's NSA.",
+      "tags": [
+        "Ajit Doval",
+        "Iran",
+        "Strait of Hormuz",
+        "Maritime Security",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Doval speaks to Iran NSA, discusses ‘latest developments’ after ships attacked in Hormuz",
+        "url": "https://www.thehindu.com/news/national/doval-speaks-to-iran-nsa-discusses-latest-developments-after-ships-attacked-in-hormuz/article71576822.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q13",
+      "question": "Who is the current Prime Minister of Bangladesh who recently assured minorities of equal rights and security?",
+      "options": [
+        "Tarique Rahman",
+        "Sheikh Hasina",
+        "Khaleda Zia",
+        "Muhammad Yunus"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Bangladesh Prime Minister Tarique Rahman assured Hindu community leaders of equal rights and security for minorities. He stated that ensuring every citizen’s rights, irrespective of religion, is his responsibility, ahead of heightened security for Durga Puja.",
+      "background": "Concerns about minority rights and security are often raised in Bangladesh, particularly during religious festivals. The Prime Minister's assurance aims to foster confidence among minority communities.",
+      "examRelevance": "Tarique Rahman is the Prime Minister of Bangladesh.",
+      "tags": [
+        "Tarique Rahman",
+        "Bangladesh",
+        "Minority Rights",
+        "Durga Puja"
+      ],
+      "source": {
+        "title": "Bangladesh PM assures minorities of equal rights, security",
+        "url": "https://www.thehindu.com/news/international/bangladesh-pm-assures-minorities-of-equal-rights-security/article71578216.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q14",
+      "question": "What is the name of the $600 million electric bus platform that National Investment and Infrastructure Fund (NIIF) plans to launch?",
+      "options": [
+        "E-Swift",
+        "GreenWheels",
+        "Avega Mobility",
+        "ElectroBus"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The National Investment and Infrastructure Fund (NIIF) CEO Sanjiv Aggarwal announced plans to launch Avega Mobility, a $600 million electric bus platform. NIIF also intends to sell a 40% stake in its power transmission unit, AnantGrid.",
+      "background": "NIIF is India's sovereign wealth fund, focused on infrastructure development. The launch of Avega Mobility aligns with India's push towards green mobility and sustainable transportation solutions, attracting significant investment in the e-mobility sector.",
+      "examRelevance": "NIIF plans to launch Avega Mobility, a $600 million electric bus platform.",
+      "tags": [
+        "NIIF",
+        "Avega Mobility",
+        "Electric Buses",
+        "E-mobility",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "NIIF plans $600 mn e-mobility platform Avega, 40% stake sale in AnantGrid power: MD CEO Sanjiv Aggarwal",
+        "url": "https://www.livemint.com/economy/niif-avega-mobility-green-transition-fund-investment-plans-11791858679095.html"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q15",
+      "question": "Which High Court recently upheld the Tamil Nadu Assembly Speaker’s decision to accept the resignations of six AIADMK MLAs?",
+      "options": [
+        "Madras High Court",
+        "Bombay High Court",
+        "Karnataka High Court",
+        "Kerala High Court"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Madras High Court recently upheld the Tamil Nadu Assembly Speaker’s decision to accept the resignations of six AIADMK MLAs. A bench comprising Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan, however, directed the Speaker to conclude disqualification proceedings against four of these MLAs within two months.",
+      "background": "This ruling addresses a significant political development in Tamil Nadu, impacting the composition of the state assembly and the dynamics between political parties. Disqualification proceedings are a crucial aspect of legislative governance.",
+      "examRelevance": "Madras High Court upheld TN Assembly Speaker's decision on AIADMK MLAs' resignations.",
+      "tags": [
+        "Madras High Court",
+        "Tamil Nadu Assembly",
+        "AIADMK",
+        "MLAs",
+        "Resignations"
+      ],
+      "source": {
+        "title": "Madras High Court upholds Tamil Nadu Assembly Speaker’s decision to accept resignations of six AIADMK MLAs",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-upholds-tamil-nadu-assembly-speakers-decision-to-accept-resignations-of-six-aiadmk-mlas/article71577841.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q16",
+      "question": "From which date did the Kerala Hotels and Restaurants Association announce it would stop accepting UPI payments above ₹2,000 due to the introduction of a 0.4% UPI Merchant Discount Rate (MDR)?",
+      "options": [
+        "October 15",
+        "October 1",
+        "November 1",
+        "November 15"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Kerala Hotels and Restaurants Association announced that its members will stop accepting UPI payments above ₹2,000 from October 15. This decision follows the introduction of a 0.4% UPI Merchant Discount Rate (MDR), which the association states will impose an additional financial burden on small establishments.",
+      "background": "The introduction of MDR on UPI transactions for certain amounts has been a contentious issue, with merchant associations arguing against the additional costs. This move by the Kerala association highlights the impact of such policies on businesses.",
+      "examRelevance": "Kerala Hotels and Restaurants Association to stop UPI payments >₹2,000 from October 15.",
+      "tags": [
+        "Kerala",
+        "UPI",
+        "MDR",
+        "Hotels Association",
+        "Digital Payments"
+      ],
+      "source": {
+        "title": "MDR on UPI: Keralam hotels association says will stop accepting UPI payments above ₹2,000 from October 15",
+        "url": "https://www.thehindu.com/news/national/kerala/mdr-on-upi-keralam-hotels-association-says-will-stop-accepting-upi-payments-above-2000-from-october-15/article71578221.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q17",
+      "question": "In its latest World Economic Outlook report, what percentage did the IMF forecast for 2027 global growth, which remained unchanged?",
+      "options": [
+        "2.9%",
+        "3.4%",
+        "3.7%",
+        "3.1%"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "In its World Economic Outlook report, the International Monetary Fund (IMF) left its forecast for 2027 global growth unchanged at 3.4%. While it upgraded the 2026 growth forecast, it warned of a 'split' outlook for the global economy.",
+      "background": "The IMF's World Economic Outlook is a key report that provides analysis and forecasts of global economic developments. These forecasts are crucial for policymakers and investors to understand future economic trends and challenges.",
+      "examRelevance": "IMF forecast for 2027 global growth remained unchanged at 3.4%.",
+      "tags": [
+        "IMF",
+        "World Economic Outlook",
+        "Global Growth",
+        "Economic Forecast"
+      ],
+      "source": {
+        "title": "IMF upgrades 2026 growth forecast but warns of ‘split’ outlook",
+        "url": "https://www.thehindu.com/business/Economy/imf-slightly-raises-forecast-for-2026-global-growth-to-31-citing-resilience-to-shocks/article71577836.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q18",
+      "question": "What was India's economic growth rate in the April-June quarter, as cited by PM Modi?",
+      "options": [
+        "8.1%",
+        "7.2%",
+        "6.5%",
+        "7.8%"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Prime Minister Modi cited India's economic growth rate of 7.8% in the April-June quarter as evidence of the country's resilience. He emphasized that India grows 'with the world, not at anyone's cost,' citing strong economic fundamentals, foreign-exchange reserves, and reforms.",
+      "background": "India's economic performance, particularly its GDP growth, is a key indicator of its global standing and attractiveness for investment. The government frequently highlights these figures to underscore economic stability and progress.",
+      "examRelevance": "India's economic growth rate was 7.8% in the April-June quarter.",
+      "tags": [
+        "PM Modi",
+        "Economic Growth",
+        "GDP",
+        "India Economy",
+        "April-June Quarter"
+      ],
+      "source": {
+        "title": "India grows ‘with the world, not at anyone's cost’, cites strong economic fundamentals, says PM Modi",
+        "url": "https://www.thehindu.com/business/Economy/pm-modi-bloomberg-economic-forum-october-13-2026/article71578206.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q19",
+      "question": "Under the 1983 Telugu Ganga agreement, how many TMC of Krishna water is to be delivered annually at the Tamil Nadu border for Chennai?",
+      "options": [
+        "20 TMC",
+        "15 TMC",
+        "10 TMC",
+        "25 TMC"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "Under the 1983 Telugu Ganga agreement, 15 TMC (thousand million cubic feet) of Krishna water is to be delivered annually at the Tamil Nadu border for Chennai. A meeting between Tamil Nadu CM Vijay and Andhra Pradesh CM Naidu is scheduled to discuss the water supply.",
+      "background": "The Telugu Ganga project is an inter-state river water sharing scheme aimed at providing drinking water to Chennai. Water disputes often arise due to factors like monsoon failures and reservoir levels in riparian states.",
+      "examRelevance": "15 TMC of Krishna water to be delivered annually to Tamil Nadu under Telugu Ganga agreement.",
+      "tags": [
+        "Telugu Ganga",
+        "Krishna Water",
+        "Chennai",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "source": {
+        "title": "Tamil Nadu CM Vijay to meet Naidu today: Krishna water for Chennai on agenda",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/tamil-nadu-cm-vijay-to-meet-naidu-today-krishna-water-for-chennai-on-agenda/article71578014.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q20",
+      "question": "The State Wetlands Authority informed the Madras High Court that the interim Zone of Influence (ZoI) around which marshland can be restricted to 36 survey numbers?",
+      "options": [
+        "Pallikaranai Marshland",
+        "Vedanthangal Bird Sanctuary",
+        "Pichavaram Mangrove Forest",
+        "Point Calimere Wildlife Sanctuary"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The State Wetlands Authority informed the Madras High Court that the interim Zone of Influence (ZoI) around the Pallikaranai marshland can be restricted to 36 survey numbers, covering 128.19 hectares. The court is expected to pass orders on this matter on October 14, 2026.",
+      "background": "The Pallikaranai marshland is a vital wetland ecosystem in Chennai, crucial for biodiversity and flood mitigation. Defining and restricting its Zone of Influence is important for its conservation and protection from urban encroachment.",
+      "examRelevance": "Interim ZoI around Pallikaranai marshland can be restricted to 36 survey numbers.",
+      "tags": [
+        "Pallikaranai Marshland",
+        "Wetlands Authority",
+        "Madras High Court",
+        "Environment",
+        "Chennai"
+      ],
+      "source": {
+        "title": "Interim zone of influence around Pallikaranai marshland can be restricted to 36 survey numbers, State Wetlands Authority tells Madras High Court",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/interim-zone-of-influence-around-pallikaranai-marshland-can-be-restricted-to-36-survey-numbers-state-wetlands-authority-tells-madras-high-court/article71576000.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q21",
+      "question": "The Supreme Court recently stayed defamation case proceedings against Rahul Gandhi over his 2019 remarks against the Prime Minister. Which two Justices comprised the Bench that issued notices?",
+      "options": [
+        "Justices Hima Kohli and P.S. Narasimha",
+        "Justices B.R. Gavai and Surya Kant",
+        "Justices Vikram Nath and Aparesh Kumar Singh",
+        "Justices D.Y. Chandrachud and Sanjiv Khanna"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "A Supreme Court Bench comprising Justices Vikram Nath and Aparesh Kumar Singh recently stayed defamation case proceedings against Rahul Gandhi. The case pertains to his 2019 remarks made against the Prime Minister. The bench issued notices to the Maharashtra government and the complainant, M H. Shrishrimal.",
+      "background": "Defamation cases against political figures are common in India. The Supreme Court's intervention by staying proceedings often indicates a review of the legal merits or procedural aspects of the case.",
+      "examRelevance": "Justices Vikram Nath and Aparesh Kumar Singh stayed defamation proceedings against Rahul Gandhi.",
+      "tags": [
+        "Supreme Court",
+        "Rahul Gandhi",
+        "Defamation Case",
+        "Vikram Nath",
+        "Aparesh Kumar Singh"
+      ],
+      "source": {
+        "title": "Supreme Court stays defamation case proceedings against Rahul Gandhi over 2019 remarks against PM",
+        "url": "https://www.thehindu.com/news/national/supreme-court-defamation-case-proceedings-rahul-gandhi-pm-modi/article71578167.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q22",
+      "question": "In which Ukrainian city was a cargo terminal recently damaged by Russian drone attacks?",
+      "options": [
+        "Odesa",
+        "Mariupol",
+        "Mykolaiv",
+        "Kherson"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "A cargo terminal in Ukraine’s Mykolaiv was recently damaged by Russian drone attacks. Acting Regional Governor Heorhii Reshetilov reported these overnight attacks on Telegram.",
+      "background": "Mykolaiv is a port city in southern Ukraine, and its infrastructure has been repeatedly targeted during the ongoing conflict. Attacks on cargo terminals disrupt supply chains and economic activity.",
+      "examRelevance": "Cargo terminal in Ukraine's Mykolaiv damaged by Russian drones.",
+      "tags": [
+        "Ukraine",
+        "Mykolaiv",
+        "Russian Drones",
+        "Cargo Terminal",
+        "Conflict"
+      ],
+      "source": {
+        "title": "Russian drones damage cargo terminal in Ukraine’s Mykolaiv, official says",
+        "url": "https://www.thehindu.com/news/international/russian-drones-damage-cargo-terminal-in-ukraines-mykolaiv-official-says/article71578028.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q23",
+      "question": "What financial policy has the IMF stated developing countries must adopt, despite war shocks, due to increased debt levels and inflation?",
+      "options": [
+        "Maintain current spending",
+        "Redirect spending to social programs",
+        "Increase spending",
+        "Cut spending"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The IMF has stated that developing countries must cut spending despite war shocks. This imperative arises because global debt levels have significantly increased, and inflation has become a pervasive problem after years of successive economic shocks.",
+      "background": "The IMF often advises fiscal consolidation for countries facing high debt and inflation. This recommendation reflects a cautious approach to global economic stability, prioritizing financial discipline even amidst challenging geopolitical and economic conditions.",
+      "examRelevance": "IMF advises developing countries to cut spending due to debt and inflation.",
+      "tags": [
+        "IMF",
+        "Developing Countries",
+        "Fiscal Policy",
+        "Debt",
+        "Inflation"
+      ],
+      "source": {
+        "title": "No choice: IMF says developing countries must cut spending despite war shock",
+        "url": "https://www.thehindu.com/news/international/no-choice-imf-says-developing-countries-must-cut-spending-despite-war-shock/article71578064.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q24",
+      "question": "What two major risks did the IMF recently warn about concerning the financial system?",
+      "options": [
+        "AI regulatory challenges and intellectual property issues",
+        "AI ethical concerns and job displacement",
+        "AI market growth and data privacy concerns",
+        "AI market correction and cyber threats"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The IMF recently warned of two major risks to the financial system: an AI market correction and cyber threats. It stated that as AI capabilities improve, the risk of successful cyberattacks on critical financial institutions or market infrastructure is worsening.",
+      "background": "The rapid advancement of Artificial Intelligence brings both opportunities and significant risks. The IMF's warning highlights the need for financial regulators and institutions to prepare for potential instability arising from both market overvaluation in AI and heightened cybersecurity vulnerabilities.",
+      "examRelevance": "IMF warns of AI market correction and cyber threats to financial system.",
+      "tags": [
+        "IMF",
+        "AI",
+        "Cyber Threats",
+        "Financial System",
+        "Market Correction"
+      ],
+      "source": {
+        "title": "IMF warns of AI market correction, cyber threats to financial system",
+        "url": "https://www.thehindu.com/business/imf-warns-of-ai-market-correction-cyber-threats-to-financial-system/article71578066.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q25",
+      "question": "An India-West Indies T20 match is scheduled to be secured by 2,200 personnel at Uppal Stadium in which city on October 14?",
+      "options": [
+        "Hyderabad",
+        "Chennai",
+        "Bengaluru",
+        "Mumbai"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "An India-West Indies T20 match, scheduled for October 14 at Hyderabad’s Uppal Stadium, will be secured by 2,200 police personnel. Approximately 40,000 spectators are expected for the match, which begins at 7 p.m.",
+      "background": "Large-scale sporting events require extensive security arrangements to ensure the safety of players and spectators. The police have also identified parking spaces and announced heavy-vehicle diversions around the stadium to manage the crowd and traffic.",
+      "examRelevance": "India-West Indies T20 match to be held at Uppal Stadium, Hyderabad.",
+      "tags": [
+        "India",
+        "West Indies",
+        "T20 Match",
+        "Uppal Stadium",
+        "Hyderabad",
+        "Cricket"
+      ],
+      "source": {
+        "title": "2,200 personnel to secure India-West Indies T20 match at Hyderabad’s Uppal stadium on October 14",
+        "url": "https://www.thehindu.com/news/cities/Hyderabad/2200-personnel-to-secure-india-west-indies-t20-match-at-hyderabads-uppal-stadium-on-october-14/article71576240.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q26",
+      "question": "In which province of Pakistan has the military-backed government recently imposed emergency rule, citing a rise in terrorist attacks?",
+      "options": [
+        "Sindh",
+        "Punjab",
+        "Balochistan",
+        "Khyber-Pakhtunkhwa"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The military-backed government in Pakistan has recently imposed emergency rule in the Khyber-Pakhtunkhwa province. This decision was made citing a significant rise in terrorist attacks in the region.",
+      "background": "The imposition of emergency rule comes amidst a prolonged stand-off with the Pakistan Tehreek-e-Insaf (PTI) party, led by jailed ex-Prime Minister Imran Khan, and a worsening security situation in the province, which borders Afghanistan.",
+      "examRelevance": "Emergency rule imposed in Pakistan's Khyber-Pakhtunkhwa province.",
+      "tags": [
+        "Pakistan",
+        "Khyber-Pakhtunkhwa",
+        "Emergency Rule",
+        "Terrorism",
+        "PTI"
+      ],
+      "source": {
+        "title": "Why Pakistan declared emergency in Khyber-Pakhtunkhwa | Explained",
+        "url": "https://www.thehindu.com/news/international/why-pakistan-declared-emergency-in-khyber-pakhtunkhwa-explained/article71576216.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q27",
+      "question": "The Manipur Police recently launched an investigation codenamed 'Operation Dignity' to address what issue?",
+      "options": [
+        "Circulating explicit content on social media",
+        "Combating cybercrime",
+        "Rescuing missing children",
+        "Preventing drug trafficking"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "The Manipur Police launched an investigation codenamed 'Operation Dignity' to address the issue of circulating explicit content on social media. As part of this operation, 12 people were arrested and a juvenile was detained.",
+      "background": "The proliferation of explicit content on social media is a growing concern, often leading to harassment and exploitation. 'Operation Dignity' reflects the authorities' efforts to tackle this specific form of cybercrime and protect individuals.",
+      "examRelevance": "Manipur Police launched 'Operation Dignity' against circulating explicit content.",
+      "tags": [
+        "Manipur Police",
+        "Operation Dignity",
+        "Explicit Content",
+        "Social Media",
+        "Cybercrime"
+      ],
+      "source": {
+        "title": "13 held in Manipur for circulating explicit content on social media",
+        "url": "https://www.thehindu.com/news/national/manipur/13-held-in-manipur-for-circulating-explicit-content-on-social-media/article71578081.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q28",
+      "question": "Which pension regulator has requested the Finance Ministry to exempt National Pension System (NPS) voluntary contributions from payment processing fees (UPI charges)?",
+      "options": [
+        "RBI",
+        "PFRDA",
+        "SEBI",
+        "IRDAI"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Pension Fund Regulatory and Development Authority (PFRDA) has asked the Finance Ministry to exempt voluntary contributions to the National Pension System (NPS) from payment processing fees, specifically UPI charges, which are set to come into effect on October 15.",
+      "background": "The introduction of merchant discount rates (MDR) or processing fees on UPI transactions has prompted various sectors to seek exemptions to avoid additional financial burdens. PFRDA's request aims to encourage NPS contributions by keeping them free of such charges.",
+      "examRelevance": "PFRDA seeks UPI MDR exemption for NPS contributions.",
+      "tags": [
+        "PFRDA",
+        "NPS",
+        "UPI Charges",
+        "Finance Ministry",
+        "Pension"
+      ],
+      "source": {
+        "title": "PFRDA asks finance ministry to keep NPS contributions free of UPI charges",
+        "url": "https://www.livemint.com/economy/pfrda-seeks-upi-mdr-exemption-for-nps-contributions-11791863636686.html"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q29",
+      "question": "Which President recently filed a complaint against Meta, alleging election interference?",
+      "options": [
+        "President of Argentina",
+        "President of Colombia",
+        "President of Brazil",
+        "President of Mexico"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Brazil President Lula recently filed a complaint against Meta, the parent company of Facebook, alleging election interference. This incident adds to previous accusations against Meta regarding its role in electoral processes.",
+      "background": "Meta has faced scrutiny globally over its content moderation policies and perceived influence on elections. This complaint from a head of state highlights ongoing concerns about the impact of large tech platforms on democratic processes.",
+      "examRelevance": "Brazil President Lula filed a complaint against Meta.",
+      "tags": [
+        "Brazil",
+        "Lula",
+        "Meta",
+        "Election Interference",
+        "Social Media"
+      ],
+      "source": {
+        "title": "Why did Brazil President Lula file a complaint against Meta? | Explained",
+        "url": "https://www.thehindu.com/news/international/why-did-brazil-president-lula-file-a-complaint-against-meta-explained/article71578053.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-13-q30",
+      "question": "ADNOC, which supplied over 500,000 barrels of crude per day to India in 2025, is primarily based in which country?",
+      "options": [
+        "Kuwait",
+        "Saudi Arabia",
+        "United Arab Emirates",
+        "Qatar"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "ADNOC, the Abu Dhabi National Oil Company, is primarily based in the United Arab Emirates (UAE). In 2025, ADNOC supplied over 500,000 barrels of crude per day to India, accounting for almost one in ten barrels of India’s crude imports.",
+      "background": "ADNOC is a state-owned oil company of the UAE and a major global energy player. Its strong ties with India underscore the strategic energy partnership between the two nations, with discussions ongoing about expanding crude oil, LNG, and LPG storage, including strategic reserves.",
+      "examRelevance": "ADNOC, a UAE-based company, supplied crude to India.",
+      "tags": [
+        "ADNOC",
+        "UAE",
+        "India",
+        "Crude Oil",
+        "Energy Market"
+      ],
+      "source": {
+        "title": "ADNOC open to further long-term LPG deals with India, sees India among most important energy markets: Acting CEO, Downstream",
+        "url": "https://www.thehindu.com/business/Economy/adnoc-open-to-long-term-lpg-deals-with-india-eyes-bigger-strategic-reserves/article71575015.ece"
+      }
+    }
+  ]
+}
