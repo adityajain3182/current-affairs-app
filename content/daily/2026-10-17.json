@@ -1,0 +1,766 @@
+{
+  "id": "daily-2026-10-17",
+  "type": "daily",
+  "date": "2026-10-17",
+  "title": "Current Affairs — 17 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-17-q1",
+      "question": "Who is the current Chief Election Commissioner of India, whose resignation is being sought in ongoing protests mentioned by U.S. lawmakers?",
+      "options": [
+        "Gyanesh Kumar",
+        "Sushil Chandra",
+        "Sunil Arora",
+        "Rajiv Kumar"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "U.S. lawmakers cited ongoing demonstrations seeking the resignation of Chief Election Commissioner Gyanesh Kumar as an example of alleged use of excessive forces against protesters in India.",
+      "background": "The Chief Election Commissioner (CEC) heads the Election Commission of India, a constitutional body responsible for administering elections in India. Protests demanding the CEC's resignation highlight concerns over electoral processes.",
+      "examRelevance": "Gyanesh Kumar is the current Chief Election Commissioner of India.",
+      "tags": [
+        "Chief Election Commissioner",
+        "Gyanesh Kumar",
+        "Protests",
+        "Election Commission"
+      ],
+      "source": {
+        "title": "U.S. lawmakers urge Rubio to question India over handling of CJP protests",
+        "url": "https://www.thehindu.com/news/international/us-lawmakers-urge-rubio-to-question-india-over-handling-of-cjp-protests/article71595407.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q2",
+      "question": "Who has been appointed as the new fast-bowling coach for the Delhi Capitals?",
+      "options": [
+        "Munaf Patel",
+        "Chaminda Vaas",
+        "Lasith Malinga",
+        "Muttiah Muralitharan"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "Chaminda Vaas, one of Sri Lanka's most successful bowlers, has been roped in as the fast-bowling coach for the Delhi Capitals. He replaces Munaf Patel, who held the position for the previous two seasons.",
+      "background": "The Delhi Capitals is a franchise cricket team that represents the city of Delhi in the Indian Premier League (IPL). Coaching staff appointments are crucial for team strategy and player development in such leagues.",
+      "examRelevance": "Chaminda Vaas is the new fast-bowling coach for Delhi Capitals.",
+      "tags": [
+        "Chaminda Vaas",
+        "Delhi Capitals",
+        "Cricket",
+        "Coach"
+      ],
+      "source": {
+        "title": "Chaminda Vaas roped in as Delhi Capitals fast-bowling coach",
+        "url": "https://www.thehindu.com/sport/cricket/chaminda-vaas-roped-in-as-delhi-capitals-fast-bowling-coach/article71595461.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q3",
+      "question": "Who has been picked as the White House press secretary for the Trump administration?",
+      "options": [
+        "Sean Spicer",
+        "Sarah Huckabee Sanders",
+        "Katie Zacharia",
+        "Kayleigh McEnany"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Katie Zacharia has been picked to fill the critical role of White House press secretary in the Trump administration. If she accepts, she would assume the position before next month’s midterm congressional elections.",
+      "background": "The White House Press Secretary is a senior White House official whose primary responsibility is to act as the spokesperson for the U.S. government administration, especially with regard to the President, senior executives, and policies.",
+      "examRelevance": "Katie Zacharia is the prospective White House press secretary for the Trump administration.",
+      "tags": [
+        "Katie Zacharia",
+        "White House",
+        "Press Secretary",
+        "Trump Administration"
+      ],
+      "source": {
+        "title": "Katie Zacharia picked as White House press secretary",
+        "url": "https://www.thehindu.com/news/international/katie-zacharia-picked-as-white-house-press-secretary/article71565837.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q4",
+      "question": "What is the new directive issued by the Bihar Chief Minister to District Magistrates and Superintendents of Police regarding sensitive social media issues?",
+      "options": [
+        "To respond within two hours to any sensitive social media-related issues",
+        "To ban social media platforms causing embarrassment to the state",
+        "To initiate legal action against individuals posting sensitive content",
+        "To monitor all social media accounts of citizens"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Bihar Chief Minister has directed District Magistrates (DMs) and Superintendents of Police (SPs) to respond within two hours to any sensitive social media-related issues. This directive comes after several molestation cases and assaults on women, including minors, reported on social media caused embarrassment to the state government.",
+      "background": "The rapid spread of information and misinformation on social media often necessitates quick administrative responses. This directive aims to improve the state's responsiveness to social media-driven incidents, particularly those involving crimes against women.",
+      "examRelevance": "Bihar CM mandates DMs-SPs to respond within two hours to sensitive social media issues.",
+      "tags": [
+        "Bihar CM",
+        "Social Media",
+        "Law Enforcement",
+        "Bihar"
+      ],
+      "source": {
+        "title": "DMs-SPs must respond within two hours to any sensitive social media-related issues: Bihar CM",
+        "url": "https://www.thehindu.com/news/national/bihar/dms-sps-must-respond-within-two-hours-to-any-sensitive-social-media-related-issues-bihar-cm/article71563845.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q5",
+      "question": "In which Indian state are bamboo plantations being established to replace poppy cultivation in forestland?",
+      "options": [
+        "Manipur",
+        "Mizoram",
+        "Nagaland",
+        "Arunachal Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "In Manipur, bamboo plantations have been established in 255 hectares out of 307 hectares of forestland that were previously under poppy cultivation in three hill districts. This initiative aims to replace illegal poppy farming with sustainable bamboo cultivation.",
+      "background": "Poppy cultivation for illicit drug production has been a significant challenge in certain hilly regions of Northeast India. Replacing it with economically viable and environmentally friendly alternatives like bamboo is part of a broader strategy for sustainable development and combating drug trade.",
+      "examRelevance": "Bamboo plantations are replacing poppy cultivation in Manipur.",
+      "tags": [
+        "Manipur",
+        "Bamboo",
+        "Poppy Cultivation",
+        "Forestland"
+      ],
+      "source": {
+        "title": "Bamboo replacing poppy patches in Manipur jungles: PCCF",
+        "url": "https://www.thehindu.com/news/national/manipur/bamboo-replacing-poppy-patches-in-manipur-jungles-pccf/article71565143.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q6",
+      "question": "Which Category 3 hurricane, the first major hurricane of an unusually quiet Atlantic season, recently lashed the U.S. Gulf Coast?",
+      "options": [
+        "Hurricane Laura",
+        "Hurricane Dorian",
+        "Hurricane Zeta",
+        "Hurricane Isaias"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Hurricane Isaias, a Category 3 storm, recently lashed the U.S. Gulf Coast with wind and rain. It is notable for being the first major hurricane of what has been an unusually quiet Atlantic season, and it was expected to make landfall on Friday night.",
+      "background": "Hurricanes are tropical cyclones that form over the Atlantic Ocean or eastern North Pacific Ocean. They are categorized based on the Saffir-Simpson Hurricane Wind Scale, with Category 3 indicating sustained winds of 111-129 mph (178-208 km/h).",
+      "examRelevance": "Hurricane Isaias is the first major hurricane of the Atlantic season to lash the U.S. Gulf Coast.",
+      "tags": [
+        "Hurricane Isaias",
+        "U.S. Gulf Coast",
+        "Atlantic Season",
+        "Category 3"
+      ],
+      "source": {
+        "title": "Hurricane Isaias lashes U.S. Gulf Coast with wind and rain hours before it comes ashore",
+        "url": "https://www.thehindu.com/news/international/hurricane-isaias-lashes-us-gulf-coast-with-wind-and-rain-hours-before-it-comes-ashore/article71566000.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q7",
+      "question": "In which district of Gujarat did a recent explosion at a chemical unit, suspected during a hydrogenation process, result in the death of five workers?",
+      "options": [
+        "Surat",
+        "Ahmedabad",
+        "Bharuch",
+        "Vadodara"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Five workers were killed and many injured in a powerful blast at a chemical unit in Bharuch, Gujarat. The explosion is suspected to have occurred during a hydrogenation process, ripping apart the reactor tank and scattering machinery parts.",
+      "background": "Bharuch district is known for its industrial belt, particularly in chemical and pharmaceutical manufacturing. Industrial safety incidents, though unfortunate, highlight the need for stringent adherence to safety protocols in such high-risk environments.",
+      "examRelevance": "A chemical unit blast occurred in Bharuch, Gujarat, killing five workers.",
+      "tags": [
+        "Bharuch",
+        "Gujarat",
+        "Chemical Unit",
+        "Industrial Accident"
+      ],
+      "source": {
+        "title": "Five workers killed, many injured in blast at chemical unit in Gujarat’s Bharuch",
+        "url": "https://www.thehindu.com/news/national/gujarat/workers-killed-as-many-injured-in-blast-at-chemical-unit-in-gujarats-bharuch/article71595455.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q8",
+      "question": "Who is the current Finance Minister of Pakistan who recently expressed concern over attacks on Gulf energy infrastructure?",
+      "options": [
+        "Asad Umar",
+        "Shaukat Tarin",
+        "Miftah Ismail",
+        "Muhammad Aurangzeb"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Pakistan Finance Minister Muhammad Aurangzeb told AFP that attacks on Gulf energy infrastructure are 'worrying' for the economic outlook. He stated that Pakistan has withstood the initial shock from the Iran war but continued attacks would delay a return to economic normalcy.",
+      "background": "The Finance Minister of Pakistan is a key cabinet member responsible for managing the country's finances, economic policy, and international financial relations. The stability of Gulf energy supplies is crucial for global and regional economies, including Pakistan's.",
+      "examRelevance": "Muhammad Aurangzeb is the Finance Minister of Pakistan.",
+      "tags": [
+        "Muhammad Aurangzeb",
+        "Pakistan",
+        "Finance Minister",
+        "Gulf Energy"
+      ],
+      "source": {
+        "title": "Attacks on Gulf energy infrastructure ‘worrying’ for outlook: Pakistan Finance Minister",
+        "url": "https://www.thehindu.com/news/international/attacks-on-gulf-energy-infrastructure-worrying-for-outlook-pakistan-finance-minister/article71595450.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q9",
+      "question": "Which TMC MP recently wrote to the UNHCR regarding alleged denial of drinking water supply in Jyoti Nagar Colony, Kolkata?",
+      "options": [
+        "Samirul Islam",
+        "Abhishek Banerjee",
+        "Mahua Moitra",
+        "Derek O'Brien"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "TMC MP Samirul Islam alleged that drinking water supply to Jyoti Nagar Colony in Kolkata was cut off after the BJP came to power in West Bengal. He wrote to the UN rights chief (UNHCR) claiming the residents are Muslims and not considered part of the BJP’s 'vote bank'.",
+      "background": "The UNHCR (United Nations High Commissioner for Refugees) primarily addresses refugee issues, but 'UN rights chief' generally refers to the UN High Commissioner for Human Rights (OHCHR). Raising human rights concerns with international bodies is a means to draw global attention to domestic issues.",
+      "examRelevance": "Samirul Islam, TMC MP, wrote to the UNHCR regarding water crisis in Kolkata.",
+      "tags": [
+        "Samirul Islam",
+        "TMC",
+        "UNHCR",
+        "Kolkata",
+        "Drinking Water"
+      ],
+      "source": {
+        "title": "TMC MP writes to UNHCR over denial of drinking water in Kolkata colony",
+        "url": "https://www.thehindu.com/news/cities/kolkata/tmc-mp-samirul-islam-writes-to-un-rights-chief-over-drinking-water-crisis-in-kolkata-colony/article71563791.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q10",
+      "question": "Which High Court recently heard a PIL seeking the filling of posts in 14 Maharashtra government bodies, citing delays in MPSC reports?",
+      "options": [
+        "Bombay High Court",
+        "Nagpur Bench of Bombay High Court",
+        "Delhi High Court",
+        "Aurangabad Bench of Bombay High Court"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "A Public Interest Litigation (PIL) was filed in the Bombay High Court seeking the filling of posts in 14 Maharashtra government bodies. The PIL highlighted that the Maharashtra Public Service Commission (MPSC) published its report for 2022–23 only in July 2026 and omitted appendix data on staff workloads.",
+      "background": "Public Interest Litigations are a crucial mechanism in India for addressing issues that affect the public at large. Delays in government appointments can impact public service delivery and governance, making such matters relevant for judicial intervention.",
+      "examRelevance": "Bombay High Court heard a PIL regarding delays in filling Maharashtra government posts.",
+      "tags": [
+        "Bombay High Court",
+        "Maharashtra",
+        "PIL",
+        "Government Posts",
+        "MPSC"
+      ],
+      "source": {
+        "title": "PIL in Bombay HC seeks filling of posts in 14 Maharashtra government bodies",
+        "url": "https://www.thehindu.com/news/national/maharashtra/pil-in-bombay-hc-seeks-filling-of-posts-in-14-maharashtra-government-bodies/article71564482.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q11",
+      "question": "In which state did 26 lawyers recently receive contempt notices for boycotting court work to press for the removal of the Advocate General?",
+      "options": [
+        "Tripura",
+        "Assam",
+        "Meghalaya",
+        "Nagaland"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "In Meghalaya, 26 lawyers received contempt notices for their involvement in a court boycott. All bar associations in the state, except one, began abstaining from judicial work on October 1 to press for the removal of Advocate General Amit Kumar.",
+      "background": "Court boycotts by lawyers are a form of protest, often used to exert pressure on authorities regarding specific demands. However, such actions can be deemed contempt of court as they disrupt judicial proceedings and the administration of justice.",
+      "examRelevance": "26 lawyers in Meghalaya received contempt notices for court boycott.",
+      "tags": [
+        "Meghalaya",
+        "Lawyers",
+        "Court Boycott",
+        "Contempt Notice",
+        "Advocate General"
+      ],
+      "source": {
+        "title": "Court boycott invites contempt notices for 26 lawyers in Meghalaya",
+        "url": "https://www.thehindu.com/news/national/meghalaya/court-boycott-invites-contempt-notices-for-26-lawyers-in-meghalaya/article71563893.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q12",
+      "question": "The Centre is addressing demands for new districts and a new draft proposal for which Union Territory, with the next round of talks scheduled for October 22?",
+      "options": [
+        "Ladakh",
+        "Puducherry",
+        "Jammu and Kashmir",
+        "Chandigarh"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Centre is taking a fresh approach to address the demands of Ladakh, including a new draft proposal and new districts. The next round of talks regarding these developments is scheduled to take place on October 22 in New Delhi.",
+      "background": "Ladakh became a Union Territory after the reorganization of Jammu and Kashmir in 2019. Various groups in Ladakh have been vocal about their demands concerning governance, representation, and development, including the creation of new administrative units.",
+      "examRelevance": "The Centre is discussing new districts and a draft proposal for Ladakh.",
+      "tags": [
+        "Ladakh",
+        "New Districts",
+        "Union Territory",
+        "Central Government"
+      ],
+      "source": {
+        "title": "New draft proposal, new districts: what the Centre’s moves mean for Ladakh | Explained",
+        "url": "https://www.thehindu.com/news/national/ladakh/new-draft-proposal-new-districts-what-the-centres-moves-mean-for-ladakh-explained/article71595437.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q13",
+      "question": "Which Union Territory's new 'Ease of Doing Business' rules are being criticized by a civil society group for potentially harming residential areas and the environment?",
+      "options": [
+        "Puducherry",
+        "Delhi",
+        "Andaman and Nicobar Islands",
+        "Jammu and Kashmir"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "A Kashmir-based civil society group has warned that the new 'Ease of Doing Business' rules in Jammu and Kashmir are bound to 'weaken regulatory oversight and threaten the region’s fragile environment, planned urban development and public welfare'. They claim these rules will wreak havoc with residential areas and the environment.",
+      "background": "'Ease of Doing Business' reforms typically aim to simplify regulations and procedures for businesses. However, critics often raise concerns that such reforms, if not balanced with environmental and social safeguards, can lead to adverse impacts on local communities and ecosystems.",
+      "examRelevance": "J&K's new 'Ease of Doing Business' rules face criticism for environmental impact.",
+      "tags": [
+        "Jammu and Kashmir",
+        "Ease of Doing Business",
+        "Environment",
+        "Civil Society"
+      ],
+      "source": {
+        "title": "New ‘Ease of doing Business’ rules will wreak havoc with residential areas, environment in J&K: Kashmir-based civil society group",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/new-ease-of-doing-business-rules-will-wreak-havoc-with-residential-areas-environment-in-jk-kashmir-based-civil-society-group/article71564972.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q14",
+      "question": "Who is the current Chairperson of the J&K Waqf Board who recently condemned the assault on a Kashmiri youth in Delhi?",
+      "options": [
+        "Mehbooba Mufti",
+        "Dr. Darakhshan Andrabi",
+        "Farooq Abdullah",
+        "Omar Abdullah"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "J&K Waqf chairperson Dr. Darakhshan Andrabi condemned the incident of assault on a Kashmiri youth in Delhi, terming it 'deeply disturbing' and demanding an 'impartial investigation' into the matter.",
+      "background": "The Waqf Board is an Islamic endowment board that manages Waqf properties for charitable or religious purposes. Its chairperson plays a significant role in representing the community and addressing its concerns.",
+      "examRelevance": "Dr. Darakhshan Andrabi is the Chairperson of the J&K Waqf Board.",
+      "tags": [
+        "Dr. Darakhshan Andrabi",
+        "J&K Waqf Board",
+        "Kashmiri Youth",
+        "Delhi"
+      ],
+      "source": {
+        "title": "J&K Waqf chairperson Andrabi condemns assault on Kashmiri youth in Delhi",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-waqf-chairperson-andrabi-condemns-assaulton-kashmiri-youth-in-delhi/article71565238.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q15",
+      "question": "In which city did the police recently arrest five individuals, including two constables, in connection with an illegal telecom data racket involving Call Detail Records (CDRs) and Subscriber Detail Records (SDRs)?",
+      "options": [
+        "Delhi",
+        "Chennai",
+        "Mumbai",
+        "Bengaluru"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Mumbai Police recently arrested five individuals, including two police constables, in connection with an illegal telecom data racket. The network was involved in supplying Call Detail Records (CDRs), Subscriber Detail Records (SDRs), and mobile phone location information.",
+      "background": "Illegal access and sale of telecom data like CDRs and SDRs is a serious crime, often linked to privacy violations, extortion, and other illicit activities. The involvement of police personnel in such rackets raises significant concerns about law enforcement integrity.",
+      "examRelevance": "Mumbai Police busted an illegal telecom data racket involving CDRs and SDRs.",
+      "tags": [
+        "Mumbai Police",
+        "Telecom Data Racket",
+        "CDRs",
+        "SDRs",
+        "Mumbai"
+      ],
+      "source": {
+        "title": "Two police constables among five arrested by Mumbai Police in illegal telecom data racket",
+        "url": "https://www.thehindu.com/news/national/maharashtra/two-police-constables-among-five-arrested-by-mumbai-police-in-illegal-telecom-data-racket/article71565080.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q16",
+      "question": "Which state's High Court recently struck down its 27% OBC quota law, deeming it 'unconstitutional'?",
+      "options": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Bihar",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The High Court of Madhya Pradesh recently struck down the state's 27% OBC quota law, calling it 'unconstitutional'. This judgment came after years of hearings on various petitions filed by students from unreserved categories who had challenged the Amendment Act of August 2019.",
+      "background": "Reservation policies in India, particularly those exceeding the 50% cap set by the Supreme Court in the Indra Sawhney case (1992), often face legal challenges. States attempting to increase quotas must provide robust empirical data to justify such measures.",
+      "examRelevance": "Madhya Pradesh High Court struck down the state's 27% OBC quota law.",
+      "tags": [
+        "Madhya Pradesh",
+        "OBC Quota",
+        "High Court",
+        "Unconstitutional",
+        "Reservation"
+      ],
+      "source": {
+        "title": "HC strikes down Madhya Pradesh’s 27% OBC quota law, calls it ‘unconstitutional’",
+        "url": "https://www.thehindu.com/news/national/madhya-pradesh/hc-strikes-down-madhya-pradeshs-27-obc-quota-law-calls-it-unconstitutional/article71565305.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q17",
+      "question": "In a rare bid to save the Kashmiri language, clerics in Kashmir are set to deliver sermons in the vernacular language on which date?",
+      "options": [
+        "October 10",
+        "October 16",
+        "October 22",
+        "October 28"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "Clerics in Kashmir are set to deliver sermons in the vernacular Kashmiri language on October 16. This initiative is a rare bid to save and promote the Kashmiri language, and the announcement was made by Mirwaiz on the urs (special occasion) of Hazrat Sheikh Noor-ud-Din Noorani.",
+      "background": "Language preservation efforts are crucial for maintaining cultural identity, especially for regional languages facing challenges from dominant languages. Using religious platforms like sermons can be an effective way to promote the use and understanding of a vernacular language among the community.",
+      "examRelevance": "Kashmiri clerics will deliver sermons in Kashmiri on October 16.",
+      "tags": [
+        "Kashmiri Language",
+        "Sermons",
+        "Kashmir",
+        "Language Preservation",
+        "October 16"
+      ],
+      "source": {
+        "title": "In a rare bid to save Kashmiri language, clerics to deliver sermons in vernacular language on October 16",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/in-a-rare-bid-to-save-kashmiri-language-clerics-to-deliver-sermons-in-vernacular-language-on-october-16/article71565124.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q18",
+      "question": "Which city recently launched a common mobility pass for unlimited travel on Metro Rail and RTC buses, priced at ₹8,500 per month, which has reportedly failed to gain traction?",
+      "options": [
+        "Hyderabad",
+        "Pune",
+        "Bengaluru",
+        "Chennai"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "Hyderabad's common mobility pass, priced at ₹8,500 a month, allows unlimited travel on Metro Rail and RTC buses within the Outer Ring Road (ORR) limits. However, it excludes MMTS and last-mile services, and commuters have cited affordable fares, feeder connectivity, and coordination among transport agencies as essential for seamless travel, indicating the pass has not gained desired traction.",
+      "background": "Integrated public transport passes aim to simplify commuting and encourage the use of public transport. However, their success depends heavily on factors like pricing, coverage, and seamless integration across different modes of transport, often requiring significant coordination between various agencies.",
+      "examRelevance": "Hyderabad's common mobility pass at ₹8,500/month has failed to gain traction.",
+      "tags": [
+        "Hyderabad",
+        "Common Mobility Pass",
+        "Public Transport",
+        "Metro Rail",
+        "RTC Buses"
+      ],
+      "source": {
+        "title": "Hyderabad’s common mobility pass fails to hit the mark",
+        "url": "https://www.thehindu.com/news/national/telangana/hyderabads-common-mobility-pass-fails-to-hit-the-mark/article71564182.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q19",
+      "question": "Which Indian state's newly introduced breakfast scheme this academic year has led to increased enrolment and attendance in schools?",
+      "options": [
+        "Karnataka",
+        "Tamil Nadu",
+        "Telangana",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "Telangana's newly introduced breakfast scheme this academic year has shown positive results, including increased enrolment, enhanced attendance, no complaints of hunger, and more energy among students throughout the day. These findings emerged from a survey conducted in the Kodangal constituency by Third Vision Research and Services.",
+      "background": "Mid-day meal and breakfast schemes are crucial government initiatives aimed at improving nutrition levels among school-going children, reducing drop-out rates, and enhancing learning outcomes. These schemes often serve as a strong incentive for families to send their children to school.",
+      "examRelevance": "Telangana's breakfast scheme has increased school enrolment and attendance.",
+      "tags": [
+        "Telangana",
+        "Breakfast Scheme",
+        "Education",
+        "School Enrolment"
+      ],
+      "source": {
+        "title": "Breakfast scheme brings more students to schools in Telangana",
+        "url": "https://www.thehindu.com/news/national/telangana/breakfast-scheme-brings-more-students-to-schools-in-telangana/article71564342.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q20",
+      "question": "World Hospice and Palliative Care Day is celebrated annually on which date?",
+      "options": [
+        "October 10",
+        "October 15",
+        "October 5",
+        "October 1"
+      ],
+      "answerIndex": 0,
+      "category": "Dates & Days",
+      "explanation": "World Hospice and Palliative Care Day is celebrated annually on October 10. Pallium India's celebration will bring together patients, families, caregivers, healthcare professionals, and volunteers to raise awareness about hospice and palliative care.",
+      "background": "World Hospice and Palliative Care Day is an annual event dedicated to raising awareness about hospice and palliative care needs globally. It aims to highlight the importance of providing comfort and support to individuals and families facing life-limiting illnesses.",
+      "examRelevance": "World Hospice and Palliative Care Day is on October 10.",
+      "tags": [
+        "World Hospice Day",
+        "Palliative Care",
+        "October 10",
+        "Healthcare Awareness"
+      ],
+      "source": {
+        "title": "World Hospice and Palliative Care Day to be celebrated on October 10",
+        "url": "https://www.thehindu.com/news/national/kerala/world-hospice-and-palliative-care-day-to-be-celebrated-on-october-10/article71565100.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q21",
+      "question": "Who has been appointed as the new Home Secretary of Tamil Nadu, replacing K. Manivasan?",
+      "options": [
+        "S. Krishnan",
+        "A. Karthik",
+        "V. Irai Anbu",
+        "Prem Anand Sinha"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "A. Karthik, who previously served as the Chairman and Managing Director of the Tamil Nadu Small Industries Development Corporation (TANSIDCO), has replaced K. Manivasan as the new Home Secretary of Tamil Nadu. Additionally, Prem Anand Sinha has been posted as the Director of DVAC.",
+      "background": "The Home Secretary is a crucial administrative position in a state government, responsible for law and order, police administration, and various internal security matters. Such appointments are part of regular bureaucratic reshuffles.",
+      "examRelevance": "A. Karthik is the new Home Secretary of Tamil Nadu.",
+      "tags": [
+        "A. Karthik",
+        "Tamil Nadu",
+        "Home Secretary",
+        "Appointments"
+      ],
+      "source": {
+        "title": "T.N. Home Secretary transferred, Prem Anand Sinha posted as Director of DVAC",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-home-secretary-tneb-chairman-transferred/article71562513.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q22",
+      "question": "Which U.S. official's recent remarks, calling foreign workers 'indentured servants,' were condemned by the Indian government as 'deeply offensive' towards Indian IT professionals?",
+      "options": [
+        "President Joe Biden",
+        "Secretary of State Antony Blinken",
+        "Vice President J.D. Vance",
+        "Speaker of the House Mike Johnson"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The Indian government slammed remarks made by U.S. Vice President J.D. Vance, who called foreign workers 'indentured servants'. India reminded the Trump administration that Indian professionals are 'skilled contributors' to the U.S. economy, deeming Vance's comments as 'deeply offensive'.",
+      "background": "The contributions of Indian IT professionals to the U.S. economy, particularly in the technology sector, are widely recognized. Remarks seen as disparaging often lead to diplomatic friction and highlight ongoing debates surrounding immigration and skilled labor policies.",
+      "examRelevance": "U.S. Vice President J.D. Vance's remarks on foreign workers were condemned by India.",
+      "tags": [
+        "J.D. Vance",
+        "U.S. Vice President",
+        "Indian IT Professionals",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Government slams Vance’s remarks on Indian IT professionals as ‘deeply offensive’",
+        "url": "https://www.thehindu.com/news/national/government-slams-vances-remarks-on-indian-it-professionals-as-deeply-offensive/article71565159.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q23",
+      "question": "The Supreme Court recently upheld the decision of the Speaker of which state assembly to drop disqualification proceedings against AIADMK MLAs?",
+      "options": [
+        "Karnataka",
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Kerala"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently backed the Tamil Nadu Speaker’s decision to drop disqualification proceedings against AIADMK MLAs. This ruling affirms the Speaker's authority in such matters, particularly concerning internal party disputes and legislative conduct.",
+      "background": "Disqualification proceedings against MLAs under the anti-defection law are often contentious and subject to judicial review. The Speaker's role in deciding such cases is significant, and Supreme Court judgments in this area set important precedents for parliamentary democracy.",
+      "examRelevance": "Supreme Court upheld the Tamil Nadu Speaker's decision on AIADMK MLAs' disqualification.",
+      "tags": [
+        "Supreme Court",
+        "Tamil Nadu Speaker",
+        "AIADMK MLAs",
+        "Disqualification Proceedings"
+      ],
+      "source": {
+        "title": "Supreme Court backs T.N. Speaker’s decision to drop disqualification proceedings against AIADMK MLAs",
+        "url": "https://www.thehindu.com/news/national/supreme-court-backs-tn-speakers-decision-to-drop-disqualification-proceedings-against-aiadmk-mlas/article71564397.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q24",
+      "question": "According to S. Vasudevan, President of Tanstia, at the Vettri Tamil Nadu MSME Summit 2026, which conflict is contributing to rising production and operational costs for Micro and Small Enterprises?",
+      "options": [
+        "South China Sea disputes",
+        "Russia-Ukraine conflict",
+        "West Asia conflict",
+        "Ethiopian civil war"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "At the Vettri Tamil Nadu MSME Summit 2026, S. Vasudevan, President of Tanstia, stated that Micro and Small Enterprises are undergoing an extremely challenging phase. He attributed this to the West Asia conflict and the continuous increase in production and operational costs.",
+      "background": "Global geopolitical events, especially conflicts in major oil-producing or trade-route regions, can significantly impact supply chains and energy prices worldwide. This, in turn, directly affects the operational costs for businesses, particularly MSMEs, which are often more vulnerable to such economic shocks.",
+      "examRelevance": "West Asia conflict is increasing costs for MSMEs in Tamil Nadu.",
+      "tags": [
+        "MSME Summit",
+        "Tamil Nadu",
+        "West Asia Conflict",
+        "Production Costs"
+      ],
+      "source": {
+        "title": "Units grappling with rising costs, says expert at Vettri Tamil Nadu MSME Summit 2026",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/units-grappling-with-rising-costs-says-expert-at-vettri-tamil-nadu-msme-summit-2026/article71564229.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q25",
+      "question": "Which state's Chief Minister recently announced the implementation of 568 projects under the UDF government's 100-day action plan and launched a new mission called 'Janasparsham'?",
+      "options": [
+        "Kerala",
+        "Goa",
+        "Gujarat",
+        "Odisha"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "Keralam Chief Minister recently announced that 568 projects proposed under the UDF government’s 100-day action plan have been implemented. He also launched the government’s second 'mission', christened 'Janasparsham', a 'File Adalat' lasting from October 15 to December 31 to dispose of pending files.",
+      "background": "Government action plans and missions are strategic initiatives to achieve specific developmental goals within a defined timeframe. 'File Adalat' is a common administrative practice to clear backlogs and improve efficiency in government departments by fast-tracking file disposal.",
+      "examRelevance": "Kerala CM announced 568 projects and launched 'Janasparsham' mission.",
+      "tags": [
+        "Kerala",
+        "UDF Government",
+        "Janasparsham",
+        "100-day action plan"
+      ],
+      "source": {
+        "title": "568 projects proposed under UDF government’s 100-day action plan implemented, says Keralam Chief Minister",
+        "url": "https://www.thehindu.com/news/national/kerala/568-projects-proposed-under-udf-governments-100-day-action-plan-implemented-says-keralam-chief-minister/article71565293.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q26",
+      "question": "Who has been appointed as the new Chairman of the reconstituted Keralam Waqf Board by the UDF government?",
+      "options": [
+        "M.C. Mayin Haji",
+        "K.S. Hamza",
+        "E.T. Mohammed Basheer",
+        "P.K. Kunhalikutty"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "The UDF government has reconstituted the Keralam Waqf Board, appointing IUML leader M.C. Mayin Haji as its new chairman. All members of the previous board, which was headed by K.S. Hamza, have been replaced, and nine new members have been appointed to the reconstituted board.",
+      "background": "The Waqf Board in Kerala manages properties endowed for religious or charitable purposes by Muslims. Reconstitution of such boards, especially with a change in leadership, often reflects shifts in political influence and administrative priorities.",
+      "examRelevance": "M.C. Mayin Haji is the new Chairman of the Keralam Waqf Board.",
+      "tags": [
+        "M.C. Mayin Haji",
+        "Keralam Waqf Board",
+        "UDF Government",
+        "Appointments"
+      ],
+      "source": {
+        "title": "UDF govt reconstitutes Keralam Waqf Board, appoints IUML leader M.C. Mayin Haji as chairman",
+        "url": "https://www.thehindu.com/news/national/kerala/udf-govt-reconstitutes-keralam-waqf-board-appoints-iuml-leader-mc-mayin-haji-as-chairman/article71595414.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q27",
+      "question": "Farmers in which Indian state are reportedly shifting to horticulture crops during the Kharif season?",
+      "options": [
+        "Madhya Pradesh",
+        "Uttar Pradesh",
+        "Maharashtra",
+        "Telangana"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Farmers in Telangana are reportedly shifting to horticulture crops during the Kharif season. This change in cropping pattern can be influenced by various factors such as market demand, profitability, government policies, and climatic conditions.",
+      "background": "Horticulture, which includes fruits, vegetables, and flowers, often offers higher returns compared to traditional food grains, prompting farmers to diversify. This shift can have implications for agricultural productivity, food security, and farmer incomes in the state.",
+      "examRelevance": "Telangana farmers are shifting to horticulture crops in Kharif.",
+      "tags": [
+        "Telangana",
+        "Horticulture",
+        "Kharif Season",
+        "Agriculture"
+      ],
+      "source": {
+        "title": "Telangana farmers shift to horticulture crops in Kharif",
+        "url": "https://www.thehindu.com/news/national/telangana/telangana-farmers-shift-to-horticulture-crops-in-kharif/article71565387.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q28",
+      "question": "Who is the current Mayor of the Thiruvananthapuram Corporation, who recently commented on UDF and LDF working together?",
+      "options": [
+        "C. Jayan Babu",
+        "V.V. Rajesh",
+        "K. Chandran Pillai",
+        "Arya Rajendran"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "V.V. Rajesh is the current Mayor of the Thiruvananthapuram Corporation. He recently stated that the UDF and LDF are working together to corner the ruling BJP in the Thiruvananthapuram Corporation and affirmed his resistance to false charges against him.",
+      "background": "The Mayor is the head of the municipal corporation, responsible for the administration of the city. Political dynamics within municipal bodies often involve alliances and opposition strategies, especially in multi-party systems.",
+      "examRelevance": "V.V. Rajesh is the Mayor of Thiruvananthapuram Corporation.",
+      "tags": [
+        "V.V. Rajesh",
+        "Thiruvananthapuram Corporation",
+        "Mayor",
+        "Kerala Politics"
+      ],
+      "source": {
+        "title": "UDF, LDF working together to corner ruling BJP in Thiruvananthapuram Corporation, says Mayor V.V. Rajesh",
+        "url": "https://www.thehindu.com/news/national/kerala/udf-ldf-working-together-to-corner-ruling-bjp-in-thiruvananthapuram-corporation-says-mayor-vv-rajesh/article71563246.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q29",
+      "question": "Which West Indies cricketer scored an unbeaten 102 runs off just 45 deliveries in the recent T20 match against India, helping his team achieve their highest chase in the shortest format?",
+      "options": [
+        "Sherfane Rutherford",
+        "Rovman Powell",
+        "Nicholas Pooran",
+        "Shai Hope"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Shai Hope of West Indies scored an unbeaten 102 runs off just 45 deliveries in the second T20 match against India. His performance, along with Sherfane Rutherford's 84 off 37 balls, helped West Indies achieve their highest chase in the shortest format of the game, drawing the series level.",
+      "background": "T20 cricket is known for its fast-paced, high-scoring matches. Achieving a team's highest chase signifies a remarkable batting performance and often indicates a shift in momentum within a series.",
+      "examRelevance": "Shai Hope scored an unbeaten 102 (45 balls) in IND vs WI T20.",
+      "tags": [
+        "Shai Hope",
+        "West Indies Cricket",
+        "T20",
+        "Cricket Record"
+      ],
+      "source": {
+        "title": "IND vs WI second T20: Shai Hope, Sherfane Rutherford dazzle as West Indies draws level",
+        "url": "https://www.thehindu.com/sport/cricket/ind-vs-wi-second-t20-shai-hope-sherfane-rutherford-dazzle-as-west-indies-draws-level/article71565697.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-17-q30",
+      "question": "Which district in Uttar Pradesh is set to host a large gathering organized by the Parsuram Yuva Jagriti Manch, a Brahmin caste-centric social organization, in the last week of October?",
+      "options": [
+        "Lucknow",
+        "Ayodhya",
+        "Varanasi",
+        "Shamli"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Parsuram Yuva Jagriti Manch, a Brahmin caste-centric social organization, is set to organize a large gathering in the last week of October in Shamli district, Uttar Pradesh. The event aims to unite the community around its grievances as the state polls approach.",
+      "background": "Caste-based conferences and gatherings are a common feature of political mobilization in Uttar Pradesh, especially in the run-up to elections. These events aim to consolidate community votes and exert influence on political parties' agendas.",
+      "examRelevance": "Shamli district in U.P. will host a Brahmin caste-centric gathering.",
+      "tags": [
+        "Shamli",
+        "Uttar Pradesh",
+        "Caste-based conference",
+        "Parsuram Yuva Jagriti Manch"
+      ],
+      "source": {
+        "title": "Caste based conferences set to return as U.P. poll approaches",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/caste-based-conferences-set-to-return-as-up-poll-approaches/article71593319.ece"
+      }
+    }
+  ]
+}
