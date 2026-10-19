@@ -1,0 +1,775 @@
+{
+  "id": "daily-2026-10-19",
+  "type": "daily",
+  "date": "2026-10-19",
+  "title": "Current Affairs — 19 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-19-q1",
+      "question": "Who recently filed nomination for the Vijayawada Mayor post as the NDA candidate?",
+      "options": [
+        "Ganta Srinivasa Rao",
+        "Vangaveeti Radha Krishna",
+        "Kanakamedala Ravindra Kumar",
+        "Pattabhi Ram"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "NDA candidate Vangaveeti Radha Krishna recently filed his nomination for the Mayor's post in Vijayawada Municipal Corporation. A total of 24 candidates have filed nominations for the Mayor's post so far.",
+      "background": "The filing of nominations is part of the ongoing electoral process for the Vijayawada Municipal Corporation. Such local body elections are crucial for urban governance and often see significant political competition.",
+      "examRelevance": "Vangaveeti Radha Krishna = NDA candidate for Vijayawada Mayor post.",
+      "tags": [
+        "Vangaveeti Radha Krishna",
+        "Vijayawada Mayor",
+        "NDA",
+        "Nominations"
+      ],
+      "source": {
+        "title": "NDA candidate Vangaveeti Radha Krishna files nomination for Vijayawada Mayor post",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-candidate-vangaveeti-radha-krishna-files-nomination-for-vijayawada-mayor-post/article71600642.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q2",
+      "question": "In which city did the recent firing incident involving Bollywood actor Tiger Shroff occur, leading to a police investigation by the Crime Branch?",
+      "options": [
+        "Pune",
+        "Nagpur",
+        "Mumbai",
+        "Nashik"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "A firing incident occurred at Bollywood actor Tiger Shroff's residence in Mumbai. The Mumbai Crime Branch has taken over the probe, and an FIR has been lodged against three unidentified persons.",
+      "background": "The incident has garnered significant attention, with Maharashtra CM Devendra Fadnavis stating that suspects have been identified. Deputy CM Ekanth Shinde also commented on the police's commitment to responding to the perpetrators.",
+      "examRelevance": "Tiger Shroff firing incident = Mumbai.",
+      "tags": [
+        "Tiger Shroff",
+        "Mumbai",
+        "Firing Incident",
+        "Crime Branch"
+      ],
+      "source": {
+        "title": "Tiger Shroff firing incident: Police have identified suspects, will arrest soon, says CM Fadnavis",
+        "url": "https://www.thehindu.com/news/national/maharashtra/tiger-shroff-firing-incident-police-have-identified-suspects-will-arrest-soon-says-cm-fadnavis/article71602163.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q3",
+      "question": "In which German city did an arson attack on an apartment building recently kill three Malayalis?",
+      "options": [
+        "Hamburg",
+        "Bochum",
+        "Munich",
+        "Berlin"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Three Malayalis were killed in an arson attack on an apartment building in the German city of Bochum. Preliminary findings indicate the tragedy stemmed from a personal enmity, and a Romanian national is in police custody.",
+      "background": "The bodies of the victims are scheduled to reach Keralam on October 20. This incident highlights the challenges faced by diaspora communities abroad.",
+      "examRelevance": "Arson attack killing Malayalis = Bochum, Germany.",
+      "tags": [
+        "Germany",
+        "Bochum",
+        "Arson Attack",
+        "Malayalis"
+      ],
+      "source": {
+        "title": "Bodies of three Malayalis killed in Germany building fire to reach Keralam on October 20",
+        "url": "https://www.thehindu.com/news/national/kerala/bodies-of-three-malayalis-killed-in-germany-building-fire-to-reach-keralam-on-october-20/article71600566.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q4",
+      "question": "What new surcharge has been approved in Keralam's power sector as part of the Kerala State Electricity Regulatory Commission’s (KSERC) Multi-Year Tariff Regulations, 2026?",
+      "options": [
+        "Environmental Impact Surcharge",
+        "Regulatory Asset Surcharge",
+        "Renewable Energy Surcharge",
+        "Infrastructure Development Surcharge"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Kerala State Electricity Regulatory Commission (KSERC) has approved a new 'regulatory asset surcharge' as part of its KSERC (Multi-Year Tariff) Regulations, 2026. This measure, along with a revamped fuel surcharge formula, will take effect from April 1, 2027.",
+      "background": "The KSERC (Multi-Year Tariff) Regulations aim to bring transparency and stability to Keralam's power sector. The introduction of such surcharges helps manage costs and investments in the electricity supply chain.",
+      "examRelevance": "Kerala power sector new surcharge = Regulatory Asset Surcharge.",
+      "tags": [
+        "Kerala",
+        "Power Sector",
+        "Regulatory Asset Surcharge",
+        "KSERC"
+      ],
+      "source": {
+        "title": "Fuel surcharge formula revamped in Keralam’s power sector; new ‘regulatory asset surcharge’ also gets nod",
+        "url": "https://www.thehindu.com/news/national/kerala/fuel-surcharge-formula-revamped-in-keralams-power-sector-new-regulatory-asset-surcharge-also-gets-nod/article71599785.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q5",
+      "question": "In which international city were Bathukamma and Dasara celebrations recently held to preserve and promote Telugu culture?",
+      "options": [
+        "London, UK",
+        "Vienna, Austria",
+        "Dubai, UAE",
+        "Sydney, Australia"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "Bathukamma and Dasara celebrations were recently held in Vienna, Austria. The event aimed to preserve and promote Telugu culture and traditions among the Telugu diaspora and pass them on to younger generations.",
+      "background": "Such cultural events in international cities play a vital role in maintaining the heritage of Indian communities living abroad and fostering cultural exchange.",
+      "examRelevance": "Bathukamma and Dasara celebrations = Vienna, Austria.",
+      "tags": [
+        "Bathukamma",
+        "Dasara",
+        "Vienna",
+        "Telugu Culture"
+      ],
+      "source": {
+        "title": "Bathukamma, Dasara celebrations held in Vienna, Austria",
+        "url": "https://www.thehindu.com/news/national/telangana/bathukamma-dasara-celebrations-held-in-vienna-austria/article71602136.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q6",
+      "question": "Which award was recently conferred upon C. Selvam for his prison memoir 'Oru Thooku Kaithiyin Vaakumoolam'?",
+      "options": [
+        "Crossword Book Award",
+        "Sahitya Akademi Award",
+        "Jnanpith Award",
+        "Iyal Award"
+      ],
+      "answerIndex": 3,
+      "category": "Awards & Honours",
+      "explanation": "C. Selvam, a death-row convict, has been selected for the Iyal Award for his prison memoir 'Oru Thooku Kaithiyin Vaakumoolam'. The award is instituted by the Canada-based Tamil Literary Garden.",
+      "background": "The Iyal Award recognizes significant contributions to Tamil literature. C. Selvam's journey from death row to becoming an award-winning author highlights the transformative power of literature.",
+      "examRelevance": "C. Selvam = Iyal Award winner for 'Oru Thooku Kaithiyin Vaakumoolam'.",
+      "tags": [
+        "C. Selvam",
+        "Iyal Award",
+        "Oru Thooku Kaithiyin Vaakumoolam",
+        "Tamil Literature"
+      ],
+      "source": {
+        "title": "From death row to award-winning author, C. Selvam expresses remorse, reflects on the families of his victims",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/from-death-row-to-award-winning-author-c-selvam-expresses-remorse-reflects-on-the-families-of-his-victims/article71600167.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q7",
+      "question": "Which French minister's resignation was recently refused by President Macron following protests?",
+      "options": [
+        "Bruno Le Maire",
+        "Gérald Darmanin",
+        "Catherine Colonna",
+        "Laurent Nunez"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "French President Emmanuel Macron recently refused the resignation of his Interior Minister, Laurent Nunez. The minister had submitted his resignation on Sunday (October 18, 2026) following protests.",
+      "background": "Political resignations and their acceptance or refusal often reflect the stability of a government and the challenges it faces from public unrest. Laurent Nunez holds a key portfolio responsible for internal security.",
+      "examRelevance": "Laurent Nunez = French Interior Minister, resignation refused by Macron.",
+      "tags": [
+        "Laurent Nunez",
+        "Emmanuel Macron",
+        "France",
+        "Interior Minister"
+      ],
+      "source": {
+        "title": "French President Macron refuses Interior Minister Laurent Nunez's resignation after protests",
+        "url": "https://www.thehindu.com/news/international/french-president-macron-refuses-interior-minister-laurent-nunezs-resignation-after-protests/article71602152.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q8",
+      "question": "In which European country is the Prime Minister currently facing violent protests and refusing to quit, despite the demonstrations entering their sixth day?",
+      "options": [
+        "Bulgaria",
+        "Albania",
+        "Croatia",
+        "Serbia"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The Prime Minister of Albania is currently facing violent protests which have entered their sixth day, with hundreds of protesters demanding his resignation in front of the Education Ministry.",
+      "background": "Political unrest and public demonstrations are common in many countries when citizens express dissatisfaction with government policies or leadership. Albania has seen various periods of political tension.",
+      "examRelevance": "Albanian PM = Facing violent protests and refusing to quit.",
+      "tags": [
+        "Albania",
+        "Protests",
+        "Prime Minister",
+        "Political Unrest"
+      ],
+      "source": {
+        "title": "Albanian PM refuses to quit as violent protests enter sixth day",
+        "url": "https://www.thehindu.com/news/international/albanian-pm-refuses-to-quit-as-violent-protests-enter-sixth-day/article71602046.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q9",
+      "question": "Where was INS Samarthak recently commissioned, with Vice President C.P. Radhakrishan terming it a milestone in self-reliant defence manufacturing?",
+      "options": [
+        "Kochi",
+        "Visakhapatnam",
+        "Karwar",
+        "Chennai"
+      ],
+      "answerIndex": 2,
+      "category": "Defence",
+      "explanation": "INS Samarthak was recently commissioned at Karwar. Vice President C.P. Radhakrishan highlighted that the vessel, with more than 75% indigenous content, is a milestone in self-reliant defence manufacturing and reflects India's growing industrial and technological capabilities.",
+      "background": "The commissioning of indigenous naval vessels like INS Samarthak is a critical step towards strengthening India's maritime security and achieving 'Atmanirbhar Bharat' in defence. Karwar is a significant naval base on India's west coast.",
+      "examRelevance": "INS Samarthak commissioning = Karwar.",
+      "tags": [
+        "INS Samarthak",
+        "Karwar",
+        "Defence",
+        "Indigenous Content"
+      ],
+      "source": {
+        "title": "INS Samarthak commissioned at Karwar, Vice President C.P. Radhakrishan terms it a milestone in self-reliant defence manufacturing",
+        "url": "https://www.thehindu.com/news/national/karnataka/ins-samarthak-commissioned-at-karwar-vice-president-cp-radhakrishan-terms-it-a-milestone-in-self-reliant-defence-manufacturing/article71593300.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q10",
+      "question": "Which airport's X (formerly Twitter) account was recently hacked, leading to the publication of posts promoting cryptocurrency?",
+      "options": [
+        "Rajiv Gandhi International Airport, Hyderabad",
+        "Chhatrapati Shivaji Maharaj International Airport, Mumbai",
+        "Kempegowda International Airport, Bengaluru",
+        "Indira Gandhi International Airport, Delhi"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Hyderabad airport’s X handle, ‘@RGIAHyd’, was recently hacked. The hackers published posts promoting ‘StonkFun Season 1’, an eligibility checker linked to the Stonk App and the Solana cryptocurrency ecosystem, before the airport regained access.",
+      "background": "Cybersecurity breaches targeting official accounts of prominent organizations are a growing concern. Such incidents can be used for financial scams or spreading misinformation, highlighting the need for robust digital security.",
+      "examRelevance": "Hyderabad Airport X account = Hacked for cryptocurrency promotion.",
+      "tags": [
+        "Hyderabad Airport",
+        "X Account",
+        "Hacking",
+        "Cryptocurrency"
+      ],
+      "source": {
+        "title": "Hyderabad airport regains X account access after cryptocurrency promotion posts by hackers",
+        "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabads-rgia-x-account-was-hacking/article71602090.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q11",
+      "question": "The first phase of a new KSRTC bus terminal is set to begin soon at Karikkamuri, located in which city?",
+      "options": [
+        "Kozhikode",
+        "Thrissur",
+        "Kochi",
+        "Thiruvananthapuram"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "Work on the first phase of a new KSRTC bus terminal is set to begin soon at Karikkamuri. A tender for ₹9.23 crore has been awarded for the project in Kochi, which aims to address waterlogging problems at the existing bus stand.",
+      "background": "Infrastructure development projects like new bus terminals are crucial for improving urban transportation and connectivity. This project in Kochi is expected to enhance public convenience and urban resilience.",
+      "examRelevance": "New KSRTC bus terminal Karikkamuri = Kochi.",
+      "tags": [
+        "KSRTC",
+        "Bus Terminal",
+        "Karikkamuri",
+        "Kochi",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "Work on first phase of new KSRTC bus terminal at Karikkamuri to begin soon",
+        "url": "https://www.thehindu.com/news/national/kerala/tender-finalised-for-first-phase-of-new-ksrtc-bus-terminal-at-karikkamury/article71600656.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q12",
+      "question": "Which ancient settlement in Keralam, known for its archaeological discoveries, is currently seeking a renewed vision for multidisciplinary research and community participation?",
+      "options": [
+        "Muziris",
+        "Alappuzha",
+        "Kodungallur",
+        "Pattanam"
+      ],
+      "answerIndex": 3,
+      "category": "Art & Culture",
+      "explanation": "The ancient settlement of Pattanam in Keralam, known for its archaeological discoveries connected to a vast network, is in need of a renewed vision. Reviving its wider research and educational programme could transform it into a global centre for multidisciplinary research, learning, and community participation.",
+      "background": "Pattanam is widely believed to be the ancient port of Muziris, a significant trading hub in the Indian Ocean during ancient times. The site has yielded numerous artifacts indicating extensive trade links with Roman and other civilizations.",
+      "examRelevance": "Pattanam = Ancient settlement in Kerala, archaeological research.",
+      "tags": [
+        "Pattanam",
+        "Archaeology",
+        "Kerala",
+        "Muziris",
+        "Ancient Settlement"
+      ],
+      "source": {
+        "title": "After a decade of disruption, Pattanam needs a renewed vision",
+        "url": "https://www.thehindu.com/news/national/kerala/after-a-decade-of-disruption-pattanam-needs-a-renewed-vision/article71600946.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q13",
+      "question": "In which district of Manipur were prohibitory orders recently clamped following clashes that resulted in one death and several injuries?",
+      "options": [
+        "Imphal West",
+        "Bishnupur",
+        "Churachandpur",
+        "Thoubal"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "District authorities in Thoubal district of Manipur recently imposed prohibitory orders, restricting people from leaving their residences. This action followed clashes that resulted in one death, several injuries, and the burning of houses and vehicles in the affected areas.",
+      "background": "Manipur has been experiencing ethnic tensions and sporadic violence for an extended period. The imposition of prohibitory orders (Section 144 CrPC) is a common measure to control law and order situations and prevent further escalation.",
+      "examRelevance": "Manipur clashes = Thoubal district, prohibitory orders.",
+      "tags": [
+        "Manipur",
+        "Thoubal",
+        "Clashes",
+        "Prohibitory Orders"
+      ],
+      "source": {
+        "title": "One dead, several injured in clashes in Manipur's Thoubal district, prohibitory orders clamped",
+        "url": "https://www.thehindu.com/news/national/manipur/one-dead-several-injured-in-manipurs-thoubal-district-prohibitory-orders-clamped/article71602051.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q14",
+      "question": "Kylian Mbappé recently scored a double in Real Madrid's win against which team, ahead of El Clasico?",
+      "options": [
+        "Real Sociedad",
+        "Sevilla",
+        "Atletico Madrid",
+        "Valencia"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Kylian Mbappé scored a double, contributing to Real Madrid's win against Sevilla. This victory came ahead of their much-anticipated match, El Clasico.",
+      "background": "Kylian Mbappé is a prominent figure in international football, and his performance for Real Madrid is closely watched. Matches against strong opponents like Sevilla are crucial in league standings and build momentum for major fixtures like El Clasico.",
+      "examRelevance": "Kylian Mbappé = Scored double for Real Madrid vs Sevilla.",
+      "tags": [
+        "Kylian Mbappé",
+        "Real Madrid",
+        "Sevilla",
+        "Football",
+        "La Liga"
+      ],
+      "source": {
+        "title": "Real Madrid vs Sevilla: Mbappe double, Diomande heroics in Madrid’s win ahead of El Clasico",
+        "url": "https://www.thehindu.com/sport/football/real-madrid-vs-sevilla-mbappe-double-diomande-heroics-in-madrids-win-ahead-of-el-clasico/article71602105.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q15",
+      "question": "The Indian government recently directed oil marketing companies to halt the diversion of sugar for ethanol production for which period?",
+      "options": [
+        "2027/28",
+        "2024/25",
+        "2025/26",
+        "2026/27"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Indian government recently directed oil marketing companies to cut sugar diversion for ethanol to zero for the 2026/27 season. This decision led to a slide in India's sugar stocks.",
+      "background": "The government's policy on ethanol blending, often using sugarcane as feedstock, aims to reduce crude oil imports and support sugarcane farmers. However, balancing sugar availability for food consumption and ethanol production is a continuous challenge, especially during periods of price sensitivity or supply concerns.",
+      "examRelevance": "Sugar diversion for ethanol halted = 2026/27.",
+      "tags": [
+        "Ethanol",
+        "Sugar",
+        "Government Policy",
+        "Oil Marketing Companies"
+      ],
+      "source": {
+        "title": "India sugar stocks slide as government halts sugarcane-based ethanol diversion",
+        "url": "https://www.thehindu.com/business/india-sugar-stocks-slide-as-government-halts-sugarcane-based-ethanol-diversion/article71602108.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q16",
+      "question": "What is the name of the anti-drug campaign recently urged by the Home Minister for public embrace during the state-level JOTA-JOTI 2026 in Thrissur?",
+      "options": [
+        "Operation Clean Sweep",
+        "Operation Vigilance",
+        "Operation Falcon",
+        "Operation Toofan"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Home Minister recently sent an anti-drug message over wireless, urging the public to embrace 'Operation Toofan'. This message was delivered during the state-level JOTA-JOTI 2026, which concluded in Thrissur, connecting thousands of students with Scouts worldwide.",
+      "background": "JOTA-JOTI (Jamboree-on-the-Air and Jamboree-on-the-Internet) is an annual international Scouting event that uses amateur radio and the internet to link Scouts and Guides around the world. Government campaigns like 'Operation Toofan' are crucial for raising awareness and combating drug abuse.",
+      "examRelevance": "Kerala anti-drug campaign = Operation Toofan.",
+      "tags": [
+        "Operation Toofan",
+        "Anti-Drug Campaign",
+        "Home Minister",
+        "JOTA-JOTI"
+      ],
+      "source": {
+        "title": "Home Minister sends anti-drug message over wireless, urges public to embrace ‘Operation Toofan’",
+        "url": "https://www.thehindu.com/news/national/kerala/home-minister-sends-anti-drug-message-over-wireless-urges-public-to-embrace-operation-toofan/article71600131.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q17",
+      "question": "Who were the flag bearers for India's Para Asian Games contingent during the opening ceremony?",
+      "options": [
+        "Mariyappan Thangavelu and Bhavinaben Patel",
+        "Avani Lekhara and Sumit Antil",
+        "Devendra Jhajharia and Deepa Malik",
+        "Simran Sharma and Pramod Bhagat"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Paralympic medallist sprinter Simran Sharma and top shuttler Pramod Bhagat led India's Para Asian Games contingent as flag bearers during the opening ceremony. More than 100 Indian athletes participated, showcasing India's heritage.",
+      "background": "The Para Asian Games is a multi-sport event held after every Asian Games for athletes with physical disabilities. The flag bearers represent the spirit and aspirations of the entire contingent, often chosen for their exemplary achievements and leadership.",
+      "examRelevance": "Para Asian Games flag bearers = Simran Sharma and Pramod Bhagat.",
+      "tags": [
+        "Para Asian Games",
+        "Flag Bearers",
+        "Simran Sharma",
+        "Pramod Bhagat",
+        "Indian Contingent"
+      ],
+      "source": {
+        "title": "India's Para Asian Games contingent showcases 5,000 years of heritage",
+        "url": "https://www.thehindu.com/sport/indias-para-asian-games-contingent-showcases-5000-years-of-heritage/article71601142.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q18",
+      "question": "What is the extended deadline for ration card e-KYC in Karnataka?",
+      "options": [
+        "December 5",
+        "October 25",
+        "November 10",
+        "November 20"
+      ],
+      "answerIndex": 2,
+      "category": "Dates & Days",
+      "explanation": "Karnataka has extended the ration card e-KYC deadline to November 10. This extension provides more time for beneficiaries to complete the necessary digital verification process.",
+      "background": "E-KYC (Electronic Know Your Customer) for ration cards is a government initiative to streamline the public distribution system, prevent leakages, and ensure that subsidies reach the genuine beneficiaries. Deadlines are often extended to accommodate a larger population and address technical challenges.",
+      "examRelevance": "Karnataka ration card e-KYC deadline = November 10.",
+      "tags": [
+        "Karnataka",
+        "Ration Card",
+        "e-KYC",
+        "Deadline"
+      ],
+      "source": {
+        "title": "Karnataka extends ration card e-KYC deadline to November 10",
+        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-extends-ration-card-e-kyc-deadline-to-november-10/article71600311.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q19",
+      "question": "A panel is currently studying the availability of elephant fodder in the conflict-hit Devikulam range, located in which district of Kerala?",
+      "options": [
+        "Wayanad",
+        "Idukki",
+        "Palakkad",
+        "Kollam"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "A panel has been formed to study the availability of elephant fodder in the conflict-hit Devikulam range, which is located in Idukki district of Kerala. This study addresses allegations regarding attempts to restore a wild elephant corridor in Chinnakkanal.",
+      "background": "Human-elephant conflict is a significant environmental challenge in many parts of India, often exacerbated by habitat fragmentation and diminishing food sources for wild animals. Such studies are crucial for developing effective wildlife management and conservation strategies.",
+      "examRelevance": "Elephant fodder study location = Devikulam range, Idukki district, Kerala.",
+      "tags": [
+        "Elephant Fodder",
+        "Devikulam Range",
+        "Idukki",
+        "Kerala",
+        "Human-Elephant Conflict"
+      ],
+      "source": {
+        "title": "Panel studying availability of elephant fodder in conflict-hit region in Idukki’s Devikulam range, say officials",
+        "url": "https://www.thehindu.com/news/national/kerala/panel-studying-availability-of-elephant-fodder-in-conflict-hit-region-in-idukki-clarify-officials/article71600097.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q20",
+      "question": "Which Russian military satellite recently made a 'close approach' to ICEYE-X36, a commercial radar-imaging satellite registered in the U.S. and whose operator supplies data to Ukraine?",
+      "options": [
+        "Cosmos-2504",
+        "Cosmos-2555",
+        "Cosmos-2499",
+        "Cosmos-2612"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Russia’s Cosmos-2612 military satellite recently changed its orbit repeatedly to make a 'close approach' to ICEYE-X36, a commercial radar-imaging satellite registered in the U.S. The operator of ICEYE-X36 currently supplies data to Ukraine.",
+      "background": "Such close approaches by military satellites to commercial or foreign satellites raise concerns about space security and potential for interference or surveillance. This incident highlights the growing strategic importance of space assets and the complexities of international relations in orbit.",
+      "examRelevance": "Russian military satellite approaching US satellite = Cosmos-2612.",
+      "tags": [
+        "Cosmos-2612",
+        "ICEYE-X36",
+        "Satellite",
+        "Space Security",
+        "Russia",
+        "US"
+      ],
+      "source": {
+        "title": "Russian military satellite makes ‘close approach’ to U.S. radar satellite in orbit",
+        "url": "https://www.thehindu.com/sci-tech/science/russian-military-satellite-stalks-us-radar-satellite-in-orbit/article71599219.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q21",
+      "question": "Where was the first Jamboo Savari rehearsal recently held as part of the Mysuru Dasara celebrations?",
+      "options": [
+        "Dasara Exhibition Grounds",
+        "Chamundi Hills",
+        "Kukkarahalli Lake",
+        "Mysuru Palace"
+      ],
+      "answerIndex": 3,
+      "category": "Art & Culture",
+      "explanation": "The first Jamboo Savari rehearsal was recently held at the Mysuru Palace. The rehearsal included a demonstration of the flower-showering ritual on the idol of Goddess Chamundeshwari, a key part of the Dasara festivities.",
+      "background": "Jamboo Savari is the grand finale of the Mysuru Dasara festival, featuring a procession of caparisoned elephants carrying the idol of Goddess Chamundeshwari. Rehearsals are essential to ensure the smooth conduct of this historic and culturally significant event.",
+      "examRelevance": "Jamboo Savari rehearsal = Mysuru Palace.",
+      "tags": [
+        "Jamboo Savari",
+        "Mysuru Dasara",
+        "Mysuru Palace",
+        "Culture",
+        "Karnataka"
+      ],
+      "source": {
+        "title": "First Jamboo Savari rehearsal held at Mysuru palace",
+        "url": "https://www.thehindu.com/news/national/karnataka/first-jamboo-savari-rehearsal-held-at-mysuru-palace/article71599426.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q22",
+      "question": "What was the Indian Rupee's value against the U.S. dollar in early trade after it recently rose by 9 paise?",
+      "options": [
+        "96.50",
+        "95.90",
+        "93.70",
+        "94.80"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Indian Rupee recently rose by 9 paise to trade at 94.80 against the U.S. dollar in early trade. Forex traders noted this as its sharpest rally in seven months, though the surge in Brent crude oil posed a threat to this recovery.",
+      "background": "Currency exchange rates are influenced by various factors, including interest rate differentials, trade balances, and global economic sentiment. A stronger rupee can make imports cheaper and help control inflation, but can also impact export competitiveness.",
+      "examRelevance": "Indian Rupee value = 94.80 against U.S. dollar.",
+      "tags": [
+        "Indian Rupee",
+        "U.S. Dollar",
+        "Forex",
+        "Exchange Rate",
+        "Economy"
+      ],
+      "source": {
+        "title": "Rupee rises 9 paise to 94.80 against U.S. dollar in early trade",
+        "url": "https://www.thehindu.com/business/markets/rupee-rises-9-paise-to-9480-against-us-dollar-in-early-trade/article71602081.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q23",
+      "question": "For the first time, the traditional buffalo race 'Kambala' debuted as part of the Mysuru Dasara celebrations. How many buffalo pairs participated in this event?",
+      "options": [
+        "150",
+        "100",
+        "50",
+        "200"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "The traditional buffalo race 'Kambala' made its debut at the Mysuru Dasara celebrations for the first time, featuring 150 pairs of buffaloes. This event added a new dimension to the annual festivities.",
+      "background": "Kambala is a traditional annual buffalo race held in the coastal districts of Karnataka. Its inclusion in the Mysuru Dasara festivities represents an effort to integrate diverse cultural and sporting traditions into major state-level celebrations.",
+      "examRelevance": "Kambala debut at Mysuru Dasara = 150 buffalo pairs.",
+      "tags": [
+        "Kambala",
+        "Mysuru Dasara",
+        "Buffalo Race",
+        "Karnataka",
+        "Traditional Sports"
+      ],
+      "source": {
+        "title": "150 buffalo pairs race as Kambala debuts at Mysuru Dasara",
+        "url": "https://www.thehindu.com/news/national/karnataka/dasara-kambala-makes-debut-in-mysuru-with-150-pairs-of-buffaloes/article71599489.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q24",
+      "question": "B. Madhusoodana Kurup, who recently passed away, was a renowned expert in which field?",
+      "options": [
+        "Archaeology",
+        "Space Technology",
+        "Fisheries",
+        "Classical Dance"
+      ],
+      "answerIndex": 2,
+      "category": "Obituaries",
+      "explanation": "B. Madhusoodana Kurup, a renowned fisheries expert, recently passed away. He was known for his significant contributions to the field of fisheries.",
+      "background": "Experts like B. Madhusoodana Kurup play a crucial role in the development and sustainable management of vital sectors such as fisheries, impacting both the economy and environment. His passing is a loss to the scientific community.",
+      "examRelevance": "B. Madhusoodana Kurup = Fisheries expert.",
+      "tags": [
+        "B. Madhusoodana Kurup",
+        "Obituary",
+        "Fisheries Expert"
+      ],
+      "source": {
+        "title": "Fisheries expert B. Madhusoodana Kurup passes away",
+        "url": "https://www.thehindu.com/news/national/kerala/fisheries-expert-b-madhusoodana-kurup-passes-away/article71599989.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q25",
+      "question": "What minimum temperature did Delhi record recently, marking this month's coldest night so far?",
+      "options": [
+        "19.0 degree Celsius",
+        "15.5 degree Celsius",
+        "18.3 degree Celsius",
+        "17.1 degree Celsius"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "Delhi recently recorded a minimum temperature of 17.1 degree Celsius, making it this month's coldest night so far. The India Meteorological Department (IMD) has forecast mainly clear skies for the day.",
+      "background": "Such temperature records are important indicators of seasonal changes and can sometimes signify unusual weather patterns. Monitoring these figures helps in understanding climatic trends and issuing timely forecasts for public awareness.",
+      "examRelevance": "Delhi coldest night temperature = 17.1 degree Celsius.",
+      "tags": [
+        "Delhi",
+        "Coldest Night",
+        "Temperature",
+        "IMD",
+        "Weather"
+      ],
+      "source": {
+        "title": "At 17.1 degree Celsius, Delhi records this month’s coldest night so far",
+        "url": "https://www.thehindu.com/news/cities/Delhi/at-171-degree-celsius-delhi-records-this-months-coldest-night-so-far/article71602124.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q26",
+      "question": "Karnataka Chief Minister D.K. Shivakumar recently sought an appointment with Prime Minister Narendra Modi to discuss which two key issues?",
+      "options": [
+        "Border disputes and Naxal insurgency",
+        "Infrastructure development and urban planning",
+        "Education reforms and healthcare funding",
+        "Sugarcane growers’ issues and drought"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Karnataka Chief Minister D.K. Shivakumar recently sought an appointment with Prime Minister Narendra Modi to discuss key issues concerning sugarcane growers and the drought situation in the state. He expressed hope that opposition leaders would join the delegation as they had previously indicated willingness.",
+      "background": "Inter-state and Centre-state discussions on critical issues like agricultural concerns and natural disasters are vital for coordinated governance. Drought and agricultural distress are recurring challenges in many Indian states, requiring urgent policy interventions and financial support.",
+      "examRelevance": "Karnataka CM D.K. Shivakumar = Sought PM appointment for sugarcane growers’ issues and drought.",
+      "tags": [
+        "Karnataka",
+        "D.K. Shivakumar",
+        "Narendra Modi",
+        "Sugarcane Growers",
+        "Drought"
+      ],
+      "source": {
+        "title": "Karnataka Chief Minister D.K. Shivakumar seeks Prime Minister Narendra Modi’s appointment to discuss sugarcane growers’ issues and drought",
+        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-chief-minister-dk-shivakumar-seeks-prime-minister-narendra-modis-appointment-to-discuss-sugarcane-growers-issues-and-drought/article71600737.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q27",
+      "question": "Which world leader recently proposed a summit with Donald Trump and Xi Jinping to discuss a Ukraine deal?",
+      "options": [
+        "Emmanuel Macron",
+        "Olaf Scholz",
+        "Vladimir Putin",
+        "Joe Biden"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Russian President Vladimir Putin recently proposed a summit with former U.S. President Donald Trump and Chinese President Xi Jinping to discuss a Ukraine deal. This proposal comes amid warming ties between Trump and Putin.",
+      "background": "The ongoing conflict in Ukraine has significant geopolitical implications, and various international actors are exploring diplomatic avenues for resolution. A summit involving these key global leaders would represent a major diplomatic effort to address the conflict.",
+      "examRelevance": "Vladimir Putin = Proposed summit with Trump and Xi for Ukraine deal.",
+      "tags": [
+        "Vladimir Putin",
+        "Donald Trump",
+        "Xi Jinping",
+        "Ukraine Deal",
+        "International Summit"
+      ],
+      "source": {
+        "title": "Putin proposes summit with Trump and Xi to discuss Ukraine deal: report",
+        "url": "https://www.thehindu.com/news/international/putin-proposes-summit-with-trump-and-xi-to-discuss-ukraine-deal-report/article71602034.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q28",
+      "question": "Which Indian state recently introduced new tenancy rules aimed at protecting both tenants and landlords?",
+      "options": [
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Bihar",
+        "Madhya Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Uttar Pradesh recently introduced new tenancy rules designed to protect the interests of both tenants and landlords. These rules aim to bring greater clarity and fairness to rental agreements.",
+      "background": "Tenancy laws are crucial for regulating the housing market, ensuring equitable relationships between property owners and renters, and resolving disputes. States periodically update these laws to reflect changing socio-economic conditions and address existing challenges.",
+      "examRelevance": "Uttar Pradesh = New tenancy rules.",
+      "tags": [
+        "Uttar Pradesh",
+        "Tenancy Rules",
+        "Landlords",
+        "Tenants",
+        "Governance"
+      ],
+      "source": {
+        "title": "Renting a house in UP? Check the new tenancy rules",
+        "url": "https://economictimes.indiatimes.com/wealth/legal/will/renting-a-house-in-up-new-tenancy-rules-aim-to-protect-both-tenants-and-landlords-know-what-changes/articleshow/135039009.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q29",
+      "question": "Which country recently apologised and approved compensation for its historic 'Spiral Campaign' involving forced contraception of Greenlandic Inuit women?",
+      "options": [
+        "Finland",
+        "Norway",
+        "Sweden",
+        "Denmark"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Denmark recently apologised and approved compensation for its historic 'Spiral Campaign'. This campaign involved fitting thousands of Greenlandic Inuit women and girls with IUDs without their consent between the 1960s and 1990s, reportedly to control the island’s population.",
+      "background": "The 'Spiral Campaign' is a dark chapter in Denmark's colonial history, raising significant questions of accountability, human rights violations, and the legacy of colonialism. The apology and compensation are steps towards addressing these historic wrongs.",
+      "examRelevance": "Denmark = Apology and compensation for 'Spiral Campaign' on Greenlandic Inuit women.",
+      "tags": [
+        "Denmark",
+        "Greenland",
+        "Inuit",
+        "Spiral Campaign",
+        "Forced Contraception",
+        "Human Rights"
+      ],
+      "source": {
+        "title": "The 'Spiral Campaign': Denmark’s forced contraception case of Inuit women | Explained",
+        "url": "https://www.thehindu.com/news/international/the-hinud-explainer-denmark-iud-issue-apology-amp-genocide-debate-over-greenland-spiral-campaign/article71600046.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-19-q30",
+      "question": "By which year is Beijing's population expected to become 'super-aged', according to recent projections?",
+      "options": [
+        "2035",
+        "2030",
+        "2045",
+        "2040"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Beijing's population is expected to become 'super-aged' by 2035, according to recent projections. Chinese policymakers have made population planning a key part of the country’s economic strategy.",
+      "background": "A 'super-aged' society is typically defined as one where more than 20% of the population is aged 65 or older. This demographic shift presents significant challenges for healthcare, social security, and economic growth, requiring comprehensive policy responses.",
+      "examRelevance": "Beijing population 'super-aged' = By 2035.",
+      "tags": [
+        "Beijing",
+        "Population",
+        "Super-aged",
+        "Demographics",
+        "China"
+      ],
+      "source": {
+        "title": "Beijing’s population expected to become super-aged by 2035",
+        "url": "https://www.thehindu.com/news/international/beijings-population-expected-to-become-super-aged-by-2035/article71602008.ece"
+      }
+    }
+  ]
+}
