@@ -1,0 +1,779 @@
+{
+  "id": "daily-2026-10-20",
+  "type": "daily",
+  "date": "2026-10-20",
+  "title": "Current Affairs — 20 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-20-q1",
+      "question": "Japan Aerospace Exploration Agency (JAXA) recently launched its Martian Moons eXploration (MMX) spacecraft. Which Martian moon is the primary target for sample collection?",
+      "options": [
+        "Deimos",
+        "Phobos",
+        "Ganymede",
+        "Titan"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The Japan Aerospace Exploration Agency (JAXA) successfully launched its uncrewed Martian Moons eXploration (MMX) spacecraft from the Tanegashima Space Center. The mission aims to collect samples from Phobos, one of Mars' two moons, and return them to Earth for analysis by 2031.",
+      "background": "The MMX mission is a pioneering effort to understand the origin of Mars' moons, Phobos and Deimos, and potentially the formation of planetary systems. Previous missions have orbited Mars and its moons, but MMX is designed to be the first to collect and return samples from Phobos.",
+      "examRelevance": "JAXA's MMX mission targets Phobos for sample return, launched from Tanegashima Space Center.",
+      "tags": [
+        "JAXA",
+        "MMX",
+        "Phobos",
+        "Mars",
+        "Space Mission"
+      ],
+      "source": {
+        "title": "Japan’s mission to bring Phobos home",
+        "url": "https://economictimes.indiatimes.com/news/science/japan-launches-spacecraft-on-mission-to-bring-mars-moon-samples-to-earth/articleshow/135061217.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q2",
+      "question": "Jio Platforms' initial public offering (IPO) is set to open on October 21. What is the approximate total issue size of this IPO?",
+      "options": [
+        "₹30,200 crore",
+        "₹45,800 crore",
+        "₹15,100 crore",
+        "₹20,500 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Jio Platforms’ initial public offering (IPO), India's largest ever, is valued at approximately ₹30,200 crore. The IPO is scheduled to open for public subscription on October 21 and close on October 23, with shares priced at ₹1,065-1,119 apiece.",
+      "background": "Ahead of its public subscription, Jio Platforms' anchor book garnered a record ₹2.5 lakh crore in bids, indicating strong investor interest. The grey market premium also suggested a potential listing gain of 22% over the upper end of its price band.",
+      "examRelevance": "Jio Platforms IPO issue size is ₹30,200 crore, opening October 21.",
+      "tags": [
+        "Jio Platforms",
+        "IPO",
+        "Stock Market",
+        "Economy"
+      ],
+      "source": {
+        "title": "Jio IPO’s GMP rises to 22% as India’s largest ever issue set to open on October 21. Should you subscribe?",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q3",
+      "question": "The U.S. recently announced an $8 billion support program for its farmers. What is the primary purpose of this program?",
+      "options": [
+        "To promote organic farming practices",
+        "To provide subsidies for livestock farming",
+        "To fund research into new crop varieties",
+        "To offset diesel costs for agricultural operations"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The U.S. government announced an $8 billion support program for farmers, administered by the Department of Agriculture’s Farm Service Agency. The program is specifically designed to help offset the rising diesel costs faced by agricultural producers.",
+      "background": "Government support programs for farmers are common in many countries, aiming to stabilize agricultural incomes, ensure food security, and mitigate the impact of market fluctuations or rising input costs. This particular initiative addresses the economic pressures from fuel prices.",
+      "examRelevance": "U.S. launches $8 billion program for farmers to offset diesel costs.",
+      "tags": [
+        "US",
+        "Farmers",
+        "Agricultural Aid",
+        "Diesel Costs"
+      ],
+      "source": {
+        "title": "U.S. to launch $8 billion support program for farmers to offset diesel costs, Trump says",
+        "url": "https://www.thehindu.com/news/international/us-to-launch-8-billion-support-program-for-farmers-to-offset-diesel-costs-trump-says/article71603170.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q4",
+      "question": "Which of the following European countries has NOT been prominently mentioned in recent reports regarding widespread social unrest and protests?",
+      "options": [
+        "France",
+        "Germany",
+        "Albania",
+        "Italy"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Recent reports have highlighted widespread social unrest, protests, and violence across France, Italy, and Albania, leading to arrests, looting, and injuries. India has also issued an advisory to its nationals in Italy to exercise caution.",
+      "background": "Such widespread unrest often stems from a combination of economic grievances, social inequalities, and political dissatisfaction. In response to the disorder, Paris police issued an overnight curfew in specific areas to prevent further disturbances.",
+      "examRelevance": "France, Italy, and Albania are experiencing widespread social unrest.",
+      "tags": [
+        "Europe",
+        "Social Unrest",
+        "Protests",
+        "France",
+        "Italy",
+        "Albania"
+      ],
+      "source": {
+        "title": "From France to Albania, social unrest is setting Europe’s streets ablaze",
+        "url": "https://www.thehindu.com/news/international/from-france-to-albania-social-unrest-is-setting-europes-streets-ablaze/article71603162.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q5",
+      "question": "Deepthi Jeevanji recently won a gold medal at the Asian Para Games 2026. In which event did she achieve this feat, setting a new Para Asian Games record?",
+      "options": [
+        "Women’s Long Jump T12",
+        "Women’s 400m T20",
+        "Women’s 100m T11",
+        "Women’s Discus Throw F37"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Deepthi Jeevanji clinched a gold medal in the women’s 400m T20 event at the Asian Para Games 2026, held in Aichi-Nagoya. She set a new Para Asian Games record with a time of 56.36 seconds.",
+      "background": "The Asian Para Games is a multi-sport event held after every Asian Games for athletes with disabilities. Deepthi Jeevanji's performance highlights India's growing presence and success in para-sports on the international stage.",
+      "examRelevance": "Deepthi Jeevanji won gold in Women's 400m T20 at Asian Para Games 2026, setting a new record.",
+      "tags": [
+        "Deepthi Jeevanji",
+        "Asian Para Games",
+        "Athletics",
+        "Gold Medal",
+        "Nagoya"
+      ],
+      "source": {
+        "title": "Asian Para Games 2026: Deepthi Jeevanji takes women’s 400m T20 gold",
+        "url": "https://www.thehindu.com/sport/athletics/para-asian-games-2026-in-nagoya-october-20-2026/article71603149.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q6",
+      "question": "Portuguese footballer Cristiano Ronaldo was recently suspended for 30 days and fined. What was the reason for this disciplinary action?",
+      "options": [
+        "Violation of anti-doping rules",
+        "Walking out on the Portugal national team camp",
+        "Public criticism of the team coach",
+        "Misconduct during a match"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Cristiano Ronaldo was provisionally suspended for 30 days and fined by the Portuguese Football Federation. The disciplinary action was taken because he walked out on the Portugal national team camp.",
+      "background": "Ronaldo is one of the most celebrated footballers globally, known for his prolific scoring and numerous accolades. Disciplinary actions against high-profile athletes often draw significant media attention due to their public stature and influence.",
+      "examRelevance": "Cristiano Ronaldo suspended for 30 days by Portuguese Football Federation for walking out on camp.",
+      "tags": [
+        "Cristiano Ronaldo",
+        "Football",
+        "Portugal",
+        "Suspension"
+      ],
+      "source": {
+        "title": "Cristiano Ronaldo suspended for 30 days and fined for walking out on Portugal camp",
+        "url": "https://www.thehindu.com/sport/football/cristiano-ronaldo-suspended-for-30-days-and-fined-for-walking-out-on-portugal-camp/article71603165.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q7",
+      "question": "At least 14 miners were killed in a recent gold mine collapse. In which country did this tragic incident occur?",
+      "options": [
+        "Brazil",
+        "Peru",
+        "Colombia",
+        "Chile"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "At least 14 miners were killed when an open-pit gold mine collapsed in a remote corner of Colombia’s Nariño province. The incident highlights the dangers associated with mining, particularly in regions with informal or illegal operations.",
+      "background": "Colombia has a significant mining industry, including both legal and illegal operations. Accidents in informal mines are unfortunately common due to inadequate safety measures and oversight, leading to frequent fatalities.",
+      "examRelevance": "Gold mine collapse killed 14 miners in Nariño province, Colombia.",
+      "tags": [
+        "Colombia",
+        "Mining Accident",
+        "Gold Mine",
+        "Nariño"
+      ],
+      "source": {
+        "title": "Gold mine collapse kills at least 14 in southwest Colombia",
+        "url": "https://www.thehindu.com/news/international/gold-mine-collapse-in-colombias-narino-province/article71603089.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q8",
+      "question": "U.S. Senator Marco Rubio recently commenced a three-day visit to India. What is his political affiliation?",
+      "options": [
+        "Libertarian Party",
+        "Republican Party",
+        "Green Party",
+        "Democratic Party"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "U.S. Senator Marco Rubio, a prominent Republican, commenced a three-day visit to India. During his visit, he referred to India as a 'key ally' and discussed various aspects of the bilateral relationship, including India's energy purchases from Russia.",
+      "background": "Visits by high-ranking U.S. officials and lawmakers are crucial for strengthening diplomatic ties and discussing strategic and economic cooperation. Such interactions often cover a broad range of issues, from trade and security to regional stability.",
+      "examRelevance": "U.S. Republican Senator Marco Rubio is on a three-day visit to India.",
+      "tags": [
+        "Marco Rubio",
+        "India",
+        "USA",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Marco Rubio to to commence three-day visit to India",
+        "url": "https://economictimes.indiatimes.com/news/india/marco-rubio-to-to-commence-three-day-visit-to-india-calls-india-key-ally-says-its-russian-energy-purchases-need-to-be-understood/articleshow/135059291.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q9",
+      "question": "Apple India's revenue for Fiscal Year 2026 (FY26) recently crossed a significant milestone. What was this revenue figure?",
+      "options": [
+        "₹50,000 crore",
+        "₹75,000 crore",
+        "₹1.5 lakh crore",
+        "₹1 lakh crore"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Apple India's revenue for Fiscal Year 2026 (FY26) successfully crossed the ₹1 lakh crore mark. This achievement signifies strong growth and increased market penetration for the technology giant in the Indian market.",
+      "background": "India has emerged as a crucial growth market for global technology companies, including Apple. The company has been expanding its retail presence and manufacturing capabilities in India, contributing to its revenue growth and market share.",
+      "examRelevance": "Apple India's FY26 revenue crossed ₹1 lakh crore.",
+      "tags": [
+        "Apple India",
+        "Revenue",
+        "FY26",
+        "Economy",
+        "Business"
+      ],
+      "source": {
+        "title": "Apple India FY26 revenue crosses Rs 1 lakh crore",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-india-in-sweet-spot-as-fy26-revenue-crosses-rs-1-lakh-crore-profit-soars/articleshow/135055778.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q10",
+      "question": "Recent reports indicate that gunmen on motorcycles killed at least 40 civilians, primarily targeting members of the Daoussahak community. In which country did this incident occur?",
+      "options": [
+        "Mali",
+        "Niger",
+        "Burkina Faso",
+        "Chad"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Gunmen riding motorcycles reportedly killed at least 40 civilians in Mali, specifically targeting camps mainly housing members of the Daoussahak community. The incident was reported by security and community sources.",
+      "background": "Mali and the wider Sahel region have been grappling with widespread insecurity, insurgency, and ethnic violence for several years. Armed groups, including jihadists and local militias, frequently carry out attacks on civilian populations.",
+      "examRelevance": "At least 40 civilians killed in Mali by gunmen targeting Daoussahak community.",
+      "tags": [
+        "Mali",
+        "Civilian Killings",
+        "Daoussahak Community",
+        "Insecurity"
+      ],
+      "source": {
+        "title": "Gunmen kill at least 40 civilians in Mali: security and community sources",
+        "url": "https://www.thehindu.com/news/international/armed-attackers-on-motorcycles-kill-many-civilians-in-mali-targeting-daoussahak-camps/article71603093.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q11",
+      "question": "The Saudi envoy recently met with the Pakistan Army chief to discuss regional security dynamics. What is the name of the framework under which both sides expressed satisfaction over progress and underscored strengthening defence collaboration?",
+      "options": [
+        "Riyadh Security Initiative",
+        "Makkah Joint Defence Agreement",
+        "Gulf Cooperation Council Defence Pact",
+        "Islamabad Strategic Partnership"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "During a meeting at General Headquarters in Rawalpindi, the Saudi envoy and Pakistan Army chief expressed satisfaction over progress made under the framework of the Makkah Joint Defence Agreement. They also emphasized strengthening defence collaboration, institutional linkages, and strategic coordination.",
+      "background": "Saudi Arabia and Pakistan have historically maintained strong defence and strategic ties, rooted in shared religious and geopolitical interests. This agreement likely provides a structured approach for their ongoing military and security cooperation.",
+      "examRelevance": "Saudi Arabia and Pakistan affirmed defence collaboration under the Makkah Joint Defence Agreement.",
+      "tags": [
+        "Saudi Arabia",
+        "Pakistan",
+        "Defence",
+        "Makkah Joint Defence Agreement"
+      ],
+      "source": {
+        "title": "Saudi envoy meets Pakistan Army chief, discusses regional security dynamics",
+        "url": "https://www.thehindu.com/news/international/saudi-envoy-meets-pakistan-army-chief-discusses-regional-security-dynamics/article71603090.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q12",
+      "question": "External Affairs Minister S. Jaishankar recently welcomed the Foreign Minister of UAE in Mumbai. Who is the current Foreign Minister of the UAE?",
+      "options": [
+        "Sheikh Hamdan bin Mohammed Al Maktoum",
+        "Sheikh Mansour bin Zayed Al Nahyan",
+        "Sheikh Abdullah bin Zayed Al Nahyan",
+        "Sheikh Mohammed bin Rashid Al Maktoum"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "External Affairs Minister S. Jaishankar welcomed UAE’s Foreign Minister Al Nahyan in Mumbai. The UAE Foreign Minister, who is also the Prime Minister, held wide-ranging talks with Jaishankar on October 20.",
+      "background": "India and the UAE share a comprehensive strategic partnership, with strong ties in trade, investment, energy, and diaspora. High-level visits like this are instrumental in reviewing bilateral cooperation and exploring new avenues for collaboration.",
+      "examRelevance": "UAE Foreign Minister Sheikh Abdullah bin Zayed Al Nahyan met EAM S. Jaishankar in Mumbai.",
+      "tags": [
+        "UAE",
+        "India",
+        "S. Jaishankar",
+        "Al Nahyan",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Jaishankar welcomes UAE’s Foreign Minister Al Nahyan in Mumbai",
+        "url": "https://www.thehindu.com/news/national/jaishankar-receives-uaes-foreign-minister-al-nahyan-at-mumbai-airport/article71603083.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q13",
+      "question": "Saudi Arabia has expressed keen interest in enhancing ties with India in a specific infrastructure sector. Which sector is this?",
+      "options": [
+        "Renewable energy production",
+        "Power grid systems",
+        "Water management systems",
+        "Railway networks"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Saudi Arabia has expressed its keenness for enhanced ties with India, specifically in the area of power grid systems. This indicates a potential for collaboration in energy infrastructure and technology sharing between the two nations.",
+      "background": "Both India and Saudi Arabia are undergoing significant energy transitions and infrastructure development. Collaboration in power grid systems could involve sharing expertise, technology, and investment to build more resilient and efficient electricity networks.",
+      "examRelevance": "Saudi Arabia keen on enhanced ties with India on power grid systems.",
+      "tags": [
+        "Saudi Arabia",
+        "India",
+        "Power Grid",
+        "Energy Cooperation"
+      ],
+      "source": {
+        "title": "Saudi keen on ties with India on power grid systems",
+        "url": "https://economictimes.indiatimes.com/industry/energy/power/saudi-arabia-keen-on-enhanced-ties-with-india-on-power-grid-systems/articleshow/135055780.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q14",
+      "question": "On October 19, drone attacks reportedly killed three children in Khartoum and dozens of civilians in Kordofan. In which country did these attacks occur?",
+      "options": [
+        "South Sudan",
+        "Sudan",
+        "Ethiopia",
+        "Eritrea"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Drone attacks on October 19 resulted in the deaths of three children in Sudan’s capital, Khartoum, and dozens of civilians in Kordofan. The attacks were reported by Emergency Lawyers, a group monitoring violence against civilians.",
+      "background": "Sudan has been embroiled in a severe conflict between rival military factions, leading to widespread violence and a humanitarian crisis. Drone strikes have become a feature of this conflict, often causing civilian casualties.",
+      "examRelevance": "Drone attacks in Khartoum and Kordofan, Sudan, killed civilians including children.",
+      "tags": [
+        "Sudan",
+        "Khartoum",
+        "Drone Attacks",
+        "Civilian Casualties"
+      ],
+      "source": {
+        "title": "Sudan drone attacks kill three children in Khartoum, dozens of civilians in Kordofan",
+        "url": "https://www.thehindu.com/news/international/sudan-drone-attacks-kill-three-children-in-khartoum-dozens-of-civilians-in-kordofan/article71603076.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q15",
+      "question": "UEFA recently set a deadline for FIFA to release documents related to Gianni Infantino's World Cup plan. What is this deadline?",
+      "options": [
+        "November 10",
+        "November 2",
+        "October 25",
+        "December 1"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "UEFA submitted 42 detailed questions to FIFA and demanded responses by November 2. This deadline is set for FIFA to release documents concerning Gianni Infantino's World Cup plan, ahead of the nomination deadline for the presidential election next March 18.",
+      "background": "The relationship between UEFA and FIFA, especially concerning major tournament formats and governance, has often been fraught with disagreements. This demand by UEFA underscores the ongoing scrutiny and political dynamics within global football's governing bodies.",
+      "examRelevance": "UEFA set November 2 deadline for FIFA to release Infantino World Cup plan documents.",
+      "tags": [
+        "UEFA",
+        "FIFA",
+        "Gianni Infantino",
+        "World Cup",
+        "Football Governance"
+      ],
+      "source": {
+        "title": "UEFA gives FIFA November 2 deadline to release Infantino World Cup plan documents",
+        "url": "https://www.thehindu.com/sport/football/uefa-gives-fifa-november-2-deadline-to-release-infantino-world-cup-plan-documents/article71603055.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q16",
+      "question": "Odisha Chief Minister Naveen Patnaik recently questioned his government's 'silence' over Andhra Pradesh's poll notification for disputed villages. Which specific Gram Panchayat is at the center of this decades-old interstate dispute?",
+      "options": [
+        "Salur Gram Panchayat",
+        "Kotia Gram Panchayat",
+        "Pottangi Gram Panchayat",
+        "Koraput Gram Panchayat"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Odisha Chief Minister Naveen Patnaik criticized his government's inaction regarding Andhra Pradesh's poll notification for the disputed Kotia villages. The decades-old dispute involves both Odisha and Andhra Pradesh claiming rights over 21 of the 28 villages of the Kotia Gram Panchayat.",
+      "background": "Interstate border disputes are common in India, often leading to administrative and political tensions. The Kotia dispute highlights the complexities of such issues, affecting local governance and the lives of residents in the contested areas.",
+      "examRelevance": "Kotia Gram Panchayat villages are disputed between Odisha and Andhra Pradesh.",
+      "tags": [
+        "Odisha",
+        "Andhra Pradesh",
+        "Kotia Villages",
+        "Interstate Dispute",
+        "Naveen Patnaik"
+      ],
+      "source": {
+        "title": "Naveen Patnaik questions Odisha government’s 'silence' on Andhra’s poll notification for disputed Kotia villages",
+        "url": "https://www.thehindu.com/news/national/odisha/naveen-patnaik-questions-odisha-governments-silence-on-andhras-poll-notification-for-disputed-kotia-villages/article71603050.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q17",
+      "question": "A Kuki group recently announced a shutdown of a key highway in Manipur following attacks on villages, leading to clashes in Thoubal district. Which district's Superintendent of Police was subsequently transferred by the state government?",
+      "options": [
+        "Imphal West",
+        "Churachandpur",
+        "Kamjong",
+        "Kakching"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Following attacks on villages and subsequent clashes in Manipur's Thoubal district, a Kuki group announced a shutdown of a key highway. In response to the escalating situation, the state government transferred the Superintendent of Police in charge of Kamjong district.",
+      "background": "Manipur has been experiencing ethnic tensions and violence for an extended period, leading to significant unrest and displacement. Such incidents often trigger law and order responses, including administrative transfers and deployment of security forces.",
+      "examRelevance": "Manipur government transferred Kamjong SP amidst Kuki group's highway shutdown and Thoubal clashes.",
+      "tags": [
+        "Manipur",
+        "Kuki Group",
+        "Highway Shutdown",
+        "Thoubal",
+        "Kamjong"
+      ],
+      "source": {
+        "title": "Kuki group announces shutdown of key Manipur highway after attacks on villages",
+        "url": "https://www.thehindu.com/news/national/manipur/kuki-group-announces-shutdown-of-key-manipur-highway-after-attacks-on-villages/article71600255.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q18",
+      "question": "India's Free Trade Agreement (FTA) with New Zealand took effect on October 20. What is the bilateral trade target set between the two countries by 2030 under this pact?",
+      "options": [
+        "₹25,000 crore",
+        "₹35,000 crore",
+        "₹15,000 crore",
+        "₹50,000 crore"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Free Trade Agreement (FTA) between India and New Zealand officially took effect on October 20. This pact aims to achieve a bilateral trade volume of approximately ₹35,000 crore by the year 2030, offering Indian exports full duty-free access.",
+      "background": "Free trade agreements are crucial for boosting economic ties between nations by reducing trade barriers such as tariffs. Key Indian sectors like textiles, leather, pharmaceuticals, and agriculture are expected to significantly gain market access and competitiveness under this agreement.",
+      "examRelevance": "India-New Zealand FTA effective October 20, targeting ₹35,000 crore bilateral trade by 2030.",
+      "tags": [
+        "India",
+        "New Zealand",
+        "FTA",
+        "Trade Agreement",
+        "Economy"
+      ],
+      "source": {
+        "title": "India-New Zealand trade pact takes effect on October 20: How it benefits both sides | Key highlights",
+        "url": "https://www.livemint.com/economy/indianew-zealand-trade-pact-takes-effect-on-october-20-how-it-benefits-both-sides-key-highlights-11792426810108.html"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q19",
+      "question": "External Affairs Minister S. Jaishankar recently met with the CEO of SWIFT in Delhi. In which country is SWIFT headquartered?",
+      "options": [
+        "Switzerland",
+        "Belgium",
+        "United Kingdom",
+        "United States"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "External Affairs Minister S. Jaishankar recently met with the CEO of SWIFT in Delhi. SWIFT (Society for Worldwide Interbank Financial Telecommunication) is a globally inclusive organization that is headquartered in Belgium.",
+      "background": "SWIFT provides a network that enables financial institutions worldwide to send and receive information about financial transactions in a secure, standardized, and reliable environment. Meetings with its CEO often involve discussions on global financial connectivity and security.",
+      "examRelevance": "EAM S. Jaishankar met SWIFT CEO in Delhi; SWIFT is headquartered in Belgium.",
+      "tags": [
+        "S. Jaishankar",
+        "SWIFT",
+        "Belgium",
+        "International Finance"
+      ],
+      "source": {
+        "title": "Jaishankar meets Swift CEO in Delhi",
+        "url": "https://www.thehindu.com/news/national/jaishankar-meets-swift-ceo-in-delhi/article71603032.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q20",
+      "question": "South African President Cyril Ramaphosa recently told his country to prepare for the potential loss of a significant U.S.-Africa trade deal. Which trade deal is he referring to?",
+      "options": [
+        "U.S.-Southern African Customs Union Agreement (US-SACU)",
+        "Compact with Africa Initiative (CAI)",
+        "Trans-African Free Trade Agreement (TAFTA)",
+        "African Growth and Opportunity Act (AGOA)"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "South African President Cyril Ramaphosa advised his nation to prepare for the potential loss of the African Growth and Opportunity Act (AGOA). AGOA grants eligible sub-Saharan African countries preferential access to the U.S. market and has been renewed until the end of 2028.",
+      "background": "AGOA has been a cornerstone of U.S. trade policy with sub-Saharan Africa, providing duty-free access for thousands of products. Concerns about its potential loss often arise due to geopolitical shifts or specific bilateral issues, impacting economies reliant on this preferential access.",
+      "examRelevance": "South Africa's President Ramaphosa cautioned about the potential loss of the U.S. AGOA trade deal.",
+      "tags": [
+        "South Africa",
+        "AGOA",
+        "USA",
+        "Trade Deal",
+        "Cyril Ramaphosa"
+      ],
+      "source": {
+        "title": "Cyril Ramaphosa tells South Africa to prepare for loss of U.S.-Africa trade deal",
+        "url": "https://www.thehindu.com/news/international/cyril-ramaphosa-tells-south-africa-to-prepare-for-loss-of-us-africa-trade-deal/article71603027.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q21",
+      "question": "Amidst the threat of El Niño, Telangana plans to create a 14-month foodgrain buffer to cover over three crore people. What is the estimated total quantity of rice (current stock + expected) that Telangana projects to have, sufficient for 11.7 months?",
+      "options": [
+        "22.50 lakh MT",
+        "28.03 lakh MT",
+        "35.10 lakh MT",
+        "15.20 lakh MT"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "Telangana is planning a 14-month foodgrain buffer to support over three crore people, in anticipation of the El Niño threat. The state currently holds 9.64 lakh MT of rice, with an additional 18.39 lakh MT expected, totaling an estimated 28.03 lakh MT, sufficient for 11.7 months.",
+      "background": "Strategic foodgrain reserves are vital for states to ensure food security, especially during periods of climatic uncertainty like El Niño, which can impact agricultural output. This proactive measure aims to mitigate potential shortages and price volatility.",
+      "examRelevance": "Telangana plans 14-month foodgrain buffer, projecting 28.03 lakh MT rice for 11.7 months.",
+      "tags": [
+        "Telangana",
+        "Foodgrain Buffer",
+        "El Niño",
+        "Food Security"
+      ],
+      "source": {
+        "title": "Telangana plans 14-month foodgrain buffer to cover over 3 crore people amid El Niño threat",
+        "url": "https://www.thehindu.com/news/national/telangana/telangana-plans-14-month-foodgrain-buffer-to-cover-over-three-crore-people-amid-el-nino-threat/article71602858.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q22",
+      "question": "Regarding India's semiconductor manufacturing future, which state has emerged as the largest semiconductor hub with six approved projects, including Tata-PSMC’s ₹91,526 crore fabrication plant?",
+      "options": [
+        "Tamil Nadu",
+        "Gujarat",
+        "Maharashtra",
+        "Karnataka"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Gujarat has emerged as the largest semiconductor hub in India, securing six approved projects, including the significant Tata-PSMC’s ₹91,526 crore fabrication plant. Overall, India's semiconductor future involves 12 projects across 6 states with ₹1.64 lakh crore investments.",
+      "background": "The development of a robust semiconductor ecosystem is critical for India's technological self-reliance and economic growth. Government initiatives and incentives are driving investments in this high-tech sector, aiming to reduce reliance on imports and create advanced manufacturing capabilities.",
+      "examRelevance": "Gujarat is India's largest semiconductor hub with 6 projects, including Tata-PSMC's ₹91,526 crore plant.",
+      "tags": [
+        "Semiconductor",
+        "India",
+        "Gujarat",
+        "Tata-PSMC",
+        "Manufacturing"
+      ],
+      "source": {
+        "title": "Amitabh Kant on how India’s semiconductor future is taking shape: 6 states with 12 projects, ₹1.64 lakh cr investments",
+        "url": "https://www.livemint.com/economy/amitabh-kant-on-how-india-s-semiconductor-future-is-taking-shape-6-states-with-12-projects-1-64-lakh-cr-investments-11792420787138.html"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q23",
+      "question": "Japan recently announced a significant investment in the U.S. chip industry. What is the approximate value of this investment?",
+      "options": [
+        "$15 billion",
+        "$30 billion",
+        "$10 billion",
+        "$21 billion"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Japan has announced a $21 billion investment in the U.S. chip industry. This significant financial commitment is part of broader efforts to revive and strengthen semiconductor manufacturing capabilities.",
+      "background": "Semiconductor supply chains have faced global challenges, prompting many countries to invest heavily in domestic chip production. Japan's investment in the U.S. industry reflects strategic alliances aimed at securing critical technology and diversifying supply chains.",
+      "examRelevance": "Japan invests $21 billion in the U.S. chip industry.",
+      "tags": [
+        "Japan",
+        "US",
+        "Chip Industry",
+        "Semiconductors",
+        "Investment"
+      ],
+      "source": {
+        "title": "Japan funds US chip revival. What about its own?",
+        "url": "https://economictimes.indiatimes.com/news/international/business/japans-21-billion-us-chip-bet-raises-questions-over-its-own-semiconductor-revival/articleshow/135061730.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q24",
+      "question": "A CISF jawan recently apprehended a suspicious man carrying gold paste at a Delhi Metro station. At which specific metro station did this incident occur?",
+      "options": [
+        "Hauz Khas",
+        "Central Secretariat",
+        "Rajiv Chowk",
+        "Jama Masjid"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "A CISF jawan successfully apprehended a suspicious man carrying 155 gm of gold paste at the Jama Masjid Metro station in Delhi. The gold paste was concealed in a stitched portion of the man's undergarment, kept in his bag.",
+      "background": "The Central Industrial Security Force (CISF) is responsible for security at various critical infrastructure installations in India, including the Delhi Metro. Such seizures highlight ongoing efforts to curb smuggling and illegal activities within public transport networks.",
+      "examRelevance": "CISF nabbed a man with 155 gm gold paste at Delhi's Jama Masjid Metro station.",
+      "tags": [
+        "CISF",
+        "Delhi Metro",
+        "Gold Smuggling",
+        "Jama Masjid",
+        "Security"
+      ],
+      "source": {
+        "title": "CISF nabs man carrying gold paste at Delhi Metro",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/watch-how-cisf-jawan-chased-suspicious-man-carrying-155-gm-gold-paste-at-delhi-jama-masjid-metro-station/articleshow/135061118.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q25",
+      "question": "The Income Tax Appellate Tribunal (ITAT) Jaipur recently cancelled a tax notice for a retired employee's leave encashment. For what amount of leave encashment did the ITAT grant full tax exemption?",
+      "options": [
+        "₹7.80 lakh",
+        "₹5.50 lakh",
+        "₹12.00 lakh",
+        "₹9.29 lakh"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Income Tax Appellate Tribunal (ITAT) Jaipur recently cancelled an income tax notice issued to a retired employee over ₹9.29 lakh leave encashment. The ITAT ruled in favor of the employee, granting him full tax exemption on the said amount.",
+      "background": "Leave encashment rules and their taxability can be complex, often leading to disputes between taxpayers and the Income Tax Department. This ruling provides clarity and relief for retirees, reaffirming specific conditions under which such income is exempt from tax.",
+      "examRelevance": "ITAT Jaipur granted full tax exemption on ₹9.29 lakh leave encashment for a retired employee.",
+      "tags": [
+        "ITAT Jaipur",
+        "Leave Encashment",
+        "Tax Exemption",
+        "Income Tax",
+        "Retirement"
+      ],
+      "source": {
+        "title": "Retiree gets tax notice for leave encashment",
+        "url": "https://economictimes.indiatimes.com/wealth/tax/retired-employee-gets-income-tax-notice-over-rs-9-29-lakh-leave-encashment-itat-jaipur-cancels-it-and-gives-him-full-tax-exemption-heres-why/articleshow/135061398.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q26",
+      "question": "The Madras High Court recently ruled that an oral gift of immovable property is not valid without a registered deed. This ruling was made in a case involving a dispute over whose land?",
+      "options": [
+        "Mother's land",
+        "Brother's land",
+        "Father-in-law's land",
+        "Grandfather's land"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Madras High Court ruled in favor of a brother, stating that an oral gift of immovable property is not valid without a registered deed. The case involved a sister's husband who claimed he received his father-in-law's land via an oral gift and subsequently sold it.",
+      "background": "Property law in India emphasizes formal documentation for transactions involving immovable property to prevent fraud and ensure clear titles. This ruling reinforces the legal requirement for registered deeds for gifts of land, protecting rightful heirs.",
+      "examRelevance": "Madras HC ruled oral gift of father-in-law's immovable property invalid without registered deed.",
+      "tags": [
+        "Madras High Court",
+        "Oral Gift",
+        "Immovable Property",
+        "Legal Ruling",
+        "Property Law"
+      ],
+      "source": {
+        "title": "Sister’s oral gift fails; bro gets father’s land",
+        "url": "https://economictimes.indiatimes.com/wealth/legal/will/sisters-husband-claimed-he-got-his-father-in-laws-land-via-oral-gift-and-sold-it-but-her-brothers-objected-madras-hc-rules-in-brothers-favour-for-this-reason/articleshow/135060653.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q27",
+      "question": "The Delhi High Court recently denied a husband's petition for divorce and ordered him to pay compensation to his wife. What was the amount of compensation ordered?",
+      "options": [
+        "₹2 lakh",
+        "₹1 lakh",
+        "₹2.5 lakh",
+        "₹1.5 lakh"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Delhi High Court denied a husband's plea for divorce, even though he had been living with another woman and had children with her. The court instead ordered him to pay ₹2 lakh in compensation to his wife.",
+      "background": "Matrimonial laws in India, including the Hindu Marriage Act, govern divorce proceedings and spousal maintenance. Courts consider various factors, including marital misconduct and the financial well-being of the parties, when adjudicating such cases.",
+      "examRelevance": "Delhi HC denied divorce to a husband, ordered him to pay ₹2 lakh compensation to his wife.",
+      "tags": [
+        "Delhi High Court",
+        "Divorce",
+        "Legal Ruling",
+        "Compensation",
+        "Family Law"
+      ],
+      "source": {
+        "title": "Divorce not granted; husband to pay Rs 2L for this",
+        "url": "https://economictimes.indiatimes.com/wealth/legal/will/husband-lived-with-another-woman-had-children-with-her-and-sought-divorce-from-his-wife-delhi-hc-denies-divorce-orders-him-to-pay-rs-2-lakh/articleshow/135060476.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q28",
+      "question": "A recent government order from 2026 allows certain state government employees to apply for the Old Pension Scheme (OPS) over the National Pension System (NPS). What is the key condition for these employees to opt for OPS?",
+      "options": [
+        "They must satisfy specific conditions outlined in the 2026 government order",
+        "They must have completed 20 years of service",
+        "They must be nearing retirement within two years",
+        "They must be working in essential services departments"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "A specific 2026 government order allows certain state government employees to opt for the Old Pension Scheme (OPS) instead of the National Pension System (NPS). The condition is that these employees must satisfy the criteria stipulated in that particular government order.",
+      "background": "The Old Pension Scheme (OPS) and National Pension System (NPS) have been subjects of debate among government employees, with many preferring OPS for its assured benefits. This order addresses a long-standing demand for a choice between the two schemes for a particular cohort of employees.",
+      "examRelevance": "State government employees can opt for OPS over NPS if they meet conditions of a 2026 government order.",
+      "tags": [
+        "Old Pension Scheme",
+        "National Pension System",
+        "State Government",
+        "Pension Reform",
+        "Government Order"
+      ],
+      "source": {
+        "title": "These state govt employees win OPS case",
+        "url": "https://economictimes.indiatimes.com/wealth/legal/will/these-state-govt-employees-can-apply-for-old-pension-scheme-over-nps-if-they-satisfy-the-conditions-in-this-2026-govt-order/articleshow/135060345.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q29",
+      "question": "A five-star hotel cook recently won a tax demand case in the Delhi High Court. What was the approximate amount of the tax demand initially raised against him?",
+      "options": [
+        "₹4 crore",
+        "₹1 crore",
+        "₹2 crore",
+        "₹3 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "A five-star hotel cook successfully won his case in the Delhi High Court against an income tax demand of approximately ₹4 crore. The demand was initially raised based on ₹24 crore in cash sales reflected in his Form 26AS.",
+      "background": "Form 26AS is an annual consolidated tax statement that provides details of tax deducted at source (TDS), tax collected at source (TCS), and other tax-related information. Discrepancies between this form and a taxpayer's actual income can lead to significant tax demands, which often require legal intervention.",
+      "examRelevance": "Five-star hotel cook won Delhi HC case against ₹4 crore tax demand.",
+      "tags": [
+        "Delhi High Court",
+        "Tax Demand",
+        "Form 26AS",
+        "Income Tax",
+        "Legal Case"
+      ],
+      "source": {
+        "title": "Cook wins Rs 4 crore tax demand case in HC",
+        "url": "https://economictimes.indiatimes.com/wealth/tax/rs-24-crore-cash-sales-in-form-26as-rs-4-crore-tax-demand-how-a-five-star-hotel-cook-won-his-case-in-delhi-high-court/articleshow/135060043.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-20-q30",
+      "question": "The Allahabad High Court recently stayed the conviction of a murder convict who expressed a desire to contest the 2027 U.P. polls. What was his political affiliation mentioned in the context of this ruling?",
+      "options": [
+        "Bharatiya Janata Party (BJP)",
+        "Indian National Congress (INC)",
+        "Samajwadi Party (SP)",
+        "Bahujan Samaj Party (BSP)"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Allahabad High Court stayed the conviction of a murder convict, noting that he was a political figure and an active Bharatiya Janata Party (BJP) worker before his conviction. He had expressed his intention to contest the 2027 U.P. polls.",
+      "background": "Legal provisions exist that disqualify convicted individuals from contesting elections. However, higher courts can stay convictions, which may allow individuals to participate in the electoral process, especially if their appeals are pending. This case highlights the intersection of legal judgments and political aspirations.",
+      "examRelevance": "Allahabad HC stayed conviction of a murder convict, a former BJP worker, to allow him to contest 2027 U.P. polls.",
+      "tags": [
+        "Allahabad High Court",
+        "Murder Convict",
+        "U.P. Polls",
+        "BJP",
+        "Elections"
+      ],
+      "source": {
+        "title": "Allahabad High Court stays conviction of murder convict who wishes to contest 2027 U.P. polls",
+        "url": "https://www.thehindu.com/elections/uttar-pradesh-assembly/allahabad-high-court-stays-conviction-of-murder-convict-who-wishes-to-contest-2027-up-polls/article71603091.ece"
+      }
+    }
+  ]
+}
