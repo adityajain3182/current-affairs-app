@@ -1,0 +1,793 @@
+{
+  "id": "daily-2026-10-24",
+  "type": "daily",
+  "date": "2026-10-24",
+  "title": "Current Affairs — 24 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-24-q1",
+      "question": "Which institution is collaborating with ICMR on a project to develop a blood test for early detection of triple-negative breast cancer?",
+      "options": [
+        "All India Institute of Medical Sciences (AIIMS)",
+        "Gandhi Institute of Technology and Management (GITAM)",
+        "Indian Institute of Science (IISc)",
+        "Post Graduate Institute of Medical Education and Research (PGIMER)"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The Indian Council of Medical Research (ICMR) is funding a project at GITAM University to develop a blood test for the early detection of triple-negative breast cancer. This project involves comparing blood samples from early-stage patients with those from healthy women.",
+      "background": "Triple-negative breast cancer is a particularly aggressive form of breast cancer that does not have receptors for estrogen, progesterone, or HER2, making it difficult to treat with targeted therapies. Early detection is crucial for improving treatment outcomes.",
+      "examRelevance": "ICMR-funded GITAM project aims to develop a blood test for early detection of triple-negative breast cancer.",
+      "tags": [
+        "ICMR",
+        "GITAM",
+        "Breast Cancer",
+        "Early Detection",
+        "Science"
+      ],
+      "source": {
+        "title": "ICMR-funded GITAM project aims at blood test for early detection of triple-negative breast cancer",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/icmr-funded-gitam-project-aims-at-blood-test-for-early-detection-of-triple-negative-breast-cancer/article71615054.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q2",
+      "question": "Which technology company has developed an AI tool that diagnoses patients step by step, mimicking a doctor's sequential approach, and claims it is more than twice as accurate as general physicians?",
+      "options": [
+        "Google",
+        "IBM",
+        "Microsoft",
+        "Amazon"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Microsoft researchers have developed an AI tool capable of diagnosing patients sequentially, similar to how human doctors approach a diagnosis. This tool has demonstrated an accuracy rate more than twice that of general physicians.",
+      "background": "Artificial Intelligence is increasingly being integrated into healthcare for various applications, including diagnostics, drug discovery, and personalized medicine. This development represents a significant step towards more sophisticated AI-driven diagnostic tools.",
+      "examRelevance": "Microsoft developed an AI tool that diagnoses sequentially, more than twice as accurate as general physicians.",
+      "tags": [
+        "Microsoft",
+        "AI",
+        "Artificial Intelligence",
+        "Medical Diagnosis",
+        "Healthcare Tech"
+      ],
+      "source": {
+        "title": "Microsoft develops AI tool that can diagnose 'sequentially' like a doctor",
+        "url": "https://www.thehindu.com/sci-tech/technology/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor/article71614454.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q3",
+      "question": "According to a recent global report, which two primary factors are escalating health risks among food workers?",
+      "options": [
+        "Automation and lack of digital literacy",
+        "Long working hours and inadequate transport",
+        "Financial instability and poor nutrition",
+        "Extreme weather and harmful chemicals"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "A recent global report highlights that extreme weather conditions and exposure to harmful chemicals are significantly escalating health risks among food workers. The report also notes that many farmworkers lack basic protection like shade, rest breaks, and drinking water, with international labour standards often ignored.",
+      "background": "Food workers, particularly those in agriculture, are often exposed to environmental hazards and strenuous conditions. This report underscores the urgent need for better labour standards and protection for this vulnerable workforce globally.",
+      "examRelevance": "Global report finds extreme weather and harmful chemicals escalate health risks for food workers.",
+      "tags": [
+        "Food Workers",
+        "Health Risks",
+        "Extreme Weather",
+        "Chemicals",
+        "Global Report"
+      ],
+      "source": {
+        "title": "Extreme weather, harmful chemicals escalating health risks among food workers, finds global report",
+        "url": "https://www.thehindu.com/sci-tech/health/extreme-weather-harmful-chemicals-escalating-health-risks-among-food-workers-finds-global-report/article71615178.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q4",
+      "question": "The 'Repair maadi' workshops, which allow people to bring items for repair, are currently being held at which institution in Bengaluru?",
+      "options": [
+        "Indian Institute of World Culture",
+        "Karnataka Chitrakala Parishath",
+        "National Gallery of Modern Art",
+        "Visvesvaraya Industrial and Technological Museum"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "The 'Repair maadi' workshops are currently underway at the Indian Institute of World Culture, located on B.P. Wadia Road in Basavanagudi, Bengaluru. These workshops encourage people to bring items for repair.",
+      "background": "Such initiatives promote sustainability and reduce waste by extending the lifespan of household items. They also foster a sense of community and skill-sharing.",
+      "examRelevance": "'Repair maadi' workshops are held at the Indian Institute of World Culture in Bengaluru.",
+      "tags": [
+        "Repair maadi",
+        "Bengaluru",
+        "Indian Institute of World Culture",
+        "Workshops",
+        "Sustainability"
+      ],
+      "source": {
+        "title": "‘Repair maadi’ workshops on at Indian Institute of World Culture in Bengaluru",
+        "url": "https://www.thehindu.com/news/cities/bangalore/repair-maadi-workshops-on-at-indian-institute-of-world-culture-in-bengaluru/article71619092.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q5",
+      "question": "The HYDRAA operation recently unearthed illegal extraction of water from which lake in the Guttala Begumpet area?",
+      "options": [
+        "Hussain Sagar",
+        "Osman Sagar",
+        "Sunnam Cheruvu",
+        "Durgam Cheruvu"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "The HYDRAA operation successfully uncovered illegal water extraction from Sunnam Cheruvu, a lake located in the Guttala Begumpet area. During the operation, dozens of discreetly laid pipelines leading from various buildings into the lake were removed.",
+      "background": "Illegal water extraction is a significant environmental issue, particularly in urban areas facing water scarcity. Such operations are critical for protecting natural water bodies and ensuring sustainable water management.",
+      "examRelevance": "HYDRAA operation unearthed illegal water extraction from Sunnam Cheruvu in Guttala Begumpet.",
+      "tags": [
+        "HYDRAA",
+        "Sunnam Cheruvu",
+        "Water Extraction",
+        "Hyderabad",
+        "Environment"
+      ],
+      "source": {
+        "title": "HYDRAA operation unearths illegal extraction of water from Sunnam Cheruvu",
+        "url": "https://www.thehindu.com/news/national/telangana/hydraa-operation-unearths-illegal-extraction-of-water-from-sunnam-cheruvu/article71619114.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q6",
+      "question": "According to the Central Pollution Control Board (CPCB) data on October 24, what was Delhi's Air Quality Index (AQI) reading, indicating an improvement to 'moderate' quality?",
+      "options": [
+        "230",
+        "185",
+        "210",
+        "125"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "On October 24, Delhi's Air Quality Index (AQI) was recorded at 185 at 9 a.m., classifying it as 'moderate'. This marked an improvement from the previous 24-hour average of 230, which was categorized as 'poor', according to the Central Pollution Control Board.",
+      "background": "Air quality in Delhi frequently fluctuates, often deteriorating to 'poor' or 'very poor' levels, especially during the winter months due to factors like stubble burning, vehicular emissions, and industrial pollution. AQI is a measure of air quality.",
+      "examRelevance": "Delhi's AQI improved to 185 (moderate) on October 24, as per CPCB.",
+      "tags": [
+        "Delhi",
+        "Air Quality Index",
+        "AQI",
+        "CPCB",
+        "Air Pollution"
+      ],
+      "source": {
+        "title": "Delhi's air quality improves to 'moderate' after 3 days of 'poor' quality",
+        "url": "https://www.thehindu.com/news/cities/Delhi/delhis-air-quality-improves-to-moderate-aqi-185/article71619168.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q7",
+      "question": "Who recently became an International Master in chess at the age of 11, breaking a 38-year-old record?",
+      "options": [
+        "Koneru Humpy",
+        "Hou Yifan",
+        "Bodhana Sivanandan",
+        "Judit Polgár"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "England's Bodhana Sivanandan achieved the title of International Master (IM) in chess at the age of 11 during the European Women's Chess Club Cup. She notably defeated Belarusian International Master Olga Badelka in the third round, thereby breaking a 38-year-old record.",
+      "background": "The International Master title is awarded by FIDE (World Chess Federation) and is a step below the Grandmaster title. Achieving this title at such a young age is a remarkable feat in the world of chess.",
+      "examRelevance": "Bodhana Sivanandan (11, England) became an International Master in chess, breaking a 38-year-old record.",
+      "tags": [
+        "Bodhana Sivanandan",
+        "Chess",
+        "International Master",
+        "Sports",
+        "Record"
+      ],
+      "source": {
+        "title": "England's Bodhana Sivanandan becomes International Master at age of 11, breaks 38-year-old record",
+        "url": "https://www.thehindu.com/sport/11-year-old-bodhana-sivanandan-becomes-the-youngest-female-international-master/article71619148.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q8",
+      "question": "According to Telangana CM Revanth, the El Nino-induced water and power crisis in the state is likely to persist until which month and year?",
+      "options": [
+        "July 2027",
+        "July 2026",
+        "January 2026",
+        "January 2027"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Telangana Chief Minister Revanth has stated that the El Nino-induced water and power crisis in the state is projected to continue until July 2027. He urged citizens to conserve water and power, noting that 15 lakh out of 30 lakh pump sets have already dried up.",
+      "background": "El Niño is a climate pattern that describes the unusual warming of surface waters in the eastern tropical Pacific Ocean, leading to significant changes in global weather patterns, including droughts and heatwaves in various regions.",
+      "examRelevance": "Telangana's El Nino-induced water and power crisis is predicted to persist until July 2027.",
+      "tags": [
+        "Telangana",
+        "El Nino",
+        "Water Crisis",
+        "Power Crisis",
+        "Climate Change"
+      ],
+      "source": {
+        "title": "El Nino-induced water and power crisis likely to persist until July 2027: Telangana CM Revanth",
+        "url": "https://www.thehindu.com/news/national/telangana/el-nino-induced-water-and-power-crisis-likely-to-persist-until-july-revanth/article71617402.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q9",
+      "question": "Which pharmaceutical company's formulation facility near Hyderabad recently received four Form 483 observations from the U.S. FDA following an unannounced inspection?",
+      "options": [
+        "Aurobindo Pharma",
+        "Hetero Drugs",
+        "Gland Pharma",
+        "Dr. Reddy's Laboratories"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The U.S. Food and Drug Administration (FDA) issued four Form 483 observations to Gland Pharma's formulation facility located near Hyderabad. These observations followed an unannounced inspection on current good manufacturing practices conducted between October 12 and 23.",
+      "background": "A Form 483 is issued by the FDA when investigators observe any conditions that may constitute violations of the Food, Drug, and Cosmetic Act and related acts. Companies must respond to these observations with corrective action plans.",
+      "examRelevance": "U.S. FDA issued four Form 483 observations to Gland Pharma's facility near Hyderabad.",
+      "tags": [
+        "Gland Pharma",
+        "US FDA",
+        "Form 483",
+        "Pharmaceutical",
+        "Hyderabad"
+      ],
+      "source": {
+        "title": "U.S. FDA issues four observations to Gland Pharma formulation facility near Hyderabad",
+        "url": "https://www.thehindu.com/business/Industry/us-fda-issues-four-observations-to-gland-pharma-formulation-facility-near-hyderabad/article71616791.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q10",
+      "question": "Which new video game features roguelike racing mechanics and a high-risk nitro booster called RamJet?",
+      "options": [
+        "Need for Speed Unbound",
+        "Forza Motorsport",
+        "Star Wars Galactic Racer",
+        "F1 24"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Star Wars Galactic Racer is a new video game that incorporates roguelike racing mechanics. It features a high-risk nitro booster named RamJet, which enhances the gameplay experience.",
+      "background": "Roguelike games are characterized by procedural generation, permanent death, and often turn-based gameplay, while racing games focus on speed and competition. Combining these genres can offer a unique gaming experience.",
+      "examRelevance": "Star Wars Galactic Racer is a new video game with roguelike racing mechanics and a RamJet nitro booster.",
+      "tags": [
+        "Star Wars",
+        "Galactic Racer",
+        "Video Game",
+        "Roguelike",
+        "Gaming"
+      ],
+      "source": {
+        "title": "Star Wars Galactic Racer’s roguelike racing mechanics is not for all",
+        "url": "https://www.thehindu.com/entertainment/star-wars-galactic-racers-roguelike-racing-mechanics-is-not-for-all/article71606266.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q11",
+      "question": "What is the primary reason for the widespread protests in France that have led the government to deploy 70,000 police for fresh weekend demonstrations?",
+      "options": [
+        "Rising cost of living",
+        "Immigration reforms",
+        "Pension system overhaul",
+        "Environmental policy changes"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "France is deploying 70,000 police for fresh weekend protests. These demonstrations were initially sparked by high school students protesting learning conditions and have since spread nationwide, fueled by broader public anger over the rising cost of living.",
+      "background": "Protests over economic issues, particularly the cost of living, are common in many countries, reflecting public dissatisfaction with inflation and stagnant wages. France has a history of significant social movements and protests.",
+      "examRelevance": "France deployed 70,000 police for protests fueled by the rising cost of living.",
+      "tags": [
+        "France",
+        "Protests",
+        "Cost of Living",
+        "Police Deployment",
+        "International"
+      ],
+      "source": {
+        "title": "France to deploy 70,000 police for fresh weekend protests",
+        "url": "https://www.thehindu.com/news/international/france-to-deploy-70000-police-for-fresh-weekend-protests/article71618975.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q12",
+      "question": "India's Commerce and Industry Minister, Piyush Goyal, announced that his ministry is working to identify which type of sectors?",
+      "options": [
+        "Green technology sectors",
+        "AI-proof sectors",
+        "Export-oriented sectors",
+        "Labour-intensive sectors"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "India’s Commerce and Industry Minister, Piyush Goyal, stated that the ministry is actively working to identify sectors that can withstand disruption led by Artificial Intelligence (AI). This initiative aims to prepare the Indian economy for the impacts of AI integration.",
+      "background": "The rapid advancement of AI technology is expected to transform various industries, potentially leading to job displacement in some areas while creating new opportunities in others. Identifying 'AI-proof' sectors is a proactive measure to mitigate negative impacts.",
+      "examRelevance": "Piyush Goyal announced India's commerce ministry is identifying AI-proof sectors.",
+      "tags": [
+        "Piyush Goyal",
+        "AI",
+        "Artificial Intelligence",
+        "Economy",
+        "Commerce Ministry"
+      ],
+      "source": {
+        "title": "India’s commerce and industry ministry working to identify AI proof sectors: Piyush Goyal",
+        "url": "https://www.livemint.com/economy/piyush-goyal-ai-proof-sectors-artificial-intelligence-indiaai-mission-niti-aayog-job-creation-ai-led-disruption-11792811061007.html"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q13",
+      "question": "A preliminary magnitude 6.9 earthquake recently struck off the coast of which South Pacific island nation?",
+      "options": [
+        "Tonga",
+        "Fiji",
+        "Samoa",
+        "Vanuatu"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "A preliminary magnitude 6.9 earthquake occurred off the coast of Vanuatu, a South Pacific island nation. The quake struck at approximately 1:30 p.m. and was centered 197 kilometers west-northwest of Port-Orly, at a depth of 10 kilometers.",
+      "background": "Vanuatu is located on the Pacific Ring of Fire, a region prone to frequent earthquakes and volcanic activity due to the movement of tectonic plates.",
+      "examRelevance": "A magnitude 6.9 earthquake struck off the coast of Vanuatu.",
+      "tags": [
+        "Vanuatu",
+        "Earthquake",
+        "South Pacific",
+        "Natural Disaster",
+        "International"
+      ],
+      "source": {
+        "title": "Preliminary magnitude 6.9 earthquake hits off coast of Vanuatu",
+        "url": "https://www.thehindu.com/news/international/preliminary-magnitude-69-earthquake-hits-off-coast-of-vanuatu/article71619138.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q14",
+      "question": "Haryana gangsters Himanshu Bhau and Neeraj Faridpuria were recently detained in which city in the United States?",
+      "options": [
+        "Miami",
+        "Los Angeles",
+        "New York",
+        "Las Vegas"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Haryana STF Inspector General Simardeep Singh confirmed that gangsters Himanshu Bhau and Neeraj Faridpuria were detained in Las Vegas, United States. This development was shared by the Haryana Special Task Force.",
+      "background": "International cooperation between law enforcement agencies is crucial in apprehending criminals who attempt to evade justice by fleeing across borders.",
+      "examRelevance": "Haryana gangsters Himanshu Bhau and Neeraj Faridpuria were detained in Las Vegas, U.S.",
+      "tags": [
+        "Haryana",
+        "Gangsters",
+        "Himanshu Bhau",
+        "Neeraj Faridpuria",
+        "Las Vegas",
+        "USA"
+      ],
+      "source": {
+        "title": "Haryana gangsters Himanshu Bhau, Neeraj Faridpuria detained in U.S.",
+        "url": "https://www.thehindu.com/news/cities/Delhi/haryana-gangsters-himanshu-bhau-neeraj-faridpuria-detained-in-us/article71619127.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q15",
+      "question": "Typhoon Champi recently caused one death and injured 350 people in which country?",
+      "options": [
+        "Philippines",
+        "Taiwan",
+        "Vietnam",
+        "Japan"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Typhoon Champi, despite not directly hitting Taiwan, caused significant impact due to its large span, resulting in one fatality and injuries to 350 people overnight. The storm has since weakened.",
+      "background": "Taiwan, located in East Asia, is frequently affected by typhoons during the Pacific typhoon season, which typically runs from May to November. These storms often bring heavy rainfall, strong winds, and can cause widespread damage.",
+      "examRelevance": "Typhoon Champi killed 1 and injured 350 in Taiwan.",
+      "tags": [
+        "Typhoon Champi",
+        "Taiwan",
+        "Natural Disaster",
+        "Typhoon",
+        "International"
+      ],
+      "source": {
+        "title": "Typhoon Champi kills 1 and injures 350 in Taiwan overnight as storm weakens",
+        "url": "https://www.thehindu.com/news/international/typhoon-champi-taiwan-many-people-dead-and-several-injured/article71619102.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q16",
+      "question": "To prevent child deaths linked to malnutrition and neglect, what initiative is Kerala planning to undertake statewide?",
+      "options": [
+        "Parental education program",
+        "Nutritional supplement distribution drive",
+        "Child vaccination campaign",
+        "Vulnerability mapping"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Kerala is planning a statewide vulnerability mapping initiative to identify children living in conditions that pose risks to their health, education, and safety, thereby aiming to prevent child deaths linked to malnutrition and neglect. Once identified, these vulnerable children will receive regular follow-ups.",
+      "background": "Child malnutrition and neglect remain critical public health challenges in many regions. Proactive measures like vulnerability mapping allow governments to identify at-risk populations and intervene effectively to improve child welfare.",
+      "examRelevance": "Kerala plans statewide vulnerability mapping to prevent child deaths from malnutrition and neglect.",
+      "tags": [
+        "Kerala",
+        "Child Welfare",
+        "Malnutrition",
+        "Vulnerability Mapping",
+        "Child Deaths"
+      ],
+      "source": {
+        "title": "How is Kerala planning to prevent child deaths linked to malnutrition and neglect? Explained",
+        "url": "https://www.thehindu.com/news/national/kerala/how-is-kerala-planning-to-prevent-child-deaths-linked-to-malnutrition-and-neglect-explained/article71618979.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q17",
+      "question": "Indian pharmaceutical company Kilitch Drugs is set to divest its subsidiary in which country for $14 million?",
+      "options": [
+        "South Africa",
+        "Kenya",
+        "Ethiopia",
+        "Nigeria"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Kilitch Drugs, an Indian pharmaceutical company, is divesting its Ethiopian arm for a sum of $14 million. This strategic move aims to reallocate capital towards higher-growth opportunities within India, facilitate debt repayment, and expand its core pharmaceutical business.",
+      "background": "Companies often divest non-core or less profitable assets to streamline operations, focus on strategic growth areas, and optimize their financial structure.",
+      "examRelevance": "Kilitch Drugs will divest its Ethiopian arm for $14 million.",
+      "tags": [
+        "Kilitch Drugs",
+        "Divestment",
+        "Ethiopia",
+        "Pharmaceutical",
+        "Economy"
+      ],
+      "source": {
+        "title": "Kilitch Drugs to divest Ethiopian arm for $14 million",
+        "url": "https://www.thehindu.com/business/Industry/kilitch-drugs-to-divest-ethiopian-arm-for-14-million/article71617267.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q18",
+      "question": "In which Indian state did the Election Commission recently seek an explanation from officials regarding a goof-up in the voter list, where 158 entries out of 14.8 lakh appeared strange?",
+      "options": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Bihar"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Election Commission in Uttar Pradesh recently sought an explanation from officials after a significant goof-up in the voter list went viral. A total of 158 entries out of 14,81,310 in the list contained strange names of voters or their relatives, attributed to a mistake during the first-time execution of such work.",
+      "background": "Accurate voter lists are fundamental to democratic elections. Errors can disenfranchise eligible voters or lead to other electoral irregularities, necessitating swift corrective action by election authorities.",
+      "examRelevance": "Uttar Pradesh Election Commission sought explanation for goof-up in voter list.",
+      "tags": [
+        "Uttar Pradesh",
+        "Election Commission",
+        "Voter List",
+        "Electoral Rolls",
+        "Goof-up"
+      ],
+      "source": {
+        "title": "Election Commission sought explanation from officials as goof-up in voter list went viral",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/election-commission-sought-explanation-from-officials-as-goof-up-in-voter-list-went-viral/article71617002.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q19",
+      "question": "Who has been appointed as the new head coach for the Mumbai Indians cricket team, replacing Mahela Jayawardene?",
+      "options": [
+        "Ricky Ponting",
+        "Kieron Pollard",
+        "Shane Warne",
+        "Stephen Fleming"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Kieron Pollard has been appointed as the new head coach for the Mumbai Indians cricket team. He replaces Mahela Jayawardene, whose second stint as coach concluded after a disappointing IPL 2026 campaign for the team.",
+      "background": "Kieron Pollard is a legendary player for Mumbai Indians, having been a part of multiple IPL-winning squads. His transition from player to head coach marks a new chapter in his association with the franchise.",
+      "examRelevance": "Kieron Pollard appointed head coach for Mumbai Indians, replacing Mahela Jayawardene.",
+      "tags": [
+        "Kieron Pollard",
+        "Mumbai Indians",
+        "IPL",
+        "Cricket",
+        "Head Coach"
+      ],
+      "source": {
+        "title": "Kieron Pollard appointed as head coach for Mumbai Indians",
+        "url": "https://www.thehindu.com/sport/cricket/kieron-pollard-appointed-as-head-coach-for-mumbai-indians/article71619124.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q20",
+      "question": "'Dark Arisen' is a new expansion for which video game, bringing a new area to explore and various improvements?",
+      "options": [
+        "Cyberpunk 2077",
+        "Elden Ring",
+        "Dragon’s Dogma 2",
+        "The Witcher 3"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "'Dark Arisen' is the new expansion for the video game Dragon's Dogma 2. This expansion introduces a new area for players to explore and incorporates a host of improvements over the original game.",
+      "background": "Game expansions, also known as DLC (downloadable content), typically add new content, features, and storylines to an existing game, extending its lifespan and appeal to players.",
+      "examRelevance": "'Dark Arisen' is the new expansion for the video game Dragon's Dogma 2.",
+      "tags": [
+        "Dragon's Dogma 2",
+        "Dark Arisen",
+        "Video Game",
+        "Expansion",
+        "Gaming"
+      ],
+      "source": {
+        "title": "Dragon’s Dogma 2: Dark Arisen is a massive improvement over the original",
+        "url": "https://www.thehindu.com/sci-tech/dragons-dogma-2-dark-arisen-is-a-massive-improvement-over-the-original/article71606211.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q21",
+      "question": "JioStar recently partnered with which international streaming platform to expand its reach into the Middle East and North Africa regions?",
+      "options": [
+        "Disney+",
+        "Starz Play",
+        "HBO Max",
+        "Netflix"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "JioStar recently entered into a partnership with the international streaming platform Starz Play. This collaboration aims to expand JioStar's presence and content distribution into the Middle East and North Africa regions.",
+      "background": "The global streaming market is highly competitive, and partnerships like this allow content providers to reach new audiences and expand their international footprint. JioStar had also expanded into Singapore, the UK, and Canada last month.",
+      "examRelevance": "JioStar partnered with Starz Play to expand into the Middle East and North Africa.",
+      "tags": [
+        "JioStar",
+        "Starz Play",
+        "Streaming Platform",
+        "Middle East",
+        "North Africa",
+        "Business Expansion"
+      ],
+      "source": {
+        "title": "Quality of Indian content has improved drastically, appeals to other cultures as well: JioStar international business chief",
+        "url": "https://www.thehindu.com/business/quality-of-indian-content-has-improved-drastically-appeals-to-other-cultures-as-well-jiostar-international-business-chief/article71615512.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q22",
+      "question": "Which initiative has the UK government rolled out, urging households to keep essential supplies for three days in preparation for emergencies?",
+      "options": [
+        "\"Emergency Preparedness Plan\"",
+        "\"Stay Safe\" Initiative",
+        "\"Be Ready\" Initiative",
+        "\"Resilient Homes Campaign\""
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The UK government has launched its new 'Be Ready' initiative, which advises households to stockpile essential supplies for three days to prepare for unexpected emergencies. UK Prime Minister Andy Burnham stated that unexpected events are becoming increasingly common.",
+      "background": "Governments often implement public preparedness campaigns to enhance national resilience against natural disasters, pandemics, or other crises. This initiative reflects a growing concern about unforeseen events.",
+      "examRelevance": "UK launched 'Be Ready' initiative urging citizens to stockpile essentials for three days.",
+      "tags": [
+        "UK",
+        "Be Ready",
+        "Emergency Preparedness",
+        "Stockpile",
+        "Andy Burnham"
+      ],
+      "source": {
+        "title": "UK tells Britons to stockpile essentials",
+        "url": "https://economictimes.indiatimes.com/nri/latest-updates/bottled-water-tinned-food-radio-cash-uk-tells-britons-to-prepare-for-emergency/articleshow/135162348.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q23",
+      "question": "Social media giant Meta is facing a record $25 billion penalty from which U.S. state?",
+      "options": [
+        "New York",
+        "California",
+        "Texas",
+        "New Mexico"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Meta, the social media giant, is facing a record $25 billion penalty from the U.S. state of New Mexico. This amount represents the largest fine Meta has ever encountered for its conduct, marking a significant victory for the state.",
+      "background": "Large technology companies frequently face legal challenges and regulatory scrutiny over issues such as data privacy, antitrust violations, and consumer protection. Penalties of this magnitude underscore the increasing pressure on these firms to comply with legal frameworks.",
+      "examRelevance": "Meta is to pay a $25 billion penalty to the U.S. state of New Mexico.",
+      "tags": [
+        "Meta",
+        "Penalty",
+        "New Mexico",
+        "Social Media",
+        "Lawsuit"
+      ],
+      "source": {
+        "title": "Why does Meta have to pay a $25 billion penalty? | Explained",
+        "url": "https://www.thehindu.com/sci-tech/technology/why-does-meta-have-to-pay-a-25-billion-penalty-explained/article71614412.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q24",
+      "question": "The discovery of Ariel and Umbriel, two moons of Uranus, marks its 175th anniversary on October 24. Who was the amateur astronomer credited with their discovery in 1851?",
+      "options": [
+        "William Herschel",
+        "Christiaan Huygens",
+        "William Lassell",
+        "Galileo Galilei"
+      ],
+      "answerIndex": 2,
+      "category": "Dates & Days",
+      "explanation": "October 24 marks the 175th anniversary of the discovery of Ariel and Umbriel, two of Uranus’ many moons. These satellites were discovered on October 24, 1851, by amateur astronomer William Lassell, who also discovered two other moons.",
+      "background": "Uranus, the seventh planet from the Sun, has 27 known moons, all named after characters from the works of William Shakespeare and Alexander Pope. William Lassell was a prominent 19th-century English astronomer known for his discoveries of planetary moons.",
+      "examRelevance": "William Lassell discovered Uranus' moons Ariel and Umbriel on October 24, 1851, marking their 175th anniversary.",
+      "tags": [
+        "Ariel",
+        "Umbriel",
+        "Uranus",
+        "William Lassell",
+        "Moon Discovery",
+        "Anniversary"
+      ],
+      "source": {
+        "title": "Ariel, Umbriel and the man who made them real",
+        "url": "https://www.thehindu.com/sci-tech/science/ariel-umbriel-and-the-man-who-made-them-real/article71587499.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q25",
+      "question": "Which Artificial Intelligence company is expected to begin marketing its shares during the week of November 9 for an anticipated Initial Public Offering (IPO)?",
+      "options": [
+        "Stability AI",
+        "Inflection AI",
+        "DeepMind",
+        "Anthropic"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Anthropic, an Artificial Intelligence company, is expected to begin marketing its shares during the week of November 9 for its anticipated Initial Public Offering (IPO). Valuation expert Aswath Damodaran noted that this IPO will test investors’ ability to value a high-growth AI company with substantial revenues but steep losses.",
+      "background": "An Initial Public Offering (IPO) is the process by which a private company can go public by offering its shares to the general public for the first time. It allows companies to raise capital from public investors.",
+      "examRelevance": "AI company Anthropic is expected to begin marketing shares for its IPO in November.",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "Artificial Intelligence",
+        "AI Company",
+        "Stock Market"
+      ],
+      "source": {
+        "title": "Anthropic IPO: What should investors consider when valuing the AI company? Aswath Damodaran explains",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-what-should-investors-consider-when-valuing-the-ai-company-aswath-damodaran-explains/articleshow/135162319.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q26",
+      "question": "The book \"The Nitrogen Bomb\" by Jacob Koshy explores how which chemical compound, largely emitted by agricultural activities, contributes to worsening air quality across the Indo-Gangetic Plain?",
+      "options": [
+        "Methane",
+        "Ammonia",
+        "Sulfur Dioxide",
+        "Carbon Dioxide"
+      ],
+      "answerIndex": 1,
+      "category": "Books & Authors",
+      "explanation": "The book \"The Nitrogen Bomb\" by Jacob Koshy investigates how ammonia, primarily released from agricultural activities, plays a significant role in exacerbating air quality issues across the Indo-Gangetic Plain.",
+      "background": "Air pollution is a complex problem with multiple contributors. While attention often focuses on particulate matter and vehicular emissions, the role of agricultural emissions like ammonia in forming secondary particulate matter is also crucial.",
+      "examRelevance": "Jacob Koshy's \"The Nitrogen Bomb\" explores ammonia's role in worsening air quality in the Indo-Gangetic Plain.",
+      "tags": [
+        "The Nitrogen Bomb",
+        "Jacob Koshy",
+        "Ammonia",
+        "Air Pollution",
+        "Indo-Gangetic Plain",
+        "Agriculture"
+      ],
+      "source": {
+        "title": "The other face of air pollution | Excerpt from The Nitrogen Bomb by Jacob Koshy",
+        "url": "https://www.thehindu.com/books/excerpt-from-the-nitrogen-bombby-jacob-koshy/article71603863.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q27",
+      "question": "A low-pressure area, indicating a brewing cyclone, has recently formed in which region?",
+      "options": [
+        "Lakshadweep Sea",
+        "East-central and Southeast Bay of Bengal",
+        "Gulf of Mannar",
+        "Arabian Sea"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "A low-pressure area, which is a precursor to a cyclone, has recently formed in the east-central and Southeast Bay of Bengal. The Andhra Pradesh State Disaster Management Authority (APSDMA) has listed several districts, including Konaseema and West Godavari, for anticipated rainfall.",
+      "background": "Low-pressure areas are regions where the atmospheric pressure is lower than that of the surrounding environment. These systems can develop into depressions, deep depressions, and eventually cyclones, especially over warm ocean waters.",
+      "examRelevance": "A low-pressure area, indicating a brewing cyclone, formed in the east-central and Southeast Bay of Bengal.",
+      "tags": [
+        "Cyclone",
+        "Low Pressure Area",
+        "Bay of Bengal",
+        "Weather",
+        "APSDMA"
+      ],
+      "source": {
+        "title": "Cyclone brewing as low pressure area forms in east-central, Southeast Bay of Bengal | Live",
+        "url": "https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q28",
+      "question": "Bihar has attracted investment proposals worth approximately how much in the past one-and-a-half years, with 1,091 proposals received?",
+      "options": [
+        "₹75,000 crore",
+        "₹1.21 lakh crore",
+        "₹50,000 crore",
+        "₹1.50 lakh crore"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Bihar has successfully attracted 1,091 investment proposals valued at approximately ₹1.21 lakh crore over the past one-and-a-half years. Bihar Industries Minister Shreyasi Singh noted that the state is rapidly implementing schemes for integrated manufacturing cities.",
+      "background": "States actively compete to attract investments, which are crucial for economic growth, job creation, and industrial development. Government policies and infrastructure play a key role in drawing investors.",
+      "examRelevance": "Bihar attracted ₹1.21 lakh crore in investment proposals in the last 1.5 years.",
+      "tags": [
+        "Bihar",
+        "Investment",
+        "Economy",
+        "Industrial Development",
+        "Manufacturing Cities"
+      ],
+      "source": {
+        "title": "Bihar attracts 1,091 investment proposals worth ₹1.21 lakh crore in past one-and-a-half years",
+        "url": "https://www.thehindu.com/news/national/bihar/bihar-attracts-1091-investment-proposals-worth-121-lakh-crore/article71616046.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q29",
+      "question": "The Directorate of Revenue Intelligence (DRI) recently seized foreign currency worth ₹1.56 crore from two passengers at which Indian airport?",
+      "options": [
+        "Chennai International Airport",
+        "Kempegowda International Airport, Bengaluru",
+        "Rajiv Gandhi International Airport, Hyderabad",
+        "Chhatrapati Shivaji Maharaj International Airport, Mumbai"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The Directorate of Revenue Intelligence (DRI) successfully seized foreign currency valued at ₹1.56 crore from two passengers at the Rajiv Gandhi International Airport in Hyderabad. The seized currency included $1,64,200, MYR 3,773, and SGD 2.",
+      "background": "DRI is India's primary anti-smuggling intelligence, investigations, and operations agency. It plays a crucial role in preventing economic offenses, including the illegal movement of currency across borders.",
+      "examRelevance": "DRI seized foreign currency worth ₹1.56 crore at Hyderabad airport.",
+      "tags": [
+        "DRI",
+        "Hyderabad Airport",
+        "Foreign Currency",
+        "Seizure",
+        "Economic Crime"
+      ],
+      "source": {
+        "title": "DRI seizes foreign currency worth ₹1.56 crore from two passengers at Hyderabad airport",
+        "url": "https://www.thehindu.com/news/national/telangana/dri-seizes-foreign-currency-worth-156-crore-from-two-passengers-at-hyderabad-airport/article71618937.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-24-q30",
+      "question": "The Indo-Tibetan Border Police (ITBP) is currently overhauling its training and combat strategy along the China border. When was the ITBP formed?",
+      "options": [
+        "October 24, 1950",
+        "October 24, 1971",
+        "October 24, 1962",
+        "October 24, 1947"
+      ],
+      "answerIndex": 2,
+      "category": "Defence",
+      "explanation": "The Indo-Tibetan Border Police (ITBP) is currently overhauling its training and combat strategy along the China border. The ITBP was established on October 24, 1962, following the Indo-China War.",
+      "background": "The ITBP is one of India's Central Armed Police Forces, primarily tasked with guarding the country's border with China. Its strategic importance necessitates continuous adaptation and modernization of its operational capabilities.",
+      "examRelevance": "ITBP, formed on October 24, 1962, is overhauling its training and combat strategy along the China border.",
+      "tags": [
+        "ITBP",
+        "China Border",
+        "Defence",
+        "Training Strategy",
+        "Indo-China War"
+      ],
+      "source": {
+        "title": "Why is ITBP overhauling its training and combat strategy along the China border? Explained",
+        "url": "https://www.thehindu.com/news/national/explainer-of-indo-tibetan-border-force/article71618963.ece"
+      }
+    }
+  ]
+}
