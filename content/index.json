@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T06:28:18.670Z",
+  "updatedAt": "2026-10-25T07:18:58.259Z",
   "daily": [
     {
       "id": "daily-2026-10-25",
@@ -547,6 +547,14 @@
     }
   ],
   "weekly": [
+    {
+      "id": "weekly-2026-W43",
+      "type": "weekly",
+      "date": "2026-10-25",
+      "title": "Weekly Current Affairs — Week 43, 2026",
+      "path": "content/weekly/2026-W43.json",
+      "questionCount": 100
+    },
     {
       "id": "weekly-2026-W42",
       "type": "weekly",
