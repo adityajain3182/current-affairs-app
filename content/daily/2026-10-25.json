@@ -1,0 +1,789 @@
+{
+  "id": "daily-2026-10-25",
+  "type": "daily",
+  "date": "2026-10-25",
+  "title": "Current Affairs — 25 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-25-q1",
+      "question": "As per the Regional Meteorological Centre (RMC), a very severe cyclonic storm is forecast to make landfall between which two locations in Andhra Pradesh on October 28?",
+      "options": [
+        "A) Bapatla and Vizag",
+        "C) Ongole and Nellore",
+        "B) Kakinada and Machilipatnam",
+        "D) Srikakulam and Visakhapatnam"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The Regional Meteorological Centre (RMC) has forecast a very severe cyclonic storm to make landfall between Bapatla and Vizag in Andhra Pradesh on October 28, with wind speeds potentially reaching up to 130 kmph.",
+      "background": "The IMD has issued a red alert for 13 districts in Andhra Pradesh for October 27 and 28 in anticipation of the cyclonic storm. Heavy to very heavy rain is also forecast for isolated places in Tamil Nadu.",
+      "examRelevance": "Cyclonic storm landfall location and date in Andhra Pradesh.",
+      "tags": [
+        "Cyclone",
+        "Andhra Pradesh",
+        "Bapatla",
+        "Vizag",
+        "IMD"
+      ],
+      "source": {
+        "title": "Andhra Pradesh braces for very severe cyclonic storm; landfall likely between Bapatla and Vizag on October 28",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q2",
+      "question": "How many launch pads is ISRO aiming to have by 2029, including the upcoming facility at Kulasekarapattinam?",
+      "options": [
+        "B) Three",
+        "C) Four",
+        "D) Five",
+        "A) Two"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "ISRO chief S. Somanath stated that ISRO plans to have a total of four launch pads by 2029, which includes the existing facilities and the new spaceport facility being developed at Kulasekarapattinam.",
+      "background": "The Kulasekarapattinam spaceport in Tamil Nadu is being developed to feature crucial infrastructure such as integration buildings, launch pads, rail-track systems, and telemetry, tracking, and command systems, primarily for launching small satellite launch vehicles (SSLVs).",
+      "examRelevance": "ISRO's future launch infrastructure expansion and key locations.",
+      "tags": [
+        "ISRO",
+        "Launch Pads",
+        "Kulasekarapattinam",
+        "Space Technology",
+        "S. Somanath"
+      ],
+      "source": {
+        "title": "ISRO to have four launch pads by 2029, says Narayanan",
+        "url": "https://www.thehindu.com/news/national/isro-to-add-four-launch-pads-by-2029/article71622643.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q3",
+      "question": "Prime Minister Narendra Modi recently delivered the 139th episode of his 'Mann ki Baat' initiative, marking how many years since its inception?",
+      "options": [
+        "B) 10 years",
+        "C) 12 years",
+        "D) 15 years",
+        "A) 8 years"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Prime Minister Narendra Modi delivered the 139th episode of 'Mann ki Baat', marking 12 years since the initiative began on the auspicious occasion of Vijayadashami.",
+      "background": "In this episode, PM Modi pitched the 'Vocal for Local' initiative ahead of Diwali, emphasizing the growing significance Indians are giving to indigenous goods during festivals and celebrating the spirit of common people.",
+      "examRelevance": "'Mann ki Baat' initiative's anniversary and episode count.",
+      "tags": [
+        "Mann ki Baat",
+        "Narendra Modi",
+        "Vocal for Local",
+        "Vijayadashami",
+        "Public Broadcasting"
+      ],
+      "source": {
+        "title": "PM pitches 'vocal for local' ahead of Diwali",
+        "url": "https://economictimes.indiatimes.com/news/india/pm-modi-delivers-mann-ki-baat-speech-highlights-vocal-for-local-initiave-diwali-2026/articleshow/135184224.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q4",
+      "question": "Renowned Tamil chef and Padma Shri awardee, Chef Damu, passed away recently at what age?",
+      "options": [
+        "C) 78",
+        "B) 72",
+        "A) 65",
+        "D) 85"
+      ],
+      "answerIndex": 1,
+      "category": "Obituaries",
+      "explanation": "Chef Damu, a Padma Shri-winning Tamil chef and Guinness World Record holder, passed away recently at the age of 72.",
+      "background": "Chef Damu was a well-known personality in the culinary world, having also served as a judge on the popular Tamil reality show 'Cooku with Comali'. His contributions to Indian cuisine were recognized with the Padma Shri.",
+      "examRelevance": "Obituary of a prominent personality and their accolades.",
+      "tags": [
+        "Chef Damu",
+        "Obituary",
+        "Padma Shri",
+        "Tamil Nadu",
+        "Culinary Arts"
+      ],
+      "source": {
+        "title": "Chef Damu dies at 72; Padma Shri-winning Tamil chef",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/chef-damu-dies-at-72-cooku-with-comali-judge-guinness-world-record-holder-and-padma-shri-winning-tamil-chef/articleshow/135183807.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q5",
+      "question": "Scientists have recently discovered a new form of carbon, which has been named:",
+      "options": [
+        "C) Diamondiyne",
+        "D) Fullerite",
+        "A) Carbonium",
+        "B) Graphyne"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "A new form of carbon has been discovered and named 'diamondiyne'. This discovery adds to the known allotropes of carbon, such as graphite, diamond, and fullerene.",
+      "background": "The study of carbon allotropes is crucial for materials science, as different arrangements of carbon atoms lead to vastly different properties and potential applications, from superconductors to ultra-hard materials.",
+      "examRelevance": "Discovery of new material/allotrope.",
+      "tags": [
+        "Carbon",
+        "Allotrope",
+        "Diamondiyne",
+        "Materials Science",
+        "Scientific Discovery"
+      ],
+      "source": {
+        "title": "New form of carbon found: diamondiyne",
+        "url": "https://www.thehindu.com/sci-tech/science/science-for-all-newsletter-new-form-of-carbon-found-diamondiyne/article71607112.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q6",
+      "question": "Amid protests and political uncertainty, which European country's restrictive abortion law is currently facing two new bills aiming to ease its limits?",
+      "options": [
+        "C) Italy",
+        "D) Slovakia",
+        "A) Hungary",
+        "B) Poland"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Poland's highly restrictive abortion law is currently facing two new bills that aim to ease its limits, amidst ongoing protests and political uncertainty ahead of upcoming elections.",
+      "background": "Poland has one of Europe's most stringent abortion laws, which has been a subject of significant public debate and protests, particularly after a near-total ban was implemented, allowing abortion only in cases of rape, incest, or threat to the mother's life.",
+      "examRelevance": "International legal/social developments and country-specific laws.",
+      "tags": [
+        "Poland",
+        "Abortion Law",
+        "Human Rights",
+        "Legislation",
+        "European Politics"
+      ],
+      "source": {
+        "title": "Poland’s abortion law: What will the new bills change? | Explained",
+        "url": "https://www.thehindu.com/news/international/polands-abortion-law-what-will-the-new-bills-change-explained/article71615436.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q7",
+      "question": "Which Indian district is experiencing a steep decline in its camel population due to industrialisation, mining, and shrinking grazing grounds?",
+      "options": [
+        "B) Bikaner",
+        "C) Kutch",
+        "A) Jaisalmer",
+        "D) Ladakh"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Gujarat’s Kutch district, India’s largest district, is facing a steep decline in its camel population, driven by factors such as industrialisation, mining, and shrinking grazing grounds, raising concerns about their potential disappearance.",
+      "background": "Kutch was once home to thousands of camels, which are an integral part of the region's ecosystem and local economy, particularly for the nomadic Rabari community. Conservation efforts are needed to protect this unique species.",
+      "examRelevance": "Environmental issues, wildlife conservation, and regional challenges.",
+      "tags": [
+        "Kutch",
+        "Gujarat",
+        "Camel Population",
+        "Environment",
+        "Wildlife Conservation"
+      ],
+      "source": {
+        "title": "News in frames: Kutch’s dwindling camel population",
+        "url": "https://www.thehindu.com/news/national/gujarat/news-in-frames-kutchs-dwindling-camel-population/article71622558.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q8",
+      "question": "A recent study has identified 'feral dogs' as a major threat to vultures in which Indian desert?",
+      "options": [
+        "C) Cold Desert (Ladakh)",
+        "A) Rann of Kutch",
+        "D) Great Indian Desert",
+        "B) Thar Desert"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "A study has found that feral dogs pose a major threat to vultures in the Thar desert, observing that vultures spend significantly less time on carcasses at open dump sites compared to dog-free enclosures.",
+      "background": "Vultures play a crucial role as scavengers in the ecosystem, and their declining populations are a serious environmental concern. Competition and disturbance from feral dog populations exacerbate the challenges faced by these birds.",
+      "examRelevance": "Environmental studies, wildlife threats, and specific regional ecological issues.",
+      "tags": [
+        "Feral Dogs",
+        "Vultures",
+        "Thar Desert",
+        "Wildlife Threat",
+        "Ecosystem"
+      ],
+      "source": {
+        "title": "Feral dogs ‘a major threat’ to vultures in Thar desert, study finds",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/feral-dogs-a-major-threat-to-vultures-in-thar-desert-study-finds/article71617248.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q9",
+      "question": "The military in Mali recently updated the death toll from a recent attack, stating that how many victims were killed?",
+      "options": [
+        "D) 68",
+        "A) 32",
+        "B) 41",
+        "C) 54"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The Malian armed forces announced an updated death toll of 54 victims from a recent attack, stating that the victims were buried on site and nine survivors were evacuated to Menaka.",
+      "background": "Mali has been grappling with an Islamist insurgency and political instability for several years, leading to numerous attacks and significant loss of life, particularly in the central and northern regions of the country.",
+      "examRelevance": "International conflict updates and death tolls.",
+      "tags": [
+        "Mali",
+        "Military Attack",
+        "Death Toll",
+        "Menaka",
+        "West Africa"
+      ],
+      "source": {
+        "title": "Military ups death toll in Mali attack to 54",
+        "url": "https://www.thehindu.com/news/international/military-ups-death-toll-in-mali-attack-to-54/article71622485.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q10",
+      "question": "Who are the two leading candidates in Bulgaria's ongoing presidential election, as per recent polls?",
+      "options": [
+        "C) Korneliya Ninova and Kiril Petkov",
+        "D) Stefan Yanev and Desislava Atanasova",
+        "B) Iliana Iotova and Andrey Gyurov",
+        "A) Rumen Radev and Boyko Borissov"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Polls place acting President Iliana Iotova (61) and ex-caretaker Prime Minister Andrey Gyurov (50) as the leaders in Bulgaria's presidential election, which features a race of 27 candidates.",
+      "background": "The election comes in the wake of deadly Black Sea drone strikes, adding another layer of complexity to the political landscape in Bulgaria, a country that has seen frequent governmental changes in recent years.",
+      "examRelevance": "International elections, key candidates, and political figures.",
+      "tags": [
+        "Bulgaria",
+        "Presidential Election",
+        "Iliana Iotova",
+        "Andrey Gyurov",
+        "European Politics"
+      ],
+      "source": {
+        "title": "Bulgaria votes for President in wake of deadly Black Sea drone strikes",
+        "url": "https://www.thehindu.com/news/international/bulgaria-presidential-election-black-sea-drone-strikes-on-october-25-2026/article71622481.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q11",
+      "question": "Which Indian state has announced plans to form a committee representing all 36 communities to promote unity, following a query from the Prime Minister?",
+      "options": [
+        "D) Meghalaya",
+        "B) Assam",
+        "A) Nagaland",
+        "C) Manipur"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Manipur will form a committee representing all 36 communities in the state to promote unity, a proposal that follows a query from Prime Minister Narendra Modi on whether such a committee existed to bring all communities together.",
+      "background": "Manipur has faced significant ethnic tensions and internal conflicts, making efforts towards community unity and reconciliation crucial for long-term peace and stability in the state.",
+      "examRelevance": "State initiatives, governance, and community integration.",
+      "tags": [
+        "Manipur",
+        "Unity Committee",
+        "Community Integration",
+        "Yumnam Khemchand",
+        "North East India"
+      ],
+      "source": {
+        "title": "Manipur to form committee representing all 36 communities for unity: Yumnam Khemchand",
+        "url": "https://www.thehindu.com/news/national/manipur/manipur-to-form-committee-representing-all-36-communities-for-unity-yumnam-khemchand/article71622464.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q12",
+      "question": "The Ministry of Road Transport recently sought a forensic audit of its portals following a data leak involving:",
+      "options": [
+        "C) FASTag transaction data",
+        "A) Driving license data",
+        "B) Vehicle registration data",
+        "D) Toll collection data"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "The Ministry of Road Transport has sought a forensic audit of its portals after a vehicle data leak, and has also requested the Ministry of Electronics and Information Technology to review its data-sharing policy.",
+      "background": "Data breaches involving personal and vehicle information can have significant privacy and security implications for citizens. A forensic audit aims to identify the cause of the leak and strengthen security measures.",
+      "examRelevance": "Cybersecurity, government data management, and data privacy.",
+      "tags": [
+        "Road Ministry",
+        "Data Leak",
+        "Forensic Audit",
+        "Vehicle Data",
+        "Cybersecurity"
+      ],
+      "source": {
+        "title": "Road Ministry seeks forensic audit of its portals after vehicle data leak",
+        "url": "https://www.thehindu.com/news/national/road-ministry-seeks-forensic-audit-of-its-portals-after-vehicle-data-leak/article71620455.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q13",
+      "question": "The INDIA bloc has announced a 'Dilli Chalo March' on November 1st, culminating at Ramleela Maidan, as part of a 'public impeachment proceeding' against which official?",
+      "options": [
+        "B) Chief Election Commissioner (CEC)",
+        "D) Comptroller and Auditor General (CAG)",
+        "A) Attorney General of India",
+        "C) Union Home Secretary"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The INDIA bloc has announced a 'Dilli Chalo March' on November 1st, culminating at Ramleela Maidan, to hold a 'public impeachment proceeding' against Chief Election Commissioner Gyanesh Kumar, alleging 'Vote Chori'.",
+      "background": "This protest is part of a broader campaign by the INDIA bloc, which has been critical of the Election Commission's functioning and has raised concerns about electoral integrity.",
+      "examRelevance": "Political protests, electoral processes, and key constitutional functionaries.",
+      "tags": [
+        "INDIA Bloc",
+        "Dilli Chalo March",
+        "CEC",
+        "Gyanesh Kumar",
+        "Ramlila Maidan"
+      ],
+      "source": {
+        "title": "INDIA bloc to hold ‘public impeachment proceeding’ of CEC Gyanesh Kumar, says K.C. Venugopal",
+        "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-amid-protest/article71621030.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q14",
+      "question": "Which Indian state is planning a state-wide vulnerability mapping to identify children at risk of malnutrition and neglect, as part of an effort to prevent child deaths?",
+      "options": [
+        "B) Uttar Pradesh",
+        "D) Rajasthan",
+        "C) Kerala",
+        "A) Odisha"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "Kerala is planning a state-wide vulnerability mapping exercise to identify children living in vulnerable conditions that pose risks to their health, education, and safety, with regular follow-ups to be conducted.",
+      "background": "This initiative aims to address child deaths linked to malnutrition and neglect by ensuring early identification of at-risk children and providing necessary support and interventions to improve their well-being.",
+      "examRelevance": "Government schemes for child welfare and social development.",
+      "tags": [
+        "Kerala",
+        "Child Welfare",
+        "Malnutrition",
+        "Vulnerability Mapping",
+        "Social Security"
+      ],
+      "source": {
+        "title": "How is Kerala planning to prevent child deaths linked to malnutrition and neglect? | Explained",
+        "url": "https://www.thehindu.com/news/national/kerala/how-is-kerala-planning-to-prevent-child-deaths-linked-to-malnutrition-and-neglect-explained/article71618979.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q15",
+      "question": "Indonesia recently cut its pipeline gas exports to Singapore by approximately what percentage?",
+      "options": [
+        "A) 5%",
+        "D) 15%",
+        "B) 9%",
+        "C) 12%"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Indonesia cut its pipeline gas exports to Singapore by about 9%, specifically reducing 15 mmscfd from Natuna and another 16 mmscfd of gas from Sumatra.",
+      "background": "This reduction in gas supply from a key regional supplier can have implications for Singapore's energy security and pricing, highlighting the interconnectedness of energy markets in Southeast Asia.",
+      "examRelevance": "International trade, energy policy, and regional economic developments.",
+      "tags": [
+        "Indonesia",
+        "Singapore",
+        "Gas Exports",
+        "Energy Trade",
+        "Southeast Asia"
+      ],
+      "source": {
+        "title": "Indonesia cuts pipeline gas exports to Singapore by about 9%",
+        "url": "https://www.thehindu.com/news/international/indonesia-cuts-pipeline-gas-exports-to-singapore-by-about-9/article71621477.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q16",
+      "question": "The Houthi rebels recently claimed to have targeted three Saudi airports, energy installations, a pipeline, and an air base, in retaliation for deadly strikes, including attacks on which city in Yemen?",
+      "options": [
+        "C) Aden",
+        "D) Taiz",
+        "A) Sanaa",
+        "B) Hodeidah"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Houthi fighters claimed to have attacked Saudi Arabia and Yemen's Aden, targeting three Saudi airports (including Riyadh International Airport), energy installations, a pipeline, and an air base, in retaliation for deadly strikes.",
+      "background": "The conflict in Yemen, involving the Houthi movement and a Saudi-led coalition, has led to a protracted humanitarian crisis and regional instability, with frequent cross-border attacks and retaliatory strikes.",
+      "examRelevance": "International conflicts, regional geopolitics, and key actors.",
+      "tags": [
+        "Houthis",
+        "Saudi Arabia",
+        "Yemen",
+        "Aden",
+        "Middle East Conflict"
+      ],
+      "source": {
+        "title": "Houthis say attacked Saudi Arabia, Yemen’s Aden after deadly strikes",
+        "url": "https://www.thehindu.com/news/international/houthis-attack-yemens-aden-say-saudi-strikes-kill-16/article71620895.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q17",
+      "question": "The Madras High Court recently ruled that life convicts are entitled to how many days of annual leave, which can be availed in two instalments?",
+      "options": [
+        "B) 30 days",
+        "A) 20 days",
+        "D) 50 days",
+        "C) 40 days"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Justices Anita Sumanth and Sunder Mohan of the Madras High Court ruled that life convicts can avail 40 days of annual leave in two instalments, and prison authorities cannot compel them to avail the leave only once a year.",
+      "background": "This ruling clarifies and reinforces the rights of life convicts regarding their annual leave, ensuring they have more flexibility in utilizing their sanctioned leave periods.",
+      "examRelevance": "Judiciary, legal rulings, and prison reforms.",
+      "tags": [
+        "Madras High Court",
+        "Life Convicts",
+        "Annual Leave",
+        "Prison Reforms",
+        "Legal Ruling"
+      ],
+      "source": {
+        "title": "Life convicts can avail 40 days of annual leave in two instalments, rules Madras High Court",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/life-convicts-can-avail-40-days-of-annual-leave-in-two-instalments-rules-madras-high-court/article71619647.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q18",
+      "question": "The Election Commission recently ordered a re-poll at three polling stations under which specific seat in Uttar Pradesh, following allegations of harassment?",
+      "options": [
+        "B) Kanpur Teachers Constituency",
+        "D) Lucknow Graduate Constituency",
+        "A) Agra Graduate Constituency",
+        "C) Agra Teachers MLC seat"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Election Commission ordered a re-poll at three polling stations under the Agra Teachers MLC seat in Uttar Pradesh, following an outcry and allegations of extreme harassment of supporters by the SP candidate.",
+      "background": "Re-polls are ordered when irregularities or disturbances significantly affect the fairness and integrity of the election process at specific polling locations.",
+      "examRelevance": "Electoral processes, election irregularities, and specific constituencies.",
+      "tags": [
+        "Election Commission",
+        "Uttar Pradesh",
+        "Agra Teachers MLC",
+        "Re-poll",
+        "Electoral Integrity"
+      ],
+      "source": {
+        "title": "Amid outcry, poll body orders re-poll at three polling stations under Agra Teachers MLC seat",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/amid-outcry-poll-body-orders-re-poll-at-three-polling-stations-under-agra-teachers-mlc-seat/article71620432.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q19",
+      "question": "The Kerala government has sanctioned ₹1,081 crore for the distribution of social security and welfare fund board pensions, with distribution set to begin from which date?",
+      "options": [
+        "D) October 29",
+        "A) October 20",
+        "C) October 26",
+        "B) October 23"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The Kerala government has sanctioned ₹1,081 crore for the distribution of social security pensions and welfare fund board pensions, which will begin from October 26.",
+      "background": "The timely distribution of pensions is crucial for the financial well-being of many vulnerable sections of society, and this allocation reflects the state's commitment to its social security programs.",
+      "examRelevance": "State government welfare schemes, financial allocations, and implementation dates.",
+      "tags": [
+        "Kerala",
+        "Social Security",
+        "Pensions",
+        "Welfare Fund",
+        "Financial Aid"
+      ],
+      "source": {
+        "title": "Social security, welfare fund board pensions in Keralam to be distributed from October 26",
+        "url": "https://www.thehindu.com/news/national/kerala/social-security-welfare-fund-board-pensions-in-keralam-to-be-distributed-from-october-26/article71620933.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q20",
+      "question": "How many election officials were recently removed in Uttar Pradesh after the Samajwadi Party (SP) flagged errors in the voter lists?",
+      "options": [
+        "A) Three",
+        "B) Six",
+        "C) Nine",
+        "D) Twelve"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Six election officials were recently removed in Uttar Pradesh after the Samajwadi Party (SP) flagged errors in the voter lists, prompting action from the authorities.",
+      "background": "Accurate voter lists are fundamental to fair and transparent elections. Errors can disenfranchise voters or lead to other irregularities, necessitating swift corrective action from election authorities.",
+      "examRelevance": "Electoral administration, accountability, and political party vigilance.",
+      "tags": [
+        "Uttar Pradesh",
+        "Election Officials",
+        "Voter List Errors",
+        "Samajwadi Party",
+        "Electoral Process"
+      ],
+      "source": {
+        "title": "Six election officials removed in U.P. after SP flags voter list errors",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/six-election-officials-removed-in-up-after-sp-flags-voter-list-errors/article71621307.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q21",
+      "question": "How many researchers from KLE Technological University, Hubballi, were featured in the 2026 single-year rankings of the world’s top 2% scientists?",
+      "options": [
+        "C) Seven",
+        "B) Six",
+        "D) Eight",
+        "A) Five"
+      ],
+      "answerIndex": 2,
+      "category": "Awards & Honours",
+      "explanation": "Eight researchers from KLE Technological University, Hubballi, were featured in the 2026 single-year rankings of the world’s top 2% scientists, recognizing their significant scientific impact.",
+      "background": "This recognition highlights the quality of research and academic excellence at KLE Technological University and contributes to India's growing presence in global scientific rankings. Five researchers from the same university were also recognized for their career-long scientific impact.",
+      "examRelevance": "Academic achievements, research excellence, and global rankings.",
+      "tags": [
+        "KLE Technological University",
+        "Hubballi",
+        "Top Scientists",
+        "Research",
+        "Academic Ranking"
+      ],
+      "source": {
+        "title": "Eight KLE tech varsity researchers feature in global top 2% list of scientists",
+        "url": "https://www.thehindu.com/news/national/karnataka/eight-kle-tech-varsity-researchers-feature-in-global-top-2-list-of-scientists/article71619939.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q22",
+      "question": "Students in Kerala recently marked the 90th anniversary of which historic proclamation?",
+      "options": [
+        "B) Temple Entry Proclamation",
+        "A) Vaikom Satyagraha Declaration",
+        "C) Guruvayoor Satyagraha Resolution",
+        "D) Paliyam Satyagraha Edict"
+      ],
+      "answerIndex": 0,
+      "category": "Dates & Days",
+      "explanation": "Students in Kerala recently marked the 90th anniversary of the historic Temple Entry Proclamation by distributing copies of the proclamation in houses and public spaces.",
+      "background": "The Temple Entry Proclamation, issued in 1936 by the Maharaja of Travancore, opened Hindu temples in the Kingdom of Travancore to all Hindus, regardless of caste, marking a significant milestone in social reform and the fight against untouchability in India.",
+      "examRelevance": "Historical events, anniversaries, and social reform movements.",
+      "tags": [
+        "Temple Entry Proclamation",
+        "Kerala",
+        "Travancore",
+        "Social Reform",
+        "Anniversaries"
+      ],
+      "source": {
+        "title": "Students mark 90th anniversary of Temple Entry Proclamation",
+        "url": "https://www.thehindu.com/news/national/kerala/students-mark-90th-anniversary-of-temple-entry-proclamation/article71620968.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q23",
+      "question": "A recent data breach exposed hundreds of applications, including commercially sensitive distribution agreements, submitted to which government body in India?",
+      "options": [
+        "C) Central Board of Film Certification (Censor Board)",
+        "D) National Film Development Corporation",
+        "B) Film and Television Institute of India",
+        "A) Ministry of Information and Broadcasting"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "A recent data breach exposed hundreds of applications, including commercially sensitive distribution agreements, that were submitted by filmmakers to the Central Board of Film Certification (Censor Board), making them accessible online.",
+      "background": "Data breaches involving government portals raise serious concerns about data security and privacy, especially when sensitive commercial and personal information is compromised.",
+      "examRelevance": "Cybersecurity incidents, government data security, and digital governance.",
+      "tags": [
+        "Censor Board",
+        "Data Breach",
+        "Cybersecurity",
+        "Film Industry",
+        "Data Privacy"
+      ],
+      "source": {
+        "title": "Hundreds of applications exposed in censor board data breach",
+        "url": "https://www.thehindu.com/sci-tech/technology/hundreds-of-applications-exposed-in-censor-board-data-breach/article71619870.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q24",
+      "question": "Saudi Arabia recently issued a 'potential danger' warning for which holy city, alongside Jeddah?",
+      "options": [
+        "B) Mecca",
+        "A) Medina",
+        "D) Dammam",
+        "C) Taif"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Saudi Arabia recently issued a 'potential danger' warning for the holy city of Mecca, along with Jeddah, indicating possible hazardous conditions or threats.",
+      "background": "Such warnings are typically issued due to adverse weather conditions, security concerns, or other potential risks that could affect public safety, especially in densely populated areas or pilgrimage sites.",
+      "examRelevance": "International alerts, geographical locations, and public safety.",
+      "tags": [
+        "Saudi Arabia",
+        "Mecca",
+        "Jeddah",
+        "Safety Warning",
+        "Middle East"
+      ],
+      "source": {
+        "title": "Saudi issues 'potential danger' warning for Mecca",
+        "url": "https://economictimes.indiatia.com/news/international/world-news/saudi-issues-potential-danger-warning-for-mecca-jeddah/articleshow/135176016.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q25",
+      "question": "Iran recently warned of an 'apocalyptic war' if which country strikes again?",
+      "options": [
+        "D) United Kingdom",
+        "B) Saudi Arabia",
+        "C) United States",
+        "A) Israel"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Iranian officials have warned that they would retaliate by targeting Persian Gulf countries in the event of renewed U.S. attacks, vowing an 'apocalyptic war' if the U.S. strikes again.",
+      "background": "Tensions between Iran and the United States have been high for several years, with both sides engaging in military actions and rhetoric. Iran has previously retaliated by striking U.S. bases and energy facilities in Gulf kingdoms.",
+      "examRelevance": "International relations, geopolitical tensions, and military threats.",
+      "tags": [
+        "Iran",
+        "United States",
+        "Apocalyptic War",
+        "Persian Gulf",
+        "Geopolitics"
+      ],
+      "source": {
+        "title": "Iran vows ‘apocalyptic war’ if U.S. strikes again",
+        "url": "https://www.thehindu.com/news/international/iran-warns-of-apocalyptic-war-if-attacked-again/article71620849.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q26",
+      "question": "Which two Indian cricketers, dubbed 'Telugu brothers' by fans, were recently hailed for their finishing act in India's Christchurch T20I win against New Zealand?",
+      "options": [
+        "A) Sanju Samson and Washington Sundar",
+        "B) Rishabh Pant and Hardik Pandya",
+        "C) Tilak Varma and Nitish Kumar Reddy",
+        "D) Suryakumar Yadav and Shreyas Iyer"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Tilak Varma and Nitish Kumar Reddy, hailed as 'Telugu brothers' by fans, were instrumental with their finishing act in India's recent Christchurch T20I win against New Zealand.",
+      "background": "Both players represent a new generation of Indian cricketers making their mark on the international stage, contributing to India's success in T20 International matches.",
+      "examRelevance": "Sports achievements, prominent players, and international matches.",
+      "tags": [
+        "Tilak Varma",
+        "Nitish Kumar Reddy",
+        "Cricket",
+        "T20I",
+        "India vs New Zealand"
+      ],
+      "source": {
+        "title": "Fans hail ‘Telugu brothers’ Tilak Varma, Nitish Kumar Reddy after India’s Christchurch T20I win",
+        "url": "https://www.thehindu.com/news/cities/Visakhapatnam/telugu-brothers-steal-the-show-set-social-media-abuzz-with-finishing-act-against-new-zealand/article71621038.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q27",
+      "question": "Which European country recently saw anti-government student protests turn violent, with police firing tear gas in its capital, Tirana?",
+      "options": [
+        "B) Albania",
+        "C) Montenegro",
+        "A) North Macedonia",
+        "D) Kosovo"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Anti-government student protests in Albania turned violent, with police firing tear gas in the capital, Tirana, and demonstrations spreading to other cities.",
+      "background": "The student-led demonstrations were fueled by anger over perceived government corruption, a common catalyst for unrest in many countries.",
+      "examRelevance": "International current events, protests, and political instability.",
+      "tags": [
+        "Albania",
+        "Student Protests",
+        "Tirana",
+        "Anti-government",
+        "European Politics"
+      ],
+      "source": {
+        "title": "Albanian police fire tear gas as anti-government student protests turn violent",
+        "url": "https://www.thehindu.com/news/international/albanian-police-fire-tear-gas-as-anti-government-student-protests-turn-violent/article71621342.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q28",
+      "question": "Which company, after initially contradicting its stand in an Indian court, recently admitted to having an Indian subsidiary?",
+      "options": [
+        "C) DeepMind",
+        "A) OpenAI",
+        "D) Stability AI",
+        "B) Anthropic PB"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Anthropic PB recently admitted to having an Indian subsidiary, contradicting its earlier stand in an Indian court, which led to accusations of violating corporate ethics.",
+      "background": "The admission came after a complaint was filed by the founder of a Belagavi-based company, highlighting issues of corporate transparency and legal compliance for international entities operating in India.",
+      "examRelevance": "Corporate governance, legal compliance, and international business operations.",
+      "tags": [
+        "Anthropic PB",
+        "Indian Subsidiary",
+        "Corporate Ethics",
+        "Legal Dispute",
+        "Business News"
+      ],
+      "source": {
+        "title": "Anthropic PB admits to having an Indian subsidiary, contradicts earlier stand in court",
+        "url": "https://www.thehindu.com/news/national/karnataka/anthropic-pb-admits-to-having-an-indian-subsidiary-contradicts-earlier-stand-in-court-caught-lying-in-indian-court/article71607673.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q29",
+      "question": "Which locality in Greater Noida is currently vying for recognition as the exact birthplace of the Ramayana’s demon-king Ravana, with two temples claiming the spot?",
+      "options": [
+        "A) Dadri",
+        "D) Dankaur",
+        "C) Jewar",
+        "B) Bisrakh"
+      ],
+      "answerIndex": 3,
+      "category": "Art & Culture",
+      "explanation": "In Greater Noida’s Bisrakh, priests of two temples, barely 300 metres apart, claim that their respective temples stand at the exact spot where the Ramayana’s demon-king Ravana was born.",
+      "background": "This local legend has fueled hopes among residents for increased recognition, improved infrastructure, and funds, linking a development dream to a story passed down through generations. Interestingly, Dasara passes without the burning of Ravana’s effigy in Bisrakh.",
+      "examRelevance": "Cultural heritage, local legends, and their impact on regional development.",
+      "tags": [
+        "Ravana",
+        "Bisrakh",
+        "Greater Noida",
+        "Ramayana",
+        "Cultural Heritage"
+      ],
+      "source": {
+        "title": "A development dream linked to Ravana’s birthplace",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/a-development-dream-linked-to-ravanas-birthplace/article71616208.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-25-q30",
+      "question": "A panel has been formed to probe the claims of at least 10 persons dying after consuming spurious liquor in which district of Madhya Pradesh?",
+      "options": [
+        "C) Dewas",
+        "B) Bhopal",
+        "A) Ujjain",
+        "D) Indore"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "A panel has been formed to probe claims that at least 10 persons died after consuming spurious liquor in Dewas district, Madhya Pradesh, between September 27 and October 16.",
+      "background": "Incidents of spurious liquor deaths are a recurring problem in several parts of India, often leading to calls for stricter enforcement against illegal alcohol manufacturing and distribution.",
+      "examRelevance": "Current events, social issues, and government responses to public health crises.",
+      "tags": [
+        "Spurious Liquor",
+        "Dewas",
+        "Madhya Pradesh",
+        "Hooch Tragedy",
+        "Panel Probe"
+      ],
+      "source": {
+        "title": "Panel formed to probe spurious liquor death claims in Madhya Pradesh's Dewas; report in 15 days",
+        "url": "https://www.thehindu.com/news/national/madhya-pradesh/panel-formed-to-probe-spurious-liquor-death-claims-in-madhya-pradeshs-dewas-report-in-15-days/article71622566.ece"
+      }
+    }
+  ]
+}
