@@ -1,0 +1,763 @@
+{
+  "id": "daily-2026-10-27",
+  "type": "daily",
+  "date": "2026-10-27",
+  "title": "Current Affairs — 27 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-27-q1",
+      "question": "What was the value of the Indian Rupee against the U.S. dollar in early trade on October 27, 2026, after falling by 7 paise?",
+      "options": [
+        "95.29",
+        "95.17",
+        "95.11",
+        "95.22"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "On October 27, 2026, the Indian Rupee fell by 7 paise against the U.S. dollar, trading at 95.22 in the interbank foreign exchange market. It opened at 95.17 and touched 95.11 before losing ground.",
+      "background": "The movement of the Indian Rupee against major global currencies like the U.S. dollar is a key indicator of economic health and is influenced by factors such as crude oil prices, foreign capital outflows, and domestic economic policies. Fluctuations can impact imports, exports, and inflation.",
+      "examRelevance": "Rupee value against USD on Oct 27, 2026 = 95.22.",
+      "tags": [
+        "Rupee",
+        "US Dollar",
+        "Foreign Exchange",
+        "Markets"
+      ],
+      "source": {
+        "title": "Rupee falls 7 paise to 95.22 against U.S. dollar in early trade",
+        "url": "https://www.thehindu.com/business/markets/rupee-falls-against-us-dollar-in-early-trade-on-october-27-2026/article71629928.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q2",
+      "question": "Cyclone 'Arnab' is currently hurtling towards the coast of which Indian state?",
+      "options": [
+        "Andhra Pradesh",
+        "Odisha",
+        "Tamil Nadu",
+        "West Bengal"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Cyclone 'Arnab' is currently hurtling towards the Andhra Pradesh coast. Several southern Odisha districts have also started receiving rain due to its approach.",
+      "background": "Tropical cyclones are frequent in the Bay of Bengal, especially during the post-monsoon season (October-December), often affecting the eastern and southeastern coastal states of India. The India Meteorological Department (IMD) monitors and issues alerts for these systems.",
+      "examRelevance": "Cyclone 'Arnab' is approaching the Andhra Pradesh coast.",
+      "tags": [
+        "Cyclone Arnab",
+        "Andhra Pradesh",
+        "Weather",
+        "IMD"
+      ],
+      "source": {
+        "title": "Cyclone ‘Arnab’ LIVE updates | ‘Arnab’ hurtling towards Andhra; Kakinada in the grip of fear",
+        "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q3",
+      "question": "How many remand prisoners recently escaped from a sub-jail in Theni district, Tamil Nadu?",
+      "options": [
+        "20",
+        "17",
+        "12",
+        "10"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "A total of 17 remand prisoners recently escaped from a sub-jail in Theni district, Tamil Nadu. Combing operations were launched, leading to the arrest of four of them.",
+      "background": "Jailbreaks, though rare, highlight lapses in prison security and management. Following this incident and a previous escape in Puzhal, the DGP-Prisons ordered a security audit of all prisons in Tamil Nadu to prevent future occurrences.",
+      "examRelevance": "17 remand prisoners escaped from Theni sub-jail.",
+      "tags": [
+        "Theni",
+        "Jailbreak",
+        "Tamil Nadu",
+        "Prisoners"
+      ],
+      "source": {
+        "title": "17 remand prisoners escape from sub-jail in Theni district; combing operations lead to arrest of four: IGP",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/17-remand-prisoners-escape-from-a-sub-jail-in-theni-district-combing-operations/article71629593.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q4",
+      "question": "Who is currently the President of the Telangana BJP?",
+      "options": [
+        "K. Laxman",
+        "N. Ramachander Rao",
+        "G. Kishan Reddy",
+        "Bandi Sanjay Kumar"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "N. Ramachander Rao is currently the President of the Telangana BJP. He is widely considered a frontrunner for the Hyderabad-Rangareddy-Mahabubnagar Graduates’ constituency MLC seat.",
+      "background": "State party presidents play a crucial role in election strategies and political campaigning at the regional level. Their selection often reflects the party's priorities and aims for upcoming elections.",
+      "examRelevance": "N. Ramachander Rao = Telangana BJP President.",
+      "tags": [
+        "Telangana BJP",
+        "N. Ramachander Rao",
+        "Appointments",
+        "Politics"
+      ],
+      "source": {
+        "title": "Jana Sena’s MLC claim sparks unease in Telangana BJP",
+        "url": "https://www.thehindu.com/news/national/telangana/jana-senas-mlc-claim-sparks-unease-in-telangana-bjp/article71628360.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q5",
+      "question": "Which Indian state plans to initially implement a Deposit Return Scheme (DRS) specifically for liquor packaging?",
+      "options": [
+        "Uttarakhand",
+        "Himachal Pradesh",
+        "Karnataka",
+        "Goa"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Goa plans to begin implementing a Deposit Return Scheme (DRS) specifically for liquor packaging. Uttarakhand and Himachal Pradesh are also developing broader schemes to address plastic packaging waste.",
+      "background": "Deposit Return Schemes (DRS) are gaining traction in India as a mechanism to improve recycling rates and reduce plastic packaging waste. Consumers pay a small deposit when purchasing eligible containers, which is refunded upon return.",
+      "examRelevance": "Goa to implement DRS for liquor packaging.",
+      "tags": [
+        "Deposit Return Schemes",
+        "DRS",
+        "Plastic Recycling",
+        "Goa",
+        "Environment"
+      ],
+      "source": {
+        "title": "Mint Explainer | From Goa to Uttarakhand: how states are pushing for bottle recycling",
+        "url": "https://www.livemint.com/economy/deposit-return-scheme-india-plastic-bottle-recycling-11793073254438.html"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q6",
+      "question": "Who is the current Chief Election Commissioner (CEC) of India against whom pleas are being heard by the Supreme Court?",
+      "options": [
+        "Gyanesh Kumar",
+        "Rajiv Kumar",
+        "Arun Goel",
+        "Anup Chandra Pandey"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Gyanesh Kumar is the current Chief Election Commissioner (CEC) of India. The Supreme Court is currently hearing pleas against him and decisions made during the Special Summary Revision (SIR).",
+      "background": "The Chief Election Commissioner and Election Commissioners are responsible for overseeing the conduct of elections in India, a crucial role in maintaining democratic processes. Their appointments and functioning are often subject to public and judicial scrutiny.",
+      "examRelevance": "Gyanesh Kumar = Current Chief Election Commissioner of India.",
+      "tags": [
+        "Gyanesh Kumar",
+        "CEC",
+        "Election Commission of India",
+        "Supreme Court"
+      ],
+      "source": {
+        "title": "CEC row LIVE: SC to hear pleas against CEC Gyanesh Kumar, decisions during SIR",
+        "url": "https://www.thehindu.com/news/national/cec-row-sir-live-updates-supreme-court-hearing-gyanesh-kumar-oct-27-2026/article71629879.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q7",
+      "question": "A Bangladesh Opposition leader recently expressed concern over an eviction drive in the Lutumari-Longjap Reserve Forest, located in which Indian state?",
+      "options": [
+        "West Bengal",
+        "Meghalaya",
+        "Assam",
+        "Tripura"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Bangladesh Opposition leader Shafiqur Rahman expressed deep concern over the eviction of Muslim families and demolition of mosques in the Lutumari-Longjap Reserve Forest, which is located in the Indian state of Assam.",
+      "background": "Cross-border concerns over human rights and environmental issues can sometimes lead to diplomatic discussions between neighboring countries. Forest reserve evictions are often contentious, balancing conservation goals with the rights of traditional inhabitants.",
+      "examRelevance": "Lutumari-Longjap Reserve Forest = Assam.",
+      "tags": [
+        "Assam",
+        "Lutumari-Longjap Reserve Forest",
+        "Bangladesh",
+        "Eviction Drive"
+      ],
+      "source": {
+        "title": "Bangladesh leader raises concerns over Assam forest eviction drive, State minister counters",
+        "url": "https://www.thehindu.com/news/national/assam/bangladesh-leader-raises-concerns-over-assam-forest-eviction-drive-state-minister-counters/article71627246.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q8",
+      "question": "Approximately how many names were struck off the voter list in Karnataka during the recent Special Summary Revision (SIR)?",
+      "options": [
+        "45.50 lakh",
+        "99.32 lakh",
+        "55.43 lakh",
+        "1.5 crore"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Over 99.32 lakh names were struck off the voter list in Karnataka during the recent Special Summary Revision (SIR). This significantly reduced the state's electorate from 5,54,32,314 to 4,55,00,011 voters.",
+      "background": "The Special Summary Revision (SIR) is a process undertaken by the Election Commission of India to update electoral rolls, ensuring accuracy by removing duplicate entries, deceased voters, and those who have moved, while also adding new eligible voters. This process is crucial for fair and transparent elections.",
+      "examRelevance": "99.32 lakh names struck off Karnataka voter list during SIR.",
+      "tags": [
+        "Karnataka",
+        "Voter List",
+        "SIR",
+        "Election Commission"
+      ],
+      "source": {
+        "title": "SIR: Over 99.32 lakh names struck off voter list in Karnataka",
+        "url": "https://www.thehindu.com/news/national/karnataka/sir-over-9932-lakh-names-struck-off-voter-list-in-karnataka/article71629941.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q9",
+      "question": "The Election Commission of India (ECI) has introduced an additional declaration form along with which existing form, requiring voters to provide details of their earlier electoral roll entries?",
+      "options": [
+        "Form 8",
+        "Form 10",
+        "Form 4",
+        "Form 6"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Election Commission of India (ECI) has introduced an additional declaration form along with Form 6. This new declaration requires voters to provide details of their earlier electoral roll entries or those of their parents or grandparents.",
+      "background": "Form 6 is used for new voter registration. The introduction of an additional declaration form aims to enhance the accuracy and integrity of the electoral roll, particularly in light of concerns about duplicate entries or fraudulent registrations. The Supreme Court is examining this new form.",
+      "examRelevance": "ECI introduced additional declaration with Form 6 for voter details.",
+      "tags": [
+        "ECI",
+        "Form 6",
+        "Voter Registration",
+        "Electoral Roll"
+      ],
+      "source": {
+        "title": "ECI’s stand that additional declaration is not part of Form 6 comes days after SC said it will examine ‘new’ Form 6",
+        "url": "https://www.thehindu.com/news/national/ecis-stand-that-additional-declaration-is-not-part-of-form-6-comes-days-after-sc-said-it-will-examine-new-form-6/article71629933.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q10",
+      "question": "On which date is Prime Minister Narendra Modi scheduled to inaugurate the Pune Metro Line 3 (Hinjewadi-Shivajinagar corridor)?",
+      "options": [
+        "November 5",
+        "November 1",
+        "October 30",
+        "November 3"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Prime Minister Narendra Modi is scheduled to inaugurate the Pune Metro Line 3, specifically the Hinjewadi-Shivajinagar corridor, on November 3, 2026. This line will provide significant relief for IT employees.",
+      "background": "Metro rail projects are crucial for improving urban connectivity, reducing traffic congestion, and promoting public transport in major Indian cities. Pune Metro Line 3, also known as the Hinjewadi-Shivajinagar corridor, connects key IT hubs and residential areas.",
+      "examRelevance": "PM Modi to inaugurate Pune Metro Line 3 on Nov 3.",
+      "tags": [
+        "Pune Metro",
+        "PM Modi",
+        "Infrastructure",
+        "Hinjewadi-Shivajinagar"
+      ],
+      "source": {
+        "title": "PM to inaugurate Pune Metro Line on Nov 3",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/railways/big-relief-for-it-employees-17-stations-of-pune-metro-line-3-to-open-on-november-3-pm-modi-to-inaugurate-hinjewadi-shivajinagar-corridor/articleshow/135225758.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q11",
+      "question": "From which coal mine in West Bengal were 14 workers recently rescued after being trapped due to a pulley system malfunction?",
+      "options": [
+        "Talcher Coalfield",
+        "Raniganj Coalfield",
+        "Jharia Coalfield",
+        "Kumardihi A mine"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "All 14 workers trapped in the Kumardihi A mine in West Bengal were successfully rescued. They were stranded in two lifting cages following a pulley system malfunction.",
+      "background": "Mining operations inherently carry risks, and safety protocols are critical to prevent accidents. Incidents like this highlight the challenges faced by mining workers and the importance of robust safety mechanisms and emergency response plans.",
+      "examRelevance": "14 workers rescued from Kumardihi A mine in West Bengal.",
+      "tags": [
+        "West Bengal",
+        "Coal Mine",
+        "Rescue Operation",
+        "Kumardihi A mine"
+      ],
+      "source": {
+        "title": "All 14 workers trapped at Bengal coal mine rescued",
+        "url": "https://www.thehindu.com/news/national/west-bengal/all-14-workers-trapped-at-bengal-coal-mine-rescued/article71629857.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q12",
+      "question": "Which institution is presenting 'The Hindu Semiconductor Summit 2026'?",
+      "options": [
+        "SRM",
+        "Vellore Institute of Technology",
+        "IIT Madras",
+        "Anna University"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "'The Hindu Semiconductor Summit 2026' is being presented by SRM. The summit aims to bring together researchers, developers, and executives to explore advancements in the semiconductor world.",
+      "background": "Semiconductors are fundamental components of modern electronics and technology, crucial for industries ranging from consumer devices to defence. Summits like this foster innovation, collaboration, and discussion on the future of semiconductor technology and manufacturing.",
+      "examRelevance": "SRM presents 'The Hindu Semiconductor Summit 2026'.",
+      "tags": [
+        "Semiconductor Summit",
+        "SRM",
+        "The Hindu",
+        "Technology"
+      ],
+      "source": {
+        "title": "SRM presents The Hindu Semiconductor Summit 2026 | Watch LIVE",
+        "url": "https://www.thehindu.com/news/cities/chennai/srm-presents-the-hindu-semiconductor-summit-2026/article71629957.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q13",
+      "question": "Chef K. Damodaran, popularly known as Chef Damu, who recently passed away, was renowned for his significant contributions to the culinary heritage of which Indian state?",
+      "options": [
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Karnataka",
+        "Kerala"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Chef K. Damodaran, known as Chef Damu, who recently passed away, was renowned for his significant contributions to Tamil Nadu’s culinary heritage. He took the cuisine to the world stage, documented forgotten dishes, and inspired many through his television shows.",
+      "background": "Chef Damu was a celebrated figure in the Indian culinary world, particularly for his dedication to regional Indian cuisine. His work in preserving and promoting traditional Tamil Nadu dishes has left a lasting legacy.",
+      "examRelevance": "Chef Damu contributed to Tamil Nadu's culinary heritage.",
+      "tags": [
+        "Chef Damu",
+        "K Damodaran",
+        "Tamil Nadu Cuisine",
+        "Obituary"
+      ],
+      "source": {
+        "title": "Remembering Chef Damu: A life dedicated to Tamil Nadu’s culinary heritage",
+        "url": "https://www.thehindu.com/society/remembering-chef-damu-a-life-dedicated-to-tamil-nadus-culinary-heritage/article71626208.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q14",
+      "question": "On October 27, 2026, the 30-share BSE Sensex declined by how many points in early trade?",
+      "options": [
+        "150.25",
+        "281.95",
+        "350.75",
+        "63.15"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "On October 27, 2026, the 30-share BSE Sensex declined by 281.95 points in early trade, settling at 73,316.21. Simultaneously, the 50-share NSE Nifty fell by 63.15 points to 22,694.60.",
+      "background": "Stock market movements are influenced by various domestic and global factors, including crude oil prices, inflation, corporate earnings, and international market trends. A decline often reflects investor sentiment responding to negative economic indicators.",
+      "examRelevance": "BSE Sensex declined by 281.95 points on Oct 27, 2026.",
+      "tags": [
+        "BSE Sensex",
+        "NSE Nifty",
+        "Stock Market",
+        "Economy"
+      ],
+      "source": {
+        "title": "Stock markets fall in early trade amid persistently elevated crude oil prices, IT selling",
+        "url": "https://www.thehindu.com/business/markets/stock-markets-fall-in-early-trade-on-tuesday-amid-elevated-crude-oil-prices-and-it-selling/article71629855.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q15",
+      "question": "Cyclone 'Arnab' is expected to affect approximately how many households in Visakhapatnam district, Andhra Pradesh?",
+      "options": [
+        "5,000",
+        "7,500",
+        "10,176",
+        "15,000"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Cyclone 'Arnab' is expected to affect approximately 10,176 households across 37 villages in Visakhapatnam district, Andhra Pradesh. The administration has prepared 54 relief camps for 31,405 people.",
+      "background": "Disaster preparedness is crucial for coastal regions prone to cyclones. Local administrations typically appoint special officers, identify vulnerable areas, and set up relief camps to minimize loss of life and property during such natural calamities.",
+      "examRelevance": "Cyclone 'Arnab' to affect 10,176 households in Visakhapatnam.",
+      "tags": [
+        "Cyclone Arnab",
+        "Visakhapatnam",
+        "Andhra Pradesh",
+        "Disaster Management"
+      ],
+      "source": {
+        "title": "Cyclone Arnab: 10,176 households in 37 villages of Visakhapatnam district likely to be affected",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-10176-households-in-37-villages-of-visakhapatnam-district-likely-to-be-affected/article71629825.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q16",
+      "question": "The recent amendments to vehicle rules, concerning E100 vehicles, primarily modify which two rules related to emission standards and testing?",
+      "options": [
+        "Rule 100 and Rule 100E",
+        "Rule 115 and Rule 115E",
+        "Rule 110 and Rule 110E",
+        "Rule 120 and Rule 120E"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The recent amendments concerning E100 vehicles modify Rule 115, which deals with emission standards and related requirements for motor vehicles, and Rule 115E, which contains additional provisions relating to emission testing.",
+      "background": "E100 vehicles are designed to run on 100% ethanol fuel, part of India's push for alternative and cleaner energy sources in the automotive sector. Modifying emission rules is essential to regulate these new technologies and ensure environmental compliance.",
+      "examRelevance": "E100 vehicle rules modify Rule 115 and Rule 115E.",
+      "tags": [
+        "E100 Vehicles",
+        "Emission Standards",
+        "Motor Vehicles",
+        "Rule 115"
+      ],
+      "source": {
+        "title": "What the new E100 vehicle rules mean | Explained",
+        "url": "https://www.thehindu.com/news/national/what-the-new-e100-vehicle-rules-mean-explained/article71629895.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q17",
+      "question": "Which two reservoirs in Telangana have been reported to be at their lowest storage levels according to recent CWC data?",
+      "options": [
+        "Jurala and Sriram Sagar",
+        "Nagarjunasagar and Singur",
+        "Musi Project and Kaddam",
+        "Lower Manair and Nizam Sagar"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "According to recent CWC data, Nagarjunasagar and Singur reservoirs in Telangana have been reported to be at their lowest storage levels. In contrast, Lower Manair recorded the highest storage at 70.01% of its live capacity.",
+      "background": "Reservoir storage levels are critical for agricultural irrigation, drinking water supply, and power generation. Below-normal storage can indicate drought conditions or inefficient water management, impacting various sectors of the state's economy and public life.",
+      "examRelevance": "Nagarjunasagar and Singur reservoirs = lowest storage in Telangana.",
+      "tags": [
+        "Telangana",
+        "Reservoirs",
+        "Water Storage",
+        "CWC",
+        "Nagarjunasagar",
+        "Singur"
+      ],
+      "source": {
+        "title": "Telangana reservoirs storage below normal; Nagarjunasagar and Singur at lowest, CWC data shows",
+        "url": "https://www.thehindu.com/news/national/telangana/telangana-state-reservoirs-storage-below-normal-nagarjunasagar-and-singur-at-lowest-cwc-data-shows/article71627926.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q18",
+      "question": "Anthropic, a leading developer of AI models, is preparing for an Initial Public Offering (IPO) and is the maker of which AI assistant?",
+      "options": [
+        "ChatGPT",
+        "Gemini",
+        "Claude",
+        "Bard"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Anthropic, a leading developer of AI models, is preparing for an Initial Public Offering (IPO) that could value the company at around $1.5 trillion. Anthropic is the maker of the AI assistant 'Claude'.",
+      "background": "The AI industry is experiencing rapid growth and significant investment, with companies like Anthropic and OpenAI (maker of ChatGPT) at the forefront of developing advanced AI models. An IPO by Anthropic would be a landmark event for public-market investors seeking to enter the AI sector.",
+      "examRelevance": "Anthropic = maker of AI assistant 'Claude'.",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "AI",
+        "Claude",
+        "Technology"
+      ],
+      "source": {
+        "title": "TCS, Infosys, other IT stocks drop up to 3% as Anthropic IPO sparks rally in global AI stocks",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-other-it-stocks-drop-up-to-3-as-anthropic-ipo-sparks-rally-in-global-ai-stocks/articleshow/135225464.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q19",
+      "question": "Which country is currently holding nationwide elections amidst uncertainty over its Prime Minister's future?",
+      "options": [
+        "Ukraine",
+        "Brazil",
+        "Israel",
+        "Jordan"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Israel is currently holding nationwide elections amidst uncertainty over Prime Minister Netanyahu's future and the coalition numbers. Opposition leaders are challenging Netanyahu’s right-wing coalition.",
+      "background": "Elections in Israel are often closely contested, with coalition governments being the norm due to its multi-party system. Political stability in Israel has significant regional and international implications.",
+      "examRelevance": "Israel is holding nationwide elections.",
+      "tags": [
+        "Israel",
+        "Elections",
+        "Politics",
+        "Netanyahu"
+      ],
+      "source": {
+        "title": "Israel election: Polling begins nationwide",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-elections-2026-remember-october-7-eisenkot-appeals-to-voters-as-netanyahu-projects-strong-man-image/articleshow/135225431.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q20",
+      "question": "Approximately how many staff members has Microsoft offered voluntary exit packages to, with some Indian teams also being eligible?",
+      "options": [
+        "60,000",
+        "45,000",
+        "75,000",
+        "30,000"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Microsoft has offered voluntary exit packages to approximately 60,000 staff members globally, with some Indian teams also being eligible. This move comes as major tech giants heavily invest in AI, raising concerns about its impact on jobs.",
+      "background": "Voluntary exit schemes are often implemented by large corporations to manage workforce size, reduce costs, or restructure departments, especially in response to technological shifts or economic pressures. The rise of AI is prompting many companies to re-evaluate staffing needs.",
+      "examRelevance": "Microsoft offered voluntary exit packages to 60,000 staff.",
+      "tags": [
+        "Microsoft",
+        "Voluntary Exit",
+        "Tech Industry",
+        "AI Impact"
+      ],
+      "source": {
+        "title": "Microsoft offers voluntary exit packages to 60,000 staff, with some Indian teams eligible",
+        "url": "https://www.thehindu.com/sci-tech/technology/microsoft-offers-voluntary-exit-packages-to-60000-staff/article71629641.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q21",
+      "question": "Justice Tapabrata Chakraborty, previously of the Calcutta High Court, has been elevated as the Chief Justice of which High Court?",
+      "options": [
+        "Madras High Court",
+        "Andhra Pradesh High Court",
+        "Kerala High Court",
+        "Telangana High Court"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Justice Tapabrata Chakraborty, who previously served at the Calcutta High Court, has been elevated as the Chief Justice of the Telangana High Court.",
+      "background": "Judicial appointments and elevations are made through the Supreme Court Collegium system, which recommends judges for various High Courts and the Supreme Court. These appointments are crucial for the functioning of the Indian judiciary.",
+      "examRelevance": "Justice Tapabrata Chakraborty = Telangana High Court Chief Justice.",
+      "tags": [
+        "Justice Tapabrata Chakraborty",
+        "Telangana High Court",
+        "Chief Justice",
+        "Judicial Appointments"
+      ],
+      "source": {
+        "title": "Justice Tapabrata Chakraborty of Calcutta HC elevated as Telangana HC Chief Justice",
+        "url": "https://www.thehindu.com/news/national/telangana/justice-tapabrata-chakraborty-of-calcutta-hc-elevated-as-telangana-hc-chief-justice/article71629800.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q22",
+      "question": "In the September quarter of FY27, Ather Energy reported its first-ever quarterly net profit of how much?",
+      "options": [
+        "Rs 5.00 crore",
+        "Rs 0.50 crore",
+        "Rs 1.26 crore",
+        "Rs 2.50 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "In the September quarter of FY27, Ather Energy reported its first-ever quarterly net profit of Rs 1.26 crore. This marks a significant turnaround from a net loss of Rs 154 crore in the year-ago period, with revenue growing by nearly 63% year-on-year to Rs 1,464 crore.",
+      "background": "Achieving profitability is a key milestone for electric vehicle (EV) manufacturers like Ather Energy, especially in a competitive and rapidly evolving market. Strong financial results can boost investor confidence and support future expansion plans.",
+      "examRelevance": "Ather Energy reported Rs 1.26 crore net profit in Q2 FY27.",
+      "tags": [
+        "Ather Energy",
+        "Q2 Results",
+        "Net Profit",
+        "Electric Scooters"
+      ],
+      "source": {
+        "title": "Ather Energy shares jump 5%, extend rally to 20% in two days after Q2 results. Can the run continue?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-jump-5-extend-rally-to-20-in-two-days-after-q2-results-can-the-run-continue/articleshow/135225009.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q23",
+      "question": "Luiz Inácio Lula da Silva recently secured a fourth term as the President of which South American country?",
+      "options": [
+        "Argentina",
+        "Colombia",
+        "Chile",
+        "Brazil"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Luiz Inácio Lula da Silva secured a dramatic comeback to win a fourth term as the President of Brazil. His party recognized his election win after he trailed in the first round.",
+      "background": "Lula da Silva is a prominent figure in global politics, known for his previous terms as Brazil's president. His return to power marks a significant political shift in Brazil and has implications for regional and international relations.",
+      "examRelevance": "Luiz Inácio Lula da Silva = President of Brazil for a fourth term.",
+      "tags": [
+        "Luiz Inácio Lula da Silva",
+        "Brazil",
+        "Elections",
+        "Politics"
+      ],
+      "source": {
+        "title": "Bolsonaro’s party says it recognises Lula’s election win in Brazil",
+        "url": "https://www.thehindu.com/news/international/bolsonaros-party-says-it-recognises-lulas-election-win-in-brazil/article71629613.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q24",
+      "question": "Union Defence Minister Rajnath Singh recently called for which phase of 'Aatmanirbharta' (self-reliance) in the defence sector?",
+      "options": [
+        "Aatmanirbharta Defence",
+        "Aatmanirbharta 3.0",
+        "Aatmanirbharta 1.0",
+        "Aatmanirbharta 2.0"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "Union Defence Minister Rajnath Singh recently called for 'Aatmanirbharta 2.0' in the defence sector. He emphasized building on gains from the past decade and focusing on advanced technologies and resilient supply chains.",
+      "background": "Aatmanirbharta (self-reliance) in defence is a key policy initiative of the Indian government aimed at reducing dependence on foreign arms imports and boosting indigenous defence manufacturing. 'Aatmanirbharta 2.0' signifies an advanced stage focusing on cutting-edge technologies.",
+      "examRelevance": "Rajnath Singh called for 'Aatmanirbharta 2.0' in defence.",
+      "tags": [
+        "Rajnath Singh",
+        "Aatmanirbharta",
+        "Defence",
+        "Self-Reliance"
+      ],
+      "source": {
+        "title": "Rajnath Singh calls for ‘Aatmanirbharta 2.0’ in defence, stresses advanced technologies and resilient supply chains",
+        "url": "https://www.thehindu.com/news/national/rajnath-singh-calls-for-aatmanirbharta-20-in-defence-stresses-advanced-technologies-and-resilient-supply-chains/article71627117.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q25",
+      "question": "India's Free Trade Agreement (FTA) talks are nearing conclusion with which South American country?",
+      "options": [
+        "Argentina",
+        "Peru",
+        "Chile",
+        "Brazil"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "India's Free Trade Agreement (FTA) talks are nearing conclusion with the South American country of Chile. This development indicates strengthening economic ties between the two nations.",
+      "background": "Free Trade Agreements are designed to reduce trade barriers and facilitate smoother economic exchanges between countries. Concluding an FTA with Chile would open new markets for Indian goods and services and enhance bilateral trade relations.",
+      "examRelevance": "India's FTA talks with Chile nearing conclusion.",
+      "tags": [
+        "India",
+        "Chile",
+        "FTA",
+        "Trade Relations"
+      ],
+      "source": {
+        "title": "India’s FTA talks with Chile nearing conclusion",
+        "url": "https://economictimes.indiatimes.com/news/india/piyush-goyal-says-india-chile-fta-talks-quite-ripe-for-conclusion-canada-negotiations-making-progress/articleshow/135224807.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q26",
+      "question": "Thirunelly panchayat, which is using community-based weather data to bolster its demand for drought-hit status, is located in which district of Kerala?",
+      "options": [
+        "Idukki",
+        "Wayanad",
+        "Palakkad",
+        "Malappuram"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Thirunelly panchayat, located in the Wayanad district of Kerala, is using a community-based weather monitoring network to track hyperlocal variability in rainfall patterns and support its demand for drought-hit status.",
+      "background": "Community-based data collection can be vital for local governance and disaster management, providing granular information that complements official data. This approach helps in making timely interventions and advocating for necessary government assistance during environmental crises like drought.",
+      "examRelevance": "Thirunelly panchayat demanding drought status is in Wayanad, Kerala.",
+      "tags": [
+        "Thirunelly",
+        "Wayanad",
+        "Kerala",
+        "Drought",
+        "Weather Data"
+      ],
+      "source": {
+        "title": "How community-based weather data is bolstering this Wayanad panchayat’s demand for drought-hit status",
+        "url": "https://www.thehindu.com/news/national/kerala/how-community-based-weather-data-is-bolstering-this-wayanad-panchayats-demand-for-drought-hit-status/article71628696.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q27",
+      "question": "The Supreme Court Collegium recently proposed four judges for High Court Chief Justiceships. Which of the following judges was NOT among those proposed?",
+      "options": [
+        "Justice Sudhir Singh",
+        "Justice Surya Kant",
+        "Justice Manash Ranjan Pathak",
+        "Justice P. Sam Koshy"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "The Supreme Court Collegium recently proposed four judges for High Court Chief Justiceships: Justice Manash Ranjan Pathak, Justice P. Sam Koshy, Justice Tapabrata Chakraborty, and Justice Sudhir Singh. Justice Surya Kant is currently the Chief Justice of India and was not among those proposed for a High Court Chief Justiceship.",
+      "background": "The Supreme Court Collegium plays a crucial role in the appointment and transfer of judges in the Indian higher judiciary. Its recommendations are vital for filling judicial vacancies and ensuring the smooth functioning of High Courts across the country.",
+      "examRelevance": "Justice Manash Ranjan Pathak, Justice P. Sam Koshy, Justice Tapabrata Chakraborty, Justice Sudhir Singh proposed for HC CJ.",
+      "tags": [
+        "Supreme Court Collegium",
+        "High Court Chief Justice",
+        "Judicial Appointments"
+      ],
+      "source": {
+        "title": "Supreme Court Collegium proposes four judges for HC Chief Justiceships",
+        "url": "https://www.thehindu.com/news/national/supreme-court-collegium-proposes-four-judges-for-hc-chief-justiceships/article71629756.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q28",
+      "question": "According to NFHS-6 data, what is the rate of Caesarean sections (C-sections) in West Bengal?",
+      "options": [
+        "27.2%",
+        "50.0%",
+        "44.5%",
+        "35.0%"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "According to NFHS-6 data, the rate of Caesarean sections (C-sections) in West Bengal is 44.5%. This figure is nearly double the 2015-16 level and significantly higher than the national average of 27.2%.",
+      "background": "The National Family Health Survey (NFHS) provides crucial data on health and family welfare indicators across India. High rates of C-sections, especially in private facilities, often raise concerns about unnecessary medical interventions and their potential health and economic implications.",
+      "examRelevance": "West Bengal C-section rate (NFHS-6) = 44.5%.",
+      "tags": [
+        "West Bengal",
+        "C-sections",
+        "NFHS-6",
+        "Health Statistics"
+      ],
+      "source": {
+        "title": "Why West Bengal’s C-Sections, at nearly 1 in 2 births, demand a hard look",
+        "url": "https://www.thehindu.com/sci-tech/health/why-west-bengals-c-sections-at-nearly-1-in-2-births-demand-a-hard-look/article71619366.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q29",
+      "question": "Who is currently Canada's Trade Minister, involved in constructive dialogue with Washington regarding trade demands?",
+      "options": [
+        "Dominic LeBlanc",
+        "Chrystia Freeland",
+        "Justin Trudeau",
+        "Melanie Joly"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Dominic LeBlanc is currently Canada's Trade Minister. His office confirmed that Canada remains in 'constructive dialogue' with Washington regarding trade demands, as U.S. President Trump is reportedly moving closer to Canada's positions.",
+      "background": "Trade relations between Canada and the United States are extensive and complex, often involving ongoing negotiations over various sectors. The role of the Trade Minister is crucial in representing national economic interests on the international stage.",
+      "examRelevance": "Dominic LeBlanc = Canada's Trade Minister.",
+      "tags": [
+        "Canada",
+        "Trade Minister",
+        "Dominic LeBlanc",
+        "US-Canada Relations"
+      ],
+      "source": {
+        "title": "Carney says Trump moving closer to Canada's trade demands as midterms loom",
+        "url": "https://www.thehindu.com/news/international/carney-says-trump-moving-closer-to-canadas-trade-demands-as-midterms-loom/article71629789.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-27-q30",
+      "question": "Which Chief Justice of India (CJI) is scheduled to head a three-judge Bench to hear petitions challenging the new privacy law?",
+      "options": [
+        "D.Y. Chandrachud",
+        "U.U. Lalit",
+        "Surya Kant",
+        "N.V. Ramana"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "A three-judge Bench headed by Chief Justice of India (CJI) Surya Kant is scheduled to hear a batch of petitions challenging the new privacy law. These petitions were filed by activists and a media association.",
+      "background": "The Supreme Court frequently hears petitions challenging various laws and policies, upholding its role as the guardian of the Constitution. Privacy laws, in particular, often spark debates about individual rights versus state interests.",
+      "examRelevance": "CJI Surya Kant to head Bench for privacy law petitions.",
+      "tags": [
+        "Supreme Court",
+        "CJI Surya Kant",
+        "Privacy Law",
+        "Judiciary"
+      ],
+      "source": {
+        "title": "Media association challenges privacy law in Supreme Court",
+        "url": "https://www.thehindu.com/news/national/indian-publishers-contest-modi-governments-privacy-law/article71627054.ece"
+      }
+    }
+  ]
+}
