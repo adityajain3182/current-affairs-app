@@ -1,0 +1,790 @@
+{
+  "id": "daily-2026-10-28",
+  "type": "daily",
+  "date": "2026-10-28",
+  "title": "Current Affairs — 28 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-28-q1",
+      "question": "Which political party leads the current Tamil Nadu government, recently criticized over the Theni jailbreak?",
+      "options": [
+        "BJP",
+        "DMK",
+        "TVK",
+        "AIADMK"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The TVK (Thamizhaga Vetri Kazhagam) party leads the current Tamil Nadu government. This government recently faced criticism from opposition leaders Palaniswami and Dhinakaran following a jailbreak incident in Theni.",
+      "background": "The criticism highlights ongoing political dynamics in Tamil Nadu, with opposition parties scrutinizing the ruling government's handling of law and order issues. Theni is a district in the southern part of Tamil Nadu.",
+      "examRelevance": "TVK = current ruling party in Tamil Nadu.",
+      "tags": [
+        "Tamil Nadu",
+        "TVK",
+        "Theni",
+        "Jailbreak"
+      ],
+      "source": {
+        "title": "Theni jailbreak: Palaniswami, Dhinakaran criticise TVK-led Tamil Nadu government",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/theni-jailbreak-palaniswami-dhinakaran-criticise-tvk-led-tamil-nadu-government/article71633060.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q2",
+      "question": "Which renowned tennis player recently announced his retirement after a defeat in Basel, concluding a 24-year professional career?",
+      "options": [
+        "Stan Wawrinka",
+        "Novak Djokovic",
+        "Roger Federer",
+        "Rafael Nadal"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Swiss tennis star Stan Wawrinka recently brought his illustrious 24-year professional career to a close after suffering a defeat in Basel. He had announced his intention to retire at the end of the 2026 season last year.",
+      "background": "Wawrinka is a three-time Grand Slam champion, having won the Australian Open in 2014, the French Open in 2015, and the US Open in 2016. He was known for his powerful one-handed backhand.",
+      "examRelevance": "Stan Wawrinka = retired tennis player, defeat in Basel.",
+      "tags": [
+        "Stan Wawrinka",
+        "Tennis",
+        "Retirement",
+        "Basel"
+      ],
+      "source": {
+        "title": "Wawrinka brings career to a close with defeat in Basel",
+        "url": "https://www.thehindu.com/sport/tennis/wawrinka-brings-career-to-a-close-with-defeat-in-basel/article71634663.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q3",
+      "question": "What is the name of the new world model recently unveiled by Google, powered by Gemini AI models, designed for creative direction and immersive experiences?",
+      "options": [
+        "Oracle 2",
+        "Athena 3",
+        "Genie 4",
+        "Titan 5"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Google recently unveiled its new world model named Genie 4, which is powered by Gemini AI models. Suggested use cases for Genie 4 include creative direction, making historical scenarios, generating immersive photographs, designing interactive experiences, and simulation.",
+      "background": "Gemini AI models are a family of multimodal large language models developed by Google AI, known for their advanced capabilities in understanding and generating various forms of data. This new world model builds upon that foundation for more complex applications.",
+      "examRelevance": "Google's new world model = Genie 4, powered by Gemini AI.",
+      "tags": [
+        "Google",
+        "Genie 4",
+        "Gemini AI",
+        "World Model",
+        "Artificial Intelligence"
+      ],
+      "source": {
+        "title": "Google unveils Genie 4 world model powered by Gemini AI models",
+        "url": "https://www.thehindu.com/sci-tech/technology/google-unveils-genie-4-world-model-powered-by-gemini-ai-models/article71634624.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q4",
+      "question": "Which very severe cyclonic storm recently crossed the Andhra Pradesh coast, weakening into a severe cyclonic storm after landfall?",
+      "options": [
+        "Cyclone Biparjoy",
+        "Cyclone Arnab",
+        "Cyclone Tej",
+        "Cyclone Michaung"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The very severe cyclonic storm 'Arnab' recently crossed the Andhra Pradesh coast. After completing its landfall process and moving entirely over land, the India Meteorological Department (IMD) reported that it weakened into a severe cyclonic storm.",
+      "background": "Cyclones are frequent in the Bay of Bengal, especially during the post-monsoon season (October-December). Andhra Pradesh is a coastal state highly vulnerable to such weather systems, necessitating robust disaster preparedness.",
+      "examRelevance": "Cyclone Arnab = crossed Andhra Pradesh coast.",
+      "tags": [
+        "Cyclone Arnab",
+        "Andhra Pradesh",
+        "IMD",
+        "Cyclonic Storm",
+        "Weather"
+      ],
+      "source": {
+        "title": "Very severe cyclone Arnab crosses Andhra coast, weakens into severe cyclonic storm: IMD | LIVE",
+        "url": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q5",
+      "question": "How many names were struck off the voter list in Karnataka as part of the Special Intensive Revision (SIR), reducing the electorate to 4,55,00,011?",
+      "options": [
+        "Over 70.15 lakh",
+        "Over 99.32 lakh",
+        "Over 85.50 lakh",
+        "Over 62.90 lakh"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Over 99.32 lakh names were struck off the voter list in Karnataka as part of the Special Intensive Revision (SIR) process. This revision resulted in the state's electorate standing at 4,55,00,011, down from 5,54,32,314 voters before the SIR began.",
+      "background": "The Special Intensive Revision (SIR) is a process undertaken by the Election Commission to update and purify electoral rolls, ensuring accuracy and removing duplicate or ineligible entries before elections.",
+      "examRelevance": "Karnataka voter list revision = 99.32 lakh names struck off.",
+      "tags": [
+        "Karnataka",
+        "Voter List",
+        "Electoral Roll",
+        "Special Intensive Revision",
+        "SIR"
+      ],
+      "source": {
+        "title": "SIR: Over 99.32 lakh names struck off voter list in Karnataka",
+        "url": "https://www.thehindu.com/news/national/karnataka/sir-over-9932-lakh-names-struck-off-voter-list-in-karnataka/article71629941.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q6",
+      "question": "The INDIA bloc has planned a 'public impeachment' of which Chief Election Commissioner (CEC) on October 30, ahead of a rally on the \"vote chori\" charge?",
+      "options": [
+        "Anup Chandra Pandey",
+        "Gyanesh Kumar",
+        "Rajiv Kumar",
+        "Arun Goel"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The INDIA bloc has planned a \"public impeachment\" of Chief Election Commissioner (CEC) Gyanesh Kumar on October 30. This event is intended as a \"curtain raiser\" for their November 1 rally at Ramlila Maidan, focusing on the \"vote chori\" charge.",
+      "background": "The Chief Election Commissioner heads the Election Commission of India, which is responsible for conducting elections fairly. The \"vote chori\" charge refers to allegations of electoral malpractice or manipulation made by the opposition bloc.",
+      "examRelevance": "INDIA bloc's planned 'public impeachment' = CEC Gyanesh Kumar.",
+      "tags": [
+        "INDIA bloc",
+        "CEC",
+        "Gyanesh Kumar",
+        "Election Commission",
+        "Polity"
+      ],
+      "source": {
+        "title": "INDIA bloc's 'public impeachment' of CEC to be held at Kharge's residence on October 30",
+        "url": "https://www.thehindu.com/news/national/india-blocs-public-impeachment-of-cec-to-be-held-at-kharges-residence-on-october-30/article71634582.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q7",
+      "question": "Which group claimed responsibility for a recent missile attack on Saudi Arabia’s biggest oil refinery, causing oil prices to rise?",
+      "options": [
+        "Houthis",
+        "Taliban",
+        "Al-Qaeda",
+        "ISIS"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Yemen’s Iran-aligned Houthis claimed responsibility for hitting Saudi Arabia’s biggest oil refinery with a missile. This attack, which intensified their strikes against the world’s second-largest crude producer, led to a more than 1% rise in oil prices due to reignited supply risks.",
+      "background": "The Houthis are an Islamist political and armed movement that emerged in Yemen in the 1990s. They have been engaged in a prolonged conflict with the Saudi-led coalition in Yemen, often targeting Saudi infrastructure.",
+      "examRelevance": "Houthis = claimed attack on Saudi Arabia's biggest oil refinery.",
+      "tags": [
+        "Houthis",
+        "Saudi Arabia",
+        "Oil Refinery",
+        "Missile Attack",
+        "Yemen"
+      ],
+      "source": {
+        "title": "Oil rises over 1% after Saudi Arabian refinery attack reignites supply risk",
+        "url": "https://www.thehindu.com/news/international/oil-rises-after-saudi-arabian-refinery-attack-reignites-supply-risk/article71634583.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q8",
+      "question": "How many nodal officers has the Election Commission recently appointed for the 2027 Manipur Assembly polls, including Kamei Angam Romanus for law and order?",
+      "options": [
+        "13",
+        "11",
+        "15",
+        "9"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "The Election Commission has recently appointed 11 nodal officers to oversee various aspects of the 2027 Manipur Assembly polls. Among them, senior IPS officer Kamei Angam Romanus has been designated as the nodal officer-in-charge of the law and order and security plan.",
+      "background": "Nodal officers are crucial for ensuring the smooth and fair conduct of elections, coordinating different departments like law enforcement, excise, and expenditure monitoring. This appointment is part of the preparatory phase for the upcoming state assembly elections.",
+      "examRelevance": "EC appointed 11 nodal officers for 2027 Manipur Assembly polls.",
+      "tags": [
+        "Election Commission",
+        "Manipur",
+        "Nodal Officers",
+        "Assembly Polls",
+        "Appointments"
+      ],
+      "source": {
+        "title": "EC appoints 11 nodal officers for 2027 Manipur Assembly polls",
+        "url": "https://www.thehindu.com/news/national/manipur/ec-appoints-11-nodal-officers-for-2027-manipur-assembly-polls/article71634468.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q9",
+      "question": "Which Indian Captain, along with his flydubai crew, was recently honoured by the UAE President for bravery during a mid-air attack?",
+      "options": [
+        "Vikram Singh",
+        "Anil Sharma",
+        "Rajesh Kumar",
+        "Smit Machchhar"
+      ],
+      "answerIndex": 3,
+      "category": "Awards & Honours",
+      "explanation": "Indian Captain Smit Machchhar and the flydubai crew were recently honoured by His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Deputy Prime Minister and Minister of Defence, on behalf of the UAE President. They received medals for their bravery during a mid-air attack.",
+      "background": "Such acts of bravery by airline crew members are recognized globally for their professionalism and commitment to passenger safety in challenging situations. The honour highlights the UAE's appreciation for their exemplary conduct.",
+      "examRelevance": "Indian Captain Smit Machchhar = honoured by UAE President for bravery.",
+      "tags": [
+        "Smit Machchhar",
+        "UAE President",
+        "Awards",
+        "flydubai",
+        "Bravery"
+      ],
+      "source": {
+        "title": "Indian Captain Smit Machchhar, flydubai crew honoured by UAE President for bravery during mid-air attack",
+        "url": "https://www.thehindu.com/news/national/indian-captain-smit-machchhar-flydubai-crew-honoured-by-uae-president-for-bravery-during-mid-air-attack/article71634465.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q10",
+      "question": "How many schools in Andhra Pradesh were converted into relief shelters by the state government due to the threat of Cyclone Arnab?",
+      "options": [
+        "609",
+        "450",
+        "580",
+        "720"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "In response to the threat posed by Cyclone Arnab, the Andhra Pradesh government converted 609 schools in 16 coastal districts into relief shelters. Additionally, 17,054 NCC, NSS, and Scouts volunteers were mobilized to assist in relief efforts.",
+      "background": "Turning schools into relief shelters is a common disaster preparedness measure in India, providing safe temporary accommodation for evacuees, especially in coastal regions prone to cyclones. This helps minimize loss of life and provides basic necessities.",
+      "examRelevance": "Andhra Pradesh schools converted to relief shelters for Cyclone Arnab = 609.",
+      "tags": [
+        "Cyclone Arnab",
+        "Andhra Pradesh",
+        "Relief Shelters",
+        "Schools",
+        "Disaster Preparedness"
+      ],
+      "source": {
+        "title": "Cyclone Arnab: 609 Andhra schools turn into relief shelters",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-609-andhra-schools-turn-into-relief-shelters/article71634201.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q11",
+      "question": "The historic 'Madras Gate', a former structure of Fort St. Louis, is located in which Indian Union Territory?",
+      "options": [
+        "Daman & Diu",
+        "Puducherry",
+        "Lakshadweep",
+        "Goa"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "The historic 'Madras Gate' is located in Puducherry (Pondicherry). It was a significant part of the once-powerful Fort St. Louis, which served as the French equivalent to Madras’ Fort St. George.",
+      "background": "Puducherry has a rich colonial history, primarily under French rule, which is reflected in its architecture and historical landmarks. Fort St. Louis was a key defensive structure during the Anglo-French conflicts in India.",
+      "examRelevance": "Madras Gate = located in Puducherry.",
+      "tags": [
+        "Madras Gate",
+        "Puducherry",
+        "Fort St. Louis",
+        "History",
+        "Colonial Architecture"
+      ],
+      "source": {
+        "title": "The Madras Gate in Pondicherry",
+        "url": "https://www.thehindu.com/news/cities/chennai/the-madras-gate-at-pondicherry/article71634185.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q12",
+      "question": "Who was recently removed from the post of Kochi City Police Commissioner amid a probe into a luxury car crash involving a judge’s minor son?",
+      "options": [
+        "Kaliraj Mahesh Kumar",
+        "R. Nishanthini",
+        "Vijay Sakhare",
+        "Balram Kumar Upadhyay"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Kaliraj Mahesh Kumar was recently removed from the post of Kochi City Police Commissioner. This action was taken amid a probe into a luxury car crash in Cheranalloor involving a judge’s minor son, following disciplinary action against other police officers for alleged lapses.",
+      "background": "The removal comes a day after the government suspended four police officers attached to the Cheranalloor police station in connection with the same case. R. Nishanthini, currently serving as IGP (South Zone), is likely to replace him.",
+      "examRelevance": "Kaliraj Mahesh Kumar = removed as Kochi City Police Commissioner.",
+      "tags": [
+        "Kaliraj Mahesh Kumar",
+        "Kochi",
+        "Police Commissioner",
+        "Kerala",
+        "Appointments"
+      ],
+      "source": {
+        "title": "Kochi City Police Commissioner removed amid Cheranalloor luxury car crash probe involving judge’s minor son",
+        "url": "https://www.thehindu.com/news/national/kerala/kochi-city-police-commissioner-removed-amid-cheranalloor-luxury-car-crash-probe-involving-judges-minor-son/article71634476.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q13",
+      "question": "What is the expected Federal Funds target range by the U.S. FOMC, which is widely anticipated to remain unchanged despite elevated inflation?",
+      "options": [
+        "3.75%-4.00%",
+        "3.25%-3.50%",
+        "4.00%-4.25%",
+        "4.25%-4.50%"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The U.S. Federal Open Market Committee (FOMC) is widely expected to keep the Fed Funds target range unchanged at 3.75%-4.00%. This decision is anticipated despite elevated inflation, as global investors remain cautious ahead of the announcement.",
+      "background": "The Federal Funds rate is a key interest rate in the U.S. economy, influencing other interest rates and economic activity. The Federal Reserve uses it as a primary tool for monetary policy to manage inflation and employment.",
+      "examRelevance": "US FOMC expected Fed Funds target range = 3.75%-4.00%.",
+      "tags": [
+        "FOMC",
+        "Federal Funds Rate",
+        "US Economy",
+        "Inflation",
+        "Interest Rates"
+      ],
+      "source": {
+        "title": "Markets plunge nearly 1%; rise in crude, FOMC decision weigh on investor sentiments",
+        "url": "https://www.thehindu.com/business/markets/markets-plunge-rising-crude-oil-prices-fomc-decision-investor-sentiments/article71634407.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q14",
+      "question": "How many MLC seats has the BJP recently won in Uttar Pradesh, including the Meerut graduates and teachers constituencies?",
+      "options": [
+        "4",
+        "5",
+        "2",
+        "3"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The BJP has recently won 3 MLC (Member of Legislative Council) seats in Uttar Pradesh. These victories include the Meerut graduates and teachers constituencies, with counting still underway in other areas like Lucknow, Varanasi, Agra, Jhansi, Bareilly, and Gorakhpur.",
+      "background": "Legislative Council elections are an indirect form of election where members are chosen by various electorates, including graduates and teachers, or elected by MLAs. These elections are crucial for maintaining party strength in the upper house of state legislatures.",
+      "examRelevance": "BJP wins 3 MLC seats in Uttar Pradesh.",
+      "tags": [
+        "BJP",
+        "Uttar Pradesh",
+        "MLC Elections",
+        "Meerut",
+        "Polity"
+      ],
+      "source": {
+        "title": "BJP wins 3 in UP MLC, SP leads in Allahabad-Jhansi",
+        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/bjp-bags-three-up-mlc-seats-sp-leads-in-allahabad-jhansi-seat-agra-row-sparks-tension-as-akhilesh-yadav-alleges-assault/articleshow/135254275.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q15",
+      "question": "Which company recently debuted on stock exchanges, becoming India's second-largest company by market capitalization at ₹12.5 lakh crore?",
+      "options": [
+        "Jio Platforms",
+        "Adani Enterprises",
+        "Bharti Airtel",
+        "Tata Consultancy Services"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Jio Platforms recently debuted on stock exchanges at a premium of ₹1,358 per share. With a market capitalization of ₹12.5 lakh crore, it has become India’s second-largest company, replacing Bharti Airtel.",
+      "background": "Jio Platforms is a subsidiary of Reliance Industries, primarily known for its digital services, including telecommunications (Jio mobile network), broadband, and other digital ventures. Its listing marks a significant event in the Indian stock market.",
+      "examRelevance": "Jio Platforms = India's second-largest company by market cap (₹12.5 lakh crore).",
+      "tags": [
+        "Jio Platforms",
+        "Stock Exchange",
+        "Market Capitalization",
+        "Reliance Industries",
+        "Economy"
+      ],
+      "source": {
+        "title": "Jio Platforms debuts on stock exchanges at premium of ₹1,358 per share",
+        "url": "https://www.thehindu.com/business/markets/jio-platforms-debut-stock-exchanges-nse-bse-ipo-premium-price-october-28-2026/article71634422.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q16",
+      "question": "Romano Benito Floriani Mussolini, great-grandson of Benito Mussolini, recently scored his first goal for which football club?",
+      "options": [
+        "AS Roma",
+        "Juventus",
+        "Inter Milan",
+        "Lazio"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Romano Benito Floriani Mussolini, the great-grandson of former Italian dictator Benito Mussolini, recently scored his first goal for the Italian football club Lazio. He is a defender for the club.",
+      "background": "Lazio is a professional Italian sports club based in Rome, most known for its professional football team. Romano Benito Floriani Mussolini is related to Benito Mussolini through the maternal side of his family.",
+      "examRelevance": "Romano Benito Floriani Mussolini = scored first goal for Lazio.",
+      "tags": [
+        "Romano Benito Floriani Mussolini",
+        "Lazio",
+        "Football",
+        "Sports",
+        "Benito Mussolini"
+      ],
+      "source": {
+        "title": "Mussolini’s great-grandson scores his first goal for Lazio",
+        "url": "https://www.thehindu.com/sport/football/mussolinis-great-grandson-scores-his-first-goal-for-lazio/article71634550.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q17",
+      "question": "What is the name of the new app marketplaces programme that Google has begun rolling out outside the U.S., allowing rival app marketplaces to compete on Android?",
+      "options": [
+        "Global App Competition",
+        "Open Market Initiative",
+        "Android Ecosystem Access",
+        "Registered App Stores programme"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Google has begun the rollout of its 'Registered App Stores programme' outside the U.S. This initiative aims to allow rival app marketplaces to compete at a higher level on the Android platform, fostering greater competition in the app ecosystem.",
+      "background": "This move by Google comes amidst increasing regulatory scrutiny globally regarding competition in digital markets and platform dominance. The program provides more options for users and developers outside the U.S.",
+      "examRelevance": "Google's new app marketplaces programme = Registered App Stores programme.",
+      "tags": [
+        "Google",
+        "App Marketplaces",
+        "Android",
+        "Technology",
+        "Competition"
+      ],
+      "source": {
+        "title": "Google begins rollout of app marketplaces programme outside the U.S.",
+        "url": "https://www.thehindu.com/sci-tech/technology/google-begins-rollout-of-app-marketplaces-programme-outside-the-us/article71634499.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q18",
+      "question": "What was Delhi's 24-hour average Air Quality Index (AQI) on October 28, when it slipped into the 'poor' category as per Central Pollution Control Board (CPCB) data?",
+      "options": [
+        "280",
+        "310",
+        "232",
+        "185"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Delhi's 24-hour average Air Quality Index (AQI) stood at 232 at 9 a.m. on October 28, as per Central Pollution Control Board (CPCB) data. This figure indicates that the air quality had slipped into the 'poor' category.",
+      "background": "An AQI between 201 and 300 is classified as 'poor', which can cause breathing discomfort to most people on prolonged exposure. Delhi frequently faces poor air quality during the winter months due to various factors including stubble burning and vehicle emissions.",
+      "examRelevance": "Delhi's AQI on Oct 28 = 232 ('poor' category).",
+      "tags": [
+        "Delhi",
+        "Air Quality Index",
+        "AQI",
+        "CPCB",
+        "Pollution"
+      ],
+      "source": {
+        "title": "Air quality slips to ‘poor’ category in Delhi, parts of north India",
+        "url": "https://www.thehindu.com/news/cities/Delhi/air-quality-slips-to-poor-category-in-delhi-parts-of-north-india/article71634319.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q19",
+      "question": "Renowned Chef K. Damodaran, known for his contributions to Tamil Nadu's culinary heritage and popular television shows, recently passed away. By what popular name was he known?",
+      "options": [
+        "Chef Anand",
+        "Chef Damu",
+        "Chef Bala",
+        "Chef Kumar"
+      ],
+      "answerIndex": 1,
+      "category": "Obituaries",
+      "explanation": "Renowned Chef K. Damodaran, who dedicated his life to Tamil Nadu’s culinary heritage, recently passed away. He was popularly known as Chef Damu, and was celebrated for taking Tamil Nadu’s cuisine to the world stage, documenting forgotten dishes, and inspiring thousands through his television shows.",
+      "background": "Chef Damu was an iconic figure in Indian culinary arts, particularly for his expertise in Tamil Nadu cuisine. His simple, no-nonsense approach to food and his efforts to preserve traditional cooking techniques left a lasting legacy.",
+      "examRelevance": "Chef K. Damodaran = popularly known as Chef Damu.",
+      "tags": [
+        "Chef Damu",
+        "K. Damodaran",
+        "Obituaries",
+        "Tamil Nadu",
+        "Culinary Heritage"
+      ],
+      "source": {
+        "title": "Remembering Chef Damu: A life dedicated to Tamil Nadu’s culinary heritage",
+        "url": "https://www.thehindu.com/society/remembering-chef-damu-a-life-dedicated-to-tamil-nadus-culinary-heritage/article71626208.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q20",
+      "question": "After how many years has the Tamil Nadu government revised auto-rickshaw fares, setting the minimum fare at ₹50 for up to 1.8 km?",
+      "options": [
+        "13 years",
+        "10 years",
+        "15 years",
+        "12 years"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Tamil Nadu government has revised auto-rickshaw fares after a period of 13 years. According to a notification in the government gazette, the minimum fare has been fixed at ₹50 for distances up to 1.8 km.",
+      "background": "Fare revisions for public transport like auto-rickshaws are often undertaken to account for rising fuel prices, maintenance costs, and inflation, aiming to provide fair compensation to drivers while ensuring affordable transport for commuters.",
+      "examRelevance": "Tamil Nadu auto fares revised after 13 years, minimum fare ₹50 for 1.8 km.",
+      "tags": [
+        "Tamil Nadu",
+        "Auto Fares",
+        "Fare Revision",
+        "Economy",
+        "Transport"
+      ],
+      "source": {
+        "title": "Tamil Nadu auto fares revised after 13 yrs",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/tamil-nadu-autorickshaw-fares-revised-after-13-years-minimum-fare-set-at-rs-50-check-full-fare-list/articleshow/135252708.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q21",
+      "question": "Established in 1799, which village in Tamil Nadu is recognized as the state's first exclusive Christian settlement, often claimed to be the first Christian village in India and Asia?",
+      "options": [
+        "Mudalur",
+        "Nazareth",
+        "Bethany",
+        "Kanyakumari"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "Mudalur, established in 1799, is recognized as Tamil Nadu’s first exclusive settlement created for newly converted Christians. Some historical accounts also claim it was the first Christian village in India and Asia, known for its magnificent church tower.",
+      "background": "The establishment of Mudalur reflects a significant phase of missionary activity and social organization during the colonial era in India. It stands as a historical landmark for Christian communities in the region.",
+      "examRelevance": "Mudalur = Tamil Nadu’s first Christian settlement, established in 1799.",
+      "tags": [
+        "Mudalur",
+        "Tamil Nadu",
+        "Christian Settlement",
+        "History",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "Mudalur, Tamil Nadu’s first Christian settlement, stands tall with its magnificent church tower",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/mudalur-tamil-nadus-first-christian-settlement-stands-tall-with-its-magnificent-church-tower/article71632109.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q22",
+      "question": "The Congress party recently launched the 'Sanghatana Srujana Abhiyan' drive to strengthen its grassroots network in which district of Karnataka?",
+      "options": [
+        "Yadgir",
+        "Bengaluru",
+        "Shivamogga",
+        "Mysuru"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Congress party recently launched the 'Sanghatana Srujana Abhiyan' drive in the Yadgir district of Karnataka. This initiative aims to strengthen the party's grassroots network by extending the process of appointing office-bearers to frontline units, cell heads, vice-presidents, and executive committee members.",
+      "background": "This drive follows the appointment of nearly 1,100 district presidents across the country, based on observer reports. Such campaigns are crucial for political parties to mobilize cadres and maintain a strong presence at the local level.",
+      "examRelevance": "Congress 'Sanghatana Srujana Abhiyan' = launched in Yadgir district, Karnataka.",
+      "tags": [
+        "Congress",
+        "Sanghatana Srujana Abhiyan",
+        "Yadgir",
+        "Karnataka",
+        "Grassroots Network"
+      ],
+      "source": {
+        "title": "Congress launches Sanghatana Srujana Abhiyan drive to strengthen grassroots network in Yadgir district of Karnataka",
+        "url": "https://www.thehindu.com/news/national/karnataka/congress-launches-sanghatana-srujana-abhiyan-drive-to-strengthen-grassroots-network-in-yadgir-district-of-karnataka/article71631659.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q23",
+      "question": "What was the value of the Indian Rupee against the U.S. dollar in early trade, after recording a marginal gain of 4 paise over its previous close?",
+      "options": [
+        "95.03",
+        "94.99",
+        "95.07",
+        "94.95"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "At the interbank foreign exchange market, the Indian Rupee recorded marginal gains in early trade, rising by 4 paise over its previous close. This brought its value to 95.03 against the U.S. dollar.",
+      "background": "The value of the Rupee against major global currencies like the U.S. dollar is influenced by various factors, including foreign institutional investment, crude oil prices, domestic economic indicators, and global market sentiments.",
+      "examRelevance": "Indian Rupee value against USD = 95.03 (after 4 paise rise).",
+      "tags": [
+        "Indian Rupee",
+        "US Dollar",
+        "Foreign Exchange",
+        "Economy",
+        "Currency"
+      ],
+      "source": {
+        "title": "Rupee rises 4 paise to 95.03 against U.S. dollar in early trade",
+        "url": "https://www.thehindu.com/business/markets/rupee-rises-against-usd-in-early-trade-on-wednesday/article71634342.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q24",
+      "question": "Which court recently ruled that entry into Agamic temple premises cannot be permitted for non-Hindus who sport religious markers?",
+      "options": [
+        "Supreme Court",
+        "Civil Court",
+        "High Court",
+        "District Court"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "A High Court recently ruled that entry into Agamic temple premises cannot be permitted for non-Hindus who sport religious markers. The ruling cited that such temples are not mere tourist destinations but sacred places governed by specific religious practices.",
+      "background": "Agamic temples are those built and consecrated according to the Agamas, a collection of Sanskrit scriptures that define specific rituals, worship methods, and architectural norms for Hindu temples. This ruling addresses the sanctity and traditional practices associated with these temples.",
+      "examRelevance": "High Court ruled against non-Hindu entry with religious markers into Agamic temples.",
+      "tags": [
+        "High Court",
+        "Agamic Temple",
+        "Religious Markers",
+        "Temple Entry",
+        "Polity"
+      ],
+      "source": {
+        "title": "Entry into Agamic temple premises cannot be permitted for non-Hindus who sport religious markers: HC",
+        "url": "https://www.thehindu.com/news/cities/Madurai/entry-into-agamic-temple-premises-cannot-be-permitted-for-non-hindus-who-sport-religious-markers-hc/article71632225.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q25",
+      "question": "Larsen & Toubro (L&T) recently reported a 33% year-on-year increase in its consolidated net profit for the second quarter of FY27. What was the net profit figure?",
+      "options": [
+        "₹4,850 crore",
+        "₹4,990 crore",
+        "₹5,500 crore",
+        "₹5,202 crore"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Larsen & Toubro (L&T) reported a significant 33% year-on-year increase in its consolidated net profit, reaching ₹5,202 crore, for the second quarter of FY27. This strong performance occurred despite Jefferies cutting its target price while maintaining a ‘Buy’ rating.",
+      "background": "L&T is a major Indian multinational conglomerate primarily engaged in engineering, construction, manufacturing, technology, and financial services. Its quarterly results are a key indicator of economic activity in the infrastructure and industrial sectors.",
+      "examRelevance": "L&T Q2 FY27 net profit = ₹5,202 crore.",
+      "tags": [
+        "Larsen & Toubro",
+        "L&T",
+        "Q2 Results",
+        "Net Profit",
+        "Economy",
+        "Business"
+      ],
+      "source": {
+        "title": "L T shares rally 6% after Q2 net profit jumps 33% YoY. Why Jefferies cut target price?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/lt-shares-rally-6-after-q2-net-profit-jumps-33-yoy-why-jefferies-cut-target-price/articleshow/135252953.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q26",
+      "question": "The 'Gruha Lakshmi' scheme, under which beneficiaries in Shivamogga used funds to increase income, is implemented in which Indian state?",
+      "options": [
+        "Telangana",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The 'Gruha Lakshmi' scheme, a flagship guarantee scheme, is implemented in the Indian state of Karnataka. Beneficiaries under this scheme in Shivamogga district reported using the funds to increase their income, as noted by the State Guarantee Schemes Implementation Authority Vice-Chairperson.",
+      "background": "The Gruha Lakshmi scheme is part of the Karnataka government's guarantee programs aimed at providing financial assistance to women head of households, empowering them economically and improving their living standards.",
+      "examRelevance": "Gruha Lakshmi scheme = implemented in Karnataka.",
+      "tags": [
+        "Gruha Lakshmi",
+        "Karnataka",
+        "Scheme",
+        "Women Empowerment",
+        "Social Welfare"
+      ],
+      "source": {
+        "title": "Gruha Lakshmi beneficiaries in Karnataka used funds to increase income",
+        "url": "https://www.thehindu.com/news/national/karnataka/gruha-lakshmi-beneficiaries-in-karnataka-used-funds-to-increase-income/article71630735.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q27",
+      "question": "The new E100 vehicle rules, which modify emission standards and testing provisions, involve amendments to which specific rules for motor vehicles?",
+      "options": [
+        "Rule 115 and Rule 115E",
+        "Rule 95 and Rule 95C",
+        "Rule 100 and Rule 100A",
+        "Rule 120 and Rule 120B"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "The new E100 vehicle rules involve amendments to Rule 115 and Rule 115E. Rule 115 deals with emission standards and related requirements for motor vehicles, while Rule 115E contains additional provisions relating to emission testing.",
+      "background": "E100 refers to vehicles designed to run entirely on ethanol (100% ethanol fuel). These rule amendments are part of India's efforts to promote cleaner fuels and reduce carbon emissions in the transport sector, aligning with environmental goals.",
+      "examRelevance": "E100 vehicle rules = amendments to Rule 115 and Rule 115E.",
+      "tags": [
+        "E100 Vehicles",
+        "Emission Standards",
+        "Motor Vehicle Rules",
+        "Science & Tech",
+        "Environment"
+      ],
+      "source": {
+        "title": "What the new E100 vehicle rules mean | Explained",
+        "url": "https://www.thehindu.com/news/national/what-the-new-e100-vehicle-rules-mean-explained/article71629895.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q28",
+      "question": "Who is Benjamin Netanyahu's main rival in the recent tight Israeli election, a former military chief and political novice, according to exit polls?",
+      "options": [
+        "Gadi Eisenkot",
+        "Yair Lapid",
+        "Gideon Sa'ar",
+        "Benny Gantz"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "In the recent tight Israeli election, Benjamin Netanyahu's main rival, according to exit polls, was Gadi Eisenkot. Eisenkot, a former military chief and political novice, and his opposition bloc were neck and neck with Netanyahu’s hard-right camp.",
+      "background": "Israeli politics is often characterized by coalition governments and frequent elections due to a multi-party system. Gadi Eisenkot's emergence as a key rival highlights shifts in the political landscape.",
+      "examRelevance": "Gadi Eisenkot = Benjamin Netanyahu's main rival in Israeli election.",
+      "tags": [
+        "Gadi Eisenkot",
+        "Benjamin Netanyahu",
+        "Israel Election",
+        "International Politics",
+        "Opposition"
+      ],
+      "source": {
+        "title": "Netanyahu and rival each claim mandate after tight Israel election",
+        "url": "https://www.thehindu.com/news/international/netanyahu-and-rival-each-claim-mandate-after-tight-israel-election/article71634295.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q29",
+      "question": "Hindustan Unilever (HUL) recently reported its Q2 FY27 net profit, which rose 4% year-on-year. What was the net profit figure?",
+      "options": [
+        "₹2,900 crore",
+        "₹3,100 crore",
+        "₹2,790 crore",
+        "₹2,550 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Hindustan Unilever (HUL) recently reported a consolidated net profit of ₹2,790 crore for the second quarter of FY27. This figure represents a 4% year-on-year increase for the consumer goods giant.",
+      "background": "HUL is one of India's largest fast-moving consumer goods (FMCG) companies, with a vast portfolio of products. Its quarterly financial results are a key indicator of consumer spending and overall economic health in India.",
+      "examRelevance": "HUL Q2 FY27 net profit = ₹2,790 crore.",
+      "tags": [
+        "Hindustan Unilever",
+        "HUL",
+        "Q2 Results",
+        "Net Profit",
+        "FMCG",
+        "Economy"
+      ],
+      "source": {
+        "title": "HUL has more than 19% profit surge news to share",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hul-q2-results-net-profit-rises-4-yoy-to-rs-2790-crore-rs-19/share-dividend-declared/articleshow/135251974.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-28-q30",
+      "question": "For the first time since 2023, Delhi has invited a Minister from which country for the inaugural SCO Civilisational Dialogue, to be held in November at Purana Quila?",
+      "options": [
+        "Russia",
+        "Kazakhstan",
+        "Pakistan",
+        "China"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "For the first time since 2023, Delhi has extended an invitation to a Minister from Pakistan for the inaugural SCO Civilisational Dialogue. The event, which Prime Minister Modi will inaugurate, is scheduled for November at the 16th Century Purana Quila (Old Fort) in Delhi.",
+      "background": "The Shanghai Cooperation Organisation (SCO) is a Eurasian political, economic, and security alliance. India's invitation to Pakistan for this dialogue is significant given the often strained bilateral relations between the two countries.",
+      "examRelevance": "Delhi invited Pakistan Minister for inaugural SCO Civilisational Dialogue.",
+      "tags": [
+        "SCO",
+        "Civilisational Dialogue",
+        "Pakistan",
+        "India",
+        "International Relations",
+        "Purana Quila"
+      ],
+      "source": {
+        "title": "In a first since 2023, Delhi invites Pakistan Minister for inaugural SCO Civilisational Dialogue in November",
+        "url": "https://www.thehindu.com/news/national/in-a-first-since-2023-delhi-invites-pakistan-minister-for-inaugural-sco-civilisational-dialogue-in-november/article71630539.ece"
+      }
+    }
+  ]
+}
