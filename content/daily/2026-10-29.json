@@ -1,0 +1,759 @@
+{
+  "id": "daily-2026-10-29",
+  "type": "daily",
+  "date": "2026-10-29",
+  "title": "Current Affairs — 29 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-29-q1",
+      "question": "What was the status of Cyclone Arnab as of October 29, 2026, when Home Minister Amit Shah spoke with Chief Ministers of affected states?",
+      "options": [
+        "It weakened into a depression",
+        "It intensified into a Super Cyclonic Storm",
+        "It remained a Severe Cyclonic Storm over the Bay of Bengal",
+        "It made landfall as a Very Severe Cyclonic Storm"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "As of October 29, 2026, Cyclone Arnab weakened into a depression, bringing rain to states like West Bengal. Home Minister Amit Shah spoke with the Chief Ministers of the affected states, assuring them of all necessary support and confirming that NDRF and SDRF teams were engaged in rescue and relief operations.",
+      "background": "Cyclones frequently impact India's coastal regions during the post-monsoon season. The India Meteorological Department (IMD) continuously monitors such systems and issues alerts to facilitate preparedness and minimize damage.",
+      "examRelevance": "Cyclone Arnab weakened into a depression on October 29, 2026, affecting states like West Bengal, Odisha, Andhra Pradesh, and Telangana.",
+      "tags": [
+        "Cyclone Arnab",
+        "Depression",
+        "IMD",
+        "Natural Disaster"
+      ],
+      "source": {
+        "title": "Cyclone Arnab LIVE: Amit Shah speaks with CMs of affected States, assures all support",
+        "url": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q2",
+      "question": "The South Central Railway (SCR) is conducting a digital life certificate drive for pensioners. What is the duration of this drive?",
+      "options": [
+        "October 1 to October 31",
+        "December 1 to December 31",
+        "January 1 to January 31",
+        "November 1 to November 30"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The South Central Railway (SCR) is conducting a digital life certificate drive for pensioners from November 1 to November 30. This initiative allows pensioners to submit their annual life certificates digitally, without needing to visit pension disbursing offices.",
+      "background": "The digital life certificate system, also known as Jeevan Pramaan, was launched by the Government of India to simplify the process for pensioners to submit their annual proof of existence, enhancing ease of living for senior citizens.",
+      "examRelevance": "SCR digital life certificate drive is from November 1 to November 30, 2026.",
+      "tags": [
+        "SCR",
+        "Digital Life Certificate",
+        "Pensioners",
+        "Jeevan Pramaan"
+      ],
+      "source": {
+        "title": "SCR digital life certificate drive from November 1 to 30",
+        "url": "https://www.thehindu.com/news/national/telangana/scr-digital-life-certificate-drive-from-november-1-to-30/article71637392.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q3",
+      "question": "India and Poland aim to increase their bilateral trade to what target figure, as Poland pivots towards India for strategic partnership?",
+      "options": [
+        "US$15 billion",
+        "US$10 billion",
+        "US$8 billion",
+        "US$12 billion"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Poland and India are seeking to raise their bilateral trade from the current US$6 billion to a target of US$10 billion. This comes as Poland pivots towards India, developing its 'strategic partnership' amidst developing cracks in its relationship with China.",
+      "background": "India and Poland elevated their ties to a 'strategic partnership' during Prime Minister Modi's visit to Poland in 2024. Poland is looking to diversify its partnerships due to trade imbalances and Beijing's support for Russia, which has deepened disillusionment with China.",
+      "examRelevance": "India and Poland aim to increase bilateral trade from US$6 billion to US$10 billion.",
+      "tags": [
+        "India",
+        "Poland",
+        "Bilateral Trade",
+        "Strategic Partnership"
+      ],
+      "source": {
+        "title": "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
+        "url": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q4",
+      "question": "What role did Defence Minister Rajnath Singh assert India would continue to play in the Indian Ocean region and wider Indo-Pacific at the ASEAN Defence Ministers' Meeting Plus conclave?",
+      "options": [
+        "A dominant military power",
+        "A trusted net security provider",
+        "A leading cultural ambassador",
+        "A primary economic partner"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "During the ASEAN Defence Ministers' Meeting Plus conclave in the Philippines, Defence Minister Rajnath Singh asserted that India would continue to act as a 'trusted net security provider' in the Indian Ocean region and the wider Indo-Pacific. He also raised concerns about disruptions in certain maritime trade routes.",
+      "background": "The ASEAN Defence Ministers' Meeting Plus (ADMM-Plus) is a platform for ASEAN and its eight dialogue partners (Australia, China, India, Japan, New Zealand, Republic of Korea, Russia, and the United States) to strengthen security and defence cooperation.",
+      "examRelevance": "India acts as a 'trusted net security provider' in the Indian Ocean region and Indo-Pacific, as stated by Defence Minister Rajnath Singh.",
+      "tags": [
+        "Rajnath Singh",
+        "ASEAN",
+        "Indo-Pacific",
+        "Net Security Provider"
+      ],
+      "source": {
+        "title": "India ready to share 'battle-tested' anti-terror expertise with ASEAN, its dialogue partners: Rajnath Singh",
+        "url": "https://www.thehindu.com/news/national/rajnath-singh-india-asean-defence-ministers-meeting-plus-conclave-philippines/article71639347.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q5",
+      "question": "According to the official elector-to-population ratio released by the Karnataka CEO, approximately how many electors are potentially missing from the rolls?",
+      "options": [
+        "48.2 lakh",
+        "55.1 lakh",
+        "72.8 lakh",
+        "64.5 lakh"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The official elector-to-population ratio released by the Karnataka CEO indicates an under-enrolment of about 64.5 lakh electors. Among these, roughly 38.41 lakh are in the 18 to 29 age group, highlighting a significant demographic gap in voter registration.",
+      "background": "The electoral rolls undergo a Special Summary Revision (SSR) periodically to update voter details, including additions, deletions, and corrections. Such discrepancies can impact the democratic process and representation.",
+      "examRelevance": "Karnataka CEO reported 64.5 lakh potentially missing voters in the electoral rolls.",
+      "tags": [
+        "Karnataka",
+        "Voter Rolls",
+        "CEO Karnataka",
+        "Electoral Discrepancy"
+      ],
+      "source": {
+        "title": "Karnataka SIR: 64.5 lakh voters potentially missing in rolls, majority of them young",
+        "url": "https://www.thehindu.com/data/karnataka-sir-645-lakh-voters-potentially-missing-in-rolls-majority-of-them-young/article71638758.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q6",
+      "question": "A recent train collision in Spain resulted in at least 68 deaths. In which province did this accident occur?",
+      "options": [
+        "Barcelona Province",
+        "Madrid Province",
+        "Valencia Province",
+        "Toledo Province"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "At least 68 people died after two trains collided in Spain’s Toledo Province. This was the second such accident in Spain within the year, raising concerns about the country’s rail safety.",
+      "background": "Train safety regulations and infrastructure maintenance are critical for preventing such catastrophic incidents. The Spanish Transport Minister noted an 'error' and 'inexplicable circumstances' as potential causes.",
+      "examRelevance": "A train collision killing at least 68 people occurred in Spain's Toledo Province.",
+      "tags": [
+        "Spain",
+        "Train Collision",
+        "Toledo Province",
+        "Rail Safety"
+      ],
+      "source": {
+        "title": "At least 68 dead after two trains collide in Spain’s Toledo Province",
+        "url": "https://www.thehindu.com/news/international/several-people-dead-in-crash-between-2-spanish-trains-in-toledo-province/article71635210.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q7",
+      "question": "What was the consolidated net profit reported by Adani Enterprises for the second quarter of FY27?",
+      "options": [
+        "Rs 1,492 crore",
+        "Rs 1,050 crore",
+        "Rs 3,304 crore",
+        "Rs 2,100 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Adani Enterprises, the flagship Adani group company, reported a consolidated net profit of Rs 1,492 crore for the second quarter of FY27. This figure is lower than the Rs 3,304 crore reported in the same period last year, which was buoyed by exceptional gains.",
+      "background": "Adani Group stocks saw a jump of up to 3% after several group companies reported their Q2 results and received bullish calls from brokerages. This rally added Rs 23,000 crore to the group’s combined market capitalisation.",
+      "examRelevance": "Adani Enterprises reported a consolidated net profit of Rs 1,492 crore for Q2 FY27.",
+      "tags": [
+        "Adani Enterprises",
+        "Q2 Results",
+        "Net Profit",
+        "FY27"
+      ],
+      "source": {
+        "title": "Adani group stocks jump up to 3%, add Rs 23,000 crore to total m-cap. What’s behind the surge?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-group-stocks-jump-up-to-3-add-rs-23000-crore-to-total-m-cap-whats-behind-the-surge/articleshow/135293658.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q8",
+      "question": "Which new price-masking feature is Zomato set to roll out for group orders?",
+      "options": [
+        "Guest Mode",
+        "Host Mode",
+        "Mehmaan Mode",
+        "Secret Mode"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Zomato is preparing to roll out a new price-masking feature called 'Mehmaan Mode' for group orders. This feature was suggested by a LinkedIn user and aims to enhance the user experience by allowing the host to hide prices from other participants in a group order.",
+      "background": "Food delivery platforms are constantly innovating to improve user experience and cater to diverse customer needs. Features like 'Mehmaan Mode' address social aspects of ordering food in groups.",
+      "examRelevance": "Zomato to roll out 'Mehmaan Mode' for price-masking in group orders.",
+      "tags": [
+        "Zomato",
+        "Mehmaan Mode",
+        "Food Delivery",
+        "Tech Feature"
+      ],
+      "source": {
+        "title": "Zomato to roll out price-masking ‘Mehmaan Mode’",
+        "url": "https://economictimes.indiatimes.com/tech/tech-bytes/zomato-to-roll-out-price-masking-mehmaan-mode-for-group-orders-after-linkedin-users-suggestion/articleshow/135293694.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q9",
+      "question": "What is the revised deadline for the opening of six Chennai Metro Rail stations on Arcot Road, which has been missed yet again?",
+      "options": [
+        "March 2027",
+        "January 2027",
+        "December 2026",
+        "June 2027"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The Chennai Metro Rail has missed its deadline yet again, with six stations on Arcot Road now expected to open in March 2027. Officials stated that construction will be completed in January, but signalling work is anticipated to take another two months, potentially extending further.",
+      "background": "Infrastructure projects often face delays due to various factors including land acquisition, technical challenges, and coordination issues. Chennai Metro Rail is a crucial urban transport project aimed at easing traffic congestion in the city.",
+      "examRelevance": "Six Chennai Metro Rail stations on Arcot Road are now expected to open in March 2027.",
+      "tags": [
+        "Chennai Metro Rail",
+        "Arcot Road",
+        "Project Delay",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "Chennai Metro Rail misses deadline yet again, 6 stations on Arcot Road to open in March 2027",
+        "url": "https://www.thehindu.com/news/cities/chennai/chennai-metro-rail-misses-deadline-yet-again-6-stations-on-arcot-road-to-open-in-march-2027/article71636262.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q10",
+      "question": "Chief Economic Advisor (CEA) Nageswaran stated that India's current economic situation in 2026 resembles which pivotal year?",
+      "options": [
+        "2011",
+        "1991",
+        "2001",
+        "1981"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Chief Economic Advisor (CEA) Nageswaran remarked that the year '2026 resembles 1991,' indicating that India is currently at a critical economic inflection point. The year 1991 is significant for India's economic liberalization reforms.",
+      "background": "India's economy underwent major reforms in 1991, shifting from a largely closed, state-controlled system to a more open, market-oriented one. The CEA's comparison suggests a similar period of significant economic transformation and opportunity.",
+      "examRelevance": "CEA Nageswaran stated that '2026 resembles 1991' for India's economy.",
+      "tags": [
+        "CEA Nageswaran",
+        "Economic Inflection Point",
+        "Indian Economy",
+        "1991 Reforms"
+      ],
+      "source": {
+        "title": "'2026 resembles 1991': CEA on new inflection point",
+        "url": "https://economictimes.indiatimes.com/news/economy/indicators/2026-resembles-1991-chief-economic-advisor-nageswaran-says-india-is-at-a-critical-economic-inflection-point/articleshow/135293147.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q11",
+      "question": "What rating did Jefferies initiate for the National Stock Exchange (NSE) shares, along with a target price of Rs 2,085 apiece?",
+      "options": [
+        "Underperform",
+        "Buy",
+        "Sell",
+        "Hold"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Jefferies initiated coverage on the National Stock Exchange (NSE) shares with a 'Buy' rating and set a target price of Rs 2,085 apiece. This implies a potential upside of over 17%, citing NSE as a 'market leader with new growth optionality'.",
+      "background": "The National Stock Exchange is India's largest financial market. Jefferies expects NSE to deliver a 15% revenue CAGR over FY27-29, driven by increased direct equity investors since the COVID-19 pandemic.",
+      "examRelevance": "Jefferies initiated a 'Buy' rating for NSE shares with a target price of Rs 2,085.",
+      "tags": [
+        "Jefferies",
+        "NSE",
+        "Stock Market",
+        "Buy Rating"
+      ],
+      "source": {
+        "title": "Jefferies initiates coverage on NSE with ‘Buy’; here’s why it sees fresh growth potential",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-initiates-coverage-on-nse-with-buy-heres-why-it-sees-fresh-growth-potential/articleshow/135293157.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q12",
+      "question": "What significant new feature did Apple showcase in its latest MacBook Pro model?",
+      "options": [
+        "A foldable display",
+        "A built-in solar charging panel",
+        "An organic light-emitting diode (OLED) display",
+        "A holographic projection keyboard"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "At a recent Apple event in Los Angeles, John Ternus showcased a new MacBook Pro model featuring an organic light-emitting diode (OLED) display. This marks a first for the iPhone maker in its laptop lineup.",
+      "background": "OLED technology offers superior contrast, deeper blacks, and wider viewing angles compared to traditional LCD displays, enhancing the visual experience for users. Apple's adoption of OLED for its MacBook Pro signifies a premium upgrade.",
+      "examRelevance": "Apple's new MacBook Pro features an organic light-emitting diode (OLED) display.",
+      "tags": [
+        "Apple",
+        "MacBook Pro",
+        "OLED Display",
+        "Technology"
+      ],
+      "source": {
+        "title": "Apple shows pricey touchscreen laptops, a first for the iPhone maker",
+        "url": "https://www.thehindu.com/sci-tech/technology/apple-shows-pricey-touchscreen-laptops-a-first-for-the-iphone-maker/article71638852.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q13",
+      "question": "The 7.5-km elevated corridor of the Bengaluru Metro Pink Line between Kalena Agrahara and Tavarekere is likely to be inaugurated on which date?",
+      "options": [
+        "October 31",
+        "January 26",
+        "December 1",
+        "November 15"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The 7.5-km elevated corridor of the Bengaluru Metro Pink Line, connecting Kalena Agrahara and Tavarekere, is likely to be inaugurated on November 15. The line received clearance from the Commissioner of Metro Railway Safety.",
+      "background": "The Pink Line is a crucial expansion of the Bengaluru Metro network, aimed at improving connectivity and reducing traffic congestion in India's technology hub. Metro projects typically require safety clearances before public operation.",
+      "examRelevance": "Bengaluru Metro Pink Line elevated corridor to be inaugurated on November 15.",
+      "tags": [
+        "Bengaluru Metro",
+        "Pink Line",
+        "Infrastructure",
+        "Inauguration"
+      ],
+      "source": {
+        "title": "Pink Line elevated corridor likely to be inaugurated on November 15: CM",
+        "url": "https://www.thehindu.com/news/cities/bangalore/pink-line-elevated-corridor-likely-to-be-inaugurated-on-november-15-cm-page-one/article71637448.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q14",
+      "question": "What percentage of its fresh annual accretions is the Employees Provident Fund Organisation (EPFO) planning to allocate to Category I and Category II Alternative Investment Funds (AIFs)?",
+      "options": [
+        "2%",
+        "1%",
+        "5%",
+        "3%"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Employees Provident Fund Organisation (EPFO) is developing guidelines to enable investments in Alternative Investment Funds (AIFs). The Securities and Exchange Board of India (SEBI) discussed a proposal to allocate up to 3% of EPFO’s fresh annual accretions to Category I and Category II AIFs.",
+      "background": "The government had cleared EPFO's entry into high-growth asset classes and startups five years prior. This move signifies a shift in how the retirement fund body deploys workers' savings, aiming for potentially higher returns.",
+      "examRelevance": "EPFO plans to allocate up to 3% of fresh annual accretions to Category I and Category II AIFs.",
+      "tags": [
+        "EPFO",
+        "AIFs",
+        "Investments",
+        "SEBI"
+      ],
+      "source": {
+        "title": "EPFO plans to invest in startups, AIFs",
+        "url": "https://economictimes.indiatimes.com/news/economy/policy/epfo-plans-to-invest-in-startups-aifs-five-years-after-govt-approval/articleshow/135292563.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q15",
+      "question": "Dolores Huerta, who recently passed away at 96, was a pioneering labour leader in which country?",
+      "options": [
+        "Canada",
+        "Mexico",
+        "Spain",
+        "United States"
+      ],
+      "answerIndex": 3,
+      "category": "Obituaries",
+      "explanation": "Dolores Huerta, a pioneering U.S. labour leader, passed away at the age of 96. She was instrumental in the U.S. farmworker movement in the 1960s, working alongside Cesar Chavez.",
+      "background": "Dolores Huerta was a co-founder of the United Farm Workers (UFW) and a lifelong advocate for social justice, civil rights, and women's rights. Her work significantly impacted labour laws and conditions for farmworkers in the United States.",
+      "examRelevance": "Dolores Huerta, a pioneering U.S. labour leader, passed away at 96.",
+      "tags": [
+        "Dolores Huerta",
+        "Obituary",
+        "U.S. Labour Leader",
+        "Farmworker Movement"
+      ],
+      "source": {
+        "title": "Pioneering U.S. labour leader Dolores Huerta dies at 96",
+        "url": "https://www.thehindu.com/news/international/pioneering-us-labour-leader-dolores-huerta-dies-at-96/article71637847.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q16",
+      "question": "The first look of the Vande Bharat Sleeper train was revealed for which route?",
+      "options": [
+        "Mumbai–Ahmedabad",
+        "Delhi–Varanasi",
+        "Chennai–Bengaluru",
+        "Kolkata–Patna"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The first look of the Delhi–Varanasi Vande Bharat Sleeper train was recently revealed. This new variant of the Vande Bharat Express aims to provide enhanced overnight travel experience with features like opaque cabin windows and softer berths.",
+      "background": "The Vande Bharat Express series represents India's indigenously designed semi-high-speed train sets. The introduction of a sleeper version expands its service offerings, catering to longer-distance overnight journeys.",
+      "examRelevance": "The Delhi–Varanasi route will feature the Vande Bharat Sleeper train.",
+      "tags": [
+        "Vande Bharat Sleeper",
+        "Delhi-Varanasi",
+        "Indian Railways",
+        "Train Travel"
+      ],
+      "source": {
+        "title": "1st look of Delhi–Varanasi Vande Bharat Sleeper",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/railways/1st-look-inside-delhivaranasi-vande-bharat-sleeper-opaque-cabin-window-softer-berths-features-that-may-make-passengers-ecstatic/articleshow/135292447.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q17",
+      "question": "North Korea recently fired a missile barrage in which direction amidst rising tensions with South Korea?",
+      "options": [
+        "Towards the southern demilitarized zone",
+        "Towards the mountains",
+        "Towards the sea",
+        "Towards the western border"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "North Korea recently fired a missile barrage towards the sea, escalating tensions with South Korea. This action followed accusations from Seoul that North Korea had planted mines causing blasts south of the military demarcation line.",
+      "background": "Tensions on the Korean Peninsula frequently rise due to North Korea's missile tests and military exercises. Pyongyang has denied responsibility for recent explosions and warned of retaliation against provocations.",
+      "examRelevance": "North Korea fired a missile barrage towards the sea.",
+      "tags": [
+        "North Korea",
+        "Missile Barrage",
+        "South Korea",
+        "International Relations"
+      ],
+      "source": {
+        "title": "North Korea fires missile barrage toward sea as tensions with South rise",
+        "url": "https://www.thehindu.com/news/international/north-korea-fires-missile-barrage-toward-sea-as-tensions-with-south-rise/article71639190.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q18",
+      "question": "A recent study in Kerala shedding light on the link between gut bacteria and Parkinson’s disease was conducted by researchers from CUSAT and which other institution?",
+      "options": [
+        "NIMHANS, Bengaluru",
+        "AIIMS, New Delhi",
+        "SCTIMST, Thiruvananthapuram",
+        "PGIMER, Chandigarh"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Researchers from Cochin University of Science and Technology (CUSAT) and Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST) in Thiruvananthapuram, Kerala, conducted a study. They found significant differences in gut bacteria between Parkinson’s patients and healthy individuals, shedding light on the disease's pathogenesis.",
+      "background": "Emerging research increasingly highlights the 'gut-brain axis' and its potential role in neurological disorders like Parkinson's disease. Understanding these connections could lead to new diagnostic and therapeutic strategies.",
+      "examRelevance": "CUSAT and SCTIMST, Thiruvananthapuram, conducted a study on gut bacteria and Parkinson's disease.",
+      "tags": [
+        "Parkinson's Disease",
+        "Gut Bacteria",
+        "CUSAT",
+        "SCTIMST"
+      ],
+      "source": {
+        "title": "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
+        "url": "https://www.thehindu.com/news/national/kerala/study-in-keralam-sheds-light-on-link-between-gut-bacteria-parkinsons-disease/article71638025.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q19",
+      "question": "Following their victory against Chelsea, which team will Liverpool face in the quarterfinals of the Carabao Cup?",
+      "options": [
+        "Brighton & Hove Albion",
+        "Manchester City",
+        "Bradford City",
+        "Bournemouth"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "After beating Chelsea on penalties, Liverpool is set to face Bournemouth in the quarterfinals of the Carabao Cup. Meanwhile, Manchester City, which survived a scare against Brighton, will play Bradford City.",
+      "background": "The Carabao Cup, also known as the EFL Cup, is an annual knockout football competition in men's domestic English football. It is open to all clubs participating in the Premier League and the English Football League.",
+      "examRelevance": "Liverpool will play Bournemouth in the Carabao Cup quarterfinals.",
+      "tags": [
+        "Carabao Cup",
+        "Liverpool",
+        "Bournemouth",
+        "Football"
+      ],
+      "source": {
+        "title": "Carabao Cup: Liverpool beats Chelsea on penalties, Man City survives Brighton scare",
+        "url": "https://www.thehindu.com/sport/football/carabao-cup-liverpool-beats-chelsea-on-penalties-man-city-survives-brighton-scare/article71639070.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q20",
+      "question": "In early trade, the Indian Rupee rose 11 paise against the U.S. dollar to what value?",
+      "options": [
+        "95.45",
+        "95.17",
+        "95.73",
+        "94.89"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Indian Rupee rose 11 paise to 95.17 against the U.S. dollar in early trade. This movement was observed after the U.S. Federal Reserve kept interest rates unchanged at 3.75%–4.00%, leading to a mildly dollar-negative market reaction.",
+      "background": "The value of the Rupee against the dollar is influenced by various factors, including global economic policies, interest rate decisions by central banks (like the U.S. Fed), foreign investment inflows, and crude oil prices.",
+      "examRelevance": "Indian Rupee rose to 95.17 against the U.S. dollar.",
+      "tags": [
+        "Indian Rupee",
+        "US Dollar",
+        "Forex Market",
+        "Exchange Rate"
+      ],
+      "source": {
+        "title": "Rupee rises 11 paise to 95.17 against U.S. dollar in early trade",
+        "url": "https://www.thehindu.com/business/markets/rupee-rises-11-paise-against-us-dollar-in-early-trade-on-thursday/article71639047.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q21",
+      "question": "Kozhikode recently marked how many years since it received the 'City of Literature' recognition?",
+      "options": [
+        "Four years",
+        "One year",
+        "Three years",
+        "Two years"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "Kozhikode recently marked three years since it received the 'City of Literature' recognition. Writers in the region are now advocating for increased focus at the local level, including accessible public spaces for literary programmes and initiatives for young writers.",
+      "background": "The 'City of Literature' designation is part of the UNESCO Creative Cities Network, which recognizes cities for their commitment to fostering creativity as a strategic factor for sustainable urban development. This recognition boosts cultural tourism and local literary activities.",
+      "examRelevance": "Kozhikode marked three years as a 'City of Literature'.",
+      "tags": [
+        "Kozhikode",
+        "City of Literature",
+        "UNESCO",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "As Kozhikode marks three years of ‘City of Literature’ recognition, writers seek more focus at local level",
+        "url": "https://www.thehindu.com/news/national/kerala/as-kozhikode-marks-three-years-of-city-of-literature-recognition-writers-seek-more-focus-at-local-level/article71636386.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q22",
+      "question": "What is the fundamental process involved in 'human composting' as described in recent discussions?",
+      "options": [
+        "Preservation through cryogenics",
+        "Submerging bodies in deep ocean for natural decomposition",
+        "Turning a human body into compost",
+        "Cremation at very low temperatures"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Human composting, also known as 'natural organic reduction,' is a process that involves turning a human body into compost. This method is presented as an alternative to traditional burial and cremation, aiming for a more environmentally friendly disposition.",
+      "background": "As environmental concerns grow, there is increasing interest in sustainable practices across various aspects of life, including end-of-life choices. Human composting seeks to offer an ecological option by returning nutrients to the earth.",
+      "examRelevance": "Human composting is the process of turning a human body into compost.",
+      "tags": [
+        "Human Composting",
+        "Environmental Practices",
+        "Death Care",
+        "Sustainability"
+      ],
+      "source": {
+        "title": "What is ‘human composting’ — how does it work?",
+        "url": "https://www.thehindu.com/sci-tech/science/what-is-human-composting-how-does-it-work/article71630017.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q23",
+      "question": "According to a recent science newsletter, what environmental role do humble salt marshes play in relation to the ocean?",
+      "options": [
+        "They soften the ocean’s fury",
+        "They increase ocean salinity",
+        "They accelerate coastal erosion",
+        "They serve as breeding grounds for deep-sea fish"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The Hindu's weekly 'Science for All' newsletter explains that humble salt marshes play a crucial environmental role by softening the ocean’s fury. They act as natural buffers, protecting coastlines from storms and erosion.",
+      "background": "Salt marshes are coastal wetlands that are flooded and drained by salt water brought in by the tides. They are vital ecosystems, providing habitats for diverse wildlife, filtering pollutants, and acting as natural carbon sinks.",
+      "examRelevance": "Salt marshes soften the ocean's fury, protecting coastlines.",
+      "tags": [
+        "Salt Marshes",
+        "Environment",
+        "Coastal Protection",
+        "Ecosystems"
+      ],
+      "source": {
+        "title": "How the humble salt marsh softens the ocean’s fury",
+        "url": "https://www.thehindu.com/sci-tech/science/science-for-all-newsletter-how-the-humble-salt-marsh-softens-the-oceans-fury/article71630237.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q24",
+      "question": "Microsoft recently reported quarterly earnings that beat expectations, primarily driven by the performance of which business segment?",
+      "options": [
+        "Azure cloud business",
+        "Windows operating system sales",
+        "Xbox gaming console sales",
+        "Surface hardware sales"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Microsoft recently surpassed quarterly earnings expectations, largely fueled by the robust performance of its Azure cloud business. This success comes shortly after the company offered voluntary buyouts to approximately 60,000 employees.",
+      "background": "Cloud computing services, such as Microsoft Azure, have become a significant growth driver for technology companies, offering scalable infrastructure and platforms to businesses worldwide. This shift reflects the broader trend towards digital transformation.",
+      "examRelevance": "Microsoft's Q3 earnings were driven by its Azure cloud business.",
+      "tags": [
+        "Microsoft",
+        "Azure",
+        "Cloud Business",
+        "Quarterly Earnings"
+      ],
+      "source": {
+        "title": "Microsoft beats expectations fueled by Azure cloud business",
+        "url": "https://www.thehindu.com/sci-tech/technology/microsoft-beats-expectations-fueled-by-azure-cloud-business/article71638844.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q25",
+      "question": "The New Amnesty Scheme 2025 has been extended until which date?",
+      "options": [
+        "November 30",
+        "January 15",
+        "February 28",
+        "December 31"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The New Amnesty Scheme 2025, which provides a window for compliance or relief, has been extended until December 31. This extension offers additional time for individuals or entities to avail of the scheme's benefits.",
+      "background": "Amnesty schemes are often introduced by governments to encourage compliance with tax regulations, resolve disputes, or regularize certain activities, typically by offering waivers or concessions for a specified period.",
+      "examRelevance": "New Amnesty Scheme 2025 extended until December 31.",
+      "tags": [
+        "Amnesty Scheme",
+        "Government Scheme",
+        "Extension",
+        "Compliance"
+      ],
+      "source": {
+        "title": "New Amnesty Scheme extended. Check details",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/new-amnesty-scheme-2025-extended-till-december-31-check-details-here/articleshow/135289695.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q26",
+      "question": "Google owner Alphabet's net profit slid by what percentage in the July-to-September quarter compared to a year earlier?",
+      "options": [
+        "25 percent",
+        "15 percent",
+        "30 percent",
+        "20 percent"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Google's parent company, Alphabet, reported a significant dip in its net profit, which slid by 25 percent from a year earlier to US$26.2 billion in the July-to-September quarter. This decline was attributed to a slowdown in advertising revenue.",
+      "background": "Alphabet's financial performance is heavily reliant on its advertising business, primarily through Google Search and YouTube. A slowdown in ad revenue can significantly impact its overall profitability, as seen in these quarterly results.",
+      "examRelevance": "Alphabet's net profit slid by 25 percent in Q3 (July-Sept) quarter.",
+      "tags": [
+        "Alphabet",
+        "Google",
+        "Net Profit",
+        "Advertising Revenue"
+      ],
+      "source": {
+        "title": "Google owner Alphabet’s shares plummet on profit miss, ad slowdown",
+        "url": "https://www.thehindu.com/sci-tech/technology/google-owner-alphabets-shares-plummet-on-profit-miss-ad-slowdown/article71638901.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q27",
+      "question": "In the recent Maharashtra MLC election, which party secured a victory against the BJP in Nagpur?",
+      "options": [
+        "Shiv Sena (Uddhav Balasaheb Thackeray)",
+        "Maharashtra Navnirman Sena",
+        "Congress",
+        "Nationalist Congress Party (Sharadchandra Pawar)"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "In the recent Maharashtra MLC election, the Congress party secured a victory against the BJP in Nagpur. This win contributed to the Maha Vikas Aghadi (MVA) leading the state with 3-2 in the overall results.",
+      "background": "The Maharashtra Legislative Council (MLC) elections are indirect elections where members are elected by various electoral colleges, including local authorities, teachers, and graduates. These elections often reflect the political dynamics and alliances within the state.",
+      "examRelevance": "Congress won against BJP in the Nagpur Maharashtra MLC election.",
+      "tags": [
+        "Maharashtra MLC",
+        "Nagpur",
+        "Congress",
+        "BJP"
+      ],
+      "source": {
+        "title": "Maharashtra MLC election: Congress trumps BJP in Nagpur, MVA leads 3-2 in State",
+        "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-mlc-election-congress-bjp-nagpur/article71638769.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q28",
+      "question": "The Cyberabad Police is planning a one-way traffic loop system to ease congestion in the IT corridor between Biodiversity Junction and which other location?",
+      "options": [
+        "Gachibowli",
+        "Knowledge City",
+        "Hitec City",
+        "Financial District"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "The Cyberabad Police is planning to implement a one-way traffic loop system to alleviate congestion in the IT corridor, specifically from Biodiversity Junction towards Knowledge City. This phased implementation will involve traffic simulations and stakeholder consultations.",
+      "background": "Cyberabad, a major IT hub in Telangana, frequently experiences heavy traffic due to its high concentration of tech companies and residential areas. Traffic management initiatives are crucial for improving commuting efficiency and urban mobility.",
+      "examRelevance": "Cyberabad Police planning one-way traffic from Biodiversity Junction towards Knowledge City.",
+      "tags": [
+        "Cyberabad Police",
+        "Traffic Management",
+        "Knowledge City",
+        "Biodiversity Junction"
+      ],
+      "source": {
+        "title": "Cyberabad Police plans one-way traffic from Biodiversity Junction towards Knowledge City",
+        "url": "https://www.thehindu.com/news/national/telangana/cyberabad-police-plan-one-way-loop-to-ease-it-corridor-traffic/article71637785.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q29",
+      "question": "A Tamil YouTube cooking channel recently achieved a significant milestone by crossing how many subscribers?",
+      "options": [
+        "50 lakh",
+        "1 crore",
+        "75 lakh",
+        "1.5 crore"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "A Tamil YouTube cooking channel, originating from Chinna Veeramangalam village, recently crossed the significant milestone of 1 crore subscribers. This achievement has brought global attention to the village and its traditional culinary practices.",
+      "background": "YouTube has become a powerful platform for cultural exchange and showcasing local talents. Cooking channels, especially those highlighting traditional and rustic charm, often gain immense popularity, connecting global audiences with diverse cuisines.",
+      "examRelevance": "A Tamil YouTube cooking channel crossed 1 crore subscribers.",
+      "tags": [
+        "Tamil YouTube Channel",
+        "Cooking Channel",
+        "Subscribers",
+        "Chinna Veeramangalam"
+      ],
+      "source": {
+        "title": "Tamil YouTube cooking channel’s subscribers cross 1 crore",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/cooking-channels-subscribers-cross-1-crore/article61445799.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-29-q30",
+      "question": "The EPFO is working on guidelines to invest in Alternative Investment Funds (AIFs) and startups, how many years after the government initially cleared its entry into these asset classes?",
+      "options": [
+        "Three years",
+        "Five years",
+        "Six years",
+        "Four years"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Employees Provident Fund Organisation (EPFO) is currently developing guidelines for investing in alternative investment funds (AIFs) and startups. This initiative comes five years after the government initially granted clearance for the retirement body to enter these high-growth asset classes.",
+      "background": "EPFO manages a vast corpus of retirement funds for millions of Indian employees. Investing in AIFs and startups could potentially yield higher returns, diversifying its portfolio beyond traditional debt and equity instruments, though it also entails higher risk.",
+      "examRelevance": "EPFO plans AIF/startup investments, five years after government approval.",
+      "tags": [
+        "EPFO",
+        "AIFs",
+        "Startups",
+        "Investment Guidelines"
+      ],
+      "source": {
+        "title": "EPFO plans to invest in startups, AIFs",
+        "url": "https://economictimes.indiatimes.com/news/economy/policy/epfo-plans-to-invest-in-startups-aifs-five-years-after-govt-approval/articleshow/135292563.cms"
+      }
+    }
+  ]
+}
