@@ -1,0 +1,793 @@
+{
+  "id": "daily-2026-10-30",
+  "type": "daily",
+  "date": "2026-10-30",
+  "title": "Current Affairs — 30 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-30-q1",
+      "question": "Which country's Foreign Minister recently arrived in the U.S. for a G20 meeting, where he plans to argue against international sanctions?",
+      "options": [
+        "China",
+        "India",
+        "Brazil",
+        "Russia"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Russian Foreign Minister Sergey Lavrov recently arrived in the U.S. to attend a G20 meeting. During his speech at the meeting, Lavrov intends to advocate against the imposition of international sanctions.",
+      "background": "The G20 (Group of Twenty) is an intergovernmental forum comprising 19 countries and the European Union. It works to address major issues related to the global economy, such as international financial stability, climate change mitigation, and sustainable development.",
+      "examRelevance": "Sergey Lavrov = Russian Foreign Minister, attending G20 meeting in U.S.",
+      "tags": [
+        "Sergey Lavrov",
+        "G20",
+        "Russia",
+        "U.S.",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Russian Foreign Minister Sergey Lavrov arrives in U.S. for G20 meeting",
+        "url": "https://www.thehindu.com/news/international/russian-foreign-minister-sergey-lavrov-arrives-in-us-for-g20-talks-against-sanctions-amid-mounting-global-tensions/article71643693.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q2",
+      "question": "The body of former Air Force Flight Lieutenant K.M. Tahsif Souri was recently recovered from a river in which city?",
+      "options": [
+        "Chittagong",
+        "Dhaka",
+        "Khulna",
+        "Sylhet"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The body of former Air Force Flight Lieutenant K.M. Tahsif Souri was recovered from a river in Dhaka, Bangladesh. He was reportedly involved in filming a video showing deposed P.M. Sheikh Hasina leaving Bangladesh.",
+      "background": "This incident is part of an ongoing investigation into the disappearance and death of the former officer, with local media linking him to a video related to a significant political figure in Bangladesh.",
+      "examRelevance": "K.M. Tahsif Souri's body recovered in Dhaka, Bangladesh.",
+      "tags": [
+        "K.M. Tahsif Souri",
+        "Bangladesh",
+        "Dhaka",
+        "Obituary"
+      ],
+      "source": {
+        "title": "Bangladesh police recovers body of ex-Air Force officer from river in Dhaka",
+        "url": "https://www.thehindu.com/news/international/bangladesh-police-recovers-body-of-ex-air-force-officer-from-river-in-dhaka-investigation-underway-into-his-disappearance-and-ties-to-a-video-of-sheikh-hasina/article71643828.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q3",
+      "question": "Farmers cultivating sweet lime in the Rayalaseema region are currently facing significant losses due to water scarcity. Rayalaseema is located in which Indian state?",
+      "options": [
+        "Telangana",
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Sweet lime farmers in the Rayalaseema region of Andhra Pradesh are experiencing severe financial distress and mounting losses. This crisis is primarily caused by water scarcity, a result of deficit rainfall and depleting groundwater levels.",
+      "background": "Rayalaseema is a geographical region in the state of Andhra Pradesh, known for its agricultural activities, including horticulture. The ongoing water crisis highlights the vulnerability of agriculture to climate variability and groundwater depletion in the region.",
+      "examRelevance": "Rayalaseema region = Andhra Pradesh, facing sweet lime cultivation crisis.",
+      "tags": [
+        "Rayalaseema",
+        "Andhra Pradesh",
+        "Sweet Lime",
+        "Agriculture",
+        "Water Scarcity"
+      ],
+      "source": {
+        "title": "Bitter times for Rayalaseema’s sweet lime farmers",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/bitter-times-for-rayalaseemas-sweet-lime-farmers/article71640648.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q4",
+      "question": "Muhammed Riswan, a freestyle footballer from Malappuram, recently won the Instagram Rings 2026 award. Which social media platform presents this creator award?",
+      "options": [
+        "YouTube",
+        "Instagram",
+        "TikTok",
+        "Facebook"
+      ],
+      "answerIndex": 1,
+      "category": "Awards & Honours",
+      "explanation": "Muhammed Riswan, a freestyle footballer hailing from Malappuram, is one of the 25 global recipients of the Instagram Rings 2026 award. This creator award is presented by the social media platform Instagram and was selected by a jury of 14 members.",
+      "background": "The Instagram Rings is an award recognizing creators on the platform. Muhammed Riswan is one of two Indian creators to receive this honour in 2026, highlighting his influence and creativity in freestyle football.",
+      "examRelevance": "Muhammed Riswan = Instagram Rings 2026 winner.",
+      "tags": [
+        "Muhammed Riswan",
+        "Instagram Rings 2026",
+        "Awards",
+        "Freestyle Football"
+      ],
+      "source": {
+        "title": "Meet freestyle footballer Muhammed Riswan, one of the two Indian creators to win the Instagram Rings 2026",
+        "url": "https://www.thehindu.com/life-and-style/meet-freestyle-footballer-muhammed-riswan-one-of-the-two-indian-creators-to-win-the-instagram-rings-2026/article71643896.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q5",
+      "question": "Women-led protests against a newly introduced liquor policy were recently suspended in which Union Territory, after the local administration agreed to all demands, including a complete rollback of the policy?",
+      "options": [
+        "Jammu and Kashmir",
+        "Chandigarh",
+        "Ladakh",
+        "Puducherry"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Women-led protests in Ladakh against a new liquor policy have been suspended after the Ladakh administration agreed to all their demands. The key demands included a complete rollback of the policy and declaring Ladakh a dry Union Territory.",
+      "background": "The protests, spearheaded by women, aimed to reverse a policy that allowed more liquor sales, reflecting strong local sentiments for a dry region. Sonam Wangchuk, a prominent figure, confirmed the suspension of the protests.",
+      "examRelevance": "Ladakh = Protests against liquor policy suspended.",
+      "tags": [
+        "Ladakh",
+        "Liquor Policy",
+        "Protests",
+        "Sonam Wangchuk",
+        "Union Territory"
+      ],
+      "source": {
+        "title": "Protest against liquor policy suspended after Ladakh admin agrees to all demands: Sonam Wangchuk",
+        "url": "https://www.thehindu.com/news/national/ladakh/protest-against-liquor-policy-suspended-after-ladakh-admin-agrees-to-all-demands-sonam-wangchuk/article71643951.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q6",
+      "question": "The Supreme Court has appointed Justice Ranjana Desai as the sole mediator in the KG Basin gas migration dispute. Which public sector undertaking is involved in this dispute with Reliance Industries Limited (RIL)?",
+      "options": [
+        "GAIL",
+        "IOCL",
+        "ONGC",
+        "BPCL"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court has appointed Justice Ranjana Desai as the sole mediator to resolve the KG Basin gas migration dispute. This dispute involves Reliance Industries Limited (RIL) and the state-owned ONGC, with the Centre claiming RIL 'siphoned' gas from ONGC's blocks.",
+      "background": "The dispute centers on allegations that gas migrated from ONGC's adjacent blocks into RIL's KG-D6 block, leading to claims of siphoning. Justice Desai has been requested to take assistance from two domain experts in this complex matter.",
+      "examRelevance": "Justice Ranjana Desai = Sole mediator in KG Basin gas dispute between RIL and ONGC.",
+      "tags": [
+        "Justice Ranjana Desai",
+        "KG Basin",
+        "Gas Dispute",
+        "RIL",
+        "ONGC",
+        "Supreme Court"
+      ],
+      "source": {
+        "title": "KG Basin gas migration dispute: Supreme Court appoints Justice Ranjana Desai as sole mediator",
+        "url": "https://www.thehindu.com/news/national/kg-basin-gas-migration-dispute-supreme-court-appoints-justice-ranjana-desai-as-sole-mediator/article71643966.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q7",
+      "question": "In Andhra Pradesh, the State Election Commission has moved the MPTC and ZPTC polls to November 5. On what date are the civic polls scheduled to be held in the state?",
+      "options": [
+        "November 3",
+        "November 1",
+        "November 7",
+        "October 30"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The State Election Commission in Andhra Pradesh has rescheduled the MPTC and ZPTC polls to November 5. However, the civic polls will proceed as planned on November 1, despite the impact of a cyclone.",
+      "background": "The decision to separate the polling dates was made because the State Election Commission stated it did not have sufficient staff to count civic poll votes and simultaneously conduct the rural polls on the same day.",
+      "examRelevance": "Andhra Pradesh MPTC, ZPTC polls = November 5; Civic polls = November 1.",
+      "tags": [
+        "Andhra Pradesh",
+        "MPTC",
+        "ZPTC",
+        "Civic Polls",
+        "State Election Commission"
+      ],
+      "source": {
+        "title": "MPTC, ZPTC polls in Andhra Pradesh moved to November 5; civic polls stay on November 1 despite cyclone",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/mptc-zptc-polls-in-andhra-pradesh-moved-to-november-5-civic-polls-stay-on-november-1-despite-cyclone/article71635507.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q8",
+      "question": "The Enforcement Directorate (ED) recently conducted raids at eight premises in West Bengal in connection with the alleged misuse of insolvency proceedings. Which company is primarily involved in this case?",
+      "options": [
+        "Tata Power",
+        "Reliance Power",
+        "Adani Power",
+        "Kohinoor Power"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Enforcement Directorate (ED) carried out raids at eight premises across West Bengal in a case concerning the alleged misuse of insolvency proceedings. The case involves Kohinoor Power, lender banks, and other entities.",
+      "background": "The ED's action aims to investigate the financial irregularities and potential fraud associated with the insolvency process, specifically targeting assets and transactions linked to the involved parties.",
+      "examRelevance": "ED raids in West Bengal = Misuse of insolvency proceedings, Kohinoor Power.",
+      "tags": [
+        "ED",
+        "West Bengal",
+        "Insolvency Proceedings",
+        "Kohinoor Power",
+        "Financial Crime"
+      ],
+      "source": {
+        "title": "Misuse of insolvency proceedings: ED conducts raids in West Bengal",
+        "url": "https://www.thehindu.com/news/national/west-bengal/misuse-of-insolvency-proceedings-ed-conducts-raids-in-west-bengal/article71643994.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q9",
+      "question": "India recently sealed a five-match T20I series against New Zealand. What was the series score by which India secured the victory?",
+      "options": [
+        "3-0",
+        "3-1",
+        "4-0",
+        "2-1"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "India has sealed the five-match T20I series against New Zealand with a dominant 3-0 lead. This was achieved before the fourth T20I, where India made two changes to their playing XI and asked New Zealand to bat first.",
+      "background": "This series victory highlights India's strong performance in the T20 International format against New Zealand. The team's consistent performance led to an unassailable lead in the series.",
+      "examRelevance": "India won T20I series against New Zealand 3-0.",
+      "tags": [
+        "Cricket",
+        "India",
+        "New Zealand",
+        "T20I Series",
+        "Sports"
+      ],
+      "source": {
+        "title": "IND vs NZ fourth T20I: India asks New Zealand to bat first",
+        "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-fourth-t20-international-in-auckland-on-october-30-2026/article71643999.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q10",
+      "question": "The Mysuru City Corporation (MCC) and India Post have signed an agreement to provide doorstep delivery of birth and death certificates. What is the fee for this service?",
+      "options": [
+        "₹50",
+        "₹150",
+        "₹75",
+        "₹100"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Mysuru City Corporation (MCC) and India Post have entered into an agreement to offer doorstep delivery of birth and death certificates. This service will be available across India at a charge of ₹100 per delivery.",
+      "background": "This initiative aims to enhance citizen convenience by leveraging India Post's extensive network to deliver essential documents directly to residents' homes, reducing the need for physical visits to government offices.",
+      "examRelevance": "Mysuru City Corporation + India Post = Doorstep delivery of birth/death certificates for ₹100.",
+      "tags": [
+        "Mysuru",
+        "India Post",
+        "Birth Certificate",
+        "Death Certificate",
+        "Doorstep Delivery",
+        "MCC"
+      ],
+      "source": {
+        "title": "Birth, death certificates issued by Mysuru corporation to be delivered by post for ₹100",
+        "url": "https://www.thehindu.com/news/national/karnataka/birth-death-certificates-issued-by-mysuru-corporation-to-be-delivered-by-post-for-100/article71643819.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q11",
+      "question": "The very severe cyclonic storm 'Arnab' recently caused widespread destruction in Odisha and Andhra Pradesh. According to Andhra Pradesh Chief Minister N Chandrababu Naidu, what was the estimated loss inflicted by the cyclone in the state?",
+      "options": [
+        "₹5,200 crore",
+        "₹2,500 crore",
+        "₹3,800 crore",
+        "₹4,600 crore"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Cyclone Arnab, classified as a very severe cyclonic storm, has caused significant damage in Odisha and Andhra Pradesh. Andhra Pradesh Chief Minister N Chandrababu Naidu reported an estimated loss of at least ₹4,600 crore in his state due to the cyclone.",
+      "background": "Over 55,000 people were evacuated across 9 districts in Odisha as the cyclone made landfall. The extensive damage highlights the severe impact of such natural disasters on infrastructure and livelihoods.",
+      "examRelevance": "Cyclone Arnab = ₹4,600 crore loss in Andhra Pradesh.",
+      "tags": [
+        "Cyclone Arnab",
+        "Andhra Pradesh",
+        "Odisha",
+        "Natural Disaster",
+        "Economic Loss"
+      ],
+      "source": {
+        "title": "Cyclone Arnab updates: Cyclone wreaks havoc in Odisha, over 55,000 evacuated across 9 districts",
+        "url": "https://www.thehindu.com/news/national/cyclone-arnab-imd-alert-odisha-andhra-pradesh-telangana-odisha-today-rain-weather-news-live-updates-october-30-2026/article71643382.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q12",
+      "question": "Former Tamil Nadu School Education Minister Anbil Mahesh Poyyamozhi was recently arrested in connection with which type of case?",
+      "options": [
+        "Land encroachment case",
+        "Illegal mining case",
+        "Public funds embezzlement case",
+        "Private schools fraud case"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Chennai police arrested Anbil Mahesh Poyyamozhi, former School Education Minister of Tamil Nadu, in a private schools fraud case. His anticipatory bail plea was rejected, and he has been remanded to judicial custody until November 6.",
+      "background": "This arrest follows an investigation into alleged fraudulent activities related to private schools. The former minister's detention underscores the ongoing efforts to address corruption and financial irregularities in the state.",
+      "examRelevance": "Anbil Mahesh Poyyamozhi = Former TN Minister arrested in private schools fraud case.",
+      "tags": [
+        "Anbil Mahesh Poyyamozhi",
+        "DMK",
+        "Tamil Nadu",
+        "Arrest",
+        "Fraud Case"
+      ],
+      "source": {
+        "title": "Ex-DMK Minister Anbil Mahesh Poyyamozhi arrested private schools fraud case",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/former-dmk-minister-anbil-mahesh-poyyamozhi-arrested/article71626605.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q13",
+      "question": "The INDIA bloc is scheduled to hold a rally on November 1 at one of Delhi's designated protest sites. Which venue has been chosen for this rally?",
+      "options": [
+        "Boat Club",
+        "Ramlila Maidan",
+        "Jantar Mantar",
+        "Parliament Street"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The INDIA bloc is scheduled to hold a rally on November 1 at Ramlila Maidan in Delhi. Ramlila Maidan is one of the three designated protest sites in Delhi, after Jantar Mantar was de-notified.",
+      "background": "The Delhi Police has imposed certain conditions for the rally. The choice of Ramlila Maidan for such political gatherings highlights its historical significance as a major public assembly ground in the capital.",
+      "examRelevance": "INDIA bloc rally on Nov 1 = Ramlila Maidan, Delhi.",
+      "tags": [
+        "INDIA Bloc",
+        "Ramlila Maidan",
+        "Delhi",
+        "Rally",
+        "Political Event"
+      ],
+      "source": {
+        "title": "INDIA bloc rally on November 1: What are the conditions imposed by Delhi Police",
+        "url": "https://www.thehindu.com/news/cities/Delhi/congress-rally-november-1-ramlila-maidan-restrictions-by-delhi-police/article71635407.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q14",
+      "question": "The Supreme Court has directed expelled JD(U) MLA Anant Singh to surrender by December 1. In which state was Anant Singh a Member of the Legislative Assembly?",
+      "options": [
+        "Uttar Pradesh",
+        "Bihar",
+        "West Bengal",
+        "Jharkhand"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court has issued a directive for expelled JD(U) MLA Anant Singh to surrender by December 1. The court also instructed the Bihar police to complete the investigation in his case within four months.",
+      "background": "Anant Singh is a prominent political figure from Bihar, who was expelled from the JD(U) party. The Supreme Court's order indicates a significant development in the legal proceedings against him.",
+      "examRelevance": "Anant Singh = Expelled JD(U) MLA from Bihar, directed to surrender by Dec 1 by SC.",
+      "tags": [
+        "Anant Singh",
+        "JD(U)",
+        "Bihar",
+        "Supreme Court",
+        "Surrender Order"
+      ],
+      "source": {
+        "title": "Supreme Court directs expelled JD(U) MLA Anant Singh to surrender by December 1",
+        "url": "https://www.thehindu.com/news/national/supreme-court-directs-expelled-jdu-mla-anant-singh-to-surrender-by-december-1/article71643970.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q15",
+      "question": "Women at the state-owned Singareni Collieries Company Limited (SCCL) are increasingly taking on roles traditionally dominated by men, including handling explosives and repairing heavy mining equipment. SCCL is located in which Indian state?",
+      "options": [
+        "Odisha",
+        "Telangana",
+        "Andhra Pradesh",
+        "Chhattisgarh"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Women at the state-owned Singareni Collieries Company Limited (SCCL) in Telangana are breaking barriers by moving into jobs long considered male preserves. This shift is due to amendments to the Mines Act, allowing women to work in roles like handling explosives, repairing equipment, and supervising underground operations.",
+      "background": "SCCL is a major coal mining company in India. The increased participation of women in core mining operations signifies a progressive step towards gender equality in the workforce, though challenges like workplace safety and gender bias persist.",
+      "examRelevance": "Singareni Collieries Company Limited (SCCL) = Telangana, women in mining.",
+      "tags": [
+        "Singareni Collieries",
+        "Telangana",
+        "Women Empowerment",
+        "Mining",
+        "Mines Act"
+      ],
+      "source": {
+        "title": "Telangana spotlight: Women blast through the mining barriers",
+        "url": "https://www.thehindu.com/news/national/telangana/women-blast-through-the-mining-barriers/article71642321.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q16",
+      "question": "Prime Minister Narendra Modi recently released the 24th instalment under the PM-KISAN scheme. What is the total amount disbursed in this instalment, and to how many farmers?",
+      "options": [
+        "₹21,000 crore to 9.5 crore farmers",
+        "₹15,000 crore to 8.5 crore farmers",
+        "₹17,500 crore to 9 crore farmers",
+        "₹19,000 crore to 9.34 crore farmers"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Prime Minister Narendra Modi has released the 24th instalment of the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme. A total of ₹19,000 crore has been disbursed to 9.34 crore farmer beneficiaries under this instalment.",
+      "background": "The PM-KISAN scheme provides income support to all eligible farmer families across the country to supplement their financial needs for procuring various inputs related to agriculture and allied activities as well as domestic needs. Each eligible farmer family receives ₹6,000 per year in three equal instalments of ₹2,000.",
+      "examRelevance": "PM-KISAN 24th instalment = ₹19,000 crore to 9.34 crore farmers.",
+      "tags": [
+        "PM-KISAN",
+        "Narendra Modi",
+        "Farmers",
+        "Financial Aid",
+        "Schemes"
+      ],
+      "source": {
+        "title": "PM KISAN 24th instalment released: Check status",
+        "url": "https://economictimes.indiatimes.com/wealth/invest/pm-kisan-24th-instalment-released-9-34-crore-farmers-to-receive-rs-2000-check-beneficiary-status-and-ekyc-details/articleshow/135347705.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q17",
+      "question": "The Labour Ministry has recently set up National Social Security Boards. These boards are mandated to design, monitor, and recommend targeted welfare schemes primarily for which categories of workers?",
+      "options": [
+        "Agricultural labourers and small business owners",
+        "Unorganised, gig, and platform workers",
+        "Organised sector workers and salaried professionals",
+        "Public sector employees and government contractors"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Labour Ministry has established National Social Security Boards with the mandate to design, monitor, and recommend targeted welfare schemes. These schemes are specifically aimed at unorganised, gig, and platform workers, as well as traditional unorganised workers.",
+      "background": "This initiative aims to extend social security benefits to a large segment of the workforce that often lacks formal employment protections. The boards will play a crucial role in addressing the unique challenges faced by these worker categories.",
+      "examRelevance": "Labour Ministry = National Social Security Boards for unorganised, gig, platform workers.",
+      "tags": [
+        "Labour Ministry",
+        "Social Security",
+        "Gig Workers",
+        "Unorganised Workers",
+        "Platform Workers"
+      ],
+      "source": {
+        "title": "Labour Ministry sets up National Social Security Boards for unorganised, gig and platform workers",
+        "url": "https://www.thehindu.com/news/national/labour-ministry-sets-up-national-social-security-boards-for-unorganised-gig-and-platform-workers/article71643865.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q18",
+      "question": "During his two-day visit to Gujarat, Prime Minister Narendra Modi inaugurated a ₹325-crore bovine breeding centre. In which district of Gujarat was this centre inaugurated?",
+      "options": [
+        "Ahmedabad",
+        "Surat",
+        "Rajkot",
+        "Banaskantha"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Prime Minister Narendra Modi inaugurated a new ₹325-crore bovine breeding centre in Banaskantha district during his two-day visit to Gujarat. He also participated in the Bharat Parv 2026 festival and Narmada aarti at Ekta Nagar.",
+      "background": "The bovine breeding centre is expected to boost the dairy sector and improve livestock health and productivity in the region. His visit also included cultural and tourism events, highlighting the state's development initiatives.",
+      "examRelevance": "PM Modi = Inaugurated ₹325-crore bovine breeding centre in Banaskantha, Gujarat.",
+      "tags": [
+        "Narendra Modi",
+        "Gujarat",
+        "Banaskantha",
+        "Bovine Breeding Centre",
+        "Agriculture"
+      ],
+      "source": {
+        "title": "PM Modi begins two-day Gujarat visit; inaugurates ₹325-crore bovine breeding centre in Banaskantha",
+        "url": "https://www.thehindu.com/news/national/gujarat/prime-minister-narendra-modi-two-day-gujarat-visit-unveil-various-projects/article71643499.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q19",
+      "question": "Which city in Karnataka is planning to take its power cables underground across 17 road stretches to emulate Varanasi and give a cleaner look to its streets?",
+      "options": [
+        "Hubballi",
+        "Mysuru",
+        "Bengaluru",
+        "Kalaburagi"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Kalaburagi, a city in Karnataka, is planning to take its power cables underground across 17 road stretches, a move inspired by Varanasi's efforts to enhance street aesthetics. This initiative is part of a proposal by GESCOM to improve the city's visual appeal.",
+      "background": "The project aims to reduce visual clutter, enhance safety, and improve the overall urban infrastructure by shifting overhead power lines below ground, contributing to a cleaner and more modern streetscape.",
+      "examRelevance": "Kalaburagi = Plans to take power cables underground, inspired by Varanasi.",
+      "tags": [
+        "Kalaburagi",
+        "Karnataka",
+        "Underground Cables",
+        "Urban Development",
+        "GESCOM"
+      ],
+      "source": {
+        "title": "Kalaburagi to emulate Varanasi, plans to take power cables underground in bid to give cleaner look to streets",
+        "url": "https://www.thehindu.com/news/national/karnataka/plan-to-take-power-cables-underground-in-bid-to-give-cleaner-look-to-streets-in-kalaburagi/article71640509.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q20",
+      "question": "ISRO's NVS-03 satellite launch is considered crucial for India's navigation. What is the name of India's regional satellite navigation system that NVS-03 aims to restore and enhance?",
+      "options": [
+        "Bhuvana",
+        "Gagan",
+        "NavIC",
+        "IRNSS"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "ISRO's NVS-03 satellite launch is critical for restoring the functioning of India's regional satellite navigation system, NavIC. The development of NavIC began after the 1999 Kargil War when the U.S. reportedly restricted access to GPS data.",
+      "background": "NavIC (Navigation with Indian Constellation), previously known as IRNSS, provides accurate real-time positioning and timing services over India and a region extending up to 1,500 km around the Indian mainland. The NVS-03 mission is part of the second-generation NavIC satellites.",
+      "examRelevance": "ISRO's NVS-03 satellite = Crucial for restoring NavIC.",
+      "tags": [
+        "ISRO",
+        "NVS-03",
+        "NavIC",
+        "Satellite Navigation",
+        "Science & Technology"
+      ],
+      "source": {
+        "title": "A new 'eye in the sky' for India's navigation",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/new-eye-in-the-sky-indias-gps-gets-a-major-upgrade-tonight-5-things-to-know-about-what-isros-nvs-03-satellite-will-change/articleshow/135347473.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q21",
+      "question": "Which university's 5G lab in Kalaburagi was recently adjudged the best performer in Karnataka by the Department of Telecommunications (DoT), receiving an excellent grading with a score of 143?",
+      "options": [
+        "Visvesvaraya Technological University (VTU)",
+        "Mangalore University",
+        "Gulbarga University",
+        "Karnataka University"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "The 5G lab at Visvesvaraya Technological University (VTU) in Kalaburagi has been recognized as the best performer among eight 5G labs in Karnataka. It received an excellent grading with a score of 143 from the Department of Telecommunications (DoT).",
+      "background": "This recognition highlights VTU Kalaburagi's significant contributions to 5G research and development, positioning it as a leading institution in telecommunications technology within the state.",
+      "examRelevance": "VTU Kalaburagi's 5G lab = Best performer in Karnataka.",
+      "tags": [
+        "VTU Kalaburagi",
+        "5G Lab",
+        "Department of Telecommunications",
+        "Karnataka",
+        "Science & Technology"
+      ],
+      "source": {
+        "title": "VTU Kalaburagi’s 5G lab adjudged best performer in Karnataka",
+        "url": "https://www.thehindu.com/news/national/karnataka/vtu-kalaburagis-5g-lab-adjudged-best-performer-in-karnataka/article71640326.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q22",
+      "question": "Which financial technology company recently secured a bond platform licence, enabling it to launch direct offerings soon?",
+      "options": [
+        "Upstox",
+        "Angel One",
+        "Zerodha",
+        "Groww"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Upstox, a financial technology company, has successfully secured a bond platform licence. This licence will allow the company to soon launch direct offerings, expanding its financial services portfolio.",
+      "background": "This development signifies Upstox's foray into the bond market, providing its users with more investment opportunities. It reflects the growing trend of fintech companies diversifying their services.",
+      "examRelevance": "Upstox = Secured bond platform licence.",
+      "tags": [
+        "Upstox",
+        "Fintech",
+        "Bond Platform",
+        "Licence",
+        "Economy"
+      ],
+      "source": {
+        "title": "Upstox secures bond platform licence",
+        "url": "https://economictimes.indiatimes.com/tech/technology/upstox-secures-bond-platform-licence-to-launch-direct-offerings-soon/articleshow/135347013.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q23",
+      "question": "India's External Affairs Minister Jaishankar is currently in the U.S. to participate in the G20 Foreign Ministers’ meet. Who is scheduled to deliver the opening address on geopolitical issues at this two-day deliberation?",
+      "options": [
+        "Wang Yi",
+        "Marco Rubio",
+        "Antony Blinken",
+        "Sergey Lavrov"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "External Affairs Minister S. Jaishankar is in the U.S. to attend the two-day G20 Foreign Ministers’ meet. The deliberations are set to begin with an address on geopolitical issues by Mr. Marco Rubio.",
+      "background": "This meeting provides a platform for foreign ministers of the world's major economies to discuss pressing global challenges, including geopolitical tensions, economic stability, and sustainable development goals.",
+      "examRelevance": "EAM Jaishankar attending G20 Foreign Ministers’ meet in U.S., Marco Rubio to address.",
+      "tags": [
+        "Jaishankar",
+        "G20",
+        "U.S.",
+        "Foreign Ministers Meet",
+        "Marco Rubio",
+        "International Relations"
+      ],
+      "source": {
+        "title": "External Affairs Minister Jaishankar in U.S. for G20 Foreign Ministers’ meet",
+        "url": "https://www.thehindu.com/news/national/external-affairs-minister-jaishankar-g20-foreign-ministers-meet-in-atlanta/article71643686.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q24",
+      "question": "The 17th edition of the Kaiga Bird Marathon is scheduled to be held on February 6 and 7. Which organization will be organizing this event in and around Kaiga?",
+      "options": [
+        "Bombay Natural History Society (BNHS)",
+        "BirdLife International",
+        "Wildlife Institute of India (WII)",
+        "Nuclear Power Corporation of India Limited (NPCIL)"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The 17th edition of the Kaiga Bird Marathon is set to take place on February 6 and 7. This annual event will be organized by the Nuclear Power Corporation of India Limited (NPCIL) in and around Kaiga.",
+      "background": "The Kaiga Bird Marathon is an initiative that promotes birdwatching and environmental awareness, often held in areas with significant natural habitats, like those surrounding nuclear power plant sites that maintain green belts.",
+      "examRelevance": "17th Kaiga Bird Marathon on Feb 6-7 = Organized by NPCIL.",
+      "tags": [
+        "Kaiga Bird Marathon",
+        "NPCIL",
+        "Environment",
+        "Birdwatching",
+        "Karnataka"
+      ],
+      "source": {
+        "title": "Kaiga Bird Marathon on February 6, 7",
+        "url": "https://www.thehindu.com/news/national/karnataka/kaiga-bird-marathon-on-february-6-7/article71640524.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q25",
+      "question": "The Karnataka Cabinet has approved a proposal for a comprehensive stadium in Hubballi to be developed under the Public-Private Partnership (PPP) model. Which of the following facilities is NOT explicitly mentioned as part of this proposed infrastructure?",
+      "options": [
+        "Swimming pool",
+        "Athletics track",
+        "Cricket pitch with floodlights",
+        "Horse-riding training centre"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "The Karnataka Cabinet has given its approval for the development of a comprehensive stadium in Hubballi, utilizing the Public-Private Partnership (PPP) model. The proposed infrastructure includes an athletics track, football ground, basketball and volleyball courts, hockey facilities, indoor sports infrastructure, a swimming pool, a gymnasium, and a horse-riding training centre. A cricket pitch with floodlights is not explicitly mentioned.",
+      "background": "This project aims to significantly upgrade sports facilities in Hubballi, catering to a wide range of sports and providing accommodation for sportspersons, thereby promoting athletic talent in the region.",
+      "examRelevance": "Hubballi = Comprehensive stadium under PPP model approved.",
+      "tags": [
+        "Hubballi",
+        "Karnataka",
+        "Stadium",
+        "PPP Model",
+        "Sports Infrastructure"
+      ],
+      "source": {
+        "title": "Hubballi to get comprehensive stadium after Cabinet approves proposal under PPP model",
+        "url": "https://www.thehindu.com/news/national/karnataka/hubballi-to-get-comprehensive-stadium-after-cabinet-approves-proposal-under-ppp-model/article71641501.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q26",
+      "question": "India has stated that Artificial Intelligence (AI) and maritime security will be key priorities for its candidature for the United Nations Security Council (UNSC) for which term?",
+      "options": [
+        "2026–27",
+        "2025–26",
+        "2027–28",
+        "2028–29"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "India has announced that its candidature for a non-permanent seat on the United Nations Security Council (UNSC) for the 2028–29 term will focus on Artificial Intelligence (AI) and maritime security as key priorities. Mr. Parvathaneni emphasized safeguarding freedom of navigation and commerce.",
+      "background": "India has previously served as a non-permanent member of the UNSC multiple times. Highlighting AI and maritime security reflects contemporary global challenges and India's strategic interests in these domains.",
+      "examRelevance": "India's UNSC candidature (2028-29) = AI, maritime security as priorities.",
+      "tags": [
+        "India",
+        "UNSC",
+        "Artificial Intelligence",
+        "Maritime Security",
+        "International Relations"
+      ],
+      "source": {
+        "title": "India says AI, maritime security key priorities for its UNSC candidature for 2028–29",
+        "url": "https://www.thehindu.com/news/national/india-says-ai-maritime-security-key-priorities-for-its-unsc-candidature-for202829/article71643547.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q27",
+      "question": "Mohammed Shahansha, a student from Madin Academy in Malappuram, Kerala, recently secured third place in the global Arab Reading Challenge. In which country was this challenge held?",
+      "options": [
+        "Qatar",
+        "Egypt",
+        "United Arab Emirates (UAE)",
+        "Saudi Arabia"
+      ],
+      "answerIndex": 2,
+      "category": "Awards & Honours",
+      "explanation": "Mohammed Shahansha, a student from Madin Academy in Malappuram, Kerala, achieved third place in the global Arab Reading Challenge. The event was held in the United Arab Emirates (UAE), and he won a cash prize of ₹8 lakh.",
+      "background": "The Arab Reading Challenge is an annual pan-Arab literacy initiative that encourages students to read books in Arabic. Shahansha's achievement highlights his dedication and proficiency in Arabic literature.",
+      "examRelevance": "Mohammed Shahansha = 3rd in Arab Reading Challenge (UAE).",
+      "tags": [
+        "Mohammed Shahansha",
+        "Arab Reading Challenge",
+        "UAE",
+        "Kerala",
+        "Awards",
+        "Education"
+      ],
+      "source": {
+        "title": "Keralam student comes third in global Arab Reading Challenge held in UAE",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-student-ranks-third-in-global-arab-reading-challenge/article71640862.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q28",
+      "question": "The five-time IPL champions, Mumbai Indians, have recently announced new appointments to their coaching staff. Who has been appointed as the batting coach for the team?",
+      "options": [
+        "Mitchell McClenaghan",
+        "T.K. Dilip",
+        "Dhawal Kulkarni",
+        "Robin Uthappa"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Five-time IPL champions Mumbai Indians have appointed Robin Uthappa as their new batting coach. Additionally, Mitchell McClenaghan has been named bowling coach, T.K. Dilip as fielding coach, and Dhawal Kulkarni as development bowling coach.",
+      "background": "These appointments are part of Mumbai Indians' efforts to strengthen their coaching setup ahead of upcoming seasons, aiming to maintain their competitive edge in the Indian Premier League.",
+      "examRelevance": "Robin Uthappa = Mumbai Indians batting coach.",
+      "tags": [
+        "Robin Uthappa",
+        "Mumbai Indians",
+        "IPL",
+        "Cricket",
+        "Coaching Appointment"
+      ],
+      "source": {
+        "title": "Mumbai Indians appoint Robin Uthappa as batting coach",
+        "url": "https://www.thehindu.com/sport/cricket/mumbai-indians-appoint-robin-uthappa-as-batting-coach/article71643746.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q29",
+      "question": "Which cricketer recently became the first men's player to claim 200 T20 International (T20I) wickets?",
+      "options": [
+        "Tim Southee",
+        "Shakib Al Hasan",
+        "Rashid Khan",
+        "Lasith Malinga"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Afghanistan's Rashid Khan has made history by becoming the first men's player to claim 200 wickets in Twenty20 International (T20I) cricket. He achieved this feat in his 120th T20 international match, boasting an impressive average of 13.96 and an economy rate of 6.13.",
+      "background": "Rashid Khan is widely regarded as one of the best T20 bowlers in the world, known for his leg-spin variations and consistent wicket-taking ability. This milestone further solidifies his legacy in the format.",
+      "examRelevance": "Rashid Khan = First men's player to claim 200 T20I wickets.",
+      "tags": [
+        "Rashid Khan",
+        "Afghanistan",
+        "Cricket",
+        "T20I",
+        "Wickets",
+        "Sports Record"
+      ],
+      "source": {
+        "title": "Afghanistan’s Rashid Khan becomes first men’s player to claim 200 T20I wickets",
+        "url": "https://www.thehindu.com/sport/cricket/afghanistans-rashid-khan-becomes-first-mens-player-to-claim-200-t20i-wickets/article71643780.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-30-q30",
+      "question": "A recent glacial lake outburst in Bhutan has triggered a flood alert in parts of India. Which two Indian states have been warned of potential sudden rises in water levels in rivers like the Sankosh?",
+      "options": [
+        "Bihar and Uttar Pradesh",
+        "Northern West Bengal and Assam",
+        "Meghalaya and Tripura",
+        "Sikkim and Arunachal Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "A glacial lake outburst in Bhutan has led to a flood alert in northern West Bengal and Assam. Authorities have warned that water levels in rivers such as the Sankosh could rise suddenly in districts like Dhubri (Assam) and Alipurduar (West Bengal).",
+      "background": "Glacial lake outburst floods (GLOFs) are hazardous events that can occur when a natural dam containing a glacial lake fails. These events can release large volumes of water, causing significant downstream flooding.",
+      "examRelevance": "Glacial lake outburst in Bhutan = Flood alert in northern West Bengal and Assam.",
+      "tags": [
+        "Glacial Lake Outburst",
+        "Bhutan",
+        "West Bengal",
+        "Assam",
+        "Flood Alert",
+        "Environment"
+      ],
+      "source": {
+        "title": "Glacial lake outburst in Bhutan triggers flood alert in northern West Bengal, Assam",
+        "url": "https://www.thehindu.com/news/international/shintaphu-glacial-lake-bursting-gasa-tshachu-hot-springs/article71643533.ece"
+      }
+    }
+  ]
+}
