@@ -1,0 +1,788 @@
+{
+  "id": "daily-2026-10-31",
+  "type": "daily",
+  "date": "2026-10-31",
+  "title": "Current Affairs — 31 Oct 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-10-31-q1",
+      "question": "On November 1, 2026, elections are scheduled for eight civic bodies in which region?",
+      "options": [
+        "East Telangana",
+        "South Karnataka",
+        "West Kerala",
+        "North Andhra"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Eight civic bodies in North Andhra are scheduled for polls on November 1, 2026, despite anticipated inclement weather. Officials are preparing for a decent voter turnout.",
+      "background": "Civic body elections are crucial for local governance and are held periodically to elect representatives for municipal corporations, municipalities, and other local self-governing bodies. These elections directly impact local development and administration.",
+      "examRelevance": "Eight civic bodies in North Andhra = polls on November 1, 2026.",
+      "tags": [
+        "Andhra Pradesh",
+        "Civic polls",
+        "Elections",
+        "North Andhra"
+      ],
+      "source": {
+        "title": "Eight civic bodies in North Andhra ready for polls on Nov 1",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/eight-civic-bodies-in-north-andhra-ready-for-polls-on-nov-1/article71648151.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q2",
+      "question": "The G20 Foreign Ministers' meeting recently concluded without consensus on key issues in which city?",
+      "options": [
+        "Geneva",
+        "Brussels",
+        "New York",
+        "Atlanta"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The G20 Foreign Ministers' meeting in Atlanta concluded without a consensus on key issues, primarily due to divisions over Russia’s war with Ukraine. U.S. Secretary of State Marco Rubio was expected to release a chairman’s statement instead of a joint communique.",
+      "background": "The G20 (Group of Twenty) is an intergovernmental forum comprising 19 countries and the European Union, working to address major issues related to the global economy, such as international financial stability, climate change mitigation, and sustainable development. Lack of consensus at such high-level meetings highlights significant geopolitical tensions.",
+      "examRelevance": "G20 Foreign Ministers' meeting = Atlanta, concluded without consensus.",
+      "tags": [
+        "G20",
+        "Foreign Ministers",
+        "Atlanta",
+        "International Relations"
+      ],
+      "source": {
+        "title": "G20 foreign ministers to end Atlanta meeting without consensus on key issues",
+        "url": "https://www.thehindu.com/news/international/g20-foreign-ministers-to-end-atlanta-meeting-without-consensus-on-key-issues/article71648418.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q3",
+      "question": "A bandh called by sugarcane farmers in Karnataka recently led to road blockades and protests primarily in which district?",
+      "options": [
+        "Mysuru",
+        "Mangaluru",
+        "Belagavi",
+        "Hubballi"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Sugarcane farmers in Karnataka called for a bandh, leading to road blockades and protests primarily in the Belagavi district. Neighboring districts remained largely unaffected by the protest.",
+      "background": "Farmer protests are common in India, often stemming from issues such as minimum support prices, payment delays, or policy changes affecting agricultural produce. Sugarcane farmers frequently protest for fair and timely payments from sugar mills.",
+      "examRelevance": "Karnataka sugarcane farmers' bandh = Belagavi district.",
+      "tags": [
+        "Karnataka",
+        "Farmers",
+        "Protest",
+        "Belagavi",
+        "Sugarcane"
+      ],
+      "source": {
+        "title": "Karnataka bandh called by sugarcane farmers hits Belagavi, but neighbouring districts unaffected",
+        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-bandh-called-by-sugarcane-farmers-hits-belagavi-but-neighbouring-districts-unaffected/article71648463.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q4",
+      "question": "The INDIA bloc is scheduled to hold a rally on November 1, 2026, at which prominent venue in New Delhi?",
+      "options": [
+        "Ramlila Maidan",
+        "Jantar Mantar",
+        "India Gate",
+        "Rajpath"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The INDIA bloc is scheduled to hold a rally at Ramlila Maidan in New Delhi on November 1, 2026. The protest is against CEC Gyanesh Kumar, with the bloc asserting unity in their demonstrations.",
+      "background": "Ramlila Maidan is a historic ground in Delhi, frequently used for large public gatherings, political rallies, and protests due to its capacity and central location. It has been the site of many significant movements in Indian political history.",
+      "examRelevance": "INDIA bloc rally on Nov 1, 2026 = Ramlila Maidan, New Delhi.",
+      "tags": [
+        "INDIA bloc",
+        "Rally",
+        "New Delhi",
+        "Ramlila Maidan",
+        "Protest"
+      ],
+      "source": {
+        "title": "Traffic curbs in Delhi for INDIA bloc rally at Ramlila Maidan on November 1 | LIVE",
+        "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q5",
+      "question": "BRS working president KTR recently questioned the proposed disinvestment and sale of which bank?",
+      "options": [
+        "IDBI Bank",
+        "ICICI Bank",
+        "Axis Bank",
+        "HDFC Bank"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "BRS working president KTR recently questioned the proposed disinvestment and sale of IDBI Bank. He sought clarification on whether its valuable real estate assets were factored into the valuation and why concerns raised by employees were not addressed.",
+      "background": "Disinvestment refers to the government selling its assets, usually shares of Public Sector Undertakings (PSUs). The sale of IDBI Bank is part of the government's broader disinvestment strategy to raise revenue and improve efficiency in PSUs.",
+      "examRelevance": "KTR questioned proposed sale = IDBI Bank.",
+      "tags": [
+        "KTR",
+        "IDBI Bank",
+        "Disinvestment",
+        "Economy",
+        "Banking"
+      ],
+      "source": {
+        "title": "KTR questions proposed sale of IDBI Bank, asks if its valuable real estate assets were factored in valuation",
+        "url": "https://www.thehindu.com/news/national/telangana/ktr-questions-proposed-sale-of-idbi-bank-asks-if-its-valuable-real-estate-assets-were-factored-in-valuation/article71648264.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q6",
+      "question": "An operation is currently underway to recover bodies from a remote chopper crash site in which Indian state?",
+      "options": [
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Sikkim",
+        "Jammu & Kashmir"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "An operation is currently underway in Uttarakhand to recover bodies from a remote chopper crash site. Teams from the forest department, Aircraft Accident Investigation Bureau, and DGCA have been dispatched to the location.",
+      "background": "Helicopter crashes in mountainous regions can be challenging due to difficult terrain and adverse weather conditions, often requiring specialized rescue and recovery efforts involving multiple agencies.",
+      "examRelevance": "Chopper crash site = Uttarakhand.",
+      "tags": [
+        "Uttarakhand",
+        "Chopper crash",
+        "Rescue operation"
+      ],
+      "source": {
+        "title": "Operation underway to recover bodies from remote chopper crash site in Uttarakhand",
+        "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-badrinath-helicopter-crash-rescue-operations-updates-october-31-2026/article71648464.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q7",
+      "question": "Sanjay Gupta, who recently passed away, was a prominent personality in which field?",
+      "options": [
+        "Filmmaking",
+        "Sports",
+        "Science",
+        "Politics"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Bollywood director and producer Sanjay Gupta, known for films such as Shootout at Lokhandwala, Zinda, and Kaante, recently passed away. He began his career with Aatish: Feel the Fire.",
+      "background": "Sanjay Gupta was a notable filmmaker in the Hindi film industry, often associated with action and crime dramas. His directorial work, particularly Kaante, received critical acclaim for its multi-star cast and heist theme.",
+      "examRelevance": "Filmmaker Sanjay Gupta = passed away.",
+      "tags": [
+        "Sanjay Gupta",
+        "Filmmaker",
+        "Bollywood",
+        "Obituaries"
+      ],
+      "source": {
+        "title": "Filmmaker Sanjay Gupta passes away",
+        "url": "https://economictimes.indiatimes.com/news/india/filmmaker-sanjay-gupta-known-for-mumbai-underworld-dramas-passes-away/articleshow/135391413.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q8",
+      "question": "The ABVP recently held a ‘Save Democracy’ march amid the SIR row in which city?",
+      "options": [
+        "Bhopal",
+        "Lucknow",
+        "Jaipur",
+        "Patna"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The ABVP (Akhil Bharatiya Vidyarthi Parishad) recently held a ‘Save Democracy’ march in Patna, Bihar, amidst the SIR (Special Intensive Revision) row. ABVP National Secretary Abhay Pratap Singh stated that attempts to pressurize constitutional institutions are unacceptable.",
+      "background": "The ABVP is a right-wing all-India student organization affiliated with the Rashtriya Swayamsevak Sangh (RSS). It frequently organizes protests and campaigns on issues related to education, governance, and national integrity.",
+      "examRelevance": "ABVP ‘Save Democracy’ march = Patna.",
+      "tags": [
+        "ABVP",
+        "Patna",
+        "Protest",
+        "Save Democracy",
+        "Bihar"
+      ],
+      "source": {
+        "title": "ABVP holds ‘Save Democracy’ march in Patna amid SIR row",
+        "url": "https://www.thehindu.com/news/national/bihar/abvp-protest-in-patna-bihar-save-democracy-sir-row/article71645389.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q9",
+      "question": "Jadu, the lone rhino affectionately known as Shambhu, recently passed away at the age of 39 in which zoo?",
+      "options": [
+        "Thiruvananthapuram Zoo",
+        "Mysuru Zoo",
+        "Indore Zoo",
+        "Chennai Zoo"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Jadu, the lone rhino at the Thiruvananthapuram zoo, affectionately called Shambhu by the staff, passed away at the age of 39. Rhinos are a vulnerable species, and their deaths in captivity are significant for conservation efforts.",
+      "background": "The Indian rhinoceros (Rhinoceros unicornis) is listed as Vulnerable on the IUCN Red List. Zoos play a role in conservation, breeding programs, and public awareness about endangered species.",
+      "examRelevance": "Jadu the rhino = Thiruvananthapuram Zoo = passed away.",
+      "tags": [
+        "Jadu",
+        "Rhino",
+        "Thiruvananthapuram Zoo",
+        "Obituaries",
+        "Kerala"
+      ],
+      "source": {
+        "title": "Jadu, lone rhino at Thiruvananthapuram zoo, dead",
+        "url": "https://www.thehindu.com/news/national/kerala/jadu-lone-rhino-at-thiruvananthapuram-zoo-dead/article71648414.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q10",
+      "question": "Which Indian state has recently placed a three-year moratorium on granting permission for new private PU (Pre-University) colleges?",
+      "options": [
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Maharashtra"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Karnataka has placed a three-year moratorium on granting permission for new private PU colleges. This decision was made because the number of seats available in I PU colleges has been increasing annually, outpacing the number of students passing SSLC exams.",
+      "background": "Pre-University colleges in India offer education for the 11th and 12th standards, acting as a bridge between high school and undergraduate studies. Moratoriums like this are often implemented to address issues of oversupply, quality control, or resource allocation in the education sector.",
+      "examRelevance": "Karnataka = three-year moratorium on new private PU colleges.",
+      "tags": [
+        "Karnataka",
+        "Education",
+        "PU Colleges",
+        "Moratorium",
+        "Government Policy"
+      ],
+      "source": {
+        "title": "Karnataka places three-year moratorium on permission for new private PU colleges",
+        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-places-three-year-moratorium-on-permission-for-new-private-pu-colleges/article71645452.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q11",
+      "question": "The Crime Branch in Kerala recently indicted the chairperson and members of which institution on charges of corruption and political favouritism in an exam fraud case?",
+      "options": [
+        "Kerala State Election Commission",
+        "Kerala Public Service Commission",
+        "Kerala State Women's Commission",
+        "Kerala State Human Rights Commission"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Crime Branch in Kerala recently indicted the chairperson and members of the Kerala Public Service Commission (PSC) on charges of corruption and political favouritism. The FIR alleges criminal breach of trust and wrongful employment of authority to favour specific candidates in the Fisheries Extension Officer rank list.",
+      "background": "Public Service Commissions are constitutional bodies responsible for recruiting candidates to various government services. Allegations of corruption and favouritism undermine public trust in these institutions and the fairness of the recruitment process.",
+      "examRelevance": "Kerala Crime Branch indictment = Kerala Public Service Commission (PSC).",
+      "tags": [
+        "Kerala",
+        "PSC",
+        "Exam fraud",
+        "Corruption",
+        "Crime Branch"
+      ],
+      "source": {
+        "title": "Keralam PSC exam fraud: Crime Branch indicts chairperson, members on charges of corruption, political favouritism",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-psc-exam-fraud-crime-branch-indicts-chairperson-members-on-charges-of-corruption-political-favouritism/article71648404.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q12",
+      "question": "S Naren, who cautioned investors against 'anti-asset allocation' at the ET Wealth Expo, holds which position at ICICI Prudential Mutual Fund?",
+      "options": [
+        "Chief Financial Officer",
+        "Chief Investment Officer",
+        "Head of Research",
+        "Chief Executive Officer"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "S Naren, Chief Investment Officer of ICICI Prudential Mutual Fund, cautioned investors against 'anti-asset allocation' at the ET Wealth Expo in Mumbai. He advised resisting the temptation to buy assets that have already delivered spectacular returns.",
+      "background": "'Anti-asset allocation' as described by S Naren refers to the tendency of investors to rush into assets after they have already rallied significantly, often missing the optimal entry point. Asset allocation is a key investment strategy to balance risk and reward by adjusting the percentage of various assets in a portfolio.",
+      "examRelevance": "S Naren = Chief Investment Officer (CIO) of ICICI Prudential Mutual Fund.",
+      "tags": [
+        "S Naren",
+        "ICICI Prudential",
+        "Mutual Fund",
+        "ET Wealth Expo",
+        "Investment"
+      ],
+      "source": {
+        "title": "ET Wealth Expo: Why market veteran S Naren thinks investors are getting gold, silver and asset allocation all wrong",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-why-market-veteran-s-naren-thinks-investors-are-getting-gold-silver-and-asset-allocation-all-wrong/articleshow/135391370.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q13",
+      "question": "The India Meteorological Department (IMD) recently reported that a low-pressure system over the Andaman Sea is expected to concentrate into a depression off the coast of which Indian state?",
+      "options": [
+        "Andhra Pradesh",
+        "West Bengal",
+        "Tamil Nadu",
+        "Odisha"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The India Meteorological Department (IMD) reported that a well-marked low-pressure system over the Andaman Sea, centered near the southeast Bay of Bengal, is expected to concentrate into a depression off the coast of Andhra Pradesh by night.",
+      "background": "Low-pressure systems are common precursors to cyclonic storms in the Bay of Bengal, especially during the post-monsoon season (October-December). These systems can bring heavy rainfall, strong winds, and coastal impacts to eastern Indian states.",
+      "examRelevance": "Low pressure from Andaman Sea = expected to become depression off Andhra Pradesh.",
+      "tags": [
+        "IMD",
+        "Andaman Sea",
+        "Low Pressure",
+        "Depression",
+        "Andhra Pradesh",
+        "Weather"
+      ],
+      "source": {
+        "title": "Low pressure over Andaman Sea intensifies further",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-over-andaman-sea-intensifies-further/article71648201.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q14",
+      "question": "Former U.S. President Donald Trump recently reinstated two rallies, after cancelling them, in which two states as part of his midterms campaign?",
+      "options": [
+        "Ohio and Pennsylvania",
+        "California and Florida",
+        "New York and Texas",
+        "Kansas and Iowa"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Former U.S. President Donald Trump reinstated two rallies in Kansas and Iowa, a day after cancelling them, during the turbulent end to his midterms campaign. He expressed confidence in Republicans having a 'shot' in the elections.",
+      "background": "U.S. midterm elections are held midway through a President's four-year term, determining control of Congress. They are often seen as a referendum on the incumbent President's policies and can significantly impact the political agenda for the latter half of the term.",
+      "examRelevance": "Donald Trump reinstated midterms rallies = Kansas and Iowa.",
+      "tags": [
+        "Donald Trump",
+        "US Midterms",
+        "Rallies",
+        "Kansas",
+        "Iowa"
+      ],
+      "source": {
+        "title": "Trump backtracks on rallies in turbulent end to midterms campaign",
+        "url": "https://www.thehindu.com/news/international/trump-backtracks-on-rallies-in-turbulent-end-to-midterms-campaign/article71648419.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q15",
+      "question": "Which Indian smartphone brand has announced plans to increase its smartphone prices by up to ₹3,000?",
+      "options": [
+        "Intex",
+        "Lava",
+        "Karbonn",
+        "Micromax"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Indian smartphone brand Lava has announced plans to increase its smartphone prices by up to ₹3,000. The company primarily serves the sub-₹30,000 price category, focusing on budget and mid-segment devices.",
+      "background": "Smartphone prices can be influenced by various factors, including global component costs, supply chain disruptions, currency fluctuations, and changes in government tariffs or taxes. Price adjustments by manufacturers reflect these market dynamics.",
+      "examRelevance": "Lava = increasing smartphone prices by up to ₹3,000.",
+      "tags": [
+        "Lava",
+        "Smartphones",
+        "Price hike",
+        "Technology",
+        "Indian brand"
+      ],
+      "source": {
+        "title": "Lava to increase smartphone prices by up to ₹3,000",
+        "url": "https://www.thehindu.com/sci-tech/technology/gadgets/lava-to-increase-smartphone-prices-by-up-to-3000/article71648438.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q16",
+      "question": "To overcome technical hurdles, ISRO recently flew which satellite with its pyro valves intentionally kept open during its launch?",
+      "options": [
+        "NVS-02",
+        "NVS-04",
+        "NVS-03",
+        "NVS-01"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "ISRO flew the NVS-03 satellite with its pyro valves intentionally kept open to overcome technical hurdles during its launch. Pyro valves are crucial components in spacecraft propulsion systems.",
+      "background": "The NVS series of satellites are part of India's navigation constellation, NavIC (Navigation with Indian Constellation). The NVS-02 mission, the second in the series, was a failure, making the successful deployment of NVS-03 critical for restoring and enhancing NavIC's functionality.",
+      "examRelevance": "ISRO's NVS-03 satellite = flown with pyro valves open.",
+      "tags": [
+        "ISRO",
+        "NVS-03",
+        "Satellite",
+        "Pyro valves",
+        "NavIC",
+        "Space technology"
+      ],
+      "source": {
+        "title": "To overcome technical hurdles, ISRO flew NVS-03 satellite with pyro valves open: Narayanan",
+        "url": "https://www.thehindu.com/sci-tech/science/to-overcome-technical-hurdles-isro-flew-nvs-03-satellite-with-pyro-valves-open-narayanan/article71648408.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q17",
+      "question": "Union Home Minister Amit Shah recently stated that the BJP would bring the Uniform Civil Code (UCC) in which state if voted to power again?",
+      "options": [
+        "Assam",
+        "Gujarat",
+        "Uttar Pradesh",
+        "Madhya Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Union Home Minister Amit Shah recently stated that the BJP would bring the Uniform Civil Code (UCC) in Uttar Pradesh if the party is voted to power again in the state. He challenged opposition leaders for a debate on the issue.",
+      "background": "The Uniform Civil Code (UCC) is a proposed legislation in India that would replace personal laws based on the scriptures and customs of various religious communities with a common set of laws governing every citizen. It is a directive principle of state policy under Article 44 of the Constitution.",
+      "examRelevance": "Amit Shah's statement = BJP to bring UCC in Uttar Pradesh.",
+      "tags": [
+        "Amit Shah",
+        "Uniform Civil Code",
+        "UCC",
+        "Uttar Pradesh",
+        "BJP",
+        "Polity"
+      ],
+      "source": {
+        "title": "Uniform Civil Code in U.P. if BJP voted to power again: Amit Shah",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-will-bring-ucc-in-uttar-pradesh-if-voted-to-power-again-says-amit-shah/article71644484.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q18",
+      "question": "Which state government has recently extended its 'Instant pension' facility beyond the old-age pension category to include families of persons with disabilities, toddy tappers, and others?",
+      "options": [
+        "Karnataka",
+        "Andhra Pradesh",
+        "Kerala",
+        "Telangana"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Telangana government has extended its 'Instant pension' facility beyond the old-age pension category for women. The decision will benefit families of persons with disabilities, toddy tappers, handloom weavers, dialysis patients, and those affected by HIV and filariasis.",
+      "background": "Social security schemes like instant pensions are crucial for providing financial support to vulnerable sections of society. Extending such benefits aims to improve the living standards and economic stability of marginalized groups.",
+      "examRelevance": "Telangana = extended 'Instant pension' facility.",
+      "tags": [
+        "Telangana",
+        "Instant pension",
+        "Social welfare",
+        "Government scheme"
+      ],
+      "source": {
+        "title": "Telangana extends ‘Instant pension’ facility beyond old-age pension category for women",
+        "url": "https://www.thehindu.com/news/national/telangana/telangana-extends-instant-pension-facility-beyond-old-age-pension-category-for-women/article71648155.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q19",
+      "question": "The second phase of Census 2027 is set to launch on December 1, 2026, in Uttar Pradesh and three other poll-bound states. How many new questions will require longer, more sensitive interviews?",
+      "options": [
+        "50",
+        "30",
+        "40",
+        "20"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The second phase of Census 2027 is set to launch on December 1, 2026. Field trainers are briefing approximately 34 lakh enumerators on 40 new questions that will require longer, more sensitive interviews, covering details such as caste, religion, Aadhaar access, and parents’ information.",
+      "background": "The Census is a vital exercise for collecting demographic and socio-economic data, essential for policy formulation, resource allocation, and planning. The inclusion of new questions indicates evolving data needs for comprehensive national planning.",
+      "examRelevance": "Census 2027 second phase = 40 new questions = launches Dec 1, 2026.",
+      "tags": [
+        "Census 2027",
+        "Data collection",
+        "Government",
+        "Uttar Pradesh",
+        "Enumerators"
+      ],
+      "source": {
+        "title": "Census 2027: What are the new questions, and how are enumerators being trained? | Explained",
+        "url": "https://www.thehindu.com/news/national/what-are-the-new-questions-in-2027-census-and-how-are-enumerators-being-trained-explained/article71648192.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q20",
+      "question": "External Affairs Minister Jaishankar and his Canadian counterpart Anita Anand recently agreed that Prime Minister Modi's visit in December would be 'another building block' for bilateral relations. To which country is PM Modi scheduled to visit in December?",
+      "options": [
+        "France",
+        "Canada",
+        "Australia",
+        "Germany"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "External Affairs Minister Jaishankar met Canadian counterpart Anita Anand in Atlanta on the sidelines of the G20 Foreign Ministers’ Meeting. They agreed that Prime Minister Modi’s visit to Canada in December would serve as 'another building block' for strengthening bilateral relations.",
+      "background": "High-level visits between heads of state or government are crucial for diplomatic engagement, fostering economic ties, and addressing shared global challenges. Such visits often result in agreements and collaborations across various sectors.",
+      "examRelevance": "PM Modi's December visit = Canada.",
+      "tags": [
+        "PM Modi",
+        "Canada",
+        "Jaishankar",
+        "International Relations",
+        "Bilateral Visit"
+      ],
+      "source": {
+        "title": "Jaishankar, Anita Anand agree that Modi’s Canada visit in December will be ‘another building block’",
+        "url": "https://www.thehindu.com/news/national/jaishankar-bilateral-meetings-with-foreign-ministers-from-g20-nations/article71648061.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q21",
+      "question": "The New Delhi-Varanasi Vande Bharat Sleeper train was recently launched, connecting these two major cities. Which other cities does this new service connect?",
+      "options": [
+        "Kolkata and Patna",
+        "New Delhi and Varanasi",
+        "Bengaluru and Chennai",
+        "Mumbai and Ahmedabad"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The New Delhi-Varanasi Vande Bharat Sleeper train was recently launched, connecting the capital city with Varanasi. This new service aims to enhance connectivity and comfort for passengers on this route.",
+      "background": "Vande Bharat Express trains are India's semi-high-speed electric multiple units, designed for modern amenities and faster travel. The introduction of a sleeper version expands its utility for longer overnight journeys, promoting rail modernization.",
+      "examRelevance": "New Vande Bharat Sleeper launched = New Delhi-Varanasi route.",
+      "tags": [
+        "Vande Bharat",
+        "Sleeper train",
+        "New Delhi",
+        "Varanasi",
+        "Indian Railways",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "New Delhi-Varanasi Vande Bharat Sleeper launched",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/railways/new-delhi-varanasi-vande-bharat-sleeper-launched-check-timings-stoppages-ticket-prices-pm-modi-says-it-will-connect-faith-with-modernity/articleshow/135390877.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q22",
+      "question": "Which country recently rescued 25 individuals from a burning ship, while another country halted tankers in the region?",
+      "options": [
+        "UAE",
+        "Oman",
+        "Saudi Arabia",
+        "Qatar"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Oman recently rescued 25 individuals from a burning ship. Separately, Iran restricted maritime traffic through a strait since the West Asia war erupted on February 28, following U.S.-Israeli strikes on the Islamic republic.",
+      "background": "Maritime rescue operations are critical in busy shipping lanes, often requiring international cooperation. The halting of tankers by Iran highlights the geopolitical tensions and their impact on global shipping and energy routes.",
+      "examRelevance": "Oman = rescued 25 from burning ship.",
+      "tags": [
+        "Oman",
+        "Ship rescue",
+        "Maritime",
+        "Iran",
+        "West Asia"
+      ],
+      "source": {
+        "title": "Oman rescues 25 from burning ship, Iran halts tankers",
+        "url": "https://www.thehindu.com/news/international/oman-rescues-25-from-burning-ship-iran-halts-tankers/article71648359.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q23",
+      "question": "A theft case convict, Raghavan, recently escaped from police custody before being lodged in the Central Prison of which city in Tamil Nadu?",
+      "options": [
+        "Coimbatore",
+        "Chennai",
+        "Madurai",
+        "Salem"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "A theft case convict named Raghavan recently escaped from police custody before being lodged in Coimbatore Central Prison in Tamil Nadu. This marks the second time Raghavan has escaped from custody, leading to the suspension of four police personnel.",
+      "background": "Escapes from police custody highlight issues with security protocols, staff vigilance, and potentially overcrowding in detention facilities. Such incidents often trigger internal investigations and reviews of security measures.",
+      "examRelevance": "Convict escaped from police custody = Coimbatore Central Prison.",
+      "tags": [
+        "Coimbatore",
+        "Tamil Nadu",
+        "Police custody",
+        "Escape",
+        "Raghavan"
+      ],
+      "source": {
+        "title": "Man escapes from police custody before being lodged in Coimbatore Central Prison",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/convict-escapes-from-police-custody-before-being-lodged-in-coimbatore-central-prison/article71648346.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q24",
+      "question": "The Home Minister of Kerala, Ramesh Chennithala, recently warned of a crackdown on intoxicated driving following a rise in accident deaths. Which portfolio does Ramesh Chennithala hold in the Kerala government?",
+      "options": [
+        "Home Minister",
+        "Health Minister",
+        "Education Minister",
+        "Finance Minister"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Kerala Home Minister Ramesh Chennithala recently warned of a crackdown on intoxicated driving, stating that accidents caused by such drivers claiming innocent lives have become widespread in the state. He visited the family of a crash victim to express condolences.",
+      "background": "Road safety is a significant public health and law enforcement concern in India. Ministers often issue warnings and initiate campaigns to curb dangerous driving practices, especially those related to driving under the influence of alcohol or drugs.",
+      "examRelevance": "Ramesh Chennithala = Kerala Home Minister.",
+      "tags": [
+        "Kerala",
+        "Ramesh Chennithala",
+        "Home Minister",
+        "Road safety",
+        "Intoxicated driving"
+      ],
+      "source": {
+        "title": "Amid accident deaths, Keralam Home Minister Ramesh Chennithala warns of crackdown on intoxicated driving",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-home-minister-ramesh-chennithala-warns-of-crackdown-on-intoxicated-driving/article71648253.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q25",
+      "question": "A Punjab native settled in Canada was recently detained for flying a drone illegally in a high-sensitive area near a synagogue in which Indian state?",
+      "options": [
+        "Goa",
+        "West Bengal",
+        "Kerala",
+        "Gujarat"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "A 66-year-old Punjab native, settled in Canada, was detained for flying a drone illegally in a high-sensitive area near a synagogue in Ernakulam, Kerala. He was later released after being served a notice.",
+      "background": "Drone regulations are increasingly strict in sensitive areas, especially near religious sites, government buildings, or borders, due to security concerns. This incident comes after an alleged arson attack on the Kadavumbhagam Synagogue.",
+      "examRelevance": "Illegal drone flight near synagogue = Ernakulam, Kerala.",
+      "tags": [
+        "Kerala",
+        "Drone",
+        "Illegal flight",
+        "Ernakulam",
+        "Security"
+      ],
+      "source": {
+        "title": "Punjab native detained for flying drone illegally in high-sensitive area near synagogue in Keralam",
+        "url": "https://www.thehindu.com/news/national/kerala/punjab-native-detained-for-flying-drone-illegally-in-high-sensitive-area-near-synagogue-in-keralam/article71648361.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q26",
+      "question": "The state of Gujarat is undertaking a tourism makeover project with an estimated budget of approximately how much?",
+      "options": [
+        "₹426 crore",
+        "₹526 crore",
+        "₹226 crore",
+        "₹326 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "Gujarat is undertaking a significant tourism makeover project with an estimated budget of approximately ₹426 crore. This initiative includes various developments like a rainforest project, cruise services, and new gardens.",
+      "background": "States often invest in tourism infrastructure and promotions to attract visitors, boost local economies, and create employment opportunities. Gujarat has been actively promoting its tourism, including sites like the Statue of Unity.",
+      "examRelevance": "Gujarat tourism makeover = ₹426 crore budget.",
+      "tags": [
+        "Gujarat",
+        "Tourism",
+        "Makeover",
+        "Infrastructure",
+        "Development"
+      ],
+      "source": {
+        "title": "Inside Gujarat's Rs 426 cr tourism makeover",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/inside-gujarats-rs-426-cr-tourism-makeover-rs-14-3-cr-rain-forest-rs-16-cr-cruise-rs-50-cr-irctc-hotel-rs-5-79-cr-cactus-butterfly-garden/articleshow/135389818.cms"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q27",
+      "question": "In a new social media trial, Meta recently settled, leaving which company as the sole defendant?",
+      "options": [
+        "Pinterest",
+        "Snap",
+        "TikTok",
+        "X (formerly Twitter)"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Meta recently settled in a new social media trial, leaving Snap as the sole defendant. Jury selection for the trial began on Wednesday, with opening statements scheduled for November 4.",
+      "background": "Social media companies often face lawsuits regarding various issues, including data privacy, content moderation, and competitive practices. Settlements are common ways to resolve such legal disputes without proceeding to a full trial.",
+      "examRelevance": "Meta settled in social media trial = Snap is sole defendant.",
+      "tags": [
+        "Meta",
+        "Snap",
+        "Social Media",
+        "Lawsuit",
+        "Technology"
+      ],
+      "source": {
+        "title": "Meta settles, leaving Snap sole defendant in new social media trial",
+        "url": "https://www.thehindu.com/sci-tech/technology/meta-settles-leaving-snap-sole-defendant-in-new-social-media-trial/article71648162.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q28",
+      "question": "October 31 is observed annually as National Unity Day to commemorate the birth anniversary of which Indian leader?",
+      "options": [
+        "Sardar Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi"
+      ],
+      "answerIndex": 0,
+      "category": "Dates & Days",
+      "explanation": "October 31 is observed every year as National Unity Day (Rashtriya Ekta Diwas) to commemorate the birth anniversary of Sardar Vallabhbhai Patel. Prime Minister Modi recently offered floral tributes to him at the Statue of Unity.",
+      "background": "Sardar Patel, often called the \"Iron Man of India,\" played a pivotal role in integrating over 560 princely states into the Indian Union after independence, a monumental task that solidified India's territorial integrity.",
+      "examRelevance": "October 31 = National Unity Day = Sardar Vallabhbhai Patel's birth anniversary.",
+      "tags": [
+        "National Unity Day",
+        "Sardar Patel",
+        "October 31",
+        "Dates",
+        "History"
+      ],
+      "source": {
+        "title": "PM Modi offers floral tributes to Sardar Patel at Statue of Unity",
+        "url": "https://www.thehindu.com/news/national/pm-modi-pays-floral-tributes-to-sardar-patel-at-the-statue-of-unity-on-national-unity-day/article71648293.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q29",
+      "question": "Which artificial intelligence company has announced plans to limit practical information on weapons for teens on its ChatGPT platform as part of a violence-prevention push?",
+      "options": [
+        "Microsoft",
+        "OpenAI",
+        "IBM",
+        "Google"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "OpenAI has announced plans to limit practical information on weapons and security systems that could be misused, specifically for teens on its ChatGPT platform. This initiative is part of a broader violence-prevention push.",
+      "background": "AI companies are increasingly facing scrutiny over the ethical implications and potential misuse of their technologies. Implementing content restrictions, especially concerning sensitive topics like weapons, reflects efforts to ensure responsible AI development and deployment.",
+      "examRelevance": "OpenAI = ChatGPT = limit weapons information for teens.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "AI",
+        "Content moderation",
+        "Violence prevention",
+        "Technology"
+      ],
+      "source": {
+        "title": "OpenAI to limit weapons information for teens on ChatGPT in violence-prevention push",
+        "url": "https://www.thehindu.com/sci-tech/technology/openai-to-limit-weapons-information-for-teens-on-chatgpt-in-violence-prevention-push/article71648166.ece"
+      }
+    },
+    {
+      "id": "daily-2026-10-31-q30",
+      "question": "The 2026-27 El Niño is projected to be a ferocious event, peaking with a temperature anomaly of approximately how much?",
+      "options": [
+        "2.6°C",
+        "2.1°C",
+        "3.8°C",
+        "4.2°C"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "The 2026-27 El Niño is projected to be a ferocious event, thanks to record Pacific heat, and is expected to peak with a temperature anomaly of approximately 3.8°C. This would make it stronger than the three previous very strong El Niño events recorded since the modern era.",
+      "background": "El Niño is a climate pattern characterized by unusual warming of surface waters in the eastern tropical Pacific Ocean. It can significantly impact global weather patterns, leading to extreme events like droughts, floods, and changes in ocean ecosystems worldwide.",
+      "examRelevance": "2026-27 El Niño = projected peak temperature anomaly of 3.8°C.",
+      "tags": [
+        "El Niño",
+        "Climate Change",
+        "Environment",
+        "Pacific Ocean",
+        "Temperature anomaly"
+      ],
+      "source": {
+        "title": "A ferocious El Niño is brewing thanks to record Pacific heat",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece"
+      }
+    }
+  ]
+}
