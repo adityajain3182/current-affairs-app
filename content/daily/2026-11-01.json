@@ -1,0 +1,761 @@
+{
+  "id": "daily-2026-11-01",
+  "type": "daily",
+  "date": "2026-11-01",
+  "title": "Current Affairs — 01 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-01-q1",
+      "question": "Where did the INDIA bloc recently hold a 'Chalo Dilli' protest march demanding the removal of Chief Election Commissioner Gyanesh Kumar?",
+      "options": [
+        "Jantar Mantar",
+        "Parliament House",
+        "Ramlila Maidan",
+        "India Gate"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The INDIA bloc leaders, including Sonia Gandhi, Rahul Gandhi, and Mamata Banerjee, held a 'Chalo Dilli' protest march at Ramlila Maidan, Delhi, on November 1, 2026. The protest demanded the removal of Chief Election Commissioner Gyanesh Kumar, accusing him of alleged deletion of voter names from electoral rolls.",
+      "background": "The protest was a symbolic 'public impeachment' of CEC Gyanesh Kumar, reflecting concerns raised by the opposition regarding the functioning of the Election Commission of India. Opposition leaders termed it a political weapon against those they believe colluded to destroy votes.",
+      "examRelevance": "INDIA bloc's 'Chalo Dilli' protest was held at Ramlila Maidan, demanding CEC Gyanesh Kumar's removal.",
+      "tags": [
+        "INDIA bloc",
+        "Ramlila Maidan",
+        "CEC Gyanesh Kumar",
+        "Protest"
+      ],
+      "source": {
+        "title": "Sonia, Rahul Gandhi, Mamata Banerjee among INDIA bloc leaders marching to Ramlila Maidan, demanding CEC's removal | LIVE",
+        "url": "https://www.thehindu.com/news/national/india-bloc-mega-delhi-rally-cec-gyanesh-kumar-impeachment-anti-cec-protests-sir-row-live-updates-november-1-2026/article71651970.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q2",
+      "question": "Urban local body elections recently witnessed clashes and vehicle torching in Pulivendula, Kadapa district. In which Indian state were these elections held?",
+      "options": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Telangana",
+        "Karnataka"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Urban local body elections were held in Andhra Pradesh on November 1, 2026. Prior to polling, fourteen vehicles were set on fire in Pulivendula, Kadapa district, due to clashes between TDP and YSRCP workers.",
+      "background": "The elections saw varying voter turnouts across different districts of Andhra Pradesh, with officials closely monitoring the situation with CCTV cameras and drones in anticipation of further clashes.",
+      "examRelevance": "Urban local body elections were held in Andhra Pradesh, with incidents reported in Pulivendula.",
+      "tags": [
+        "Andhra Pradesh",
+        "Urban Local Body Elections",
+        "Pulivendula",
+        "Clashes"
+      ],
+      "source": {
+        "title": "Andhra civic polls: TDP, YSRCP workers clash in Pulivendula; 22.08% turnout by 11 a.m. | LIVE",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-urban-local-body-elections-polling-municipalities-corporation-results-november-1-2026-live-updates/article71651965.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q3",
+      "question": "Who was the anti-drug crusader recently killed in Punjab, whose death has led to heightened public emotions and political attention?",
+      "options": [
+        "Navjot Singh Sidhu",
+        "Bhagwant Mann",
+        "Sukhbir Singh Badal",
+        "Parvinder Singh Jhota"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "Anti-drug crusader Parvinder Singh Jhota was recently killed in Punjab. His death has significantly heightened public emotions and brought the drug menace back to the centre of political and social attention in the state.",
+      "background": "The drug menace has been a persistent issue in Punjab for over a decade. With Assembly elections due in early 2027, political parties are reportedly looking to capitalize on the public sentiment surrounding this issue.",
+      "examRelevance": "Parvinder Singh Jhota, an anti-drug crusader, was recently killed in Punjab.",
+      "tags": [
+        "Punjab",
+        "Drug menace",
+        "Parvinder Singh Jhota",
+        "Current Affairs"
+      ],
+      "source": {
+        "title": "In Punjab, the highway to 2027",
+        "url": "https://www.thehindu.com/news/national/punjab/in-punjab-the-highway-to-2027/article71649073.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q4",
+      "question": "In which district of West Bengal did the State Task Force (STF) recently bust an interstate drug network, leading to four arrests?",
+      "options": [
+        "Malda",
+        "North 24 Parganas",
+        "Kolkata",
+        "Howrah"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "The West Bengal State Task Force (STF) recently busted an interstate drug network in the Malda district. Four individuals were apprehended in connection with this operation.",
+      "background": "Such busts are part of ongoing efforts by law enforcement agencies to combat the pervasive issue of drug trafficking across state borders.",
+      "examRelevance": "West Bengal STF busted an interstate drug network in Malda district.",
+      "tags": [
+        "West Bengal",
+        "STF",
+        "Malda",
+        "Drug network"
+      ],
+      "source": {
+        "title": "Four held from Malda as West Bengal STF busts interstate drug network",
+        "url": "https://www.thehindu.com/news/national/west-bengal/four-held-from-malda-as-west-bengal-stf-busts-interstate-drug-network/article71652327.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q5",
+      "question": "Which country recently warned Afghanistan, stating that terrorism is a 'red line' and threatening action against cross-border threats?",
+      "options": [
+        "Pakistan",
+        "India",
+        "China",
+        "Iran"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Pakistan's Ministry of Information and Broadcasting accused the Afghan Taliban leadership of refusing to address militancy emanating from Afghan soil. Pakistan issued a stern warning to Afghanistan on November 1, 2026, declaring terrorism a 'red line' and warning of action against cross-border threats.",
+      "background": "Pakistan has consistently raised concerns about militant groups operating from Afghanistan, which it claims are responsible for attacks within its borders. The Afghan Taliban, however, have often shifted blame, contributing to deteriorating bilateral ties.",
+      "examRelevance": "Pakistan warned Afghanistan, calling terrorism a 'red line'.",
+      "tags": [
+        "Pakistan",
+        "Afghanistan",
+        "Terrorism",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Terrorism is 'red line': Pakistan tells Afghanistan as it warns of action against cross-border threats",
+        "url": "https://www.thehindu.com/news/international/terrorism-is-red-line-pakistan-tells-afghanistan-as-it-warns-of-action-against-cross-border-threats/article71652279.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q6",
+      "question": "In which country are protesters demanding that the opposition ally with Arab-majority parties to oust the current Prime Minister?",
+      "options": [
+        "Lebanon",
+        "Jordan",
+        "Israel",
+        "Egypt"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Protesters in Israel are demanding that the opposition leader, Gadi Eisenkot, form a coalition with Arab-majority parties to oust Prime Minister Netanyahu. Arab-majority parties made significant gains in recent elections, fueled by anger over rhetoric from Netanyahu’s hard-right government.",
+      "background": "The political landscape in Israel is highly fragmented, and forming stable coalition governments often requires broad alliances. The inclusion of Arab-majority parties in a potential opposition coalition would mark a significant shift in Israeli politics.",
+      "examRelevance": "Israeli protesters are demanding opposition ally with Arab parties to oust Netanyahu.",
+      "tags": [
+        "Israel",
+        "Netanyahu",
+        "Arab parties",
+        "Protests"
+      ],
+      "source": {
+        "title": "Israeli protesters demand opposition ally with Arab parties to oust Netanyahu",
+        "url": "https://www.thehindu.com/news/international/israeli-protesters-demand-opposition-ally-with-arab-parties-to-oust-netanyahu/article71652323.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q7",
+      "question": "What was the total Gross GST collection in October 2026, as reported by The Hindu?",
+      "options": [
+        "₹72,246 crore",
+        "₹1.59 lakh crore",
+        "₹2.05 lakh crore",
+        "₹2.31 lakh crore"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Gross GST collections in October 2026 grew by 23% to over ₹2.31 lakh crore. This includes a 16% rise in domestic sales to over ₹1.59 lakh crore and a 42% climb in revenues from imports to ₹72,246 crore.",
+      "background": "GST collections are a key indicator of economic activity. The consistent growth in GST revenues reflects buoyant tax collections and stronger economic activity across the country.",
+      "examRelevance": "Gross GST collections in October 2026 reached over ₹2.31 lakh crore.",
+      "tags": [
+        "GST",
+        "Economy",
+        "Tax Collection",
+        "October 2026"
+      ],
+      "source": {
+        "title": "GST mop-up grows 23% to over ₹2.31 lakh cr. in October",
+        "url": "https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q8",
+      "question": "To which AIIMS hospital were the mortal remains of the six victims from the recent chopper crash in Uttarakhand sent for necessary formalities?",
+      "options": [
+        "AIIMS Rishikesh",
+        "AIIMS Bhopal",
+        "AIIMS Delhi",
+        "AIIMS Bhubaneswar"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "After a chopper crash in Uttarakhand, the mortal remains of all six victims were recovered. Following the completion of necessary formalities, these remains were transported by helicopter to the All India Institute of Medical Sciences (AIIMS), Rishikesh.",
+      "background": "Chopper crashes in mountainous regions like Uttarakhand often pose significant challenges for rescue and recovery operations due to difficult terrain and weather conditions. AIIMS Rishikesh serves as a crucial medical facility for the region.",
+      "examRelevance": "Mortal remains from Uttarakhand chopper crash sent to AIIMS Rishikesh.",
+      "tags": [
+        "Uttarakhand",
+        "Chopper crash",
+        "AIIMS Rishikesh",
+        "Accident"
+      ],
+      "source": {
+        "title": "Uttarakhand chopper crash: Mortal remains of all six victims recovered, sent to Rishikesh AIIMS",
+        "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-chopper-crash-mortal-remains-of-all-six-victims-recovered-sent-to-rishikesh-aiims/article71652291.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q9",
+      "question": "How many new POCSO Act courts will Tamil Nadu set up, bringing the total number of special courts across 47 police districts to 52?",
+      "options": [
+        "26",
+        "36",
+        "16",
+        "46"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Tamil Nadu has announced the establishment of 26 new POCSO Act courts and four NDPS courts. With the addition of these 26 courts, the total number of special courts across 47 police districts in the state will reach 52.",
+      "background": "The Protection of Children from Sexual Offences (POCSO) Act courts are crucial for expediting justice in cases involving child abuse. Increasing their number reflects a commitment to addressing such crimes more effectively.",
+      "examRelevance": "Tamil Nadu to set up 26 new POCSO Act courts, bringing total to 52.",
+      "tags": [
+        "Tamil Nadu",
+        "POCSO Act",
+        "Courts",
+        "Justice"
+      ],
+      "source": {
+        "title": "Tamil Nadu to set up 26 POCSO Act courts and four NDPS courts",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-to-set-up-26-pocso-act-courts-and-four-ndps-courts/article71652310.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q10",
+      "question": "Which Brazilian politician, facing federal money-laundering probes and having his passport revoked, was recently granted permission by Donald Trump to stay in the U.S.?",
+      "options": [
+        "Jair Bolsonaro",
+        "Flavio Bolsonaro",
+        "Luiz Inácio Lula da Silva",
+        "Dilma Rousseff"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Flavio Bolsonaro, son of former Brazilian President Jair Bolsonaro, is facing a pair of federal money-laundering probes in Brazil, leading to the revocation of his passport. Donald Trump recently stated that Flavio Bolsonaro can stay in the U.S. as long as he wants.",
+      "background": "Flavio Bolsonaro's decision to travel to the U.S. came after a Brazilian Supreme Court Justice revoked his passport, considering him a flight risk. This situation highlights ongoing legal challenges faced by the Bolsonaro family in Brazil.",
+      "examRelevance": "Donald Trump permitted Flavio Bolsonaro to stay in the U.S. amid Brazilian probes.",
+      "tags": [
+        "Flavio Bolsonaro",
+        "Donald Trump",
+        "Brazil",
+        "Money laundering"
+      ],
+      "source": {
+        "title": "Donald Trump says Flavio Bolsonaro can stay in U.S. as long as he wants amid Brazilian probes",
+        "url": "https://www.thehindu.com/news/international/donald-trump-says-flavio-bolsonaro-can-stay-in-us-as-long-as-he-wants-amid-brazilian-probes/article71652154.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q11",
+      "question": "Which seasoned Indian pacer returned to the playing XI for the fifth T20I match against New Zealand?",
+      "options": [
+        "Jasprit Bumrah",
+        "Bhuvneshwar Kumar",
+        "Arshdeep Singh",
+        "Mohammed Shami"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Seasoned pacer Bhuvneshwar Kumar returned to the playing XI for the fifth T20I against New Zealand. This marked one of two changes made by India for the final match of the series, with Varun Chakaravarthy also playing his first game on the tour.",
+      "background": "India had an unassailable 3-1 lead in the five-match T20I series against New Zealand before the final game. Such changes in the playing XI often occur in dead rubber matches or to test bench strength.",
+      "examRelevance": "Bhuvneshwar Kumar returned to India's playing XI for the 5th T20I against New Zealand.",
+      "tags": [
+        "Cricket",
+        "Bhuvneshwar Kumar",
+        "India vs New Zealand",
+        "T20I"
+      ],
+      "source": {
+        "title": "IND vs NZ fifth T20I: New Zealand opts to field against India",
+        "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-final-and-fifth-t20-international-in-hamilton/article71652282.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q12",
+      "question": "Which newspaper was recently sued by Donald Trump for $10 billion over a story detailing an alleged 2003 letter to Epstein, a lawsuit that was subsequently dismissed by a U.S. Judge?",
+      "options": [
+        "The Washington Post",
+        "The New York Times",
+        "USA Today",
+        "The Wall Street Journal"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "A U.S. Judge recently dismissed Donald Trump's $10 billion lawsuit against The Wall Street Journal. Trump had sued the newspaper over a July 2025 story detailing his alleged 2003 letter to Epstein, which reportedly featured a drawing of a naked woman.",
+      "background": "The 'Epstein Files' refer to documents and reports related to Jeffrey Epstein, a financier convicted of sex offenses. Legal battles surrounding these files often involve high-profile individuals and media organizations.",
+      "examRelevance": "U.S. Judge dismissed Donald Trump's $10 billion lawsuit against The Wall Street Journal.",
+      "tags": [
+        "Donald Trump",
+        "Wall Street Journal",
+        "Lawsuit",
+        "Epstein Files"
+      ],
+      "source": {
+        "title": "‘Epstein Files’: U.S. Judge dismisses Trump lawsuit against Wall Street Journal",
+        "url": "https://www.thehindu.com/news/international/epstein-files-us-judge-dismisses-trump-lawsuit-against-wall-street-journal-over-epstein-letter/article71652110.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q13",
+      "question": "How many newly-elected Independent MLCs in Bihar have recently announced their support for the BJP?",
+      "options": [
+        "Four",
+        "Three",
+        "Two",
+        "One"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Two newly-elected Independent MLCs in Bihar have recently declared their support for the BJP. Both these independent candidates had previously defeated Janata Dal-United (JD-U) candidates, who are a ruling alliance partner, from their respective constituencies.",
+      "background": "The support of independent members can be crucial in state legislative councils, especially in closely contested political landscapes. This development could potentially strengthen the BJP's position in Bihar's legislative council.",
+      "examRelevance": "Two Bihar Independent MLCs recently announced support for BJP.",
+      "tags": [
+        "Bihar",
+        "MLC",
+        "Independent Candidates",
+        "BJP"
+      ],
+      "source": {
+        "title": "Two newly-elected Bihar Independent MLCs now support BJP",
+        "url": "https://www.thehindu.com/news/national/bihar/two-newly-elected-bihar-independent-mlcs-now-support-bjp/article71652125.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q14",
+      "question": "Which of the following states celebrated its Foundation Day on November 1, 2026, alongside Madhya Pradesh, Chhattisgarh, Haryana, and Karnataka?",
+      "options": [
+        "Tamil Nadu",
+        "Odisha",
+        "Gujarat",
+        "Rajasthan"
+      ],
+      "answerIndex": 0,
+      "category": "Dates & Days",
+      "explanation": "On November 1, 2026, Prime Minister Modi extended greetings to the people of six states celebrating their Foundation Day. These states are Madhya Pradesh, Chhattisgarh, Haryana, Karnataka, Tamil Nadu, and Keralam.",
+      "background": "November 1 is significant in India's history as it marks the formation or reorganization of several states. For instance, Madhya Pradesh, Chhattisgarh, Haryana, Karnataka, Kerala, and Tamil Nadu all have historical connections to this date, primarily due to the States Reorganisation Act of 1956.",
+      "examRelevance": "Tamil Nadu and Keralam celebrated Foundation Day on November 1, 2026.",
+      "tags": [
+        "Foundation Day",
+        "November 1",
+        "States of India",
+        "Tamil Nadu",
+        "Keralam"
+      ],
+      "source": {
+        "title": "PM Modi greets people of six States on foundation day",
+        "url": "https://www.thehindu.com/news/national/pm-modi-greets-people-of-six-states-on-foundation-day/article71652205.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q15",
+      "question": "In which region of Kerala have 12 infant deaths, including 10 tribals, recently sparked a political row and prompted an expert probe?",
+      "options": [
+        "Idukki",
+        "Palakkad",
+        "Wayanad",
+        "Attappady"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "Attappady in Keralam has reported 12 infant deaths this year, with 10 of them being tribal infants. This tragic situation has sparked a political controversy and led the State government to order an expert probe into the matter.",
+      "background": "Tribal activists attribute the crisis to deep-rooted health and social issues, including malnutrition, anaemia, and other systemic problems, rather than just healthcare deficiencies. Attappady is known for its significant tribal population.",
+      "examRelevance": "12 infant deaths, including 10 tribals, occurred in Attappady, Keralam.",
+      "tags": [
+        "Kerala",
+        "Attappady",
+        "Infant deaths",
+        "Tribal health"
+      ],
+      "source": {
+        "title": "How infant deaths in Keralam’s Attappady expose a deep-rooted health, social crisis",
+        "url": "https://www.thehindu.com/news/national/kerala/how-infant-deaths-in-keralams-attappady-expose-a-deep-rooted-health-social-crisis/article71648509.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q16",
+      "question": "Which country's President recently stated that the U.S. still has 'one or two targets' in Iran but is not in a hurry to take offensive action, as its military and nuclear program have already been decimated?",
+      "options": [
+        "Russia",
+        "United Kingdom",
+        "United States",
+        "China"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "President Donald Trump of the United States recently stated that the U.S. still has 'one or two targets' in Iran. He added that the United States is not in a hurry to take offensive action because it had already decimated Iran’s military and nuclear programme.",
+      "background": "Tensions between the U.S. and Iran have been ongoing for years, often involving rhetoric and actions related to Iran's nuclear program and regional influence. Statements like these contribute to the complex geopolitical dynamics of the Middle East.",
+      "examRelevance": "President Trump stated the U.S. has 'one or two targets' in Iran.",
+      "tags": [
+        "Donald Trump",
+        "United States",
+        "Iran",
+        "International Relations"
+      ],
+      "source": {
+        "title": "President Trump says U.S. still has ‘one or two targets’ in Iran",
+        "url": "https://www.thehindu.com/news/international/president-trump-says-us-still-has-one-or-two-targets-in-iran/article71652262.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q17",
+      "question": "A depression over the Bay of Bengal recently intensified into a deep depression and is expected to become a severe cyclonic storm over which region on November 2?",
+      "options": [
+        "South-East Bay of Bengal",
+        "Eastcentral Bay of Bengal",
+        "Westcentral Bay of Bengal",
+        "North Bay of Bengal"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "A depression over the Bay of Bengal intensified into a deep depression. This system is likely to further intensify into a severe cyclonic storm over the westcentral Bay of Bengal on November 2.",
+      "background": "The Bay of Bengal is a common breeding ground for cyclonic storms, especially during the post-monsoon season (October-December). These storms often pose threats to coastal regions of India, Bangladesh, and Myanmar.",
+      "examRelevance": "Deep depression in Bay of Bengal expected to become severe cyclonic storm over westcentral Bay of Bengal.",
+      "tags": [
+        "Bay of Bengal",
+        "Cyclone",
+        "Deep depression",
+        "Weather"
+      ],
+      "source": {
+        "title": "Depression intensifies into deep depression over Bay of Bengal",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/bay-of-bengal-deep-depression-cyclonic-storm-andhra-pradesh-november-1-2026-updates/article71652131.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q18",
+      "question": "What percentage of its district planning funds has Maharashtra recently earmarked to tackle fodder shortage, and to encourage cultivation of low-water-requirement crops?",
+      "options": [
+        "5%",
+        "10%",
+        "7%",
+        "3%"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Maharashtra has recently earmarked 5% of its district planning funds specifically to tackle fodder shortage. This plan includes supplying fodder seeds through agencies like Mahabeej for the Rabi season and encouraging the cultivation of low-water-requirement crops such as maize, jowar, and bajra.",
+      "background": "Fodder shortage is a recurring challenge for livestock farmers, especially during drought conditions or after insufficient rainfall. This initiative aims to build resilience against such shortages and support the agricultural sector.",
+      "examRelevance": "Maharashtra earmarked 5% of district planning funds for fodder shortage.",
+      "tags": [
+        "Maharashtra",
+        "Fodder shortage",
+        "Agriculture",
+        "Rural Development"
+      ],
+      "source": {
+        "title": "Maharashtra earmarks 5% of district planning funds to tackle fodder shortage",
+        "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-earmarks-5-of-district-planning-funds-to-tackle-fodder-shortage/article71652199.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q19",
+      "question": "Which two countries recently proposed reopening the Strait of Hormuz within two days, subject to the U.S. meeting certain conditions?",
+      "options": [
+        "Kuwait and Bahrain",
+        "Iran and Qatar",
+        "Saudi Arabia and UAE",
+        "Oman and Yemen"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Iran and Qatar have recently proposed reopening the Strait of Hormuz within two days. This proposal is contingent upon the United States meeting Tehran's conditions, as stated by Araghchi.",
+      "background": "The Strait of Hormuz is a strategically vital waterway, a narrow passage connecting the Persian Gulf to the Arabian Sea, through which a significant portion of the world's oil supply passes. Its closure or threat of closure can have major global economic and geopolitical implications.",
+      "examRelevance": "Iran and Qatar proposed reopening the Strait of Hormuz.",
+      "tags": [
+        "Iran",
+        "Qatar",
+        "Strait of Hormuz",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Iran-Qatar propose reopening Hormuz in 2 days if..",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/araghchi-says-iran-qatar-propose-reopening-strait-of-hormuz-within-two-days-if-us-meets-tehrans-conditions/articleshow/135419744.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q20",
+      "question": "Who is the current Chief Election Commissioner (CEC) against whom the INDIA bloc recently held a symbolic 'public impeachment' at Ramlila Maidan?",
+      "options": [
+        "Gyanesh Kumar",
+        "Sushil Chandra",
+        "Rajiv Kumar",
+        "Sunil Arora"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The INDIA bloc recently held a symbolic 'public impeachment' of Chief Election Commissioner (CEC) Gyanesh Kumar at Ramlila Maidan, Delhi. The protest was based on six charges, with the opposition alleging that institutional avenues were closed.",
+      "background": "The role of the Chief Election Commissioner is critical in ensuring free and fair elections in India. Allegations and protests against a sitting CEC highlight significant political tensions and concerns regarding electoral integrity.",
+      "examRelevance": "Gyanesh Kumar is the current Chief Election Commissioner (CEC).",
+      "tags": [
+        "Gyanesh Kumar",
+        "CEC",
+        "INDIA bloc",
+        "Ramlila Maidan"
+      ],
+      "source": {
+        "title": "INDIA bloc holds symbolic ‘public impeachment’ of CEC Gyanesh Kumar on six charges",
+        "url": "https://www.thehindu.com/news/national/india-bloc-holds-symbolic-public-impeachment-of-cec-gyanesh-kumar-on-six-charges/article71650457.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q21",
+      "question": "Who is the current Chief of Air Staff of the Indian Air Force (IAF) who recently outlined his core focus areas under the acronym VAYU?",
+      "options": [
+        "Air Chief Marshal Birender Singh Dhanoa",
+        "Air Chief Marshal R.K.S. Bhadauria",
+        "Air Chief Marshal Vivek Ram Chaudhari",
+        "Air Chief Marshal Ashutosh Dixit"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Air Chief Marshal Ashutosh Dixit is the newly appointed Chief of Air Staff of the Indian Air Force. He recently outlined his core focus areas under the acronym VAYU, which stands for Vigilance and operational readiness, Aatmanirbharta (self-reliance), Yukti (tactical innovation), and Unity of effort across the tri-services.",
+      "background": "The Chief of Air Staff is the professional head and the commander of the Indian Air Force. The VAYU vision emphasizes key strategic priorities for the IAF in current and future operational environments.",
+      "examRelevance": "Air Chief Marshal Ashutosh Dixit is the current Chief of Air Staff of the IAF.",
+      "tags": [
+        "Air Chief Marshal Ashutosh Dixit",
+        "IAF",
+        "VAYU",
+        "Appointments"
+      ],
+      "source": {
+        "title": "Every squadron, air defence unit, air warrior must be ready to respond at moment’s notice: IAF Chief Dixit",
+        "url": "https://www.thehindu.com/news/national/newly-appointed-chief-of-air-staff-air-chief-marshal-ashutosh-dixit/article71652223.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q22",
+      "question": "By how much has the price of commercial LPG been hiked per cylinder recently?",
+      "options": [
+        "₹10",
+        "₹20",
+        "₹5",
+        "₹15"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The price of commercial LPG has recently been hiked by ₹10 per cylinder. Additionally, the price of Aviation Turbine Fuel (ATF) was also increased by ₹1.37 per litre, bringing its cost to ₹138.5 per litre.",
+      "background": "Changes in LPG and ATF prices are typically influenced by global crude oil prices, currency exchange rates, and government taxation policies. These hikes can impact businesses and the aviation sector.",
+      "examRelevance": "Commercial LPG prices hiked by ₹10 per cylinder.",
+      "tags": [
+        "LPG",
+        "Commercial LPG",
+        "Price hike",
+        "Economy"
+      ],
+      "source": {
+        "title": "Commercial LPG prices hiked ₹10/cylinder; ATF hiked ₹1.37/litre",
+        "url": "https://www.thehindu.com/business/Industry/commercial-lpg-prices-hiked-by-around-10-per-cylinder/article71652063.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q23",
+      "question": "Which state's regime is planning to hold a Social Justice Survey that includes an 'open column' for respondents to state their caste during the second phase of the Census next year?",
+      "options": [
+        "Bihar",
+        "Odisha",
+        "Tamil Nadu",
+        "Kerala"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The TVK-led regime in Tamil Nadu is moving to hold a Social Justice Survey. A key feature of this survey is an 'open column' where respondents can state their caste during the second phase of the Census, scheduled for February next year.",
+      "background": "The inclusion of an 'open column' for caste during a census exercise is a significant move, as caste-based data collection has been a subject of debate and demand for many years. This initiative has drawn concerns from various parties and stakeholders regarding its utility and implications.",
+      "examRelevance": "Tamil Nadu plans a Social Justice Survey with an 'open column' for caste in the Census.",
+      "tags": [
+        "Tamil Nadu",
+        "Social Justice Survey",
+        "Caste Census",
+        "Polity"
+      ],
+      "source": {
+        "title": "How significant is the TVK-led regime’s move to hold Social Justice Survey? | Explained",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/how-significant-is-the-tvk-led-regimes-move-to-hold-social-justice-survey-explained/article71649252.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q24",
+      "question": "Who recently became India's first woman wrestling world champion, scripting history in Kazakhstan?",
+      "options": [
+        "Vinesh Phogat",
+        "Manisha Bhanwala",
+        "Geeta Phogat",
+        "Sakshi Malik"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Manisha Bhanwala, a 29-year-old wrestler from Haryana, recently scripted history in Kazakhstan by becoming India’s first woman wrestling world champion. Her victory ended India’s long wait for a women’s wrestling world title.",
+      "background": "Manisha Bhanwala's achievement marks a significant milestone for Indian wrestling on the international stage. Her journey from a village in Haryana to a world champion highlights the growing prowess of Indian women in combat sports.",
+      "examRelevance": "Manisha Bhanwala became India's first woman wrestling world champion.",
+      "tags": [
+        "Manisha Bhanwala",
+        "Wrestling",
+        "World Champion",
+        "Kazakhstan"
+      ],
+      "source": {
+        "title": "Manisha Bhanwala: The 29-year-old who ended India’s wait for a women’s wrestling world title",
+        "url": "https://www.thehindu.com/sport/wrestler-manisha-bhanwala-profile-biography-asian-games-kazakhstan-world-championship-news/article71649354.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q25",
+      "question": "Which Small and Medium Enterprise (SME) is scheduled to be the only new company opening its IPO next week, between November 2 and November 6?",
+      "options": [
+        "Vedant Poly Fabs",
+        "Jio Platforms",
+        "Adani Wilmar",
+        "Bombay Coated & Special Steels"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "India's primary market is set for a quiet week, with only one new IPO scheduled to open for subscription between November 2 and November 6. Vedant Poly Fabs, a Small and Medium Enterprise (SME), will be the sole new company launching its IPO during this period.",
+      "background": "The primary market often experiences fluctuations in IPO activity. After a series of large public offerings, a period of lower activity is common, with SME IPOs sometimes filling the gap.",
+      "examRelevance": "Vedant Poly Fabs is the only new SME IPO opening next week.",
+      "tags": [
+        "IPO",
+        "SME",
+        "Vedant Poly Fabs",
+        "Primary Market"
+      ],
+      "source": {
+        "title": "IPO Calendar: Primary market cools after Jio frenzy, but 13 listings lined up",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-primary-market-cools-after-jio-frenzy-but-13-listings-lined-up/articleshow/135419009.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q26",
+      "question": "Which state's Food and Drug Administration (FDA) recently issued an order to curb the sale and repackaging of expired food items, stating that such goods are often disposed of only on paper?",
+      "options": [
+        "Maharashtra",
+        "Karnataka",
+        "Gujarat",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Maharashtra Food and Drug Administration (FDA) recently issued an order to curb the sale and repackaging of expired food items. The FDA noted that stale and expired goods are often 'disposed of only on paper' and subsequently repackaged and resold to citizens, sometimes with manipulated production dates.",
+      "background": "This initiative aims to protect public health by preventing fraudulent practices in the food industry. Such measures are crucial for ensuring consumer safety and maintaining trust in food products.",
+      "examRelevance": "Maharashtra FDA issued an order to curb sale and repackaging of expired food items.",
+      "tags": [
+        "Maharashtra",
+        "FDA",
+        "Food safety",
+        "Expired food"
+      ],
+      "source": {
+        "title": "Maharashtra FDA issues order to curb sale, repackaging of expired food items",
+        "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-issues-order-to-curb-sale-repackaging-of-expired-food-items/article71650559.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q27",
+      "question": "What is the name of the experimental gene therapy that offers to beat Hepatitis B virus by silencing its viral DNA, rather than targeting the virus directly?",
+      "options": [
+        "HepB-GeneSilencer",
+        "CRMA-1001",
+        "DNA-Mute Therapy",
+        "Viral-DNA-Inhibitor"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "An experimental gene therapy named CRMA-1001 is showing remarkable promise in treating the Hepatitis B virus. Unlike traditional treatments that target the virus directly, CRMA-1001 works by silencing the viral DNA, which prevents the virus from rebounding.",
+      "background": "Current treatments for Hepatitis B rarely eliminate the viral DNA, allowing the virus to persist and potentially reactivate. This new approach, by muting the DNA, offers a potentially more permanent solution to chronic Hepatitis B infections.",
+      "examRelevance": "CRMA-1001 is an experimental gene therapy for Hepatitis B that silences viral DNA.",
+      "tags": [
+        "Gene therapy",
+        "Hepatitis B",
+        "CRMA-1001",
+        "Science & Technology"
+      ],
+      "source": {
+        "title": "Gene therapy offers to beat hepatitis B virus by muting its DNA",
+        "url": "https://www.thehindu.com/sci-tech/science/gene-therapy-offers-to-beat-hepatitis-b-virus-by-muting-its-dna/article71635399.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q28",
+      "question": "Which international organization's report was recently cited by PM Modi to highlight a 'historic' fall in India’s extreme poverty?",
+      "options": [
+        "World Bank",
+        "United Nations Development Programme (UNDP)",
+        "World Economic Forum (WEF)",
+        "International Monetary Fund (IMF)"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Prime Minister Narendra Modi recently cited a World Bank report to highlight a 'historic' fall in India’s extreme poverty. He emphasized that this drop represents a generational surge in opportunities.",
+      "background": "The World Bank regularly publishes reports and data on global poverty trends, providing crucial insights into economic development and social welfare. India's progress in poverty reduction is a significant indicator of its developmental trajectory.",
+      "examRelevance": "PM Modi cited a World Bank report on India's extreme poverty reduction.",
+      "tags": [
+        "World Bank",
+        "Extreme Poverty",
+        "India",
+        "PM Modi"
+      ],
+      "source": {
+        "title": "PM Modi cites World Bank report to highlight ‘historic’ fall in India’s extreme poverty",
+        "url": "https://www.thehindu.com/news/national/pm-modi-cities-world-bank-report-to-highlight-historic-fall-in-indias-extreme-poverty/article71652106.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q29",
+      "question": "In which district of Tamil Nadu was a job fair recently held where more than 1,100 candidates received offer letters?",
+      "options": [
+        "Madurai",
+        "Villupuram",
+        "Chennai",
+        "Coimbatore"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "A job fair was recently held in Villupuram district, Tamil Nadu, where 1,172 candidates received offer letters. More than 167 companies participated, interviewing 4,214 candidates, with an additional 163 qualifying for the second round of selection.",
+      "background": "Job fairs are crucial initiatives by state governments and employment agencies to connect job seekers with employers, especially in regions with high unemployment. They play a vital role in local economic development and employment generation.",
+      "examRelevance": "1,172 candidates received offer letters at a job fair in Villupuram, Tamil Nadu.",
+      "tags": [
+        "Tamil Nadu",
+        "Villupuram",
+        "Job fair",
+        "Employment"
+      ],
+      "source": {
+        "title": "1,172 candidates receive offer letters at job fair held in Villupuram",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/1172-candidates-receive-offer-letters-at-job-fair-held-in-villupuram/article71652132.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-01-q30",
+      "question": "How many Rameswaram fishermen were recently detained by the Sri Lankan Navy near Katchatheevu islet?",
+      "options": [
+        "Eight",
+        "Five",
+        "Seven",
+        "Six"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Seven Rameswaram fishermen were recently detained by the Sri Lankan Navy near the Katchatheevu islet. Fishermen leaders have condemned the incident and urged both governments to facilitate their immediate release.",
+      "background": "The Katchatheevu islet and fishing rights in the Palk Strait have been a long-standing point of contention between India and Sri Lanka. Incidents of detention of Indian fishermen by the Sri Lankan Navy are frequent, leading to diplomatic interventions.",
+      "examRelevance": "Seven Rameswaram fishermen were detained by the Sri Lankan Navy near Katchatheevu.",
+      "tags": [
+        "Rameswaram",
+        "Fishermen",
+        "Sri Lankan Navy",
+        "Katchatheevu",
+        "India-Sri Lanka"
+      ],
+      "source": {
+        "title": "Seven Rameswaram fishermen detained by Sri Lankan Navy near Katchatheevu islet",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/seven-rameswaram-fishermen-detained-by-sri-lankan-navy-near-katchatheevu-islet/article71652111.ece"
+      }
+    }
+  ]
+}
