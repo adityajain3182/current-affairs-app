@@ -1,0 +1,2565 @@
+{
+  "id": "weekly-2026-W44",
+  "type": "weekly",
+  "date": "2026-11-01",
+  "title": "Weekly Current Affairs — Week 44, 2026",
+  "questionCount": 100,
+  "questions": [
+    {
+      "id": "weekly-2026-W44-q1",
+      "question": "ISRO's NVS-03 satellite launch is considered crucial for India's navigation. What is the name of India's regional satellite navigation system that NVS-03 aims to restore and enhance?",
+      "options": [
+        "Bhuvana",
+        "Gagan",
+        "NavIC",
+        "IRNSS"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "ISRO's NVS-03 satellite launch is critical for restoring the functioning of India's regional satellite navigation system, NavIC. The development of NavIC began after the 1999 Kargil War when the U.S. reportedly restricted access to GPS data.",
+      "background": "NavIC (Navigation with Indian Constellation), previously known as IRNSS, provides accurate real-time positioning and timing services over India and a region extending up to 1,500 km around the Indian mainland. The NVS-03 mission is part of the second-generation NavIC satellites.",
+      "examRelevance": "ISRO's NVS-03 satellite = Crucial for restoring NavIC.",
+      "tags": [
+        "ISRO",
+        "NVS-03",
+        "NavIC",
+        "Satellite Navigation",
+        "Science & Technology"
+      ],
+      "source": {
+        "title": "A new 'eye in the sky' for India's navigation",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/new-eye-in-the-sky-indias-gps-gets-a-major-upgrade-tonight-5-things-to-know-about-what-isros-nvs-03-satellite-will-change/articleshow/135347473.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q2",
+      "question": "Which Indian state has recently placed a three-year moratorium on granting permission for new private PU (Pre-University) colleges?",
+      "options": [
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Maharashtra"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Karnataka has placed a three-year moratorium on granting permission for new private PU colleges. This decision was made because the number of seats available in I PU colleges has been increasing annually, outpacing the number of students passing SSLC exams.",
+      "background": "Pre-University colleges in India offer education for the 11th and 12th standards, acting as a bridge between high school and undergraduate studies. Moratoriums like this are often implemented to address issues of oversupply, quality control, or resource allocation in the education sector.",
+      "examRelevance": "Karnataka = three-year moratorium on new private PU colleges.",
+      "tags": [
+        "Karnataka",
+        "Education",
+        "PU Colleges",
+        "Moratorium",
+        "Government Policy"
+      ],
+      "source": {
+        "title": "Karnataka places three-year moratorium on permission for new private PU colleges",
+        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-places-three-year-moratorium-on-permission-for-new-private-pu-colleges/article71645452.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q3",
+      "question": "Which financial technology company recently secured a bond platform licence, enabling it to launch direct offerings soon?",
+      "options": [
+        "Upstox",
+        "Angel One",
+        "Zerodha",
+        "Groww"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Upstox, a financial technology company, has successfully secured a bond platform licence. This licence will allow the company to soon launch direct offerings, expanding its financial services portfolio.",
+      "background": "This development signifies Upstox's foray into the bond market, providing its users with more investment opportunities. It reflects the growing trend of fintech companies diversifying their services.",
+      "examRelevance": "Upstox = Secured bond platform licence.",
+      "tags": [
+        "Upstox",
+        "Fintech",
+        "Bond Platform",
+        "Licence",
+        "Economy"
+      ],
+      "source": {
+        "title": "Upstox secures bond platform licence",
+        "url": "https://economictimes.indiatimes.com/tech/technology/upstox-secures-bond-platform-licence-to-launch-direct-offerings-soon/articleshow/135347013.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q4",
+      "question": "What was Delhi's 24-hour average Air Quality Index (AQI) on October 28, when it slipped into the 'poor' category as per Central Pollution Control Board (CPCB) data?",
+      "options": [
+        "280",
+        "310",
+        "232",
+        "185"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Delhi's 24-hour average Air Quality Index (AQI) stood at 232 at 9 a.m. on October 28, as per Central Pollution Control Board (CPCB) data. This figure indicates that the air quality had slipped into the 'poor' category.",
+      "background": "An AQI between 201 and 300 is classified as 'poor', which can cause breathing discomfort to most people on prolonged exposure. Delhi frequently faces poor air quality during the winter months due to various factors including stubble burning and vehicle emissions.",
+      "examRelevance": "Delhi's AQI on Oct 28 = 232 ('poor' category).",
+      "tags": [
+        "Delhi",
+        "Air Quality Index",
+        "AQI",
+        "CPCB",
+        "Pollution"
+      ],
+      "source": {
+        "title": "Air quality slips to ‘poor’ category in Delhi, parts of north India",
+        "url": "https://www.thehindu.com/news/cities/Delhi/air-quality-slips-to-poor-category-in-delhi-parts-of-north-india/article71634319.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q5",
+      "question": "Prime Minister Narendra Modi recently released the 24th instalment under the PM-KISAN scheme. What is the total amount disbursed in this instalment, and to how many farmers?",
+      "options": [
+        "₹21,000 crore to 9.5 crore farmers",
+        "₹15,000 crore to 8.5 crore farmers",
+        "₹17,500 crore to 9 crore farmers",
+        "₹19,000 crore to 9.34 crore farmers"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Prime Minister Narendra Modi has released the 24th instalment of the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme. A total of ₹19,000 crore has been disbursed to 9.34 crore farmer beneficiaries under this instalment.",
+      "background": "The PM-KISAN scheme provides income support to all eligible farmer families across the country to supplement their financial needs for procuring various inputs related to agriculture and allied activities as well as domestic needs. Each eligible farmer family receives ₹6,000 per year in three equal instalments of ₹2,000.",
+      "examRelevance": "PM-KISAN 24th instalment = ₹19,000 crore to 9.34 crore farmers.",
+      "tags": [
+        "PM-KISAN",
+        "Narendra Modi",
+        "Farmers",
+        "Financial Aid",
+        "Schemes"
+      ],
+      "source": {
+        "title": "PM KISAN 24th instalment released: Check status",
+        "url": "https://economictimes.indiatimes.com/wealth/invest/pm-kisan-24th-instalment-released-9-34-crore-farmers-to-receive-rs-2000-check-beneficiary-status-and-ekyc-details/articleshow/135347705.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q6",
+      "question": "The INDIA bloc is scheduled to hold a rally on November 1 at one of Delhi's designated protest sites. Which venue has been chosen for this rally?",
+      "options": [
+        "Boat Club",
+        "Ramlila Maidan",
+        "Jantar Mantar",
+        "Parliament Street"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The INDIA bloc is scheduled to hold a rally on November 1 at Ramlila Maidan in Delhi. Ramlila Maidan is one of the three designated protest sites in Delhi, after Jantar Mantar was de-notified.",
+      "background": "The Delhi Police has imposed certain conditions for the rally. The choice of Ramlila Maidan for such political gatherings highlights its historical significance as a major public assembly ground in the capital.",
+      "examRelevance": "INDIA bloc rally on Nov 1 = Ramlila Maidan, Delhi.",
+      "tags": [
+        "INDIA Bloc",
+        "Ramlila Maidan",
+        "Delhi",
+        "Rally",
+        "Political Event"
+      ],
+      "source": {
+        "title": "INDIA bloc rally on November 1: What are the conditions imposed by Delhi Police",
+        "url": "https://www.thehindu.com/news/cities/Delhi/congress-rally-november-1-ramlila-maidan-restrictions-by-delhi-police/article71635407.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q7",
+      "question": "Mohammed Shahansha, a student from Madin Academy in Malappuram, Kerala, recently secured third place in the global Arab Reading Challenge. In which country was this challenge held?",
+      "options": [
+        "Qatar",
+        "Egypt",
+        "United Arab Emirates (UAE)",
+        "Saudi Arabia"
+      ],
+      "answerIndex": 2,
+      "category": "Awards & Honours",
+      "explanation": "Mohammed Shahansha, a student from Madin Academy in Malappuram, Kerala, achieved third place in the global Arab Reading Challenge. The event was held in the United Arab Emirates (UAE), and he won a cash prize of ₹8 lakh.",
+      "background": "The Arab Reading Challenge is an annual pan-Arab literacy initiative that encourages students to read books in Arabic. Shahansha's achievement highlights his dedication and proficiency in Arabic literature.",
+      "examRelevance": "Mohammed Shahansha = 3rd in Arab Reading Challenge (UAE).",
+      "tags": [
+        "Mohammed Shahansha",
+        "Arab Reading Challenge",
+        "UAE",
+        "Kerala",
+        "Awards",
+        "Education"
+      ],
+      "source": {
+        "title": "Keralam student comes third in global Arab Reading Challenge held in UAE",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-student-ranks-third-in-global-arab-reading-challenge/article71640862.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q8",
+      "question": "The Mysuru City Corporation (MCC) and India Post have signed an agreement to provide doorstep delivery of birth and death certificates. What is the fee for this service?",
+      "options": [
+        "₹50",
+        "₹150",
+        "₹75",
+        "₹100"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Mysuru City Corporation (MCC) and India Post have entered into an agreement to offer doorstep delivery of birth and death certificates. This service will be available across India at a charge of ₹100 per delivery.",
+      "background": "This initiative aims to enhance citizen convenience by leveraging India Post's extensive network to deliver essential documents directly to residents' homes, reducing the need for physical visits to government offices.",
+      "examRelevance": "Mysuru City Corporation + India Post = Doorstep delivery of birth/death certificates for ₹100.",
+      "tags": [
+        "Mysuru",
+        "India Post",
+        "Birth Certificate",
+        "Death Certificate",
+        "Doorstep Delivery",
+        "MCC"
+      ],
+      "source": {
+        "title": "Birth, death certificates issued by Mysuru corporation to be delivered by post for ₹100",
+        "url": "https://www.thehindu.com/news/national/karnataka/birth-death-certificates-issued-by-mysuru-corporation-to-be-delivered-by-post-for-100/article71643819.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q9",
+      "question": "What percentage of its fresh annual accretions is the Employees Provident Fund Organisation (EPFO) planning to allocate to Category I and Category II Alternative Investment Funds (AIFs)?",
+      "options": [
+        "2%",
+        "1%",
+        "5%",
+        "3%"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Employees Provident Fund Organisation (EPFO) is developing guidelines to enable investments in Alternative Investment Funds (AIFs). The Securities and Exchange Board of India (SEBI) discussed a proposal to allocate up to 3% of EPFO’s fresh annual accretions to Category I and Category II AIFs.",
+      "background": "The government had cleared EPFO's entry into high-growth asset classes and startups five years prior. This move signifies a shift in how the retirement fund body deploys workers' savings, aiming for potentially higher returns.",
+      "examRelevance": "EPFO plans to allocate up to 3% of fresh annual accretions to Category I and Category II AIFs.",
+      "tags": [
+        "EPFO",
+        "AIFs",
+        "Investments",
+        "SEBI"
+      ],
+      "source": {
+        "title": "EPFO plans to invest in startups, AIFs",
+        "url": "https://economictimes.indiatimes.com/news/economy/policy/epfo-plans-to-invest-in-startups-aifs-five-years-after-govt-approval/articleshow/135292563.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q10",
+      "question": "Which cricketer recently became the first men's player to claim 200 T20 International (T20I) wickets?",
+      "options": [
+        "Tim Southee",
+        "Shakib Al Hasan",
+        "Rashid Khan",
+        "Lasith Malinga"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Afghanistan's Rashid Khan has made history by becoming the first men's player to claim 200 wickets in Twenty20 International (T20I) cricket. He achieved this feat in his 120th T20 international match, boasting an impressive average of 13.96 and an economy rate of 6.13.",
+      "background": "Rashid Khan is widely regarded as one of the best T20 bowlers in the world, known for his leg-spin variations and consistent wicket-taking ability. This milestone further solidifies his legacy in the format.",
+      "examRelevance": "Rashid Khan = First men's player to claim 200 T20I wickets.",
+      "tags": [
+        "Rashid Khan",
+        "Afghanistan",
+        "Cricket",
+        "T20I",
+        "Wickets",
+        "Sports Record"
+      ],
+      "source": {
+        "title": "Afghanistan’s Rashid Khan becomes first men’s player to claim 200 T20I wickets",
+        "url": "https://www.thehindu.com/sport/cricket/afghanistans-rashid-khan-becomes-first-mens-player-to-claim-200-t20i-wickets/article71643780.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q11",
+      "question": "S Naren, who cautioned investors against 'anti-asset allocation' at the ET Wealth Expo, holds which position at ICICI Prudential Mutual Fund?",
+      "options": [
+        "Chief Financial Officer",
+        "Chief Investment Officer",
+        "Head of Research",
+        "Chief Executive Officer"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "S Naren, Chief Investment Officer of ICICI Prudential Mutual Fund, cautioned investors against 'anti-asset allocation' at the ET Wealth Expo in Mumbai. He advised resisting the temptation to buy assets that have already delivered spectacular returns.",
+      "background": "'Anti-asset allocation' as described by S Naren refers to the tendency of investors to rush into assets after they have already rallied significantly, often missing the optimal entry point. Asset allocation is a key investment strategy to balance risk and reward by adjusting the percentage of various assets in a portfolio.",
+      "examRelevance": "S Naren = Chief Investment Officer (CIO) of ICICI Prudential Mutual Fund.",
+      "tags": [
+        "S Naren",
+        "ICICI Prudential",
+        "Mutual Fund",
+        "ET Wealth Expo",
+        "Investment"
+      ],
+      "source": {
+        "title": "ET Wealth Expo: Why market veteran S Naren thinks investors are getting gold, silver and asset allocation all wrong",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-why-market-veteran-s-naren-thinks-investors-are-getting-gold-silver-and-asset-allocation-all-wrong/articleshow/135391370.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q12",
+      "question": "Approximately how many names were struck off the voter list in Karnataka during the recent Special Summary Revision (SIR)?",
+      "options": [
+        "45.50 lakh",
+        "99.32 lakh",
+        "55.43 lakh",
+        "1.5 crore"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Over 99.32 lakh names were struck off the voter list in Karnataka during the recent Special Summary Revision (SIR). This significantly reduced the state's electorate from 5,54,32,314 to 4,55,00,011 voters.",
+      "background": "The Special Summary Revision (SIR) is a process undertaken by the Election Commission of India to update electoral rolls, ensuring accuracy by removing duplicate entries, deceased voters, and those who have moved, while also adding new eligible voters. This process is crucial for fair and transparent elections.",
+      "examRelevance": "99.32 lakh names struck off Karnataka voter list during SIR.",
+      "tags": [
+        "Karnataka",
+        "Voter List",
+        "SIR",
+        "Election Commission"
+      ],
+      "source": {
+        "title": "SIR: Over 99.32 lakh names struck off voter list in Karnataka",
+        "url": "https://www.thehindu.com/news/national/karnataka/sir-over-9932-lakh-names-struck-off-voter-list-in-karnataka/article71629941.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q13",
+      "question": "The New Delhi-Varanasi Vande Bharat Sleeper train was recently launched, connecting these two major cities. Which other cities does this new service connect?",
+      "options": [
+        "Kolkata and Patna",
+        "New Delhi and Varanasi",
+        "Bengaluru and Chennai",
+        "Mumbai and Ahmedabad"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The New Delhi-Varanasi Vande Bharat Sleeper train was recently launched, connecting the capital city with Varanasi. This new service aims to enhance connectivity and comfort for passengers on this route.",
+      "background": "Vande Bharat Express trains are India's semi-high-speed electric multiple units, designed for modern amenities and faster travel. The introduction of a sleeper version expands its utility for longer overnight journeys, promoting rail modernization.",
+      "examRelevance": "New Vande Bharat Sleeper launched = New Delhi-Varanasi route.",
+      "tags": [
+        "Vande Bharat",
+        "Sleeper train",
+        "New Delhi",
+        "Varanasi",
+        "Indian Railways",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "New Delhi-Varanasi Vande Bharat Sleeper launched",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/railways/new-delhi-varanasi-vande-bharat-sleeper-launched-check-timings-stoppages-ticket-prices-pm-modi-says-it-will-connect-faith-with-modernity/articleshow/135390877.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q14",
+      "question": "The historic 'Madras Gate', a former structure of Fort St. Louis, is located in which Indian Union Territory?",
+      "options": [
+        "Daman & Diu",
+        "Puducherry",
+        "Lakshadweep",
+        "Goa"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "The historic 'Madras Gate' is located in Puducherry (Pondicherry). It was a significant part of the once-powerful Fort St. Louis, which served as the French equivalent to Madras’ Fort St. George.",
+      "background": "Puducherry has a rich colonial history, primarily under French rule, which is reflected in its architecture and historical landmarks. Fort St. Louis was a key defensive structure during the Anglo-French conflicts in India.",
+      "examRelevance": "Madras Gate = located in Puducherry.",
+      "tags": [
+        "Madras Gate",
+        "Puducherry",
+        "Fort St. Louis",
+        "History",
+        "Colonial Architecture"
+      ],
+      "source": {
+        "title": "The Madras Gate in Pondicherry",
+        "url": "https://www.thehindu.com/news/cities/chennai/the-madras-gate-at-pondicherry/article71634185.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q15",
+      "question": "In a new social media trial, Meta recently settled, leaving which company as the sole defendant?",
+      "options": [
+        "Pinterest",
+        "Snap",
+        "TikTok",
+        "X (formerly Twitter)"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Meta recently settled in a new social media trial, leaving Snap as the sole defendant. Jury selection for the trial began on Wednesday, with opening statements scheduled for November 4.",
+      "background": "Social media companies often face lawsuits regarding various issues, including data privacy, content moderation, and competitive practices. Settlements are common ways to resolve such legal disputes without proceeding to a full trial.",
+      "examRelevance": "Meta settled in social media trial = Snap is sole defendant.",
+      "tags": [
+        "Meta",
+        "Snap",
+        "Social Media",
+        "Lawsuit",
+        "Technology"
+      ],
+      "source": {
+        "title": "Meta settles, leaving Snap sole defendant in new social media trial",
+        "url": "https://www.thehindu.com/sci-tech/technology/meta-settles-leaving-snap-sole-defendant-in-new-social-media-trial/article71648162.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q16",
+      "question": "Which seasoned Indian pacer returned to the playing XI for the fifth T20I match against New Zealand?",
+      "options": [
+        "Jasprit Bumrah",
+        "Bhuvneshwar Kumar",
+        "Arshdeep Singh",
+        "Mohammed Shami"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Seasoned pacer Bhuvneshwar Kumar returned to the playing XI for the fifth T20I against New Zealand. This marked one of two changes made by India for the final match of the series, with Varun Chakaravarthy also playing his first game on the tour.",
+      "background": "India had an unassailable 3-1 lead in the five-match T20I series against New Zealand before the final game. Such changes in the playing XI often occur in dead rubber matches or to test bench strength.",
+      "examRelevance": "Bhuvneshwar Kumar returned to India's playing XI for the 5th T20I against New Zealand.",
+      "tags": [
+        "Cricket",
+        "Bhuvneshwar Kumar",
+        "India vs New Zealand",
+        "T20I"
+      ],
+      "source": {
+        "title": "IND vs NZ fifth T20I: New Zealand opts to field against India",
+        "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-final-and-fifth-t20-international-in-hamilton/article71652282.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q17",
+      "question": "Who was recently removed from the post of Kochi City Police Commissioner amid a probe into a luxury car crash involving a judge’s minor son?",
+      "options": [
+        "Kaliraj Mahesh Kumar",
+        "R. Nishanthini",
+        "Vijay Sakhare",
+        "Balram Kumar Upadhyay"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Kaliraj Mahesh Kumar was recently removed from the post of Kochi City Police Commissioner. This action was taken amid a probe into a luxury car crash in Cheranalloor involving a judge’s minor son, following disciplinary action against other police officers for alleged lapses.",
+      "background": "The removal comes a day after the government suspended four police officers attached to the Cheranalloor police station in connection with the same case. R. Nishanthini, currently serving as IGP (South Zone), is likely to replace him.",
+      "examRelevance": "Kaliraj Mahesh Kumar = removed as Kochi City Police Commissioner.",
+      "tags": [
+        "Kaliraj Mahesh Kumar",
+        "Kochi",
+        "Police Commissioner",
+        "Kerala",
+        "Appointments"
+      ],
+      "source": {
+        "title": "Kochi City Police Commissioner removed amid Cheranalloor luxury car crash probe involving judge’s minor son",
+        "url": "https://www.thehindu.com/news/national/kerala/kochi-city-police-commissioner-removed-amid-cheranalloor-luxury-car-crash-probe-involving-judges-minor-son/article71634476.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q18",
+      "question": "What percentage of its district planning funds has Maharashtra recently earmarked to tackle fodder shortage, and to encourage cultivation of low-water-requirement crops?",
+      "options": [
+        "5%",
+        "10%",
+        "7%",
+        "3%"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Maharashtra has recently earmarked 5% of its district planning funds specifically to tackle fodder shortage. This plan includes supplying fodder seeds through agencies like Mahabeej for the Rabi season and encouraging the cultivation of low-water-requirement crops such as maize, jowar, and bajra.",
+      "background": "Fodder shortage is a recurring challenge for livestock farmers, especially during drought conditions or after insufficient rainfall. This initiative aims to build resilience against such shortages and support the agricultural sector.",
+      "examRelevance": "Maharashtra earmarked 5% of district planning funds for fodder shortage.",
+      "tags": [
+        "Maharashtra",
+        "Fodder shortage",
+        "Agriculture",
+        "Rural Development"
+      ],
+      "source": {
+        "title": "Maharashtra earmarks 5% of district planning funds to tackle fodder shortage",
+        "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-earmarks-5-of-district-planning-funds-to-tackle-fodder-shortage/article71652199.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q19",
+      "question": "Chief Economic Advisor (CEA) Nageswaran stated that India's current economic situation in 2026 resembles which pivotal year?",
+      "options": [
+        "2011",
+        "1991",
+        "2001",
+        "1981"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Chief Economic Advisor (CEA) Nageswaran remarked that the year '2026 resembles 1991,' indicating that India is currently at a critical economic inflection point. The year 1991 is significant for India's economic liberalization reforms.",
+      "background": "India's economy underwent major reforms in 1991, shifting from a largely closed, state-controlled system to a more open, market-oriented one. The CEA's comparison suggests a similar period of significant economic transformation and opportunity.",
+      "examRelevance": "CEA Nageswaran stated that '2026 resembles 1991' for India's economy.",
+      "tags": [
+        "CEA Nageswaran",
+        "Economic Inflection Point",
+        "Indian Economy",
+        "1991 Reforms"
+      ],
+      "source": {
+        "title": "'2026 resembles 1991': CEA on new inflection point",
+        "url": "https://economictimes.indiatimes.com/news/economy/indicators/2026-resembles-1991-chief-economic-advisor-nageswaran-says-india-is-at-a-critical-economic-inflection-point/articleshow/135293147.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q20",
+      "question": "Chef K. Damodaran, popularly known as Chef Damu, who recently passed away, was renowned for his significant contributions to the culinary heritage of which Indian state?",
+      "options": [
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Karnataka",
+        "Kerala"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Chef K. Damodaran, known as Chef Damu, who recently passed away, was renowned for his significant contributions to Tamil Nadu’s culinary heritage. He took the cuisine to the world stage, documented forgotten dishes, and inspired many through his television shows.",
+      "background": "Chef Damu was a celebrated figure in the Indian culinary world, particularly for his dedication to regional Indian cuisine. His work in preserving and promoting traditional Tamil Nadu dishes has left a lasting legacy.",
+      "examRelevance": "Chef Damu contributed to Tamil Nadu's culinary heritage.",
+      "tags": [
+        "Chef Damu",
+        "K Damodaran",
+        "Tamil Nadu Cuisine",
+        "Obituary"
+      ],
+      "source": {
+        "title": "Remembering Chef Damu: A life dedicated to Tamil Nadu’s culinary heritage",
+        "url": "https://www.thehindu.com/society/remembering-chef-damu-a-life-dedicated-to-tamil-nadus-culinary-heritage/article71626208.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q21",
+      "question": "How many nodal officers has the Election Commission recently appointed for the 2027 Manipur Assembly polls, including Kamei Angam Romanus for law and order?",
+      "options": [
+        "13",
+        "11",
+        "15",
+        "9"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "The Election Commission has recently appointed 11 nodal officers to oversee various aspects of the 2027 Manipur Assembly polls. Among them, senior IPS officer Kamei Angam Romanus has been designated as the nodal officer-in-charge of the law and order and security plan.",
+      "background": "Nodal officers are crucial for ensuring the smooth and fair conduct of elections, coordinating different departments like law enforcement, excise, and expenditure monitoring. This appointment is part of the preparatory phase for the upcoming state assembly elections.",
+      "examRelevance": "EC appointed 11 nodal officers for 2027 Manipur Assembly polls.",
+      "tags": [
+        "Election Commission",
+        "Manipur",
+        "Nodal Officers",
+        "Assembly Polls",
+        "Appointments"
+      ],
+      "source": {
+        "title": "EC appoints 11 nodal officers for 2027 Manipur Assembly polls",
+        "url": "https://www.thehindu.com/news/national/manipur/ec-appoints-11-nodal-officers-for-2027-manipur-assembly-polls/article71634468.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q22",
+      "question": "The second phase of Census 2027 is set to launch on December 1, 2026, in Uttar Pradesh and three other poll-bound states. How many new questions will require longer, more sensitive interviews?",
+      "options": [
+        "50",
+        "30",
+        "40",
+        "20"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The second phase of Census 2027 is set to launch on December 1, 2026. Field trainers are briefing approximately 34 lakh enumerators on 40 new questions that will require longer, more sensitive interviews, covering details such as caste, religion, Aadhaar access, and parents’ information.",
+      "background": "The Census is a vital exercise for collecting demographic and socio-economic data, essential for policy formulation, resource allocation, and planning. The inclusion of new questions indicates evolving data needs for comprehensive national planning.",
+      "examRelevance": "Census 2027 second phase = 40 new questions = launches Dec 1, 2026.",
+      "tags": [
+        "Census 2027",
+        "Data collection",
+        "Government",
+        "Uttar Pradesh",
+        "Enumerators"
+      ],
+      "source": {
+        "title": "Census 2027: What are the new questions, and how are enumerators being trained? | Explained",
+        "url": "https://www.thehindu.com/news/national/what-are-the-new-questions-in-2027-census-and-how-are-enumerators-being-trained-explained/article71648192.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q23",
+      "question": "During his two-day visit to Gujarat, Prime Minister Narendra Modi inaugurated a ₹325-crore bovine breeding centre. In which district of Gujarat was this centre inaugurated?",
+      "options": [
+        "Ahmedabad",
+        "Surat",
+        "Rajkot",
+        "Banaskantha"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Prime Minister Narendra Modi inaugurated a new ₹325-crore bovine breeding centre in Banaskantha district during his two-day visit to Gujarat. He also participated in the Bharat Parv 2026 festival and Narmada aarti at Ekta Nagar.",
+      "background": "The bovine breeding centre is expected to boost the dairy sector and improve livestock health and productivity in the region. His visit also included cultural and tourism events, highlighting the state's development initiatives.",
+      "examRelevance": "PM Modi = Inaugurated ₹325-crore bovine breeding centre in Banaskantha, Gujarat.",
+      "tags": [
+        "Narendra Modi",
+        "Gujarat",
+        "Banaskantha",
+        "Bovine Breeding Centre",
+        "Agriculture"
+      ],
+      "source": {
+        "title": "PM Modi begins two-day Gujarat visit; inaugurates ₹325-crore bovine breeding centre in Banaskantha",
+        "url": "https://www.thehindu.com/news/national/gujarat/prime-minister-narendra-modi-two-day-gujarat-visit-unveil-various-projects/article71643499.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q24",
+      "question": "What is the name of the experimental gene therapy that offers to beat Hepatitis B virus by silencing its viral DNA, rather than targeting the virus directly?",
+      "options": [
+        "HepB-GeneSilencer",
+        "CRMA-1001",
+        "DNA-Mute Therapy",
+        "Viral-DNA-Inhibitor"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "An experimental gene therapy named CRMA-1001 is showing remarkable promise in treating the Hepatitis B virus. Unlike traditional treatments that target the virus directly, CRMA-1001 works by silencing the viral DNA, which prevents the virus from rebounding.",
+      "background": "Current treatments for Hepatitis B rarely eliminate the viral DNA, allowing the virus to persist and potentially reactivate. This new approach, by muting the DNA, offers a potentially more permanent solution to chronic Hepatitis B infections.",
+      "examRelevance": "CRMA-1001 is an experimental gene therapy for Hepatitis B that silences viral DNA.",
+      "tags": [
+        "Gene therapy",
+        "Hepatitis B",
+        "CRMA-1001",
+        "Science & Technology"
+      ],
+      "source": {
+        "title": "Gene therapy offers to beat hepatitis B virus by muting its DNA",
+        "url": "https://www.thehindu.com/sci-tech/science/gene-therapy-offers-to-beat-hepatitis-b-virus-by-muting-its-dna/article71635399.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q25",
+      "question": "The 2026-27 El Niño is projected to be a ferocious event, peaking with a temperature anomaly of approximately how much?",
+      "options": [
+        "2.6°C",
+        "2.1°C",
+        "3.8°C",
+        "4.2°C"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "The 2026-27 El Niño is projected to be a ferocious event, thanks to record Pacific heat, and is expected to peak with a temperature anomaly of approximately 3.8°C. This would make it stronger than the three previous very strong El Niño events recorded since the modern era.",
+      "background": "El Niño is a climate pattern characterized by unusual warming of surface waters in the eastern tropical Pacific Ocean. It can significantly impact global weather patterns, leading to extreme events like droughts, floods, and changes in ocean ecosystems worldwide.",
+      "examRelevance": "2026-27 El Niño = projected peak temperature anomaly of 3.8°C.",
+      "tags": [
+        "El Niño",
+        "Climate Change",
+        "Environment",
+        "Pacific Ocean",
+        "Temperature anomaly"
+      ],
+      "source": {
+        "title": "A ferocious El Niño is brewing thanks to record Pacific heat",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q26",
+      "question": "Which university's 5G lab in Kalaburagi was recently adjudged the best performer in Karnataka by the Department of Telecommunications (DoT), receiving an excellent grading with a score of 143?",
+      "options": [
+        "Visvesvaraya Technological University (VTU)",
+        "Mangalore University",
+        "Gulbarga University",
+        "Karnataka University"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "The 5G lab at Visvesvaraya Technological University (VTU) in Kalaburagi has been recognized as the best performer among eight 5G labs in Karnataka. It received an excellent grading with a score of 143 from the Department of Telecommunications (DoT).",
+      "background": "This recognition highlights VTU Kalaburagi's significant contributions to 5G research and development, positioning it as a leading institution in telecommunications technology within the state.",
+      "examRelevance": "VTU Kalaburagi's 5G lab = Best performer in Karnataka.",
+      "tags": [
+        "VTU Kalaburagi",
+        "5G Lab",
+        "Department of Telecommunications",
+        "Karnataka",
+        "Science & Technology"
+      ],
+      "source": {
+        "title": "VTU Kalaburagi’s 5G lab adjudged best performer in Karnataka",
+        "url": "https://www.thehindu.com/news/national/karnataka/vtu-kalaburagis-5g-lab-adjudged-best-performer-in-karnataka/article71640326.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q27",
+      "question": "The Supreme Court Collegium recently proposed four judges for High Court Chief Justiceships. Which of the following judges was NOT among those proposed?",
+      "options": [
+        "Justice Sudhir Singh",
+        "Justice Surya Kant",
+        "Justice Manash Ranjan Pathak",
+        "Justice P. Sam Koshy"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "The Supreme Court Collegium recently proposed four judges for High Court Chief Justiceships: Justice Manash Ranjan Pathak, Justice P. Sam Koshy, Justice Tapabrata Chakraborty, and Justice Sudhir Singh. Justice Surya Kant is currently the Chief Justice of India and was not among those proposed for a High Court Chief Justiceship.",
+      "background": "The Supreme Court Collegium plays a crucial role in the appointment and transfer of judges in the Indian higher judiciary. Its recommendations are vital for filling judicial vacancies and ensuring the smooth functioning of High Courts across the country.",
+      "examRelevance": "Justice Manash Ranjan Pathak, Justice P. Sam Koshy, Justice Tapabrata Chakraborty, Justice Sudhir Singh proposed for HC CJ.",
+      "tags": [
+        "Supreme Court Collegium",
+        "High Court Chief Justice",
+        "Judicial Appointments"
+      ],
+      "source": {
+        "title": "Supreme Court Collegium proposes four judges for HC Chief Justiceships",
+        "url": "https://www.thehindu.com/news/national/supreme-court-collegium-proposes-four-judges-for-hc-chief-justiceships/article71629756.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q28",
+      "question": "How many schools in Andhra Pradesh were converted into relief shelters by the state government due to the threat of Cyclone Arnab?",
+      "options": [
+        "609",
+        "450",
+        "580",
+        "720"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "In response to the threat posed by Cyclone Arnab, the Andhra Pradesh government converted 609 schools in 16 coastal districts into relief shelters. Additionally, 17,054 NCC, NSS, and Scouts volunteers were mobilized to assist in relief efforts.",
+      "background": "Turning schools into relief shelters is a common disaster preparedness measure in India, providing safe temporary accommodation for evacuees, especially in coastal regions prone to cyclones. This helps minimize loss of life and provides basic necessities.",
+      "examRelevance": "Andhra Pradesh schools converted to relief shelters for Cyclone Arnab = 609.",
+      "tags": [
+        "Cyclone Arnab",
+        "Andhra Pradesh",
+        "Relief Shelters",
+        "Schools",
+        "Disaster Preparedness"
+      ],
+      "source": {
+        "title": "Cyclone Arnab: 609 Andhra schools turn into relief shelters",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-609-andhra-schools-turn-into-relief-shelters/article71634201.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q29",
+      "question": "India and Poland aim to increase their bilateral trade to what target figure, as Poland pivots towards India for strategic partnership?",
+      "options": [
+        "US$15 billion",
+        "US$10 billion",
+        "US$8 billion",
+        "US$12 billion"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Poland and India are seeking to raise their bilateral trade from the current US$6 billion to a target of US$10 billion. This comes as Poland pivots towards India, developing its 'strategic partnership' amidst developing cracks in its relationship with China.",
+      "background": "India and Poland elevated their ties to a 'strategic partnership' during Prime Minister Modi's visit to Poland in 2024. Poland is looking to diversify its partnerships due to trade imbalances and Beijing's support for Russia, which has deepened disillusionment with China.",
+      "examRelevance": "India and Poland aim to increase bilateral trade from US$6 billion to US$10 billion.",
+      "tags": [
+        "India",
+        "Poland",
+        "Bilateral Trade",
+        "Strategic Partnership"
+      ],
+      "source": {
+        "title": "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
+        "url": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q30",
+      "question": "India's Free Trade Agreement (FTA) talks are nearing conclusion with which South American country?",
+      "options": [
+        "Argentina",
+        "Peru",
+        "Chile",
+        "Brazil"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "India's Free Trade Agreement (FTA) talks are nearing conclusion with the South American country of Chile. This development indicates strengthening economic ties between the two nations.",
+      "background": "Free Trade Agreements are designed to reduce trade barriers and facilitate smoother economic exchanges between countries. Concluding an FTA with Chile would open new markets for Indian goods and services and enhance bilateral trade relations.",
+      "examRelevance": "India's FTA talks with Chile nearing conclusion.",
+      "tags": [
+        "India",
+        "Chile",
+        "FTA",
+        "Trade Relations"
+      ],
+      "source": {
+        "title": "India’s FTA talks with Chile nearing conclusion",
+        "url": "https://economictimes.indiatimes.com/news/india/piyush-goyal-says-india-chile-fta-talks-quite-ripe-for-conclusion-canada-negotiations-making-progress/articleshow/135224807.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q31",
+      "question": "Union Defence Minister Rajnath Singh recently called for which phase of 'Aatmanirbharta' (self-reliance) in the defence sector?",
+      "options": [
+        "Aatmanirbharta Defence",
+        "Aatmanirbharta 3.0",
+        "Aatmanirbharta 1.0",
+        "Aatmanirbharta 2.0"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "Union Defence Minister Rajnath Singh recently called for 'Aatmanirbharta 2.0' in the defence sector. He emphasized building on gains from the past decade and focusing on advanced technologies and resilient supply chains.",
+      "background": "Aatmanirbharta (self-reliance) in defence is a key policy initiative of the Indian government aimed at reducing dependence on foreign arms imports and boosting indigenous defence manufacturing. 'Aatmanirbharta 2.0' signifies an advanced stage focusing on cutting-edge technologies.",
+      "examRelevance": "Rajnath Singh called for 'Aatmanirbharta 2.0' in defence.",
+      "tags": [
+        "Rajnath Singh",
+        "Aatmanirbharta",
+        "Defence",
+        "Self-Reliance"
+      ],
+      "source": {
+        "title": "Rajnath Singh calls for ‘Aatmanirbharta 2.0’ in defence, stresses advanced technologies and resilient supply chains",
+        "url": "https://www.thehindu.com/news/national/rajnath-singh-calls-for-aatmanirbharta-20-in-defence-stresses-advanced-technologies-and-resilient-supply-chains/article71627117.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q32",
+      "question": "The state of Gujarat is undertaking a tourism makeover project with an estimated budget of approximately how much?",
+      "options": [
+        "₹426 crore",
+        "₹526 crore",
+        "₹226 crore",
+        "₹326 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "Gujarat is undertaking a significant tourism makeover project with an estimated budget of approximately ₹426 crore. This initiative includes various developments like a rainforest project, cruise services, and new gardens.",
+      "background": "States often invest in tourism infrastructure and promotions to attract visitors, boost local economies, and create employment opportunities. Gujarat has been actively promoting its tourism, including sites like the Statue of Unity.",
+      "examRelevance": "Gujarat tourism makeover = ₹426 crore budget.",
+      "tags": [
+        "Gujarat",
+        "Tourism",
+        "Makeover",
+        "Infrastructure",
+        "Development"
+      ],
+      "source": {
+        "title": "Inside Gujarat's Rs 426 cr tourism makeover",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/inside-gujarats-rs-426-cr-tourism-makeover-rs-14-3-cr-rain-forest-rs-16-cr-cruise-rs-50-cr-irctc-hotel-rs-5-79-cr-cactus-butterfly-garden/articleshow/135389818.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q33",
+      "question": "Which Chief Justice of India (CJI) is scheduled to head a three-judge Bench to hear petitions challenging the new privacy law?",
+      "options": [
+        "D.Y. Chandrachud",
+        "U.U. Lalit",
+        "Surya Kant",
+        "N.V. Ramana"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "A three-judge Bench headed by Chief Justice of India (CJI) Surya Kant is scheduled to hear a batch of petitions challenging the new privacy law. These petitions were filed by activists and a media association.",
+      "background": "The Supreme Court frequently hears petitions challenging various laws and policies, upholding its role as the guardian of the Constitution. Privacy laws, in particular, often spark debates about individual rights versus state interests.",
+      "examRelevance": "CJI Surya Kant to head Bench for privacy law petitions.",
+      "tags": [
+        "Supreme Court",
+        "CJI Surya Kant",
+        "Privacy Law",
+        "Judiciary"
+      ],
+      "source": {
+        "title": "Media association challenges privacy law in Supreme Court",
+        "url": "https://www.thehindu.com/news/national/indian-publishers-contest-modi-governments-privacy-law/article71627054.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q34",
+      "question": "According to a recent science newsletter, what environmental role do humble salt marshes play in relation to the ocean?",
+      "options": [
+        "They soften the ocean’s fury",
+        "They increase ocean salinity",
+        "They accelerate coastal erosion",
+        "They serve as breeding grounds for deep-sea fish"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The Hindu's weekly 'Science for All' newsletter explains that humble salt marshes play a crucial environmental role by softening the ocean’s fury. They act as natural buffers, protecting coastlines from storms and erosion.",
+      "background": "Salt marshes are coastal wetlands that are flooded and drained by salt water brought in by the tides. They are vital ecosystems, providing habitats for diverse wildlife, filtering pollutants, and acting as natural carbon sinks.",
+      "examRelevance": "Salt marshes soften the ocean's fury, protecting coastlines.",
+      "tags": [
+        "Salt Marshes",
+        "Environment",
+        "Coastal Protection",
+        "Ecosystems"
+      ],
+      "source": {
+        "title": "How the humble salt marsh softens the ocean’s fury",
+        "url": "https://www.thehindu.com/sci-tech/science/science-for-all-newsletter-how-the-humble-salt-marsh-softens-the-oceans-fury/article71630237.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q35",
+      "question": "The new E100 vehicle rules, which modify emission standards and testing provisions, involve amendments to which specific rules for motor vehicles?",
+      "options": [
+        "Rule 115 and Rule 115E",
+        "Rule 95 and Rule 95C",
+        "Rule 100 and Rule 100A",
+        "Rule 120 and Rule 120B"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "The new E100 vehicle rules involve amendments to Rule 115 and Rule 115E. Rule 115 deals with emission standards and related requirements for motor vehicles, while Rule 115E contains additional provisions relating to emission testing.",
+      "background": "E100 refers to vehicles designed to run entirely on ethanol (100% ethanol fuel). These rule amendments are part of India's efforts to promote cleaner fuels and reduce carbon emissions in the transport sector, aligning with environmental goals.",
+      "examRelevance": "E100 vehicle rules = amendments to Rule 115 and Rule 115E.",
+      "tags": [
+        "E100 Vehicles",
+        "Emission Standards",
+        "Motor Vehicle Rules",
+        "Science & Tech",
+        "Environment"
+      ],
+      "source": {
+        "title": "What the new E100 vehicle rules mean | Explained",
+        "url": "https://www.thehindu.com/news/national/what-the-new-e100-vehicle-rules-mean-explained/article71629895.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q36",
+      "question": "Which country's Foreign Minister recently arrived in the U.S. for a G20 meeting, where he plans to argue against international sanctions?",
+      "options": [
+        "China",
+        "India",
+        "Brazil",
+        "Russia"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Russian Foreign Minister Sergey Lavrov recently arrived in the U.S. to attend a G20 meeting. During his speech at the meeting, Lavrov intends to advocate against the imposition of international sanctions.",
+      "background": "The G20 (Group of Twenty) is an intergovernmental forum comprising 19 countries and the European Union. It works to address major issues related to the global economy, such as international financial stability, climate change mitigation, and sustainable development.",
+      "examRelevance": "Sergey Lavrov = Russian Foreign Minister, attending G20 meeting in U.S.",
+      "tags": [
+        "Sergey Lavrov",
+        "G20",
+        "Russia",
+        "U.S.",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Russian Foreign Minister Sergey Lavrov arrives in U.S. for G20 meeting",
+        "url": "https://www.thehindu.com/news/international/russian-foreign-minister-sergey-lavrov-arrives-in-us-for-g20-talks-against-sanctions-amid-mounting-global-tensions/article71643693.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q37",
+      "question": "The 7.5-km elevated corridor of the Bengaluru Metro Pink Line between Kalena Agrahara and Tavarekere is likely to be inaugurated on which date?",
+      "options": [
+        "October 31",
+        "January 26",
+        "December 1",
+        "November 15"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The 7.5-km elevated corridor of the Bengaluru Metro Pink Line, connecting Kalena Agrahara and Tavarekere, is likely to be inaugurated on November 15. The line received clearance from the Commissioner of Metro Railway Safety.",
+      "background": "The Pink Line is a crucial expansion of the Bengaluru Metro network, aimed at improving connectivity and reducing traffic congestion in India's technology hub. Metro projects typically require safety clearances before public operation.",
+      "examRelevance": "Bengaluru Metro Pink Line elevated corridor to be inaugurated on November 15.",
+      "tags": [
+        "Bengaluru Metro",
+        "Pink Line",
+        "Infrastructure",
+        "Inauguration"
+      ],
+      "source": {
+        "title": "Pink Line elevated corridor likely to be inaugurated on November 15: CM",
+        "url": "https://www.thehindu.com/news/cities/bangalore/pink-line-elevated-corridor-likely-to-be-inaugurated-on-november-15-cm-page-one/article71637448.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q38",
+      "question": "India's External Affairs Minister Jaishankar is currently in the U.S. to participate in the G20 Foreign Ministers’ meet. Who is scheduled to deliver the opening address on geopolitical issues at this two-day deliberation?",
+      "options": [
+        "Wang Yi",
+        "Marco Rubio",
+        "Antony Blinken",
+        "Sergey Lavrov"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "External Affairs Minister S. Jaishankar is in the U.S. to attend the two-day G20 Foreign Ministers’ meet. The deliberations are set to begin with an address on geopolitical issues by Mr. Marco Rubio.",
+      "background": "This meeting provides a platform for foreign ministers of the world's major economies to discuss pressing global challenges, including geopolitical tensions, economic stability, and sustainable development goals.",
+      "examRelevance": "EAM Jaishankar attending G20 Foreign Ministers’ meet in U.S., Marco Rubio to address.",
+      "tags": [
+        "Jaishankar",
+        "G20",
+        "U.S.",
+        "Foreign Ministers Meet",
+        "Marco Rubio",
+        "International Relations"
+      ],
+      "source": {
+        "title": "External Affairs Minister Jaishankar in U.S. for G20 Foreign Ministers’ meet",
+        "url": "https://www.thehindu.com/news/national/external-affairs-minister-jaishankar-g20-foreign-ministers-meet-in-atlanta/article71643686.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q39",
+      "question": "Which two reservoirs in Telangana have been reported to be at their lowest storage levels according to recent CWC data?",
+      "options": [
+        "Jurala and Sriram Sagar",
+        "Nagarjunasagar and Singur",
+        "Musi Project and Kaddam",
+        "Lower Manair and Nizam Sagar"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "According to recent CWC data, Nagarjunasagar and Singur reservoirs in Telangana have been reported to be at their lowest storage levels. In contrast, Lower Manair recorded the highest storage at 70.01% of its live capacity.",
+      "background": "Reservoir storage levels are critical for agricultural irrigation, drinking water supply, and power generation. Below-normal storage can indicate drought conditions or inefficient water management, impacting various sectors of the state's economy and public life.",
+      "examRelevance": "Nagarjunasagar and Singur reservoirs = lowest storage in Telangana.",
+      "tags": [
+        "Telangana",
+        "Reservoirs",
+        "Water Storage",
+        "CWC",
+        "Nagarjunasagar",
+        "Singur"
+      ],
+      "source": {
+        "title": "Telangana reservoirs storage below normal; Nagarjunasagar and Singur at lowest, CWC data shows",
+        "url": "https://www.thehindu.com/news/national/telangana/telangana-state-reservoirs-storage-below-normal-nagarjunasagar-and-singur-at-lowest-cwc-data-shows/article71627926.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q40",
+      "question": "The New Amnesty Scheme 2025 has been extended until which date?",
+      "options": [
+        "November 30",
+        "January 15",
+        "February 28",
+        "December 31"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The New Amnesty Scheme 2025, which provides a window for compliance or relief, has been extended until December 31. This extension offers additional time for individuals or entities to avail of the scheme's benefits.",
+      "background": "Amnesty schemes are often introduced by governments to encourage compliance with tax regulations, resolve disputes, or regularize certain activities, typically by offering waivers or concessions for a specified period.",
+      "examRelevance": "New Amnesty Scheme 2025 extended until December 31.",
+      "tags": [
+        "Amnesty Scheme",
+        "Government Scheme",
+        "Extension",
+        "Compliance"
+      ],
+      "source": {
+        "title": "New Amnesty Scheme extended. Check details",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/new-amnesty-scheme-2025-extended-till-december-31-check-details-here/articleshow/135289695.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q41",
+      "question": "Kozhikode recently marked how many years since it received the 'City of Literature' recognition?",
+      "options": [
+        "Four years",
+        "One year",
+        "Three years",
+        "Two years"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "Kozhikode recently marked three years since it received the 'City of Literature' recognition. Writers in the region are now advocating for increased focus at the local level, including accessible public spaces for literary programmes and initiatives for young writers.",
+      "background": "The 'City of Literature' designation is part of the UNESCO Creative Cities Network, which recognizes cities for their commitment to fostering creativity as a strategic factor for sustainable urban development. This recognition boosts cultural tourism and local literary activities.",
+      "examRelevance": "Kozhikode marked three years as a 'City of Literature'.",
+      "tags": [
+        "Kozhikode",
+        "City of Literature",
+        "UNESCO",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "As Kozhikode marks three years of ‘City of Literature’ recognition, writers seek more focus at local level",
+        "url": "https://www.thehindu.com/news/national/kerala/as-kozhikode-marks-three-years-of-city-of-literature-recognition-writers-seek-more-focus-at-local-level/article71636386.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q42",
+      "question": "What is the revised deadline for the opening of six Chennai Metro Rail stations on Arcot Road, which has been missed yet again?",
+      "options": [
+        "March 2027",
+        "January 2027",
+        "December 2026",
+        "June 2027"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The Chennai Metro Rail has missed its deadline yet again, with six stations on Arcot Road now expected to open in March 2027. Officials stated that construction will be completed in January, but signalling work is anticipated to take another two months, potentially extending further.",
+      "background": "Infrastructure projects often face delays due to various factors including land acquisition, technical challenges, and coordination issues. Chennai Metro Rail is a crucial urban transport project aimed at easing traffic congestion in the city.",
+      "examRelevance": "Six Chennai Metro Rail stations on Arcot Road are now expected to open in March 2027.",
+      "tags": [
+        "Chennai Metro Rail",
+        "Arcot Road",
+        "Project Delay",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "Chennai Metro Rail misses deadline yet again, 6 stations on Arcot Road to open in March 2027",
+        "url": "https://www.thehindu.com/news/cities/chennai/chennai-metro-rail-misses-deadline-yet-again-6-stations-on-arcot-road-to-open-in-march-2027/article71636262.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q43",
+      "question": "Luiz Inácio Lula da Silva recently secured a fourth term as the President of which South American country?",
+      "options": [
+        "Argentina",
+        "Colombia",
+        "Chile",
+        "Brazil"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Luiz Inácio Lula da Silva secured a dramatic comeback to win a fourth term as the President of Brazil. His party recognized his election win after he trailed in the first round.",
+      "background": "Lula da Silva is a prominent figure in global politics, known for his previous terms as Brazil's president. His return to power marks a significant political shift in Brazil and has implications for regional and international relations.",
+      "examRelevance": "Luiz Inácio Lula da Silva = President of Brazil for a fourth term.",
+      "tags": [
+        "Luiz Inácio Lula da Silva",
+        "Brazil",
+        "Elections",
+        "Politics"
+      ],
+      "source": {
+        "title": "Bolsonaro’s party says it recognises Lula’s election win in Brazil",
+        "url": "https://www.thehindu.com/news/international/bolsonaros-party-says-it-recognises-lulas-election-win-in-brazil/article71629613.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q44",
+      "question": "By how much has the price of commercial LPG been hiked per cylinder recently?",
+      "options": [
+        "₹10",
+        "₹20",
+        "₹5",
+        "₹15"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The price of commercial LPG has recently been hiked by ₹10 per cylinder. Additionally, the price of Aviation Turbine Fuel (ATF) was also increased by ₹1.37 per litre, bringing its cost to ₹138.5 per litre.",
+      "background": "Changes in LPG and ATF prices are typically influenced by global crude oil prices, currency exchange rates, and government taxation policies. These hikes can impact businesses and the aviation sector.",
+      "examRelevance": "Commercial LPG prices hiked by ₹10 per cylinder.",
+      "tags": [
+        "LPG",
+        "Commercial LPG",
+        "Price hike",
+        "Economy"
+      ],
+      "source": {
+        "title": "Commercial LPG prices hiked ₹10/cylinder; ATF hiked ₹1.37/litre",
+        "url": "https://www.thehindu.com/business/Industry/commercial-lpg-prices-hiked-by-around-10-per-cylinder/article71652063.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q45",
+      "question": "Who is the current Chief of Air Staff of the Indian Air Force (IAF) who recently outlined his core focus areas under the acronym VAYU?",
+      "options": [
+        "Air Chief Marshal Birender Singh Dhanoa",
+        "Air Chief Marshal R.K.S. Bhadauria",
+        "Air Chief Marshal Vivek Ram Chaudhari",
+        "Air Chief Marshal Ashutosh Dixit"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Air Chief Marshal Ashutosh Dixit is the newly appointed Chief of Air Staff of the Indian Air Force. He recently outlined his core focus areas under the acronym VAYU, which stands for Vigilance and operational readiness, Aatmanirbharta (self-reliance), Yukti (tactical innovation), and Unity of effort across the tri-services.",
+      "background": "The Chief of Air Staff is the professional head and the commander of the Indian Air Force. The VAYU vision emphasizes key strategic priorities for the IAF in current and future operational environments.",
+      "examRelevance": "Air Chief Marshal Ashutosh Dixit is the current Chief of Air Staff of the IAF.",
+      "tags": [
+        "Air Chief Marshal Ashutosh Dixit",
+        "IAF",
+        "VAYU",
+        "Appointments"
+      ],
+      "source": {
+        "title": "Every squadron, air defence unit, air warrior must be ready to respond at moment’s notice: IAF Chief Dixit",
+        "url": "https://www.thehindu.com/news/national/newly-appointed-chief-of-air-staff-air-chief-marshal-ashutosh-dixit/article71652223.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q46",
+      "question": "Which renowned tennis player recently announced his retirement after a defeat in Basel, concluding a 24-year professional career?",
+      "options": [
+        "Stan Wawrinka",
+        "Novak Djokovic",
+        "Roger Federer",
+        "Rafael Nadal"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Swiss tennis star Stan Wawrinka recently brought his illustrious 24-year professional career to a close after suffering a defeat in Basel. He had announced his intention to retire at the end of the 2026 season last year.",
+      "background": "Wawrinka is a three-time Grand Slam champion, having won the Australian Open in 2014, the French Open in 2015, and the US Open in 2016. He was known for his powerful one-handed backhand.",
+      "examRelevance": "Stan Wawrinka = retired tennis player, defeat in Basel.",
+      "tags": [
+        "Stan Wawrinka",
+        "Tennis",
+        "Retirement",
+        "Basel"
+      ],
+      "source": {
+        "title": "Wawrinka brings career to a close with defeat in Basel",
+        "url": "https://www.thehindu.com/sport/tennis/wawrinka-brings-career-to-a-close-with-defeat-in-basel/article71634663.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q47",
+      "question": "Sanjay Gupta, who recently passed away, was a prominent personality in which field?",
+      "options": [
+        "Filmmaking",
+        "Sports",
+        "Science",
+        "Politics"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Bollywood director and producer Sanjay Gupta, known for films such as Shootout at Lokhandwala, Zinda, and Kaante, recently passed away. He began his career with Aatish: Feel the Fire.",
+      "background": "Sanjay Gupta was a notable filmmaker in the Hindi film industry, often associated with action and crime dramas. His directorial work, particularly Kaante, received critical acclaim for its multi-star cast and heist theme.",
+      "examRelevance": "Filmmaker Sanjay Gupta = passed away.",
+      "tags": [
+        "Sanjay Gupta",
+        "Filmmaker",
+        "Bollywood",
+        "Obituaries"
+      ],
+      "source": {
+        "title": "Filmmaker Sanjay Gupta passes away",
+        "url": "https://economictimes.indiatimes.com/news/india/filmmaker-sanjay-gupta-known-for-mumbai-underworld-dramas-passes-away/articleshow/135391413.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q48",
+      "question": "Following their victory against Chelsea, which team will Liverpool face in the quarterfinals of the Carabao Cup?",
+      "options": [
+        "Brighton & Hove Albion",
+        "Manchester City",
+        "Bradford City",
+        "Bournemouth"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "After beating Chelsea on penalties, Liverpool is set to face Bournemouth in the quarterfinals of the Carabao Cup. Meanwhile, Manchester City, which survived a scare against Brighton, will play Bradford City.",
+      "background": "The Carabao Cup, also known as the EFL Cup, is an annual knockout football competition in men's domestic English football. It is open to all clubs participating in the Premier League and the English Football League.",
+      "examRelevance": "Liverpool will play Bournemouth in the Carabao Cup quarterfinals.",
+      "tags": [
+        "Carabao Cup",
+        "Liverpool",
+        "Bournemouth",
+        "Football"
+      ],
+      "source": {
+        "title": "Carabao Cup: Liverpool beats Chelsea on penalties, Man City survives Brighton scare",
+        "url": "https://www.thehindu.com/sport/football/carabao-cup-liverpool-beats-chelsea-on-penalties-man-city-survives-brighton-scare/article71639070.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q49",
+      "question": "What was the status of Cyclone Arnab as of October 29, 2026, when Home Minister Amit Shah spoke with Chief Ministers of affected states?",
+      "options": [
+        "It weakened into a depression",
+        "It intensified into a Super Cyclonic Storm",
+        "It remained a Severe Cyclonic Storm over the Bay of Bengal",
+        "It made landfall as a Very Severe Cyclonic Storm"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "As of October 29, 2026, Cyclone Arnab weakened into a depression, bringing rain to states like West Bengal. Home Minister Amit Shah spoke with the Chief Ministers of the affected states, assuring them of all necessary support and confirming that NDRF and SDRF teams were engaged in rescue and relief operations.",
+      "background": "Cyclones frequently impact India's coastal regions during the post-monsoon season. The India Meteorological Department (IMD) continuously monitors such systems and issues alerts to facilitate preparedness and minimize damage.",
+      "examRelevance": "Cyclone Arnab weakened into a depression on October 29, 2026, affecting states like West Bengal, Odisha, Andhra Pradesh, and Telangana.",
+      "tags": [
+        "Cyclone Arnab",
+        "Depression",
+        "IMD",
+        "Natural Disaster"
+      ],
+      "source": {
+        "title": "Cyclone Arnab LIVE: Amit Shah speaks with CMs of affected States, assures all support",
+        "url": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q50",
+      "question": "Which new price-masking feature is Zomato set to roll out for group orders?",
+      "options": [
+        "Guest Mode",
+        "Host Mode",
+        "Mehmaan Mode",
+        "Secret Mode"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Zomato is preparing to roll out a new price-masking feature called 'Mehmaan Mode' for group orders. This feature was suggested by a LinkedIn user and aims to enhance the user experience by allowing the host to hide prices from other participants in a group order.",
+      "background": "Food delivery platforms are constantly innovating to improve user experience and cater to diverse customer needs. Features like 'Mehmaan Mode' address social aspects of ordering food in groups.",
+      "examRelevance": "Zomato to roll out 'Mehmaan Mode' for price-masking in group orders.",
+      "tags": [
+        "Zomato",
+        "Mehmaan Mode",
+        "Food Delivery",
+        "Tech Feature"
+      ],
+      "source": {
+        "title": "Zomato to roll out price-masking ‘Mehmaan Mode’",
+        "url": "https://economictimes.indiatimes.com/tech/tech-bytes/zomato-to-roll-out-price-masking-mehmaan-mode-for-group-orders-after-linkedin-users-suggestion/articleshow/135293694.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q51",
+      "question": "What role did Defence Minister Rajnath Singh assert India would continue to play in the Indian Ocean region and wider Indo-Pacific at the ASEAN Defence Ministers' Meeting Plus conclave?",
+      "options": [
+        "A dominant military power",
+        "A trusted net security provider",
+        "A leading cultural ambassador",
+        "A primary economic partner"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "During the ASEAN Defence Ministers' Meeting Plus conclave in the Philippines, Defence Minister Rajnath Singh asserted that India would continue to act as a 'trusted net security provider' in the Indian Ocean region and the wider Indo-Pacific. He also raised concerns about disruptions in certain maritime trade routes.",
+      "background": "The ASEAN Defence Ministers' Meeting Plus (ADMM-Plus) is a platform for ASEAN and its eight dialogue partners (Australia, China, India, Japan, New Zealand, Republic of Korea, Russia, and the United States) to strengthen security and defence cooperation.",
+      "examRelevance": "India acts as a 'trusted net security provider' in the Indian Ocean region and Indo-Pacific, as stated by Defence Minister Rajnath Singh.",
+      "tags": [
+        "Rajnath Singh",
+        "ASEAN",
+        "Indo-Pacific",
+        "Net Security Provider"
+      ],
+      "source": {
+        "title": "India ready to share 'battle-tested' anti-terror expertise with ASEAN, its dialogue partners: Rajnath Singh",
+        "url": "https://www.thehindu.com/news/national/rajnath-singh-india-asean-defence-ministers-meeting-plus-conclave-philippines/article71639347.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q52",
+      "question": "Which Small and Medium Enterprise (SME) is scheduled to be the only new company opening its IPO next week, between November 2 and November 6?",
+      "options": [
+        "Vedant Poly Fabs",
+        "Jio Platforms",
+        "Adani Wilmar",
+        "Bombay Coated & Special Steels"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "India's primary market is set for a quiet week, with only one new IPO scheduled to open for subscription between November 2 and November 6. Vedant Poly Fabs, a Small and Medium Enterprise (SME), will be the sole new company launching its IPO during this period.",
+      "background": "The primary market often experiences fluctuations in IPO activity. After a series of large public offerings, a period of lower activity is common, with SME IPOs sometimes filling the gap.",
+      "examRelevance": "Vedant Poly Fabs is the only new SME IPO opening next week.",
+      "tags": [
+        "IPO",
+        "SME",
+        "Vedant Poly Fabs",
+        "Primary Market"
+      ],
+      "source": {
+        "title": "IPO Calendar: Primary market cools after Jio frenzy, but 13 listings lined up",
+        "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-primary-market-cools-after-jio-frenzy-but-13-listings-lined-up/articleshow/135419009.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q53",
+      "question": "Which country recently warned Afghanistan, stating that terrorism is a 'red line' and threatening action against cross-border threats?",
+      "options": [
+        "Pakistan",
+        "India",
+        "China",
+        "Iran"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Pakistan's Ministry of Information and Broadcasting accused the Afghan Taliban leadership of refusing to address militancy emanating from Afghan soil. Pakistan issued a stern warning to Afghanistan on November 1, 2026, declaring terrorism a 'red line' and warning of action against cross-border threats.",
+      "background": "Pakistan has consistently raised concerns about militant groups operating from Afghanistan, which it claims are responsible for attacks within its borders. The Afghan Taliban, however, have often shifted blame, contributing to deteriorating bilateral ties.",
+      "examRelevance": "Pakistan warned Afghanistan, calling terrorism a 'red line'.",
+      "tags": [
+        "Pakistan",
+        "Afghanistan",
+        "Terrorism",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Terrorism is 'red line': Pakistan tells Afghanistan as it warns of action against cross-border threats",
+        "url": "https://www.thehindu.com/news/international/terrorism-is-red-line-pakistan-tells-afghanistan-as-it-warns-of-action-against-cross-border-threats/article71652279.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q54",
+      "question": "What is the name of the new world model recently unveiled by Google, powered by Gemini AI models, designed for creative direction and immersive experiences?",
+      "options": [
+        "Oracle 2",
+        "Athena 3",
+        "Genie 4",
+        "Titan 5"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Google recently unveiled its new world model named Genie 4, which is powered by Gemini AI models. Suggested use cases for Genie 4 include creative direction, making historical scenarios, generating immersive photographs, designing interactive experiences, and simulation.",
+      "background": "Gemini AI models are a family of multimodal large language models developed by Google AI, known for their advanced capabilities in understanding and generating various forms of data. This new world model builds upon that foundation for more complex applications.",
+      "examRelevance": "Google's new world model = Genie 4, powered by Gemini AI.",
+      "tags": [
+        "Google",
+        "Genie 4",
+        "Gemini AI",
+        "World Model",
+        "Artificial Intelligence"
+      ],
+      "source": {
+        "title": "Google unveils Genie 4 world model powered by Gemini AI models",
+        "url": "https://www.thehindu.com/sci-tech/technology/google-unveils-genie-4-world-model-powered-by-gemini-ai-models/article71634624.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q55",
+      "question": "Who recently became India's first woman wrestling world champion, scripting history in Kazakhstan?",
+      "options": [
+        "Vinesh Phogat",
+        "Manisha Bhanwala",
+        "Geeta Phogat",
+        "Sakshi Malik"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Manisha Bhanwala, a 29-year-old wrestler from Haryana, recently scripted history in Kazakhstan by becoming India’s first woman wrestling world champion. Her victory ended India’s long wait for a women’s wrestling world title.",
+      "background": "Manisha Bhanwala's achievement marks a significant milestone for Indian wrestling on the international stage. Her journey from a village in Haryana to a world champion highlights the growing prowess of Indian women in combat sports.",
+      "examRelevance": "Manisha Bhanwala became India's first woman wrestling world champion.",
+      "tags": [
+        "Manisha Bhanwala",
+        "Wrestling",
+        "World Champion",
+        "Kazakhstan"
+      ],
+      "source": {
+        "title": "Manisha Bhanwala: The 29-year-old who ended India’s wait for a women’s wrestling world title",
+        "url": "https://www.thehindu.com/sport/wrestler-manisha-bhanwala-profile-biography-asian-games-kazakhstan-world-championship-news/article71649354.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q56",
+      "question": "What is the expected Federal Funds target range by the U.S. FOMC, which is widely anticipated to remain unchanged despite elevated inflation?",
+      "options": [
+        "3.75%-4.00%",
+        "3.25%-3.50%",
+        "4.00%-4.25%",
+        "4.25%-4.50%"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The U.S. Federal Open Market Committee (FOMC) is widely expected to keep the Fed Funds target range unchanged at 3.75%-4.00%. This decision is anticipated despite elevated inflation, as global investors remain cautious ahead of the announcement.",
+      "background": "The Federal Funds rate is a key interest rate in the U.S. economy, influencing other interest rates and economic activity. The Federal Reserve uses it as a primary tool for monetary policy to manage inflation and employment.",
+      "examRelevance": "US FOMC expected Fed Funds target range = 3.75%-4.00%.",
+      "tags": [
+        "FOMC",
+        "Federal Funds Rate",
+        "US Economy",
+        "Inflation",
+        "Interest Rates"
+      ],
+      "source": {
+        "title": "Markets plunge nearly 1%; rise in crude, FOMC decision weigh on investor sentiments",
+        "url": "https://www.thehindu.com/business/markets/markets-plunge-rising-crude-oil-prices-fomc-decision-investor-sentiments/article71634407.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q57",
+      "question": "The India Meteorological Department (IMD) recently reported that a low-pressure system over the Andaman Sea is expected to concentrate into a depression off the coast of which Indian state?",
+      "options": [
+        "Andhra Pradesh",
+        "West Bengal",
+        "Tamil Nadu",
+        "Odisha"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The India Meteorological Department (IMD) reported that a well-marked low-pressure system over the Andaman Sea, centered near the southeast Bay of Bengal, is expected to concentrate into a depression off the coast of Andhra Pradesh by night.",
+      "background": "Low-pressure systems are common precursors to cyclonic storms in the Bay of Bengal, especially during the post-monsoon season (October-December). These systems can bring heavy rainfall, strong winds, and coastal impacts to eastern Indian states.",
+      "examRelevance": "Low pressure from Andaman Sea = expected to become depression off Andhra Pradesh.",
+      "tags": [
+        "IMD",
+        "Andaman Sea",
+        "Low Pressure",
+        "Depression",
+        "Andhra Pradesh",
+        "Weather"
+      ],
+      "source": {
+        "title": "Low pressure over Andaman Sea intensifies further",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-over-andaman-sea-intensifies-further/article71648201.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q58",
+      "question": "Who is the current Chief Election Commissioner (CEC) of India against whom pleas are being heard by the Supreme Court?",
+      "options": [
+        "Gyanesh Kumar",
+        "Rajiv Kumar",
+        "Arun Goel",
+        "Anup Chandra Pandey"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Gyanesh Kumar is the current Chief Election Commissioner (CEC) of India. The Supreme Court is currently hearing pleas against him and decisions made during the Special Summary Revision (SIR).",
+      "background": "The Chief Election Commissioner and Election Commissioners are responsible for overseeing the conduct of elections in India, a crucial role in maintaining democratic processes. Their appointments and functioning are often subject to public and judicial scrutiny.",
+      "examRelevance": "Gyanesh Kumar = Current Chief Election Commissioner of India.",
+      "tags": [
+        "Gyanesh Kumar",
+        "CEC",
+        "Election Commission of India",
+        "Supreme Court"
+      ],
+      "source": {
+        "title": "CEC row LIVE: SC to hear pleas against CEC Gyanesh Kumar, decisions during SIR",
+        "url": "https://www.thehindu.com/news/national/cec-row-sir-live-updates-supreme-court-hearing-gyanesh-kumar-oct-27-2026/article71629879.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q59",
+      "question": "To which AIIMS hospital were the mortal remains of the six victims from the recent chopper crash in Uttarakhand sent for necessary formalities?",
+      "options": [
+        "AIIMS Rishikesh",
+        "AIIMS Bhopal",
+        "AIIMS Delhi",
+        "AIIMS Bhubaneswar"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "After a chopper crash in Uttarakhand, the mortal remains of all six victims were recovered. Following the completion of necessary formalities, these remains were transported by helicopter to the All India Institute of Medical Sciences (AIIMS), Rishikesh.",
+      "background": "Chopper crashes in mountainous regions like Uttarakhand often pose significant challenges for rescue and recovery operations due to difficult terrain and weather conditions. AIIMS Rishikesh serves as a crucial medical facility for the region.",
+      "examRelevance": "Mortal remains from Uttarakhand chopper crash sent to AIIMS Rishikesh.",
+      "tags": [
+        "Uttarakhand",
+        "Chopper crash",
+        "AIIMS Rishikesh",
+        "Accident"
+      ],
+      "source": {
+        "title": "Uttarakhand chopper crash: Mortal remains of all six victims recovered, sent to Rishikesh AIIMS",
+        "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-chopper-crash-mortal-remains-of-all-six-victims-recovered-sent-to-rishikesh-aiims/article71652291.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q60",
+      "question": "The Cyberabad Police is planning a one-way traffic loop system to ease congestion in the IT corridor between Biodiversity Junction and which other location?",
+      "options": [
+        "Gachibowli",
+        "Knowledge City",
+        "Hitec City",
+        "Financial District"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "The Cyberabad Police is planning to implement a one-way traffic loop system to alleviate congestion in the IT corridor, specifically from Biodiversity Junction towards Knowledge City. This phased implementation will involve traffic simulations and stakeholder consultations.",
+      "background": "Cyberabad, a major IT hub in Telangana, frequently experiences heavy traffic due to its high concentration of tech companies and residential areas. Traffic management initiatives are crucial for improving commuting efficiency and urban mobility.",
+      "examRelevance": "Cyberabad Police planning one-way traffic from Biodiversity Junction towards Knowledge City.",
+      "tags": [
+        "Cyberabad Police",
+        "Traffic Management",
+        "Knowledge City",
+        "Biodiversity Junction"
+      ],
+      "source": {
+        "title": "Cyberabad Police plans one-way traffic from Biodiversity Junction towards Knowledge City",
+        "url": "https://www.thehindu.com/news/national/telangana/cyberabad-police-plan-one-way-loop-to-ease-it-corridor-traffic/article71637785.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q61",
+      "question": "Who is currently the President of the Telangana BJP?",
+      "options": [
+        "K. Laxman",
+        "N. Ramachander Rao",
+        "G. Kishan Reddy",
+        "Bandi Sanjay Kumar"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "N. Ramachander Rao is currently the President of the Telangana BJP. He is widely considered a frontrunner for the Hyderabad-Rangareddy-Mahabubnagar Graduates’ constituency MLC seat.",
+      "background": "State party presidents play a crucial role in election strategies and political campaigning at the regional level. Their selection often reflects the party's priorities and aims for upcoming elections.",
+      "examRelevance": "N. Ramachander Rao = Telangana BJP President.",
+      "tags": [
+        "Telangana BJP",
+        "N. Ramachander Rao",
+        "Appointments",
+        "Politics"
+      ],
+      "source": {
+        "title": "Jana Sena’s MLC claim sparks unease in Telangana BJP",
+        "url": "https://www.thehindu.com/news/national/telangana/jana-senas-mlc-claim-sparks-unease-in-telangana-bjp/article71628360.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q62",
+      "question": "Thirunelly panchayat, which is using community-based weather data to bolster its demand for drought-hit status, is located in which district of Kerala?",
+      "options": [
+        "Idukki",
+        "Wayanad",
+        "Palakkad",
+        "Malappuram"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Thirunelly panchayat, located in the Wayanad district of Kerala, is using a community-based weather monitoring network to track hyperlocal variability in rainfall patterns and support its demand for drought-hit status.",
+      "background": "Community-based data collection can be vital for local governance and disaster management, providing granular information that complements official data. This approach helps in making timely interventions and advocating for necessary government assistance during environmental crises like drought.",
+      "examRelevance": "Thirunelly panchayat demanding drought status is in Wayanad, Kerala.",
+      "tags": [
+        "Thirunelly",
+        "Wayanad",
+        "Kerala",
+        "Drought",
+        "Weather Data"
+      ],
+      "source": {
+        "title": "How community-based weather data is bolstering this Wayanad panchayat’s demand for drought-hit status",
+        "url": "https://www.thehindu.com/news/national/kerala/how-community-based-weather-data-is-bolstering-this-wayanad-panchayats-demand-for-drought-hit-status/article71628696.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q63",
+      "question": "Who was the anti-drug crusader recently killed in Punjab, whose death has led to heightened public emotions and political attention?",
+      "options": [
+        "Navjot Singh Sidhu",
+        "Bhagwant Mann",
+        "Sukhbir Singh Badal",
+        "Parvinder Singh Jhota"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "Anti-drug crusader Parvinder Singh Jhota was recently killed in Punjab. His death has significantly heightened public emotions and brought the drug menace back to the centre of political and social attention in the state.",
+      "background": "The drug menace has been a persistent issue in Punjab for over a decade. With Assembly elections due in early 2027, political parties are reportedly looking to capitalize on the public sentiment surrounding this issue.",
+      "examRelevance": "Parvinder Singh Jhota, an anti-drug crusader, was recently killed in Punjab.",
+      "tags": [
+        "Punjab",
+        "Drug menace",
+        "Parvinder Singh Jhota",
+        "Current Affairs"
+      ],
+      "source": {
+        "title": "In Punjab, the highway to 2027",
+        "url": "https://www.thehindu.com/news/national/punjab/in-punjab-the-highway-to-2027/article71649073.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q64",
+      "question": "Justice Tapabrata Chakraborty, previously of the Calcutta High Court, has been elevated as the Chief Justice of which High Court?",
+      "options": [
+        "Madras High Court",
+        "Andhra Pradesh High Court",
+        "Kerala High Court",
+        "Telangana High Court"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Justice Tapabrata Chakraborty, who previously served at the Calcutta High Court, has been elevated as the Chief Justice of the Telangana High Court.",
+      "background": "Judicial appointments and elevations are made through the Supreme Court Collegium system, which recommends judges for various High Courts and the Supreme Court. These appointments are crucial for the functioning of the Indian judiciary.",
+      "examRelevance": "Justice Tapabrata Chakraborty = Telangana High Court Chief Justice.",
+      "tags": [
+        "Justice Tapabrata Chakraborty",
+        "Telangana High Court",
+        "Chief Justice",
+        "Judicial Appointments"
+      ],
+      "source": {
+        "title": "Justice Tapabrata Chakraborty of Calcutta HC elevated as Telangana HC Chief Justice",
+        "url": "https://www.thehindu.com/news/national/telangana/justice-tapabrata-chakraborty-of-calcutta-hc-elevated-as-telangana-hc-chief-justice/article71629800.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q65",
+      "question": "Which city in Karnataka is planning to take its power cables underground across 17 road stretches to emulate Varanasi and give a cleaner look to its streets?",
+      "options": [
+        "Hubballi",
+        "Mysuru",
+        "Bengaluru",
+        "Kalaburagi"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Kalaburagi, a city in Karnataka, is planning to take its power cables underground across 17 road stretches, a move inspired by Varanasi's efforts to enhance street aesthetics. This initiative is part of a proposal by GESCOM to improve the city's visual appeal.",
+      "background": "The project aims to reduce visual clutter, enhance safety, and improve the overall urban infrastructure by shifting overhead power lines below ground, contributing to a cleaner and more modern streetscape.",
+      "examRelevance": "Kalaburagi = Plans to take power cables underground, inspired by Varanasi.",
+      "tags": [
+        "Kalaburagi",
+        "Karnataka",
+        "Underground Cables",
+        "Urban Development",
+        "GESCOM"
+      ],
+      "source": {
+        "title": "Kalaburagi to emulate Varanasi, plans to take power cables underground in bid to give cleaner look to streets",
+        "url": "https://www.thehindu.com/news/national/karnataka/plan-to-take-power-cables-underground-in-bid-to-give-cleaner-look-to-streets-in-kalaburagi/article71640509.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q66",
+      "question": "Jadu, the lone rhino affectionately known as Shambhu, recently passed away at the age of 39 in which zoo?",
+      "options": [
+        "Thiruvananthapuram Zoo",
+        "Mysuru Zoo",
+        "Indore Zoo",
+        "Chennai Zoo"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Jadu, the lone rhino at the Thiruvananthapuram zoo, affectionately called Shambhu by the staff, passed away at the age of 39. Rhinos are a vulnerable species, and their deaths in captivity are significant for conservation efforts.",
+      "background": "The Indian rhinoceros (Rhinoceros unicornis) is listed as Vulnerable on the IUCN Red List. Zoos play a role in conservation, breeding programs, and public awareness about endangered species.",
+      "examRelevance": "Jadu the rhino = Thiruvananthapuram Zoo = passed away.",
+      "tags": [
+        "Jadu",
+        "Rhino",
+        "Thiruvananthapuram Zoo",
+        "Obituaries",
+        "Kerala"
+      ],
+      "source": {
+        "title": "Jadu, lone rhino at Thiruvananthapuram zoo, dead",
+        "url": "https://www.thehindu.com/news/national/kerala/jadu-lone-rhino-at-thiruvananthapuram-zoo-dead/article71648414.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q67",
+      "question": "A theft case convict, Raghavan, recently escaped from police custody before being lodged in the Central Prison of which city in Tamil Nadu?",
+      "options": [
+        "Coimbatore",
+        "Chennai",
+        "Madurai",
+        "Salem"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "A theft case convict named Raghavan recently escaped from police custody before being lodged in Coimbatore Central Prison in Tamil Nadu. This marks the second time Raghavan has escaped from custody, leading to the suspension of four police personnel.",
+      "background": "Escapes from police custody highlight issues with security protocols, staff vigilance, and potentially overcrowding in detention facilities. Such incidents often trigger internal investigations and reviews of security measures.",
+      "examRelevance": "Convict escaped from police custody = Coimbatore Central Prison.",
+      "tags": [
+        "Coimbatore",
+        "Tamil Nadu",
+        "Police custody",
+        "Escape",
+        "Raghavan"
+      ],
+      "source": {
+        "title": "Man escapes from police custody before being lodged in Coimbatore Central Prison",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/convict-escapes-from-police-custody-before-being-lodged-in-coimbatore-central-prison/article71648346.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q68",
+      "question": "In the September quarter of FY27, Ather Energy reported its first-ever quarterly net profit of how much?",
+      "options": [
+        "Rs 5.00 crore",
+        "Rs 0.50 crore",
+        "Rs 1.26 crore",
+        "Rs 2.50 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "In the September quarter of FY27, Ather Energy reported its first-ever quarterly net profit of Rs 1.26 crore. This marks a significant turnaround from a net loss of Rs 154 crore in the year-ago period, with revenue growing by nearly 63% year-on-year to Rs 1,464 crore.",
+      "background": "Achieving profitability is a key milestone for electric vehicle (EV) manufacturers like Ather Energy, especially in a competitive and rapidly evolving market. Strong financial results can boost investor confidence and support future expansion plans.",
+      "examRelevance": "Ather Energy reported Rs 1.26 crore net profit in Q2 FY27.",
+      "tags": [
+        "Ather Energy",
+        "Q2 Results",
+        "Net Profit",
+        "Electric Scooters"
+      ],
+      "source": {
+        "title": "Ather Energy shares jump 5%, extend rally to 20% in two days after Q2 results. Can the run continue?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-jump-5-extend-rally-to-20-in-two-days-after-q2-results-can-the-run-continue/articleshow/135225009.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q69",
+      "question": "From which coal mine in West Bengal were 14 workers recently rescued after being trapped due to a pulley system malfunction?",
+      "options": [
+        "Talcher Coalfield",
+        "Raniganj Coalfield",
+        "Jharia Coalfield",
+        "Kumardihi A mine"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "All 14 workers trapped in the Kumardihi A mine in West Bengal were successfully rescued. They were stranded in two lifting cages following a pulley system malfunction.",
+      "background": "Mining operations inherently carry risks, and safety protocols are critical to prevent accidents. Incidents like this highlight the challenges faced by mining workers and the importance of robust safety mechanisms and emergency response plans.",
+      "examRelevance": "14 workers rescued from Kumardihi A mine in West Bengal.",
+      "tags": [
+        "West Bengal",
+        "Coal Mine",
+        "Rescue Operation",
+        "Kumardihi A mine"
+      ],
+      "source": {
+        "title": "All 14 workers trapped at Bengal coal mine rescued",
+        "url": "https://www.thehindu.com/news/national/west-bengal/all-14-workers-trapped-at-bengal-coal-mine-rescued/article71629857.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q70",
+      "question": "According to NFHS-6 data, what is the rate of Caesarean sections (C-sections) in West Bengal?",
+      "options": [
+        "27.2%",
+        "50.0%",
+        "44.5%",
+        "35.0%"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "According to NFHS-6 data, the rate of Caesarean sections (C-sections) in West Bengal is 44.5%. This figure is nearly double the 2015-16 level and significantly higher than the national average of 27.2%.",
+      "background": "The National Family Health Survey (NFHS) provides crucial data on health and family welfare indicators across India. High rates of C-sections, especially in private facilities, often raise concerns about unnecessary medical interventions and their potential health and economic implications.",
+      "examRelevance": "West Bengal C-section rate (NFHS-6) = 44.5%.",
+      "tags": [
+        "West Bengal",
+        "C-sections",
+        "NFHS-6",
+        "Health Statistics"
+      ],
+      "source": {
+        "title": "Why West Bengal’s C-Sections, at nearly 1 in 2 births, demand a hard look",
+        "url": "https://www.thehindu.com/sci-tech/health/why-west-bengals-c-sections-at-nearly-1-in-2-births-demand-a-hard-look/article71619366.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q71",
+      "question": "Which of the following states celebrated its Foundation Day on November 1, 2026, alongside Madhya Pradesh, Chhattisgarh, Haryana, and Karnataka?",
+      "options": [
+        "Tamil Nadu",
+        "Odisha",
+        "Gujarat",
+        "Rajasthan"
+      ],
+      "answerIndex": 0,
+      "category": "Dates & Days",
+      "explanation": "On November 1, 2026, Prime Minister Modi extended greetings to the people of six states celebrating their Foundation Day. These states are Madhya Pradesh, Chhattisgarh, Haryana, Karnataka, Tamil Nadu, and Keralam.",
+      "background": "November 1 is significant in India's history as it marks the formation or reorganization of several states. For instance, Madhya Pradesh, Chhattisgarh, Haryana, Karnataka, Kerala, and Tamil Nadu all have historical connections to this date, primarily due to the States Reorganisation Act of 1956.",
+      "examRelevance": "Tamil Nadu and Keralam celebrated Foundation Day on November 1, 2026.",
+      "tags": [
+        "Foundation Day",
+        "November 1",
+        "States of India",
+        "Tamil Nadu",
+        "Keralam"
+      ],
+      "source": {
+        "title": "PM Modi greets people of six States on foundation day",
+        "url": "https://www.thehindu.com/news/national/pm-modi-greets-people-of-six-states-on-foundation-day/article71652205.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q72",
+      "question": "Muhammed Riswan, a freestyle footballer from Malappuram, recently won the Instagram Rings 2026 award. Which social media platform presents this creator award?",
+      "options": [
+        "YouTube",
+        "Instagram",
+        "TikTok",
+        "Facebook"
+      ],
+      "answerIndex": 1,
+      "category": "Awards & Honours",
+      "explanation": "Muhammed Riswan, a freestyle footballer hailing from Malappuram, is one of the 25 global recipients of the Instagram Rings 2026 award. This creator award is presented by the social media platform Instagram and was selected by a jury of 14 members.",
+      "background": "The Instagram Rings is an award recognizing creators on the platform. Muhammed Riswan is one of two Indian creators to receive this honour in 2026, highlighting his influence and creativity in freestyle football.",
+      "examRelevance": "Muhammed Riswan = Instagram Rings 2026 winner.",
+      "tags": [
+        "Muhammed Riswan",
+        "Instagram Rings 2026",
+        "Awards",
+        "Freestyle Football"
+      ],
+      "source": {
+        "title": "Meet freestyle footballer Muhammed Riswan, one of the two Indian creators to win the Instagram Rings 2026",
+        "url": "https://www.thehindu.com/life-and-style/meet-freestyle-footballer-muhammed-riswan-one-of-the-two-indian-creators-to-win-the-instagram-rings-2026/article71643896.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q73",
+      "question": "A depression over the Bay of Bengal recently intensified into a deep depression and is expected to become a severe cyclonic storm over which region on November 2?",
+      "options": [
+        "South-East Bay of Bengal",
+        "Eastcentral Bay of Bengal",
+        "Westcentral Bay of Bengal",
+        "North Bay of Bengal"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "A depression over the Bay of Bengal intensified into a deep depression. This system is likely to further intensify into a severe cyclonic storm over the westcentral Bay of Bengal on November 2.",
+      "background": "The Bay of Bengal is a common breeding ground for cyclonic storms, especially during the post-monsoon season (October-December). These storms often pose threats to coastal regions of India, Bangladesh, and Myanmar.",
+      "examRelevance": "Deep depression in Bay of Bengal expected to become severe cyclonic storm over westcentral Bay of Bengal.",
+      "tags": [
+        "Bay of Bengal",
+        "Cyclone",
+        "Deep depression",
+        "Weather"
+      ],
+      "source": {
+        "title": "Depression intensifies into deep depression over Bay of Bengal",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/bay-of-bengal-deep-depression-cyclonic-storm-andhra-pradesh-november-1-2026-updates/article71652131.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q74",
+      "question": "A Tamil YouTube cooking channel recently achieved a significant milestone by crossing how many subscribers?",
+      "options": [
+        "50 lakh",
+        "1 crore",
+        "75 lakh",
+        "1.5 crore"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "A Tamil YouTube cooking channel, originating from Chinna Veeramangalam village, recently crossed the significant milestone of 1 crore subscribers. This achievement has brought global attention to the village and its traditional culinary practices.",
+      "background": "YouTube has become a powerful platform for cultural exchange and showcasing local talents. Cooking channels, especially those highlighting traditional and rustic charm, often gain immense popularity, connecting global audiences with diverse cuisines.",
+      "examRelevance": "A Tamil YouTube cooking channel crossed 1 crore subscribers.",
+      "tags": [
+        "Tamil YouTube Channel",
+        "Cooking Channel",
+        "Subscribers",
+        "Chinna Veeramangalam"
+      ],
+      "source": {
+        "title": "Tamil YouTube cooking channel’s subscribers cross 1 crore",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/cooking-channels-subscribers-cross-1-crore/article61445799.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q75",
+      "question": "Romano Benito Floriani Mussolini, great-grandson of Benito Mussolini, recently scored his first goal for which football club?",
+      "options": [
+        "AS Roma",
+        "Juventus",
+        "Inter Milan",
+        "Lazio"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Romano Benito Floriani Mussolini, the great-grandson of former Italian dictator Benito Mussolini, recently scored his first goal for the Italian football club Lazio. He is a defender for the club.",
+      "background": "Lazio is a professional Italian sports club based in Rome, most known for its professional football team. Romano Benito Floriani Mussolini is related to Benito Mussolini through the maternal side of his family.",
+      "examRelevance": "Romano Benito Floriani Mussolini = scored first goal for Lazio.",
+      "tags": [
+        "Romano Benito Floriani Mussolini",
+        "Lazio",
+        "Football",
+        "Sports",
+        "Benito Mussolini"
+      ],
+      "source": {
+        "title": "Mussolini’s great-grandson scores his first goal for Lazio",
+        "url": "https://www.thehindu.com/sport/football/mussolinis-great-grandson-scores-his-first-goal-for-lazio/article71634550.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q76",
+      "question": "Which two countries recently proposed reopening the Strait of Hormuz within two days, subject to the U.S. meeting certain conditions?",
+      "options": [
+        "Kuwait and Bahrain",
+        "Iran and Qatar",
+        "Saudi Arabia and UAE",
+        "Oman and Yemen"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Iran and Qatar have recently proposed reopening the Strait of Hormuz within two days. This proposal is contingent upon the United States meeting Tehran's conditions, as stated by Araghchi.",
+      "background": "The Strait of Hormuz is a strategically vital waterway, a narrow passage connecting the Persian Gulf to the Arabian Sea, through which a significant portion of the world's oil supply passes. Its closure or threat of closure can have major global economic and geopolitical implications.",
+      "examRelevance": "Iran and Qatar proposed reopening the Strait of Hormuz.",
+      "tags": [
+        "Iran",
+        "Qatar",
+        "Strait of Hormuz",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Iran-Qatar propose reopening Hormuz in 2 days if..",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/araghchi-says-iran-qatar-propose-reopening-strait-of-hormuz-within-two-days-if-us-meets-tehrans-conditions/articleshow/135419744.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q77",
+      "question": "India recently sealed a five-match T20I series against New Zealand. What was the series score by which India secured the victory?",
+      "options": [
+        "3-0",
+        "3-1",
+        "4-0",
+        "2-1"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "India has sealed the five-match T20I series against New Zealand with a dominant 3-0 lead. This was achieved before the fourth T20I, where India made two changes to their playing XI and asked New Zealand to bat first.",
+      "background": "This series victory highlights India's strong performance in the T20 International format against New Zealand. The team's consistent performance led to an unassailable lead in the series.",
+      "examRelevance": "India won T20I series against New Zealand 3-0.",
+      "tags": [
+        "Cricket",
+        "India",
+        "New Zealand",
+        "T20I Series",
+        "Sports"
+      ],
+      "source": {
+        "title": "IND vs NZ fourth T20I: India asks New Zealand to bat first",
+        "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-fourth-t20-international-in-auckland-on-october-30-2026/article71643999.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q78",
+      "question": "Former U.S. President Donald Trump recently reinstated two rallies, after cancelling them, in which two states as part of his midterms campaign?",
+      "options": [
+        "Ohio and Pennsylvania",
+        "California and Florida",
+        "New York and Texas",
+        "Kansas and Iowa"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Former U.S. President Donald Trump reinstated two rallies in Kansas and Iowa, a day after cancelling them, during the turbulent end to his midterms campaign. He expressed confidence in Republicans having a 'shot' in the elections.",
+      "background": "U.S. midterm elections are held midway through a President's four-year term, determining control of Congress. They are often seen as a referendum on the incumbent President's policies and can significantly impact the political agenda for the latter half of the term.",
+      "examRelevance": "Donald Trump reinstated midterms rallies = Kansas and Iowa.",
+      "tags": [
+        "Donald Trump",
+        "US Midterms",
+        "Rallies",
+        "Kansas",
+        "Iowa"
+      ],
+      "source": {
+        "title": "Trump backtracks on rallies in turbulent end to midterms campaign",
+        "url": "https://www.thehindu.com/news/international/trump-backtracks-on-rallies-in-turbulent-end-to-midterms-campaign/article71648419.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q79",
+      "question": "A recent study in Kerala shedding light on the link between gut bacteria and Parkinson’s disease was conducted by researchers from CUSAT and which other institution?",
+      "options": [
+        "NIMHANS, Bengaluru",
+        "AIIMS, New Delhi",
+        "SCTIMST, Thiruvananthapuram",
+        "PGIMER, Chandigarh"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Researchers from Cochin University of Science and Technology (CUSAT) and Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST) in Thiruvananthapuram, Kerala, conducted a study. They found significant differences in gut bacteria between Parkinson’s patients and healthy individuals, shedding light on the disease's pathogenesis.",
+      "background": "Emerging research increasingly highlights the 'gut-brain axis' and its potential role in neurological disorders like Parkinson's disease. Understanding these connections could lead to new diagnostic and therapeutic strategies.",
+      "examRelevance": "CUSAT and SCTIMST, Thiruvananthapuram, conducted a study on gut bacteria and Parkinson's disease.",
+      "tags": [
+        "Parkinson's Disease",
+        "Gut Bacteria",
+        "CUSAT",
+        "SCTIMST"
+      ],
+      "source": {
+        "title": "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
+        "url": "https://www.thehindu.com/news/national/kerala/study-in-keralam-sheds-light-on-link-between-gut-bacteria-parkinsons-disease/article71638025.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q80",
+      "question": "Dolores Huerta, who recently passed away at 96, was a pioneering labour leader in which country?",
+      "options": [
+        "Canada",
+        "Mexico",
+        "Spain",
+        "United States"
+      ],
+      "answerIndex": 3,
+      "category": "Obituaries",
+      "explanation": "Dolores Huerta, a pioneering U.S. labour leader, passed away at the age of 96. She was instrumental in the U.S. farmworker movement in the 1960s, working alongside Cesar Chavez.",
+      "background": "Dolores Huerta was a co-founder of the United Farm Workers (UFW) and a lifelong advocate for social justice, civil rights, and women's rights. Her work significantly impacted labour laws and conditions for farmworkers in the United States.",
+      "examRelevance": "Dolores Huerta, a pioneering U.S. labour leader, passed away at 96.",
+      "tags": [
+        "Dolores Huerta",
+        "Obituary",
+        "U.S. Labour Leader",
+        "Farmworker Movement"
+      ],
+      "source": {
+        "title": "Pioneering U.S. labour leader Dolores Huerta dies at 96",
+        "url": "https://www.thehindu.com/news/international/pioneering-us-labour-leader-dolores-huerta-dies-at-96/article71637847.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q81",
+      "question": "The Karnataka Cabinet has approved a proposal for a comprehensive stadium in Hubballi to be developed under the Public-Private Partnership (PPP) model. Which of the following facilities is NOT explicitly mentioned as part of this proposed infrastructure?",
+      "options": [
+        "Swimming pool",
+        "Athletics track",
+        "Cricket pitch with floodlights",
+        "Horse-riding training centre"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "The Karnataka Cabinet has given its approval for the development of a comprehensive stadium in Hubballi, utilizing the Public-Private Partnership (PPP) model. The proposed infrastructure includes an athletics track, football ground, basketball and volleyball courts, hockey facilities, indoor sports infrastructure, a swimming pool, a gymnasium, and a horse-riding training centre. A cricket pitch with floodlights is not explicitly mentioned.",
+      "background": "This project aims to significantly upgrade sports facilities in Hubballi, catering to a wide range of sports and providing accommodation for sportspersons, thereby promoting athletic talent in the region.",
+      "examRelevance": "Hubballi = Comprehensive stadium under PPP model approved.",
+      "tags": [
+        "Hubballi",
+        "Karnataka",
+        "Stadium",
+        "PPP Model",
+        "Sports Infrastructure"
+      ],
+      "source": {
+        "title": "Hubballi to get comprehensive stadium after Cabinet approves proposal under PPP model",
+        "url": "https://www.thehindu.com/news/national/karnataka/hubballi-to-get-comprehensive-stadium-after-cabinet-approves-proposal-under-ppp-model/article71641501.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q82",
+      "question": "Renowned Chef K. Damodaran, known for his contributions to Tamil Nadu's culinary heritage and popular television shows, recently passed away. By what popular name was he known?",
+      "options": [
+        "Chef Anand",
+        "Chef Damu",
+        "Chef Bala",
+        "Chef Kumar"
+      ],
+      "answerIndex": 1,
+      "category": "Obituaries",
+      "explanation": "Renowned Chef K. Damodaran, who dedicated his life to Tamil Nadu’s culinary heritage, recently passed away. He was popularly known as Chef Damu, and was celebrated for taking Tamil Nadu’s cuisine to the world stage, documenting forgotten dishes, and inspiring thousands through his television shows.",
+      "background": "Chef Damu was an iconic figure in Indian culinary arts, particularly for his expertise in Tamil Nadu cuisine. His simple, no-nonsense approach to food and his efforts to preserve traditional cooking techniques left a lasting legacy.",
+      "examRelevance": "Chef K. Damodaran = popularly known as Chef Damu.",
+      "tags": [
+        "Chef Damu",
+        "K. Damodaran",
+        "Obituaries",
+        "Tamil Nadu",
+        "Culinary Heritage"
+      ],
+      "source": {
+        "title": "Remembering Chef Damu: A life dedicated to Tamil Nadu’s culinary heritage",
+        "url": "https://www.thehindu.com/society/remembering-chef-damu-a-life-dedicated-to-tamil-nadus-culinary-heritage/article71626208.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q83",
+      "question": "Which state government has recently extended its 'Instant pension' facility beyond the old-age pension category to include families of persons with disabilities, toddy tappers, and others?",
+      "options": [
+        "Karnataka",
+        "Andhra Pradesh",
+        "Kerala",
+        "Telangana"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Telangana government has extended its 'Instant pension' facility beyond the old-age pension category for women. The decision will benefit families of persons with disabilities, toddy tappers, handloom weavers, dialysis patients, and those affected by HIV and filariasis.",
+      "background": "Social security schemes like instant pensions are crucial for providing financial support to vulnerable sections of society. Extending such benefits aims to improve the living standards and economic stability of marginalized groups.",
+      "examRelevance": "Telangana = extended 'Instant pension' facility.",
+      "tags": [
+        "Telangana",
+        "Instant pension",
+        "Social welfare",
+        "Government scheme"
+      ],
+      "source": {
+        "title": "Telangana extends ‘Instant pension’ facility beyond old-age pension category for women",
+        "url": "https://www.thehindu.com/news/national/telangana/telangana-extends-instant-pension-facility-beyond-old-age-pension-category-for-women/article71648155.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q84",
+      "question": "In which district of West Bengal did the State Task Force (STF) recently bust an interstate drug network, leading to four arrests?",
+      "options": [
+        "Malda",
+        "North 24 Parganas",
+        "Kolkata",
+        "Howrah"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "The West Bengal State Task Force (STF) recently busted an interstate drug network in the Malda district. Four individuals were apprehended in connection with this operation.",
+      "background": "Such busts are part of ongoing efforts by law enforcement agencies to combat the pervasive issue of drug trafficking across state borders.",
+      "examRelevance": "West Bengal STF busted an interstate drug network in Malda district.",
+      "tags": [
+        "West Bengal",
+        "STF",
+        "Malda",
+        "Drug network"
+      ],
+      "source": {
+        "title": "Four held from Malda as West Bengal STF busts interstate drug network",
+        "url": "https://www.thehindu.com/news/national/west-bengal/four-held-from-malda-as-west-bengal-stf-busts-interstate-drug-network/article71652327.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q85",
+      "question": "How many new POCSO Act courts will Tamil Nadu set up, bringing the total number of special courts across 47 police districts to 52?",
+      "options": [
+        "26",
+        "36",
+        "16",
+        "46"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Tamil Nadu has announced the establishment of 26 new POCSO Act courts and four NDPS courts. With the addition of these 26 courts, the total number of special courts across 47 police districts in the state will reach 52.",
+      "background": "The Protection of Children from Sexual Offences (POCSO) Act courts are crucial for expediting justice in cases involving child abuse. Increasing their number reflects a commitment to addressing such crimes more effectively.",
+      "examRelevance": "Tamil Nadu to set up 26 new POCSO Act courts, bringing total to 52.",
+      "tags": [
+        "Tamil Nadu",
+        "POCSO Act",
+        "Courts",
+        "Justice"
+      ],
+      "source": {
+        "title": "Tamil Nadu to set up 26 POCSO Act courts and four NDPS courts",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-to-set-up-26-pocso-act-courts-and-four-ndps-courts/article71652310.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q86",
+      "question": "October 31 is observed annually as National Unity Day to commemorate the birth anniversary of which Indian leader?",
+      "options": [
+        "Sardar Vallabhbhai Patel",
+        "Subhas Chandra Bose",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi"
+      ],
+      "answerIndex": 0,
+      "category": "Dates & Days",
+      "explanation": "October 31 is observed every year as National Unity Day (Rashtriya Ekta Diwas) to commemorate the birth anniversary of Sardar Vallabhbhai Patel. Prime Minister Modi recently offered floral tributes to him at the Statue of Unity.",
+      "background": "Sardar Patel, often called the \"Iron Man of India,\" played a pivotal role in integrating over 560 princely states into the Indian Union after independence, a monumental task that solidified India's territorial integrity.",
+      "examRelevance": "October 31 = National Unity Day = Sardar Vallabhbhai Patel's birth anniversary.",
+      "tags": [
+        "National Unity Day",
+        "Sardar Patel",
+        "October 31",
+        "Dates",
+        "History"
+      ],
+      "source": {
+        "title": "PM Modi offers floral tributes to Sardar Patel at Statue of Unity",
+        "url": "https://www.thehindu.com/news/national/pm-modi-pays-floral-tributes-to-sardar-patel-at-the-statue-of-unity-on-national-unity-day/article71648293.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q87",
+      "question": "Which court recently ruled that entry into Agamic temple premises cannot be permitted for non-Hindus who sport religious markers?",
+      "options": [
+        "Supreme Court",
+        "Civil Court",
+        "High Court",
+        "District Court"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "A High Court recently ruled that entry into Agamic temple premises cannot be permitted for non-Hindus who sport religious markers. The ruling cited that such temples are not mere tourist destinations but sacred places governed by specific religious practices.",
+      "background": "Agamic temples are those built and consecrated according to the Agamas, a collection of Sanskrit scriptures that define specific rituals, worship methods, and architectural norms for Hindu temples. This ruling addresses the sanctity and traditional practices associated with these temples.",
+      "examRelevance": "High Court ruled against non-Hindu entry with religious markers into Agamic temples.",
+      "tags": [
+        "High Court",
+        "Agamic Temple",
+        "Religious Markers",
+        "Temple Entry",
+        "Polity"
+      ],
+      "source": {
+        "title": "Entry into Agamic temple premises cannot be permitted for non-Hindus who sport religious markers: HC",
+        "url": "https://www.thehindu.com/news/cities/Madurai/entry-into-agamic-temple-premises-cannot-be-permitted-for-non-hindus-who-sport-religious-markers-hc/article71632225.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q88",
+      "question": "Established in 1799, which village in Tamil Nadu is recognized as the state's first exclusive Christian settlement, often claimed to be the first Christian village in India and Asia?",
+      "options": [
+        "Mudalur",
+        "Nazareth",
+        "Bethany",
+        "Kanyakumari"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "Mudalur, established in 1799, is recognized as Tamil Nadu’s first exclusive settlement created for newly converted Christians. Some historical accounts also claim it was the first Christian village in India and Asia, known for its magnificent church tower.",
+      "background": "The establishment of Mudalur reflects a significant phase of missionary activity and social organization during the colonial era in India. It stands as a historical landmark for Christian communities in the region.",
+      "examRelevance": "Mudalur = Tamil Nadu’s first Christian settlement, established in 1799.",
+      "tags": [
+        "Mudalur",
+        "Tamil Nadu",
+        "Christian Settlement",
+        "History",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "Mudalur, Tamil Nadu’s first Christian settlement, stands tall with its magnificent church tower",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/mudalur-tamil-nadus-first-christian-settlement-stands-tall-with-its-magnificent-church-tower/article71632109.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q89",
+      "question": "How many remand prisoners recently escaped from a sub-jail in Theni district, Tamil Nadu?",
+      "options": [
+        "20",
+        "17",
+        "12",
+        "10"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "A total of 17 remand prisoners recently escaped from a sub-jail in Theni district, Tamil Nadu. Combing operations were launched, leading to the arrest of four of them.",
+      "background": "Jailbreaks, though rare, highlight lapses in prison security and management. Following this incident and a previous escape in Puzhal, the DGP-Prisons ordered a security audit of all prisons in Tamil Nadu to prevent future occurrences.",
+      "examRelevance": "17 remand prisoners escaped from Theni sub-jail.",
+      "tags": [
+        "Theni",
+        "Jailbreak",
+        "Tamil Nadu",
+        "Prisoners"
+      ],
+      "source": {
+        "title": "17 remand prisoners escape from sub-jail in Theni district; combing operations lead to arrest of four: IGP",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/17-remand-prisoners-escape-from-a-sub-jail-in-theni-district-combing-operations/article71629593.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q90",
+      "question": "Which Indian Captain, along with his flydubai crew, was recently honoured by the UAE President for bravery during a mid-air attack?",
+      "options": [
+        "Vikram Singh",
+        "Anil Sharma",
+        "Rajesh Kumar",
+        "Smit Machchhar"
+      ],
+      "answerIndex": 3,
+      "category": "Awards & Honours",
+      "explanation": "Indian Captain Smit Machchhar and the flydubai crew were recently honoured by His Highness Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Deputy Prime Minister and Minister of Defence, on behalf of the UAE President. They received medals for their bravery during a mid-air attack.",
+      "background": "Such acts of bravery by airline crew members are recognized globally for their professionalism and commitment to passenger safety in challenging situations. The honour highlights the UAE's appreciation for their exemplary conduct.",
+      "examRelevance": "Indian Captain Smit Machchhar = honoured by UAE President for bravery.",
+      "tags": [
+        "Smit Machchhar",
+        "UAE President",
+        "Awards",
+        "flydubai",
+        "Bravery"
+      ],
+      "source": {
+        "title": "Indian Captain Smit Machchhar, flydubai crew honoured by UAE President for bravery during mid-air attack",
+        "url": "https://www.thehindu.com/news/national/indian-captain-smit-machchhar-flydubai-crew-honoured-by-uae-president-for-bravery-during-mid-air-attack/article71634465.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q91",
+      "question": "Which group claimed responsibility for a recent missile attack on Saudi Arabia’s biggest oil refinery, causing oil prices to rise?",
+      "options": [
+        "Houthis",
+        "Taliban",
+        "Al-Qaeda",
+        "ISIS"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Yemen’s Iran-aligned Houthis claimed responsibility for hitting Saudi Arabia’s biggest oil refinery with a missile. This attack, which intensified their strikes against the world’s second-largest crude producer, led to a more than 1% rise in oil prices due to reignited supply risks.",
+      "background": "The Houthis are an Islamist political and armed movement that emerged in Yemen in the 1990s. They have been engaged in a prolonged conflict with the Saudi-led coalition in Yemen, often targeting Saudi infrastructure.",
+      "examRelevance": "Houthis = claimed attack on Saudi Arabia's biggest oil refinery.",
+      "tags": [
+        "Houthis",
+        "Saudi Arabia",
+        "Oil Refinery",
+        "Missile Attack",
+        "Yemen"
+      ],
+      "source": {
+        "title": "Oil rises over 1% after Saudi Arabian refinery attack reignites supply risk",
+        "url": "https://www.thehindu.com/news/international/oil-rises-after-saudi-arabian-refinery-attack-reignites-supply-risk/article71634583.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q92",
+      "question": "The Congress party recently launched the 'Sanghatana Srujana Abhiyan' drive to strengthen its grassroots network in which district of Karnataka?",
+      "options": [
+        "Yadgir",
+        "Bengaluru",
+        "Shivamogga",
+        "Mysuru"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Congress party recently launched the 'Sanghatana Srujana Abhiyan' drive in the Yadgir district of Karnataka. This initiative aims to strengthen the party's grassroots network by extending the process of appointing office-bearers to frontline units, cell heads, vice-presidents, and executive committee members.",
+      "background": "This drive follows the appointment of nearly 1,100 district presidents across the country, based on observer reports. Such campaigns are crucial for political parties to mobilize cadres and maintain a strong presence at the local level.",
+      "examRelevance": "Congress 'Sanghatana Srujana Abhiyan' = launched in Yadgir district, Karnataka.",
+      "tags": [
+        "Congress",
+        "Sanghatana Srujana Abhiyan",
+        "Yadgir",
+        "Karnataka",
+        "Grassroots Network"
+      ],
+      "source": {
+        "title": "Congress launches Sanghatana Srujana Abhiyan drive to strengthen grassroots network in Yadgir district of Karnataka",
+        "url": "https://www.thehindu.com/news/national/karnataka/congress-launches-sanghatana-srujana-abhiyan-drive-to-strengthen-grassroots-network-in-yadgir-district-of-karnataka/article71631659.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q93",
+      "question": "Which very severe cyclonic storm recently crossed the Andhra Pradesh coast, weakening into a severe cyclonic storm after landfall?",
+      "options": [
+        "Cyclone Biparjoy",
+        "Cyclone Arnab",
+        "Cyclone Tej",
+        "Cyclone Michaung"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The very severe cyclonic storm 'Arnab' recently crossed the Andhra Pradesh coast. After completing its landfall process and moving entirely over land, the India Meteorological Department (IMD) reported that it weakened into a severe cyclonic storm.",
+      "background": "Cyclones are frequent in the Bay of Bengal, especially during the post-monsoon season (October-December). Andhra Pradesh is a coastal state highly vulnerable to such weather systems, necessitating robust disaster preparedness.",
+      "examRelevance": "Cyclone Arnab = crossed Andhra Pradesh coast.",
+      "tags": [
+        "Cyclone Arnab",
+        "Andhra Pradesh",
+        "IMD",
+        "Cyclonic Storm",
+        "Weather"
+      ],
+      "source": {
+        "title": "Very severe cyclone Arnab crosses Andhra coast, weakens into severe cyclonic storm: IMD | LIVE",
+        "url": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q94",
+      "question": "What significant new feature did Apple showcase in its latest MacBook Pro model?",
+      "options": [
+        "A foldable display",
+        "A built-in solar charging panel",
+        "An organic light-emitting diode (OLED) display",
+        "A holographic projection keyboard"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "At a recent Apple event in Los Angeles, John Ternus showcased a new MacBook Pro model featuring an organic light-emitting diode (OLED) display. This marks a first for the iPhone maker in its laptop lineup.",
+      "background": "OLED technology offers superior contrast, deeper blacks, and wider viewing angles compared to traditional LCD displays, enhancing the visual experience for users. Apple's adoption of OLED for its MacBook Pro signifies a premium upgrade.",
+      "examRelevance": "Apple's new MacBook Pro features an organic light-emitting diode (OLED) display.",
+      "tags": [
+        "Apple",
+        "MacBook Pro",
+        "OLED Display",
+        "Technology"
+      ],
+      "source": {
+        "title": "Apple shows pricey touchscreen laptops, a first for the iPhone maker",
+        "url": "https://www.thehindu.com/sci-tech/technology/apple-shows-pricey-touchscreen-laptops-a-first-for-the-iphone-maker/article71638852.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q95",
+      "question": "Which artificial intelligence company has announced plans to limit practical information on weapons for teens on its ChatGPT platform as part of a violence-prevention push?",
+      "options": [
+        "Microsoft",
+        "OpenAI",
+        "IBM",
+        "Google"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "OpenAI has announced plans to limit practical information on weapons and security systems that could be misused, specifically for teens on its ChatGPT platform. This initiative is part of a broader violence-prevention push.",
+      "background": "AI companies are increasingly facing scrutiny over the ethical implications and potential misuse of their technologies. Implementing content restrictions, especially concerning sensitive topics like weapons, reflects efforts to ensure responsible AI development and deployment.",
+      "examRelevance": "OpenAI = ChatGPT = limit weapons information for teens.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "AI",
+        "Content moderation",
+        "Violence prevention",
+        "Technology"
+      ],
+      "source": {
+        "title": "OpenAI to limit weapons information for teens on ChatGPT in violence-prevention push",
+        "url": "https://www.thehindu.com/sci-tech/technology/openai-to-limit-weapons-information-for-teens-on-chatgpt-in-violence-prevention-push/article71648166.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q96",
+      "question": "Union Home Minister Amit Shah recently stated that the BJP would bring the Uniform Civil Code (UCC) in which state if voted to power again?",
+      "options": [
+        "Assam",
+        "Gujarat",
+        "Uttar Pradesh",
+        "Madhya Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Union Home Minister Amit Shah recently stated that the BJP would bring the Uniform Civil Code (UCC) in Uttar Pradesh if the party is voted to power again in the state. He challenged opposition leaders for a debate on the issue.",
+      "background": "The Uniform Civil Code (UCC) is a proposed legislation in India that would replace personal laws based on the scriptures and customs of various religious communities with a common set of laws governing every citizen. It is a directive principle of state policy under Article 44 of the Constitution.",
+      "examRelevance": "Amit Shah's statement = BJP to bring UCC in Uttar Pradesh.",
+      "tags": [
+        "Amit Shah",
+        "Uniform Civil Code",
+        "UCC",
+        "Uttar Pradesh",
+        "BJP",
+        "Polity"
+      ],
+      "source": {
+        "title": "Uniform Civil Code in U.P. if BJP voted to power again: Amit Shah",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/bjp-will-bring-ucc-in-uttar-pradesh-if-voted-to-power-again-says-amit-shah/article71644484.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q97",
+      "question": "In which district of Tamil Nadu was a job fair recently held where more than 1,100 candidates received offer letters?",
+      "options": [
+        "Madurai",
+        "Villupuram",
+        "Chennai",
+        "Coimbatore"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "A job fair was recently held in Villupuram district, Tamil Nadu, where 1,172 candidates received offer letters. More than 167 companies participated, interviewing 4,214 candidates, with an additional 163 qualifying for the second round of selection.",
+      "background": "Job fairs are crucial initiatives by state governments and employment agencies to connect job seekers with employers, especially in regions with high unemployment. They play a vital role in local economic development and employment generation.",
+      "examRelevance": "1,172 candidates received offer letters at a job fair in Villupuram, Tamil Nadu.",
+      "tags": [
+        "Tamil Nadu",
+        "Villupuram",
+        "Job fair",
+        "Employment"
+      ],
+      "source": {
+        "title": "1,172 candidates receive offer letters at job fair held in Villupuram",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/1172-candidates-receive-offer-letters-at-job-fair-held-in-villupuram/article71652132.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q98",
+      "question": "What rating did Jefferies initiate for the National Stock Exchange (NSE) shares, along with a target price of Rs 2,085 apiece?",
+      "options": [
+        "Underperform",
+        "Buy",
+        "Sell",
+        "Hold"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Jefferies initiated coverage on the National Stock Exchange (NSE) shares with a 'Buy' rating and set a target price of Rs 2,085 apiece. This implies a potential upside of over 17%, citing NSE as a 'market leader with new growth optionality'.",
+      "background": "The National Stock Exchange is India's largest financial market. Jefferies expects NSE to deliver a 15% revenue CAGR over FY27-29, driven by increased direct equity investors since the COVID-19 pandemic.",
+      "examRelevance": "Jefferies initiated a 'Buy' rating for NSE shares with a target price of Rs 2,085.",
+      "tags": [
+        "Jefferies",
+        "NSE",
+        "Stock Market",
+        "Buy Rating"
+      ],
+      "source": {
+        "title": "Jefferies initiates coverage on NSE with ‘Buy’; here’s why it sees fresh growth potential",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-initiates-coverage-on-nse-with-buy-heres-why-it-sees-fresh-growth-potential/articleshow/135293157.cms"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q99",
+      "question": "Urban local body elections recently witnessed clashes and vehicle torching in Pulivendula, Kadapa district. In which Indian state were these elections held?",
+      "options": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Telangana",
+        "Karnataka"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Urban local body elections were held in Andhra Pradesh on November 1, 2026. Prior to polling, fourteen vehicles were set on fire in Pulivendula, Kadapa district, due to clashes between TDP and YSRCP workers.",
+      "background": "The elections saw varying voter turnouts across different districts of Andhra Pradesh, with officials closely monitoring the situation with CCTV cameras and drones in anticipation of further clashes.",
+      "examRelevance": "Urban local body elections were held in Andhra Pradesh, with incidents reported in Pulivendula.",
+      "tags": [
+        "Andhra Pradesh",
+        "Urban Local Body Elections",
+        "Pulivendula",
+        "Clashes"
+      ],
+      "source": {
+        "title": "Andhra civic polls: TDP, YSRCP workers clash in Pulivendula; 22.08% turnout by 11 a.m. | LIVE",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-urban-local-body-elections-polling-municipalities-corporation-results-november-1-2026-live-updates/article71651965.ece"
+      }
+    },
+    {
+      "id": "weekly-2026-W44-q100",
+      "question": "The five-time IPL champions, Mumbai Indians, have recently announced new appointments to their coaching staff. Who has been appointed as the batting coach for the team?",
+      "options": [
+        "Mitchell McClenaghan",
+        "T.K. Dilip",
+        "Dhawal Kulkarni",
+        "Robin Uthappa"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Five-time IPL champions Mumbai Indians have appointed Robin Uthappa as their new batting coach. Additionally, Mitchell McClenaghan has been named bowling coach, T.K. Dilip as fielding coach, and Dhawal Kulkarni as development bowling coach.",
+      "background": "These appointments are part of Mumbai Indians' efforts to strengthen their coaching setup ahead of upcoming seasons, aiming to maintain their competitive edge in the Indian Premier League.",
+      "examRelevance": "Robin Uthappa = Mumbai Indians batting coach.",
+      "tags": [
+        "Robin Uthappa",
+        "Mumbai Indians",
+        "IPL",
+        "Cricket",
+        "Coaching Appointment"
+      ],
+      "source": {
+        "title": "Mumbai Indians appoint Robin Uthappa as batting coach",
+        "url": "https://www.thehindu.com/sport/cricket/mumbai-indians-appoint-robin-uthappa-as-batting-coach/article71643746.ece"
+      }
+    }
+  ]
+}
