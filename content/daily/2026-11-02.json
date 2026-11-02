@@ -1,0 +1,764 @@
+{
+  "id": "daily-2026-11-02",
+  "type": "daily",
+  "date": "2026-11-02",
+  "title": "Current Affairs — 02 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-02-q1",
+      "question": "Which agri-food thinktank recently released a report exploring how indigenous agricultural and forest produce like turmeric, jamun, and mahua can gain stronger value chains and market support?",
+      "options": [
+        "Bharat Agri-Tech",
+        "Indigenous Food Alliance",
+        "Vrihi Foundation",
+        "Gramin Krishi Vikas"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The agri-food thinktank Vrihi Foundation recently released a new report. This report explores how indigenous agricultural and forest produce such as turmeric, jamun, and mahua can gain stronger value chains, markets, and policy support, aiming for a place on the global food map.",
+      "background": "The report highlights the potential of India's heritage produce, which often faces challenges in market access and value realization. Strengthening these value chains is crucial for rural economies and promoting unique Indian agricultural products globally.",
+      "examRelevance": "Vrihi Foundation released a report on indigenous agricultural and forest produce.",
+      "tags": [
+        "Vrihi Foundation",
+        "Indigenous Produce",
+        "Agriculture",
+        "Food Map"
+      ],
+      "source": {
+        "title": "Can India’s heritage produce find a place on the global food map?",
+        "url": "https://www.thehindu.com/food/features/can-indias-heritage-produce-find-a-place-on-the-global-food-map/article71639345.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q2",
+      "question": "What was the seasonally adjusted HSBC India Manufacturing Purchasing Managers' Index (PMI) in October, indicating an easing of growth in the manufacturing sector?",
+      "options": [
+        "50.0",
+        "55.1",
+        "53.2",
+        "54.7"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The seasonally adjusted HSBC India Manufacturing Purchasing Managers' Index (PMI) fell to 54.7 in October. This indicates an easing of manufacturing sector activity growth compared to 55.1 in September, although it remained comfortably above the neutral mark of 50.0.",
+      "background": "The PMI is a key economic indicator providing insights into the manufacturing sector's health. A reading above 50.0 indicates expansion, while a reading below 50.0 indicates contraction. The slight decline suggests a moderation in growth momentum.",
+      "examRelevance": "HSBC India Manufacturing PMI in October was 54.7.",
+      "tags": [
+        "HSBC",
+        "PMI",
+        "Manufacturing Sector",
+        "Economy"
+      ],
+      "source": {
+        "title": "India's manufacturing sector activity growth eases in October on softer rise in output, new orders",
+        "url": "https://www.thehindu.com/business/Industry/indias-manufacturing-sector-activity-growth-eases-in-october-on-softer-rise-in-output-new-orders/article71655680.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q3",
+      "question": "Which cyclonic storm recently intensified into a 'Severe Cyclonic Storm' and was expected to cross the south Andhra coast between 11:30 p.m. on November 2 and 4 a.m. on November 3?",
+      "options": [
+        "Remal",
+        "Arnab",
+        "Biparjoy",
+        "Murasu"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Cyclone Murasu intensified into a 'Severe Cyclonic Storm' and was expected to cross the south Andhra coast, near Ongole, between 11:30 p.m. on November 2 and 4 a.m. on November 3. The Odisha government expedited evacuation from vulnerable areas.",
+      "background": "This cyclone follows closely after Cyclone Arnab made landfall in Andhra Pradesh on October 27, 2026, indicating a period of increased cyclonic activity in the Bay of Bengal affecting the eastern coast of India.",
+      "examRelevance": "Cyclone Murasu intensified into a Severe Cyclonic Storm and impacted the south Andhra coast.",
+      "tags": [
+        "Cyclone Murasu",
+        "Andhra Pradesh",
+        "Odisha",
+        "Severe Cyclonic Storm"
+      ],
+      "source": {
+        "title": "Cyclone Murasu LIVE updates: Odisha expedites evacuation from vulnerable areas as storm intensifies",
+        "url": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q4",
+      "question": "Which country is the world's second-largest apparel exporter, where recent wage protests by garment workers demanding a minimum monthly wage of 30,000 taka disrupted factory operations?",
+      "options": [
+        "Vietnam",
+        "Pakistan",
+        "India",
+        "Bangladesh"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Bangladesh, the world's second-largest apparel exporter after China, recently saw garment factories reopen after wage protests. Workers demanded a minimum monthly wage of 30,000 taka ($243), up from 12,500 taka, disrupting operations in key manufacturing hubs.",
+      "background": "The garment industry is a cornerstone of Bangladesh's economy, being a major source of foreign exchange and employment. Such wage disputes are critical as they impact both worker welfare and the country's position in the global supply chain.",
+      "examRelevance": "Bangladesh is the world's second-largest apparel exporter.",
+      "tags": [
+        "Bangladesh",
+        "Garment Industry",
+        "Wage Protests",
+        "Apparel Export"
+      ],
+      "source": {
+        "title": "Bangladesh garment factories reopen as wage protests keep industry on edge",
+        "url": "https://www.thehindu.com/news/international/bangladesh-garment-factories-reopen-as-wage-protests-keep-industry-on-edge/article71655556.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q5",
+      "question": "Which Israeli political faction, led by Naftali Bennett, recently threw its support behind Gadi Eisenkot to form the next Israeli government?",
+      "options": [
+        "B'Yachad",
+        "Likud",
+        "Yesh Atid",
+        "Blue and White"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Naftali Bennett's 'B'Yachad' faction recently threw its support behind Gadi Eisenkot to form the next Israeli government. This development comes as Israeli President Isaac Herzog has urged political leaders to accept election results and find creative solutions to prevent another election.",
+      "background": "Israeli politics often sees complex coalition formations due to its multi-party system. Endorsements from key factions can significantly influence the ability of a candidate to secure enough support to form a stable government.",
+      "examRelevance": "Naftali Bennett's 'B'Yachad' faction supported Gadi Eisenkot for Israeli government formation.",
+      "tags": [
+        "Israel",
+        "Naftali Bennett",
+        "Gadi Eisenkot",
+        "B'Yachad"
+      ],
+      "source": {
+        "title": "Naftali Bennett’s ‘B’Yachad’ faction throws support behind Gadi Eisenkot to form next Israeli government",
+        "url": "https://www.thehindu.com/news/international/naftali-bennetts-byachad-faction-throws-support-behind-gadi-eisenkot-to-form-next-israeli-government/article71655792.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q6",
+      "question": "Which of the following cyclonic storms made landfall in Andhra Pradesh on October 27, 2026, just days before Cyclone Murasu intensified?",
+      "options": [
+        "Fani",
+        "Murasu",
+        "Hudhud",
+        "Arnab"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Cyclone Murasu comes just days after Cyclone Arnab made landfall in Andhra Pradesh on October 27, 2026. This indicates a succession of cyclonic events affecting the region within a short period.",
+      "background": "The Bay of Bengal is prone to cyclonic activity, especially during the post-monsoon season. Successive cyclones can put immense pressure on disaster management agencies and lead to cumulative damage in affected areas.",
+      "examRelevance": "Cyclone Arnab made landfall in Andhra Pradesh on October 27, 2026.",
+      "tags": [
+        "Cyclone Arnab",
+        "Andhra Pradesh",
+        "Cyclonic Storm",
+        "Environment"
+      ],
+      "source": {
+        "title": "Cyclone Murasu: List of flights cancelled to and from Chennai, Visakhapatnam, Vijayawada",
+        "url": "https://www.thehindu.com/news/national/cyclone-murasu-full-list-of-flights-cancelled-and-affected/article71655519.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q7",
+      "question": "Which state's Community Study Centres are playing a critical role in equipping tribal students to navigate the education system, as highlighted in a recent report?",
+      "options": [
+        "Jharkhand",
+        "Odisha",
+        "Keralam",
+        "Chhattisgarh"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Keralam’s Community Study Centres are playing a critical role in equipping tribal students to navigate an education system that rewards competitive individualism. These centers aim to bridge the gap between access and achievement for tribal students.",
+      "background": "Ensuring equitable access and success in education for tribal communities is a significant challenge across India. Initiatives like Community Study Centres are crucial for providing targeted support and fostering a conducive learning environment.",
+      "examRelevance": "Keralam's Community Study Centres support tribal students' education.",
+      "tags": [
+        "Keralam",
+        "Tribal Education",
+        "Community Study Centres",
+        "Education"
+      ],
+      "source": {
+        "title": "Tribal students’ education: bridging the gap between access and achievement",
+        "url": "https://www.thehindu.com/education/keralams-community-study-centres-for-tribal-students-must-be-evaluated-beyond-numbers/article71644326.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q8",
+      "question": "Which hydropower project, proposed in Arunachal Pradesh, is currently facing demands for scrapping from the Congress party and indigenous organizations?",
+      "options": [
+        "Kameng hydropower project",
+        "Siang hydropower project",
+        "Subansiri hydropower project",
+        "Dibang hydropower project"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The Arunachal Pradesh Congress Committee urged indigenous organisations, student unions, youth groups, civil society organisations and traditional institutions to unite against the proposed Siang hydropower project, demanding its scrapping and the release of arrested protesters.",
+      "background": "Large-scale hydropower projects in ecologically sensitive and tribally inhabited regions often face opposition due to concerns over environmental impact, displacement of communities, and loss of traditional livelihoods. The Siang river is a major tributary of the Brahmaputra.",
+      "examRelevance": "Congress demanded scrapping of the Siang hydropower project in Arunachal Pradesh.",
+      "tags": [
+        "Siang Hydropower Project",
+        "Arunachal Pradesh",
+        "Congress",
+        "Protests"
+      ],
+      "source": {
+        "title": "Congress demands scrapping of Siang hydropower project, release of arrested protesters",
+        "url": "https://www.thehindu.com/news/national/arunachal-pradesh/congress-demands-scrapping-of-siang-hydropower-project-release-of-arrested-protesters/article71655679.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q9",
+      "question": "In which city were raids conducted at the residence and office of Power TV boss Rakesh Shetty in connection with the alleged sting operation video targeting former Chief Minister Siddaramaiah?",
+      "options": [
+        "Bengaluru",
+        "Mumbai",
+        "Hyderabad",
+        "Chennai"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Raids were conducted at the residence and office of Power TV boss Rakesh Shetty in Bengaluru. Shetty is a key suspect, along with expelled Congress leader Kripa Alva, in the creation of the allegedly fabricated sting operation video targeting former Chief Minister Siddaramaiah.",
+      "background": "The Central Crime Branch (CCB) in Karnataka is investigating the alleged sting operation. The probe has also found links to Union Minister H.D. Kumaraswamy's official residence in New Delhi, indicating a widening political controversy.",
+      "examRelevance": "Raids conducted on Power TV boss Rakesh Shetty's residence in Bengaluru in Siddaramaiah sting video case.",
+      "tags": [
+        "Bengaluru",
+        "Rakesh Shetty",
+        "Siddaramaiah",
+        "Sting Video"
+      ],
+      "source": {
+        "title": "Raids on Power TV boss Rakesh Shetty’s residence, office in Bengaluru in Siddaramaiah sting video case",
+        "url": "https://www.thehindu.com/news/national/karnataka/raids-power-tv-boss-rakesh-shettys-residence-office-in-bengaluru-in-siddaramaiah-sting-video-case/article71655612.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q10",
+      "question": "Which financial institution issued a customer advisory for a two-day strike on November 2 and 3, 2026, advising customers to use digital channels?",
+      "options": [
+        "SBI",
+        "IDBI Bank",
+        "Bank of Baroda",
+        "Punjab National Bank"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "IDBI Bank issued a customer advisory for a two-day strike on November 2 and 3, 2026. The lender advised customers to use digital channels and removed fees on non-IDBI ATM withdrawals to mitigate the impact of the strike.",
+      "background": "Bank strikes often occur due to various reasons, including wage negotiations, privatization concerns, or other employee demands. Such advisories are common practice to inform customers and minimize disruption to banking services.",
+      "examRelevance": "IDBI Bank issued customer advisory for a two-day strike on Nov 2-3, 2026.",
+      "tags": [
+        "IDBI Bank",
+        "Bank Strike",
+        "Banking",
+        "Customer Advisory"
+      ],
+      "source": {
+        "title": "IDBI issues customer advisory for two-day strike",
+        "url": "https://economictimes.indiatimes.com/wealth/save/bank-strike-today-idbi-strike-on-november-2-and-3-2026-lender-advises-customers-to-use-digital-channels-removes-fee-on-non-idbi-atm-withdrawals/articleshow/135448963.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q11",
+      "question": "How many Rameswaram fishermen were recently detained by the Sri Lankan Navy near the Katchatheevu islet?",
+      "options": [
+        "Five",
+        "Three",
+        "Nine",
+        "Seven"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Seven Rameswaram fishermen were recently detained by the Sri Lankan Navy near the Katchatheevu islet. Fishermen leaders have condemned the incident and urged the governments to get them released at the earliest.",
+      "background": "The Katchatheevu islet and the fishing rights in the Palk Strait remain a contentious issue between India and Sri Lanka. Incidents of Indian fishermen being detained by the Sri Lankan Navy are recurring, leading to diplomatic efforts for their release.",
+      "examRelevance": "Seven Rameswaram fishermen detained by Sri Lankan Navy near Katchatheevu.",
+      "tags": [
+        "Rameswaram Fishermen",
+        "Sri Lankan Navy",
+        "Katchatheevu",
+        "India-Sri Lanka"
+      ],
+      "source": {
+        "title": "Seven Rameswaram fishermen detained by Sri Lankan Navy near Katchatheevu islet",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/seven-rameswaram-fishermen-detained-by-sri-lankan-navy-near-katchatheevu-islet/article71652111.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q12",
+      "question": "Which student from SRN Mehta School, Kalaburagi, secured fifth place in a State-level tournament and was selected for the national-level chess championship?",
+      "options": [
+        "Akash D. Reddy",
+        "Priya V. Singh",
+        "Rohan K. Sharma",
+        "Anish P. More"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Anish P. More, a student from SRN Mehta School-Kalaburagi, secured fifth place in a State-level tournament and has been selected for the national-level chess championship. This achievement highlights his talent in the sport.",
+      "background": "Chess continues to gain popularity as a competitive sport in India, with numerous state and national level tournaments providing platforms for young talent. Recognition at the state level often leads to opportunities at the national stage.",
+      "examRelevance": "Anish P. More of Kalaburagi selected for national-level chess championship.",
+      "tags": [
+        "Anish P. More",
+        "Chess",
+        "Kalaburagi",
+        "National Championship"
+      ],
+      "source": {
+        "title": "SRN Mehta School-Kalaburagi student selected for national-level chess championship",
+        "url": "https://www.thehindu.com/news/national/karnataka/srn-mehta-school-kalaburagi-student-selected-for-national-level-chess-championship/article71640812.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q13",
+      "question": "What was Jio Platforms' consolidated net profit for the September 2026 quarter, marking a 13.7% rise?",
+      "options": [
+        "₹7,378 crore",
+        "₹8,389 crore",
+        "₹9,125 crore",
+        "₹6,890 crore"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Jio Platforms reported a 13.7% rise in consolidated net profit to ₹8,389 crore for the September 2026 quarter. This strong financial performance led to its shares climbing over 3% post Q2 earnings.",
+      "background": "Jio Platforms, a subsidiary of Reliance Industries, is a major player in India's digital services sector, encompassing telecom, digital apps, and broadband. Its quarterly results are closely watched indicators of the broader digital economy.",
+      "examRelevance": "Jio Platforms' Q2FY27 consolidated net profit was ₹8,389 crore.",
+      "tags": [
+        "Jio Platforms",
+        "Net Profit",
+        "Q2 Earnings",
+        "Economy"
+      ],
+      "source": {
+        "title": "Jio Platforms’ shares climb over 3% post Q2 earnings",
+        "url": "https://www.thehindu.com/business/Industry/jio-platforms-shares-climb-over-3-pc-post-q2-earnings/article71655570.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q14",
+      "question": "How many AAP MLAs recently joined the BJP in Punjab on November 1, 2026?",
+      "options": [
+        "Two",
+        "Four",
+        "Three",
+        "One"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "On November 1, 2026, three AAP legislators, one of whom was a former Minister, resigned from the party’s primary membership and joined the BJP in Punjab. This marks a significant political shift in the state.",
+      "background": "defections of elected representatives from one party to another are not uncommon in Indian politics, especially closer to elections. Such moves can alter the political landscape and influence upcoming electoral outcomes.",
+      "examRelevance": "Three AAP MLAs joined BJP in Punjab on November 1, 2026.",
+      "tags": [
+        "AAP",
+        "BJP",
+        "Punjab",
+        "MLAs"
+      ],
+      "source": {
+        "title": "Three AAP MLAs join BJP in Punjab",
+        "url": "https://www.thehindu.com/news/national/punjab/three-aap-mlas-join-bjp-in-punjab/article71655539.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q15",
+      "question": "What is the total value of the deal recently sealed by the Indian government with GRSE and GSL for 8 Next Generation Corvettes for the Indian Navy?",
+      "options": [
+        "₹60,120 crore",
+        "₹48,250 crore",
+        "₹39,500 crore",
+        "₹53,866 crore"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "The Indian government sealed a ₹53,866.50 crore deal for 8 Next Generation Corvettes for the Indian Navy. The contracts were signed with Garden Reach Shipbuilders & Engineers (GRSE) and Goa Shipyard Limited (GSL).",
+      "background": "Corvettes are versatile warships used for coastal defence, anti-submarine warfare, and surface combat. This significant acquisition boosts the Indian Navy's capabilities and supports domestic shipbuilding under the 'Make in India' initiative.",
+      "examRelevance": "Indian government sealed ₹53,866 crore deal for 8 Next Generation Corvettes.",
+      "tags": [
+        "Indian Navy",
+        "Corvettes",
+        "Defence Deal",
+        "GRSE",
+        "GSL"
+      ],
+      "source": {
+        "title": "Govt seals ₹53,866-cr deal for 8 Navy corvettes",
+        "url": "https://economictimes.indiatimes.com/news/defence/india-inks-inks-rs-53866-50-crore-contracts-with-grse-gsl-for-8-next-generation-corvettes-for-indian-navy/articleshow/135448547.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q16",
+      "question": "Which former minister from Odisha recently announced a special package for families affected by Cyclone Arnab?",
+      "options": [
+        "Naveen Patnaik",
+        "Ashwini Vaishnaw",
+        "Dharmendra Pradhan",
+        "CM Majhi"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Odisha CM Majhi announced a special package for families affected by Cyclone Arnab. After reviewing the flood situation, CM Majhi stated that people in several districts, especially Ganjam, Gajapati, and Kandhamal, were affected by Cyclone Arnab and heavy rainfall.",
+      "background": "Odisha is frequently impacted by cyclones and floods. State governments often announce relief packages to help affected populations recover, providing financial aid, housing support, and other essential services.",
+      "examRelevance": "Odisha CM Majhi announced a special package for Cyclone Arnab affected families.",
+      "tags": [
+        "Odisha",
+        "CM Majhi",
+        "Cyclone Arnab",
+        "Special Package"
+      ],
+      "source": {
+        "title": "Odisha CM announces special package for families affected by Cyclone Arnab",
+        "url": "https://www.thehindu.com/news/national/odisha/odisha-cm-announces-special-package-for-families-affected-by-cyclone-arnab/article71655182.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q17",
+      "question": "Which agency recently registered a money laundering case against Subhash Chandra, taking cognisance of a CBI FIR?",
+      "options": [
+        "Enforcement Directorate (ED)",
+        "Central Bureau of Investigation (CBI)",
+        "Income Tax Department (I-T)",
+        "Serious Fraud Investigation Office (SFIO)"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Officials stated that the Enforcement Directorate (ED) has registered a money laundering case against Subhash Chandra. The case was filed under the Prevention of Money Laundering Act (PMLA), taking cognisance of a CBI FIR.",
+      "background": "The Enforcement Directorate is India's primary agency responsible for enforcing economic laws and fighting economic crime. Money laundering cases often involve complex financial transactions and require coordination between multiple investigative agencies.",
+      "examRelevance": "ED registered a money laundering case against Subhash Chandra.",
+      "tags": [
+        "ED",
+        "Subhash Chandra",
+        "Money Laundering",
+        "PMLA"
+      ],
+      "source": {
+        "title": "ED registers money laundering case against Subhash Chandra",
+        "url": "https://www.thehindu.com/news/national/ed-registers-money-laundering-case-against-subhash-chandra/article71655520.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q18",
+      "question": "What was the 24-hour average Air Quality Index (AQI) of Delhi at 8 a.m. on November 2, 2026, as per Central Pollution Control Board (CPCB) data, categorized as 'very poor'?",
+      "options": [
+        "280",
+        "310",
+        "350",
+        "250"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The 24-hour average Air Quality Index (AQI) of Delhi was 310 (very poor) at 8 a.m. on November 2, 2026, as per Central Pollution Control Board (CPCB) data. This indicates a significant deterioration in air quality.",
+      "background": "Delhi frequently experiences severe air pollution, particularly during the winter months, due to a combination of factors including vehicular emissions, industrial pollution, stubble burning in neighboring states, and unfavorable meteorological conditions.",
+      "examRelevance": "Delhi's AQI was 310 ('very poor') on November 2, 2026.",
+      "tags": [
+        "Delhi",
+        "AQI",
+        "Air Quality",
+        "CPCB"
+      ],
+      "source": {
+        "title": "Air quality worsens to ‘very poor’ category in Delhi, parts of north India",
+        "url": "https://www.thehindu.com/news/cities/Delhi/air-quality-worsens-to-very-poor-category-in-delhi-parts-of-north-india/article71655252.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q19",
+      "question": "Which country recently scripted history with its maiden bilateral ODI series win, stunning Ireland 3-2?",
+      "options": [
+        "Netherlands",
+        "Afghanistan",
+        "Namibia",
+        "Scotland"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Namibia scripted history with its maiden bilateral ODI series win, stunning Ireland with a 3-2 victory. This achievement provides Namibia a significant boost to their preparations for next year's ICC Men’s Cricket World Cup.",
+      "background": "For emerging cricket nations, a bilateral series win against an established team like Ireland is a major milestone. It indicates progress in their cricketing development and helps them gain experience and confidence on the international stage.",
+      "examRelevance": "Namibia won its maiden bilateral ODI series against Ireland 3-2.",
+      "tags": [
+        "Namibia",
+        "Ireland",
+        "ODI Series",
+        "Cricket"
+      ],
+      "source": {
+        "title": "Namibia scripts history with maiden bilateral ODI series win; stuns Ireland 3-2",
+        "url": "https://www.thehindu.com/sport/cricket/namibia-scripts-history-with-maiden-bilateral-odi-series-win-stuns-ireland-3-2/article71655307.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q20",
+      "question": "Which former Supreme Court judge recently released his memoir titled 'Without Fear or Favour'?",
+      "options": [
+        "Justice D.Y. Chandrachud",
+        "Justice N.V. Ramana",
+        "Justice U.U. Lalit",
+        "Justice Sanjay Kishan Kaul"
+      ],
+      "answerIndex": 3,
+      "category": "Books & Authors",
+      "explanation": "Former Supreme Court judge Justice Sanjay Kishan Kaul recently discussed his memoir titled 'Without Fear or Favour'. The book delves into delays in clearing collegium recommendations and the need for reform in the judicial appointment system.",
+      "background": "Memoirs by retired judges often offer valuable insights into the functioning of the judiciary, the challenges faced, and the dynamics between the executive and judicial branches, particularly concerning judicial appointments via the collegium system.",
+      "examRelevance": "Justice Sanjay Kishan Kaul authored the memoir 'Without Fear or Favour'.",
+      "tags": [
+        "Justice Sanjay Kishan Kaul",
+        "Memoir",
+        "Without Fear or Favour",
+        "Judiciary"
+      ],
+      "source": {
+        "title": "Justice Sanjay Kishan Kaul on his memoir ‘Without Fear or Favour’ and the executive’s growing influence over the collegium system",
+        "url": "https://www.thehindu.com/books/justice-sanjay-kishan-kaul-on-his-memoir-without-fear-or-favour-and-the-executives-growing-influence-over-the-collegium-system/article71643731.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q21",
+      "question": "Which country's President Isaac Herzog recently urged political leaders to accept election results and find creative solutions to prevent another election, following political developments involving factions like B'Yachad?",
+      "options": [
+        "Israel",
+        "Jordan",
+        "Lebanon",
+        "Palestine"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Israeli President Isaac Herzog recently urged political leaders to accept the election results and find creative solutions to prevent another election. This appeal came amid political developments, including Naftali Bennett's B'Yachad faction supporting Gadi Eisenkot.",
+      "background": "Israel has faced multiple elections in recent years due to political stalemates and an inability to form stable coalition governments. The President's role often involves mediating and encouraging consensus among political parties to ensure governmental stability.",
+      "examRelevance": "Israeli President Isaac Herzog urged political leaders to prevent another election.",
+      "tags": [
+        "Israel",
+        "Isaac Herzog",
+        "Government Formation",
+        "Political Crisis"
+      ],
+      "source": {
+        "title": "Naftali Bennett’s ‘B’Yachad’ faction throws support behind Gadi Eisenkot to form next Israeli government",
+        "url": "https://www.thehindu.com/news/international/naftali-bennetts-byachad-faction-throws-support-behind-gadi-eisenkot-to-form-next-israeli-government/article71655792.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q22",
+      "question": "What was the percentage rise in consolidated net profit reported by Zen Technologies for the September 2026 quarter?",
+      "options": [
+        "51%",
+        "47%",
+        "35%",
+        "98%"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Zen Technologies reported a 51% year-on-year (YoY) rise in consolidated net profit for the September 2026 quarter, reaching ₹90 crore. Its revenue from operations also increased by nearly 98% to ₹345 crore.",
+      "background": "Zen Technologies is a defence technology company specializing in combat training solutions. Strong financial performance in the defence sector often reflects increased government spending on military modernization and indigenous defence production.",
+      "examRelevance": "Zen Technologies Q2FY27 consolidated net profit rose 51% YoY.",
+      "tags": [
+        "Zen Technologies",
+        "Net Profit",
+        "Defence Technology",
+        "Q2 Earnings"
+      ],
+      "source": {
+        "title": "Zen Technologies shares rally 9% after Q2 profit rises 51% YoY, revenue nearly doubles",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/zen-technologies-shares-rally-9-after-q2-profit-rises-51-yoy-revenue-nearly-doubles/articleshow/135445767.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q23",
+      "question": "Which train service connecting Bengaluru with Mumbai via Anantapur, Raichur, Kalaburagi, Solapur, and Pune was recently flagged off by the Railway Minister?",
+      "options": [
+        "Karnataka Sampark Kranti Express",
+        "Bengaluru-Mumbai Vande Bharat Sleeper Express",
+        "Deccan Queen Express",
+        "Udyan Express"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The Bengaluru-Mumbai Vande Bharat Sleeper Express, an overnight service, was recently flagged off by the Railway Minister. This train will connect Bengaluru with Mumbai via Anantapur, Raichur, Kalaburagi, Solapur, and Pune, improving connectivity across three States.",
+      "background": "The Vande Bharat Express initiative is a flagship program of Indian Railways aimed at introducing modern, semi-high-speed train services across the country. The sleeper version caters to overnight travel, enhancing passenger comfort and connectivity.",
+      "examRelevance": "Bengaluru-Mumbai Vande Bharat Sleeper Express flagged off.",
+      "tags": [
+        "Vande Bharat Express",
+        "Bengaluru",
+        "Mumbai",
+        "Indian Railways"
+      ],
+      "source": {
+        "title": "Bengaluru-Mumbai Vande Bharat Sleeper Express flagged off by Railway Minister",
+        "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-mumbai-vande-bharat-sleeper-express-flagged-off-by-railway-minister/article71653630.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q24",
+      "question": "Writer-jurist Jinadatta Desai, who recently passed away at the age of 93, served as the Chairman of which education trust post-retirement?",
+      "options": [
+        "Karnataka Education Foundation",
+        "Bharatesh Education Trust",
+        "Global School Foundation",
+        "Deccan Education Society"
+      ],
+      "answerIndex": 1,
+      "category": "Obituaries",
+      "explanation": "Writer-jurist Jinadatta Desai passed away at 93. Post retirement, Dr. Desai served as the Chairman of Bharatesh Education Trust for several years, contributing significantly to the education sector.",
+      "background": "Jinadatta Desai's dual career as a writer and jurist, followed by his leadership in education, highlights a life dedicated to public service and intellectual pursuits. His contributions would have impacted both legal and academic spheres.",
+      "examRelevance": "Writer-jurist Jinadatta Desai passed away at 93; was Chairman of Bharatesh Education Trust.",
+      "tags": [
+        "Jinadatta Desai",
+        "Obituary",
+        "Writer",
+        "Jurist",
+        "Bharatesh Education Trust"
+      ],
+      "source": {
+        "title": "Writer-jurist Jinadatta Desai passes away at 93",
+        "url": "https://www.thehindu.com/news/national/karnataka/writer-jurist-jinadatta-desai-passes-away-at-93/article71652345.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q25",
+      "question": "Which state's police inspector was mowed down by a truck carrying illicit liquor in Dewas?",
+      "options": [
+        "Bihar",
+        "Madhya Pradesh",
+        "Uttar Pradesh",
+        "Rajasthan"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "A Madhya Pradesh Police inspector was mowed down by a truck carrying illicit liquor in Dewas. The truck driver and staff fled the scene, and a search is underway for them.",
+      "background": "Incidents involving illicit liquor trade often lead to confrontations with law enforcement. Police officers frequently risk their lives to curb such illegal activities, which have serious public health and safety implications.",
+      "examRelevance": "Madhya Pradesh Police inspector mowed down by truck in Dewas.",
+      "tags": [
+        "Madhya Pradesh",
+        "Police",
+        "Illicit Liquor",
+        "Dewas"
+      ],
+      "source": {
+        "title": "Madhya Pradesh Police inspector mowed down by truck carrying illicit liquor in Dewas",
+        "url": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-police-inspector-mowed-down-by-truck-carrying-illicit-liquor-in-dewas/article71655610.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q26",
+      "question": "What was the percentage increase in consolidated net profit reported by Motherson Sumi Wiring for the second quarter of FY27?",
+      "options": [
+        "47%",
+        "35%",
+        "13%",
+        "22%"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Motherson Sumi Wiring reported a 35% year-on-year (YoY) jump in consolidated net profit to ₹223 crore in the second quarter of FY27, compared to ₹165 crore in the year-ago period. The company's revenue from operations increased by 47% to ₹4,504 crore.",
+      "background": "Motherson Sumi Wiring is a key player in the auto ancillary sector, manufacturing wiring harnesses. Its growth is often driven by the overall performance of the automotive industry and increasing content per vehicle due to premiumisation.",
+      "examRelevance": "Motherson Sumi Wiring Q2FY27 consolidated net profit jumped 35% YoY.",
+      "tags": [
+        "Motherson Sumi Wiring",
+        "Net Profit",
+        "Auto Ancillary",
+        "Q2 Earnings"
+      ],
+      "source": {
+        "title": "This auto ancillary stock soars 13% after Q2 PAT jumps 35% YoY. Do you own it?",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/this-auto-ancillary-stock-soars-13-after-q2-pat-jumps-35-yoy-do-you-own-it/articleshow/135445868.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q27",
+      "question": "What was the rupee's value against the U.S. dollar in early trade, after falling 21 paise?",
+      "options": [
+        "95.18",
+        "93.85",
+        "94.76",
+        "94.97"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The rupee fell 21 paise and was trading at 94.97 against the U.S. dollar in early trade. Forex traders noted that a positive domestic market and softening crude oil prices cushioned the downside.",
+      "background": "The value of the rupee against the dollar is influenced by various factors, including global crude oil prices, foreign institutional investor flows, domestic economic indicators, and interest rate differentials. A weaker rupee makes imports more expensive.",
+      "examRelevance": "Rupee fell to 94.97 against U.S. dollar.",
+      "tags": [
+        "Rupee",
+        "US Dollar",
+        "Forex",
+        "Economy"
+      ],
+      "source": {
+        "title": "Rupee falls 21 paise to 94.97 against U.S. dollar in early trade",
+        "url": "https://www.thehindu.com/business/markets/rupee-falls-21-paise-to-9497-against-us-dollar-in-early-trade/article71655318.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q28",
+      "question": "Which tech company is reportedly building a humanoid robot called 'Max' in collaboration with a Chinese startup to assist people with household chores?",
+      "options": [
+        "Google",
+        "Meta",
+        "Amazon",
+        "Tesla"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Meta is reportedly building a humanoid robot named Max in collaboration with a Chinese startup. This robot is designed to assist people with various household chores, indicating Meta's foray into consumer robotics.",
+      "background": "The development of humanoid robots for domestic assistance is a growing area in artificial intelligence and robotics. Companies are investing heavily in this field to create solutions that can integrate into daily life and perform complex tasks.",
+      "examRelevance": "Meta is building a humanoid robot 'Max' with a Chinese startup.",
+      "tags": [
+        "Meta",
+        "Humanoid Robot",
+        "Max",
+        "AI",
+        "Robotics"
+      ],
+      "source": {
+        "title": "Meta builds humanoid robot with Chinese startup: Report",
+        "url": "https://www.thehindu.com/sci-tech/technology/meta-builds-humanoid-robot-with-chinese-startup-fourier-report/article71655217.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q29",
+      "question": "Which of the following medical procedures was the subject of a workshop hosted by KBN Hospital in Kalaburagi, featuring ten live surgeries and attended by 150 delegates?",
+      "options": [
+        "Hysterectomy and advanced laparoscopy",
+        "Organ transplantation",
+        "Cardiovascular bypass surgery",
+        "Neurosurgery and spinal fusion"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "KBN Hospital in Kalaburagi hosted a workshop on hysterectomy and advanced laparoscopy. The event featured ten live surgeries and was attended by approximately 150 delegates from across Karnataka, providing practical training and knowledge sharing.",
+      "background": "Workshops with live surgical demonstrations are critical for advancing medical education and surgical skills, especially in specialized areas like laparoscopy, which offers minimally invasive benefits for patients. Such events facilitate the adoption of modern surgical techniques.",
+      "examRelevance": "KBN Hospital Kalaburagi hosted workshop on hysterectomy and advanced laparoscopy.",
+      "tags": [
+        "KBN Hospital",
+        "Kalaburagi",
+        "Hysterectomy",
+        "Laparoscopy",
+        "Medical Workshop"
+      ],
+      "source": {
+        "title": "KBN Hospital hosts workshop on hysterectomy and advanced laparoscopy in Kalaburagi",
+        "url": "https://www.thehindu.com/news/national/karnataka/kbn-hospital-hosts-workshop-on-hysterectomy-and-advanced-laparoscopy-in-kalaburagi/article71645308.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-02-q30",
+      "question": "Researchers from CUSAT and SCTIMST, Thiruvananthapuram, recently found significant differences in gut bacteria linked to which neurological disease?",
+      "options": [
+        "Parkinson’s disease",
+        "Multiple Sclerosis",
+        "Alzheimer’s disease",
+        "Epilepsy"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Researchers from CUSAT and SCTIMST, Thiruvananthapuram, conducted a study in Keralam that shed light on the link between gut bacteria and Parkinson’s disease. They found significant differences between the gut bacteria of Parkinson’s patients and healthy individuals.",
+      "background": "The 'gut-brain axis' is a rapidly evolving field of research, exploring the intricate connection between the gut microbiome and neurological disorders. Understanding these links could lead to new diagnostic tools and therapeutic strategies for conditions like Parkinson's.",
+      "examRelevance": "Study in Keralam found link between gut bacteria and Parkinson’s disease.",
+      "tags": [
+        "Gut Bacteria",
+        "Parkinson’s Disease",
+        "CUSAT",
+        "SCTIMST",
+        "Keralam"
+      ],
+      "source": {
+        "title": "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
+        "url": "https://www.thehindu.com/news/national/kerala/study-in-keralam-sheds-light-on-link-between-gut-bacteria-parkinsons-disease/article71638025.ece"
+      }
+    }
+  ]
+}
