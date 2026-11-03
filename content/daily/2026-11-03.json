@@ -1,0 +1,791 @@
+{
+  "id": "daily-2026-11-03",
+  "type": "daily",
+  "date": "2026-11-03",
+  "title": "Current Affairs — 03 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-03-q1",
+      "question": "An Indian seafarer was killed in a recent attack on a ship near Oman. What was his name?",
+      "options": [
+        "Suresh Mehta",
+        "Rahul Kumar",
+        "Gandhar Nahim Ajij",
+        "Alok Sharma"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Gandhar Nahim Ajij, an Indian seafarer from Gujarat, was killed in an attack on a ship operating near Oman. The Ministry of External Affairs confirmed the incident, and 13 other seafarers were rescued.",
+      "background": "The incident occurred amid heightened tensions in the West Asia region, with India reiterating its call for immediate de-escalation. Such attacks on maritime vessels pose significant risks to international shipping and seafarers.",
+      "examRelevance": "Gandhar Nahim Ajij, Indian seafarer, killed in ship attack near Oman.",
+      "tags": [
+        "Indian seafarer",
+        "Oman",
+        "maritime security",
+        "Gandhar Nahim Ajij"
+      ],
+      "source": {
+        "title": "Indian seafarer killed in attack on ship near Oman; 13 others rescued: MEA",
+        "url": "https://www.thehindu.com/news/national/india-seafarer-killed-in-attack-on-ship-near-oman-mea-west-asia-conflict/article71659910.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q2",
+      "question": "Which judicial body recently directed the Bombay Municipal Corporation (BMC) to re-upload actor Dia Mirza's video message promoting eco-friendly Deepavali?",
+      "options": [
+        "National Green Tribunal",
+        "Maharashtra State Commission for Women",
+        "Supreme Court of India",
+        "Bombay High Court"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Bombay High Court directed the Bombay Municipal Corporation (BMC) to re-upload a video message by actor Dia Mirza promoting eco-friendly Deepavali. The court expressed deep pain over the controversy that led to the video's earlier removal.",
+      "background": "The BMC had previously pulled down the video after objections from the BJP, which criticized the administration for not seeking clearance on celebrity endorsements. Dia Mirza stated the video was in public interest, aligning with a prior Bombay High Court order.",
+      "examRelevance": "Bombay High Court ordered BMC to re-upload Dia Mirza's eco-friendly Deepavali video.",
+      "tags": [
+        "Dia Mirza",
+        "BMC",
+        "Bombay High Court",
+        "eco-friendly Deepavali",
+        "firecrackers"
+      ],
+      "source": {
+        "title": "Bombay HC asks BMC to re-upload Dia Mirza’s firecracker appeal, says ‘deeply pained’ by controversy",
+        "url": "https://www.thehindu.com/news/national/maharashtra/bombay-hc-asks-bmc-to-re-upload-dia-mirzas-firecracker-appeal-says-deeply-pained-by-controversy/article71659945.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q3",
+      "question": "In which university have approximately 4,000 women students from its Women’s College recently been denied voting rights in the students’ union elections, raising concerns about gender discrimination?",
+      "options": [
+        "Banaras Hindu University",
+        "Jawaharlal Nehru University",
+        "Delhi University",
+        "Aligarh Muslim University"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Around 4,000 women students at Aligarh Muslim University’s (AMU) Women’s College have been denied voting rights in the Aligarh Muslim University Students’ Union (AMUSU) elections. This has brought renewed scrutiny to separate-union rules and gender discrimination in campus politics.",
+      "background": "The denial of voting rights to women students in the university-wide electoral process has sparked a fight for inclusion and equal representation, highlighting existing barriers faced by women in campus politics.",
+      "examRelevance": "AMU women students denied voting rights in AMUSU elections.",
+      "tags": [
+        "Aligarh Muslim University",
+        "AMUSU elections",
+        "women's rights",
+        "gender discrimination"
+      ],
+      "source": {
+        "title": "AMU wants women on campus, not at the ballot box",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/amus-wants-women-on-campus-not-at-the-ballot-box/article71653225.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q4",
+      "question": "In which Indian state is the counting of votes currently underway for 92 urban local bodies?",
+      "options": [
+        "Tamil Nadu",
+        "Telangana",
+        "Andhra Pradesh",
+        "Karnataka"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The counting of votes is currently underway in 92 urban local bodies across Andhra Pradesh. The results are expected to be declared through the day, with the TDP taking an early lead in some areas.",
+      "background": "These civic polls are significant for local governance, and their outcomes often reflect the broader political sentiment in the state. Challenges like rain and missing keys have caused some delays in the counting process.",
+      "examRelevance": "Andhra Pradesh civic polls counting underway for 92 urban local bodies.",
+      "tags": [
+        "Andhra Pradesh",
+        "civic polls",
+        "urban local bodies",
+        "election results"
+      ],
+      "source": {
+        "title": "Andhra Pradesh civic polls result LIVE | TDP takes early lead; HC clears Pulivendula count; rain, missing keys delay counting",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-election-results-2026-live-updates/article71659328.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q5",
+      "question": "Which severe cyclone recently made landfall near Ongole on the Andhra Pradesh coast, with wind speeds gusting up to 120 kmph?",
+      "options": [
+        "Cyclone Murasu",
+        "Cyclone Nivar",
+        "Cyclone Fani",
+        "Cyclone Amphan"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Severe Cyclone Murasu made landfall near Ongole on the Andhra Pradesh coast on November 3, 2026. It brought gale-force winds of 100-110 kmph, gusting to 120 kmph, and was expected to subside into a deep depression by midnight.",
+      "background": "Red alerts were issued for several districts in Telangana, including Suryapet, Khammam, and Bhadradri, while being lifted from two others. The Andhra Pradesh Chief Minister called for efforts to prevent loss of lives.",
+      "examRelevance": "Cyclone Murasu made landfall near Ongole, Andhra Pradesh, on November 3, 2026.",
+      "tags": [
+        "Cyclone Murasu",
+        "Ongole",
+        "Andhra Pradesh",
+        "Telangana",
+        "natural disaster"
+      ],
+      "source": {
+        "title": "Severe Cyclone Murasu: Landfall commences near Ongole",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/severe-cyclone-murasu-landfall-on-november-3-2026/article71658293.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q6",
+      "question": "According to the World Gold Council, what was India's total gold demand in the July-September quarter (Q3), showing a 29% decline?",
+      "options": [
+        "205.0 tonnes",
+        "162.5 tonnes",
+        "120.3 tonnes",
+        "188.7 tonnes"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "India's gold demand in the July-September quarter (Q3) fell by 29% year-on-year to 162.5 tonnes, as reported by the World Gold Council. Total jewellery demand also dipped by 20% to 99.9 tonnes in the same period.",
+      "background": "The decline in gold demand is primarily attributed to rising gold prices, making it less affordable for Indian buyers. In value terms, however, jewellery demand was up 16% at ₹1,48,700 crores due to higher prices.",
+      "examRelevance": "India's Q3 gold demand = 162.5 tonnes (World Gold Council).",
+      "tags": [
+        "Gold demand",
+        "World Gold Council",
+        "economy",
+        "Q3",
+        "jewellery"
+      ],
+      "source": {
+        "title": "India's gold demand down 29% in July-September at 162.5 tonnes: World Gold Council",
+        "url": "https://www.thehindu.com/business/markets/indias-gold-demand-down-29-in-july-september-at-1625-tonnes-world-gold-council/article71659966.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q7",
+      "question": "Tamil Nadu Minister Rajmohan recently alleged he was offered a substantial bribe to appoint someone as the president of which cultural institution?",
+      "options": [
+        "Chennai Sangam",
+        "Iyal Isai Nataka Mandram",
+        "Dravidian Arts Academy",
+        "Tamil Nadu Kalaignar Mandram"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Tamil Nadu Minister Rajmohan alleged that he was offered ₹5 crore to appoint an individual as the president of the Iyal Isai Nataka Mandram. The DMK has since sought a DVAC inquiry into these allegations.",
+      "background": "The Minister made this public statement on November 1, claiming that every minister in the current Tamil Nadu Cabinet is against bribery and corruption. The DMK questioned why the offer was not reported to law enforcement agencies earlier.",
+      "examRelevance": "Tamil Nadu Minister Rajmohan offered ₹5 crore bribe for Iyal Isai Nataka Mandram president post.",
+      "tags": [
+        "Tamil Nadu",
+        "Minister Rajmohan",
+        "bribery",
+        "Iyal Isai Nataka Mandram",
+        "DVAC"
+      ],
+      "source": {
+        "title": "I was offered ₹5 crore to make someone Iyal Isai Nataka Mandram president: Tamil Nadu Minister Rajmohan",
+        "url": "https://www.thehindu.com/news/cities/chennai/i-was-offered-5-crore-to-make-someone-iyal-isai-nataka-mandram-president-rajmohan/article71653205.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q8",
+      "question": "An audit recently highlighted that poor families in which Indian city face a monthly burden of approximately ₹3,000 for drinking water?",
+      "options": [
+        "Bengaluru",
+        "Hyderabad",
+        "Chennai",
+        "Mumbai"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "An audit has flagged that poor families in Bengaluru face an estimated monthly burden of ₹3,000 for drinking water. This is due to the city extracting groundwater at nearly twice the replenishment rate and losing about 400 million litres of piped water daily.",
+      "background": "The Water Satyagraha campaign, led by Syed Ahmed Hussain, convenor, has brought attention to this issue. The high cost affects vulnerable families disproportionately, highlighting significant urban water management challenges.",
+      "examRelevance": "Bengaluru poor families face ₹3,000 monthly drinking water burden.",
+      "tags": [
+        "Bengaluru",
+        "drinking water",
+        "water crisis",
+        "urban issues",
+        "Water Satyagraha"
+      ],
+      "source": {
+        "title": "Audit flags ₹3,000 monthly drinking water burden on poor families in Bengaluru",
+        "url": "https://www.thehindu.com/news/national/karnataka/audit-flags-3000-monthly-drinking-water-burden-on-poor-families-in-bengaluru/article71659652.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q9",
+      "question": "The 2027 Asian Cup football tournament, which was scheduled to be held in Saudi Arabia, has been postponed due to which reason?",
+      "options": [
+        "Financial irregularities",
+        "Scheduling conflicts with other major tournaments",
+        "Safety concerns due to Houthi attacks",
+        "Lack of infrastructure"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "The 2027 Asian Cup football tournament, set to be hosted by Saudi Arabia, has been postponed due to safety concerns. This decision follows a number of recent Houthi attacks on the country, which have also led to the cancellation or postponement of other sports events.",
+      "background": "The postponement highlights the impact of regional conflicts on international sporting events. Saudi Arabia was chosen as the host nation for the prestigious continental football tournament.",
+      "examRelevance": "2027 Asian Cup football in Saudi Arabia postponed due to Houthi attacks/safety.",
+      "tags": [
+        "Asian Cup",
+        "football",
+        "Saudi Arabia",
+        "Houthi attacks",
+        "sports postponement"
+      ],
+      "source": {
+        "title": "2027 Asian Cup football tournament in Saudi Arabia postponed over safety",
+        "url": "https://www.thehindu.com/sport/football/2027-asian-cup-football-tournament-in-saudi-arabia-postponed-over-safety/article71659986.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q10",
+      "question": "The Kochi City Cyber police recently registered a case against 18 social media handles for allegedly revealing the identity of a minor accused in which specific incident?",
+      "options": [
+        "Fort Kochi boat accident",
+        "Cheranalloor luxury car crash case",
+        "Aluva kidnapping incident",
+        "Kakkanad hit-and-run case"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Kochi City Cyber police have registered a case against 18 social media handles. These handles are accused of revealing the identity of a 17-year-old minor involved in the Cheranalloor luxury car crash case.",
+      "background": "Revealing the identity of a minor accused or victim is against legal provisions aimed at protecting their privacy and ensuring their rehabilitation. The police action underscores the importance of adhering to these legal guidelines on social media.",
+      "examRelevance": "Kochi Cyber police booked 18 handles for revealing minor's identity in Cheranalloor car crash case.",
+      "tags": [
+        "Kochi",
+        "Cyber police",
+        "minor identity",
+        "Cheranalloor car crash",
+        "social media"
+      ],
+      "source": {
+        "title": "Cyber police book 18 for allegedly revealing identity of minor accused in Cheranalloor car crash case",
+        "url": "https://www.thehindu.com/news/national/kerala/cyber-police-book-18-for-allegedly-revealing-identity-of-minor-accused-in-cheranalloor-car-crash-case/article71659667.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q11",
+      "question": "The poultry industry recently pushed for a live chicken price of ₹110 per kg, citing challenges primarily due to the rising prices of which commodity?",
+      "options": [
+        "Rice",
+        "Soy",
+        "Maize",
+        "Wheat"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The poultry industry is advocating for a live chicken price of ₹110 per kg. This push comes in response to the challenges posed by rising maize prices, which are attributed to shortages caused by El Niño conditions.",
+      "background": "A meeting held in Hyderabad discussed these issues, emphasizing the significant impact of feed costs on the poultry sector's profitability. Maize is a primary component of poultry feed.",
+      "examRelevance": "Poultry industry seeks ₹110/kg live chicken price due to rising maize prices.",
+      "tags": [
+        "Poultry industry",
+        "live chicken price",
+        "maize",
+        "El Niño",
+        "Hyderabad"
+      ],
+      "source": {
+        "title": "Poultry industry pushes for ₹110 per kg live chicken price",
+        "url": "https://www.thehindu.com/news/national/telangana/poultry-industry-pushes-for-110-per-kg-live-chicken-price/article71659617.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q12",
+      "question": "Prime Minister Narendra Modi recently inaugurated the 23-km Pink Line of the Metro in which Indian city?",
+      "options": [
+        "Pune",
+        "Nagpur",
+        "Ahmedabad",
+        "Lucknow"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "Prime Minister Narendra Modi inaugurated the 23-km Pink Line of the Pune Metro. During the event, he also laid the foundation for four new metro corridors in the city.",
+      "background": "The expansion of the metro network aims to improve urban connectivity and ease traffic congestion in Pune, a major industrial and educational hub. This development is part of the broader national push for urban infrastructure development.",
+      "examRelevance": "PM Modi inaugurated Pune Metro's 23-km Pink Line.",
+      "tags": [
+        "Pune Metro",
+        "Pink Line",
+        "PM Modi",
+        "urban infrastructure",
+        "public transport"
+      ],
+      "source": {
+        "title": "Modi inaugurates Pune Metro's 23-km Pink Line",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/railways/pm-narendra-modi-inaugurates-pune-metros-23-km-pink-line-lays-foundation-for-four-new-corridors/articleshow/135487914.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q13",
+      "question": "An initiative to strengthen perinatal mental healthcare is set to be piloted in which district of Tamil Nadu?",
+      "options": [
+        "Salem",
+        "Coimbatore",
+        "Villupuram",
+        "Madurai"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "An initiative aimed at strengthening perinatal mental healthcare will be piloted in the Villupuram district of Tamil Nadu. This program will train Village Health Nurses and medical officers to screen pregnant women for mental health problems, especially depression, during antenatal and postnatal periods.",
+      "background": "The initiative seeks to ensure timely and appropriate care for new and expecting mothers, addressing a critical aspect of public health often overlooked. Early detection and intervention in perinatal mental health can significantly improve maternal and child outcomes.",
+      "examRelevance": "Perinatal mental healthcare initiative piloted in Villupuram, Tamil Nadu.",
+      "tags": [
+        "Perinatal mental healthcare",
+        "Tamil Nadu",
+        "Villupuram",
+        "public health",
+        "women's health"
+      ],
+      "source": {
+        "title": "Initiative to strengthen perinatal mental healthcare to be piloted in T.N.",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/initiative-to-strengthen-perinatal-mental-healthcare-to-be-piloted-in-villupuram-district/article71657511.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q14",
+      "question": "Which company recently reported a 23% year-on-year jump in its Q2 net profit, reaching ₹2,758 crore?",
+      "options": [
+        "Bajaj Finserv",
+        "HDFC Bank",
+        "Tata Motors",
+        "Reliance Industries"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Bajaj Finserv reported a significant 23% year-on-year jump in its Q2 net profit, reaching ₹2,758 crore. This financial performance indicates strong growth for the company during the quarter.",
+      "background": "Such quarterly results are closely watched by investors and analysts as indicators of a company's financial health and the broader economic trends. Bajaj Finserv operates in the financial services sector.",
+      "examRelevance": "Bajaj Finserv Q2 net profit jumped 23% YoY to ₹2,758 crore.",
+      "tags": [
+        "Bajaj Finserv",
+        "Q2 results",
+        "net profit",
+        "financial services",
+        "economy"
+      ],
+      "source": {
+        "title": "Bajaj Finserv Q2 profit jumps 23% YoY to Rs 2,758 cr",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finserv-q2-results-net-profit-jumps-23-yoy-to-rs-2758-crore-shares-rise-2/articleshow/135487692.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q15",
+      "question": "Which state's Food and Drug Administration (FDA) recently confiscated Patanjali stock, including 2,279.7 litres of ghee worth ₹20.20 lakh, from a distributor in Chhatrapati Sambhajinagar and suspended its licences?",
+      "options": [
+        "Uttarakhand",
+        "Gujarat",
+        "Uttar Pradesh",
+        "Maharashtra"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Maharashtra Food and Drug Administration (FDA) confiscated 2,279.7 litres of ghee, valued at ₹20.20 lakh, from Divya Mahavitarak, a Patanjali distributor in Chhatrapati Sambhajinagar. The FDA also suspended its licences, suspecting the stock to be misbranded or adulterated.",
+      "background": "This action highlights the regulatory body's efforts to ensure product quality and consumer safety. Cases of suspected misbranding or adulteration can lead to severe penalties and product recalls.",
+      "examRelevance": "Maharashtra FDA confiscated Patanjali ghee stock (₹20.20 lakh) over suspected misbranding/adulteration.",
+      "tags": [
+        "Maharashtra FDA",
+        "Patanjali",
+        "ghee",
+        "Chhatrapati Sambhajinagar",
+        "food safety"
+      ],
+      "source": {
+        "title": "Maharashtra FDA confiscates Patanjali stock, suspends licences",
+        "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-confiscates-patanjali-stock-suspends-licences/article71659514.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q16",
+      "question": "Which New Zealand cricketer was ruled out of the first ODI against India due to a concussion, sustained during a training session at Eden Park?",
+      "options": [
+        "Mitchell Santner",
+        "Tim Seifert",
+        "Henry Nicholls",
+        "Devon Conway"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "New Zealand opener Devon Conway was ruled out of the first ODI against India due to a concussion. He sustained the injury after colliding with Henry while attempting an aerial catch during a training session at Eden Park. Tim Seifert is set to replace him.",
+      "background": "The India vs New Zealand ODI series began on November 4, 2026. Concussion protocols in cricket are strictly followed to ensure player safety, leading to immediate withdrawal from play if a concussion is suspected.",
+      "examRelevance": "Devon Conway ruled out of IND vs NZ ODI with concussion.",
+      "tags": [
+        "Devon Conway",
+        "New Zealand cricket",
+        "ODI series",
+        "concussion",
+        "India vs New Zealand"
+      ],
+      "source": {
+        "title": "IND vs NZ ODI series: Devon Conway ruled out of first ODI with concussion, Tim Seifert set for direct swap",
+        "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-odi-series-devon-conway-concussion-tim-seifert/article71659784.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q17",
+      "question": "The Ladakh administration recently directed which school, founded by innovator Sonam Wangchuk, to halt its activities pending a High Court verdict?",
+      "options": [
+        "Himalayan Institute of Learning",
+        "Desert Flower School Phyang",
+        "Ice Stupa School",
+        "Ladakh Public School"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Ladakh administration directed the Desert Flower School Phyang, Leh, founded by Sonam Wangchuk, to halt its activities. The notice stated that classes and other activities had commenced without obtaining the requisite consent, clearances, or approvals from competent authorities.",
+      "background": "Sonam Wangchuk is a well-known educationist and innovator, particularly recognized for his work in Ladakh. The administration's action underscores the need for educational institutions to comply with all regulatory requirements.",
+      "examRelevance": "Ladakh admin directed Sonam Wangchuk's Desert Flower School Phyang to halt activities.",
+      "tags": [
+        "Sonam Wangchuk",
+        "Ladakh",
+        "Desert Flower School",
+        "education",
+        "regulatory compliance"
+      ],
+      "source": {
+        "title": "Ladakh admin directs Sonam Wangchuk-founded school to halt activities pending High Court verdict",
+        "url": "https://www.thehindu.com/news/national/ladakh/ladakh-admin-directs-sonam-wangchuk-founded-school-to-halt-activities-pending-high-court-verdict/article71659827.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q18",
+      "question": "Which two countries are engaged in ongoing talks, as confirmed by Iran's Foreign Minister, aimed at preventing a return of military escalation, amidst intensified fighting between Saudi Arabia and Yemen's Houthis?",
+      "options": [
+        "Iran and Saudi Arabia",
+        "Saudi Arabia and Qatar",
+        "UAE and Oman",
+        "Iran and UAE"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Iran's Foreign Minister confirmed that talks with Saudi Arabia are ongoing. These discussions are intended to open negotiating channels to prevent the return of military escalation, particularly as fighting between Saudi Arabia and Yemen’s Iran-aligned Houthis has intensified in recent weeks.",
+      "background": "The talks represent an effort to de-escalate regional tensions that have been exacerbated by the conflict in Yemen. Improved relations between Iran and Saudi Arabia are crucial for stability in the West Asia region.",
+      "examRelevance": "Iran and Saudi Arabia holding talks to prevent military escalation.",
+      "tags": [
+        "Iran",
+        "Saudi Arabia",
+        "Yemen",
+        "Houthis",
+        "international relations",
+        "de-escalation"
+      ],
+      "source": {
+        "title": "Iran's Foreign Minister says talks with Saudi Arabia are ongoing; Yemen fighting intensifies",
+        "url": "https://www.thehindu.com/news/international/irans-foreign-minister-says-talks-with-saudi-arabia-are-ongoing-yemen-fighting-intensifies/article71659845.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q19",
+      "question": "A child recently died of measles in New York, marking the first such death in the city in how many years?",
+      "options": [
+        "20 years",
+        "30 years",
+        "10 years",
+        "40 years"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "A child in New York recently died of measles, which is the city's first such death in 30 years. The U.S. had stopped the domestic spread of measles in 2000 by maintaining high vaccination rates.",
+      "background": "However, vaccination rates have fallen in recent years to below the 95% coverage needed to prevent outbreaks of the viral disease. This death highlights the resurgence risk of preventable diseases due to declining vaccination rates.",
+      "examRelevance": "First measles death in New York in 30 years.",
+      "tags": [
+        "Measles",
+        "New York",
+        "public health",
+        "vaccination",
+        "disease outbreak"
+      ],
+      "source": {
+        "title": "Child dies of measles in New York's first such death in 30 years",
+        "url": "https://www.thehindu.com/news/international/child-dies-of-measles-in-new-yorks-first-such-death-in-30-years/article71659832.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q20",
+      "question": "Which cryptocurrency exchange recently recovered customer crypto within 3-4 days after being hit by an approximately $6.3 billion hack, described as the biggest in history?",
+      "options": [
+        "Kraken",
+        "Binance",
+        "Coinbase",
+        "FTX"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Binance, the world's largest cryptocurrency exchange, successfully recovered customer crypto within approximately 3-4 days following a $6.3 billion hack. This incident was described as the biggest crypto hack in history.",
+      "background": "The swift recovery highlights the exchange's security measures and operational resilience. Such large-scale hacks underscore the ongoing cybersecurity challenges in the cryptocurrency industry.",
+      "examRelevance": "Binance recovered from $6.3 billion crypto hack, largest in history.",
+      "tags": [
+        "Binance",
+        "cryptocurrency",
+        "crypto hack",
+        "cybersecurity",
+        "blockchain"
+      ],
+      "source": {
+        "title": "Binance’s recovery from the biggest crypto hack in history | Explained",
+        "url": "https://www.thehindu.com/business/binances-recovery-from-the-biggest-crypto-hack-in-history-explained/article71659637.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q21",
+      "question": "Which U.S. state could potentially become the first to impose a one-time 5% tax on the wealth of its residents whose net worth exceeds $1 billion, under a proposed Proposition 40?",
+      "options": [
+        "California",
+        "Texas",
+        "New York",
+        "Florida"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "California is considering Proposition 40, which would impose a one-time 5% tax on the wealth of Californians with a net worth exceeding $1 billion. Most of the revenue generated from this tax would be dedicated to replacing federal funding cuts to healthcare.",
+      "background": "This proposal represents a significant policy shift aimed at addressing wealth inequality and funding public services. It could set a precedent for other states grappling with similar fiscal challenges.",
+      "examRelevance": "California proposes one-time 5% wealth tax on billionaires.",
+      "tags": [
+        "California",
+        "wealth tax",
+        "billionaires",
+        "Proposition 40",
+        "healthcare funding"
+      ],
+      "source": {
+        "title": "California could become the first State to tax billionaires' wealth",
+        "url": "https://www.thehindu.com/news/international/california-could-become-the-first-state-to-tax-billionaires-wealth/article71659766.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q22",
+      "question": "World One Health Day emphasizes the interconnectedness of which three aspects of health?",
+      "options": [
+        "Physical, Mental, and Social health",
+        "Human, Animal, and Environmental health",
+        "Individual, Community, and Global health",
+        "Clinical, Public, and Preventive health"
+      ],
+      "answerIndex": 1,
+      "category": "Dates & Days",
+      "explanation": "World One Health Day highlights the epidemiological indivisibility of life, emphasizing the interconnectedness of human, animal, and environmental health. This approach advocates for integrated efforts in governing and studying health issues.",
+      "background": "The concept of One Health recognizes that the health of humans is closely connected to the health of animals and our shared environment. This integrated approach is crucial for preventing and responding to complex health challenges like zoonotic diseases and antimicrobial resistance.",
+      "examRelevance": "World One Health Day focuses on human, animal, environmental health.",
+      "tags": [
+        "World One Health Day",
+        "One Health",
+        "human health",
+        "animal health",
+        "environmental health"
+      ],
+      "source": {
+        "title": "The cow, the flea and the genome: One Health and the statecraft of prevention",
+        "url": "https://www.thehindu.com/sci-tech/health/the-cow-the-flea-and-the-genome-one-health-and-the-statecraft-of-prevention/article71630249.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q23",
+      "question": "In response to potential export curbs from China, India is preparing to boost domestic manufacturing of which specialized machinery?",
+      "options": [
+        "High-Speed Rail Components",
+        "Advanced Agricultural Drones",
+        "Semiconductor Fabrication Units",
+        "Tunnel Boring Machines"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "India is preparing to manufacture Tunnel Boring Machines (TBMs) domestically, anticipating potential export curbs from China. This strategic move aims to ensure self-reliance in critical infrastructure projects.",
+      "background": "Union Minister Piyush Goyal indicated this development, underscoring India's \"Make in India\" initiative. TBMs are crucial for constructing tunnels in metro projects, highways, and other large-scale infrastructure developments.",
+      "examRelevance": "India to domestically manufacture Tunnel Boring Machines due to potential China export curbs.",
+      "tags": [
+        "Tunnel Boring Machines",
+        "Make in India",
+        "China",
+        "infrastructure",
+        "domestic manufacturing"
+      ],
+      "source": {
+        "title": "India readies for China curbs on tunnel boring",
+        "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-to-make-tunnel-boring-machines-at-home-if-china-curbs-exports-piyush-goyal/articleshow/135486712.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q24",
+      "question": "After a gap of 22 years, the Reserve Bank of India (RBI) has reopened the licensing for which category of banks, accompanied by new audit rules?",
+      "options": [
+        "Payment Banks (PBs)",
+        "Small Finance Banks (SFBs)",
+        "Regional Rural Banks (RRBs)",
+        "Urban Cooperative Banks (UCBs)"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Reserve Bank of India (RBI) has reopened the licensing process for Urban Cooperative Banks (UCBs) after a hiatus of 22 years. This move comes with new audit rules designed to build guardrails for multi-state cooperatives aspiring to become banks.",
+      "background": "The reopening of UCB licensing aims to strengthen the cooperative banking sector while ensuring financial stability and robust governance. The new audit rules developed by MSCARO and ICAI are intended to create a safer banking environment.",
+      "examRelevance": "RBI reopens Urban Cooperative Bank (UCB) licensing after 22 years.",
+      "tags": [
+        "RBI",
+        "Urban Cooperative Banks",
+        "UCBs",
+        "banking sector",
+        "licensing",
+        "audit rules"
+      ],
+      "source": {
+        "title": "After 22 years, RBI reopens UCB licensing: can new audit rules ensure a safer banking sector? | Explained",
+        "url": "https://www.thehindu.com/business/Economy/after-22-years-rbi-reopens-ucb-licensing-can-new-audit-rules-ensure-a-safer-banking-sector-explained/article71659655.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q25",
+      "question": "Which two countries were the only ones to vote against a United Nations General Assembly (UNGA) draft resolution concerning regional conventional arms control?",
+      "options": [
+        "China and Russia",
+        "India and Israel",
+        "United States and United Kingdom",
+        "France and Germany"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "India and Israel were the only two countries among the 193-member UN body to vote against a United Nations General Assembly (UNGA) draft resolution on regional conventional arms control.",
+      "background": "India's consistent position on such resolutions is often rooted in its stance on universal, non-discriminatory disarmament measures rather than regional ones that may not address global security challenges comprehensively.",
+      "examRelevance": "India and Israel voted against UNGA draft on regional conventional arms control.",
+      "tags": [
+        "India",
+        "Israel",
+        "UNGA",
+        "conventional arms control",
+        "international relations",
+        "voting"
+      ],
+      "source": {
+        "title": "India, Israel vote against UNGA draft on regional conventional arms control",
+        "url": "https://www.thehindu.com/news/national/india-israel-vote-against-unga-draft-on-regional-conventional-arms-control/article71659577.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q26",
+      "question": "How many new import gateways for drugs and medical devices has the Centre proposed by amending Rule 43A of the Drugs Rules, 1945?",
+      "options": [
+        "5",
+        "20",
+        "15",
+        "10"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Centre has proposed to introduce 10 new import gateways specifically for drugs and medical devices. This is part of a proposed amendment to Rule 43A of the Drugs Rules, 1945, aimed at easing import operations and improving the movement of healthcare products.",
+      "background": "The initiative seeks to reduce inland transportation distances and streamline the import process for essential healthcare products across the country, enhancing accessibility and efficiency.",
+      "examRelevance": "Centre proposed 10 new import gateways for drugs and medical devices.",
+      "tags": [
+        "Import gateways",
+        "drugs",
+        "medical devices",
+        "Drugs Rules 1945",
+        "healthcare",
+        "trade"
+      ],
+      "source": {
+        "title": "Centre proposes 10 new import gateways for drugs, medical devices",
+        "url": "https://www.thehindu.com/news/national/centre-proposes-10-new-import-gateways-for-drugs-medical-devices/article71659502.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q27",
+      "question": "The Indian Navy recently rescued a hijacked fishing vessel off the coast of which country, successfully freeing all 20 crew members?",
+      "options": [
+        "Oman",
+        "Djibouti",
+        "Somalia",
+        "Yemen"
+      ],
+      "answerIndex": 2,
+      "category": "Defence",
+      "explanation": "The Indian Navy successfully rescued a hijacked fishing vessel off the coast of Somalia. The operation led to the liberation of all 20 crew members who were onboard the vessel.",
+      "background": "This mission demonstrates the Indian Navy's operational preparedness and its capability to undertake complex maritime security operations, often involving seamless coordination with the Air Force, in international waters.",
+      "examRelevance": "Indian Navy rescued hijacked fishing vessel with 20 crew members off Somalia.",
+      "tags": [
+        "Indian Navy",
+        "Somalia",
+        "hijacked vessel",
+        "maritime security",
+        "anti-piracy operations"
+      ],
+      "source": {
+        "title": "Indian Navy rescues hijacked fishing vessel off Somalia, frees all 20 crew members",
+        "url": "https://www.thehindu.com/news/national/indian-navy-rescues-hijacked-fishing-vessel-off-somalia-frees-all-20-crew-members/article71659504.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q28",
+      "question": "In the Russia-Ukraine war, how many people were reportedly killed in a recent Russian strike on a school in Ukraine's southern Kherson region, following the end of a ceasefire?",
+      "options": [
+        "35",
+        "12",
+        "26",
+        "18"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "According to reports from Kyiv, a recent Russian strike on a school in Ukraine's southern Kherson region killed 26 people. This attack occurred after a rare, but longest, truce in the war between Russia and Ukraine ended on November 1.",
+      "background": "The resumption of strikes, particularly on civilian infrastructure like schools, marks a significant escalation and derails hopes for progress toward peace in the ongoing conflict.",
+      "examRelevance": "Russian strike on Kherson school killed 26 people.",
+      "tags": [
+        "Russia-Ukraine war",
+        "Kherson",
+        "school attack",
+        "casualties",
+        "international conflict"
+      ],
+      "source": {
+        "title": "Russia-Ukraine war: Strikes on a school by Russia kills 26, derailing hopes of progress toward peace",
+        "url": "https://www.thehindu.com/news/international/russia-ukraine-war-strikes-on-a-school-by-russia-kills-26-derailing-hopes-of-progress-toward-peace/article71659505.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q29",
+      "question": "What is the name of the ambitious program under which the Indian Navy is preparing to develop next-generation stealth guided-missile destroyers for its surface combat fleet?",
+      "options": [
+        "Project 75I",
+        "Project P-17A",
+        "Project Varsha",
+        "Project 18A"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "The Indian Navy is embarking on Project 18A, an ambitious program focused on developing next-generation stealth guided-missile destroyers. This project signifies a major transformation for its surface combat fleet.",
+      "background": "The development of these futuristic warships aims to enhance India's naval capabilities, ensuring readiness for modern maritime challenges and strengthening the country's defence posture in the Indian Ocean region.",
+      "examRelevance": "Project 18A is Indian Navy's program for next-gen stealth guided-missile destroyers.",
+      "tags": [
+        "Indian Navy",
+        "Project 18A",
+        "stealth destroyers",
+        "guided-missile",
+        "defence",
+        "warship"
+      ],
+      "source": {
+        "title": "What is Project 18A, and why is the Navy embarking on building futuristic warships? | Explained",
+        "url": "https://www.thehindu.com/news/national/what-is-project-18a-and-why-is-the-navy-embarking-on-building-futuristic-warships-explained/article71659646.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-03-q30",
+      "question": "In which country did two helicopters recently collide in the Solukhumbu region, resulting in the death of an Indian national and injury to another?",
+      "options": [
+        "Sri Lanka",
+        "Bangladesh",
+        "Bhutan",
+        "Nepal"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Two helicopters collided in Nepal's Solukhumbu region, leading to the death of an Indian national and injuries to another. The exact number of passengers aboard the two helicopters at the time of the collision is yet to be confirmed.",
+      "background": "Solukhumbu is a district in Nepal, well-known for its mountainous terrain and as a gateway to the Everest region. Helicopter accidents in such regions can be particularly challenging due to geographical factors.",
+      "examRelevance": "Indian national killed in helicopter collision in Solukhumbu, Nepal.",
+      "tags": [
+        "Nepal",
+        "Solukhumbu",
+        "helicopter collision",
+        "Indian national",
+        "aviation accident"
+      ],
+      "source": {
+        "title": "Indian killed as two helicopters collide in Nepal",
+        "url": "https://www.thehindu.com/news/international/nepal-helicopter-collision-indian-national-killed-updates-november-3-2026/article71659501.ece"
+      }
+    }
+  ]
+}
