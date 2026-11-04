@@ -1,0 +1,746 @@
+{
+  "id": "daily-2026-11-04",
+  "type": "daily",
+  "date": "2026-11-04",
+  "title": "Current Affairs — 04 Nov 2026",
+  "questionCount": 29,
+  "questions": [
+    {
+      "id": "daily-2026-11-04-q1",
+      "question": "Which district in Andhra Pradesh recorded the highest rainfall of 269.45 mm in 24 hours as Cyclone Murasu weakened into a depression?",
+      "options": [
+        "Nellore",
+        "Prakasam",
+        "Palnadu",
+        "Guntur"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Edlapadu in Palnadu district recorded 269.45 mm of rainfall in 24 hours, which was the highest in Andhra Pradesh as Cyclone Murasu weakened into a depression. Heavy rains continued in coastal Andhra Pradesh due to the system.",
+      "background": "Cyclone Murasu brought significant rainfall to several parts of Andhra Pradesh and Telangana, leading to waterlogging and disruption. The high rainfall figures are crucial for assessing the impact of such weather events.",
+      "examRelevance": "Palnadu district recorded 269.45 mm rainfall, highest in AP due to Cyclone Murasu.",
+      "tags": [
+        "Cyclone Murasu",
+        "Andhra Pradesh",
+        "Palnadu",
+        "Rainfall"
+      ],
+      "source": {
+        "title": "Murasu weakens into depression; heavy rain continues in coastal Andhra Pradesh",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/murasu-weakens-into-depression-heavy-rain-continues-in-coastal-andhra-pradesh/article71664398.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q2",
+      "question": "Which Indian state recently hiked bus fares for its public transport corporations including BMTC, KSRTC, NWKRTC, and KKRTC?",
+      "options": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Karnataka recently hiked bus fares for its public transport corporations, namely BMTC, KSRTC, NWKRTC, and KKRTC. The fare revision was implemented, although it was lower than the 45% increase recommended by the Public Transport Fare Regulatory Committee.",
+      "background": "State transport corporations often revise fares to cover operational costs and manage financial sustainability. Such revisions are typically based on recommendations from regulatory bodies and aim to balance public affordability with service viability.",
+      "examRelevance": "Karnataka hiked bus fares for BMTC, KSRTC, NWKRTC, and KKRTC.",
+      "tags": [
+        "Karnataka",
+        "Bus Fares",
+        "BMTC",
+        "KSRTC"
+      ],
+      "source": {
+        "title": "Karnataka hikes bus fares in BMTC, KSRTC, NWKRTC, and KKRTC",
+        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-hikes-bus-fares-in-bmtc-ksrtc-nwkrtc-and-kkrtc/article71664586.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q3",
+      "question": "The Enforcement Directorate (ED) recently conducted raids in which two Indian states in connection with alleged money laundering linked to the BLM cooperative society?",
+      "options": [
+        "Kerala and Tamil Nadu",
+        "Maharashtra and Gujarat",
+        "Karnataka and Andhra Pradesh",
+        "Odisha and West Bengal"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Enforcement Directorate (ED) carried out raids at 11 locations in Kerala and Tamil Nadu. These searches were linked to alleged money laundering activities involving the BLM cooperative society and its founding member, R. Premkumar.",
+      "background": "The ED frequently conducts investigations into financial crimes such as money laundering, often targeting cooperative societies or individuals suspected of illicit financial activities. Such actions are part of broader efforts to curb economic offenses.",
+      "examRelevance": "ED raided Kerala and Tamil Nadu locations linked to BLM cooperative society money laundering.",
+      "tags": [
+        "ED",
+        "Kerala",
+        "Tamil Nadu",
+        "Money Laundering",
+        "BLM Cooperative Society"
+      ],
+      "source": {
+        "title": "ED raids 11 locations in Keralam, Tamil Nadu over alleged money laundering linked to BLM cooperative society",
+        "url": "https://www.thehindu.com/news/national/kerala/ed-raids-11-locations-in-keralam-tamil-nadu-over-alleged-money-laundering-linked-to-blm-cooperative-society/article71664144.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q4",
+      "question": "To avoid an extra liability of ₹2,200 crore, which state government recently opted for a GNA offer over a Himachal Pradesh deal for power purchases?",
+      "options": [
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Kerala",
+        "Karnataka"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The Kerala government opted for a GNA offer for power purchases instead of a deal with Himachal Pradesh. This decision was made to avoid an additional liability of ₹2,200 crore, as stated by the Chief Minister amidst a power purchase row.",
+      "background": "State electricity boards often engage in power purchase agreements to meet the energy demands of their respective states. Decisions on such agreements are crucial for managing state finances and ensuring affordable power supply.",
+      "examRelevance": "Kerala government chose GNA offer to avoid ₹2,200 crore extra liability in power purchase.",
+      "tags": [
+        "Kerala",
+        "Power Purchase",
+        "GNA offer",
+        "Himachal Pradesh"
+      ],
+      "source": {
+        "title": "Power purchase row: Keralam govt opted for GNA offer over Himachal Pradesh deal to avoid ₹2,200 crore extra liability, says CM",
+        "url": "https://www.thehindu.com/news/national/kerala/power-purchase-row-keralam-govt-opted-for-gna-offer-over-himachal-pradesh-deal-to-avoid-2200-crore-extra-liability-says-cm/article71664479.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q5",
+      "question": "Which actor was recently involved in a controversy regarding an appeal for a noise-free Deepavali, leading to a video being pulled down by the BMC?",
+      "options": [
+        "Deepika Padukone",
+        "Dia Mirza",
+        "Anushka Sharma",
+        "Priyanka Chopra"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "Actor Dia Mirza was recently at the centre of a controversy after her appeal for a noise-free Deepavali was part of videos uploaded by the BMC. Following objections from the BJP Mumbai president, her video was reportedly pulled down from the BMC's platforms.",
+      "background": "Celebrities often lend their voices to social causes, including environmental campaigns. However, such initiatives can sometimes become subjects of public debate or political controversy, especially during festive seasons.",
+      "examRelevance": "Dia Mirza was involved in a controversy over a noise-free Deepavali appeal with BMC.",
+      "tags": [
+        "Dia Mirza",
+        "Deepavali",
+        "Noise-free",
+        "BMC",
+        "Controversy"
+      ],
+      "source": {
+        "title": "Row over Dia Mirza’s appeal for a noise-free Deepavali | Explained",
+        "url": "https://www.thehindu.com/news/national/maharashtra/row-over-dia-mirzas-appeal-for-a-noise-free-deepavali-explained/article71664068.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q6",
+      "question": "Which city's police recently issued 60-day prohibitive orders, passed ‘ex-parte’, to prevent unrest in key capital zones, with one order imposing prohibitions from September 26 to November 24?",
+      "options": [
+        "Chennai",
+        "Kolkata",
+        "Delhi",
+        "Mumbai"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Delhi Police recently issued 60-day prohibitive orders, passed 'ex-parte', to prevent unrest in key capital zones. One of these orders imposed prohibitions for the period from September 26 to November 24, following previous instances of violence in the New Delhi district.",
+      "background": "Law enforcement agencies often impose prohibitive orders under Section 144 of the CrPC to maintain public order and prevent potential unrest, especially in sensitive areas or after incidents of violence.",
+      "examRelevance": "Delhi Police issued 60-day prohibitive orders to prevent unrest in key capital zones.",
+      "tags": [
+        "Delhi Police",
+        "Prohibitive Orders",
+        "Law and Order",
+        "New Delhi"
+      ],
+      "source": {
+        "title": "60-day prohibitive orders passed ‘ex-parte’ to prevent unrest in key capital zones: Delhi Police in Supreme Court",
+        "url": "https://www.thehindu.com/news/national/delhi-police-says-prohibitive-orders-60-days-passed-ex-parte-to-prevent-unrest-supreme-court/article71664425.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q7",
+      "question": "Which institution recently constituted a Technical Consultative Committee for Financial Markets to advise on market structure, liquidity, and infrastructure?",
+      "options": [
+        "Securities and Exchange Board of India (SEBI)",
+        "Reserve Bank of India (RBI)",
+        "Ministry of Finance",
+        "National Bank for Agriculture and Rural Development (NABARD)"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Reserve Bank of India (RBI) recently constituted a Technical Consultative Committee for Financial Markets. This expert panel is tasked with advising on market structure, liquidity, and infrastructure amidst evolving financial markets and policy shifts.",
+      "background": "The RBI, as the central bank, plays a crucial role in regulating and developing financial markets in India. Forming expert committees is a common practice to gather diverse perspectives and inform policy decisions in dynamic economic environments.",
+      "examRelevance": "RBI constituted the Technical Consultative Committee for Financial Markets.",
+      "tags": [
+        "RBI",
+        "Financial Markets",
+        "Technical Consultative Committee",
+        "Market Regulation"
+      ],
+      "source": {
+        "title": "RBI constitutes Technical Consultative Committee for Financial Markets",
+        "url": "https://www.thehindu.com/business/markets/rbi-constitutes-technical-consultative-committee-for-financial-markets/article71664423.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q8",
+      "question": "Who was recently elected as the Mayor of Vijayawada by a margin of 1,30,912 votes in the civic polls?",
+      "options": [
+        "Vangaveeti Radhakrishna",
+        "K. L. Narayana",
+        "Pawan Kalyan",
+        "Y. S. Jagan Mohan Reddy"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Vangaveeti Radhakrishna of the Jana Sena party was recently elected as the Mayor of Vijayawada. He secured the position by a significant margin of 1,30,912 votes in the civic poll results.",
+      "background": "Civic polls are crucial for urban local governance, determining the leadership of municipal corporations. The election of a mayor is a significant event that shapes the administrative direction of a city.",
+      "examRelevance": "Vangaveeti Radhakrishna was elected Mayor of Vijayawada.",
+      "tags": [
+        "Vijayawada",
+        "Mayor",
+        "Vangaveeti Radhakrishna",
+        "Jana Sena"
+      ],
+      "source": {
+        "title": "Vijayawada civic poll result: Jana Sena’s Vangaveeti Radhakrishna elected Mayor",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/vijayawada-civic-poll-result-jana-senas-vangaveeti-radhakrishna-elected-mayor/article71664223.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q9",
+      "question": "Which form, as per the Registration of Electors Rules, 1960, is used for new voter registration, and which the Supreme Court recently clarified should not be forced upon pre-existing voters deleted from electoral rolls?",
+      "options": [
+        "Form 6",
+        "Form 5",
+        "Form 7",
+        "Form 4"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Form 6 of the Registration of Electors Rules, 1960, is used for new voter registration. The Supreme Court recently clarified that the Election Commission of India was in error to insist that pre-existing voters, whose names were deleted from electoral rolls, apply as new voters using Form 6.",
+      "background": "Voter registration forms are standard documents used by the Election Commission to manage electoral rolls. The Supreme Court's intervention highlights the importance of correct procedures to ensure voting rights are not unduly hampered.",
+      "examRelevance": "Form 6 is for new voter registration as per Registration of Electors Rules, 1960.",
+      "tags": [
+        "ECI",
+        "Supreme Court",
+        "Voter Registration",
+        "Form 6"
+      ],
+      "source": {
+        "title": "ECI still insisting on Form 6 for excluded voters in Delhi SIR, petitioners make urgent mentioning in Supreme Court",
+        "url": "https://www.thehindu.com/news/national/eci-still-insisting-on-form-6-for-excluded-voters-in-delhi-sir-petitioners-make-urgent-mentioning-in-supreme-court/article71664356.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q10",
+      "question": "The Congress party recently flagged alleged 'fake attendance' cases linked to which government scheme?",
+      "options": [
+        "MGNREGA",
+        "Pradhan Mantri Awas Yojana",
+        "VB-G RAM G",
+        "PM-KISAN"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The Congress party recently criticized the BJP over reported 'fake attendance' cases within the VB-G RAM G scheme. The party alleged that such practices were \"attacking\" the rights of the poor.",
+      "background": "Government schemes aimed at welfare or employment often face scrutiny regarding their implementation and potential for irregularities. Allegations of fake attendance can indicate issues with transparency and accountability in beneficiary management.",
+      "examRelevance": "VB-G RAM G scheme was flagged for 'fake attendance' cases.",
+      "tags": [
+        "VB-G RAM G",
+        "Congress",
+        "Fake Attendance",
+        "Government Scheme"
+      ],
+      "source": {
+        "title": "'How many sins will BJP commit in Ram's name?': Congress flags VB-G RAM G 'fake attendance' cases",
+        "url": "https://www.thehindu.com/news/national/how-many-sins-will-bjp-commit-in-rams-name-congress-flags-vb-g-ram-g-fake-attendance-cases/article71664437.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q11",
+      "question": "Which Democrat recently claimed victory in the Michigan Senate battle during the U.S. midterm elections?",
+      "options": [
+        "Abdul El-Sayed",
+        "Gretchen Whitmer",
+        "Gary Peters",
+        "Debbie Stabenow"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Democrat Abdul El-Sayed claimed victory in the Michigan Senate battle during the recent U.S. midterm elections. He won despite a last-minute hiccup involving support for his opponent from another congresswoman.",
+      "background": "U.S. midterm elections are significant political events that can shift the balance of power in Congress and state governments. Senate races are particularly closely watched as they determine the composition of the upper house of the U.S. legislature.",
+      "examRelevance": "Abdul El-Sayed, a Democrat, won the Michigan Senate battle in the US midterms.",
+      "tags": [
+        "Abdul El-Sayed",
+        "Michigan",
+        "US Midterms",
+        "Senate Election"
+      ],
+      "source": {
+        "title": "Democrat Abdul El-Sayed claims victory in Michigan Senate battle",
+        "url": "https://www.thehindu.com/news/international/democrat-abdul-el-sayed-michigan-us-midterm-elections-senate/article71664484.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q12",
+      "question": "In the recent U.S. midterm elections, how many of the 100 Senate seats were up for election?",
+      "options": [
+        "25",
+        "50",
+        "35",
+        "65"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "In the recent U.S. midterm elections, 35 of the 100 Senate seats were up for election. Additionally, all 435 seats in the House of Representatives and governorships in 36 States were also contested.",
+      "background": "U.S. midterm elections occur two years into a President's four-year term. They are crucial as they can significantly alter the political landscape of the country, impacting the President's legislative agenda.",
+      "examRelevance": "35 of the 100 Senate seats were up for election in the US midterms.",
+      "tags": [
+        "US Midterms",
+        "Senate Seats",
+        "Elections",
+        "U.S. Politics"
+      ],
+      "source": {
+        "title": "U.S. midterm election results 2026: Full list of winners",
+        "url": "https://www.thehindu.com/news/international/us-mid-term-election-poll-results-2026-full-list-of-winners/article71663723.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q13",
+      "question": "Who is poised to become the first Black Speaker of the U.S. House of Representatives following the Democrats' victory in the recent midterm elections?",
+      "options": [
+        "Kamala Harris",
+        "Hakeem Jeffries",
+        "Raphael Warnock",
+        "Cory Booker"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Hakeem Jeffries, representing a New York City congressional district, is poised to become the first Black Speaker of the U.S. House of Representatives. This follows the Democrats' victory in the recent midterm elections, where they reclaimed control of the House.",
+      "background": "The Speaker of the House is a powerful figure in U.S. politics, presiding over the House of Representatives and being second in the line of succession to the Presidency. The election of the first Black Speaker marks a historic moment in American political representation.",
+      "examRelevance": "Hakeem Jeffries is poised to become the first Black Speaker of the U.S. House of Representatives.",
+      "tags": [
+        "Hakeem Jeffries",
+        "US House of Representatives",
+        "Speaker",
+        "US Midterms",
+        "Black Speaker"
+      ],
+      "source": {
+        "title": "Hakeem Jeffries poised to become first Black Speaker of U.S. House of Representatives",
+        "url": "https://www.thehindu.com/news/international/hakeem-jeffries-poised-to-become-first-black-speaker-of-us-house-of-representatives/article71664413.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q14",
+      "question": "In which district of Karnataka were ₹3,143.26 crore spent on implementing guarantee schemes, as highlighted by Chief Minister D.K. Shivakumar?",
+      "options": [
+        "Bengaluru",
+        "Mysuru",
+        "Belagavi",
+        "Yadgir"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "A total of ₹3,143.26 crore was spent on implementing guarantee schemes in Yadgir district of Karnataka. These schemes were initially introduced by former Chief Minister Siddaramaiah and continued by the current Chief Minister D.K. Shivakumar.",
+      "background": "Guarantee schemes are welfare initiatives often launched by state governments to provide direct benefits to citizens. These schemes typically involve significant financial outlays and are a key part of a government's social welfare agenda.",
+      "examRelevance": "₹3,143.26 crore was spent on guarantee schemes in Yadgir district, Karnataka.",
+      "tags": [
+        "Karnataka",
+        "Guarantee Schemes",
+        "Yadgir",
+        "D.K. Shivakumar"
+      ],
+      "source": {
+        "title": "₹3,143.26 crore spent on implementing guarantee schemes in Yadgir",
+        "url": "https://www.thehindu.com/news/national/karnataka/314326-crore-spent-on-implementing-guarantee-schemes-in-yadgir/article71661633.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q15",
+      "question": "Which bank recently received approval from the Competition Commission of India (CCI) to acquire Deutsche Bank India's retail and private banking businesses?",
+      "options": [
+        "HDFC Bank",
+        "ICICI Bank",
+        "Kotak Mahindra Bank",
+        "Axis Bank"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Kotak Mahindra Bank recently received the Competition Commission of India (CCI) nod to acquire Deutsche Bank India's retail and private banking businesses. The transaction will be undertaken as a going concern on a slump sale basis.",
+      "background": "Acquisitions in the banking sector are common strategies for growth and market expansion. The CCI's approval is essential to ensure that such mergers and acquisitions do not lead to anti-competitive practices or undue market concentration.",
+      "examRelevance": "Kotak Mahindra Bank received CCI nod to acquire Deutsche Bank India's retail and private banking businesses.",
+      "tags": [
+        "Kotak Mahindra Bank",
+        "Deutsche Bank",
+        "CCI",
+        "Acquisition",
+        "Banking"
+      ],
+      "source": {
+        "title": "Kotak Mahindra Bank gets CCI nod to acquire Deutsche Bank India's retail, private banking businesses",
+        "url": "https://www.thehindu.com/business/Industry/kotak-mahindra-bank-gets-cci-nod-to-acquire-deutsche-bank-indias-retail-private-banking-businesses/article71664408.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q16",
+      "question": "The Reserve Bank of India's newly constituted Technical Consultative Committee for Financial Markets is chaired by whom?",
+      "options": [
+        "An external expert appointed by the government",
+        "A Deputy Governor in charge of financial markets regulation",
+        "The Finance Secretary",
+        "The Governor of RBI"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Reserve Bank of India's Technical Consultative Committee for Financial Markets is chaired by the Deputy Governor in charge of financial markets regulation. This committee includes seven external members and serves as a forum for discussions on various financial market issues.",
+      "background": "The RBI regularly establishes committees to gather expert advice on specific areas of financial policy and operations. The committee's focus on money markets, government securities, foreign exchange, and derivatives reflects the complex and evolving nature of India's financial landscape.",
+      "examRelevance": "RBI's Technical Consultative Committee for Financial Markets is chaired by a Deputy Governor in charge of financial markets regulation.",
+      "tags": [
+        "RBI",
+        "Technical Consultative Committee",
+        "Financial Markets",
+        "Deputy Governor"
+      ],
+      "source": {
+        "title": "RBI gets market players to the table",
+        "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-sets-up-panel-with-banks-market-players-to-review-financial-market-issues/articleshow/135528321.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q17",
+      "question": "What percentage of capital expenditure support is being discussed by the Union Cabinet for setting up critical mineral processing plants, under a potential new scheme?",
+      "options": [
+        "30%",
+        "10%",
+        "20%",
+        "40%"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Union Cabinet is discussing a potential scheme to provide approximately 30% capital expenditure support for setting up critical mineral processing plants. This initiative also includes discussions on viability gap funding (VGF) for renewable energy grid-scale storage systems.",
+      "background": "Critical minerals are vital for advanced technologies and energy transition. Government support for processing plants aims to enhance domestic capabilities, reduce import dependence, and secure supply chains for these strategic resources.",
+      "examRelevance": "Union Cabinet is discussing 30% capex support for critical mineral processing plants.",
+      "tags": [
+        "Critical Minerals",
+        "Capex Support",
+        "Union Cabinet",
+        "Schemes & Projects"
+      ],
+      "source": {
+        "title": "Union Cabinet to discuss capex support for critical mineral processing, VGF for RE grid-scale storage system",
+        "url": "https://www.thehindu.com/business/union-cabinet-discussion-capex-support-for-critical-mineral-processing-vgf-re-grid-scale-storage-system/article71664202.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q18",
+      "question": "Which barrage had all 70 of its gates opened, releasing 71,000 cusecs into the Krishna River, due to heavy inflows largely from streams like Keesara, Munneru and Budameru following Cyclone Murasu?",
+      "options": [
+        "Srisailam Dam",
+        "Almatti Dam",
+        "Prakasam Barrage",
+        "Nagarjuna Sagar Dam"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "All 70 gates of the Prakasam Barrage were opened, releasing 71,000 cusecs of water into the Krishna River. This action was taken due to heavy inflows primarily from the Keesara, Munneru, and Budameru streams, following the impact of Cyclone Murasu.",
+      "background": "Barrages and dams play a critical role in flood management and water regulation, especially during heavy rainfall events like cyclones. Releasing water in a controlled manner is essential to prevent upstream flooding and manage downstream flow.",
+      "examRelevance": "Prakasam Barrage gates were opened, releasing water into Krishna River due to Cyclone Murasu.",
+      "tags": [
+        "Prakasam Barrage",
+        "Krishna River",
+        "Cyclone Murasu",
+        "Flood Management"
+      ],
+      "source": {
+        "title": "Cyclone Murasu: All 70 gates of Prakasam Barrage opened; 71,000 cusecs released into Krishna",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-all-70-gates-of-prakasam-barrage-opened-71000-cusecs-released-into-krishna/article71663867.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q19",
+      "question": "Which state's Public Service Commission (PSC) is currently under the scanner, with multiple Crime Branch probes triggered by allegations of examination irregularities?",
+      "options": [
+        "Tamil Nadu",
+        "Kerala",
+        "Maharashtra",
+        "Karnataka"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Kerala Public Service Commission (PSC) is currently under scanner, facing multiple Crime Branch probes. These investigations were triggered by allegations of examination irregularities, starting with the discovery of unevaluated answers in a 2023 examination for senior posts.",
+      "background": "Public Service Commissions are constitutional bodies responsible for recruiting candidates for various government posts. Allegations of irregularities can severely undermine public trust in the integrity of the selection process and lead to extensive investigations.",
+      "examRelevance": "Kerala PSC is under scanner for examination irregularities, leading to Crime Branch probes.",
+      "tags": [
+        "Kerala PSC",
+        "Crime Branch",
+        "Examination Irregularities",
+        "Public Service Commission"
+      ],
+      "source": {
+        "title": "Kerala PSC under the scanner: How allegations of examination irregularities have triggered multiple Crime Branch probes",
+        "url": "https://www.thehindu.com/news/national/kerala/kerala-psc-under-the-scanner-how-allegations-of-examination-irregularities-have-triggered-multiple-crime-branch-probes/article71659660.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q20",
+      "question": "Which two Indian-Americans recently won their seats in the U.S. House of Representatives during the midterm elections?",
+      "options": [
+        "Vivek Ramaswamy and Nikki Haley",
+        "Ro Khanna and Pramila Jayapal",
+        "Suhas Subramanyam and Pia Dandiya",
+        "Bobby Jindal and Ami Bera"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Indian-Americans Suhas Subramanyam and Pia Dandiya both won their respective seats in the U.S. House of Representatives during the recent midterm elections. Notably, another Indian-American, Vivek Ramaswamy, was defeated in the Ohio Governor's race.",
+      "background": "The increasing representation of Indian-Americans in U.S. politics reflects the growing influence and political engagement of the diaspora. Their victories are significant milestones in the diverse political landscape of the United States.",
+      "examRelevance": "Suhas Subramanyam and Pia Dandiya won seats in the US House of Representatives in the midterms.",
+      "tags": [
+        "Suhas Subramanyam",
+        "Pia Dandiya",
+        "US House of Representatives",
+        "Indian-Americans",
+        "US Midterms"
+      ],
+      "source": {
+        "title": "US midterm election results 2026: List of Indian-origin winners",
+        "url": "https://www.thehindu.com/news/international/us-midterm-election-results-2026-list-of-indian-origin-winners-american/article71664310.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q21",
+      "question": "Among Karnataka's five guarantee schemes implemented in Raichur district, which scheme accounted for the largest disbursement of ₹2,744.81 crore?",
+      "options": [
+        "Shakti Scheme",
+        "Gruha Lakshmi Scheme",
+        "Yuva Nidhi Scheme",
+        "Anna Bhagya Scheme"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "In Raichur district of Karnataka, the Gruha Lakshmi scheme accounted for the largest share of funds disbursed under the five guarantee schemes, with ₹2,744.81 crore. The total expenditure under these schemes in Raichur was ₹4,805.24 crore.",
+      "background": "The Gruha Lakshmi scheme in Karnataka provides financial assistance to women heads of households, a key welfare initiative. Such schemes aim to empower women and alleviate financial burdens on families.",
+      "examRelevance": "Gruha Lakshmi scheme had the largest disbursement of ₹2,744.81 crore in Raichur under Karnataka's guarantee schemes.",
+      "tags": [
+        "Karnataka",
+        "Raichur",
+        "Gruha Lakshmi Scheme",
+        "Guarantee Schemes",
+        "Financial Aid"
+      ],
+      "source": {
+        "title": "₹4,805.24 crore spent under five guarantee schemes in Raichur",
+        "url": "https://www.thehindu.com/news/national/karnataka/480524-crore-spent-under-five-guarantee-schemes-in-raichur/article71661424.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q22",
+      "question": "A recent study indicated that green hydrogen exports from which region to Europe could potentially harm local water supply and marine life?",
+      "options": [
+        "North Africa",
+        "Oceania",
+        "South America",
+        "East Asia"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "A recent study has raised concerns that green hydrogen exports from North Africa to Europe could potentially harm local water supply and marine life. The research found that producing green hydrogen in desert areas requires more water than claimed and poses overlooked environmental risks.",
+      "background": "Green hydrogen is considered a key component of future clean energy systems. However, its production methods, especially in water-scarce regions, can have significant environmental footprints, including impacts on freshwater resources and ecosystems.",
+      "examRelevance": "Green hydrogen exports from North Africa to Europe could harm water supply and marine life.",
+      "tags": [
+        "Green Hydrogen",
+        "North Africa",
+        "Europe",
+        "Water Scarcity",
+        "Marine Life"
+      ],
+      "source": {
+        "title": "North Africa’s green hydrogen exports to Europe could harm water supply and marine life: study",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/north-africas-green-hydrogen-exports-to-europe-could-harm-water-supply-and-marine-life-study/article71664297.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q23",
+      "question": "Who is the current President of Israel, who recently stated he would do everything possible to avoid a fresh election, including backing a unity government?",
+      "options": [
+        "Naftali Bennett",
+        "Yair Lapid",
+        "Benjamin Netanyahu",
+        "Isaac Herzog"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Isaac Herzog is the current President of Israel. He recently stated his commitment to doing everything possible to avoid a fresh election, which included the option of backing a unity government between opposing political factions.",
+      "background": "The President of Israel holds a largely ceremonial role but can play a crucial part in forming coalition governments after elections, especially in fractured political landscapes. His efforts aim to ensure political stability.",
+      "examRelevance": "Isaac Herzog is the current President of Israel.",
+      "tags": [
+        "Israel",
+        "Isaac Herzog",
+        "President",
+        "Unity Government"
+      ],
+      "source": {
+        "title": "Israel's unassuming President Herzog holds keys to next government",
+        "url": "https://www.thehindu.com/news/international/israels-unassuming-president-herzog-holds-keys-to-next-government/article71664315.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q24",
+      "question": "According to a recent Supreme Court judgment, what is India's current Total Fertility Rate (TFR), which has fallen from 3 to this figure?",
+      "options": [
+        "2.1",
+        "1.7",
+        "1.9",
+        "1.5"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "A recent Supreme Court judgment noted that India's Total Fertility Rate (TFR) has fallen from 3 to 1.9. The Court also highlighted that a TFR of 2.1 is considered the replacement rate, allowing one generation to completely replace itself.",
+      "background": "The Total Fertility Rate is a key demographic indicator reflecting the average number of children born to a woman over her lifetime. A declining TFR has significant implications for population growth, age structure, and social policies.",
+      "examRelevance": "India's current Total Fertility Rate (TFR) is 1.9.",
+      "tags": [
+        "India",
+        "Total Fertility Rate",
+        "TFR",
+        "Supreme Court",
+        "Demographics"
+      ],
+      "source": {
+        "title": "Supreme Court judgment questions two-child norm with falling fertility rate",
+        "url": "https://www.thehindu.com/news/national/supreme-court-judgment-questions-two-child-norm-with-falling-fertility-rate/article71664320.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q25",
+      "question": "According to the Panchayati Raj Minister, welfare payments will now be based on which document, replacing Aadhaar, with people expected to provide their EPIC number with biometrics?",
+      "options": [
+        "Passport",
+        "PAN Card",
+        "Voter ID",
+        "Driving License"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Panchayati Raj Minister recently announced that future welfare payments will be based on Voter IDs, replacing Aadhaar. Citizens will now be required to provide their EPIC (Electoral Photo Identity Card) number along with biometrics for these payments.",
+      "background": "Linking welfare payments to identity documents aims to ensure transparency and prevent fraud. The shift from Aadhaar to Voter ID with biometrics represents a policy change in how beneficiary identification is managed for government schemes.",
+      "examRelevance": "Welfare payments will now be based on Voter IDs (EPIC number with biometrics), replacing Aadhaar.",
+      "tags": [
+        "Welfare Payments",
+        "Voter ID",
+        "Aadhaar",
+        "EPIC",
+        "Panchayati Raj Minister"
+      ],
+      "source": {
+        "title": "Welfare payments will be based on voter IDs, not Aadhaar, says Panchayati Raj Minister",
+        "url": "https://www.thehindu.com/news/national/welfare-payments-will-be-based-on-voter-ids-not-aadhaar-says-panchayati-raj-minister/article71662258.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q26",
+      "question": "Which country recently arrested its ex-police chief over alleged illegal wiretapping of the President and other officials, an act a presidential spokesperson suggested could be considered treason?",
+      "options": [
+        "Malaysia",
+        "Thailand",
+        "Philippines",
+        "Indonesia"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Indonesia recently arrested its ex-police chief on allegations of illegal wiretapping targeting the President and other officials. A presidential spokesperson indicated that such actions could potentially be considered as leading to treason.",
+      "background": "Wiretapping of high-ranking officials is a serious breach of national security and privacy. The arrest of a former police chief on such charges highlights concerns about accountability and the rule of law within state institutions.",
+      "examRelevance": "Indonesia arrested its ex-police chief over alleged illegal wiretapping of the President.",
+      "tags": [
+        "Indonesia",
+        "Wiretapping",
+        "Ex-Police Chief",
+        "President",
+        "Treason"
+      ],
+      "source": {
+        "title": "Indonesia arrests ex-police chief over alleged illegal wiretapping of President, officials",
+        "url": "https://www.thehindu.com/news/international/indonesia-arrests-ex-police-chief-over-alleged-illegal-wiretapping-of-president-officials/article71664234.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q27",
+      "question": "Which treaty, involving India and Bangladesh, is weeks away from its expiry, though the MEA has stated a 'structured mechanism' remains in place for the pact?",
+      "options": [
+        "Indus Water Treaty",
+        "Ganga Water Treaty",
+        "Teesta Water Sharing Treaty",
+        "Mahakali Treaty"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The Ganga Water Treaty, an agreement between India and Bangladesh, is weeks away from its expiry. Despite this, an MEA official spokesperson reiterated that a 'structured mechanism' remains in place for the pact, and India has invited the Bangladesh Prime Minister to visit New Delhi.",
+      "background": "Water-sharing treaties are critical for managing transboundary river resources and maintaining diplomatic relations between riparian countries. The Ganga Water Treaty governs the sharing of the Ganges River waters at Farakka.",
+      "examRelevance": "Ganga Water Treaty between India and Bangladesh is weeks away from expiry.",
+      "tags": [
+        "Ganga Water Treaty",
+        "India",
+        "Bangladesh",
+        "MEA",
+        "Water Sharing"
+      ],
+      "source": {
+        "title": "Weeks before expiry of Ganga Water Treaty, MEA says ‘structured mechanism’ remains in place for pact",
+        "url": "https://www.thehindu.com/news/national/weeks-before-expiry-of-ganga-water-treaty-mea-says-structured-mechanism-remains-in-place-for-pact/article71661782.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q28",
+      "question": "Who is the former military leader and Defence Minister who is likely to become Indonesia’s new President, having run a campaign with a softer image using social media?",
+      "options": [
+        "Joko Widodo",
+        "Megawati Sukarnoputri",
+        "Susilo Bambang Yudhoyono",
+        "Prabowo Subianto"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Prabowo Subianto, a former military leader and Defence Minister, is likely to become Indonesia’s new President. He ran a campaign that projected a softer image of himself, effectively utilizing social media platforms like Instagram and TikTok.",
+      "background": "Presidential elections in Indonesia are significant for Southeast Asian geopolitics. Prabowo's shift in public image, from a strongman general previously accused of human rights abuses to a more approachable candidate, reflects evolving political campaign strategies.",
+      "examRelevance": "Prabowo Subianto is likely to become Indonesia’s new President.",
+      "tags": [
+        "Prabowo Subianto",
+        "Indonesia",
+        "President",
+        "Elections",
+        "Military Leader"
+      ],
+      "source": {
+        "title": "Prabowo Subianto | The ‘reformed’ General",
+        "url": "https://www.thehindu.com/news/international/prabowo-subianto-from-indonesias-strongman-general-to-cute-and-cuddly-presidential-candidate/article67844801.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-04-q29",
+      "question": "Jawaharlal Nehru University (JNU) is set to confer the 'Professor Emeritus' title upon which individual, effective after his voluntary retirement on February 28, 2027?",
+      "options": [
+        "Romila Thapar",
+        "Amitabh Mattoo",
+        "Jagdish Bhagwati",
+        "Amartya Sen"
+      ],
+      "answerIndex": 1,
+      "category": "Awards & Honours",
+      "explanation": "Jawaharlal Nehru University (JNU) has decided to confer the title of 'Professor Emeritus' upon Amitabh Mattoo. This honour will be effective after his voluntary retirement from the university on February 28, 2027.",
+      "background": "The title of Professor Emeritus is a distinguished academic honour bestowed upon retired professors who have made exceptional contributions to their field and to the university. It recognizes their long-standing scholarship and service.",
+      "examRelevance": "JNU will confer the 'Professor Emeritus' title upon Amitabh Mattoo.",
+      "tags": [
+        "JNU",
+        "Amitabh Mattoo",
+        "Professor Emeritus",
+        "Academic Honour"
+      ],
+      "source": {
+        "title": "JNU to confer ‘Professor Emeritus’ title on Amitabh Mattoo",
+        "url": "https://www.thehindu.com/news/cities/Delhi/jnu-to-confer-title-professor-emeritus-to-amitabh-mattoo/article71661358.ece"
+      }
+    }
+  ]
+}
