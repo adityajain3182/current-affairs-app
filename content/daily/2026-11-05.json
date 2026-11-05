@@ -1,0 +1,759 @@
+{
+  "id": "daily-2026-11-05",
+  "type": "daily",
+  "date": "2026-11-05",
+  "title": "Current Affairs — 05 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-05-q1",
+      "question": "According to a recent Supreme Court ruling, the 24-hour period for producing a detained person before a Magistrate begins from which point?",
+      "options": [
+        "The filing of the FIR against the individual",
+        "The actual detention of the individual",
+        "The moment the individual is charged",
+        "The formal arrest of the individual"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently ruled that the 24-hour period for producing a detained person before a Magistrate, as stipulated by fundamental rights, begins from the actual detention of the individual, not from the point of formal arrest. The Court emphasized that fundamental rights supersede even special laws like UAPA and PMLA.",
+      "background": "Article 22(2) of the Indian Constitution mandates that every person arrested and detained in custody shall be produced before the nearest Magistrate within a period of 24 hours of such arrest, excluding the time necessary for the journey from the place of arrest to the Magistrate's court. This ruling clarifies the commencement of this crucial period.",
+      "examRelevance": "SC clarified that the 24-hour period for production before a Magistrate starts from detention, not formal arrest.",
+      "tags": [
+        "Supreme Court",
+        "Fundamental Rights",
+        "Detention",
+        "Magistrate"
+      ],
+      "source": {
+        "title": "24-hour to produce before Magistrate starts from detention, not ‘formal arrest’: Supreme Court",
+        "url": "https://www.thehindu.com/news/national/24-hour-to-produce-before-magistrate-starts-from-detention-not-formal-arrest-supreme-court/article71668833.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q2",
+      "question": "The 'Vetri Special Vegetables Kit', recently launched in Tamil Nadu, offers how many varieties of vegetables?",
+      "options": [
+        "12 varieties",
+        "10 varieties",
+        "8 varieties",
+        "6 varieties"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The 'Vetri Special Vegetables Kit', launched in Tamil Nadu, offers 10 varieties of vegetables and is priced at ₹100. The sale of this special kit was announced to continue for three days, until November 7.",
+      "background": "This initiative by the Tamil Nadu government aims to provide fresh vegetables to citizens at an affordable price, especially during a specific period. Such kits are often launched to support local farmers and ensure food security for consumers.",
+      "examRelevance": "Tamil Nadu launched 'Vetri Special Vegetables Kit' with 10 varieties for ₹100.",
+      "tags": [
+        "Tamil Nadu",
+        "Vetri Kit",
+        "Vegetables",
+        "State Scheme"
+      ],
+      "source": {
+        "title": "‘Vetri Special Vegetables Kit’ with 10 varieties launched in Tamil Nadu at ₹100",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/vettri-special-vegetables-kit-with-10-varieties-launched-in-tn-at-100/article71668616.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q3",
+      "question": "The world's highest railway station is planned to be constructed in which Indian region?",
+      "options": [
+        "Ladakh",
+        "Sikkim",
+        "Himachal Pradesh",
+        "Uttarakhand"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The world's highest railway station is planned to be constructed in Ladakh, as part of a proposed ₹1.3 lakh crore railway line project. This station will be located at an altitude of 17,244 feet, surpassing existing records.",
+      "background": "India is undertaking ambitious infrastructure projects in its high-altitude regions to improve connectivity and facilitate development. This railway line aims to provide strategic access and boost tourism and economic activities in Ladakh.",
+      "examRelevance": "World's highest railway station is planned for Ladakh at 17,244 feet.",
+      "tags": [
+        "Ladakh",
+        "Railway Station",
+        "Infrastructure",
+        "Indian Railways"
+      ],
+      "source": {
+        "title": "World's highest railway station planned in Ladakh",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/railways/worlds-highest-railway-station-at-17244-feet-in-ladakh-india-planning-a-rs-1-3-lakh-crore-railway-line-that-will-break-chinas-record/articleshow/135562098.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q4",
+      "question": "Who recently made history by becoming the first Indian-American to represent Arizona in the U.S. Congress?",
+      "options": [
+        "Suhas Subramanyam",
+        "Amish Shah",
+        "Pia Dandiya",
+        "Vivek Ramaswamy"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Indian-American physician Amish Shah recently made history by becoming the first from the community to represent Arizona in the U.S. Congress. He achieved this by defeating his opponent Feely and flipping a Republican-held seat.",
+      "background": "The U.S. midterm elections often see several Indian-Americans contesting and winning seats in various legislative bodies. Amish Shah's victory adds to the growing representation of the Indian diaspora in American politics, joining the 'samosa caucus' in the U.S. House.",
+      "examRelevance": "Amish Shah became the first Indian-American to represent Arizona in the U.S. Congress.",
+      "tags": [
+        "Amish Shah",
+        "US Midterm Elections",
+        "Arizona",
+        "Indian-American"
+      ],
+      "source": {
+        "title": "Amish Shah claims victory in Arizona, sixth Indian-American in U.S. House",
+        "url": "https://www.thehindu.com/news/international/amish-shah-claims-victory-in-arizona-sixth-indian-american-in-us-house/article71668702.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q5",
+      "question": "Which Indian athlete recently became the first to reach the Youth Olympic badminton final?",
+      "options": [
+        "Tasnim Mir",
+        "Anupama Upadhyaya",
+        "Tanvi Patri",
+        "Malvika Bansod"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "15-year-old Tanvi Patri from Odisha became the first Indian badminton player to reach the Youth Olympic badminton final. She achieved this milestone by defeating Japan’s second seed, Yuzuno Watanabe, in a hard-fought semifinal match with a score of 21-14, 11-21, 21-19.",
+      "background": "Youth Olympic Games provide a platform for young athletes to showcase their talent on an international stage. This achievement marks a significant milestone for Indian badminton, highlighting the potential of its rising stars.",
+      "examRelevance": "Tanvi Patri became the first Indian badminton player to reach the Youth Olympic badminton final.",
+      "tags": [
+        "Tanvi Patri",
+        "Badminton",
+        "Youth Olympics",
+        "Indian Sports"
+      ],
+      "source": {
+        "title": "Tanvi Patri becomes first Indian badminton player to reach Youth Olympic badminton final",
+        "url": "https://www.thehindu.com/sport/tanvi-patri-becomes-first-indian-badminton-player-to-reach-youth-olympic-badminton-final/article71668839.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q6",
+      "question": "Who has been appointed as the brand ambassador for Kerala's newly formed road safety mission?",
+      "options": [
+        "Jayaram",
+        "Mohanlal",
+        "Dileep",
+        "Mammootty"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "The state of Kerala has formed a road safety mission aimed at checking road fatalities, and veteran actor Mammootty has been appointed as its brand ambassador. The project includes initiatives such as modernizing roads, addressing 'black spots', and maintaining signboards.",
+      "background": "Road safety is a critical public health issue in India, with a high number of road accidents and fatalities. State governments often launch missions and appoint public figures as ambassadors to raise awareness and promote safer driving practices.",
+      "examRelevance": "Mammootty appointed brand ambassador for Kerala's road safety mission.",
+      "tags": [
+        "Mammootty",
+        "Kerala",
+        "Road Safety",
+        "Brand Ambassador"
+      ],
+      "source": {
+        "title": "Keralam forms road safety mission to check road fatalities; Mammootty to be brand ambassador",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-forms-road-safety-mission-to-check-road-fatalities-mammootty-to-be-brand-ambassador/article71666427.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q7",
+      "question": "Which university is facing an inquiry from the Kerala Higher Education Department regarding the appointment of its Pro-Vice-Chancellor without prior government sanction?",
+      "options": [
+        "University of Calicut",
+        "Mahatma Gandhi University",
+        "Kerala University",
+        "Cochin University of Science and Technology"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "The Kerala Higher Education Department has sought an explanation from Calicut University regarding the appointment of P. Rasheed Ahammed as its Pro-Vice-Chancellor. The department questioned how he was relieved from his parent institution and permitted to assume charge on deputation without obtaining prior sanction from the government.",
+      "background": "Appointments to key academic positions, especially Pro-Vice-Chancellors, often require adherence to specific governmental and university regulations, including obtaining necessary sanctions. Discrepancies in such procedures can lead to inquiries from oversight bodies.",
+      "examRelevance": "Calicut University faces inquiry over Pro-V-C P. Rasheed Ahammed's appointment.",
+      "tags": [
+        "Calicut University",
+        "Pro-Vice-Chancellor",
+        "Kerala Education Department",
+        "Appointment Controversy"
+      ],
+      "source": {
+        "title": "Keralam Higher Education dept seeks explanation from Calicut University over pro-V-C’s appointment",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-higher-education-dept-seeks-explanation-from-calicut-university-over-pro-v-cs-appointment/article71668767.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q8",
+      "question": "Which popular graphic design platform is reportedly laying off almost a quarter of its company due to AI challenges and customer concerns?",
+      "options": [
+        "Adobe Photoshop",
+        "CorelDRAW",
+        "Figma",
+        "Canva"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Canva, the popular graphic design platform, is reportedly preparing to lay off almost a quarter of its company's workforce. This decision comes amidst challenges related to Artificial Intelligence and concerns previously shared by dedicated Canva users and customers.",
+      "background": "The integration of AI in various tech products is leading to significant shifts in the industry, including job restructuring. While AI offers new capabilities, it also presents challenges for existing business models and workforce requirements, leading some companies to re-evaluate their operations.",
+      "examRelevance": "Canva is laying off a quarter of its workforce due to AI challenges.",
+      "tags": [
+        "Canva",
+        "Layoffs",
+        "AI Challenges",
+        "Tech Industry"
+      ],
+      "source": {
+        "title": "What Canva’s layoffs reveal about its AI challenges | Explained",
+        "url": "https://www.thehindu.com/sci-tech/technology/what-canvas-layoffs-reveal-about-its-ai-challenges-explained/article71668805.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q9",
+      "question": "Which technology company is set to launch its first AI-native product next month, according to Carl Pei?",
+      "options": [
+        "Nothing",
+        "Samsung",
+        "Google",
+        "Apple"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Carl Pei, co-founder of Nothing, announced that the company is set to launch its first AI-native product next month. He highlighted AI's primary value in professional productivity and solving the technology’s critical 'context gap'.",
+      "background": "'Nothing' is a consumer electronics company known for its unique design philosophy and focus on user experience. The venture into AI-native products signifies a strategic move to integrate advanced artificial intelligence capabilities into their offerings, aiming to address current technological limitations.",
+      "examRelevance": "Nothing to launch its first AI-native product next month.",
+      "tags": [
+        "Nothing",
+        "AI-native product",
+        "Carl Pei",
+        "Artificial Intelligence"
+      ],
+      "source": {
+        "title": "Nothing to launch its first AI-native product next month",
+        "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-to-launch-its-first-ai-native-product-next-month/article71668844.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q10",
+      "question": "Nirmala Lakshman's book 'The Tamils: A Portrait of a Community' recently won an award at which international event?",
+      "options": [
+        "New York Book Expo",
+        "Sharjah International Book Fair",
+        "Frankfurt Book Fair",
+        "London Book Fair"
+      ],
+      "answerIndex": 1,
+      "category": "Awards & Honours",
+      "explanation": "Nirmala Lakshman’s book 'The Tamils: A Portrait of a Community' recently won an award at the Sharjah International Book Fair. David Davidar, publisher of Aleph Book Company, praised the book for its erudition, insight, and deep personal engagement.",
+      "background": "The Sharjah International Book Fair is one of the largest and most prestigious literary events in the Middle East, attracting authors, publishers, and readers from around the world. Awards at such events recognize significant literary contributions and promote cultural understanding.",
+      "examRelevance": "Nirmala Lakshman's book 'The Tamils: A Portrait of a Community' won the Sharjah award.",
+      "tags": [
+        "Nirmala Lakshman",
+        "The Tamils",
+        "Sharjah Award",
+        "Books & Authors"
+      ],
+      "source": {
+        "title": "Nirmala Lakshman’s book ‘The Tamils : A Portrait of a Community’ wins Sharjah award",
+        "url": "https://www.thehindu.com/news/cities/chennai/nirmala-lakshmans-book-the-tamils-a-portrait-of-a-community-wins-sharjah-award/article71667155.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q11",
+      "question": "What significant change has the Union Cabinet recently approved for the Agniveer scheme?",
+      "options": [
+        "Limiting Agniveer recruitment to specific regions",
+        "Reducing the training period for Agniveers",
+        "Creating a pathway for eventual absorption of all willing Agniveers",
+        "Increasing the minimum age for recruitment"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The Union Cabinet has approved significant changes to the Agniveer scheme, creating a pathway for the eventual absorption of all willing Agniveers into the armed forces. This absorption will be subject to merit and prescribed selection criteria, addressing a key concern regarding the future of Agniveers.",
+      "background": "The Agniveer scheme, introduced for recruitment into the armed forces, initially had provisions for retaining only a quarter of the recruits. This recent amendment signifies a policy shift aimed at providing better career prospects and long-term stability for Agniveers, potentially increasing the scheme's attractiveness.",
+      "examRelevance": "Cabinet approved absorption pathway for all willing Agniveers based on merit.",
+      "tags": [
+        "Agniveer Scheme",
+        "Defence",
+        "Government Policy",
+        "Absorption"
+      ],
+      "source": {
+        "title": "What are the changes in Agniveer scheme, and what prompted government to implement them? | Explained",
+        "url": "https://www.thehindu.com/news/national/what-are-the-changes-in-agniveer-scheme-and-what-prompted-government-to-implement-them-explained/article71668573.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q12",
+      "question": "Which organization recently issued guidelines calling for testing AI agents for unauthorized tool use and privilege abuse?",
+      "options": [
+        "CERT-In",
+        "Ministry of Electronics and Information Technology",
+        "National Cyber Security Coordinator",
+        "NITI Aayog"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "CERT-In (Indian Computer Emergency Response Team) recently issued guidelines calling for comprehensive testing of AI agents for unauthorized tool use and privilege abuse. These guidelines require checks on agents’ permissions, task delegation, and emergency-stop mechanisms, and mandate authenticated, logged communications for multi-agent systems.",
+      "background": "As Artificial Intelligence systems become more sophisticated and integrated into critical infrastructure, ensuring their security and preventing misuse is paramount. CERT-In's guidelines aim to establish robust security protocols and testing methodologies for AI agents to mitigate potential cyber risks and vulnerabilities.",
+      "examRelevance": "CERT-In issued guidelines for testing AI agents for security vulnerabilities.",
+      "tags": [
+        "CERT-In",
+        "AI Agents",
+        "Cybersecurity",
+        "Guidelines"
+      ],
+      "source": {
+        "title": "CERT-In calls for testing AI agents for unauthorised tool use, privilege abuse",
+        "url": "https://www.thehindu.com/business/Industry/cert-in-calls-for-testing-ai-agents-for-unauthorised-tool-use-privilege-abuse/article71668646.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q13",
+      "question": "Which team defeated Liverpool in a recent Champions League match?",
+      "options": [
+        "RB Leipzig",
+        "Fenerbahce",
+        "Real Madrid",
+        "Como"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "In a recent Champions League match, Liverpool was defeated by Fenerbahce. Other results included Real Madrid pulling off a comeback victory and Manchester City battling to victory over RB Leipzig.",
+      "background": "The UEFA Champions League is an annual club football competition organized by the Union of European Football Associations (UEFA) and contested by top-division European clubs. Matches in the group stage or knockout rounds often produce unexpected results and rivalries.",
+      "examRelevance": "Fenerbahce defeated Liverpool in a Champions League match.",
+      "tags": [
+        "Champions League",
+        "Liverpool",
+        "Fenerbahce",
+        "Football"
+      ],
+      "source": {
+        "title": "Champions League: Real Madrid pulls off another comeback, Liverpool beaten by Fenerbahce",
+        "url": "https://www.thehindu.com/sport/football/champions-league-real-madrid-pulls-off-another-comeback-liverpool-beaten-by-fenerbahce/article71668753.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q14",
+      "question": "Which ISRO satellite recently reached geosynchronous orbit after successfully completing four orbit manoeuvres?",
+      "options": [
+        "GSLV-F12",
+        "NVS-03",
+        "INSAT-3DR",
+        "Cartosat-3"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "ISRO's NVS-03 satellite recently reached geosynchronous orbit after successfully completing four orbit manoeuvres. These manoeuvres involved a cumulative LAM engine burn of 6164 seconds, positioning the satellite at a Geo Synchronous Orbit with an inclination of 29.980.",
+      "background": "NVS-03 is part of India's Navigation with Indian Constellation (NavIC) series, which aims to provide accurate real-time positioning and timing services over India and a region extending up to 1,500 km around the Indian mainland. Achieving geosynchronous orbit is a critical step for these navigation satellites.",
+      "examRelevance": "ISRO's NVS-03 satellite successfully reached geosynchronous orbit.",
+      "tags": [
+        "ISRO",
+        "NVS-03",
+        "Geosynchronous Orbit",
+        "Space Technology"
+      ],
+      "source": {
+        "title": "NVS-03 reaches geosynchronous orbit; satellite in good health",
+        "url": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q15",
+      "question": "Which political alliance recently achieved a clean sweep in the local body elections in Andhra Pradesh?",
+      "options": [
+        "Bharatiya Janata Party (BJP)",
+        "Telugu Desam Party (TDP)",
+        "YSR Congress Party",
+        "National Democratic Alliance (NDA)"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The National Democratic Alliance (NDA) achieved a thumping success, securing a clean sweep in the local body elections in Andhra Pradesh. Political analysts noted that while the results showed no hint of anti-incumbency, the alliance partners would need to address internal rifts.",
+      "background": "Local body elections are crucial indicators of political sentiment at the grassroots level and can often foreshadow broader electoral trends. The NDA's strong performance in Andhra Pradesh reflects significant voter support for the alliance in the state.",
+      "examRelevance": "NDA achieved a clean sweep in Andhra Pradesh local body elections.",
+      "tags": [
+        "Andhra Pradesh",
+        "Local Body Elections",
+        "NDA",
+        "State Politics"
+      ],
+      "source": {
+        "title": "What NDA’s clean sweep in local body polls means for Andhra Pradesh politics",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/what-ndas-clean-sweep-in-local-body-polls-means-for-andhra-pradesh-politics/article71665693.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q16",
+      "question": "Which university has decided to replace supplementary examinations with an on-demand examination system for failed candidates?",
+      "options": [
+        "Visvesvaraya Technological University",
+        "Mangalore University",
+        "Bangalore University",
+        "Mysore University"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "Visvesvaraya Technological University (VTU) has decided to introduce an on-demand examination system for candidates who have failed. This new system will replace the traditional supplementary examinations, allowing students to take tests without waiting for a fixed schedule.",
+      "background": "Educational institutions are increasingly adopting flexible examination models to reduce student stress and improve academic progression. The on-demand examination system aims to provide greater convenience and opportunities for students to clear their backlog subjects more efficiently.",
+      "examRelevance": "Visvesvaraya Technological University (VTU) introduced on-demand examinations.",
+      "tags": [
+        "VTU",
+        "On-demand Exams",
+        "Higher Education",
+        "Karnataka"
+      ],
+      "source": {
+        "title": "Visvesvaraya Technological University decides to introduce on-demand examinations for candidates who failed",
+        "url": "https://www.thehindu.com/news/national/karnataka/vtu-to-replace-supplementary-exams-with-on-demand-tests/article71665880.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q17",
+      "question": "Hong Kong activist Joshua Wong was recently sentenced to 10 years in prison in his second national security case. He was already serving a term for which previous case?",
+      "options": [
+        "Pro-democracy protests of 2014",
+        "Anti-extradition bill protests of 2019",
+        "Hong Kong's biggest national security case",
+        "Illegal assembly in 2020"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Hong Kong activist Joshua Wong was recently sentenced to 10 years in prison in his second national security case. He was already serving a four-year, eight-month prison term for his involvement in the city's biggest national security case.",
+      "background": "Joshua Wong is a prominent figure in Hong Kong's pro-democracy movement, known for his activism since 2012. His repeated arrests and convictions under national security laws highlight the tightening grip on dissent in Hong Kong following the implementation of the National Security Law by Beijing.",
+      "examRelevance": "Hong Kong activist Joshua Wong sentenced to 10 years in second national security case.",
+      "tags": [
+        "Joshua Wong",
+        "Hong Kong",
+        "National Security Law",
+        "Activism"
+      ],
+      "source": {
+        "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison in 2nd national security case",
+        "url": "https://www.thehindu.com/news/international/hong-kong-activist-joshua-wong-sentenced-to-10-years-in-prison-in-2nd-national-security-case/article71668669.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q18",
+      "question": "What was the approximate value of the Indian Rupee against the U.S. dollar recently, after falling by 9 paise in early trade?",
+      "options": [
+        "82.15",
+        "94.55",
+        "101.25",
+        "88.75"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Indian Rupee recently fell by 9 paise to trade at 94.55 against the U.S. dollar in early trade. This movement occurred as Brent crude, the global oil benchmark, was trading lower by 1.04% at $93.64 per barrel in futures trade.",
+      "background": "Currency exchange rates are influenced by a multitude of factors, including global commodity prices (like crude oil), interest rate differentials, trade balances, and geopolitical events. A depreciation of the rupee can make imports more expensive and exports cheaper.",
+      "examRelevance": "Rupee fell 9 paise to 94.55 against U.S. dollar.",
+      "tags": [
+        "Indian Rupee",
+        "US Dollar",
+        "Forex",
+        "Currency Exchange"
+      ],
+      "source": {
+        "title": "Rupee falls 9 paise to 94.55 against U.S. dollar in early trade",
+        "url": "https://www.thehindu.com/business/markets/rupee-falls-9-paise-to-9455-against-us-dollar-in-early-trade/article71668649.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q19",
+      "question": "The AERB Chairperson recently stated that there will be no compromise on safety aspects regarding which sector's participation in nuclear energy?",
+      "options": [
+        "Private sector",
+        "Public sector",
+        "International collaborations",
+        "Research institutions"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "The AERB (Atomic Energy Regulatory Board) Chairperson recently affirmed that there will be no compromise on safety aspects concerning private sector participation in nuclear energy. These remarks are significant in the context of the SHANTI Act and the Union government’s policy decision to welcome private players into the nuclear energy sector.",
+      "background": "India is exploring private sector involvement to accelerate its nuclear energy program, which is crucial for meeting growing energy demands and achieving clean energy goals. AERB's role is to ensure that all nuclear facilities, irrespective of ownership, adhere to the highest safety standards.",
+      "examRelevance": "AERB Chairperson stated no compromise on safety for private sector in nuclear energy.",
+      "tags": [
+        "AERB",
+        "Nuclear Energy",
+        "Private Sector",
+        "Safety Standards"
+      ],
+      "source": {
+        "title": "Private sector participation in nuclear energy: No compromise on safety aspects, says AERB Chairperson",
+        "url": "https://www.thehindu.com/news/national/private-sector-participation-in-nuclear-energy-aerb-will-provide-enabling-environment-without-compromising-safety-says-chairperson/article71668479.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q20",
+      "question": "The ₹76,220-crore Vadhavan port project is facing continued resistance from villagers in which district of Maharashtra?",
+      "options": [
+        "Palghar",
+        "Ratnagiri",
+        "Thane",
+        "Raigad"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The ₹76,220-crore Vadhavan port project is facing continued resistance from villagers in Palghar district of Maharashtra. Opposition parties have joined the villagers, who fear the project will lead to the loss of their sea, farms, and livelihoods.",
+      "background": "Large-scale infrastructure projects, especially those involving land acquisition and environmental impact, often face protests from local communities whose lives and livelihoods are directly affected. The Vadhavan port is a major proposed deep-sea port project intended to enhance India's maritime trade capabilities.",
+      "examRelevance": "Vadhavan port project in Palghar, Maharashtra, faces local resistance.",
+      "tags": [
+        "Vadhavan Port",
+        "Palghar",
+        "Maharashtra",
+        "Infrastructure Project"
+      ],
+      "source": {
+        "title": "Vadhavan port project faces continued resistance from Palghar villagers",
+        "url": "https://www.thehindu.com/news/national/maharashtra/vadhavan-port-project-faces-continued-resistance-from-palghar-villagers/article71656558.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q21",
+      "question": "Which religious festival may be allowed at Rabindra Sarobar in West Bengal despite a court ban, causing concern among environmentalists?",
+      "options": [
+        "Kali Puja",
+        "Durga Puja",
+        "Eid al-Adha",
+        "Chhath Puja"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The West Bengal government is considering allowing Chhath Puja celebrations at Rabindra Sarobar, despite a court ban on the activity to protect the lake's ecology. Environmentalists have warned that large gatherings could cause significant damage to the lake's environment.",
+      "background": "Rabindra Sarobar, a national lake, has been subject to environmental protection orders, which include restrictions on activities that could lead to pollution. The annual Chhath Puja, a significant festival, often involves large gatherings and rituals performed in water bodies, leading to a conflict between religious practices and environmental conservation.",
+      "examRelevance": "Chhath Puja at Rabindra Sarobar, West Bengal, faces court ban due to environmental concerns.",
+      "tags": [
+        "Chhath Puja",
+        "Rabindra Sarobar",
+        "West Bengal",
+        "Environmental Protection"
+      ],
+      "source": {
+        "title": "Bengal may allow Chhath Puja at Rabindra Sarobar despite court ban",
+        "url": "https://www.thehindu.com/news/national/west-bengal/bengal-may-allow-chhath-puja-at-rabindra-sarobar-despite-court-ban/article71666206.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q22",
+      "question": "The Bengaluru-Goa Vande Bharat train is expected to run at an average speed comparable to which type of trains, making it one of India's slowest Vande Bharat services?",
+      "options": [
+        "Duronto Express trains",
+        "Local Passenger trains",
+        "Mail/Express trains",
+        "Rajdhani Express trains"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The Bengaluru-Goa Vande Bharat train is projected to be among India's slowest, running at an average speed of 53-54 kmph, which is on par with regular Mail and Express trains. This speed is significantly lower than the potential 160 kmph capacity of Vande Bharat trains.",
+      "background": "Vande Bharat Express trains are designed for semi-high-speed rail travel, intended to reduce journey times significantly. However, their actual operational speed often depends on track infrastructure, signaling systems, and route topography, which can lead to variations in speed across different routes.",
+      "examRelevance": "Bengaluru-Goa Vande Bharat to be among India's slowest at 53-54 kmph.",
+      "tags": [
+        "Vande Bharat",
+        "Bengaluru-Goa",
+        "Indian Railways",
+        "Train Speed"
+      ],
+      "source": {
+        "title": "Blr-Goa Vande Bharat to run as slow as Mail trains",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/railways/bengaluru-goa-vande-bharat-to-be-among-indias-slowest-running-at-53-54-kmph-on-par-with-regular-mail-and-express-trains-why-several-vande-bharat-services-cannot-operate-at-160-kmph/articleshow/135557575.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q23",
+      "question": "The Supreme Court recently observed that falling fertility rates make which type of penalties outdated in India?",
+      "options": [
+        "Single-child penalties",
+        "Inter-caste marriage penalties",
+        "Gender-based penalties",
+        "Two-child penalties"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently observed that the foundation of laws imposing 'two-child penalties' has crumbled due to demographic changes and falling fertility rates in India over the past few decades. The Court noted that the fear of overpopulation, which underpinned such laws, is now outdated.",
+      "background": "Some states in India have laws that disqualify individuals with more than two children from contesting local elections or receiving certain government benefits. These laws were enacted to control population growth. The Supreme Court's observation reflects a changing demographic reality and a re-evaluation of population control policies.",
+      "examRelevance": "SC stated falling fertility rates make two-child penalties outdated.",
+      "tags": [
+        "Supreme Court",
+        "Two-child Policy",
+        "Fertility Rate",
+        "Population Control"
+      ],
+      "source": {
+        "title": "Falling fertility rate makes two-child penalties outdated in India, says Supreme Court",
+        "url": "https://www.thehindu.com/news/national/rolling-effect-of-decelerating-population-growth-very-hard-to-reverse-supreme-court/article71666136.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q24",
+      "question": "What was the impact of the U.S. Democrats' midterm sweep on the Big Tech market?",
+      "options": [
+        "Resulted in a temporary halt of trading",
+        "Had no significant impact",
+        "Caused a $750 billion rally",
+        "Led to a $750 billion decline"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The U.S. Democrats' midterm sweep fueled a significant $750 billion rally in the Big Tech market. As an example, Apple's stock jumped nearly 7% to a record high following the election results.",
+      "background": "Election outcomes in major economies like the U.S. can significantly influence global financial markets, including the technology sector. The market's reaction often reflects investor sentiment regarding policy stability, economic outlook, and regulatory environment under the new political landscape.",
+      "examRelevance": "US Democrats' midterm sweep fueled a $750 billion Big Tech rally.",
+      "tags": [
+        "US Midterm Elections",
+        "Big Tech",
+        "Stock Market",
+        "Economy"
+      ],
+      "source": {
+        "title": "U.S. Democrats' midterm sweep fuels $750 billion Big Tech rally",
+        "url": "https://www.thehindu.com/sci-tech/technology/us-democrats-midterm-sweep-fuels-750-billion-big-tech-rally/article71668523.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q25",
+      "question": "Recently, two oil tankers and a tugboat caught fire in which strategically important strait?",
+      "options": [
+        "Strait of Gibraltar",
+        "Strait of Hormuz",
+        "Strait of Malacca",
+        "Bab-el-Mandeb Strait"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Recently, two oil tankers and a tugboat caught fire in the Strait of Hormuz. This strait is a crucial maritime chokepoint for global oil shipments.",
+      "background": "The Strait of Hormuz is a narrow waterway connecting the Persian Gulf with the Arabian Sea and the Gulf of Oman. It is one of the world's most critical shipping lanes for oil, with a significant portion of the world's seaborne oil passing through it daily. Incidents in this region often have geopolitical and economic implications.",
+      "examRelevance": "Two oil tankers caught fire in the Strait of Hormuz.",
+      "tags": [
+        "Strait of Hormuz",
+        "Oil Tankers",
+        "Maritime Incident",
+        "Geopolitics"
+      ],
+      "source": {
+        "title": "2 tankers and tugboat caught fire in Hormuz",
+        "url": "https://economictimes.indiatimes.com/news/defence/iran-irgc-two-oil-tankers-tugboat-catch-fire-strait-of-hormuz/articleshow/135558809.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q26",
+      "question": "Which agency recently raided three locations linked to Aryan Hometec in Bengaluru in connection with a ₹90-crore fraud case?",
+      "options": [
+        "Karnataka Police",
+        "Enforcement Directorate (ED)",
+        "Income Tax Department",
+        "Central Bureau of Investigation (CBI)"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Enforcement Directorate (ED) recently raided three locations linked to Aryan Hometec in Bengaluru. These raids were conducted in connection with a ₹90-crore fraud case, with the money laundering investigation initiated based on multiple FIRs filed by the police.",
+      "background": "The Enforcement Directorate is a law enforcement agency and economic intelligence agency responsible for enforcing economic laws and fighting economic crime in India. Its actions often involve cases of money laundering, foreign exchange violations, and large-scale financial frauds.",
+      "examRelevance": "ED raided Aryan Hometec in Bengaluru in a ₹90-crore fraud case.",
+      "tags": [
+        "ED",
+        "Aryan Hometec",
+        "Bengaluru",
+        "Fraud Case"
+      ],
+      "source": {
+        "title": "Bengaluru cops can’t find builder accused of cheating, but ED does; raids three locations linked to Aryan Hometec in ₹90-crore fraud case",
+        "url": "https://www.thehindu.com/news/national/karnataka/ed-raids-three-locations-linked-to-aryan-hometec-in-90-crore-fraud-case/article71667106.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q27",
+      "question": "Which major technology company recently extended voluntary buyout offers to employees in several countries to shift resources towards priority areas?",
+      "options": [
+        "Microsoft",
+        "Meta",
+        "Amazon",
+        "Google"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Google, a subsidiary of Alphabet, recently extended voluntary buyout offers to its employees in several countries. This move is part of the company's strategy to shift resources toward priority areas, even as its workforce has grown steadily in recent quarters.",
+      "background": "Voluntary buyout programs are often used by large corporations to streamline operations, reduce headcount, and reallocate talent without resorting to forced layoffs. This allows employees to leave with a severance package while the company adjusts its workforce to strategic needs.",
+      "examRelevance": "Google extended voluntary buyout offers to employees.",
+      "tags": [
+        "Google",
+        "Voluntary Buyout",
+        "Tech Industry",
+        "Corporate Restructuring"
+      ],
+      "source": {
+        "title": "Google extends voluntary buyout offers to employees in several countries",
+        "url": "https://www.thehindu.com/sci-tech/technology/google-extends-voluntary-buyout-offers-to-employees-in-several-countries/article71668483.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q28",
+      "question": "External Affairs Minister S. Jaishankar recently urged Commonwealth partners to focus on which key economic strategies?",
+      "options": [
+        "De-risk and diversify supply chains",
+        "Impose higher tariffs on non-member states",
+        "Prioritize bilateral over multilateral agreements",
+        "Increase military spending and defence cooperation"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "External Affairs Minister S. Jaishankar recently urged Commonwealth partners to 'de-risk and diversify' their economic engagements. He also emphasized the need for more efforts to enhance local distribution and establish more connectivity corridors for business.",
+      "background": "In an increasingly complex global economic landscape, countries are looking to reduce dependencies on single markets or supply chains to enhance resilience. Jaishankar's call aligns with India's broader foreign policy objectives of promoting robust and diversified international cooperation, especially within multilateral frameworks like the Commonwealth.",
+      "examRelevance": "S. Jaishankar urged Commonwealth partners to 'de-risk and diversify' their economies.",
+      "tags": [
+        "S. Jaishankar",
+        "Commonwealth",
+        "Economic Diversification",
+        "Foreign Policy"
+      ],
+      "source": {
+        "title": "Jaishankar urges Commonwealth partners to 'de-risk and diversify'",
+        "url": "https://www.thehindu.com/news/national/jaishankar-urges-commonwealth-partners-to-de-risk-and-diversify/article71668549.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q29",
+      "question": "Donald Trump’s defeat in the recent U.S. midterm elections has reportedly dimmed hopes for renewed dialogue between the U.S. and which country?",
+      "options": [
+        "North Korea",
+        "Russia",
+        "Iran",
+        "China"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Donald Trump’s defeat in the recent U.S. midterm elections has reportedly dimmed hopes for renewed dialogue between the U.S. and North Korea. Kim Yo Jong, the powerful sister of Kim Jong Un, signaled Pyongyang's lack of appetite for dialogue, stating they had 'no need to sit face to face with such unreliable and hostile persons'.",
+      "background": "During his presidency, Donald Trump engaged in unprecedented direct diplomacy with North Korean leader Kim Jong Un, holding several high-profile summits. The change in the U.S. political landscape often leads to shifts in foreign policy approaches, and in this case, it appears to reduce the likelihood of a resumption of those specific diplomatic efforts.",
+      "examRelevance": "Trump's midterm defeat dimmed hopes for US-North Korea dialogue.",
+      "tags": [
+        "Donald Trump",
+        "North Korea",
+        "US Midterm Elections",
+        "Diplomacy"
+      ],
+      "source": {
+        "title": "Donald Trump’s midterm defeat dims hopes of North Korea meeting",
+        "url": "https://www.thehindu.com/news/international/donald-trumps-midterm-defeat-dims-hopes-of-north-korea-meeting/article71668552.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-05-q30",
+      "question": "Which prominent AI lab recently stated its intention to go public (IPO) in 2027 and confirmed that the majority of its sales now come from enterprises?",
+      "options": [
+        "Anthropic",
+        "Stability AI",
+        "OpenAI",
+        "DeepMind"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "OpenAI, the prominent AI lab, recently stated its intention to go public with an IPO in 2027. The company also confirmed that a majority of its sales are now generated from enterprise clients, indicating a strong shift towards business-to-business services.",
+      "background": "OpenAI is at the forefront of AI research and development, known for creating models like GPT and DALL-E. Its move towards an IPO and increased enterprise sales signifies its maturation as a commercial entity, competing in the rapidly expanding AI market.",
+      "examRelevance": "OpenAI plans IPO in 2027, with majority sales from enterprises.",
+      "tags": [
+        "OpenAI",
+        "IPO",
+        "AI Lab",
+        "Enterprise Sales"
+      ],
+      "source": {
+        "title": "OpenAI says ready to IPO in 2027, now counts majority of sales from enterprises",
+        "url": "https://www.thehindu.com/sci-tech/technology/openai-says-ready-to-ipo-in-2027-now-counts-majority-of-sales-from-enterprises/article71668478.ece"
+      }
+    }
+  ]
+}
