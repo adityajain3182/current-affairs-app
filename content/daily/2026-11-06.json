@@ -1,0 +1,787 @@
+{
+  "id": "daily-2026-11-06",
+  "type": "daily",
+  "date": "2026-11-06",
+  "title": "Current Affairs — 06 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-06-q1",
+      "question": "Cyclone Murasu, which recently caused an engine failure for fishermen from Chennai, occurred near the port of which Indian state?",
+      "options": [
+        "Andhra Pradesh",
+        "Odisha",
+        "Tamil Nadu",
+        "West Bengal"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Nine Kasimedu fishermen from Chennai faced engine failure near Ramayapatnam Port, Andhra Pradesh, on November 3 during Cyclone Murasu, which they encountered after leaving on October 29.",
+      "background": "Cyclone Murasu is a recent tropical cyclone event. Ramayapatnam Port is an upcoming major port in Andhra Pradesh, currently under construction.",
+      "examRelevance": "Cyclone Murasu = Ramayapatnam Port, Andhra Pradesh",
+      "tags": [
+        "Cyclone Murasu",
+        "Andhra Pradesh",
+        "Ramayapatnam Port",
+        "Fishermen"
+      ],
+      "source": {
+        "title": "Cyclone Murasu: Search for five missing fishermen intensified, says Tamil Nadu Government",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/cyclone-murasu-search-for-five-missing-fishermen-intensified-says-tamil-nadu-government/article71673361.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q2",
+      "question": "Tamil writer Perumal Murugan recently flagged a 'literary scam' at which institution, alleging fictitious chief ministers and poets?",
+      "options": [
+        "Periyar Arivulagam",
+        "Tamil Virtual Academy",
+        "Anna Centenary Library",
+        "Connemara Public Library"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "Tamil writer Perumal Murugan flagged a 'literary scam' in Periyar Arivulagam, alleging the presence of a fictitious Chief Minister and the misattribution of 'Naladiyar' as a poet.",
+      "background": "Periyar Arivulagam is a knowledge center in Tamil Nadu. Perumal Murugan is a renowned Tamil writer. The state Minister for Tamil Development, Information and Publicity, Rajmohan, has stated an inquiry will be initiated.",
+      "examRelevance": "Perumal Murugan flagged literary scam = Periyar Arivulagam",
+      "tags": [
+        "Perumal Murugan",
+        "Periyar Arivulagam",
+        "Literary Scam",
+        "Tamil Nadu"
+      ],
+      "source": {
+        "title": "From fictitious Chief Minister to Naladiyar as ‘poet’: Tamil writer Perumal Murugan flags ‘literary scam’ in Periyar Arivulagam",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/from-fictitious-chief-minister-to-naladiyar-as-poet-tamil-writer-perumal-murugan-flags-literary-scam-in-periyar-arivulagam/article71673360.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q3",
+      "question": "Who recently became the Mayor of Los Angeles, defeating incumbent Karen Bass, and has roots in Kerala, India?",
+      "options": [
+        "Vivek Ramaswamy",
+        "Nithya Raman",
+        "Suhas Subramanyam",
+        "Pia Dandiya"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "Nithya Raman, who has roots in Kerala, defeated incumbent Mayor Karen Bass to take charge as the Mayor of Los Angeles, the second most populous city in the U.S.",
+      "background": "Los Angeles is the second most populous city in the U.S. after New York. This appointment highlights the increasing presence of Indian-origin individuals in significant political roles internationally.",
+      "examRelevance": "Nithya Raman = Los Angeles Mayor",
+      "tags": [
+        "Nithya Raman",
+        "Los Angeles",
+        "Mayor",
+        "Appointments",
+        "Indian-origin"
+      ],
+      "source": {
+        "title": "Nithya Raman and her journey from Keralam to Los Angeles",
+        "url": "https://www.thehindu.com/news/national/kerala/kerala-born-nithya-raman-becomes-los-angeles-mayor/article71670901.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q4",
+      "question": "According to Punjab CM Saini, how much flood relief funds from the Centre were allegedly spent elsewhere by the AAP government in Punjab?",
+      "options": [
+        "₹1,600 crore",
+        "₹2,000 crore",
+        "₹800 crore",
+        "₹1,200 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Punjab CM Saini alleged that the AAP government spent ₹1,600 crore in flood relief funds provided by the Centre for Punjab elsewhere.",
+      "background": "This accusation comes after Punjab experienced devastating floods, and the Chief Minister Bhagwant Mann had previously promised compensation for all losses.",
+      "examRelevance": "Punjab flood relief funds = ₹1,600 crore",
+      "tags": [
+        "Punjab",
+        "Flood Relief",
+        "AAP",
+        "CM Saini",
+        "Central Funds"
+      ],
+      "source": {
+        "title": "AAP spent Centre's ₹1,600 crore flood relief funds for Punjab elsewhere: CM Saini",
+        "url": "https://www.thehindu.com/news/national/punjab/aap-spent-centres-1600-crore-flood-relief-funds-for-punjab-elsewhere-cm-saini/article71673181.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q5",
+      "question": "According to a recent poll, India's consumer inflation is nearing the upper target set by which financial institution?",
+      "options": [
+        "State Bank of India",
+        "Reserve Bank of India",
+        "NITI Aayog",
+        "Ministry of Finance"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "A recent poll indicates that India's consumer inflation is nearing the upper target set by the Reserve Bank of India, driven by surging food prices.",
+      "background": "The Reserve Bank of India (RBI) is the central bank of India and is responsible for maintaining monetary stability, including controlling inflation. It sets an inflation target, typically with an upper and lower bound.",
+      "examRelevance": "India's inflation = Nearing RBI's upper target",
+      "tags": [
+        "India Inflation",
+        "RBI",
+        "Consumer Price Index",
+        "Economy"
+      ],
+      "source": {
+        "title": "India inflation nears RBI's upper target: Poll",
+        "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-consumer-inflation-soars-as-food-prices-surge-october-predictions-near-rbis-max-target/articleshow/135599213.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q6",
+      "question": "Which High Court recently quashed the State Government's decision to cancel the JSSC-CGL exam and ordered the reinstatement of selected candidates?",
+      "options": [
+        "Patna High Court",
+        "Chhattisgarh High Court",
+        "Allahabad High Court",
+        "Ranchi High Court"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Jharkhand High Court quashed the State Government's decision to cancel the JSSC-CGL (Jharkhand Staff Selection Commission - Combined Graduate Level) exam and ordered the reinstatement of candidates selected under advertisement number 10/2023, treating their service as continuous.",
+      "background": "The JSSC-CGL exam is a major recruitment test for various government posts in Jharkhand. The cancellation had led to significant uncertainty for many candidates.",
+      "examRelevance": "Jharkhand HC = Quashed JSSC-CGL exam cancellation",
+      "tags": [
+        "Jharkhand High Court",
+        "JSSC-CGL",
+        "Exam Cancellation",
+        "Polity"
+      ],
+      "source": {
+        "title": "Jharkhand HC quashes State Govt decision to cancel JSSC-CGL exam",
+        "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-hc-quashes-state-govt-decision-to-cancel-jssc-cgl-exam/article71673379.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q7",
+      "question": "What was the percentage decline in automobile retail sales in October, attributed to a high base effect from a year ago?",
+      "options": [
+        "24%",
+        "20%",
+        "30%",
+        "15%"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Automobile retail sales in October fell by 24% compared to the previous year, primarily due to a high base effect from a year ago. Both two-wheelers and passenger vehicle segments experienced a decline.",
+      "background": "A high base effect occurs when a current growth rate is compared to an unusually strong performance in the corresponding period of the previous year, making the current growth appear lower.",
+      "examRelevance": "Automobile retail sales October decline = 24%",
+      "tags": [
+        "Automobile Sales",
+        "Retail Sales",
+        "October",
+        "Economy"
+      ],
+      "source": {
+        "title": "Automobile retail sales fall 24% in October on high base effect a year ago",
+        "url": "https://www.thehindu.com/business/Industry/automobile-retail-sales-fall-24-in-october-on-high-base-effect-a-year-ago/article71673102.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q8",
+      "question": "Which High Court recently ruled that Form 8 applications for voter list deletions must be decided during the 'Summary Revision' (SIR) period, stating that deletion without hearing denies the right to vote?",
+      "options": [
+        "Madras High Court",
+        "Karnataka High Court",
+        "Delhi High Court",
+        "Bombay High Court"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Bombay High Court ruled that Form 8 applications, used for objections or deletions from the voter list, must be decided during the 'Summary Revision' (SIR) period, emphasizing that deletion without a hearing denies the right to vote. The court also ordered the Election Commission of India to restore six names and set aside the rejection of their Form 8 applications.",
+      "background": "Form 8 is a crucial part of the electoral process, allowing citizens to make changes or object to entries in the voter list. The 'Summary Revision' is a period when these changes are processed.",
+      "examRelevance": "Bombay HC = Form 8 applications during SIR",
+      "tags": [
+        "Bombay High Court",
+        "Form 8",
+        "Voter List",
+        "Election Commission",
+        "Polity"
+      ],
+      "source": {
+        "title": "Form 8 must be decided during SIR; deletion without hearing denies vote: Bombay HC",
+        "url": "https://www.thehindu.com/news/national/form-8-must-be-decided-during-sir-deletion-without-hearing-denies-vote-bombay-hc/article71673138.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q9",
+      "question": "A survey in Karnataka found that nearly 4 in 5 petrol pumps sold over-blended E20 fuel. What does E20 refer to?",
+      "options": [
+        "Engine Oil-20%",
+        "Ethanol-20%",
+        "Emissions-20%",
+        "Electricity-20%"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "E20 refers to fuel blended with 20% ethanol. A survey in Karnataka revealed that nearly 4 in 5 petrol pumps were selling over-blended E20 fuel.",
+      "background": "Ethanol blending in petrol is a government initiative aimed at reducing crude oil imports and carbon emissions. India aims for 20% ethanol blending by 2025. Over-blending can have adverse effects on vehicles not designed for higher ethanol concentrations.",
+      "examRelevance": "E20 fuel = 20% Ethanol blend",
+      "tags": [
+        "E20 Fuel",
+        "Ethanol Blending",
+        "Karnataka",
+        "Fuel Adulteration",
+        "Environment"
+      ],
+      "source": {
+        "title": "4 in 5 Karnataka pumps sold over-blended E20",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/nearly-4-in-5-petrol-pumps-surveyed-in-indias-karnataka-sold-over-blended-e20-fuel-minister-says/articleshow/135598702.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q10",
+      "question": "Pune Customs recently seized hydroponic marijuana worth ₹3.72 crore at the airport. What is the value of the seized consignment?",
+      "options": [
+        "₹1.50 crore",
+        "₹2.25 crore",
+        "₹3.72 crore",
+        "₹4.10 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Pune Customs intercepted and seized hydroponic marijuana valued at ₹3.72 crore at the airport, leading to the arrest of a passenger. The interception was based on passenger profiling and suspicious findings during baggage scanning.",
+      "background": "Hydroponic marijuana is cultivated using hydroponics, a method of growing plants without soil, often indoors, which can result in higher potency. Customs and excise departments are responsible for preventing the smuggling of illegal substances.",
+      "examRelevance": "Pune Customs seizure = Hydroponic marijuana, ₹3.72 crore",
+      "tags": [
+        "Pune Customs",
+        "Hydroponic Marijuana",
+        "Drug Seizure",
+        "Maharashtra"
+      ],
+      "source": {
+        "title": "Pune Customs seizes hydroponic marijuana worth ₹3.72 crore at airport, arrests passenger",
+        "url": "https://www.thehindu.com/news/national/maharashtra/pune-customs-seizes-hydroponic-marijuana-worth-372-crore-at-airport-arrests-passenger/article71673032.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q11",
+      "question": "The Supreme Court recently settled a decades-old energy dispute, directing Punjab and Haryana to pay Himachal Pradesh how many million units (MU) of electricity over 20 years?",
+      "options": [
+        "13,150 MU",
+        "11,973 MU",
+        "8,500 MU",
+        "10,200 MU"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court settled a decades-old energy dispute, ruling that Punjab and Haryana will pay Himachal Pradesh 11,973 million units (MU) of electricity over a period of 20 years.",
+      "background": "This ruling resolves a long-standing inter-state dispute regarding electricity sharing, which is common among states sharing river basins or power projects.",
+      "examRelevance": "Himachal Pradesh electricity from Punjab/Haryana = 11,973 MU",
+      "tags": [
+        "Supreme Court",
+        "Himachal Pradesh",
+        "Punjab",
+        "Haryana",
+        "Electricity Dispute",
+        "Energy"
+      ],
+      "source": {
+        "title": "Himachal to get 11,973 MU electricity from Punjab, Haryana as SC settles decades-old energy dispute",
+        "url": "https://www.thehindu.com/news/national/himachal-to-get-11973-mu-electricity-from-punjab-haryana-as-sc-settles-decades-old-energy-dispute/article71673278.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q12",
+      "question": "The Cauvery Water Management Authority (CWMA) chairperson recently called for the establishment of a 'River Board' to own, operate, manage, and regulate reservoirs in the entire Cauvery basin. Who is the current chairperson of CWMA?",
+      "options": [
+        "Naveen Kumar",
+        "R. K. Gupta",
+        "Supriya Sahu",
+        "Shiv Nandan Kumar"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "R. K. Gupta, the current chairperson of the Cauvery Water Management Authority (CWMA), called for the establishment of a 'River Board' that would own, operate, manage, and regulate reservoirs throughout the Cauvery basin.",
+      "background": "The Cauvery Water Management Authority (CWMA) was constituted by the Central Government in 2018 to implement the Cauvery Water Disputes Tribunal's final award as modified by the Supreme Court.",
+      "examRelevance": "CWMA Chairperson = R. K. Gupta",
+      "tags": [
+        "Cauvery Water Management Authority",
+        "River Board",
+        "R. K. Gupta",
+        "Cauvery Basin",
+        "Water Dispute"
+      ],
+      "source": {
+        "title": "What does a ‘River Board’ mean for India? | Explained",
+        "url": "https://www.thehindu.com/news/national/what-does-a-river-board-mean-for-india-explained/article71340361.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q13",
+      "question": "A case has been registered against former Madurai Deputy Mayor P.M. Mannan under the Prevention of Corruption Act, 1988, for an alleged 'horse-trading' bid involving which party's MLA?",
+      "options": [
+        "TVK",
+        "DMK",
+        "AIADMK",
+        "Congress"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Based on a complaint from Madurai Central TVK MLA Mustafa regarding an alleged 'horse-trading' bid, the CCB registered a case against former Madurai Deputy Mayor P.M. Mannan under the Prevention of Corruption Act, 1988, and for criminal conspiracy.",
+      "background": "Horse-trading refers to the illicit practice of buying and selling political support, often involving bribes, especially during critical legislative events like no-confidence motions. P.M. Mannan is now with the AIADMK.",
+      "examRelevance": "P.M. Mannan = Horse-trading case against TVK MLA",
+      "tags": [
+        "P.M. Mannan",
+        "TVK MLA",
+        "Horse-trading",
+        "Prevention of Corruption Act",
+        "Tamil Nadu"
+      ],
+      "source": {
+        "title": "TVK MLA’s ‘horse trading’ claim: Case registered against former Madurai Deputy Mayor P.M. Mannan",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-mla-vms-mustafa-horse-trading-claim-case-registered-against-former-madurai-deputy-mayor-pm-mannan/article71673191.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q14",
+      "question": "Who was arrested in connection with a bid to bribe a TVK MLA for a vote during a no-confidence motion against the Tamil Nadu Assembly Speaker?",
+      "options": [
+        "P.M. Mannan",
+        "Nainar Nagenthran",
+        "V. Senthilbalaji",
+        "V. Ashok Kumar"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Three men were arrested for attempting to bribe a TVK MLA during a no-confidence motion against the T.N. Assembly Speaker. Investigation revealed that V. Ashok Kumar, brother of former DMK Minister and incumbent Coimbatore South MLA V. Senthilbalaji, met one of the accused, Naresh, in Chennai.",
+      "background": "Bribery attempts during legislative processes like no-confidence motions are serious offenses that undermine democratic principles. V. Senthilbalaji is a prominent political figure in Tamil Nadu.",
+      "examRelevance": "V. Ashok Kumar = Bribery bid for TVK MLA",
+      "tags": [
+        "V. Ashok Kumar",
+        "Bribery",
+        "TVK MLA",
+        "No-confidence Motion",
+        "Tamil Nadu"
+      ],
+      "source": {
+        "title": "Three men arrested for bid to bribe TVK MLA for vote during no-confidence motion against T.N. Assembly Speaker",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/three-men-arrested-for-bid-to-bribe-tvk-mla-for-vote-during-no-confidence-motion-against-tn-assembly-speaker/article71169921.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q15",
+      "question": "In Hyderabad, police recently booked six criminal cases over fake and tampered number plates. Which type of registration plates are legally permitted?",
+      "options": [
+        "Temporary Stickers",
+        "Custom Altered Registration Plates",
+        "High-Security Registration Plates (HSRP)",
+        "Handwritten Registration Plates"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "In Hyderabad, six criminal cases were booked for fake and tampered number plates. Police reiterated that only government-approved High-Security Registration Plates (HSRP) are legally permitted, and custom alterations, missing digits, or temporary stickers are prohibited.",
+      "background": "High-Security Registration Plates (HSRPs) are standardized and tamper-proof vehicle number plates introduced in India to enhance security and curb vehicle-related crimes. They feature a unique laser-etched serial number and a hot-stamped chromium-based hologram.",
+      "examRelevance": "Legally permitted number plates = High-Security Registration Plates (HSRP)",
+      "tags": [
+        "Hyderabad",
+        "Number Plates",
+        "HSRP",
+        "Traffic Police",
+        "Law Enforcement"
+      ],
+      "source": {
+        "title": "Six criminal cases booked over fake, tampered number plates in Hyderabad",
+        "url": "https://www.thehindu.com/news/national/telangana/six-criminal-cases-booked-over-fake-tampered-number-plates-in-hyderabad/article71671492.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q16",
+      "question": "Which Indian NGO recently received the Kochon Prize 2026 for its significant contributions to the fight against Tuberculosis (TB)?",
+      "options": [
+        "Pratham",
+        "Aravind Eye Care System",
+        "Goonj",
+        "REACH"
+      ],
+      "answerIndex": 3,
+      "category": "Awards & Honours",
+      "explanation": "The Indian NGO REACH (Resource Group for Education and Advocacy for Community Health) received the Kochon Prize 2026. This prize is presented by the Kochon Foundation in partnership with the Stop TB Partnership, recognizing significant contributions to the fight against TB.",
+      "background": "The Kochon Prize is a prestigious international award in the field of tuberculosis control. India has one of the highest burdens of TB globally, making the work of NGOs like REACH crucial in disease eradication efforts.",
+      "examRelevance": "Indian NGO REACH = Kochon Prize 2026",
+      "tags": [
+        "REACH",
+        "Kochon Prize",
+        "Tuberculosis",
+        "TB Control",
+        "NGO"
+      ],
+      "source": {
+        "title": "Indian NGO REACH receives Kochon Prize 2026",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/indian-ngo-reach-receives-kochon-prize-2026/article71673359.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q17",
+      "question": "As per a recent order, Ms. Khanna, the Director-General of IT at the Election Commission of India, is now required to route her files through which official?",
+      "options": [
+        "Secretary-General of ECI",
+        "Chief Election Commissioner",
+        "Senior Deputy Election Commissioner Pawan Kumar Sharma",
+        "Election Commissioner"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "As per an order dated October 4, Ms. Khanna, the Director-General of IT/ICT and Grievances/PGRS at the Election Commission of India, is now required to route her files through Senior Deputy Election Commissioner Pawan Kumar Sharma.",
+      "background": "This order reinstates an oversight mechanism that a previous order (July 28) had sought to remove. Such procedural changes within the ECI are important for administrative clarity and accountability.",
+      "examRelevance": "ECI DG IT Ms. Khanna = Routes files through Senior Deputy Election Commissioner Pawan Kumar Sharma",
+      "tags": [
+        "ECI",
+        "Director-General of IT",
+        "Pawan Kumar Sharma",
+        "Appointments",
+        "Polity"
+      ],
+      "source": {
+        "title": "What is the controversy over the oversight of ECI’s Director-General of IT? Explained",
+        "url": "https://www.thehindu.com/news/national/what-does-a-river-board-mean-for-india-explained/article71340361.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q18",
+      "question": "Which federal panel recently voted to approve the construction of a 76-meter memorial arch for Donald Trump near Washington?",
+      "options": [
+        "Architect of the Capitol",
+        "National Capital Planning Commission",
+        "U.S. Commission of Fine Arts",
+        "National Park Service"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The National Capital Planning Commission voted 8-4 to approve the 76-meter memorial arch for Donald Trump near Washington, despite ongoing legal challenges against its construction.",
+      "background": "The National Capital Planning Commission is a federal agency responsible for planning federal development in the National Capital Region of the United States. The approval of such a significant structure for a former president is often a subject of public and political debate.",
+      "examRelevance": "National Capital Planning Commission = Approved Trump's memorial arch",
+      "tags": [
+        "Donald Trump",
+        "Memorial Arch",
+        "Washington D.C.",
+        "National Capital Planning Commission",
+        "International Politics"
+      ],
+      "source": {
+        "title": "Key federal panel approves Trump’s arch while it is being challenged in court",
+        "url": "https://www.thehindu.com/news/international/key-federal-panel-approves-trumps-arch-while-it-is-being-challenged-in-court/article71673086.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q19",
+      "question": "How many government school teachers in Karnataka are targeted to be trained in Artificial Intelligence (AI)?",
+      "options": [
+        "10,000",
+        "1,000",
+        "2,500",
+        "5,000"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Karnataka plans to train 5,000 government school teachers in Artificial Intelligence (AI).",
+      "background": "This initiative aims to integrate modern technology into the education system, preparing both teachers and students for the future of AI. Such training programs are crucial for improving digital literacy and technological skills in public education.",
+      "examRelevance": "Karnataka teachers AI training = 5,000",
+      "tags": [
+        "Karnataka",
+        "AI Training",
+        "Government School Teachers",
+        "Education",
+        "Science & Technology"
+      ],
+      "source": {
+        "title": "Karnataka: 5,000 government school teachers to be trained in AI",
+        "url": "https://www.thehindu.com/news/cities/bangalore/karnataka-5000-government-school-teachers-to-be-trained-in-ai/article71670570.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q20",
+      "question": "How many individuals were acquitted in the 2013 Muzaffarnagar riots case concerning mosque arson and vandalism in Muthbhar village?",
+      "options": [
+        "Five",
+        "Nine",
+        "Seven",
+        "Three"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Five individuals were acquitted in the 2013 Muzaffarnagar riots case related to mosque arson and vandalism in Muthbhar village under the Bhorakala police station limits, after the Special Investigation Team (SIT) had filed a chargesheet against them.",
+      "background": "The Muzaffarnagar riots of 2013 were a series of clashes between Hindu and Muslim communities in the Muzaffarnagar district of Uttar Pradesh, resulting in numerous deaths and displacements. Many cases related to these riots have been ongoing in courts.",
+      "examRelevance": "Muzaffarnagar riots mosque arson acquittals = 5",
+      "tags": [
+        "Muzaffarnagar Riots",
+        "Acquittal",
+        "Mosque Arson",
+        "Uttar Pradesh",
+        "Polity"
+      ],
+      "source": {
+        "title": "Five acquitted in 2013 Muzaffarnagar riots case over mosque arson, vandalism",
+        "url": "https://www.thehindu.com/news/national/five-acquitted-in-2013-muzaffarnagar-riots-case-over-mosque-arson-vandalism/article71673127.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q21",
+      "question": "How many accused were acquitted in a 2013 Muzaffarnagar riots case concerning the murder of eight Muslims, after 13 years?",
+      "options": [
+        "37",
+        "25",
+        "30",
+        "42"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "On February 20, 2026, Additional District and Sessions Judge Manjula Bhalotiya acquitted 37 accused individuals in a 2013 Muzaffarnagar riots case involving the murder of eight Muslims, citing an absence of proof against them.",
+      "background": "This acquittal highlights the complexities and challenges in prosecuting cases related to large-scale communal violence, often due to difficulties in gathering sufficient evidence over time.",
+      "examRelevance": "Muzaffarnagar riots murder acquittals = 37",
+      "tags": [
+        "Muzaffarnagar Riots",
+        "Acquittal",
+        "Murder Case",
+        "Uttar Pradesh",
+        "Polity"
+      ],
+      "source": {
+        "title": "2013 Muzaffarnagar riots case: Court acquits 37 in murder of eight Muslims after 13 years",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/muzaffarnagar-riots-accused-acquitted/article70674266.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q22",
+      "question": "Which state's education department recently introduced new regulations for government school teachers, non-teaching staff, and students, including prohibiting outsiders from visiting campuses without prior permission?",
+      "options": [
+        "Bihar",
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Bihar's education department has imposed new regulations for government school teachers, non-teaching staff, and students. These regulations include prohibiting outsiders and unauthorized persons from visiting school campuses without prior permission from concerned officials.",
+      "background": "These regulations are part of a broader effort by the Bihar government to improve the functioning and security of its public education system, addressing issues like unauthorized interference and maintaining discipline.",
+      "examRelevance": "Bihar = New school regulations, prohibits outsiders",
+      "tags": [
+        "Bihar",
+        "Education Department",
+        "School Regulations",
+        "Government Schools",
+        "Polity"
+      ],
+      "source": {
+        "title": "Bihar’s new regulations for government school teachers, non-teaching staff and students | Explained",
+        "url": "https://www.thehindu.com/news/national/bihar/why-bihar-education-department-has-imposed-new-regulations-for-government-school-teachers-non-teaching-staff-and-students-explained/article71672849.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q23",
+      "question": "Who was the Kerala Excise Commissioner recently shifted amid differences with the Minister over bar licence issues?",
+      "options": [
+        "Rajeshwari S",
+        "Seeram Sambasiva Rao",
+        "Sanjay Kumar",
+        "Anil Kant"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "Kerala Excise Commissioner Seeram Sambasiva Rao was recently shifted from his post. This move came a few days after Excise Minister M. Liju publicly indicated his disapproval regarding the granting of a bar licence to a lounge at Kochi airport, despite the government's objection to a similar application.",
+      "background": "Such shifts often occur due to policy disagreements or administrative friction between bureaucrats and political leadership, particularly in sensitive areas like excise and licensing.",
+      "examRelevance": "Kerala Excise Commissioner shifted = Seeram Sambasiva Rao",
+      "tags": [
+        "Kerala",
+        "Excise Commissioner",
+        "Seeram Sambasiva Rao",
+        "Appointments",
+        "Polity"
+      ],
+      "source": {
+        "title": "Keralam Excise Commissioner Seeram Sambasiva Rao shifted amid differences with Minister over bar licence",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-excise-commissioner-seeram-sambasiva-rao-shifted-amid-differences-with-minister-over-bar-licence/article71673257.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q24",
+      "question": "The monthly pass charges for the Hyderabad Metro-RTC Bus common mobility card have been dropped from ₹8,500 to what new amount, effective November 8, 2026?",
+      "options": [
+        "₹3,500",
+        "₹4,500",
+        "₹3,000",
+        "₹4,000"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The monthly pass charges for the Hyderabad Metro-RTC Bus common mobility card have been reduced from ₹8,500 to ₹4,000, effective from November 8, 2026.",
+      "background": "This reduction aims to promote public transport usage and make it more affordable for daily commuters in Hyderabad, encouraging integrated mobility solutions.",
+      "examRelevance": "Hyderabad Metro-RTC Bus monthly pass = ₹4,000",
+      "tags": [
+        "Hyderabad",
+        "Metro",
+        "RTC Bus",
+        "Common Mobility Card",
+        "Public Transport",
+        "Economy"
+      ],
+      "source": {
+        "title": "Hyderabad Metro-RTC Bus common mobility card charges dropped from ₹8,500 to ₹4,000 for monthly pass",
+        "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-metro-rtc-bus-common-pass-charges-dropped-from-8500-to-4000-for-monthly-pass/article71672847.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q25",
+      "question": "Which two Indian-origin individuals won seats in the US House of Representatives during the US midterm elections 2026?",
+      "options": [
+        "Vivek Ramaswamy and Nikki Haley",
+        "Suhas Subramanyam and Pia Dandiya",
+        "Raja Krishnamoorthi and Pramila Jayapal",
+        "Kamala Harris and Bobby Jindal"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Indian-Americans Suhas Subramanyam and Pia Dandiya won their seats in the US House of Representatives during the US midterm elections 2026. Vivek Ramaswamy was defeated in the race to become Ohio’s next governor.",
+      "background": "The US midterm elections are held midway through a President's term and often serve as a referendum on the current administration. Indian-Americans have increasingly been making their mark in US politics.",
+      "examRelevance": "US midterm election Indian-origin winners (House) = Suhas Subramanyam, Pia Dandiya",
+      "tags": [
+        "US Midterm Elections",
+        "Indian-origin",
+        "Suhas Subramanyam",
+        "Pia Dandiya",
+        "US House of Representatives"
+      ],
+      "source": {
+        "title": "US midterm election results 2026: Key Indian-origin winners",
+        "url": "https://www.thehindu.com/news/international/us-midterm-election-results-2026-list-of-indian-origin-winners-american/article71664310.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q26",
+      "question": "India's first private space debris recovery facility has been opened by a startup in which city?",
+      "options": [
+        "Bengaluru",
+        "Mumbai",
+        "Chennai",
+        "Hyderabad"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "A Hyderabad startup has opened India’s first private space debris recovery facility. This facility addresses the growing problem of space debris, with nearly 28,000 satellites currently in orbit, of which about 10,000 are non-operational.",
+      "background": "Space debris poses a significant risk to active satellites and future space missions. Private sector involvement in space debris management is a critical step towards sustainable space exploration.",
+      "examRelevance": "India's first private space debris recovery facility = Hyderabad",
+      "tags": [
+        "Space Debris",
+        "Hyderabad",
+        "Private Sector",
+        "Space Technology",
+        "Startup"
+      ],
+      "source": {
+        "title": "Hyderabad startup opens India’s first private space debris recovery facility",
+        "url": "https://www.thehindu.com/news/national/telangana/hyderabad-startup-opens-indias-first-private-space-debris-recovery-facility/article71670668.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q27",
+      "question": "Which of the following manuscripts were recently added to the UNESCO Memory Regional Register?",
+      "options": [
+        "Mahabharata, Arthashastra, Rajatarangini",
+        "Ramayana, Puranas, Vedas",
+        "Yoga Sutras, Ayurveda Samhitas, Natya Shastra",
+        "Upanishads, Brahmanas, Aranyakas"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "The manuscripts of Mahabharata, Arthashastra, and Rajatarangini were recently added to the UNESCO Memory Regional Register. Union Culture Minister Gajendra Singh Shekhawat hailed these inscriptions as a landmark recognition of India’s documentary and civilisational heritage.",
+      "background": "The UNESCO Memory of the World Programme aims to safeguard the documentary heritage of humanity. The Regional Register focuses on significant heritage within a specific region.",
+      "examRelevance": "UNESCO Memory Regional Register = Mahabharata, Arthashastra, Rajatarangini manuscripts",
+      "tags": [
+        "UNESCO",
+        "Memory Regional Register",
+        "Mahabharata",
+        "Arthashastra",
+        "Rajatarangini",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "Mahabharata, Arthashastra, Rajatarangini manuscripts added to UNESCO memory regional register",
+        "url": "https://www.thehindu.com/society/history-and-culture/mahabharata-arthashastra-rajatarangini-manuscripts-added-to-unesco-memory-regional-register/article71673038.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q28",
+      "question": "Which two ancient Indian manuscripts were inscribed on UNESCO's Memory of the World Register in April 2025?",
+      "options": [
+        "Bhagavad Gita and Natyashastra",
+        "Arthashastra and Rajatarangini",
+        "Ramayana and Mahabharata",
+        "Vedas and Upanishads"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "Manuscripts of Bhagavad Gita and Natyashastra were inscribed on UNESCO's Memory of the World Register as of April 17, 2025, among 74 new documentary heritage collections.",
+      "background": "The UNESCO Memory of the World Register lists documentary heritage that has been identified by the International Advisory Committee and endorsed by the Director-General of UNESCO as having world significance and outstanding universal value.",
+      "examRelevance": "UNESCO Memory of the World Register (April 2025) = Bhagavad Gita, Natyashastra manuscripts",
+      "tags": [
+        "UNESCO",
+        "Memory of the World Register",
+        "Bhagavad Gita",
+        "Natyashastra",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "Manuscripts of Bhagavad Gita, Natyashastra inscribed on UNESCO's Memory of the World Register",
+        "url": "https://www.thehindu.com/news/national/manuscripts-of-bhagavad-gita-natyashastra-inscribed-on-unescos-memory-of-the-world-register/article69463876.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q29",
+      "question": "Which of India's historical sites or landscapes was inscribed on the UNESCO World Heritage List in April 2024, featuring 12 components including forts in Maharashtra and Tamil Nadu?",
+      "options": [
+        "Hampi Group of Monuments",
+        "Western Ghats",
+        "Maratha Military Landscapes",
+        "Great Living Chola Temples"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "India's 'Maratha Military Landscapes' were inscribed on the UNESCO World Heritage List in April 2024. This inscription includes 12 components: Salher Fort, Shivneri Fort, Lohgad, Khanderi Fort, Raigad, Rajgad, Pratapgad, Suvarnadurg, Panhala Fort, Vijay Durg, and Sindhudurg in Maharashtra, and Gingee Fort in Tamil Nadu.",
+      "background": "The Maratha Military Landscapes represent an outstanding universal value of military architecture and strategic planning developed during the Maratha Empire. UNESCO World Heritage Sites are places of special cultural or physical significance.",
+      "examRelevance": "UNESCO World Heritage List (April 2024) = Maratha Military Landscapes",
+      "tags": [
+        "UNESCO World Heritage",
+        "Maratha Military Landscapes",
+        "Forts",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "India's 'Maratha Military Landscapes' inscribed on UNESCO World Heritage List",
+        "url": "https://www.thehindu.com/news/national/indias-maratha-military-landscapes-inscribed-on-unesco-world-heritage-list/article69802028.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-06-q30",
+      "question": "Donald Trump is scheduled to participate in a Deepavali celebration at the White House. In which specific part of the White House will this event take place?",
+      "options": [
+        "Blue Room",
+        "Oval Office",
+        "State Dining Room",
+        "East Room"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Donald Trump is scheduled to participate in a Deepavali celebration at the White House, with the event taking place in the Oval Office. This continues a tradition initiated by President George W. Bush.",
+      "background": "Deepavali, also known as Diwali, is a major Hindu festival. The tradition of celebrating Deepavali at the White House signifies the recognition of diverse cultural traditions in the United States and engagement with the Indian-American community.",
+      "examRelevance": "Trump Deepavali celebration = White House Oval Office",
+      "tags": [
+        "Donald Trump",
+        "Deepavali",
+        "White House",
+        "Oval Office",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Trump to participate in Deepavali celebration at White House",
+        "url": "https://www.thehindu.com/news/international/trump-to-participate-in-deepavali-celebration-at-white-house/article71673084.ece"
+      }
+    }
+  ]
+}
