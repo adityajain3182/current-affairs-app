@@ -1,0 +1,764 @@
+{
+  "id": "daily-2026-11-07",
+  "type": "daily",
+  "date": "2026-11-07",
+  "title": "Current Affairs — 07 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-07-q1",
+      "question": "Nisha Bhagat, a tribal activist who recently passed away, was associated with which Indian state?",
+      "options": [
+        "Jharkhand",
+        "Odisha",
+        "West Bengal",
+        "Chhattisgarh"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Nisha Bhagat, a tribal activist from Jharkhand, passed away on November 6 after alleging harassment by the Hemant Soren-led State Government and land brokers in a Facebook Live session. Her last rites were held in Gumla, Jharkhand, and the BJP has demanded a CBI probe into her death.",
+      "background": "The incident highlights ongoing tensions related to governance and land issues in Jharkhand, often affecting tribal communities. Activists like Nisha Bhagat frequently bring public attention to alleged governmental shortcomings and corruption.",
+      "examRelevance": "Nisha Bhagat = Jharkhand tribal activist.",
+      "tags": [
+        "Nisha Bhagat",
+        "Jharkhand",
+        "Tribal activist",
+        "Hemant Soren"
+      ],
+      "source": {
+        "title": "Jharkhand tribal leader found dead after Facebook live; alleges harassment by Soren govt., land brokers",
+        "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-nisha-kumari-bhagat-tribal-activist-suicide-facebook-live-jmm-land-brokers/article71675291.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q2",
+      "question": "Who among the following officials is monitoring the counting of votes for the Mandal Parishad Territorial Constituencies (MPTC) and Zilla Parishad Territorial Constituencies (ZPTC) elections in Andhra Pradesh?",
+      "options": [
+        "J. Ravinder Goud",
+        "Seeram Sambasiva Rao",
+        "P. Ashok Gajapathy Raju",
+        "Anil Chandra Punetha"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "State Election Commissioner Anil Chandra Punetha and other top officials are monitoring the counting of votes for the MPTC and ZPTC elections in Andhra Pradesh. The counting is taking place at 365 centres across the state, with nearly 20,000 police personnel deployed for security.",
+      "background": "These elections are for local self-governing bodies at the Mandal and Zilla levels in Andhra Pradesh. The results are crucial for understanding the political landscape at the grassroots level and often reflect the prevailing public sentiment towards major state parties like TDP and YSRCP.",
+      "examRelevance": "Anil Chandra Punetha = Andhra Pradesh State Election Commissioner.",
+      "tags": [
+        "Andhra Pradesh",
+        "MPTC",
+        "ZPTC",
+        "Anil Chandra Punetha",
+        "Elections"
+      ],
+      "source": {
+        "title": "Andhra Pradesh MPTC, ZPTC election results LIVE: TDP leads in multiple Zilla, Mandal Parishads",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-mptc-zptc-election-results-live-updates-vote-counting-winners-tdp-ysrcp-bjp/article71677223.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q3",
+      "question": "An explosion recently occurred at a police outpost in which of the following cities, injuring one person?",
+      "options": [
+        "Noida",
+        "Meerut",
+        "Ghaziabad",
+        "Agra"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "An explosion occurred at a police outpost in Ghaziabad, Uttar Pradesh, injuring one person. A Sub-Inspector and a delivery boy were present at the location during the incident. An investigation has been initiated, and an ATS and bomb disposal team are at the site.",
+      "background": "Ghaziabad, a major industrial city in Uttar Pradesh, is part of the National Capital Region. Incidents involving police outposts often lead to heightened security alerts and thorough investigations by specialized agencies like the Anti-Terrorism Squad (ATS) to ascertain the cause and perpetrators.",
+      "examRelevance": "Ghaziabad = Location of police outpost explosion.",
+      "tags": [
+        "Ghaziabad",
+        "Uttar Pradesh",
+        "Explosion",
+        "Police outpost"
+      ],
+      "source": {
+        "title": "One injured in explosion at Ghaziabad police outpost; ATS, bomb disposal team at site",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/ghaziabad-police-outpost-bomb-blast-injured-ats-bomb-disposal-team-at-site/article71677524.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q4",
+      "question": "What is the title of Sonia Gandhi's recently released memoir?",
+      "options": [
+        "The Audacity of Hope: An Indian Story",
+        "My Truth: A Political Journey",
+        "The Accidental Prime Minister",
+        "Belonging: A Journey of Love"
+      ],
+      "answerIndex": 3,
+      "category": "Books & Authors",
+      "explanation": "Sonia Gandhi's much-awaited memoir is titled 'Belonging: A Journey of Love'. The book revisits her years of hesitation and personal conflict before she entered public life, detailing her journey from privacy to public service in India.",
+      "background": "Sonia Gandhi is a senior leader of the Indian National Congress party and served as its president for many years. Her memoir offers personal insights into her life, her relationship with Rajiv Gandhi, and her eventual deep commitment to India, providing a background to her political career.",
+      "examRelevance": "Sonia Gandhi's memoir = 'Belonging: A Journey of Love'.",
+      "tags": [
+        "Sonia Gandhi",
+        "Memoir",
+        "Belonging: A Journey of Love",
+        "Books"
+      ],
+      "source": {
+        "title": "‘I’d always disliked politics’ | An excerpt from Sonia Gandhi’s ‘Belonging: A Journey of Love’",
+        "url": "https://www.thehindu.com/books/excerpt-sonia-gandhi-memoir-belonging-family-duty-congress-party/article71655995.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q5",
+      "question": "Kalpen Parekh, who recently discussed asset allocation strategies for Diwali, is associated with which financial institution?",
+      "options": [
+        "HDFC Mutual Fund",
+        "SBI Mutual Fund",
+        "ICICI Prudential Mutual Fund",
+        "DSP Mutual Fund"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Kalpen Parekh, who provided insights on asset allocation strategies for investors during Diwali, is associated with DSP Mutual Fund. He recommended slowly adding equities after correction, maintaining debt for stability, and treating gold as a diversifier.",
+      "background": "DSP Mutual Fund is one of India's prominent asset management companies, offering a range of mutual fund products. Experts like Kalpen Parekh often share their views on market trends and investment strategies, especially during significant periods like Diwali when new investments are traditionally considered.",
+      "examRelevance": "Kalpen Parekh = DSP Mutual Fund.",
+      "tags": [
+        "Kalpen Parekh",
+        "DSP Mutual Fund",
+        "Asset allocation",
+        "Diwali"
+      ],
+      "source": {
+        "title": "Equities, debt or gold? Kalpen Parekh lays out the right asset allocation approach this Diwali",
+        "url": "https://economictimes.indiatimes.com/markets/expert-view/equities-debt-or-gold-kalpen-parekh-lays-out-the-right-asset-allocation-approach-this-diwali/articleshow/135629565.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q6",
+      "question": "Which Indian state recently secured 550 acres of land worth over ₹55,000 crores following a Supreme Court verdict that settled a 32-year-old dispute?",
+      "options": [
+        "Karnataka",
+        "Maharashtra",
+        "Telangana",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently settled a 32-year-old dispute, granting Telangana 550 acres of land worth ₹55,000 crores. This land was tied to historic jagir deeds, and the verdict marks a significant resolution for the state.",
+      "background": "Jagir lands were estates granted by rulers in exchange for services, and their ownership has been a complex issue in post-independence India. This Supreme Court decision clarifies land ownership, providing a substantial asset to the state of Telangana.",
+      "examRelevance": "Telangana = State granted 550 acres of land worth ₹55,000 crores by Supreme Court.",
+      "tags": [
+        "Telangana",
+        "Supreme Court",
+        "Land dispute",
+        "Jagir deeds"
+      ],
+      "source": {
+        "title": "How did Telangana get back land worth over ₹55,000 crores? | Explained",
+        "url": "https://www.thehindu.com/news/national/telangana/how-did-telangana-get-back-land-worth-over-55000-crores-after-supreme-court-verdict-explained/article71677463.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q7",
+      "question": "Which political leader recently proposed linking Voter ID with welfare programmes, a move that has drawn criticism from opposition parties?",
+      "options": [
+        "Mallikarjun Kharge",
+        "Pramod Sawant",
+        "Rajiv Ranjan Singh",
+        "Rahul Gandhi"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Rajiv Ranjan Singh made a proposal to link Voter ID with welfare programmes. Opposition parties have criticized this, arguing that it could lead to disenfranchisement and exclusion from welfare benefits, especially after reports of large-scale removal of electors from electoral rolls.",
+      "background": "The proposal by Rajiv Ranjan Singh, a prominent political figure, comes amidst ongoing debates about electoral reforms and the delivery of welfare schemes. The controversy stems from concerns that such a linkage could weaponize welfare access and impact voting rights.",
+      "examRelevance": "Rajiv Ranjan Singh = Proposed linking Voter ID with welfare programmes.",
+      "tags": [
+        "Rajiv Ranjan Singh",
+        "Voter ID",
+        "Welfare programmes",
+        "Polity"
+      ],
+      "source": {
+        "title": "Voter ID for welfare? What Rajiv Ranjan Singh’s proposal could mean | Explained",
+        "url": "https://www.thehindu.com/news/national/voter-id-for-welfare-what-rajiv-ranjan-singhs-proposal-could-mean/article71677492.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q8",
+      "question": "Which BJP MLA was recently inducted into the Goa cabinet by Governor P. Ashok Gajapathy Raju?",
+      "options": [
+        "Sankalp Amonkar",
+        "Vishwajit Rane",
+        "Rohan Khaunte",
+        "Nilesh Cabral"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "BJP MLA Sankalp Amonkar was recently inducted into the Goa cabinet. Governor P. Ashok Gajapathy Raju administered the oath of office and secrecy to Mr. Amonkar at a ceremony held at Lok Bhavan in Dona Paula, in the presence of Chief Minister Pramod Sawant.",
+      "background": "Cabinet reshuffles and inductions are common political events that aim to strengthen governance, bring in new perspectives, or fill vacant ministerial positions. Sankalp Amonkar's induction reflects a strategic move within the Goa state government led by Chief Minister Pramod Sawant.",
+      "examRelevance": "Sankalp Amonkar = BJP MLA inducted into Goa cabinet.",
+      "tags": [
+        "Sankalp Amonkar",
+        "Goa cabinet",
+        "BJP",
+        "Appointments"
+      ],
+      "source": {
+        "title": "BJP MLA Sankalp Amonkar inducted into Goa cabinet",
+        "url": "https://www.thehindu.com/news/national/goa/bjp-mla-sankalp-amonkar-inducted-into-goa-cabinet/article71677484.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q9",
+      "question": "Who is the U.S. Treasury Secretary who recently held a call with Chinese Vice Premier He Lifeng to discuss economic and trade commitments?",
+      "options": [
+        "Steven Mnuchin",
+        "Janet Yellen",
+        "Timothy Geithner",
+        "Scott Bessent"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "U.S. Treasury Secretary Scott Bessent held a call with Chinese Vice Premier He Lifeng. They discussed economic and trade commitments over the last year, raising trade 'concerns' as the APEC summit approaches.",
+      "background": "Economic dialogue between the U.S. and China is crucial for global trade stability. These high-level discussions often precede major international forums like APEC, where leaders address economic cooperation and resolve trade disputes.",
+      "examRelevance": "Scott Bessent = U.S. Treasury Secretary.",
+      "tags": [
+        "Scott Bessent",
+        "U.S. Treasury Secretary",
+        "China",
+        "Trade"
+      ],
+      "source": {
+        "title": "Top U.S., China officials raise trade 'concerns' as APEC approaches",
+        "url": "https://www.thehindu.com/news/international/top-us-china-officials-raise-trade-concerns-as-apec-approaches/article71677476.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q10",
+      "question": "An OIL facility fire that resulted in two deaths and five injuries recently occurred in which Indian state?",
+      "options": [
+        "Gujarat",
+        "Assam",
+        "Odisha",
+        "Rajasthan"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "An OIL facility fire in Assam resulted in the death of two workers, with five others sustaining injuries and undergoing treatment. The incident highlights the risks associated with industrial operations in the oil sector.",
+      "background": "Assam is a significant oil-producing state in India, hosting several major oil and gas facilities. Industrial accidents, particularly in high-risk sectors like oil and gas, often lead to investigations into safety protocols and operational standards.",
+      "examRelevance": "Assam = Location of OIL facility fire resulting in two deaths.",
+      "tags": [
+        "Assam",
+        "OIL facility",
+        "Fire accident",
+        "Industrial safety"
+      ],
+      "source": {
+        "title": "Assam OIL facility fire death toll rises to two",
+        "url": "https://www.thehindu.com/news/national/assam/assam-oil-facility-fire-death-toll-rises-to-two/article71677435.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q11",
+      "question": "Deepinder Goyal, who recently defended the 'Temple' wearable device, is the founder of which Indian company?",
+      "options": [
+        "Zomato",
+        "Byju's",
+        "Ola",
+        "Swiggy"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Deepinder Goyal, the founder of Zomato and Eternal vice chairman, recently defended the 'Temple' wearable device, which he backs. He has publicly stated that Temple is a fitness and wellness device, not a medical one, amidst criticism from medical professionals.",
+      "background": "Deepinder Goyal is a prominent figure in the Indian startup ecosystem, known for co-founding the food delivery giant Zomato. His involvement in the 'Temple' wearable device highlights the trend of entrepreneurs diversifying into the health and wellness technology sector.",
+      "examRelevance": "Deepinder Goyal = Founder of Zomato, backs 'Temple' wearable.",
+      "tags": [
+        "Deepinder Goyal",
+        "Zomato",
+        "Temple wearable",
+        "Science & Tech"
+      ],
+      "source": {
+        "title": "TheLiverDoc, Deepinder Goyal spar again",
+        "url": "https://economictimes.indiatimes.com/tech/tech-bytes/theliverdoc-deepinder-goyal-spar-again-as-doctor-dubs-temples-entropy-scienceploitation/articleshow/135628748.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q12",
+      "question": "Which state government recently sanctioned ₹198 crore as an honorarium for officials involved in the 2026 Assembly election?",
+      "options": [
+        "Karnataka",
+        "Kerala",
+        "Andhra Pradesh",
+        "Tamil Nadu"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Tamil Nadu government sanctioned ₹198 crore as an honorarium for officials and staff members involved in the 2026 Assembly election. The Government order specifies that one month's basic pay, subject to a maximum of ₹45,000, whichever is less, will be paid.",
+      "background": "Elections in India are massive logistical exercises, requiring the deployment of a large number of government employees. Providing an honorarium is a standard practice to compensate these officials for their duties beyond their regular responsibilities, especially during a significant event like a state assembly election.",
+      "examRelevance": "Tamil Nadu = Sanctioned ₹198 crore honorarium for 2026 Assembly election officials.",
+      "tags": [
+        "Tamil Nadu",
+        "Election",
+        "Honorarium",
+        "2026 Assembly election"
+      ],
+      "source": {
+        "title": "Tamil Nadu govt sanctions ₹198 crore as honorarium for officials involved in 2026 Assembly election",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-govt-sanctions-198-crore-as-honorarium-for-officials-involved-in-2026-assembly-election/article71677340.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q13",
+      "question": "The 'Vetri Laptop Scheme', for which CM Vijay ordered a ₹2,000-crore allocation, will be implemented for college students in which state?",
+      "options": [
+        "Andhra Pradesh",
+        "Kerala",
+        "Telangana",
+        "Tamil Nadu"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "CM Vijay ordered a ₹2,000-crore allocation to implement the 'Vetri Laptop Scheme' for college students in Tamil Nadu. Under this scheme, students pursuing first and second-year undergraduate and diploma courses in government and government-aided colleges during the 2026-2027 academic year will be eligible for laptops.",
+      "background": "Laptop distribution schemes for students are common initiatives by state governments to promote digital literacy and ensure equitable access to educational resources. The 'Vetri Laptop Scheme' aims to empower students in Tamil Nadu by providing them with essential tools for their academic pursuits.",
+      "examRelevance": "Vetri Laptop Scheme = Tamil Nadu government scheme for college students.",
+      "tags": [
+        "Vetri Laptop Scheme",
+        "Tamil Nadu",
+        "Education",
+        "Government schemes"
+      ],
+      "source": {
+        "title": "CM Vijay orders ₹2,000-crore allocation to implement Vetri Laptop Scheme for college students",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-orders-2000-crore-allocation-to-implement-vetri-laptop-scheme-for-college-students/article71677364.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q14",
+      "question": "Which former Excise Commissioner of Kerala recently submitted a report flagging corruption and bribery in the department?",
+      "options": [
+        "Rishi Raj Singh",
+        "Jacob Punnoose",
+        "Seeram Sambasiva Rao",
+        "T.P. Senkumar"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Former Kerala Excise Commissioner Seeram Sambasiva Rao submitted a report to the State government shortly before being relieved from his post, flagging corruption and bribery within the department. The report also mentioned that Excise Minister M. Liju was acquainted with one of the bar owners allegedly involved in the transactions.",
+      "background": "Reports of corruption in government departments, especially those dealing with revenue like excise, are serious matters. Such reports often lead to political controversy and demands for investigation, particularly when allegations involve high-ranking officials or ministers.",
+      "examRelevance": "Seeram Sambasiva Rao = Former Kerala Excise Commissioner.",
+      "tags": [
+        "Seeram Sambasiva Rao",
+        "Kerala",
+        "Excise Department",
+        "Corruption"
+      ],
+      "source": {
+        "title": "Ex-Keralam Excise Commissioner flags corruption, bribery in report to govt; CPI(M) alleges Minister’s involvement",
+        "url": "https://www.thehindu.com/news/national/kerala/ex-keralam-excise-commissioner-flags-corruption-bribery-in-report-to-govt-cpim-alleges-ministers-involvement/article71677415.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q15",
+      "question": "Which Indian state's E20 report, claiming high ethanol content in vehicular fuel, was recently refuted by state-owned Oil Marketing Companies (OMCs)?",
+      "options": [
+        "Gujarat",
+        "Uttar Pradesh",
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "State-owned Oil Marketing Companies (OMCs) refuted Karnataka's E20 report. The OMCs stated that 56 samples tested by them from across the state reported an average 19.3% ethanol content, contradicting Karnataka's claims of higher ethanol presence in vehicular fuel.",
+      "background": "India is promoting E20 fuel (20% ethanol blended with petrol) to reduce reliance on crude oil imports and cut carbon emissions. Discrepancies in ethanol content reports can lead to concerns about fuel quality, supply chain integrity, and the efficacy of the blending program.",
+      "examRelevance": "Karnataka = State whose E20 report was refuted by OMCs.",
+      "tags": [
+        "Karnataka",
+        "E20 fuel",
+        "OMCs",
+        "Ethanol blending"
+      ],
+      "source": {
+        "title": "OMCs refute Karnataka’s E20 report, seeks additional details about procedure",
+        "url": "https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q16",
+      "question": "The Air Quality Index (AQI) in Delhi was recently reported as 364, falling into which category?",
+      "options": [
+        "Poor",
+        "Moderate",
+        "Very Poor",
+        "Severe"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Delhi's air quality was recently reported as 'very poor' with an Air Quality Index (AQI) reading of 364. In response to the worsening air quality, the Delhi Directorate of Education directed all government and private schools to conduct classes up to Class 5 in hybrid mode.",
+      "background": "Delhi frequently faces severe air pollution, particularly during the winter months, due to factors like vehicular emissions, industrial pollution, stubble burning in neighboring states, and meteorological conditions. An AQI between 301-400 is classified as 'very poor', indicating significant health risks.",
+      "examRelevance": "Delhi AQI 364 = 'Very Poor'.",
+      "tags": [
+        "Delhi",
+        "AQI",
+        "Air pollution",
+        "Environment"
+      ],
+      "source": {
+        "title": "Delhi air ‘very poor’ with AQI reading of 364",
+        "url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-very-poor-with-aqi-reading-of-364/article71677336.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q17",
+      "question": "Which former Chief Election Commissioner (CEC) recently stated that the West Bengal election is not legally valid?",
+      "options": [
+        "S.Y. Quraishi",
+        "V.S. Sampath",
+        "N. Gopalaswami",
+        "T.S. Krishnamurthy"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Former Chief Election Commissioner (CEC) S.Y. Quraishi recently stated that the West Bengal election is not legally valid. He also emphasized that the Election Commission of India is supposed to make decisions based on a majority.",
+      "background": "The Election Commission of India (ECI) is an autonomous constitutional authority responsible for administering election processes in India. Comments from former CECs often carry significant weight in public discourse regarding electoral integrity and constitutional procedures.",
+      "examRelevance": "S.Y. Quraishi = Former CEC, commented on West Bengal election validity.",
+      "tags": [
+        "S.Y. Quraishi",
+        "CEC",
+        "West Bengal election",
+        "Election Commission"
+      ],
+      "source": {
+        "title": "West Bengal election is not legally valid: Former CEC S.Y. Quraishi",
+        "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-election-is-not-legally-validformer-cec-sy-quraishi/article71674557.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q18",
+      "question": "Who is the Iranian Army Spokesperson who recently stated that Iran's armed forces are 'stronger' than at the beginning of the war?",
+      "options": [
+        "Ali Fadavi",
+        "Mohammad Akraminia",
+        "Hossein Salami",
+        "Gholamali Rashid"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "Iranian Army Spokesperson Mohammad Akraminia recently stated that the Islamic Republic's armed forces are stronger than they were at the beginning of the war, having gained experience from direct confrontation with the United States and Israel.",
+      "background": "Iran's military capabilities and its posture in regional and international conflicts are subjects of constant scrutiny. Statements from official spokespersons like Mohammad Akraminia often reflect the country's strategic messaging regarding its defense readiness and geopolitical standing.",
+      "examRelevance": "Mohammad Akraminia = Iranian Army Spokesperson.",
+      "tags": [
+        "Mohammad Akraminia",
+        "Iran",
+        "Defence",
+        "Military"
+      ],
+      "source": {
+        "title": "Iran says forces 'stronger' than at beginning of war",
+        "url": "https://www.thehindu.com/news/international/iran-says-forces-stronger-than-at-beginning-of-war/article71677400.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q19",
+      "question": "Which Australian cricketer recently disputed the findings in the 2018 'Sandpapergate' ball-tampering probe?",
+      "options": [
+        "Cameron Bancroft",
+        "Usman Khawaja",
+        "Steve Smith",
+        "David Warner"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Australian cricketer Usman Khawaja recently disputed the findings in the 2018 'Sandpapergate' ball-tampering probe. This scandal, which involved Australia scuffing the ball with sandpaper during a test match in Cape Town, sparked a major integrity crisis for Cricket Australia.",
+      "background": "The 'Sandpapergate' incident was a defining moment in Australian cricket, leading to significant bans for key players and a widespread review of team culture. Khawaja's recent comments bring renewed attention to the controversy and its lingering impact on those involved.",
+      "examRelevance": "Usman Khawaja = Australian cricketer, disputed 2018 ball-tampering probe findings.",
+      "tags": [
+        "Usman Khawaja",
+        "Cricket",
+        "Sandpapergate",
+        "Australia"
+      ],
+      "source": {
+        "title": "Australian cricketer Usman Khawaja disputes findings in 2018 ball-tampering probe",
+        "url": "https://www.thehindu.com/sport/cricket/australian-cricketer-usman-khawaja-disputes-findings-in-2018-ball-tampering-probe/article71677394.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q20",
+      "question": "The new Vande Bharat Express service, which is expected to disrupt the schedules of 13 existing trains, will run between which two cities?",
+      "options": [
+        "Chennai and Mysuru",
+        "Bengaluru and Goa",
+        "Mumbai and Ahmedabad",
+        "Delhi and Varanasi"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "The new Bengaluru-Goa Vande Bharat Express is expected to disrupt the schedules of 13 existing trains. This route will pass through the Western Ghats, affecting approximately 15,000 passengers.",
+      "background": "Vande Bharat Express trains are modern, semi-high-speed electric multiple-unit trains introduced by Indian Railways. Their introduction on new routes often necessitates adjustments to the schedules of other trains to accommodate the new services and optimize rail traffic.",
+      "examRelevance": "Bengaluru-Goa = New Vande Bharat Express route.",
+      "tags": [
+        "Vande Bharat Express",
+        "Bengaluru",
+        "Goa",
+        "Indian Railways"
+      ],
+      "source": {
+        "title": "Bengaluru-Goa Vande Bharat to disrupt 13 trains",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/railways/bengaluru-goa-vande-bharat-which-will-pass-through-western-ghats-to-affect-15000-passengers-and-disrupt-schedules-of-13-existing-trains-including-gomteshwara-express-and-vistadome-service-check-affected-trains-and-other-details/articleshow/135627617.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q21",
+      "question": "Which community in Arunachal Pradesh has been protesting against the Siang Upper Multipurpose Project, alleging it threatens their land and livelihoods?",
+      "options": [
+        "Galo",
+        "Adi",
+        "Apatani",
+        "Nyishi"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The Adi community in Arunachal Pradesh has been protesting against the Siang Upper Multipurpose Project. They allege that the dam threatens their land, livelihoods, and civilization, and that the State government has used deceit and force to gain consent for the feasibility study.",
+      "background": "Large-scale hydroelectric projects in ecologically sensitive and tribal-inhabited areas often face resistance due to concerns over displacement, environmental impact, and disruption of traditional ways of life. The Siang river is a major tributary of the Brahmaputra, and dam projects on it have long been contentious.",
+      "examRelevance": "Adi community = Protesting Siang Upper Multipurpose Project in Arunachal Pradesh.",
+      "tags": [
+        "Adi community",
+        "Siang Dam",
+        "Arunachal Pradesh",
+        "Environment",
+        "Protest"
+      ],
+      "source": {
+        "title": "The Siang dam and a threatened homeland",
+        "url": "https://www.thehindu.com/news/national/arunachal-pradesh/siang-dam-and-a-threatened-homeland-in-arunachal-pradesh/article71675266.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q22",
+      "question": "Who is the captain of the Indian cricket team that won the toss and chose to bowl first in the second ODI against New Zealand?",
+      "options": [
+        "KL Rahul",
+        "Rohit Sharma",
+        "Hardik Pandya",
+        "Shubman Gill"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "India captain Shubman Gill won a delayed toss and chose to bowl first in the second One-Day International (ODI) against New Zealand. This decision was made in Wellington, New Zealand.",
+      "background": "Shubman Gill is an emerging talent in Indian cricket, often captaining the team in certain formats or series. Winning the toss and opting to bowl first is a strategic decision often influenced by pitch conditions, weather, and the team's strengths.",
+      "examRelevance": "Shubman Gill = India's captain in ODI against New Zealand.",
+      "tags": [
+        "Shubman Gill",
+        "Cricket",
+        "India",
+        "New Zealand",
+        "ODI"
+      ],
+      "source": {
+        "title": "NZL vs IND second ODI: India wins toss, to bowl first",
+        "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-second-odi-wellington-november-7-2026/article71677380.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q23",
+      "question": "Which writer's expose on substandard books containing erroneous historical information in the Periyar Arivulagam library led the Madras High Court to call for an inquiry?",
+      "options": [
+        "Perumal Murugan",
+        "Chetan Bhagat",
+        "Amish Tripathi",
+        "Arundhati Roy"
+      ],
+      "answerIndex": 0,
+      "category": "Books & Authors",
+      "explanation": "Writer Perumal Murugan's expose on substandard books containing grossly erroneous historical information making their way into the shelves of the Periyar Arivulagam in Coimbatore prompted the Madras High Court to call for an inquiry two years ago.",
+      "background": "Perumal Murugan is a renowned Tamil writer whose works often delve into social and cultural issues. The 'library book scam' highlights concerns about the quality control and procurement processes for public libraries, especially regarding factual accuracy in educational materials.",
+      "examRelevance": "Perumal Murugan = Writer who exposed substandard books in Periyar Arivulagam.",
+      "tags": [
+        "Perumal Murugan",
+        "Library book scam",
+        "Madras High Court",
+        "Periyar Arivulagam"
+      ],
+      "source": {
+        "title": "Library book ‘scam’: Madras High Court had sounded warning two years ago, called for enquiry",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/library-book-scam-madras-high-court-had-sounded-warning-two-years-ago-called-for-enquiry/article71677381.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q24",
+      "question": "Which Indian state is observing a faster rise in lung cancer cases among women compared to men?",
+      "options": [
+        "Karnataka",
+        "Tamil Nadu",
+        "Kerala",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "Data indicates that while men account for a higher number of lung cancer cases in Karnataka, the incidence among women is increasing at a faster rate. This trend highlights a significant public health concern in the state.",
+      "background": "Lung cancer is a leading cause of cancer-related deaths globally. A faster rise in cases among women in a particular region could be attributed to various factors including changing lifestyle patterns, increased exposure to risk factors like indoor air pollution, or specific genetic predispositions.",
+      "examRelevance": "Karnataka = State with faster rising lung cancer among women.",
+      "tags": [
+        "Karnataka",
+        "Lung cancer",
+        "Women's health",
+        "Public health"
+      ],
+      "source": {
+        "title": "Lung cancer rising faster among women in Karnataka",
+        "url": "https://www.thehindu.com/news/national/karnataka/lung-cancer-rising-faster-among-women-in-karnataka/article71674996.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q25",
+      "question": "The United States recently offered a reward for information on Iran's nuclear program. What is the amount of this reward?",
+      "options": [
+        "$20 million",
+        "$50 million",
+        "$10 million",
+        "$5 million"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The U.S. State Department's Rewards for Justice program recently offered a $20 million reward for information on Iran's nuclear program. CENTCOM announced this, though specific parameters for what information would yield the reward were not detailed.",
+      "background": "The U.S. has long expressed concerns about Iran's nuclear ambitions, suspecting that its program could be used for developing nuclear weapons. Offering rewards for information is a tactic used in international intelligence gathering to monitor and counter proliferation efforts.",
+      "examRelevance": "US reward for Iran nuclear program information = $20 million.",
+      "tags": [
+        "United States",
+        "Iran",
+        "Nuclear program",
+        "Rewards for Justice"
+      ],
+      "source": {
+        "title": "United States offers $20 million reward for information on 'Iran's nuclear program': CENTCOM",
+        "url": "https://www.thehindu.com/news/international/united-states-offers-20-million-reward-for-information-on-irans-nuclear-program-centcom/article71677324.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q26",
+      "question": "A Child Development Centre in Kerala recently received a ₹35-lakh grant to study which specific health-related issue?",
+      "options": [
+        "Diabetes in children",
+        "Childhood obesity",
+        "Autism-related parental grief",
+        "Malnutrition in infants"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "The Child Development Centre in Kerala received a ₹35-lakh grant for a three-year project to study autism-related parental grief. The project will examine chronic sorrow and coping mechanisms in families with Autism Spectrum Disorder (ASD).",
+      "background": "Autism Spectrum Disorder (ASD) is a complex developmental condition. Research into the emotional and psychological impact on parents, such as chronic sorrow and coping mechanisms, is crucial for developing better support systems and interventions for families affected by ASD.",
+      "examRelevance": "Kerala Child Development Centre = ₹35-lakh grant to study autism-related parental grief.",
+      "tags": [
+        "Kerala",
+        "Child Development Centre",
+        "Autism",
+        "Parental grief",
+        "Healthcare"
+      ],
+      "source": {
+        "title": "Keralam Child Development Centre gets ₹35-lakh grant to study autism-related parental grief",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-child-development-centre-gets-35-lakh-grant-to-study-autism-related-parental-grief/article71674060.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q27",
+      "question": "From which city was an IT engineer recently arrested for allegedly threatening Bollywood actors by claiming association with the Lawrence Bishnoi gang?",
+      "options": [
+        "Bengaluru",
+        "Mumbai",
+        "Hyderabad",
+        "Delhi"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "An IT engineer from Bengaluru was recently arrested for allegedly contacting celebrities through Instagram, claiming to be associated with the Lawrence Bishnoi gang, and issuing threats while demanding money from Bollywood actors. He has been remanded in police custody.",
+      "background": "Threats to public figures, especially celebrities, are a recurring issue, often involving extortion attempts. The use of social media platforms like Instagram for such crimes highlights the evolving nature of criminal activities in the digital age.",
+      "examRelevance": "Bengaluru = City from which IT engineer was arrested for threatening Bollywood actors.",
+      "tags": [
+        "Bengaluru",
+        "Bollywood actors",
+        "Threats",
+        "Cybercrime"
+      ],
+      "source": {
+        "title": "Bengaluru IT engineer arrested for threatening Bollywood actors, remanded in police custody till November 10",
+        "url": "https://www.thehindu.com/news/cities/mumbai/bengaluru-it-engineer-arrested-for-threatening-bollywood-actors-remanded-in-police-custody-till-november-10/article71674893.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q28",
+      "question": "Jay Rockefeller, a former U.S. Senator and healthcare advocate who recently passed away at 89, was the great-grandson of which famous oil tycoon?",
+      "options": [
+        "Andrew Carnegie",
+        "John D. Rockefeller",
+        "Henry Ford",
+        "Cornelius Vanderbilt"
+      ],
+      "answerIndex": 1,
+      "category": "Obituaries",
+      "explanation": "Jay Rockefeller, a tall, soft-spoken Democrat and former U.S. Senator, passed away at 89. He was the great-grandson of the famed oil tycoon John D. Rockefeller and came from a prominent political dynasty, known for his liberal views and advocacy for healthcare.",
+      "background": "The Rockefeller family is one of America's most influential and wealthy families, with a legacy spanning business, philanthropy, and politics. Jay Rockefeller continued this legacy through his long career in public service, notably as a Senator from West Virginia.",
+      "examRelevance": "Jay Rockefeller = Great-grandson of John D. Rockefeller, former U.S. Senator.",
+      "tags": [
+        "Jay Rockefeller",
+        "Obituaries",
+        "U.S. Senator",
+        "John D. Rockefeller"
+      ],
+      "source": {
+        "title": "Jay Rockefeller, heir to famed dynasty and healthcare advocate in U.S. Senate, dies at 89",
+        "url": "https://www.thehindu.com/news/international/jay-rockefeller-heir-to-famed-dynasty-and-healthcare-advocate-in-us-senate-dies-at-89/article71674682.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q29",
+      "question": "Who was recently conferred the Dr. Rajendra Prasad Award for Academic Excellence by the Vice President?",
+      "options": [
+        "Dr. C.N.R. Rao",
+        "Dr. M.S. Swaminathan",
+        "Dr. A.P.J. Abdul Kalam",
+        "Professor K. Chockalingam"
+      ],
+      "answerIndex": 3,
+      "category": "Awards & Honours",
+      "explanation": "Professor K. Chockalingam was recently conferred the Dr. Rajendra Prasad Award for Academic Excellence by the Vice President. This honour celebrates his academic career spanning over five decades, marked by pioneering work in criminology and victimology.",
+      "background": "The Dr. Rajendra Prasad Award recognizes outstanding contributions to academic excellence in various fields. Professor Chockalingam's work in criminology and victimology has been significant, contributing to a deeper understanding of crime, justice, and support for victims.",
+      "examRelevance": "Professor K. Chockalingam = Recipient of Dr. Rajendra Prasad Award for Academic Excellence.",
+      "tags": [
+        "K. Chockalingam",
+        "Dr. Rajendra Prasad Award",
+        "Awards & Honours",
+        "Criminology",
+        "Victimology"
+      ],
+      "source": {
+        "title": "Vice President confers Dr. Rajendra Prasad Award for Academic Excellence on Professor K. Chockalingam",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/briefly-vice-president-confers-dr-rajendra-prasad-award-for-academic-excellence-on-professor-k-chockalingam/article71677284.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-07-q30",
+      "question": "Which company's CFO recently stated that it would press ahead with data-centre expansion despite a midterm sweep?",
+      "options": [
+        "Amazon",
+        "Microsoft",
+        "OpenAI",
+        "Google"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "OpenAI's CFO recently stated that the company would press ahead with its data-centre expansion plans despite a midterm sweep. OpenAI is a corporate face of the AI boom and is moving quickly to counter fears that a shift in congressional power could slow the industry's growth.",
+      "background": "OpenAI is at the forefront of artificial intelligence development, known for products like ChatGPT. Data centers are critical infrastructure for AI operations, and their expansion reflects the company's commitment to scaling its AI capabilities and addressing growing demand, regardless of political shifts.",
+      "examRelevance": "OpenAI = Company pressing ahead with data-centre expansion.",
+      "tags": [
+        "OpenAI",
+        "Data centre",
+        "AI",
+        "Technology"
+      ],
+      "source": {
+        "title": "OpenAI to press ahead with data-centre expansion despite midterm sweep, CFO says",
+        "url": "https://www.thehindu.com/sci-tech/technology/openai-to-press-ahead-with-data-centre-expansion-despite-midterm-sweep-cfo-says/article71677198.ece"
+      }
+    }
+  ]
+}
