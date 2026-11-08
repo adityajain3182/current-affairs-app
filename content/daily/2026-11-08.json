@@ -1,0 +1,766 @@
+{
+  "id": "daily-2026-11-08",
+  "type": "daily",
+  "date": "2026-11-08",
+  "title": "Current Affairs — 08 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-08-q1",
+      "question": "What was the approximate percentage decline in contributions received by the Indian National Congress in 2024-25 compared to the previous period, as per its report to the Election Commission of India?",
+      "options": [
+        "25%",
+        "50%",
+        "90%",
+        "75%"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Indian National Congress reported a decline of nearly 75% in contributions for the financial year 2024-25, receiving ₹517.39 crore, which is the sharpest fall in a decade.",
+      "background": "Political parties in India are required to submit their contribution reports to the Election Commission of India annually. This decline comes amidst ongoing political and electoral dynamics.",
+      "examRelevance": "Indian National Congress donations fell nearly 75% to ₹517.39 crore in 2024-25.",
+      "tags": [
+        "Congress",
+        "Donations",
+        "Election Commission",
+        "Political Funding"
+      ],
+      "source": {
+        "title": "Congress donations fall nearly 75%, sharpest decline in a decade",
+        "url": "https://www.thehindu.com/news/national/congress-donations-fall-nearly-75-sharpest-decline-in-a-decade/article71680699.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q2",
+      "question": "Hari Boxer, a member of the Lawrence Bishnoi gang, was recently detained in which country, with extradition process underway?",
+      "options": [
+        "Canada",
+        "United Kingdom",
+        "Australia",
+        "United States"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Hari Boxer, a key member of the Lawrence Bishnoi gang, was detained in the United States. The Rajasthan Anti-Gangster Task Force (AGTF) coordinated with international agencies like the CBI and Interpol for his detention and ongoing extradition process.",
+      "background": "This detention highlights international cooperation in combating organized crime and the efforts of Indian law enforcement agencies to bring wanted criminals back to India.",
+      "examRelevance": "Lawrence Bishnoi gang member Hari Boxer detained in the U.S. for extradition.",
+      "tags": [
+        "Hari Boxer",
+        "Lawrence Bishnoi",
+        "Extradition",
+        "United States"
+      ],
+      "source": {
+        "title": "Lawrence Bishnoi gang member Hari Boxer detained in U.S., extradition process underway",
+        "url": "https://www.thehindu.com/news/national/lawrence-bishnoi-gang-member-hari-boxer-detained-in-us-extradition-process-underway/article71680607.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q3",
+      "question": "Who is the first South Asian Mayor-elect of Los Angeles, who previously worked on urban planning among the urban poor in Chennai?",
+      "options": [
+        "Pramila Jayapal",
+        "Kamala Harris",
+        "Ro Khanna",
+        "Nithya Raman"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Nithya Raman has been elected as the first South Asian Mayor-elect of Los Angeles. Prior to her career in U.S. politics, she worked as an urban planner in Chennai, focusing on slum resettlement and public facilities.",
+      "background": "Raman's election marks a significant milestone for South Asian representation in U.S. politics and reflects a growing trend of diverse leaders in public office.",
+      "examRelevance": "Nithya Raman is the first South Asian Mayor-elect of Los Angeles.",
+      "tags": [
+        "Nithya Raman",
+        "Los Angeles",
+        "South Asian",
+        "Mayor-elect"
+      ],
+      "source": {
+        "title": "Nithya Raman | The urban planner",
+        "url": "https://www.thehindu.com/news/international/nithya-raman-the-urban-planner/article71679301.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q4",
+      "question": "Which strategic waterway has seen traffic restrictions and incidents involving tankers, leading Indian Oil Corporation (IOC) to plan the purchase of crude and LPG carriers?",
+      "options": [
+        "Suez Canal",
+        "Strait of Hormuz",
+        "Bab-el-Mandeb Strait",
+        "Strait of Malacca"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The Strait of Hormuz has experienced traffic restrictions and incidents, including two tankers catching fire after hitting mines, since the outbreak of the Iran war. These disruptions have driven up freight costs, prompting Indian Oil Corporation (IOC) to plan the purchase of crude and LPG carriers and explore shipbuilding in India.",
+      "background": "The Strait of Hormuz is a critically important global chokepoint for oil shipments, connecting the Persian Gulf to the open ocean. Disruptions here significantly impact global energy markets and supply chains.",
+      "examRelevance": "Strait of Hormuz disruptions lead IOC to buy crude, LPG carriers.",
+      "tags": [
+        "Strait of Hormuz",
+        "Iran War",
+        "Indian Oil Corporation",
+        "Energy Security"
+      ],
+      "source": {
+        "title": "Iran says two tankers caught fire in Hormuz after hitting mines",
+        "url": "https://www.thehindu.com/news/international/iran-says-two-tankers-caught-fire-in-hormuz-after-hitting-mines/article71680557.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q5",
+      "question": "Which country recently held an election where neither of the major parties, Christopher Luxon’s National party or Chris Hipkins’ Labour, secured a clear victory, leading to weeks of uncertainty?",
+      "options": [
+        "Australia",
+        "Ireland",
+        "Canada",
+        "New Zealand"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "New Zealand recently held an election that resulted in a hung parliament, with neither Christopher Luxon’s centre-right National party nor Chris Hipkins’ centre-left Labour party securing a clear majority. This outcome means it will take weeks to form a government.",
+      "background": "The election delivered a stinging rebuke to the traditional major parties, with smaller parties making significant gains, indicating a shift in the political landscape.",
+      "examRelevance": "New Zealand election results in no clear majority for major parties.",
+      "tags": [
+        "New Zealand",
+        "Election",
+        "Christopher Luxon",
+        "Chris Hipkins"
+      ],
+      "source": {
+        "title": "New Zealanders won’t know for weeks who won election as neither side secures clear victory",
+        "url": "https://www.thehindu.com/news/international/new-zealanders-wont-know-for-weeks-who-won-election-as-neither-side-secures-clear-victory/article71680680.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q6",
+      "question": "Prime Minister Narendra Modi is scheduled to celebrate Deepavali with armed forces personnel in which region of India, known for its past Maoist influence?",
+      "options": [
+        "Gadchiroli",
+        "Dantewada",
+        "Sukma",
+        "Bastar"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Prime Minister Narendra Modi is slated to celebrate Deepavali with armed forces personnel in Bastar, Chhattisgarh. This region was historically a stronghold of Maoist insurgency, but is now experiencing development.",
+      "background": "PM Modi has a tradition of celebrating festivals like Deepavali with soldiers on the borders or in challenging areas, aiming to boost their morale and highlight the nation's gratitude for their service.",
+      "examRelevance": "PM Modi to celebrate Deepavali with forces in Bastar.",
+      "tags": [
+        "PM Modi",
+        "Deepavali",
+        "Bastar",
+        "Armed Forces"
+      ],
+      "source": {
+        "title": "PM Modi to celebrate Deepavali with forces in Bastar that was once den of Maoists",
+        "url": "https://www.thehindu.com/news/national/pm-modi-deepavali-celebration-soldiers-bastar-november-8-2026/article71680574.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q7",
+      "question": "What term is used to refer to the group of Indian-American elected officials in U.S. politics, whose increasing influence is noted to potentially impact India-U.S. relations on civil rights causes?",
+      "options": [
+        "Samosa Caucus",
+        "Chai Caucus",
+        "Desi Caucus",
+        "Curry Caucus"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The term 'Samosa Caucus' refers to the growing number of Indian-American elected officials in the U.S. Congress and state legislatures. Their increasing presence and readiness to address civil rights issues in India are noted to potentially pose a new challenge for India-U.S. diplomatic relations.",
+      "background": "The 'Samosa Caucus' is an informal term, similar to the 'Black Caucus' or 'Hispanic Caucus,' used to describe American politicians of Indian descent. Their rise reflects the growing political engagement and influence of the Indian diaspora in the U.S.",
+      "examRelevance": "Samosa Caucus refers to Indian-American elected officials in U.S. politics.",
+      "tags": [
+        "Samosa Caucus",
+        "Indian-American",
+        "U.S. Politics",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Delhi faces new challenge from Samosa caucus",
+        "url": "https://www.thehindu.com/news/national/delhi-faces-new-challenge-from-samosa-caucus/article71680519.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q8",
+      "question": "Defence Minister Rajnath Singh recently paid tributes to brave soldiers at Sherethang, located in which Indian state?",
+      "options": [
+        "Sikkim",
+        "Uttarakhand",
+        "Arunachal Pradesh",
+        "Himachal Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Defence",
+      "explanation": "Defence Minister Rajnath Singh recently visited Sherethang in Sikkim to pay tributes to brave soldiers. During his visit, he also paid respects at the Baba Harbhajan Singh Mandir, which holds significant importance for army personnel.",
+      "background": "Sikkim is a strategically important border state in India, sharing frontiers with Nepal, Bhutan, and China. Visits by high-ranking officials to such areas are common to review operational preparedness and boost troop morale.",
+      "examRelevance": "Rajnath Singh visited Sherethang in Sikkim to pay tributes to soldiers.",
+      "tags": [
+        "Rajnath Singh",
+        "Sikkim",
+        "Sherethang",
+        "Indian Army"
+      ],
+      "source": {
+        "title": "Rajnath Singh pays tributes to brave soldiers at Sherethang in Sikkim",
+        "url": "https://www.thehindu.com/news/national/rajnath-singh-pays-tributes-to-brave-soldiers-at-sherethang-in-sikkim/article71680677.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q9",
+      "question": "Which Indian state's police force recently secured the deportation of wanted gangster Afridi after a 10-month international manhunt, with a ₹5 lakh reward announced for information leading to his arrest?",
+      "options": [
+        "Haryana",
+        "Punjab",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Punjab police successfully secured the deportation of wanted gangster Afridi after a 10-month international manhunt. The Punjab government had previously announced a reward of ₹5 lakh for information leading to his arrest.",
+      "background": "This operation highlights the expanding reach of Indian law enforcement agencies in combating organized crime and pursuing criminals who flee the country, often in coordination with international partners.",
+      "examRelevance": "Punjab police secured deportation of gangster Afridi after a 10-month manhunt.",
+      "tags": [
+        "Punjab Police",
+        "Afridi",
+        "Gangster",
+        "Deportation"
+      ],
+      "source": {
+        "title": "Deportation of wanted Punjab gangster Afridi secured after 10-month international manhunt",
+        "url": "https://www.thehindu.com/news/national/punjab/deportation-of-wanted-punjab-gangster-afridi-secured-after-10-month-international-manhunt/article71680508.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q10",
+      "question": "Whose birthday, coinciding with Deepavali, was recently celebrated by the BJP with a puja and havan, acknowledging his contributions to Indian politics?",
+      "options": [
+        "Atal Bihari Vajpayee",
+        "Murli Manohar Joshi",
+        "L.K. Advani",
+        "Yashwant Sinha"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Bharatiya Janata Party (BJP) celebrated the birthday of L.K. Advani, coinciding with Deepavali, with a puja and havan. The event was organized to commemorate his life, dedication to the nation, organizational contributions, and long public career.",
+      "background": "L.K. Advani is a veteran leader of the BJP and a key figure in Indian politics, having served as Deputy Prime Minister and Home Minister. His birthday is often observed by party members to honor his legacy.",
+      "examRelevance": "BJP celebrated L.K. Advani's birthday on Deepavali.",
+      "tags": [
+        "L.K. Advani",
+        "BJP",
+        "Deepavali",
+        "Indian Politics"
+      ],
+      "source": {
+        "title": "BJP celebrates Advani’s birthday with puja, havan; leaders laud his role in Indian politics",
+        "url": "https://www.thehindu.com/news/national/bjp-celebrates-advanis-birthday-with-puja-havan-leaders-laud-his-role-in-indian-politics/article71680681.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q11",
+      "question": "Who has been named as the vice-captain of India A for the Rising Stars Asia Cup following Patidar's withdrawal?",
+      "options": [
+        "Washington Sundar",
+        "Tilak Varma",
+        "Dhruv Jurel",
+        "Rinku Singh"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Rinku Singh has been named as the vice-captain of India A for the upcoming Rising Stars Asia Cup. This appointment follows the withdrawal of Patidar from the squad.",
+      "background": "The Rising Stars Asia Cup is a platform for emerging cricketers from Asian nations to showcase their talent. Appointments to leadership roles in 'A' teams often signal a player's potential for higher honors.",
+      "examRelevance": "Rinku Singh named India A vice-captain for Rising Stars Asia Cup.",
+      "tags": [
+        "Rinku Singh",
+        "India A",
+        "Cricket",
+        "Vice-captain",
+        "Rising Stars Asia Cup"
+      ],
+      "source": {
+        "title": "Rinku Singh named India A vice-captain",
+        "url": "https://economictimes.indiatimes.com/news/sports/cricket/rinku-singh-named-india-a-vice-captain-for-rising-stars-asia-cup-after-patidar-withdraws/articleshow/135653380.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q12",
+      "question": "Adani Enterprises plans an annual capital expenditure of approximately what amount for the next two years, aiming to scale up businesses like airports and data centres?",
+      "options": [
+        "₹20,000-25,000 crore",
+        "₹50,000-55,000 crore",
+        "₹35,000-40,000 crore",
+        "₹10,000-15,000 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Adani Enterprises plans an annual capital expenditure of ₹35,000-40,000 crore for the next two years. This substantial spending is aimed at scaling up its diverse businesses, including airports and data centres, and bringing large manufacturing investments closer to commercial operation.",
+      "background": "Capital expenditure (capex) refers to money spent by a business to acquire or upgrade physical assets such as property, industrial buildings, or equipment. Such large-scale investments indicate significant growth plans and confidence in future market opportunities.",
+      "examRelevance": "Adani Enterprises plans ₹35,000-40,000 crore annual capex for the next two years.",
+      "tags": [
+        "Adani Enterprises",
+        "Capital Expenditure",
+        "Airports",
+        "Data Centres",
+        "Business"
+      ],
+      "source": {
+        "title": "Adani Enterprises plans ₹35,000-40,000 crore annual capex in next two years",
+        "url": "https://www.thehindu.com/business/Industry/adani-enterprises-plans-35000-40000-crore-annual-capex-in-next-two-years/article71680605.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q13",
+      "question": "Which Indian state experienced a swing from drought to deluge due to two back-to-back cyclones, causing an estimated ₹6,500 crore in damage and 17 deaths?",
+      "options": [
+        "Tamil Nadu",
+        "West Bengal",
+        "Andhra Pradesh",
+        "Odisha"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Andhra Pradesh experienced a severe impact from two back-to-back cyclones, leading to a dramatic shift from drought conditions to widespread flooding. These events caused an estimated ₹6,500 crore in damage and resulted in at least 17 deaths.",
+      "background": "The coastal regions of India are frequently affected by cyclones, especially during the post-monsoon season. Such events often highlight vulnerabilities in infrastructure and agriculture, requiring significant recovery efforts.",
+      "examRelevance": "Andhra Pradesh suffered ₹6,500 crore damage and 17 deaths from two cyclones.",
+      "tags": [
+        "Andhra Pradesh",
+        "Cyclones",
+        "Monsoon",
+        "Natural Disaster"
+      ],
+      "source": {
+        "title": "News in Frames: Many twists in the monsoon’s tale",
+        "url": "https://www.thehindu.com/photos/news-in-frames-many-twists-in-the-monsoons-tale/article71680539.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q14",
+      "question": "Which English football club recently suffered its third consecutive Premier League loss, allowing Arsenal to open a 6-point lead in the standings?",
+      "options": [
+        "Liverpool",
+        "Manchester United",
+        "Manchester City",
+        "Chelsea"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Manchester City recently suffered its third straight loss in the Premier League, falling to Nottingham Forest. This defeat allowed Arsenal to extend its lead at the top of the table to six points.",
+      "background": "Manchester City is one of the most successful clubs in English football in recent years. A three-game losing streak is unusual for them and signifies a significant shift in the title race dynamics.",
+      "examRelevance": "Manchester City suffered third straight Premier League loss, Arsenal leads by 6 points.",
+      "tags": [
+        "Manchester City",
+        "Premier League",
+        "Football",
+        "Arsenal"
+      ],
+      "source": {
+        "title": "Man City suffers third straight Premier League loss at Forest and Arsenal opens 6-point lead",
+        "url": "https://www.thehindu.com/sport/football/man-city-suffers-third-straight-premier-league-loss-at-forest-and-arsenal-opens-6-point-lead/article71680621.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q15",
+      "question": "Kishore Biyani, associated with the Future Group, is currently facing charges in a bank fraud case involving what approximate amount?",
+      "options": [
+        "₹904 crore",
+        "₹704 crore",
+        "₹1,104 crore",
+        "₹504 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Kishore Biyani, founder of the Future Group, is facing charges in a bank fraud case amounting to approximately ₹904 crore. This development is part of the ongoing investigations into the collapse of his retail empire.",
+      "background": "The Future Group, once a retail giant, faced severe financial troubles, leading to its eventual insolvency. This case highlights the challenges and risks associated with large-scale business operations and corporate governance.",
+      "examRelevance": "Kishore Biyani faces charges in ₹904 crore bank fraud case related to Future Retail.",
+      "tags": [
+        "Kishore Biyani",
+        "Future Retail",
+        "Bank Fraud",
+        "Economy"
+      ],
+      "source": {
+        "title": "Kishore Biyani, Future Retail and the ₹904-crore bank fraud case: What led to the Group’s collapse?",
+        "url": "https://www.thehindu.com/business/Industry/kishore-biyani-future-retail-cbi-defrauding-charges-reliance-amazon-deal/article71677462.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q16",
+      "question": "India A recently dominated Day 2 of a cricket match against which country's 'A' team, taking a 428-run lead?",
+      "options": [
+        "Australia A",
+        "England A",
+        "New Zealand A",
+        "South Africa A"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "India A dominated Day 2 of their cricket match against New Zealand A, posting 464 for five declared after resuming at 227 for two. Fifties by skipper Dhruv Jurel (71), Tilak Varma (81 not out), and Washington Sundar (50 not out) helped them take a commanding 428-run lead.",
+      "background": "India A tours and matches against other 'A' teams are crucial for developing future international players and providing them with exposure to different conditions and competition levels.",
+      "examRelevance": "India A took a 428-run lead against New Zealand A on Day 2.",
+      "tags": [
+        "India A",
+        "New Zealand A",
+        "Cricket",
+        "Dhruv Jurel",
+        "Tilak Varma"
+      ],
+      "source": {
+        "title": "India A take 428-run lead to dominate day 2 against NZ A",
+        "url": "https://www.thehindu.com/sport/cricket/india-a-take-428-run-lead-to-dominate-day-2-against-nz-a/article71680608.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q17",
+      "question": "A mass shooting recently occurred in which city of Poland, resulting in multiple deaths and injuries?",
+      "options": [
+        "Gdansk",
+        "Warsaw",
+        "Wroclaw",
+        "Krakow"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "A mass shooting recently took place in Krakow, Poland, where a gunman drove into the city's Main Square and opened fire, killing six people and injuring 15 others. Police subsequently shot and wounded the assailant.",
+      "background": "Mass shootings are rare in Poland, and this incident has drawn significant international attention. Investigations are ongoing, and the suspect is reported to have far-right views.",
+      "examRelevance": "Mass shooting occurred in Krakow, Poland, killing six people.",
+      "tags": [
+        "Krakow",
+        "Poland",
+        "Mass Shooting",
+        "International Incident"
+      ],
+      "source": {
+        "title": "Gunman kills 5, injures 12 in Poland’s Krakow shooting attack",
+        "url": "https://www.thehindu.com/news/international/gunman-kills-5-injures-12-in-polands-krakow-shooting-attack/article71679139.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q18",
+      "question": "Who recently turned down an offer from Donald Trump to become the White House Press Secretary?",
+      "options": [
+        "Tucker Carlson",
+        "Dana White",
+        "Elon Musk",
+        "Vince McMahon"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "Dana White, the chief of the Ultimate Fighting Championship (UFC), recently turned down an offer from Donald Trump to serve as the White House Press Secretary.",
+      "background": "Donald Trump, a former U.S. President, has a history of engaging with prominent figures from sports and entertainment. The White House Press Secretary is a high-profile role, serving as the primary spokesperson for the U.S. President.",
+      "examRelevance": "UFC chief Dana White turned down Donald Trump's offer for White House Press Secretary.",
+      "tags": [
+        "Dana White",
+        "Donald Trump",
+        "White House",
+        "Press Secretary",
+        "UFC"
+      ],
+      "source": {
+        "title": "Trump offers UFC boss press secretary post, urges criminal probes of Democrats",
+        "url": "https://www.thehindu.com/news/international/trump-says-he-wants-ufc-chief-dana-white-for-white-house-press-secretary/article71679478.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q19",
+      "question": "A strong earthquake recently struck central Japan, causing injuries and disruptions, with its epicenter located in which prefecture?",
+      "options": [
+        "Hokkaido",
+        "Tokyo",
+        "Osaka",
+        "Shizuoka"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "A strong earthquake, with a preliminary magnitude of 5.7, struck central Japan at 1:04 a.m. Its epicenter was located approximately 40 kilometers below the Earth’s surface in Shizuoka Prefecture. The quake caused injuries to at least 22 people and disrupted bullet train services.",
+      "background": "Japan is situated on the 'Ring of Fire,' a seismically active zone, and regularly experiences earthquakes. Its buildings and infrastructure are designed to withstand significant seismic activity, but strong quakes can still cause damage and disruption.",
+      "examRelevance": "Strong earthquake struck central Japan, epicenter in Shizuoka Prefecture.",
+      "tags": [
+        "Japan",
+        "Earthquake",
+        "Shizuoka Prefecture",
+        "Natural Disaster"
+      ],
+      "source": {
+        "title": "Strong earthquake shakes central Japan, shattering store windows, injuring at least 22",
+        "url": "https://www.thehindu.com/news/international/strong-earthquake-strikes-japan/article71680450.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q20",
+      "question": "Who has been tasked by the Israeli President to try and form a new government, in a move seen as a setback for Benjamin Netanyahu?",
+      "options": [
+        "Benny Gantz",
+        "Naftali Bennett",
+        "Gadi Eisenkot",
+        "Yair Lapid"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Israeli President has picked Gadi Eisenkot, a former military chief and a rival of Benjamin Netanyahu, to try and form a new government. Eisenkot has declined to join forces with Arab parties, which would have given him a parliamentary majority.",
+      "background": "Israel's political landscape is often fragmented, leading to frequent coalition negotiations and challenges in forming stable governments. This decision signals a potential shift away from Benjamin Netanyahu's leadership.",
+      "examRelevance": "Israeli President tasked Gadi Eisenkot to form a new government.",
+      "tags": [
+        "Gadi Eisenkot",
+        "Israel",
+        "Government Formation",
+        "Benjamin Netanyahu"
+      ],
+      "source": {
+        "title": "Israeli President picks Gadi Eisenkot, Netanyahu rival, to try to form government",
+        "url": "https://www.thehindu.com/news/international/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-government/article71679477.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q21",
+      "question": "The Bombay High Court recently ruled that Section 75 of the Bhartiya Nyaya Sanhita (BNS) can be applied even if the complainant identifies as what, thereby expanding its scope?",
+      "options": [
+        "A person with disability",
+        "A minor",
+        "A foreign national",
+        "A transgender person"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Bombay High Court recently ruled that Section 75 of the Bhartiya Nyaya Sanhita (BNS) can be applied even if the complainant identifies as a transgender person, rejecting the argument that the section cannot apply because the complainant is not a cisgender woman.",
+      "background": "This ruling is significant as it broadens the interpretation and applicability of legal provisions to include transgender individuals, reflecting evolving legal recognition and protection for gender identities beyond the binary.",
+      "examRelevance": "Bombay High Court allowed BNS Section 75 charge where complainant identifies as a transgender person.",
+      "tags": [
+        "Bombay High Court",
+        "BNS Section 75",
+        "Transgender Rights",
+        "Legal Ruling"
+      ],
+      "source": {
+        "title": "Bombay High Court allows BNS Section 75 charge where complainant identifies as woman",
+        "url": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-allows-bns-section-75-charge-where-complainant-identifies-as-woman/article71678923.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q22",
+      "question": "Which major economic policy decision, announced by Prime Minister Narendra Modi, recently marked its 10th anniversary with reports on its unmet aims regarding cash usage and fake notes?",
+      "options": [
+        "Jan Dhan Yojana",
+        "Goods and Services Tax (GST) implementation",
+        "Demonetisation",
+        "Make in India initiative"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "This Deepavali marks 10 years since Prime Minister Narendra Modi announced the overnight demonetisation of 86% of the country’s cash. Reports indicate that some stated aims of the move, such as reducing cash usage and curbing fake notes, largely remain unmet.",
+      "background": "Demonetisation was a significant economic shock implemented in November 2016, with stated objectives of tackling black money, counterfeit currency, and terrorism financing. Its long-term impacts and effectiveness remain subjects of debate.",
+      "examRelevance": "Demonetisation marked its 10th anniversary with reports on unmet aims.",
+      "tags": [
+        "Demonetisation",
+        "Narendra Modi",
+        "Economic Policy",
+        "Cash Usage"
+      ],
+      "source": {
+        "title": "10 years since demonetisation: Cash usage unchanged, fake notes on the rise",
+        "url": "https://www.thehindu.com/business/10-years-since-demonetisation-cash-usage-unchanged-fake-notes-on-the-rise/article71673986.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q23",
+      "question": "Which prominent Indian fast bowler is being discussed in the context of 'the end of an era in Indian Test cricket,' placing him among the pantheon of great Indian seamers?",
+      "options": [
+        "Ishant Sharma",
+        "Umesh Yadav",
+        "Bhuvneshwar Kumar",
+        "Mohammed Shami"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Mohammed Shami, a prominent Indian fast bowler, is being discussed as marking 'the end of an era in Indian Test cricket.' He is recognized for his significant impact on games and is placed in the same league as other great Indian seamers like Kapil Dev and Jasprit Bumrah.",
+      "background": "Mohammed Shami has been a crucial part of India's Test bowling attack for many years, known for his ability to pick up wickets in various conditions. Discussions about the 'end of an era' often arise as veteran players near retirement or transition their careers.",
+      "examRelevance": "Mohammed Shami discussed as 'end of an era' in Indian Test cricket.",
+      "tags": [
+        "Mohammed Shami",
+        "Cricket",
+        "Test Cricket",
+        "Indian Fast Bowler"
+      ],
+      "source": {
+        "title": "Mohammed Shami: The end of an era in Indian Test cricket",
+        "url": "https://www.thehindu.com/sport/cricket/mohammed-shami-the-end-of-an-era-in-indian-test-cricket/article71677693.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q24",
+      "question": "On Deepavali, which Indian city recorded an Air Quality Index (AQI) close to 'severe' at 383, with Jahangirpuri recording the highest at 450?",
+      "options": [
+        "Delhi",
+        "Chennai",
+        "Kolkata",
+        "Mumbai"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "On Deepavali, Delhi woke up to a toxic haze, recording an Air Quality Index (AQI) close to 'severe' at 383. Specifically, Jahangirpuri recorded the highest AQI at 450, followed by RK Puram at 448, according to the Sameer app.",
+      "background": "Delhi frequently faces severe air pollution during the winter months, exacerbated by factors such as stubble burning in neighboring states, vehicular emissions, industrial pollution, and fireworks during festivals like Deepavali.",
+      "examRelevance": "Delhi recorded 'severe' AQI of 383 on Deepavali, Jahangirpuri highest at 450.",
+      "tags": [
+        "Delhi",
+        "AQI",
+        "Air Pollution",
+        "Deepavali",
+        "Environment"
+      ],
+      "source": {
+        "title": "Delhi wakes up to toxic haze on Deepavali, close to 'severe' AQI at 383",
+        "url": "https://www.thehindu.com/news/cities/Delhi/delhi-wakes-up-to-toxic-haze-on-deepavali-close-to-severe-aqi-at-383/article71680540.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q25",
+      "question": "How many food establishments were inspected by the FSSAI during its nationwide enforcement drive between September 1 and November 5, leading to the seizure of 3,280 tonnes of non-compliant food items?",
+      "options": [
+        "78,431",
+        "34,431",
+        "56,431",
+        "12,431"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The Food Safety and Standards Authority of India (FSSAI) inspected 56,431 food establishments during its nationwide enforcement drive conducted between September 1 and November 5. This drive resulted in the seizure of 3,280 tonnes of non-compliant food products and the cancellation of 52 licenses.",
+      "background": "The FSSAI regularly conducts inspection drives to ensure food safety and quality standards across the country, especially during festive seasons when demand for food items like sweets increases.",
+      "examRelevance": "FSSAI inspected 56,431 food establishments, seized 3,280 tonnes of food, and cancelled 52 licenses.",
+      "tags": [
+        "FSSAI",
+        "Food Safety",
+        "Inspection Drive",
+        "Food Seizure"
+      ],
+      "source": {
+        "title": "FSSAI seizes 3,280 tonne food items, cancels 52 licences in nationwide inspection drive",
+        "url": "https://www.thehindu.com/news/national/fssai-seizes-3280-tonne-food-items-cancels-52-licences-in-nationwide-inspection-drive/article71680460.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q26",
+      "question": "The recently ousted President of which South American country has been charged with crimes linked to the collapse of a major bank?",
+      "options": [
+        "Brazil",
+        "Paraguay",
+        "Uruguay",
+        "Argentina"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Paraguay's recently ousted President has been charged with crimes linked to the collapse of a major bank. He was ousted on Friday (November 6) and expressed hope his departure would spare Paraguay further harm.",
+      "background": "Political instability and corruption scandals, especially those involving financial institutions, can have significant impacts on a country's economy and international standing. Such events often lead to legal proceedings against former leaders.",
+      "examRelevance": "Paraguay's ousted President charged with crimes linked to bank collapse.",
+      "tags": [
+        "Paraguay",
+        "President",
+        "Bank Collapse",
+        "International"
+      ],
+      "source": {
+        "title": "Paraguay's ousted President charged with crimes linked to collapse of major bank",
+        "url": "https://www.thehindu.com/news/international/paraguays-ousted-president-charged-with-crimes-linked-to-collapse-of-major-bank/article71680452.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q27",
+      "question": "Which Indian museum was recently ranked among the best in the world by a German publication, highlighting its contribution to the development of Indian civilization?",
+      "options": [
+        "National Museum, New Delhi",
+        "Indian Museum, Kolkata",
+        "Bihar Museum, Patna",
+        "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, Mumbai"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "The Bihar Museum in Patna was recently ranked among the best in the world by a German publication. The museum is recognized for its significant contribution to understanding and showcasing the development of Indian civilization.",
+      "background": "The Bihar Museum houses a rich collection of artifacts that trace the history and culture of Bihar, which has been a pivotal region in Indian history. International recognition brings prestige and potentially more visitors to such institutions.",
+      "examRelevance": "Bihar Museum ranked among the best in the world by a German publication.",
+      "tags": [
+        "Bihar Museum",
+        "Patna",
+        "Art & Culture",
+        "Museums",
+        "Indian Civilization"
+      ],
+      "source": {
+        "title": "A bridge between past and present",
+        "url": "https://www.thehindu.com/news/national/bihar/a-bridge-between-past-and-present/article71678324.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q28",
+      "question": "The U.S. military recently disabled a St. Kitts-flagged cargo vessel in which Gulf, after it attempted to depart regional waters following a visit to an Iranian port?",
+      "options": [
+        "Gulf of Aden",
+        "Gulf of Oman",
+        "Persian Gulf",
+        "Gulf of Mexico"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "The U.S. military disabled a St. Kitts-flagged cargo vessel in the Gulf of Oman. This action occurred after the vessel attempted to depart regional waters having visited an Iranian port, and a U.S. plane fired precision munitions at its stern.",
+      "background": "The Gulf of Oman is a strategically important waterway, connecting the Strait of Hormuz to the Arabian Sea. Incidents involving commercial vessels and military forces in this region often relate to international sanctions, maritime security, or regional tensions.",
+      "examRelevance": "U.S. military disabled cargo vessel in Gulf of Oman.",
+      "tags": [
+        "U.S. Military",
+        "Gulf of Oman",
+        "Cargo Vessel",
+        "Defence"
+      ],
+      "source": {
+        "title": "U.S. military says it disabled cargo vessel in Gulf of Oman",
+        "url": "https://www.thehindu.com/news/international/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman/article71679590.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q29",
+      "question": "Gurdial Singh Bhangu, who recently passed away at 86, was a celebrated coach associated with which Indian sport, known for leading the women's team to a Commonwealth Games victory?",
+      "options": [
+        "Hockey",
+        "Athletics",
+        "Football",
+        "Badminton"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Gurdial Singh Bhangu, a celebrated Indian hockey coach, passed away recently at the age of 86. He is famously associated with the Indian women’s hockey team's memorable 3-2 victory over England in the final at Manchester, where they became Commonwealth Games champions.",
+      "background": "Bhangu's contribution to Indian hockey, particularly women's hockey, was significant. Such figures are crucial in shaping the careers of athletes and bringing laurels to the nation in international sports.",
+      "examRelevance": "Gurdial Singh Bhangu, Indian hockey coach, passed away at 86.",
+      "tags": [
+        "Gurdial Singh Bhangu",
+        "Hockey",
+        "Obituary",
+        "Commonwealth Games"
+      ],
+      "source": {
+        "title": "India hockey coach Gurdial Singh Bhangu dies at 86",
+        "url": "https://www.thehindu.com/sport/hockey/india-hockey-coach-gurdial-singh-bhangu-dies-at-86/article71679461.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-08-q30",
+      "question": "Which Bangladeshi cricketer recently became the fourth batter from his country to hit a double century and the highest individual scorer in Tests, during a match against West Indies?",
+      "options": [
+        "Towhid Hridoy",
+        "Tamim Iqbal",
+        "Mushfiqur Rahim",
+        "Shakib Al Hasan"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Towhid Hridoy recently made history by becoming the fourth Bangladeshi batter to score a double century in Test cricket. In the second Test against West Indies, he also surpassed Mushfiqur Rahim’s 219 to become the highest individual scorer for Bangladesh in Tests.",
+      "background": "Scoring a double century in Test cricket is a significant achievement for any batter. For Bangladesh, a relatively newer Test-playing nation, such records indicate the growing talent and maturity of their cricketing prowess.",
+      "examRelevance": "Towhid Hridoy became Bangladesh's highest individual Test scorer with a double century.",
+      "tags": [
+        "Towhid Hridoy",
+        "Bangladesh Cricket",
+        "Test Cricket",
+        "Double Century",
+        "Record"
+      ],
+      "source": {
+        "title": "Towhid Hridoy hits record-breaking double century for Bangladesh in second Test against West Indies",
+        "url": "https://www.thehindu.com/sport/cricket/towhid-hridoy-hits-record-breaking-double-century-for-bangladesh-in-second-test-against-west-indies/article71679460.ece"
+      }
+    }
+  ]
+}
