@@ -1,0 +1,809 @@
+{
+  "id": "daily-2026-11-09",
+  "type": "daily",
+  "date": "2026-11-09",
+  "title": "Current Affairs — 09 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-09-q1",
+      "question": "On Deepavali, which Indian state recorded the season’s biggest single-day jump in farm fires, with 1,152 incidents?",
+      "options": [
+        "Uttar Pradesh",
+        "Punjab",
+        "Haryana",
+        "Rajasthan"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Punjab recorded the season’s biggest single-day jump in farm fires on Deepavali, with 1,152 incidents reported. This significant rise occurred despite government advisories and enforcement measures against crop residue burning.",
+      "background": "Crop residue burning, commonly known as stubble burning, is a major contributor to air pollution in northern India, especially during the post-monsoon harvest season, affecting air quality in Delhi and surrounding regions.",
+      "examRelevance": "Punjab recorded 1,152 farm fires, the highest single-day jump of the season, on Deepavali.",
+      "tags": [
+        "Punjab",
+        "farm fires",
+        "stubble burning",
+        "Deepavali",
+        "air pollution"
+      ],
+      "source": {
+        "title": "At 1,152, Punjab records season’s biggest single-day jump in farm fires on Deepavali",
+        "url": "https://www.thehindu.com/news/national/punjab/punjab-records-seasons-biggest-single-day-jump-in-farm-fires-on-deepavali/article71681771.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q2",
+      "question": "As of early November, what percentage of its combined capacity was the aggregate storage in Tamil Nadu's major 15 irrigation reservoirs, indicating a potential water crisis?",
+      "options": [
+        "About a third",
+        "Around two-thirds",
+        "Approximately 50%",
+        "Nearly 75%"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "As of early November, the aggregate storage in Tamil Nadu’s major 15 irrigation reservoirs was about a third of their combined capacity. This low storage level signals a potential water crisis unless the northeast monsoon provides significant relief.",
+      "background": "In the corresponding period last year, the combined storage in these reservoirs was around 92%, highlighting a drastic reduction in water availability this year. The northeast monsoon is crucial for replenishing the state's water resources.",
+      "examRelevance": "Tamil Nadu's major 15 irrigation reservoirs hold about a third of their combined capacity.",
+      "tags": [
+        "Tamil Nadu",
+        "water crisis",
+        "irrigation reservoirs",
+        "northeast monsoon",
+        "water storage"
+      ],
+      "source": {
+        "title": "T.N. may be heading towards a water crisis, unless northeast monsoon comes to the rescue",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-may-be-heading-towards-a-water-crisis-unless-northeast-monsoon-comes-to-the-rescue/article71678260.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q3",
+      "question": "Which High Court recently questioned the feasibility of using helicopters for sea drowning rescue operations while hearing a habeas corpus plea related to a 17-year-old swept away by high tides?",
+      "options": [
+        "Andhra Pradesh High Court",
+        "Karnataka High Court",
+        "Madras High Court",
+        "Kerala High Court"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Madras High Court, comprising Justices A.D. Jagadish Chandira and B. Karthikeyan, suo motu impleaded the Maritime Rescue Coordination Centre in a habeas corpus plea. The court questioned why helicopters could not be used for sea drowning rescue operations after a 17-year-old was reportedly swept away by high tides.",
+      "background": "A habeas corpus plea is a legal action that allows an individual to report an unlawful detention or imprisonment to a court and request that the court order the custodian of the person to bring the prisoner to court, to determine whether the detention is lawful. The court’s intervention highlights concerns over existing sea rescue protocols.",
+      "examRelevance": "Madras High Court questioned the use of helicopters for sea drowning rescue operations.",
+      "tags": [
+        "Madras High Court",
+        "sea rescue",
+        "helicopters",
+        "habeas corpus",
+        "Maritime Rescue Coordination Centre"
+      ],
+      "source": {
+        "title": "Why can’t helicopters be used for sea drowning rescue operations, asks Madras High Court",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/why-cant-helicopters-be-used-for-sea-drowning-rescue-operations-asks-madras-high-court/article71681473.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q4",
+      "question": "According to provisional exchange data, what was the net value of Indian shares purchased by Foreign Institutional Investors (FIIs) during the five trading sessions ended on November 6, 2026?",
+      "options": [
+        "₹35,960 crore",
+        "₹40,960 crore",
+        "₹45,960 crore",
+        "₹50,960 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Provisional exchange data show that Foreign Institutional Investors (FIIs) purchased Indian shares worth a net ₹45,960 crore during the five trading sessions ended on November 6, 2026. This trend indicates a return of FPIs into Indian equities.",
+      "background": "Foreign Portfolio Investors (FPIs), which include FIIs, play a crucial role in the Indian stock market by bringing in foreign capital. Their investment trends are often seen as an indicator of global investor confidence in the Indian economy.",
+      "examRelevance": "FIIs purchased Indian shares worth a net ₹45,960 crore by November 6, 2026.",
+      "tags": [
+        "FIIs",
+        "FPIs",
+        "Indian equities",
+        "stock market",
+        "foreign investment"
+      ],
+      "source": {
+        "title": "Early November trend indicates return of FPIs into Indian equities",
+        "url": "https://www.thehindu.com/business/Industry/early-november-trend-indicates-return-of-fpis-into-indian-equities/article71681716.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q5",
+      "question": "The UN chief recently stated that the world is entering an \"age of climate extremes.\" This statement came as which UN organization released a report indicating exceptional global temperatures, melting ice, and rising sea levels in 2026?",
+      "options": [
+        "World Meteorological Organization (WMO)",
+        "Intergovernmental Panel on Climate Change (IPCC)",
+        "UN Environment Programme (UNEP)",
+        "UN Development Programme (UNDP)"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The UN chief stated that the world is entering an \"age of climate extremes.\" This announcement coincided with the UN’s World Meteorological Organization (WMO) releasing a report which indicated that 2026 has continued a streak of exceptional global temperatures, melting ice, and rising sea levels.",
+      "background": "The WMO is a specialized agency of the United Nations responsible for promoting international cooperation on atmospheric science, climatology, hydrology and geophysics. Its reports provide authoritative information on the state of the global climate.",
+      "examRelevance": "UN chief statement on \"age of climate extremes\" linked to World Meteorological Organization (WMO) report.",
+      "tags": [
+        "UN chief",
+        "climate extremes",
+        "WMO",
+        "World Meteorological Organization",
+        "global temperatures",
+        "climate change"
+      ],
+      "source": {
+        "title": "World entering ‘age of climate extremes’: UN chief",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/world-entering-age-of-climate-extremes-un-chief/article71681846.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q6",
+      "question": "A man accused of rape and murder was recently killed in an exchange of fire with police in Raiganj. Raiganj is located in which Indian state?",
+      "options": [
+        "Bihar",
+        "Odisha",
+        "Jharkhand",
+        "West Bengal"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "A man accused of raping and murdering his 13-year-old niece in Raiganj, West Bengal, was killed in an exchange of fire with police. This incident marks the fourth such \"encounter\" in the state since the BJP came to power.",
+      "background": "Police encounters, where suspects are killed in alleged self-defence during confrontations, are a contentious issue in India, often raising questions about human rights and due process. Previous incidents in West Bengal included two rape suspects in Gaighata and Baruipur and a murder suspect in Dhulian.",
+      "examRelevance": "A rape-murder accused was killed in a police encounter in Raiganj, West Bengal.",
+      "tags": [
+        "Raiganj",
+        "West Bengal",
+        "police encounter",
+        "rape-murder accused",
+        "law and order"
+      ],
+      "source": {
+        "title": "Another ‘encounter’ in West Bengal: Rape-murder accused killed in Raiganj",
+        "url": "https://www.thehindu.com/news/national/west-bengal/rape-murder-accused-killed-in-police-encounter-raiganj-west-bengal/article71681373.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q7",
+      "question": "Nvidia is currently investigating reports that its CEO, Jensen Huang, was targeted by Chinese intelligence. Nvidia is a leading company in which industry?",
+      "options": [
+        "Biotechnology",
+        "Semiconductor manufacturing",
+        "Financial services",
+        "Automotive manufacturing"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Nvidia is investigating reports that its CEO, Jensen Huang, was targeted by Chinese intelligence. This announcement followed Huang acknowledging to the board that he had been intimate with a business executive whom U.S. intelligence determined was gathering information for Beijing. Nvidia is a prominent semiconductor company.",
+      "background": "Jensen Huang is the co-founder, president, and CEO of Nvidia, a company renowned for designing graphics processing units (GPUs) for the gaming and professional markets, as well as chipsets for the mobile computing and automotive markets. The incident highlights concerns about corporate espionage and national security in the tech sector.",
+      "examRelevance": "Nvidia, a semiconductor company, is investigating its CEO Jensen Huang being targeted by Chinese intelligence.",
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Chinese intelligence",
+        "semiconductor",
+        "corporate espionage"
+      ],
+      "source": {
+        "title": "Nvidia investigating reports that CEO Jensen Huang was targeted by Chinese intelligence",
+        "url": "https://www.thehindu.com/sci-tech/technology/nvidia-investigating-reports-that-ceo-jensen-huang-was-targeted-by-chinese-intelligence/article71681239.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q8",
+      "question": "Alice Huang, also known as Huang Le, is a Chinese executive accused of spying on Nvidia CEO Jensen Huang. She was reportedly a top figure at which Singapore-based data centre company?",
+      "options": [
+        "Megaspeed International",
+        "Equinix Singapore",
+        "Singtel Data Services",
+        "Global Switch Singapore"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Alice Huang, also known as Huang Le, is a Chinese executive accused of spying on Nvidia CEO Jensen Huang. Public details about her are sparse, but she was reportedly a top figure at Megaspeed International, a Singapore-based data centre company.",
+      "background": "The alleged espionage case involving a high-profile technology CEO and a foreign intelligence operative underscores the increasing geopolitical tensions and the importance of intellectual property protection in the global technology landscape.",
+      "examRelevance": "Alice Huang, accused of spying on Nvidia CEO, was a top figure at Megaspeed International.",
+      "tags": [
+        "Alice Huang",
+        "Huang Le",
+        "Nvidia",
+        "Jensen Huang",
+        "Megaspeed International",
+        "Chinese intelligence"
+      ],
+      "source": {
+        "title": "Who is Alice Huang, Chinese executive accused of spying on Nvidia CEO?",
+        "url": "https://www.thehindu.com/news/international/who-is-alice-huang-chinese-executive-accused-of-spying-on-nvidia-ceo/article71681625.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q9",
+      "question": "Which political party recently alleged \"data fraud\" regarding missing air quality data in several monitoring stations in Delhi, amidst the ongoing air pollution crisis?",
+      "options": [
+        "Indian National Congress",
+        "Bharatiya Janata Party (BJP)",
+        "Bahujan Samaj Party (BSP)",
+        "Aam Aadmi Party (AAP)"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Aam Aadmi Party (AAP) alleged \"data fraud\" concerning air quality data in Delhi. This accusation arose after several monitoring stations of the Delhi Government reportedly showed missing data at the peak of air pollution during the intervening night of November 8 and 9.",
+      "background": "Delhi consistently faces severe air pollution challenges, especially during the winter months, exacerbated by factors like stubble burning, vehicular emissions, and industrial pollution. Accurate and transparent air quality data is crucial for formulating effective mitigation strategies.",
+      "examRelevance": "AAP alleged \"data fraud\" over missing air quality data in Delhi monitoring stations.",
+      "tags": [
+        "Delhi",
+        "AQI",
+        "air pollution",
+        "Aam Aadmi Party",
+        "AAP",
+        "data fraud"
+      ],
+      "source": {
+        "title": "Delhi AQI row: AAP alleges data fraud, BJP fires back over Punjab stubble ‘conspiracy’",
+        "url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-pollution-aap-slams-delhi-govt-for-alleged-air-quality-data-manipulation/article71681459.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q10",
+      "question": "As of November 8, 2026, revised Maximum Retail Prices (MRPs) for 1,364 anti-cancer formulations have come into effect, leading to an estimated annual consumer saving of how much?",
+      "options": [
+        "₹5,540 crore",
+        "₹4,540 crore",
+        "₹3,540 crore",
+        "₹2,540 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Revised Maximum Retail Prices (MRPs) for 1,364 anti-cancer formulations, covering 121 drugs, came into effect as of November 8, 2026. This measure is expected to result in an annual consumer saving of ₹3,540 crore. Eighty-five pharmaceutical companies reported these revised MRPs.",
+      "background": "This initiative by the Ministry aims to make essential medicines, particularly anti-cancer drugs, more affordable and accessible to patients. Such price controls are often implemented to regulate the pharmaceutical market and reduce the financial burden on patients.",
+      "examRelevance": "Revised MRPs of 1,364 anti-cancer formulations will save consumers ₹3,540 crore annually.",
+      "tags": [
+        "Anti-cancer formulations",
+        "MRP",
+        "drug prices",
+        "consumer saving",
+        "pharmaceutical companies",
+        "Ministry of Health"
+      ],
+      "source": {
+        "title": "Revised MRPs of 1,364 anti-cancer formulations come into effect; consumers to save ₹3,540 crore/year",
+        "url": "https://www.thehindu.com/sci-tech/health/revised-mrps-of-1364-anti-cancer-formulations-come-into-effect-consumers-to-save-3540-croreyear/article71681795.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q11",
+      "question": "Which Indian state is planning a major overhaul of postgraduate education across 28 universities, aiming to move beyond conventional examination-oriented degrees towards interdisciplinary learning and industry exposure?",
+      "options": [
+        "Telangana",
+        "Andhra Pradesh",
+        "Karnataka",
+        "Kerala"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "Andhra Pradesh is planning a major overhaul of postgraduate education across its 28 universities. The proposed reforms aim to shift from conventional, examination-oriented degrees to a system that emphasizes interdisciplinary learning, industry exposure, research, and emerging technologies.",
+      "background": "The initiative seeks to align postgraduate education with the demands of the modern job market and foster a more holistic and practical learning environment. This is part of a broader trend in Indian education to enhance employability and research output.",
+      "examRelevance": "Andhra Pradesh plans an overhaul of postgraduate education across 28 universities.",
+      "tags": [
+        "Andhra Pradesh",
+        "postgraduate education",
+        "education reform",
+        "interdisciplinary learning",
+        "university education"
+      ],
+      "source": {
+        "title": "Andhra Pradesh plans major overhaul of postgraduate education across 28 universities | Explained",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-plans-major-overhaul-of-postgraduate-education-across-28-universities/article71681649.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q12",
+      "question": "Which country's armed forces recently struck three Ukrainian power substations overnight and a vessel in the Black Sea?",
+      "options": [
+        "Poland",
+        "Russia",
+        "Belarus",
+        "Romania"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Russia’s armed forces struck three Ukrainian power substations overnight and a vessel in the Black Sea. These attacks are part of the ongoing conflict between Russia and Ukraine.",
+      "background": "The conflict, which began in February 2022 with Russia's full-scale invasion of Ukraine, has seen widespread destruction of infrastructure, including energy facilities. Attacks on power substations aim to disrupt Ukraine's energy supply and civilian life.",
+      "examRelevance": "Russia struck three Ukrainian power substations and a vessel in the Black Sea.",
+      "tags": [
+        "Russia",
+        "Ukraine",
+        "power substations",
+        "Black Sea",
+        "conflict",
+        "military operations"
+      ],
+      "source": {
+        "title": "Russia hits power stations in Ukraine, vessel in Black Sea",
+        "url": "https://www.thehindu.com/news/international/russia-hits-power-stations-in-ukraine-vessel-in-black-sea/article71681628.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q13",
+      "question": "Economist Jean Drèze recently urged the Tamil Nadu government to take strict action regarding a report of a 'fake book' at the Kalaignar Centenary Library. This library is located in which city?",
+      "options": [
+        "Madurai",
+        "Coimbatore",
+        "Chennai",
+        "Tiruchirappalli"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "Economist Jean Drèze urged the Tamil Nadu government to take strict action following a report of a 'fake book' being present at the Kalaignar Centenary Library. This library is located in Madurai. Drèze emphasized the importance of stemming the rot, especially if the book was AI-generated.",
+      "background": "The Kalaignar Centenary Library in Madurai is a significant public library project in Tamil Nadu. The controversy around a potentially fake or AI-generated book raises concerns about intellectual integrity and content verification in public institutions.",
+      "examRelevance": "Economist Jean Drèze urged action on a 'fake book' at Kalaignar Centenary Library in Madurai.",
+      "tags": [
+        "Jean Drèze",
+        "Kalaignar Centenary Library",
+        "Madurai",
+        "fake book",
+        "AI-generated",
+        "Tamil Nadu"
+      ],
+      "source": {
+        "title": "Jean Drèze urges T.N. govt. to take strict action amid report of ‘fake book’ at Kalaignar Centenary Library",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/jean-dreze-fake-book-publisher-tn-madurai-kalaignar-centenary-library/article71681030.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q14",
+      "question": "The Bangladesh Foreign Ministry is examining a request for a new passport from Sheikh Hasina. She was the deposed Prime Minister of Bangladesh who fled to India in August 2024. What was the reason for her fleeing?",
+      "options": [
+        "Natural disaster",
+        "Border conflict",
+        "Economic crisis",
+        "Political uprising"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The Bangladesh Foreign Ministry is examining Sheikh Hasina’s request for a new passport. Her previous passport was cancelled soon after she fled to India in August 2024, following a political uprising that toppled her government.",
+      "background": "Sheikh Hasina served multiple terms as the Prime Minister of Bangladesh. Her exile and subsequent request for a new passport highlight the turbulent political landscape of Bangladesh and the challenges faced by leaders after being overthrown.",
+      "examRelevance": "Bangladesh Foreign Ministry is examining a passport request from deposed PM Sheikh Hasina, who fled after a political uprising in August 2024.",
+      "tags": [
+        "Sheikh Hasina",
+        "Bangladesh",
+        "passport",
+        "political uprising",
+        "deposed PM",
+        "exile"
+      ],
+      "source": {
+        "title": "Bangladesh Foreign Ministry examining Sheikh Hasina’s request for new passport",
+        "url": "https://www.thehindu.com/news/international/bangladeshs-ousted-leader-sheikh-hasina-appeals-for-a-new-passport-to-return-from-exile/article71681436.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q15",
+      "question": "The board of IIFL Finance is set to weigh proposals for a capital raise of how much amount?",
+      "options": [
+        "₹6,000 crore",
+        "₹4,000 crore",
+        "₹5,000 crore",
+        "₹3,000 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The board of IIFL Finance is set to weigh proposals for a capital raise of ₹5,000 crore. This move is aimed at strengthening the company's financial position and supporting its growth initiatives.",
+      "background": "IIFL Finance is a leading non-banking financial company (NBFC) in India, offering a wide range of financial products and services. Capital raises are common for financial institutions to expand operations, meet regulatory requirements, or improve their balance sheet.",
+      "examRelevance": "IIFL Finance board to weigh a ₹5,000 crore capital raise.",
+      "tags": [
+        "IIFL Finance",
+        "capital raise",
+        "financial services",
+        "NBFC",
+        "investment"
+      ],
+      "source": {
+        "title": "IIFL Fin board to weigh Rs 5,000 cr capital raise",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/iifl-finance-board-to-weigh-blackstone-advent-proposals-for-rs-5000-crore-capital-raise/articleshow/135674463.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q16",
+      "question": "The death toll from a recent Saudi attack in which country rose to 44?",
+      "options": [
+        "Syria",
+        "Iraq",
+        "Yemen",
+        "Lebanon"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The death toll from a Saudi attack in Yemen recently rose to 44. This incident is part of the ongoing conflict in Yemen, where a Saudi-led coalition has been involved in military operations.",
+      "background": "Yemen has been embroiled in a civil war since 2014, which escalated in 2015 when a Saudi-led coalition intervened. The conflict has caused a severe humanitarian crisis, with widespread civilian casualties and displacement.",
+      "examRelevance": "Death toll from Saudi attack in Yemen rose to 44.",
+      "tags": [
+        "Saudi Arabia",
+        "Yemen",
+        "conflict",
+        "death toll",
+        "humanitarian crisis",
+        "Middle East"
+      ],
+      "source": {
+        "title": "Death toll from Saudi attack in Yemen rises to 44",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/death-toll-from-saudi-attack-in-yemen-rises-to-44/articleshow/135674266.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q17",
+      "question": "The suspect in a recent shooting incident in Krakow has died. Krakow is a major city in which European country?",
+      "options": [
+        "Poland",
+        "Czech Republic",
+        "Hungary",
+        "Slovakia"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The gunman wounded in a shootout with police in Krakow has died in hospital. Krakow is a major city in Poland.",
+      "background": "Shooting incidents, especially those involving police, often lead to investigations into the circumstances of the event and the use of force. Krakow is one of Poland's oldest and largest cities, known for its historical significance and cultural heritage.",
+      "examRelevance": "Krakow, where a shooting suspect died, is a city in Poland.",
+      "tags": [
+        "Krakow",
+        "Poland",
+        "shooting incident",
+        "police",
+        "European city"
+      ],
+      "source": {
+        "title": "Krakow shooting suspect dies: Poland police",
+        "url": "https://www.thehindu.com/news/international/krakow-shooting-suspect-dies-poland-police/article71681652.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q18",
+      "question": "Which three players are set to stay back and help India's Test preparations against New Zealand, even though they are currently part of the five-ODI series squad against the Black Caps?",
+      "options": [
+        "Shami, Gill, Jadeja",
+        "Hardik, Siraj, Chahal",
+        "Nabi, Gurnoor, Arshdeep",
+        "Rohit, Kohli, Bumrah"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Nabi, Gurnoor, and Arshdeep are set to stay back to assist India's Test preparations against New Zealand. These three players are currently part of the squad engaged in a five-ODI series against the Black Caps, demonstrating their importance across formats.",
+      "background": "This decision highlights the strategic planning by the team management to ensure comprehensive preparation for upcoming Test matches, leveraging players who are already acclimatized and in form from the limited-overs series.",
+      "examRelevance": "Nabi, Gurnoor, and Arshdeep will stay for India's Test preparations against New Zealand.",
+      "tags": [
+        "Cricket",
+        "India",
+        "New Zealand",
+        "Test preparations",
+        "Nabi",
+        "Gurnoor"
+      ],
+      "source": {
+        "title": "Nabi, Gurnoor, Arshdeep to stay back and help Test preparations against New Zealand: Kotak",
+        "url": "https://www.thehindu.com/sport/cricket/nabi-gurnoor-arshdeep-to-stay-back-and-help-test-preparations-against-new-zealand-kotak/article71681714.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q19",
+      "question": "The Greek coast guard recently recovered 12 dead migrants from a boat about 15 nautical miles off the port of Kaloi Limenes. Kaloi Limenes is located on which Greek island?",
+      "options": [
+        "Mykonos",
+        "Crete",
+        "Corfu",
+        "Rhodes"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The Greek coast guard recovered 12 dead migrants from a boat found about 15 nautical miles off the port of Kaloi Limenes. Kaloi Limenes is located on the island of Crete. Another 18 people were rescued from the same boat, and dozens more in two other incidents off Crete.",
+      "background": "Greece, due to its geographical location, is a primary entry point for migrants and refugees attempting to reach Europe, often leading to tragic incidents at sea. The Aegean Sea and the waters around Greek islands are frequently traversed by overcrowded and unseaworthy vessels.",
+      "examRelevance": "Greece recovered 12 dead migrants off Kaloi Limenes, located on the island of Crete.",
+      "tags": [
+        "Greece",
+        "migrants",
+        "Crete",
+        "Kaloi Limenes",
+        "coast guard",
+        "humanitarian crisis"
+      ],
+      "source": {
+        "title": "Greece recovers 12 dead migrants from boat off of Crete, Coast Guard says",
+        "url": "https://www.thehindu.com/news/international/greek-boat-sailing-off-the-island-of-crete/article71681703.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q20",
+      "question": "As of November 9, 2026, India's Parliament's monsoon session remained unprorogued for a record number of days. What was this record duration?",
+      "options": [
+        "80 days",
+        "88 days",
+        "75 days",
+        "95 days"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "As of November 9, 2026, neither the Lok Sabha nor the Rajya Sabha had been formally prorogued, keeping open the possibility of convening an extended sitting of the existing session. This meant Parliament’s monsoon session remained unprorogued for a record 88 days.",
+      "background": "Prorogation is the formal ending of a parliamentary session by the President, on the advice of the government. Keeping a session unprorogued allows the government to convene the House at short notice without summoning a new session, which can have implications for legislative business and parliamentary procedures.",
+      "examRelevance": "Parliament's monsoon session remained unprorogued for a record 88 days as of November 9, 2026.",
+      "tags": [
+        "Parliament",
+        "monsoon session",
+        "prorogation",
+        "Lok Sabha",
+        "Rajya Sabha",
+        "legislative procedures"
+      ],
+      "source": {
+        "title": "Parliament’s monsoon session remains unprorogued for record 88 days",
+        "url": "https://www.thehindu.com/news/national/parliaments-monsoon-session-remains-unprorogued-for-record-88-days/article71681364.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q21",
+      "question": "According to the FICCI-EY report cited by Jairam Ramesh, approximately how many deaths in India in 2023 were attributable to air pollution?",
+      "options": [
+        "3 million",
+        "1.5 million",
+        "2 million",
+        "2.5 million"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Jairam Ramesh cited the FICCI-EY report, which categorically states that around 2 million deaths (about 22% of total deaths) in India in 2023 were attributable to air pollution. This figure was highlighted while criticizing the government for being in 'denial' about the impact of air pollution.",
+      "background": "FICCI (Federation of Indian Chambers of Commerce & Industry) and EY (Ernst & Young) often collaborate on reports analyzing various sectors and issues in India. Air pollution is a major public health crisis in India, leading to significant mortality and morbidity.",
+      "examRelevance": "FICCI-EY report stated approximately 2 million deaths in India in 2023 were due to air pollution.",
+      "tags": [
+        "FICCI-EY report",
+        "air pollution",
+        "mortality",
+        "Jairam Ramesh",
+        "public health",
+        "India"
+      ],
+      "source": {
+        "title": "Congress slams Modi govt. for being in ‘denial’ on impact of air pollution on mortality",
+        "url": "https://www.thehindu.com/news/national/congress-slams-modi-govt-for-being-in-denial-on-impact-of-air-pollution-on-mortality/article71681683.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q22",
+      "question": "Peace talks involving Russian, Ukrainian, and U.S. officials are scheduled to take place on November 10, 2026. In which city will these talks, focusing on security guarantees, be held?",
+      "options": [
+        "Vienna",
+        "Doha",
+        "Abu Dhabi",
+        "Geneva"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Peace talks involving Russian, Ukrainian, and U.S. officials are scheduled for November 10, 2026, in Abu Dhabi. These talks will focus on security guarantees amidst stalled peace efforts and ongoing fighting between Russia and Ukraine.",
+      "background": "International mediation efforts have been ongoing since the start of the Russia-Ukraine conflict. Abu Dhabi, the capital of the United Arab Emirates, has emerged as a neutral venue for diplomatic discussions on various global issues.",
+      "examRelevance": "Russian, Ukrainian, and U.S. officials will hold peace talks in Abu Dhabi on November 10, 2026.",
+      "tags": [
+        "Russia",
+        "Ukraine",
+        "U.S.",
+        "peace talks",
+        "Abu Dhabi",
+        "security guarantees"
+      ],
+      "source": {
+        "title": "What to know about upcoming peace talks involving Russian, Ukrainian and U.S. officials",
+        "url": "https://www.thehindu.com/news/international/russia-ukraine-us-peace-talks-in-abu-dhabi-on-november-10-2026/article71681520.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q23",
+      "question": "The morning after Deepavali, Chennai's air quality deteriorated to 'poor'. Which specific area in Chennai recorded the highest Air Quality Index (AQI) at 296?",
+      "options": [
+        "Kodungaiyur",
+        "Manali Village",
+        "Arumbakkam",
+        "Royapuram"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The morning after Deepavali, Chennai's air quality deteriorated to 'poor'. Manali Village recorded the highest Air Quality Index (AQI) at 296, followed by Arumbakkam at 265, Kodungaiyur at 215, Royapuram at 184, and Velachery Residential Area at 142.",
+      "background": "Deepavali celebrations often lead to a significant spike in air pollution due to firecracker emissions. The AQI categorizes air quality, with 'poor' indicating that sensitive groups may experience health effects.",
+      "examRelevance": "Manali Village recorded Chennai's highest AQI at 296 after Deepavali.",
+      "tags": [
+        "Chennai",
+        "AQI",
+        "air quality",
+        "Deepavali",
+        "Manali Village",
+        "air pollution"
+      ],
+      "source": {
+        "title": "Chennai’s air quality deteriorates to ‘poor’ the morning after Deepavali",
+        "url": "https://www.thehindu.com/news/cities/chennai/chennais-air-quality-deteriorates-to-poor-the-morning-after-deepavali/article71681457.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q24",
+      "question": "A Hyderabad man, Nanavath Bhupal Naik, recently duped approximately 7,400 investors in an investment scam worth how much?",
+      "options": [
+        "₹5,700,000,000",
+        "₹4,700,000,000",
+        "₹6,700,000,000",
+        "₹7,700,000,000"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "A Hyderabad man named Nanavath Bhupal Naik duped approximately 7,400 investors in an investment scam worth ₹6,700,000,000. He built a massive empire by luring investors with promises of high returns.",
+      "background": "Investment scams often target individuals with promises of quick and high returns, leading to significant financial losses for victims. Authorities regularly issue warnings against such fraudulent schemes.",
+      "examRelevance": "Hyderabad man Nanavath Bhupal Naik duped 7,400 investors in a ₹6,700,000,000 scam.",
+      "tags": [
+        "Hyderabad",
+        "investment scam",
+        "Nanavath Bhupal Naik",
+        "financial fraud",
+        "investors"
+      ],
+      "source": {
+        "title": "How Hyderabad man duped 7,400 investors",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/from-petrol-pump-attendant-to-rs-6700000000-investment-scam-how-hyderabads-nanavath-bhupal-naik-who-also-worked-as-mason-built-massive-empire-by-luring-7400-investors/articleshow/135673173.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q25",
+      "question": "Which construction company has been awarded the contract to build 10 stations for the Noida Metro Aqua Line, connecting Botanical Garden to Sector 142?",
+      "options": [
+        "Tata Projects",
+        "Shapoorji Pallonji",
+        "Afcons Infrastructure",
+        "Larsen & Toubro (L&T)"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Larsen & Toubro (L&T) has been awarded the contract to build 10 stations for the Noida Metro Aqua Line. This project, connecting Botanical Garden to Sector 142, is estimated to be worth between ₹1,000 crore to ₹2,500 crore.",
+      "background": "The Noida Metro Aqua Line is an operational metro line connecting Noida and Greater Noida in Uttar Pradesh. Expansion projects like this are crucial for improving urban connectivity and reducing traffic congestion in rapidly growing metropolitan areas.",
+      "examRelevance": "L&T will build 10 stations for the Noida Metro Aqua Line (Botanical Garden to Sector 142).",
+      "tags": [
+        "Larsen & Toubro",
+        "L&T",
+        "Noida Metro",
+        "Aqua Line",
+        "metro project",
+        "infrastructure"
+      ],
+      "source": {
+        "title": "L T to build 10 stations for Noida Metro Aqua Line",
+        "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/construction/lt-to-build-10-stations-for-noida-metro-aqua-line-for-rs-1000-to-2500-crore-botanical-garden-to-sector-142/articleshow/135673410.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q26",
+      "question": "Who won the Sao Paulo Grand Prix recently, while Mercedes sealed the Constructors' title?",
+      "options": [
+        "Lewis Hamilton",
+        "Max Verstappen",
+        "Charles Leclerc",
+        "Lando Norris"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "McLaren's Lando Norris won the Sao Paulo Grand Prix. In the same race, Mercedes sealed the Constructors' title, and Lewis Hamilton became the second F1 driver with 400 starts after Fernando Alonso.",
+      "background": "The Sao Paulo Grand Prix, formerly known as the Brazilian Grand Prix, is a Formula One motor racing event held at the Autódromo José Carlos Pace in Interlagos. The Constructors' Championship is awarded to the most successful F1 constructor over a season, based on points accumulated by its drivers.",
+      "examRelevance": "Lando Norris won the Sao Paulo Grand Prix, and Mercedes sealed the Constructors' title.",
+      "tags": [
+        "Sao Paulo GP",
+        "Lando Norris",
+        "McLaren",
+        "Mercedes",
+        "Formula One",
+        "F1"
+      ],
+      "source": {
+        "title": "Sao Paulo GP: McLaren's Lando Norris wins as Mercedes seals Constructors' title",
+        "url": "https://www.thehindu.com/sport/motorsport/sao-paulo-gp-mclarens-lando-norris-wins-as-mercedes-seals-constructors-title/article71681613.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q27",
+      "question": "Modernist artist Arpita Singh, who recently passed away at the age of 89, received which of the following prestigious awards in 2011?",
+      "options": [
+        "Padma Bhushan",
+        "Bharat Ratna",
+        "Padma Vibhushan",
+        "Padma Shri"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Modernist artist Arpita Singh recently passed away at the age of 89. She was a renowned figure in the world of art and received the Padma Bhushan in 2011 for her contributions. She was also awarded the Lalit Kala Akademi Fellowship in 2014.",
+      "background": "Arpita Singh was known for her distinctive narrative style and vibrant use of colour, often depicting themes of female experience and everyday life. The Padma Bhushan is the third-highest civilian award in the Republic of India.",
+      "examRelevance": "Modernist artist Arpita Singh, Padma Bhushan recipient in 2011, passed away at 89.",
+      "tags": [
+        "Arpita Singh",
+        "Obituaries",
+        "Modernist artist",
+        "Padma Bhushan",
+        "Lalit Kala Akademi Fellowship",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "Modernist artist Arpita Singh, aged 89, passes away",
+        "url": "https://www.thehindu.com/entertainment/art/modernist-artist-arpita-singh-aged-89-passes-away/article71681531.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q28",
+      "question": "Google recently stated that a new internet safety bill in which country could potentially cut off under-18s from services like Gmail?",
+      "options": [
+        "Canada",
+        "Australia",
+        "New Zealand",
+        "United Kingdom"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Google stated that a new Australian internet safety bill could potentially cut off under-18s from services like Gmail. Online companies and free speech advocates argue that the law might grant regulators excessive discretion to define harmful content, pressuring platforms to remove it.",
+      "background": "Governments worldwide are grappling with how to regulate online content and protect minors without infringing on free speech or imposing impractical burdens on tech companies. Australia's proposed bill is part of this global effort but has drawn criticism for its broad scope.",
+      "examRelevance": "Google warned that a new Australian internet safety bill could cut off under-18s from Gmail.",
+      "tags": [
+        "Google",
+        "Australia",
+        "internet safety bill",
+        "Gmail",
+        "online regulation",
+        "free speech"
+      ],
+      "source": {
+        "title": "Google says new Australian internet safety bill could cut off under-18s from Gmail",
+        "url": "https://www.thehindu.com/sci-tech/technology/google-says-new-australian-internet-safety-bill-could-cut-off-under-18s-from-gmail/article71681584.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q29",
+      "question": "Who has been named the new Chief Financial Officer (CFO) of Binance, succeeding Kaiser Ng who recently stepped down?",
+      "options": [
+        "Richard Teng",
+        "Justin Yek",
+        "Changpeng Zhao",
+        "Helen Hai"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "Justin Yek has been named the new Chief Financial Officer (CFO) of Binance, a leading cryptocurrency exchange. He succeeds Kaiser Ng, who recently stepped down from the position.",
+      "background": "Binance is one of the world's largest cryptocurrency exchanges by trading volume. Key leadership appointments like CFO are significant for the company's financial strategy, compliance, and overall stability in the volatile cryptocurrency market.",
+      "examRelevance": "Justin Yek has been appointed as the new CFO of Binance.",
+      "tags": [
+        "Binance",
+        "Justin Yek",
+        "Kaiser Ng",
+        "CFO",
+        "cryptocurrency",
+        "appointments"
+      ],
+      "source": {
+        "title": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
+        "url": "https://www.thehindu.com/sci-tech/technology/binance-cfo-kaiser-ng-steps-down-justin-yek-named-new-finance-chief/article71681343.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-09-q30",
+      "question": "Which Indian state has relaxed borewell restrictions until December 15 to help farmers save trees amid a drought?",
+      "options": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Maharashtra has relaxed borewell restrictions until December 15. This measure was announced to help farmers save trees amid a drought, allowing them greater access to groundwater for irrigation. The Chief Minister made the announcement during an interaction with village sarpanches in Lohari Sawanga.",
+      "background": "Maharashtra frequently faces drought conditions, impacting agriculture and water availability. Relaxing borewell restrictions is a temporary relief measure aimed at mitigating the immediate effects of drought on crops and perennial plants.",
+      "examRelevance": "Maharashtra relaxed borewell restrictions until December 15 to help farmers during drought.",
+      "tags": [
+        "Maharashtra",
+        "borewell restrictions",
+        "drought",
+        "farmers",
+        "water management",
+        "agricultural policy"
+      ],
+      "source": {
+        "title": "Maharashtra relaxes borewell restrictions till December 15 to help farmers save trees amid drought",
+        "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-relaxes-borewell-restrictions-till-december-15-to-help-farmers-save-trees-amid-drought/article71681480.ece"
+      }
+    }
+  ]
+}
