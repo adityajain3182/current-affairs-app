@@ -1,0 +1,787 @@
+{
+  "id": "daily-2026-11-10",
+  "type": "daily",
+  "date": "2026-11-10",
+  "title": "Current Affairs — 10 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-10-q1",
+      "question": "Chhath Puja is scheduled to be celebrated in Hyderabad from November 13-16, 2026. Which state association has urged civic bodies to make arrangements for the festival?",
+      "options": [
+        "Bihar Association",
+        "West Bengal Association",
+        "Uttar Pradesh Association",
+        "Jharkhand Association"
+      ],
+      "answerIndex": 0,
+      "category": "Dates & Days",
+      "explanation": "The Bihar Association has urged civic bodies and disaster management authorities in Hyderabad to make necessary arrangements for Chhath Puja, which is scheduled from November 13-16, 2026, at 28 locations across the city.",
+      "background": "Chhath Puja is an ancient Hindu Vedic festival historically celebrated in the Indian states of Bihar, Jharkhand, and Uttar Pradesh, and the Madhesh region of Nepal. It is dedicated to the Sun God (Surya) and Chhathi Maiya.",
+      "examRelevance": "Chhath Puja in Hyderabad: November 13-16, 2026, Bihar Association urged arrangements.",
+      "tags": [
+        "Chhath Puja",
+        "Hyderabad",
+        "Bihar Association",
+        "Festivals"
+      ],
+      "source": {
+        "title": "Hyderabad gears up for Chhath Puja from November 13-16, 2026",
+        "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-gears-up-for-chhath-puja-from-november-13-16-2026/article71685398.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q2",
+      "question": "Which country's State Department formally served notice to India regarding a civil lawsuit filed by Gurpatwant Singh Pannun?",
+      "options": [
+        "United States",
+        "Canada",
+        "Australia",
+        "United Kingdom"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The U.S. State Department formally served notice to India concerning a civil lawsuit filed by Gurpatwant Singh Pannun, stating it was legally obliged to do so without taking a position on the case.",
+      "background": "Gurpatwant Singh Pannun is an attorney and a prominent figure associated with 'Sikhs for Justice,' a pro-Khalistan group. This development follows previous reports of alleged Indian involvement in assassination plots against Pannun.",
+      "examRelevance": "U.S. State Department served notice to India on Pannun's civil lawsuit.",
+      "tags": [
+        "Pannun",
+        "U.S. State Department",
+        "India",
+        "Lawsuit"
+      ],
+      "source": {
+        "title": "Pannun’s civil lawsuit: U.S. State department formally serves notice to India",
+        "url": "https://www.thehindu.com/news/international/pannuns-civil-lawsuit-us-state-department-formally-serves-notice-to-india/article71685482.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q3",
+      "question": "Which current U.S. Defense Secretary is facing an impeachment threat, with Republican Thomas Massie launching a bid against him?",
+      "options": [
+        "Lloyd Austin",
+        "Pete Hegseth",
+        "Mark Esper",
+        "James Mattis"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "U.S. Defense Secretary Pete Hegseth is facing an impeachment threat, with Republican Thomas Massie of Kentucky launching a bid, accusing Hegseth of high crimes and misdemeanors.",
+      "background": "Defense Secretary Pete Hegseth is scheduled to hold his first Pentagon briefing since May. The impeachment bid by Thomas Massie highlights political tensions and scrutiny over the administration's actions.",
+      "examRelevance": "Pete Hegseth is the U.S. Defense Secretary facing an impeachment threat.",
+      "tags": [
+        "Pete Hegseth",
+        "Defense Secretary",
+        "U.S.",
+        "Impeachment"
+      ],
+      "source": {
+        "title": "Pete Hegseth to hold first Pentagon briefing since May amid impeachment threat",
+        "url": "https://www.thehindu.com/news/international/pete-hegseth-to-hold-first-pentagon-briefing-since-may-amid-impeachment-threat/article71685209.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q4",
+      "question": "What is the title of Sonia Gandhi's recently released memoir?",
+      "options": [
+        "My Truth, My Life",
+        "The Audacity of Hope",
+        "Belonging: A Journey of Love",
+        "Beyond the Lines"
+      ],
+      "answerIndex": 2,
+      "category": "Books & Authors",
+      "explanation": "Sonia Gandhi's recently released memoir is titled 'Belonging: A Journey of Love'. In the book, she discusses her personal journey, her love story with Rajiv Gandhi, and her entry into public life.",
+      "background": "The memoir has generated significant political commentary, with the ruling BJP criticizing her views on the Emergency imposed in 1975, which Gandhi herself called a mistake in the book.",
+      "examRelevance": "Sonia Gandhi's memoir is titled 'Belonging: A Journey of Love'.",
+      "tags": [
+        "Sonia Gandhi",
+        "Memoir",
+        "Belonging: A Journey of Love",
+        "Books"
+      ],
+      "source": {
+        "title": "‘Where I truly belong’: Sonia Gandhi on her memoir ‘Belonging: A Journey of Love’",
+        "url": "https://www.thehindu.com/books/books-authors/sonia-gandhi-on-her-memoir-belonging-a-journey-of-love/article71655899.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q5",
+      "question": "In her recently released memoir, Sonia Gandhi weighed in on which historical event, calling it a mistake?",
+      "options": [
+        "The Kargil War",
+        "The Emergency of 1975",
+        "The Green Revolution",
+        "The Economic Liberalization of 1991"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "In her recently released memoir, Sonia Gandhi weighed in on the Emergency imposed in India in 1975, referring to it as a mistake. This statement has drawn comments from the ruling BJP.",
+      "background": "The Emergency, declared by then-Prime Minister Indira Gandhi, lasted from 1975 to 1977 and involved widespread arrests, censorship, and suspension of civil liberties. It remains a contentious period in Indian political history.",
+      "examRelevance": "Sonia Gandhi called the 1975 Emergency a 'mistake' in her memoir.",
+      "tags": [
+        "Sonia Gandhi",
+        "Emergency",
+        "1975",
+        "Memoir",
+        "Polity"
+      ],
+      "source": {
+        "title": "Sonia Gandhi trying to justify Emergency, memoir should've been named ‘Whitewashing’: BJP",
+        "url": "https://www.thehindu.com/news/national/sonia-gandhi-trying-to-justify-emergency-memoir-shouldve-been-named-whitewashing-bjp/article71685174.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q6",
+      "question": "Which two European countries have emerged as preferred destinations for higher education for Indian students, according to Karan Lalit of TOEFL and GRE?",
+      "options": [
+        "France and Spain",
+        "Sweden and Denmark",
+        "Germany and Ireland",
+        "Italy and Netherlands"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "According to Karan Lalit, Executive Director, South Asia, TOEFL and GRE, Germany and Ireland have emerged as preferred destinations for higher education for Indian students. Out of over 60,000 students going to Germany, 12,000 (20%) are from Karnataka.",
+      "background": "The trend indicates a shift in preferred study abroad destinations for Indian students, moving beyond traditional choices like the US and UK. Factors like quality education, post-study work opportunities, and tuition costs often influence these decisions.",
+      "examRelevance": "Germany and Ireland are preferred higher education destinations for Indian students.",
+      "tags": [
+        "Higher Education",
+        "Indian Students",
+        "Germany",
+        "Ireland",
+        "TOEFL",
+        "GRE"
+      ],
+      "source": {
+        "title": "Germany and Ireland emerge as preferred destinations for higher education for Indian students",
+        "url": "https://www.thehindu.com/news/national/karnataka/germany-and-ireland-emerge-as-preferred-destinations-for-higher-education-for-indian-students/article71683039.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q7",
+      "question": "Teachers' associations in which Indian state recently flagged anomalies in new service rules, citing the Presidential Order, 2025?",
+      "options": [
+        "Telangana",
+        "Kerala",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Teachers' associations in Andhra Pradesh have flagged anomalies in the new service rules, stating they had repeatedly requested the government to frame comprehensive and uniform service rules for Government and Panchayat Raj teachers in the wake of the Presidential Order, 2025.",
+      "background": "Service rules for government employees, including teachers, are crucial for their career progression, benefits, and overall working conditions. Anomalies can lead to legal disputes and dissatisfaction among the workforce.",
+      "examRelevance": "Andhra Pradesh teachers' associations flagged anomalies in new service rules.",
+      "tags": [
+        "Andhra Pradesh",
+        "Teachers",
+        "Service Rules",
+        "Presidential Order"
+      ],
+      "source": {
+        "title": "Andhra teachers’ associations flag anomalies in new service rules",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-teachers-associations-flag-anomalies-in-new-service-rules/article71685163.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q8",
+      "question": "Which Indian body has suo motu initiated a probe into the dumping of aluminium products from China, Malaysia, and Vietnam?",
+      "options": [
+        "NITI Aayog",
+        "Competition Commission of India (CCI)",
+        "Directorate General of Trade Remedies (DGTR)",
+        "Ministry of Commerce and Industry"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The Directorate General of Trade Remedies (DGTR) has suo motu initiated a probe into the alleged dumping of aluminium products from China, Malaysia, and Vietnam. This action follows representations from the Aluminium Extrusion Manufacturers Association of India.",
+      "background": "Anti-dumping investigations are conducted to determine if foreign products are being sold in the domestic market at prices lower than their normal value, causing injury to the domestic industry. If dumping is confirmed, duties can be imposed to protect local manufacturers.",
+      "examRelevance": "DGTR initiated a probe into dumping of aluminium products from China, Malaysia, and Vietnam.",
+      "tags": [
+        "DGTR",
+        "Anti-dumping",
+        "Aluminium",
+        "China",
+        "Malaysia",
+        "Vietnam"
+      ],
+      "source": {
+        "title": "DGTR suo motu initiates probe into dumping of aluminium products from China, Malaysia, Vietnam",
+        "url": "https://www.thehindu.com/news/national/dgtr-suo-motu-initiates-probe-into-dumping-of-aluminium-products-from-china-malaysia-vietnam/article71685366.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q9",
+      "question": "Which political leader faces a death sentence from the International Crimes Tribunal (ICT) in Dhaka for ordering a police crackdown in July-August 2024?",
+      "options": [
+        "Khaleda Zia",
+        "Tarique Rahman",
+        "Muhammad Yunus",
+        "Sheikh Hasina"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Sheikh Hasina, the leader of the Awami League, faces a dilemma as she wants to return to Bangladesh as a political leader but stands accused and sentenced to death by the International Crimes Tribunal (ICT) in Dhaka for ordering a police crackdown in July-August 2024.",
+      "background": "Sheikh Hasina has served multiple terms as the Prime Minister of Bangladesh. The International Crimes Tribunal (ICT) was established in Bangladesh to investigate and prosecute individuals for war crimes committed during the 1971 Bangladesh Liberation War, but has also heard other cases.",
+      "examRelevance": "Sheikh Hasina faces a death sentence from ICT Dhaka for a 2024 police crackdown.",
+      "tags": [
+        "Sheikh Hasina",
+        "Bangladesh",
+        "International Crimes Tribunal",
+        "Awami League"
+      ],
+      "source": {
+        "title": "Sheikh Hasina’s return to Bangladesh: the hurdles, the risks and the politics | Explained",
+        "url": "https://www.thehindu.com/news/international/sheikh-hasinas-return-to-bangladesh-the-hurdles-the-risks-and-the-politics-explained/article71685349.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q10",
+      "question": "U.S.-brokered talks to discuss a Ukraine-Russia peace deal are set to start in which city, marking the first such meeting since February?",
+      "options": [
+        "Abu Dhabi",
+        "Doha",
+        "Paris",
+        "Geneva"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "U.S.-brokered talks to discuss a Ukraine-Russia peace deal are set to start in Abu Dhabi. This two-day session will be the first such meeting since February and will primarily focus on security guarantees.",
+      "background": "Previous talks involving Russia and Ukraine have yielded little progress toward peace since Moscow's full-scale invasion on February 24, 2022. These new talks aim to explore potential pathways to de-escalation and a lasting resolution.",
+      "examRelevance": "U.S.-brokered Ukraine-Russia peace talks are starting in Abu Dhabi.",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "Peace Talks",
+        "Abu Dhabi",
+        "U.S. brokered"
+      ],
+      "source": {
+        "title": "U.S.-brokered talks are set to start in Abu Dhabi to discuss Ukraine-Russia peace deal",
+        "url": "https://www.thehindu.com/news/international/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal/article71685183.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q11",
+      "question": "Which state's Deputy Chief Minister, Pawan Kalyan, recently announced his decision to separate from his wife, Anna Lezhneva?",
+      "options": [
+        "Tamil Nadu",
+        "Karnataka",
+        "Telangana",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "Pawan Kalyan, the Deputy Chief Minister of Andhra Pradesh, and his wife Anna Lezhneva, issued a joint statement announcing their decision to separate after sharing a significant part of their lives together.",
+      "background": "Pawan Kalyan is a prominent actor and politician, leading the Jana Sena Party (JSP), which is part of the ruling alliance in Andhra Pradesh. His personal life often garners significant public attention due to his celebrity status.",
+      "examRelevance": "Andhra Pradesh Deputy CM Pawan Kalyan announced separation from his wife Anna Lezhneva.",
+      "tags": [
+        "Pawan Kalyan",
+        "Andhra Pradesh",
+        "Deputy CM",
+        "Separation"
+      ],
+      "source": {
+        "title": "Andhra Deputy CM Pawan Kalyan to part ways with wife, Anna Lezhneva",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/deputy-cm-pawan-kalyan-to-part-ways-with-wife-anna-lezhneva/article71684784.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q12",
+      "question": "India is currently playing an ODI series against which country, where New Zealand lost the T20I series 2-3 and is trailing 0-2 in the ODIs?",
+      "options": [
+        "England",
+        "South Africa",
+        "Australia",
+        "New Zealand"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "India is currently playing an ODI series against New Zealand. New Zealand previously lost the T20I series 2-3 and is trailing 0-2 in the ongoing ODI series after three games, with the third ODI being called off due to rain.",
+      "background": "Kyle Jamieson, a New Zealand bowler, expressed frustration over the lack of continuity in their bowling unit due to injuries, impacting their performance in the series.",
+      "examRelevance": "India is playing an ODI series against New Zealand.",
+      "tags": [
+        "Cricket",
+        "India",
+        "New Zealand",
+        "ODI Series",
+        "T20I Series"
+      ],
+      "source": {
+        "title": "IND vs NZ ODI series: Lack of continuity in bowling unit due to injuries is frustrating, says Kyle Jamieson",
+        "url": "https://www.thehindu.com/sport/cricket/ind-vs-nz-odi-series-lack-of-continuity-in-bowling-unit-due-to-injuries-is-frustrating-says-kyle-jamieson/article71685338.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q13",
+      "question": "The Kerala High Court recently allowed which hotel in Kochi to operate and conduct DJ parties till 3 a.m.?",
+      "options": [
+        "Radisson Blu",
+        "Taj Malabar Resort & Spa",
+        "Le Meridien Kochi",
+        "Grand Hyatt Kochi Bolgatty"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "Justice Murali Purushothaman of the Kerala High Court set aside a notice by police authorities, allowing the hotel Radisson Blu in Kochi to operate and conduct DJ parties until 3 a.m., overturning a ban after 11 p.m.",
+      "background": "This ruling addresses the ongoing debate regarding nightlife regulations and business operating hours, particularly in the hospitality sector. Such judicial interventions often clarify the scope of police powers and business freedoms.",
+      "examRelevance": "Kerala HC allowed Radisson Blu in Kochi to operate till 3 a.m.",
+      "tags": [
+        "Kerala High Court",
+        "Radisson Blu",
+        "Kochi",
+        "Nightlife",
+        "Hotel Operations"
+      ],
+      "source": {
+        "title": "Kerala HC allows hotel Radisson Blu in Kochi to operate till 3 a.m.",
+        "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-allows-hotel-radisson-blu-in-kochi-to-operate-till-3-am/article71685175.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q14",
+      "question": "Which Australian airline announced it would axe 850 jobs in an offshoring deal with Accenture, with the first round of cuts due by mid-2027?",
+      "options": [
+        "Qantas",
+        "Virgin Australia",
+        "Rex Airlines",
+        "Jetstar Airways"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Australia's Qantas airline announced it would axe 850 jobs as part of an offshoring deal with Accenture. The first round of these job cuts is expected by mid-2027, with some corporate functions to be outsourced to Accenture in India and Australia.",
+      "background": "Offshoring and outsourcing are common business strategies to reduce operational costs and leverage global talent pools. However, they often face criticism from unions over job losses in the home country.",
+      "examRelevance": "Australia's Qantas to axe 850 jobs in an offshoring deal with Accenture.",
+      "tags": [
+        "Qantas",
+        "Accenture",
+        "Job Cuts",
+        "Offshoring",
+        "Australia"
+      ],
+      "source": {
+        "title": "Australia's Qantas to axe 850 jobs in offshoring deal with Accenture",
+        "url": "https://www.thehindu.com/business/Industry/australias-qantas-to-axe-850-jobs-in-offshoring-deal-with-accenture/article71685285.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q15",
+      "question": "What was the approximate liquor sales figure for Tasmac in Tamil Nadu this Deepavali, amidst POS machine glitches?",
+      "options": [
+        "₹325 crore",
+        "₹441 crore",
+        "₹510 crore",
+        "₹600 crore"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Tasmac's liquor sales in Tamil Nadu touched ₹441 crore this Deepavali, despite facing POS machine glitches. Chennai recorded sales worth ₹95.85 crore, Tiruchi zone ₹98.97 crore, and Madurai ₹88.38 crore.",
+      "background": "Deepavali is one of the peak sales periods for various industries, including liquor. State-run liquor corporations like Tasmac play a significant role in generating revenue for state governments.",
+      "examRelevance": "Tasmac's Deepavali liquor sales in Tamil Nadu reached ₹441 crore.",
+      "tags": [
+        "Tasmac",
+        "Deepavali",
+        "Tamil Nadu",
+        "Liquor Sales",
+        "Economy"
+      ],
+      "source": {
+        "title": "Tasmac’s liquor sales in Tamil Nadu touch ₹441 crore this Deepavali amid POS machine glitches",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tasmacs-deepavali-sales-touch-441-crore-amid-pos-machine-glitches/article71683625.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q16",
+      "question": "Which two cyclones recently damaged crops on 4.61 lakh hectares in Andhra Pradesh?",
+      "options": [
+        "Amphan and Fani",
+        "Vardah and Ockhi",
+        "Nivar and Gaja",
+        "Arnab and Murasu"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Cyclones Arnab and Murasu recently caused significant damage to crops, affecting 4.61 lakh hectares in Andhra Pradesh. The enumeration is ongoing, with horticultural crops also severely impacted.",
+      "background": "Andhra Pradesh, being a coastal state, is frequently affected by cyclones and associated heavy rainfall, leading to widespread agricultural losses. Accurate assessment of damage is crucial for providing relief to affected farmers.",
+      "examRelevance": "Cyclones Arnab and Murasu damaged crops in Andhra Pradesh.",
+      "tags": [
+        "Cyclones",
+        "Arnab",
+        "Murasu",
+        "Andhra Pradesh",
+        "Crop Damage",
+        "Environment"
+      ],
+      "source": {
+        "title": "Cyclones Arnab and Murasu damaged crops on 4.61 lakh hectares in Andhra, say officials",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclones-arnab-and-murasu-damaged-crops-on-461-lakh-hectares-in-andhra-say-officials/article71685099.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q17",
+      "question": "The Bengaluru–Mangaluru–Goa Vande Bharat Express is expected to be flagged off on November 13. Which two dignitaries are likely to flag off this service?",
+      "options": [
+        "President and Vice President",
+        "Union Home Minister and Defence Minister",
+        "Prime Minister and Railway Minister",
+        "Chief Ministers of Karnataka and Goa"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The much-awaited Bengaluru–Mangaluru–Goa Vande Bharat Express is likely to be flagged off on November 13. Prime Minister Narendra Modi is expected to flag it off from Bengaluru, while Railway Minister Ashwini Vaishnaw will do so from Mangaluru Junction.",
+      "background": "Vande Bharat Express trains are semi-high-speed electric multiple-unit trains operated by Indian Railways. They are part of the government's initiative to modernize the railway network and enhance connectivity across major cities.",
+      "examRelevance": "PM Modi and Railway Minister to flag off Bengaluru–Mangaluru–Goa Vande Bharat Express.",
+      "tags": [
+        "Vande Bharat Express",
+        "Bengaluru",
+        "Mangaluru",
+        "Goa",
+        "Narendra Modi",
+        "Ashwini Vaishnaw"
+      ],
+      "source": {
+        "title": "PM Modi and Railway Minister likely to flag off Bengaluru–Mangaluru–Goa Vande Bharat Express on November 13",
+        "url": "https://www.thehindu.com/news/cities/Mangalore/pm-modi-and-railway-minister-likely-to-flag-off-bengalurumangalurugoa-vande-bharat-express-on-november-13/article71685225.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q18",
+      "question": "Which farm was fined ₹20,000 by the HMWS&SB for wasting drinking water in Hyderabad’s Jubilee Hills?",
+      "options": [
+        "Heritage Foods",
+        "Dodla Dairy",
+        "Hatsun Agro Product",
+        "Akshayakalpa Farms"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The Hyderabad Metropolitan Water Supply and Sewerage Board (HMWS&SB) fined Akshayakalpa Farms ₹20,000 for wasting drinking water in Jubilee Hills, Hyderabad.",
+      "background": "Water conservation is a critical issue in urban areas, especially with increasing demand and climate change impacts. Authorities often impose fines to deter wastage and encourage responsible water use.",
+      "examRelevance": "Akshayakalpa Farms fined ₹20,000 by HMWS&SB for water wastage in Hyderabad.",
+      "tags": [
+        "Akshayakalpa Farms",
+        "HMWS&SB",
+        "Hyderabad",
+        "Water Wastage",
+        "Fine"
+      ],
+      "source": {
+        "title": "HMWS&SB fines Akshayakalpa Farms ₹20,000 for wasting drinking water in Hyderabad’s Jubilee Hills",
+        "url": "https://www.thehindu.com/news/cities/Hyderabad/hmwsampsb-fines-akshayakalpa-farms-20000-for-wasting-drinking-water-in-jubilee-hills/article71678681.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q19",
+      "question": "According to Vijaya Rahatkar of the NCW, which type of complaint tops the list of the 1.5 lakh complaints received annually by the National Commission for Women?",
+      "options": [
+        "Harassment at workplace",
+        "Dowry harassment",
+        "Domestic violence",
+        "Cyber crimes"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Vijaya Rahatkar stated that the National Commission for Women (NCW) receives 1.5 lakh complaints annually, with domestic violence topping the list of reported grievances.",
+      "background": "The NCW is a statutory body of the Government of India, established to advise the government on all policy matters affecting women. Its mandate includes investigating complaints and taking suo motu notice of matters relating to deprivation of women's rights.",
+      "examRelevance": "Domestic violence tops NCW's annual complaints list (1.5 lakh complaints).",
+      "tags": [
+        "NCW",
+        "Domestic Violence",
+        "Women's Rights",
+        "Vijaya Rahatkar",
+        "Complaints"
+      ],
+      "source": {
+        "title": "NCW receives 1.5 lakh complaints annually, domestic violence tops list: Vijaya Rahatkar",
+        "url": "https://www.thehindu.com/news/national/ncw-receives-15-lakh-complaints-annually-domestic-violence-tops-list-vijaya-rahatkar/article71685024.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q20",
+      "question": "Which political party leads the current government in Tamil Nadu, completing six months in office?",
+      "options": [
+        "AIADMK",
+        "TVK",
+        "Congress",
+        "DMK"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The TVK-led government in Tamil Nadu has completed six months in office and is reported to enjoy public goodwill despite concerns about it being directionless. Chief Minister C. Joseph Vijay had declared inheriting an 'empty coffer' on his first day.",
+      "background": "Tamil Nadu has a dynamic political landscape, often dominated by regional parties. The performance of new governments in their initial months is closely scrutinized by the public and political observers.",
+      "examRelevance": "TVK-led government is currently ruling in Tamil Nadu.",
+      "tags": [
+        "Tamil Nadu",
+        "TVK",
+        "Government",
+        "C. Joseph Vijay",
+        "State Politics"
+      ],
+      "source": {
+        "title": "Six months into its rule, TVK-led govt. in Tamil Nadu enjoys public goodwill despite concerns on being directionless",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/six-months-into-its-rule-tvk-led-government-enjoys-public-goodwill-despite-concerns-about-it-being-directionless/article71683549.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q21",
+      "question": "Who is the newly-inducted J&K Minister who pledged that the National Conference (NC) will 'restore pre-1953 position' and 'get back J&K flag'?",
+      "options": [
+        "Altaf Bukhari",
+        "Mehbooba Mufti",
+        "Omar Abdullah",
+        "Mir Saifullah"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Newly-inducted J&K Minister Mir Saifullah pledged that the National Conference (NC) will work to 'restore pre-1953 position' and 'get back J&K flag'. He also stated that Kashmir was reduced to a Union Territory (UT) on August 5, 2019.",
+      "background": "The 'pre-1953 position' refers to the constitutional relationship between Jammu and Kashmir and India before the Delhi Agreement of 1952 and subsequent changes. The abrogation of Article 370 in 2019 and the reorganization of J&K into two Union Territories significantly altered its status.",
+      "examRelevance": "Mir Saifullah is the newly-inducted J&K Minister pledging to restore pre-1953 position and J&K flag.",
+      "tags": [
+        "Mir Saifullah",
+        "Jammu & Kashmir",
+        "National Conference",
+        "Pre-1953 Position",
+        "J&K Flag"
+      ],
+      "source": {
+        "title": "Newly-inducted J&K Minister Mir Saifullah pledges that NC will ‘restore pre-1953 position, get back J&K flag’",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/newly-inducted-jk-minister-mir-saifullah-pledgesthat-nc-will-restore-pre-1953-position-get-back-jk-flag/article71683608.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q22",
+      "question": "Who is the director of the film 'John Doe', which is set to release this week, and who wanted to move beyond feel-good films?",
+      "options": [
+        "Madhumita",
+        "Gautham Vasudev Menon",
+        "Lokesh Kanagaraj",
+        "Vetrimaaran"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "Madhumita is the director of the film 'John Doe', which is set to release this week. She reflected on her journey and desire to move beyond feel-good films, indicating a shift in her cinematic approach.",
+      "background": "Filmmakers often evolve their style and themes over their careers. 'John Doe' is a common placeholder name used in legal and other contexts for a male whose true identity is unknown, suggesting a potentially mysterious or investigative genre for the film.",
+      "examRelevance": "Madhumita is the director of the upcoming film 'John Doe'.",
+      "tags": [
+        "Madhumita",
+        "John Doe",
+        "Film Director",
+        "Cinema",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "‘John Doe’: Why director Madhumita wanted to move beyond feel-good films",
+        "url": "https://www.thehindu.com/entertainment/movies/john-doe-why-director-madhumita-wanted-to-move-beyond-feel-good-films/article71685307.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q23",
+      "question": "Who is the UFC chief who recently declined a White House job offer from Donald Trump?",
+      "options": [
+        "Scott Coker",
+        "Conor McGregor",
+        "Vince McMahon",
+        "Dana White"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "UFC chief Dana White visited the White House on November 9 and, during a news conference with Donald Trump, publicly declined a job offer from the former President.",
+      "background": "Dana White has a long-standing personal and professional relationship with Donald Trump, who was instrumental in providing venues for early UFC events when the sport faced significant regulatory hurdles. White has often been a vocal supporter of Trump.",
+      "examRelevance": "UFC chief Dana White declined Donald Trump's White House job offer.",
+      "tags": [
+        "Dana White",
+        "UFC",
+        "Donald Trump",
+        "White House",
+        "Job Offer"
+      ],
+      "source": {
+        "title": "UFC chief Dana White declines Donald Trump's White House job offer",
+        "url": "https://www.thehindu.com/news/international/ufc-chief-dana-white-declines-donald-trumps-white-house-job-offer/article71684961.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q24",
+      "question": "Which international organization convened the global movement 'Together for Science and Health', which found strong support in Tamil Nadu?",
+      "options": [
+        "United Nations (UN)",
+        "World Health Organization (WHO)",
+        "UNESCO",
+        "Doctors Without Borders (MSF)"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The global movement 'Together for Science and Health' was convened by the World Health Organization (WHO). This initiative aims to unite scientists, policymakers, health professionals, and communities around a shared commitment to science as a foundation for better health, and it has found strong support in Tamil Nadu.",
+      "background": "WHO often initiates global campaigns and movements to address critical health challenges and promote evidence-based practices. This movement emphasizes the importance of science communication and public engagement in health.",
+      "examRelevance": "WHO convened the 'Together for Science and Health' global movement.",
+      "tags": [
+        "WHO",
+        "Science and Health",
+        "Global Movement",
+        "Tamil Nadu",
+        "Health Initiatives"
+      ],
+      "source": {
+        "title": "WHO’s ‘Together for Science and Health’ movement finds strong support in Tamil Nadu",
+        "url": "https://www.thehindu.com/sci-tech/health/whos-together-for-science-and-health-movement-finds-strong-support-in-tamil-nadu/article71685076.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q25",
+      "question": "Which country's Congress is considering a Bill, backed by 19 lawmakers, to recognize Deepavali as its 12th federally recognized holiday?",
+      "options": [
+        "United States",
+        "United Kingdom",
+        "Australia",
+        "Canada"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "A Bill is currently in the U.S. Congress, backed by 19 lawmakers, to recognize Deepavali as a federal holiday. If passed, Deepavali would become the 12th federally recognized holiday in the United States.",
+      "background": "The recognition of Deepavali as a federal holiday would be a significant acknowledgment of the growing Indian diaspora and its cultural contributions in the United States. Federal holidays typically mean a day off for federal employees.",
+      "examRelevance": "U.S. Congress is considering a Bill to recognize Deepavali as a federal holiday.",
+      "tags": [
+        "Deepavali",
+        "U.S. Congress",
+        "Federal Holiday",
+        "International Relations",
+        "Indian Diaspora"
+      ],
+      "source": {
+        "title": "Bill in U.S. Congress to recognise Deepavali as federal holiday, 19 lawmakers back proposal",
+        "url": "https://www.thehindu.com/news/international/bill-in-us-congress-to-recognise-deepavali-as-federal-holiday-19-lawmakers-back-proposal/article71685278.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q26",
+      "question": "Under a government 'guideline on the reform of higher education institutions', which country's universities are undergoing sweeping changes due to AI disruption and a tightening job market?",
+      "options": [
+        "China",
+        "Japan",
+        "India",
+        "South Korea"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "China's universities are undergoing sweeping changes under the government's 'guideline on the reform of higher education institutions'. This reform is driven by AI disruption and a tightening job market, tasking universities with specific goals: research, application-oriented objectives, or skills development.",
+      "background": "China is heavily investing in artificial intelligence and is adapting its education system to meet the demands of an AI-driven economy. This strategic shift aims to align academic output with national technological and economic objectives.",
+      "examRelevance": "China's universities are undergoing reforms due to AI disruption.",
+      "tags": [
+        "AI",
+        "China",
+        "Universities",
+        "Higher Education Reform",
+        "Science & Tech"
+      ],
+      "source": {
+        "title": "How AI is reshaping China’s universities",
+        "url": "https://www.thehindu.com/news/international/how-ai-is-reshaping-chinas-universities/article71683874.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q27",
+      "question": "Which country did France blame for a cyberattack on its supermarket fridges on October 12, which caused refrigerator temperatures to soar in about 700 supermarkets?",
+      "options": [
+        "North Korea",
+        "Iran",
+        "Russia",
+        "China"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "France has blamed Iran for a cyberattack that occurred on October 12, affecting approximately 700 of its supermarkets. The attack caused refrigerator temperatures to soar, leading to significant disruption.",
+      "background": "Cyber warfare and state-sponsored cyberattacks are increasingly common in international relations, targeting critical infrastructure and economic sectors. Attributing such attacks can be complex and often leads to diplomatic tensions.",
+      "examRelevance": "France blamed Iran for a cyberattack on supermarket fridges.",
+      "tags": [
+        "France",
+        "Iran",
+        "Cyberattack",
+        "Supermarkets",
+        "International"
+      ],
+      "source": {
+        "title": "France blames Iran for cyberattack on supermarket fridges",
+        "url": "https://www.thehindu.com/news/international/france-blames-iran-for-cyberattack-on-supermarket-fridges/article71684836.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q28",
+      "question": "Who is the CEO of Nvidia who is being sued over disclosures related to a suspected Chinese spy, and whose alleged infidelity is being looked into by the FBI?",
+      "options": [
+        "Satya Nadella",
+        "Sundar Pichai",
+        "Elon Musk",
+        "Jensen Huang"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Jensen Huang, the CEO of Nvidia, is being sued over disclosures related to a suspected Chinese spy. Additionally, the FBI is reportedly looking into his alleged affair with a 'Chinese agent', raising concerns about potential access to Nvidia's cutting-edge chip technology.",
+      "background": "Nvidia is a leading manufacturer of graphics processing units (GPUs), critical for artificial intelligence development. Allegations of espionage and corporate misconduct involving high-ranking executives can have significant implications for national security and market confidence.",
+      "examRelevance": "Jensen Huang is the CEO of Nvidia, facing a lawsuit related to a suspected Chinese spy.",
+      "tags": [
+        "Jensen Huang",
+        "Nvidia",
+        "Chinese Spy",
+        "FBI",
+        "Lawsuit",
+        "AI Chips"
+      ],
+      "source": {
+        "title": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy",
+        "url": "https://www.thehindu.com/sci-tech/technology/nvidia-ceo-huang-sued-over-disclosures-related-to-suspected-chinese-spy/article71684853.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q29",
+      "question": "Which technology company's market valuation recently soared to $4.5 trillion, putting it on par with Apple as one of the world's most valuable companies?",
+      "options": [
+        "Nvidia",
+        "Microsoft",
+        "Google",
+        "Amazon"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Nvidia's market valuation recently soared to $4.5 trillion, placing it on par with Apple as one of the world's two most valuable companies. This surge is attributed to pouring chip orders, particularly for AI development.",
+      "background": "Nvidia is a dominant player in the graphics processing unit (GPU) market, which is crucial for training and running artificial intelligence models. The increasing demand for AI chips has significantly boosted its financial performance and market standing.",
+      "examRelevance": "Nvidia's market valuation reached $4.5 trillion, on par with Apple.",
+      "tags": [
+        "Nvidia",
+        "Market Valuation",
+        "Apple",
+        "AI Chips",
+        "Economy"
+      ],
+      "source": {
+        "title": "How China gets the Nvidia chips it needs to develop AI",
+        "url": "https://www.thehindu.com/sci-tech/how-china-gets-the-nvidia-chips-it-needs-to-develop-ai/article71685340.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-10-q30",
+      "question": "Who headlines the upcoming eerie investigation thriller film 'Bouma', directed by Rejin S Babu?",
+      "options": [
+        "Tovino Thomas",
+        "Fahadh Faasil",
+        "Dileesh Pothan",
+        "Dulquer Salmaan"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "Dileesh Pothan headlines the upcoming eerie investigation thriller film 'Bouma', which is written and directed by Rejin S Babu. The film also features Sagar Surya, Revathy Sharma, and Aditi Balan.",
+      "background": "Dileesh Pothan is a National Film Award-winning director and actor known for his work in Malayalam cinema. His involvement often signals a project of significant artistic merit or commercial potential.",
+      "examRelevance": "Dileesh Pothan headlines the film 'Bouma'.",
+      "tags": [
+        "Dileesh Pothan",
+        "Bouma",
+        "Film",
+        "Thriller",
+        "Malayalam Cinema"
+      ],
+      "source": {
+        "title": "‘Bouma’ trailer: Dileesh Pothan headlines an eerie investigation thriller",
+        "url": "https://www.thehindu.com/entertainment/movies/bouma-trailer-dileesh-pothan-rejin-s-babu-sagar-surya-revathy-sharma-vineeth-aditi-balan-lenaa/article71685054.ece"
+      }
+    }
+  ]
+}
