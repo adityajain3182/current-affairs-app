@@ -1,0 +1,790 @@
+{
+  "id": "daily-2026-11-11",
+  "type": "daily",
+  "date": "2026-11-11",
+  "title": "Current Affairs — 11 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-11-q1",
+      "question": "Who has been recently appointed as the chairperson of the Tamil Nadu State Commission for Scheduled Castes and Scheduled Tribes?",
+      "options": [
+        "Justice V.K. Rajeev",
+        "Justice C. Joseph Vijay",
+        "Justice M.V. Muralidharan",
+        "Justice S. Tamilvanan"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Retired judge Justice M.V. Muralidharan has been appointed as the new chairperson of the Tamil Nadu State Commission for Scheduled Castes and Scheduled Tribes.",
+      "background": "The post of chairperson had been vacant since March 22, following the demise of the previous chairperson, retired judge S. Tamilvanan.",
+      "examRelevance": "Justice M.V. Muralidharan = Chairperson, Tamil Nadu SC/ST Commission.",
+      "tags": [
+        "Appointments",
+        "Tamil Nadu",
+        "SC/ST Commission",
+        "M.V. Muralidharan"
+      ],
+      "source": {
+        "title": "Retired judge Justice M.V. Muralidharan appointed chairperson of Tamil Nadu SC/ST Commission",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/retired-judge-justice-mv-muralidharan-appointed-chairperson-of-tamil-nadu-scst-commission/article71687089.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q2",
+      "question": "Which new political party has been recently launched by former YSRCP leader Vijayasai Reddy in Andhra Pradesh?",
+      "options": [
+        "Lok Satta Party",
+        "Praja Rajyam Party",
+        "Parivartana Rajaneethi Party",
+        "Jana Sena Party"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Former YSRCP leader Vijayasai Reddy has launched a new political party named Parivartana Rajaneethi Party, aiming to contest all 175 Assembly seats in Andhra Pradesh.",
+      "background": "Vijayasai Reddy, a former leader of the YSRCP, stated his intention to mentor young leaders, drawing parallels with Bal Thackeray and Kanshi Ram, and vowed to end 'two-family' politics in Andhra Pradesh.",
+      "examRelevance": "Vijayasai Reddy = Founder of Parivartana Rajaneethi Party, Andhra Pradesh.",
+      "tags": [
+        "Political Parties",
+        "Andhra Pradesh",
+        "Vijayasai Reddy",
+        "Parivartana Rajaneethi Party"
+      ],
+      "source": {
+        "title": "Vijayasai Reddy launches Parivartana Rajaneethi Party, vows to end ‘two-family’ politics in Andhra",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/vijayasai-reddy-launches-parivartana-rajaneethi-party-vows-to-end-two-family-politics-in-andhra/article71688719.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q3",
+      "question": "Who is the current chief of the National Commission for Women (NCW) who is scheduled to meet Jharkhand officials regarding the Nisha Bhagat case?",
+      "options": [
+        "Vijaya Rahatkar",
+        "Mamta Sharma",
+        "Lalita Kumaramangalam",
+        "Rekha Sharma"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Vijaya Rahatkar, the chief of the National Commission for Women (NCW), will interact with media in Ranchi after meeting senior police officers and district administration officials concerning the Nisha Bhagat case and other women's safety issues.",
+      "background": "The NCW is a statutory body of the Government of India, generally concerned with advising the government on all policy matters affecting women.",
+      "examRelevance": "Vijaya Rahatkar = Chief of National Commission for Women (NCW).",
+      "tags": [
+        "Appointments",
+        "NCW",
+        "Women's Safety",
+        "Vijaya Rahatkar",
+        "Jharkhand"
+      ],
+      "source": {
+        "title": "NCW chief Vijaya Rahatkar to meet Jharkhand officials over Nisha Bhagat case",
+        "url": "https://www.thehindu.com/news/national/jharkhand/ncw-chief-vijaya-rahatkar-to-meet-jharkhand-officials-over-nisha-bhagat-case/article71688785.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q4",
+      "question": "In which Indian state have over 25,500 drunk driving cases been booked since October 13 as part of an intensified crackdown?",
+      "options": [
+        "Andhra Pradesh",
+        "Karnataka",
+        "Tamil Nadu",
+        "Kerala"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Kerala Police have booked over 25,500 drunk driving cases since October 13 and will seek licence suspension for first-time offenders and cancellation for repeat offenders, as part of an intensified crackdown on drunk and reckless driving.",
+      "background": "This intensified crackdown was launched in the wake of a Nedumbassery accident that resulted in the death of three youths.",
+      "examRelevance": "Kerala Police = Intensified crackdown on drunk driving, 25,500+ cases since Oct 13.",
+      "tags": [
+        "Kerala",
+        "Drunk Driving",
+        "Road Safety",
+        "Police Action"
+      ],
+      "source": {
+        "title": "Over 25,500 drunk driving cases booked in Keralam since October 13; police to seek licence cancellation for repeat offenders",
+        "url": "https://www.thehindu.com/news/national/kerala/over-25500-drunk-driving-cases-booked-in-keralam-since-october-13-police-to-seek-licence-cancellation-for-repeat-offenders/article71688680.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q5",
+      "question": "What was the price of benchmark Brent crude that it fell below on Tuesday for the first time since late August?",
+      "options": [
+        "$80 a barrel",
+        "$110 a barrel",
+        "$100 a barrel",
+        "$90 a barrel"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Benchmark Brent crude fell below $90 a barrel on Tuesday, marking the first time it has dropped to this level since late August, extending a decline of over 20% from its recent high of $118 on October 30.",
+      "background": "This decline comes amidst an \"uneasy equilibrium\" in the Iran war scenario, where Gulf energy producers have adapted to a no-war, no-peace reality, making operations more expensive and risky.",
+      "examRelevance": "Brent crude = Fell below $90 a barrel, first time since late August.",
+      "tags": [
+        "Brent Crude",
+        "Oil Prices",
+        "Global Economy",
+        "Energy Market"
+      ],
+      "source": {
+        "title": "Trump's war pause is as costly as new strikes",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-iran-war-pause-is-as-costly-as-new-strikes/articleshow/135728791.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q6",
+      "question": "A hijack threat note was recently found on an Air India flight operating between which two major Indian cities?",
+      "options": [
+        "Chennai-Kolkata",
+        "Bengaluru-Hyderabad",
+        "Delhi-Mumbai",
+        "Kolkata-Mumbai"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "A hijack threat note was found on an India flight operating from Kolkata to Mumbai. The aircraft was subsequently taken to an isolation bay and all passengers were deboarded for security checks.",
+      "background": "Such incidents trigger high alert procedures, involving thorough inspection of the aircraft and passengers to ensure safety and security.",
+      "examRelevance": "Hijack threat = Kolkata-Mumbai Air India flight.",
+      "tags": [
+        "Air India",
+        "Aviation Security",
+        "Kolkata",
+        "Mumbai",
+        "Flight Threat"
+      ],
+      "source": {
+        "title": "Hijack threat note found in Kolkata-Mumbai Air India flight; aircraft taken to isolation bay",
+        "url": "https://www.thehindu.com/news/national/hijack-threat-note-found-in-kolkata-mumbai-air-india-flight-aircraft-taken-to-isolation-bay/article71688677.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q7",
+      "question": "Which country is currently experiencing an Ebola outbreak that has topped 11,000 cases since mid-May?",
+      "options": [
+        "Liberia",
+        "Nigeria",
+        "Uganda",
+        "Democratic Republic of Congo"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "The Ebola outbreak in the Democratic Republic of Congo has now surpassed 11,000 cases since it was declared in mid-May.",
+      "background": "Congolese authorities have faced significant challenges in containing the outbreak due to various factors, including ongoing conflicts and a crisis within the health system.",
+      "examRelevance": "Democratic Republic of Congo = Ebola outbreak, over 11,000 cases since mid-May.",
+      "tags": [
+        "Ebola",
+        "Public Health",
+        "Democratic Republic of Congo",
+        "Disease Outbreak"
+      ],
+      "source": {
+        "title": "Congo's Ebola outbreak tops 11,000 cases as disease keeps spreading",
+        "url": "https://www.thehindu.com/news/international/congos-ebola-outbreak-tops-11000-cases-as-disease-keeps-spreading/article71688652.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q8",
+      "question": "Which city in Tamil Nadu is known for its cracker manufacturing industry and will be involved in a meeting with the state government to push green cracker production?",
+      "options": [
+        "Madurai",
+        "Chennai",
+        "Coimbatore",
+        "Sivakasi"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Tamil Nadu Minister V.K. Rajeev announced that the state government will hold a meeting with manufacturers from Sivakasi, a city known for its cracker industry, to promote green cracker production.",
+      "background": "This initiative comes after Chennai recorded higher pollution levels during Deepavali, with specific attention to areas like Valasaravakkam where air quality was highest.",
+      "examRelevance": "Tamil Nadu = Push for green cracker production, Sivakasi manufacturers.",
+      "tags": [
+        "Tamil Nadu",
+        "Green Crackers",
+        "Sivakasi",
+        "Air Pollution",
+        "Deepavali"
+      ],
+      "source": {
+        "title": "Tamil Nadu to push green cracker production in meeting with Sivakasi manufacturers this month: Minister V.K. Rajeev",
+        "url": "https://www.thehindu.com/news/cities/chennai/tamil-nadu-to-push-green-cracker-production-in-meeting-with-sivakasi-manufacturers-this-month-minister-vk-rajeev/article71686091.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q9",
+      "question": "A bank agent was recently robbed of ₹1.50 crore collected from Tasmac outlets in which district of Tamil Nadu?",
+      "options": [
+        "Chennai",
+        "Tiruchirappalli",
+        "Madurai",
+        "Kancheepuram"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "A small group of unidentified persons hijacked a bank agent's car in Kancheepuram, Tamil Nadu, and robbed ₹1.50 crore that had been collected from Tasmac outlets.",
+      "background": "Tasmac (Tamil Nadu State Marketing Corporation) is a state-owned company that has a monopoly over wholesale and retail vending of alcoholic beverages in Tamil Nadu.",
+      "examRelevance": "Robbery = ₹1.50 crore from Tasmac collections, Kancheepuram, Tamil Nadu.",
+      "tags": [
+        "Robbery",
+        "Kancheepuram",
+        "Tamil Nadu",
+        "Tasmac",
+        "Crime"
+      ],
+      "source": {
+        "title": "Gang robs bank agent of ₹1.50 crore collected from Tasmac outlets in Kancheepuram",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/gang-robs-bank-agent-of-150-crore-collected-from-tasmac-outlets-in-kancheepuram/article71688496.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q10",
+      "question": "The CII Partnership Summit is scheduled to begin on November 12 in which Indian city, with Union Home Minister Amit Shah addressing the inaugural session?",
+      "options": [
+        "Bengaluru",
+        "Visakhapatnam",
+        "Chennai",
+        "Hyderabad"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The CII Partnership Summit is set to commence on November 12 in Visakhapatnam, where Union Home Minister Amit Shah will address the inaugural session. The two-day summit expects over 3,800 delegates from 59 countries and more than 160 MoUs.",
+      "background": "The Confederation of Indian Industry (CII) organizes this annual summit to foster partnerships and investments, bringing together global leaders and businesses.",
+      "examRelevance": "CII Partnership Summit = Visakhapatnam, November 12, Amit Shah.",
+      "tags": [
+        "CII",
+        "Partnership Summit",
+        "Visakhapatnam",
+        "Economy",
+        "Business",
+        "Amit Shah"
+      ],
+      "source": {
+        "title": "CII Partnership Summit begins in Visakhapatnam on November 12; Amit Shah to address inaugural session",
+        "url": "https://www.thehindu.com/news/cities/Visakhapatnam/cii-partnership-summit-begins-in-visakhapatnam-on-november-12-amit-shah-to-address-inaugural-session/article71688259.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q11",
+      "question": "How many ART (Assisted Reproductive Technology) centres were inspected across Telangana as part of an investigation into an illegal oocyte collection racket?",
+      "options": [
+        "22",
+        "17",
+        "27",
+        "32"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "As part of an investigation into an illegal oocyte collection racket, 27 ART (Assisted Reproductive Technology) centres were inspected across Telangana, and notices were issued to seven hospitals.",
+      "background": "The investigation aims to examine the involvement of women, doctors, IVF centres, and intermediaries allegedly facilitating these illegal activities.",
+      "examRelevance": "Telangana = 27 ART centres inspected in illegal oocyte collection racket probe.",
+      "tags": [
+        "Telangana",
+        "Oocyte Collection",
+        "ART Centres",
+        "Medical Crime",
+        "Health"
+      ],
+      "source": {
+        "title": "Illegal oocyte collection racket: 27 ART centres inspected across Telangana, notices issued to seven hospitals",
+        "url": "https://www.thehindu.com/news/national/telangana/illegal-oocyte-collection-racket-27-art-centres-inspected-across-telangana-notices-issued-to-seven-hospitals/article71688627.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q12",
+      "question": "The Bengaluru–Mangaluru–Goa Vande Bharat Express is scheduled to be flagged off on November 13. Which two dignitaries will flag off the service from Bengaluru and Mangaluru Junction respectively?",
+      "options": [
+        "CM Basavaraj Bommai and CM Pramod Sawant",
+        "PM Narendra Modi and Railway Minister Ashwini Vaishnaw",
+        "Railway Minister Ashwini Vaishnaw and CM Basavaraj Bommai",
+        "President Droupadi Murmu and PM Narendra Modi"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "Prime Minister Narendra Modi will flag off the Bengaluru–Mangaluru–Goa Vande Bharat Express from Bengaluru, while Railway Minister Ashwini Vaishnaw will flag it off from Mangaluru Junction on November 13.",
+      "background": "The Vande Bharat Express is a semi-high-speed train service introduced by Indian Railways, designed to improve connectivity and travel experience across the country.",
+      "examRelevance": "Bengaluru–Mangaluru–Goa Vande Bharat Express = Flagged off by PM Modi (Bengaluru) and Ashwini Vaishnaw (Mangaluru) on Nov 13.",
+      "tags": [
+        "Vande Bharat Express",
+        "Indian Railways",
+        "PM Modi",
+        "Ashwini Vaishnaw",
+        "Karnataka",
+        "Goa"
+      ],
+      "source": {
+        "title": "PM Modi and Railway Minister to flag off Bengaluru–Mangaluru–Goa Vande Bharat Express on November 13",
+        "url": "https://www.thehindu.com/news/cities/Mangalore/pm-modi-and-railway-minister-to-flag-off-bengaluru-mangaluru-goa-vande-bharat-express-on-november-13/article71685225.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q13",
+      "question": "According to Iran's top security official, what specific set of conditions must the U.S. meet before the Strait of Hormuz can reopen and negotiations resume?",
+      "options": [
+        "Seven conditions",
+        "Eight conditions",
+        "Six conditions",
+        "Five conditions"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Iran's top security official stated that no talks are currently underway with the U.S., and Iran insists that the U.S. must meet seven conditions outlined in a June interim agreement before the Strait of Hormuz can reopen and negotiations resume.",
+      "background": "The Strait of Hormuz is a strategically important waterway, connecting the Persian Gulf with the Gulf of Oman and the Arabian Sea, crucial for global oil shipments.",
+      "examRelevance": "Iran-US talks = Iran demands 7 conditions for Strait of Hormuz reopening.",
+      "tags": [
+        "Iran",
+        "US",
+        "International Relations",
+        "Strait of Hormuz",
+        "Diplomacy"
+      ],
+      "source": {
+        "title": "No talks underway with U.S., says Iran top security official",
+        "url": "https://www.thehindu.com/news/international/no-talks-underway-with-us-says-iran-top-security-official/article71688184.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q14",
+      "question": "For the CISCE 2027 exams, what are the starting dates for the ICSE Class 10 and ISC Class 12 examinations, respectively?",
+      "options": [
+        "February 15 and February 9",
+        "February 10 and February 5",
+        "March 5 and March 1",
+        "March 1 and February 15"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "For the CISCE 2027 examinations, the ICSE Class 10 exams are set to begin from February 15, and the ISC Class 12 exams will commence from February 9.",
+      "background": "The Council for the Indian School Certificate Examinations (CISCE) is a private, national-level board of school education in India that conducts the ICSE and ISC examinations.",
+      "examRelevance": "CISCE 2027 Exams = ICSE Class 10 from Feb 15, ISC Class 12 from Feb 9.",
+      "tags": [
+        "Education",
+        "CISCE",
+        "ICSE",
+        "ISC",
+        "Exam Dates"
+      ],
+      "source": {
+        "title": "CISCE 2027 exam schedule: Check out ICSE Class 10 and ISC Class 12 date sheets and timetable",
+        "url": "https://www.thehindu.com/news/national/cisce-2027-class-10-class-12-exam-date-sheet-time-table/article71688571.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q15",
+      "question": "By what percentage have the Nifty 50 and Sensex soared so far in November, putting them on track for their best month since November 2020?",
+      "options": [
+        "11% and 11.5%",
+        "8% and 8.5%",
+        "9% and 9.5%",
+        "10% and 10.5%"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Nifty 50 and Sensex have soared by 10% and 10.5% respectively so far in November, marking their best month since November 2020 and outperforming emerging market peers.",
+      "background": "This surge indicates a return of foreign investors to the Indian stock markets, contributing to the eight-month high.",
+      "examRelevance": "Nifty 50 and Sensex = Soared 10% and 10.5% in November.",
+      "tags": [
+        "Stock Market",
+        "Nifty 50",
+        "Sensex",
+        "Economy",
+        "Foreign Investment"
+      ],
+      "source": {
+        "title": "Stock markets hit eight-month high as foreign investors return",
+        "url": "https://www.thehindu.com/business/Industry/stock-markets-surge-in-early-trade-sensex-jumps-1097-points/article71688324.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q16",
+      "question": "The Lieutenant Governor of Jammu & Kashmir has constituted a committee to probe a recent fire incident in which market?",
+      "options": [
+        "Raghunath Bazaar",
+        "Lal Chowk Market",
+        "Hari Singh High Street Market",
+        "Nehru Market"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Lieutenant Governor of Jammu & Kashmir has constituted a committee to investigate the recent fire incident at Nehru Market. The committee is tasked with probing any lapses or negligence, fixing responsibility, and submitting its report within 15 days.",
+      "background": "Such committees are typically formed to ensure accountability and prevent recurrence of similar incidents, especially in public places.",
+      "examRelevance": "J&K L-G = Committee to probe Nehru Market fire.",
+      "tags": [
+        "Jammu & Kashmir",
+        "Nehru Market",
+        "Fire Incident",
+        "Investigation",
+        "Governance"
+      ],
+      "source": {
+        "title": "J&K L-G constitutes committee to probe Nehru market fire",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-l-g-constitutes-committee-to-probe-nehru-market-fire/article71688716.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q17",
+      "question": "Scott Bessent, who will travel to China next week for U.S. President Donald Trump’s third meeting this year with Chinese President Xi Jinping, has stated that the U.S. and China should stay clear-eyed on cooperation and competition regarding which advanced technology?",
+      "options": [
+        "Biotechnology",
+        "Artificial Intelligence",
+        "Renewable Energy",
+        "Quantum Computing"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Scott Bessent, who is part of the U.S. delegation for President Donald Trump’s third meeting with Chinese President Xi Jinping this year, emphasized that the U.S. and China should maintain a clear perspective on cooperation and competition concerning Artificial Intelligence.",
+      "background": "The U.S.-China relationship in AI is a critical area of international policy, balancing the need for collaboration on global challenges with competition in technological advancement and national security.",
+      "examRelevance": "Scott Bessent = US-China AI cooperation/competition.",
+      "tags": [
+        "US-China Relations",
+        "Artificial Intelligence",
+        "Diplomacy",
+        "Scott Bessent",
+        "Technology"
+      ],
+      "source": {
+        "title": "U.S. and China should stay clear-eyed on AI cooperation and competition, says Scott Bessent",
+        "url": "https://www.thehindu.com/news/international/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-says-scott-bessent/article71688169.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q18",
+      "question": "How many seats in five Tripura civic bodies did the BJP win unopposed, with elections for the remaining seats scheduled for November 27?",
+      "options": [
+        "87",
+        "77",
+        "67",
+        "57"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The BJP has won 77 seats unopposed across five civic bodies in Tripura. Elections for the remaining 268 seats are scheduled for November 27, which will witness a triangular fight among the BJP-led NDA, CPI(M), and Congress.",
+      "background": "Winning seats unopposed indicates a strong political presence and lack of opposition candidates in those specific constituencies.",
+      "examRelevance": "Tripura Civic Bodies = BJP won 77 seats unopposed.",
+      "tags": [
+        "Tripura",
+        "BJP",
+        "Civic Elections",
+        "Unopposed Wins",
+        "Polity"
+      ],
+      "source": {
+        "title": "BJP wins 77 seats of five Tripura civic bodies unopposed; elections for rest on November 27",
+        "url": "https://www.thehindu.com/news/national/tripura/bjp-wins-77-seats-of-five-tripura-civic-bodies-unopposed-elections-for-rest-on-november-27/article71688590.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q19",
+      "question": "The Indian government has recently prohibited the export of which specific type of waste material, previously permitted under the 'Free' category?",
+      "options": [
+        "Medical waste",
+        "Plastic waste",
+        "E-waste",
+        "Unsorted lithium-ion battery waste/scrap"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "The Indian government has prohibited the export of unsorted lithium-ion battery waste and scrap. Previously, this material was permitted for export under the 'Free' category, but with the latest amendment, exporters are no longer allowed to export it.",
+      "background": "This policy change is likely aimed at promoting domestic recycling, better waste management, and potentially securing critical raw materials for battery manufacturing within the country.",
+      "examRelevance": "India = Prohibits export of unsorted lithium-ion battery waste/scrap.",
+      "tags": [
+        "Lithium-ion Batteries",
+        "Waste Management",
+        "Export Policy",
+        "Environment",
+        "Government Regulation"
+      ],
+      "source": {
+        "title": "Govt. prohibits export of unsorted lithium-ion battery waste, scrap",
+        "url": "https://www.thehindu.com/business/govt-prohibits-export-of-unsorted-lithium-ion-batterywaste-scrap/article71688575.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q20",
+      "question": "The ICC Board and Committee representatives are meeting from November 11-15 in which location to propose the World Test Championship (WTC) match-ups for the 2027 to 2031 cycle?",
+      "options": [
+        "Melbourne",
+        "London",
+        "Bali",
+        "Dubai"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "The ICC Board and Committee representatives are holding their final set of meetings for 2026 from November 11-15 in Bali, where the World Test Championship (WTC) match-ups for the 2027 to 2031 cycle are set to be proposed.",
+      "background": "The World Test Championship is a league competition for Test cricket run by the International Cricket Council (ICC), aimed at creating a pinnacle event for the longest format of the game.",
+      "examRelevance": "ICC Meet = Bali, November 11-15, WTC 2027-2031 match-ups proposal.",
+      "tags": [
+        "Cricket",
+        "ICC",
+        "World Test Championship",
+        "Bali",
+        "Sports Events"
+      ],
+      "source": {
+        "title": "WTC match-ups from 2027 to 2031 set to be proposed during ICC meet in Bali",
+        "url": "https://www.thehindu.com/sport/cricket/wtc-match-ups-from-2027-to-2031-set-to-be-proposed-during-icc-meet-in-bali/article71688543.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q21",
+      "question": "What was the Air Quality Index (AQI) recorded in Delhi after Deepavali, indicating a deterioration in air quality?",
+      "options": [
+        "200",
+        "250",
+        "150",
+        "303"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Delhi's air quality deteriorated after Deepavali, with the Air Quality Index (AQI) settling at 303. Stubble burning in neighboring states is contributing to this deterioration.",
+      "background": "An AQI between 301 and 400 is classified as \"Very Poor,\" which can cause respiratory illness on prolonged exposure.",
+      "examRelevance": "Delhi AQI = 303 after Deepavali.",
+      "tags": [
+        "Delhi",
+        "Air Quality Index",
+        "AQI",
+        "Deepavali",
+        "Air Pollution",
+        "Environment"
+      ],
+      "source": {
+        "title": "Delhi air quality deteriorates, AQI settles at 303",
+        "url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-quality-deteriorates-aqi-settles-at-303/article71688408.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q22",
+      "question": "How many coaches of the Sairang-Kolkata Express train recently derailed at Digaru in Assam?",
+      "options": [
+        "Five",
+        "Six",
+        "Four",
+        "Seven"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "Six coaches of the Sairang-Kolkata Express train derailed at Digaru in Assam. No injuries have been reported so far, and alternate trains were arranged for passengers.",
+      "background": "According to authorities, the loco pilot failed to control the train’s speed while giving precedence to another train, leading to the derailment.",
+      "examRelevance": "Sairang-Kolkata Express = Six coaches derailed in Assam.",
+      "tags": [
+        "Train Derailment",
+        "Assam",
+        "Indian Railways",
+        "Sairang-Kolkata Express",
+        "Accident"
+      ],
+      "source": {
+        "title": "Six coaches of Sairang-Kolkata Express train derail",
+        "url": "https://www.thehindu.com/news/national/assam/assam-sairang-kolkata-express-train-coaches-derailment-accident-today-live-updates-november-11-2026/article71688339.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q23",
+      "question": "Mother Dairy, a major milk supplier in Delhi-NCR, has announced a price hike for milk by how much per litre, effective November 12?",
+      "options": [
+        "₹3-5",
+        "₹1-2",
+        "₹4-6",
+        "₹2-4"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Mother Dairy, the largest milk supplier in Delhi-NCR, has announced an increase in milk prices by ₹2-4 per litre, which will be effective from November 12.",
+      "background": "This is Mother Dairy's second price hike this year, having last raised prices on May 14, 2026. Prior to that, a price revision was made in April 2025.",
+      "examRelevance": "Mother Dairy = Milk prices raised by ₹2-4 per litre, effective Nov 12.",
+      "tags": [
+        "Mother Dairy",
+        "Milk Prices",
+        "Price Hike",
+        "Economy",
+        "Dairy Products"
+      ],
+      "source": {
+        "title": "Mother Dairy raises milk prices by ₹2-4 per litre, effective November 12",
+        "url": "https://www.thehindu.com/business/mother-dairy-raises-milk-prices-by-2-4-per-litre-effective-november-12/article71688495.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q24",
+      "question": "HEG Advanced Materials' subsidiary, TACC, has received approval for an incentive of approximately ₹610 crore under which scheme of the Ministry of Electronics and Information Technology?",
+      "options": [
+        "Digital India Programme",
+        "PLI Scheme",
+        "Make in India Initiative",
+        "Electronics Component Manufacturing Scheme (ECMS)"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "HEG Advanced Materials' subsidiary, TACC, has received an approval letter for an incentive of ₹609.50 crore (approximately ₹610 crore) under the Electronics Component Manufacturing Scheme (ECMS) of the Ministry of Electronics and Information Technology.",
+      "background": "This incentive is for TACC’s Synthetic Graphite Anode Material project located at Sirsoda Industrial Area, Dewas, Madhya Pradesh, and is subject to scheme guidelines and prescribed conditions.",
+      "examRelevance": "HEG Advanced Materials (TACC) = ₹610 crore incentive under ECMS.",
+      "tags": [
+        "ECMS",
+        "Schemes",
+        "Electronics Manufacturing",
+        "HEG Advanced Materials",
+        "Make in India"
+      ],
+      "source": {
+        "title": "HEG Advanced Materials shares gain 5% after subsidiary secures Rs 610 crore incentive under ECMS",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/heg-advanced-materials-shares-gain-5-after-subsidiary-secures-rs-610-crore-incentive-under-ecms/articleshow/135727758.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q25",
+      "question": "How many Swachh Survekshan awards has Andhra Pradesh recently received, attributed to its initiatives in sanitation and urban cleanliness?",
+      "options": [
+        "Seven",
+        "Four",
+        "Six",
+        "Five"
+      ],
+      "answerIndex": 2,
+      "category": "Awards & Honours",
+      "explanation": "Andhra Pradesh has recently received six Swachh Survekshan awards. The Municipal Administration Department credits the state's continued recognition to various initiatives implemented to improve sanitation and urban cleanliness.",
+      "background": "Swachh Survekshan is an annual survey conducted by the Ministry of Housing and Urban Affairs (MoHUA) to assess the cleanliness and sanitation efforts in Indian cities and towns.",
+      "examRelevance": "Andhra Pradesh = Six Swachh Survekshan awards.",
+      "tags": [
+        "Swachh Survekshan",
+        "Andhra Pradesh",
+        "Awards",
+        "Sanitation",
+        "Urban Cleanliness"
+      ],
+      "source": {
+        "title": "Six Swachh Survekshan awards for Andhra Pradesh",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/six-swachh-survekshan-awards-for-andhra-pradesh/article71688236.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q26",
+      "question": "Which former Prime Minister of Pakistan was recently briefly hospitalized for an eye check-up at the Pakistan Institute of Medical Sciences before being shifted back to jail?",
+      "options": [
+        "Benazir Bhutto",
+        "Imran Khan",
+        "Nawaz Sharif",
+        "Shaukat Aziz"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Former Pakistan Prime Minister Imran Khan was briefly hospitalized for an eye check-up at the Pakistan Institute of Medical Sciences (PIMS) and for blood pressure issues, before being shifted back to jail.",
+      "background": "Imran Khan, leader of the Pakistan Tehreek-e-Insaf (PTI) party, has been incarcerated following various legal proceedings.",
+      "examRelevance": "Imran Khan = Former Pakistan PM, briefly hospitalized for eye check-up, returned to jail.",
+      "tags": [
+        "Imran Khan",
+        "Pakistan",
+        "International News",
+        "Political Prisoners",
+        "Health"
+      ],
+      "source": {
+        "title": "Former Pakistan PM Imran Khan back in jail after medical treatment, sources say",
+        "url": "https://www.thehindu.com/news/international/former-pakistan-pm-imran-khan-back-in-jail-after-medical-treatment-sources-say/article71688472.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q27",
+      "question": "Which leading AI model developer is targeting a valuation of up to $1.4 trillion for its stock market debut?",
+      "options": [
+        "Google DeepMind",
+        "Anthropic",
+        "Stability AI",
+        "OpenAI"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Anthropic, one of the leading AI model developers, is targeting a valuation of up to $1.4 trillion for its stock market debut, which would be the first by a major AI model developer.",
+      "background": "Anthropic is known for developing advanced AI models, including its \"Claude\" family of large language models, and competes with other major players in the rapidly expanding AI industry.",
+      "examRelevance": "Anthropic = AI model developer, targets $1.4 trillion valuation for stock market debut.",
+      "tags": [
+        "Anthropic",
+        "Artificial Intelligence",
+        "AI",
+        "Valuation",
+        "Technology",
+        "Economy & Business"
+      ],
+      "source": {
+        "title": "Anthropic targets valuation of up to $1.4 trillion",
+        "url": "https://www.thehindu.com/sci-tech/technology/anthropic-targets-valuation-of-up-to-14-trillion/article71688205.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q28",
+      "question": "Which regulatory body has recently formed working groups to facilitate the convergence of its risk-based capital framework with Indian Accounting Standards (IndAS)?",
+      "options": [
+        "RBI",
+        "SEBI",
+        "IRDAI",
+        "PFRDA"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The IRDAI (Insurance Regulatory and Development Authority of India) has formed working groups to facilitate the convergence of its risk-based capital framework with Indian Accounting Standards (IndAS). IndAS statements will form the starting point for the Risk-Based Capital (RBC) framework.",
+      "background": "This move aims to enhance financial reporting and regulatory oversight in the insurance sector by aligning capital requirements with international accounting practices.",
+      "examRelevance": "IRDAI = Forms working groups for risk-based capital framework convergence with IndAS.",
+      "tags": [
+        "IRDAI",
+        "IndAS",
+        "Risk-Based Capital",
+        "Insurance",
+        "Regulatory Bodies",
+        "Economy"
+      ],
+      "source": {
+        "title": "IRDAI forms working groups on risk-based capital framework convergence with IndAS",
+        "url": "https://www.thehindu.com/business/Industry/irdai-forms-working-groups-on-risk-based-capital-framework-convergence-with-indas/article71687324.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q29",
+      "question": "Which global investment firm is leading a ₹6,414 crore primary capital infusion into IIFL Finance?",
+      "options": [
+        "Blackstone",
+        "KKR",
+        "Carlyle Group",
+        "TPG Capital"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "IIFL Finance shares rallied after the company announced a ₹6,414 crore ($686 million) primary capital infusion led by global investment firm Blackstone and its promoters. Blackstone Private Equity will invest ₹5,000 crore ($535 million) in this transaction.",
+      "background": "This proposed fundraise is among the largest primary private equity investments in a listed Indian non-banking financial company (NBFC) and was approved by IIFL Finance's board on November 10.",
+      "examRelevance": "IIFL Finance = ₹6,414 crore capital infusion led by Blackstone.",
+      "tags": [
+        "IIFL Finance",
+        "Blackstone",
+        "Capital Infusion",
+        "NBFC",
+        "Economy & Business",
+        "Investment"
+      ],
+      "source": {
+        "title": "IIFL Finance shares rally 5% as Blackstone leads Rs 6,414 crore capital infusion",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/iifl-finance-shares-rally-5-as-blackstone-leads-rs-6414-crore-capital-infusion/articleshow/135727231.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-11-q30",
+      "question": "Jamaica's reparations petition asks whether the enslavement of Africans in Jamaica violated which type of law?",
+      "options": [
+        "Common law",
+        "Civil law",
+        "Constitutional law",
+        "International law"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Jamaica's reparations petition is focused on determining whether the enslavement of Africans in Jamaica constituted a violation of international law.",
+      "background": "This petition is part of a broader global movement by descendants of enslaved people seeking justice and compensation for historical injustices.",
+      "examRelevance": "Jamaica's reparations petition = Violation of international law by enslavement of Africans.",
+      "tags": [
+        "Jamaica",
+        "Reparations",
+        "International Law",
+        "Slavery",
+        "Human Rights"
+      ],
+      "source": {
+        "title": "Why Jamaica’s reparations petition has a solid legal basis",
+        "url": "https://www.thehindu.com/news/international/why-jamaicas-reparations-petition-has-a-solid-legal-basis/article71687311.ece"
+      }
+    }
+  ]
+}
