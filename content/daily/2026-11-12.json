@@ -1,0 +1,796 @@
+{
+  "id": "daily-2026-11-12",
+  "type": "daily",
+  "date": "2026-11-12",
+  "title": "Current Affairs — 12 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-12-q1",
+      "question": "The Division Bench of which High Court recently allowed the State’s appeal against a Single Judge order that had quashed the restructuring of a police association?",
+      "options": [
+        "Bombay High Court",
+        "Madras High Court",
+        "Kerala High Court",
+        "Delhi High Court"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Kerala High Court's Division Bench recently allowed the State's appeal against a Single Judge order that had previously quashed a police association rejig. The State contended that the restructuring was initiated because the existing association structure no longer reflected the prevailing service structure.",
+      "background": "This legal development pertains to the internal administration and restructuring of police associations, highlighting judicial oversight on state government decisions regarding service structures. Such cases often involve interpretations of service rules and administrative law.",
+      "examRelevance": "Kerala High Court allowed the State's appeal regarding police association restructuring.",
+      "tags": [
+        "Kerala High Court",
+        "Police Association",
+        "Restructuring",
+        "Judicial Appeal"
+      ],
+      "source": {
+        "title": "Kerala HC Division Bench allows State’s appeal against Single Judge order quashing police association rejig",
+        "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-division-bench-allows-states-appeal-against-single-judge-order-quashing-police-association-rejig/article71692716.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q2",
+      "question": "Which company recently received government approval for the construction of its data centre in Bhogapuram, Andhra Pradesh, a project expected to attract nearly ₹1 lakh crore investments?",
+      "options": [
+        "Reliance Industries Limited",
+        "Wipro Limited",
+        "Tata Consultancy Services",
+        "Infosys Limited"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Reliance Industries Limited (RIL) recently received government approval for constructing its data centre in Bhogapuram, Andhra Pradesh. This project is anticipated to attract significant investments, estimated at nearly ₹1 lakh crore.",
+      "background": "The approval for this major data centre project in Bhogapuram is expected to boost the region's economic development, especially with the upcoming Bhogapuram International Airport. It underscores the growing focus on digital infrastructure and investment in Andhra Pradesh.",
+      "examRelevance": "Reliance Industries Limited to build data centre in Bhogapuram, Andhra Pradesh, with ₹1 lakh crore investment.",
+      "tags": [
+        "Reliance Industries",
+        "Data Centre",
+        "Bhogapuram",
+        "Andhra Pradesh",
+        "Investment"
+      ],
+      "source": {
+        "title": "CII Partnership Summit: Vizianagaram likely to attract more investments due to Bhogapuram airport, officials say",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/cii-partnership-summit-vizianagaram-likely-to-attract-more-investments-due-to-bhogapuram-airport-officials-say/article71692154.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q3",
+      "question": "Which district in Telangana recently recorded the lowest minimum temperature of 11.3°C?",
+      "options": [
+        "Hyderabad",
+        "Nalgonda",
+        "Sangareddy",
+        "Warangal"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Sangareddy district in Telangana recently recorded the lowest minimum temperature across the state, reaching 11.3°C. This indicated a further drop in temperatures across Telangana, with all 33 districts experiencing temperatures less than 15.2°C.",
+      "background": "Weather patterns and significant temperature drops are often reported, especially during transitional seasons. Such specific data points can be asked in exams to test general awareness of regional weather and geography.",
+      "examRelevance": "Sangareddy recorded Telangana's lowest minimum temperature at 11.3°C.",
+      "tags": [
+        "Telangana",
+        "Sangareddy",
+        "Temperature",
+        "Weather"
+      ],
+      "source": {
+        "title": "Temperatures drop further in Telangana; lowest of 11.3°C in Sangareddy",
+        "url": "https://www.thehindu.com/news/national/telangana/temperatures-drop-further-in-telangana-lowest-of-113c-in-sangareddy/article71692815.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q4",
+      "question": "Who recently served as the Grand Marshal at the 107th New York City Veterans Day Parade?",
+      "options": [
+        "Sunita Williams",
+        "Mae Jemison",
+        "Kalpana Chawla",
+        "Peggy Whitson"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Indian-American astronaut Sunita Williams recently served as the Grand Marshal at the 107th New York City Veterans Day Parade. The parade brought together veterans, military families, service members, and supporters to recognise the courage, service, and sacrifice of America's military heroes.",
+      "background": "The New York City Veterans Day Parade is an annual event honoring veterans and military personnel. Sunita Williams is a renowned astronaut known for her extensive space missions and is a former U.S. Navy officer.",
+      "examRelevance": "Sunita Williams served as Grand Marshal at the 107th New York City Veterans Day Parade.",
+      "tags": [
+        "Sunita Williams",
+        "Grand Marshal",
+        "New York City",
+        "Veterans Day Parade",
+        "Astronaut"
+      ],
+      "source": {
+        "title": "Sunita Williams serves as Grand Marshal at 107th New York City Veterans Day Parade",
+        "url": "https://www.thehindu.com/news/international/sunita-williams-serves-as-grand-marshal-at-107th-new-york-city-veterans-day-parade/article71692666.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q5",
+      "question": "In which chess tournament did Indian Grandmasters Praggnanandhaa and Erigaisi recently begin their fast classical campaign with draws?",
+      "options": [
+        "Tata Steel Chess",
+        "Total Chess Pilot",
+        "FIDE Candidates Tournament",
+        "Sinquefield Cup"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Indian Grandmasters R. Praggnanandhaa and Arjun Erigaisi recently commenced their fast classical campaign with draws at the Total Chess Pilot tournament. R. Vaishali, the third Indian in the fray, also participated.",
+      "background": "This tournament features a 'fast classical' format, which differs from traditional classical chess in terms of time controls. The participation of several prominent young Indian Grandmasters highlights India's growing presence in international chess.",
+      "examRelevance": "Praggnanandhaa and Erigaisi participated in the Total Chess Pilot tournament.",
+      "tags": [
+        "Praggnanandhaa",
+        "Erigaisi",
+        "Chess",
+        "Total Chess Pilot",
+        "Grandmasters"
+      ],
+      "source": {
+        "title": "Praggnanandhaa, Erigaisi begin fast classical campaign with draws at Total Chess Pilot",
+        "url": "https://www.thehindu.com/sport/praggnanandhaa-erigaisi-begin-fast-classical-campaign-with-draws-at-total-chess-pilot/article71692731.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q6",
+      "question": "Who has been named as the Uttar Pradesh CM face for the Samajik Parivartan Morcha by AIMIM chief Asaduddin Owaisi?",
+      "options": [
+        "Mayawati",
+        "Chandrashekhar Azad",
+        "Akhilesh Yadav",
+        "Priyanka Gandhi Vadra"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "AIMIM chief Asaduddin Owaisi, in a joint press conference, announced Chandrashekhar Azad as the Uttar Pradesh Chief Minister face for the Samajik Parivartan Morcha. Mr. Azad stated that they are open to alliances with other parties to stop BJP from coming to power.",
+      "background": "The Samajik Parivartan Morcha is a political alliance formed by AIMIM and other parties. This announcement comes ahead of significant state elections, indicating strategic political positioning in Uttar Pradesh.",
+      "examRelevance": "Chandrashekhar Azad named Uttar Pradesh CM face for Samajik Parivartan Morcha.",
+      "tags": [
+        "Chandrashekhar Azad",
+        "Asaduddin Owaisi",
+        "Samajik Parivartan Morcha",
+        "Uttar Pradesh Elections",
+        "AIMIM"
+      ],
+      "source": {
+        "title": "Owaisi names Chandrashekhar Azad as Uttar Pradesh CM face of Samajik Parivartan Morcha",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/owaisi-azad-alliance-for-uttar-pradesh-elections/article71692358.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q7",
+      "question": "According to recent reports, how much has India saved in fuel imports since 2011 due to renewable energy?",
+      "options": [
+        "$100 billion",
+        "$75 billion",
+        "$50 billion",
+        "$125 billion"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Renewable energy has helped India save over $100 billion in fuel imports since 2011. This significant saving highlights the economic benefits and growing impact of the country's transition towards cleaner energy sources.",
+      "background": "India has been actively promoting renewable energy sources like solar and wind power to reduce its dependence on fossil fuel imports and address climate change. This saving underscores the financial advantages of these initiatives.",
+      "examRelevance": "Renewables saved India over $100 billion in fuel imports since 2011.",
+      "tags": [
+        "Renewable Energy",
+        "Fuel Imports",
+        "India",
+        "Energy Savings",
+        "Economy"
+      ],
+      "source": {
+        "title": "Renewables save India $100 billion in fuel imports",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/renewables-helped-india-save-over-100-billion-in-fuel-imports-since-2011-iea/articleshow/135760533.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q8",
+      "question": "Singapore state-owned investment firm Temasek Holdings will invest ₹2,500 crore in which Indian company's financial services arm, Godrej Capital?",
+      "options": [
+        "Reliance Industries",
+        "Mahindra Group",
+        "Godrej Industries",
+        "Tata Group"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Singapore's state-owned investment firm, Temasek Holdings, will invest ₹2,500 crore (approximately $266.98 million) in Godrej Capital, the financial services arm of Godrej Industries. This deal values the financial services business at up to ₹280 billion.",
+      "background": "This investment indicates strong international confidence in India's financial services sector and Godrej Industries' growth prospects. Temasek will retain about 80% ownership in Godrej Capital following the deal.",
+      "examRelevance": "Temasek Holdings to invest ₹2,500 crore in Godrej Capital, a financial arm of Godrej Industries.",
+      "tags": [
+        "Temasek Holdings",
+        "Godrej Capital",
+        "Godrej Industries",
+        "Investment",
+        "Financial Services"
+      ],
+      "source": {
+        "title": "Temasek to invest ₹2,5K cr in Godrej fin arm",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/singapores-temasek-to-invest-rs-2500-cr-in-godrej-industries-financial-services-arm/articleshow/135760575.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q9",
+      "question": "Which edition of the CII Partnership Summit recently took place in Visakhapatnam, Andhra Pradesh, where leaders like Pawan Kalyan and Lokesh addressed corporate leaders?",
+      "options": [
+        "31st",
+        "30th",
+        "32nd",
+        "29th"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The 31st edition of the CII Partnership Summit recently took place in Visakhapatnam, Andhra Pradesh. During the summit, leaders like Pawan Kalyan and Lokesh urged corporate leaders to invest in the state, highlighting its potential as a trusted global hub.",
+      "background": "The CII Partnership Summit is a significant annual event that brings together government officials, industry leaders, and international delegates to discuss economic policies and investment opportunities. Andhra Pradesh aims to attract more corporate headquarters and manufacturing units.",
+      "examRelevance": "The 31st Vizag CII Partnership Summit was held in Visakhapatnam, Andhra Pradesh.",
+      "tags": [
+        "CII Partnership Summit",
+        "Visakhapatnam",
+        "Andhra Pradesh",
+        "Economy",
+        "Investment"
+      ],
+      "source": {
+        "title": "Pawan Kalyan pitches Andhra Pradesh as trusted global hub; Lokesh unveils red-carpet framework at 31st Vizag CII Summit",
+        "url": "https://www.thehindu.com/news/cities/Visakhapatnam/pawan-kalyan-pitches-andhra-pradesh-as-trusted-global-hub-lokesh-unveils-red-carpet-framework-at-31st-vizag-cii-summit/article71692595.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q10",
+      "question": "Which former Kerala Director General of Police (DGP) was recently summoned by a court in a defamation case filed by Rahul Gandhi?",
+      "options": [
+        "Loknath Behera",
+        "R. Sreelekha",
+        "T.P. Senkumar",
+        "Jacob Punnoose"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Former Kerala DGP R. Sreelekha was recently summoned by a court in a defamation case filed by Rahul Gandhi. In her controversial speech on October 14, Sreelekha allegedly attributed Rahul Gandhi’s protest in Delhi to a substance abuse-induced high.",
+      "background": "This incident highlights the legal implications of public statements made by former officials and the right to reputation. Defamation cases are common in the political and public sphere.",
+      "examRelevance": "Former Kerala DGP R. Sreelekha was summoned in a Rahul Gandhi defamation case.",
+      "tags": [
+        "R. Sreelekha",
+        "Kerala DGP",
+        "Rahul Gandhi",
+        "Defamation Case",
+        "Court Summons"
+      ],
+      "source": {
+        "title": "Court summons former Keralam DGP R. Sreelekha in Rahul Gandhi defamation case",
+        "url": "https://www.thehindu.com/news/national/kerala/court- summons-former-keralam-dgp-r-sreelekha-in-rahul-gandhi-defamation-case/article71688270.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q11",
+      "question": "The National Highways Authority of India (NHAI) recently ordered a fine of ₹15 lakh against a toll plaza agency and directed it to stop operations due to what reason?",
+      "options": [
+        "Staff misbehavior",
+        "Failure to maintain infrastructure",
+        "Exceeding daily vehicle limit",
+        "Toll collection irregularities"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The National Highways Authority of India (NHAI) imposed a ₹15 lakh fine on a toll plaza agency and ordered it to cease operations within two days. This action was taken in response to staff misbehavior towards a commuter at the toll booth.",
+      "background": "NHAI is responsible for the development, maintenance, and management of National Highways in India. Such actions underscore the authority's commitment to ensuring proper conduct and service quality at toll plazas.",
+      "examRelevance": "NHAI imposed a ₹15 lakh fine on a toll plaza agency for staff misbehavior.",
+      "tags": [
+        "NHAI",
+        "Toll Plaza",
+        "Fine",
+        "Staff Misbehavior",
+        "National Highways"
+      ],
+      "source": {
+        "title": "Toll plaza staff misbehaves, NHAI orders ₹15L fine",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/delhi-commuter-stops-to-pay-toll-at-plaza-booth-staff-behaves-badly-nhai-orders-agency-to-pay-rs-15-lakh-and-stop-operations-within-two-days/articleshow/135758769.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q12",
+      "question": "Alice Huang, who is accused of spying on Nvidia chief Jensen Huang, is reported to have entered which region multiple times in 2024-25?",
+      "options": [
+        "South Korea",
+        "Taiwan",
+        "Japan",
+        "Singapore"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Alice Huang, who stands accused of spying on Nvidia chief Jensen Huang, reportedly entered Taiwan eight times in 2024-25. Taiwan, a dominant player in the global semiconductor industry, sits at the centre of strategic competition between the United States and China.",
+      "background": "This case highlights concerns regarding industrial espionage and geopolitical tensions, particularly in the sensitive semiconductor sector. Taiwan's role as a dominant player makes it a focal point for such activities.",
+      "examRelevance": "Alice Huang, accused of spying on Nvidia CEO, entered Taiwan multiple times.",
+      "tags": [
+        "Alice Huang",
+        "Nvidia",
+        "Jensen Huang",
+        "Taiwan",
+        "Espionage",
+        "Semiconductor Industry"
+      ],
+      "source": {
+        "title": "Alice Huang, accused of spying on Nvidia chief, entered Taiwan eight times in 2024-25: Official",
+        "url": "https://www.thehindu.com/news/international/chinese-woman-accused-of-spying-on-nvidia-chief-entered-taiwan-eight-times/article71692694.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q13",
+      "question": "A recent passenger vehicle accident in Nepal, travelling from Kathmandu to Sarlahi, resulted in at least how many deaths?",
+      "options": [
+        "12",
+        "8",
+        "10",
+        "5"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "A passenger vehicle carrying approximately 15 people recently plunged off a steep slope in Nepal while travelling from Kathmandu to Sarlahi. The accident resulted in at least 10 fatalities.",
+      "background": "Road accidents are a significant concern in mountainous regions like Nepal due to challenging terrain and sometimes poor road conditions. This incident underscores the risks involved in such travel.",
+      "examRelevance": "At least 10 killed in a passenger vehicle accident in Nepal.",
+      "tags": [
+        "Nepal",
+        "Road Accident",
+        "Kathmandu",
+        "Sarlahi",
+        "Fatalities"
+      ],
+      "source": {
+        "title": "At least 10 killed as passenger vehicle plunges off steep slope in Nepal",
+        "url": "https://www.thehindu.com/news/international/nepal-passenger-vehicle-plunges-off-steep-slope-deaths/article71692640.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q14",
+      "question": "What is the title of Mani Ratnam's upcoming film, starring Vijay Sethupathi and Sai Pallavi, which recently received a release date?",
+      "options": [
+        "Inji Vellam",
+        "Thug Life",
+        "Ponniyin Selvan 3",
+        "Kadakalam"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "Mani Ratnam's upcoming film, titled 'Inji Vellam', starring Vijay Sethupathi and Sai Pallavi, recently announced its release date. The film continues Mani Ratnam's acclaimed collaboration with Oscar-winning music composer AR Rahman.",
+      "background": "Mani Ratnam is a celebrated Indian film director, screenwriter, and producer, primarily working in Tamil cinema. His films are known for their distinctive style and often feature prominent actors and award-winning music composers.",
+      "examRelevance": "Mani Ratnam's new film 'Inji Vellam' stars Vijay Sethupathi and Sai Pallavi.",
+      "tags": [
+        "Mani Ratnam",
+        "Inji Vellam",
+        "Vijay Sethupathi",
+        "Sai Pallavi",
+        "AR Rahman",
+        "Film"
+      ],
+      "source": {
+        "title": "Mani Ratnam’s ‘Inji Vellam,’ starring Vijay Sethupathi and Sai Pallavi, gets a release date",
+        "url": "https://www.thehindu.com/entertainment/movies/mani-ratnam-inji-vellam-release-date-vijay-sethupathi-sai-pallavi-ar-rahman/article71692672.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q15",
+      "question": "Fertility centres in which Indian city are currently under scrutiny by police and health authorities over allegations of illegal human egg harvesting?",
+      "options": [
+        "Chennai",
+        "Hyderabad",
+        "Bengaluru",
+        "Mumbai"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "Fertility centres in Hyderabad are currently under intense scrutiny by police and the Health and Medical Department over allegations of illegal human egg harvesting. Authorities have arrested several individuals and issued notices to 13 ART (Assisted Reproductive Technology) centres out of the 44 identified facilities.",
+      "background": "This issue highlights the ethical and legal challenges in the rapidly growing fertility industry. The arrests and notices are part of an ongoing investigation into potential exploitation and violations of medical guidelines.",
+      "examRelevance": "Hyderabad fertility centres are under scrutiny for illegal human egg harvesting.",
+      "tags": [
+        "Hyderabad",
+        "Fertility Centres",
+        "Human Egg Harvesting",
+        "Medical Ethics",
+        "Telangana"
+      ],
+      "source": {
+        "title": "Why are fertility centres in Hyderabad in crosshairs over human egg harvesting? | Explained",
+        "url": "https://www.thehindu.com/news/national/telangana/why-are-fertility-centres-in-hyderabad-in-crosshairs-over-human-egg-harvesting-explained/article71692345.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q16",
+      "question": "Which group of Foreign Ministers recently issued a statement expressing concern over China's actions east of Taiwan, emphasizing the importance of peace and stability across the Taiwan Strait?",
+      "options": [
+        "G7",
+        "BRICS",
+        "ASEAN",
+        "SCO"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The G7 Foreign Ministers recently issued a statement collectively expressing concern over China's actions east of Taiwan. They stressed the critical importance of maintaining peace and stability across the Taiwan Strait.",
+      "background": "The G7 (Group of Seven) is an intergovernmental political forum consisting of Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States. Their statements often reflect coordinated positions on global political and economic issues, particularly concerning international security and norms.",
+      "examRelevance": "G7 Foreign Ministers expressed concern over China's actions east of Taiwan.",
+      "tags": [
+        "G7",
+        "China",
+        "Taiwan",
+        "International Relations",
+        "Peace and Stability"
+      ],
+      "source": {
+        "title": "G7 Foreign Ministers say China's actions east of Taiwan threaten stability",
+        "url": "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q17",
+      "question": "Which world leader recently stated that Taiwan's 'reunification' must happen as history cannot be stopped, reiterating the 'one country, two systems' model?",
+      "options": [
+        "Justin Trudeau",
+        "Fumio Kishida",
+        "Xi Jinping",
+        "Joe Biden"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "China's President Xi Jinping recently stated that Taiwan's 'reunification' must occur as history cannot be stopped. He reiterated China's offer of a 'one country, two systems' model of autonomy for Taiwan, a claim strongly rejected by Taipei.",
+      "background": "China views democratically governed Taiwan as its own territory and has consistently advocated for reunification, by force if necessary. This statement underscores China's long-standing position on the Taiwan issue, which remains a major point of geopolitical tension.",
+      "examRelevance": "China's Xi Jinping reiterated that 'reunification' with Taiwan must happen.",
+      "tags": [
+        "Xi Jinping",
+        "China",
+        "Taiwan",
+        "Reunification",
+        "One Country Two Systems"
+      ],
+      "source": {
+        "title": "Xi says Taiwan 'reunification' must happen as history cannot be stopped",
+        "url": "https://www.thehindu.com/news/international/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped/article71692573.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q18",
+      "question": "Which public sector bank recently raised its Fixed Deposit (FD) interest rates to up to 6.85%?",
+      "options": [
+        "Bank of Baroda",
+        "Punjab National Bank",
+        "State Bank of India",
+        "Canara Bank"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Bank of Baroda recently announced an increase in its Fixed Deposit (FD) interest rates, now offering up to 6.85%. This hike is effective from November 11 and includes revised rates for various tenure periods for general, senior, and super senior citizens.",
+      "background": "Banks frequently adjust their FD interest rates in response to changes in monetary policy, market liquidity, and competitive landscape. Higher FD rates can attract more depositors looking for stable returns.",
+      "examRelevance": "Bank of Baroda raised FD interest rates to up to 6.85%.",
+      "tags": [
+        "Bank of Baroda",
+        "Fixed Deposit",
+        "Interest Rates",
+        "Banking",
+        "Economy"
+      ],
+      "source": {
+        "title": "Bank of Baroda raises FD interest rates to up to 6.85%",
+        "url": "https://economictimes.indiatimes.com/wealth/invest/bank-of-baroda-increases-555-day-fd-interest-rate-to-up-to-6-85-from-november-11-check-latest-rates-for-general-senior-and-super-senior-citizens/articleshow/135759011.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q19",
+      "question": "The Siang Upper Multipurpose Project, which is facing protests from the Adi community due to environmental and displacement concerns, is located in which Indian state?",
+      "options": [
+        "Assam",
+        "Meghalaya",
+        "Sikkim",
+        "Arunachal Pradesh"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Siang Upper Multipurpose Project, a dam project that has become contentious and is facing protests from the Adi community, is located in Arunachal Pradesh. The protests stem from concerns over environmental impact and potential displacement.",
+      "background": "Large-scale hydroelectric projects in sensitive ecological zones often face opposition from local communities and environmental groups due to their impact on livelihoods, biodiversity, and cultural heritage. The Siang River is a significant river in the region.",
+      "examRelevance": "Siang Upper Multipurpose Project, facing protests, is in Arunachal Pradesh.",
+      "tags": [
+        "Siang Upper Multipurpose Project",
+        "Arunachal Pradesh",
+        "Adi Community",
+        "Dam Project",
+        "Environment"
+      ],
+      "source": {
+        "title": "Why the Siang Upper Multipurpose Project has been contentious | Explained",
+        "url": "https://www.thehindu.com/news/national/arunachal-pradesh/why-the-siang-upper-multipurpose-project-has-been-contentious-explained/article71692608.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q20",
+      "question": "The Telangana State Pollution Control Board (TGPCB) panel recently called for action against construction companies for environmental violations in which state?",
+      "options": [
+        "Andhra Pradesh",
+        "Telangana",
+        "Karnataka",
+        "Kerala"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "A panel of the Telangana State Pollution Control Board (TGPCB) recently called for action against several construction companies for environmental violations. This move aims to enforce stricter compliance with environmental norms in the state.",
+      "background": "Pollution control boards play a crucial role in monitoring and enforcing environmental regulations. Actions against construction companies for violations are common, especially in rapidly urbanizing areas, to mitigate environmental degradation.",
+      "examRelevance": "Telangana State Pollution Control Board called for action against construction companies for environmental violations.",
+      "tags": [
+        "Telangana",
+        "TGPCB",
+        "Environmental Violations",
+        "Construction Companies",
+        "Pollution Control"
+      ],
+      "source": {
+        "title": "TGPCB panel calls for action against construction companies over environmental violations",
+        "url": "https://www.thehindu.com/news/national/telangana/tgpcb-panel-calls-for-action-against-construction-companies-over-environmental-violations/article71690253.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q21",
+      "question": "South Korean automaker Kia recently announced an investment of $2 billion in its plant located in which Indian state?",
+      "options": [
+        "Maharashtra",
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Gujarat"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "South Korean automaker Kia recently announced a significant investment of $2 billion in its plant located in Andhra Pradesh. This investment aims to expand the plant's capacity to 6.3 lakh units.",
+      "background": "This substantial investment by Kia India underscores the growing importance of India as a manufacturing hub for global automotive companies. Andhra Pradesh has been actively attracting foreign direct investment in its industrial sector.",
+      "examRelevance": "Kia to invest $2 billion in its Andhra Pradesh plant.",
+      "tags": [
+        "Kia",
+        "Andhra Pradesh",
+        "Investment",
+        "Automotive Industry",
+        "Manufacturing"
+      ],
+      "source": {
+        "title": "Kia puts $2 billion behind its India drive",
+        "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/kia-india-to-invest-2-billion-in-andhra-pradesh-plant-target-6-3-lakh-unit-capacity/articleshow/135758732.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q22",
+      "question": "The Vande Bharat Express recently created a new record by crossing the world's highest Chenab Bridge and India's first cable-stayed Anji Bridge at what speed?",
+      "options": [
+        "110 kmph",
+        "100 kmph",
+        "90 kmph",
+        "80 kmph"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The Vande Bharat Express (Train No. 26401/26404) recently achieved a new record by crossing both the world's highest Chenab Bridge and India's first cable-stayed Anji Bridge at a speed of 100 kmph. This occurred as the train speed limit was raised on the Katra-Banihal section.",
+      "background": "The Chenab Bridge is the world's highest railway bridge, and the Anji Bridge is India's first cable-stayed rail bridge. These engineering marvels are part of the Udhampur-Srinagar-Baramulla Rail Link (USBRL) project, aimed at connecting Kashmir with the rest of India.",
+      "examRelevance": "Vande Bharat Express crossed Chenab and Anji bridges at 100 kmph.",
+      "tags": [
+        "Vande Bharat Express",
+        "Chenab Bridge",
+        "Anji Bridge",
+        "Indian Railways",
+        "Speed Record",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "Vande Bharat crosses Chenab, Anji bridges at 100 kmph as Katra-Banihal train speed limit raised",
+        "url": "https://www.thehindu.com/news/national/vande-bharat-crosses-chenab-anji-bridges-at-100-kmph-as-katra-banihal-train-speed-limit-raised/article71539493.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q23",
+      "question": "Which train service of Indian Railways recently launched its first AC version, operating between Delhi and Patna to ease Chhath Puja rush?",
+      "options": [
+        "Tejas Express",
+        "Gatimaan Express",
+        "Amrit Bharat Express",
+        "Humsafar Express"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The Indian Railways recently launched the first AC version of the Amrit Bharat Express (Amrit Bharat Express 3.0). This new service, featuring AC coaches, operates between Delhi and Patna, primarily to manage the Chhath Puja rush.",
+      "background": "The Amrit Bharat Express is a superfast passenger service introduced by Indian Railways, designed for long-distance travel, especially for migrant workers. The introduction of AC coaches enhances passenger comfort for this service.",
+      "examRelevance": "The first AC Amrit Bharat Express was launched between Delhi and Patna.",
+      "tags": [
+        "Amrit Bharat Express",
+        "Indian Railways",
+        "AC Coaches",
+        "Delhi",
+        "Patna",
+        "Chhath Puja"
+      ],
+      "source": {
+        "title": "Amrit Bharat gets its first AC version",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/railways/no-longer-just-non-ac-train-indian-railways-first-amrit-bharat-express-3-0-with-ac-coaches-hits-tracks-between-delhi-and-patna-to-ease-chhath-puja-rush/articleshow/135758477.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q24",
+      "question": "The fares for the Bengaluru-Mangaluru-Goa Vande Bharat Express are reportedly higher due to inflated distance calculation on which specific railway network and ghat section?",
+      "options": [
+        "Southern Railway and Braganza Ghat",
+        "Konkan Railway and Sakleshpur-Subrahmanya Road Ghat",
+        "Central Railway and Thal Ghat",
+        "Western Railway and Bhor Ghat"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Passengers on the Bengaluru-Mangaluru-Goa Vande Bharat Express may pay nearly ₹200 more due to inflated distance calculations. This is specifically attributed to a 40% inflation on the Konkan Railway network between Thokur and Madgaon and a 100% inflation on the 55 km Sakleshpur-Subrahmanya Road Ghat section.",
+      "background": "Vande Bharat Express services are premium train services. Fare calculation methods, especially in challenging terrains like ghat sections, can lead to variations. This issue highlights the complexities in pricing for new high-speed routes.",
+      "examRelevance": "Bengaluru-Mangaluru-Goa Vande Bharat fares are higher on Konkan Railway and Sakleshpur-Subrahmanya Road Ghat section.",
+      "tags": [
+        "Vande Bharat Express",
+        "Fares",
+        "Konkan Railway",
+        "Sakleshpur-Subrahmanya Road Ghat",
+        "Bengaluru-Mangaluru-Goa"
+      ],
+      "source": {
+        "title": "Bengaluru-Mangaluru-Goa Vande Bharat Express users may pay nearly ₹200 more",
+        "url": "https://www.thehindu.com/news/cities/Mangalore/passengers-on-bengaluru-mangaluru-goa-vb-express-pay-nearly-200-extra-fare-compared-to-same-distance-on-other-vb-services/article71686377.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q25",
+      "question": "Which recently launched Vande Bharat Express service is stated to be the longest-duration Vande Bharat of all 82 services in the country?",
+      "options": [
+        "Secunderabad-Tirupati Vande Bharat",
+        "Bengaluru-Mangaluru-Madgaon Vande Bharat",
+        "Delhi-Varanasi Vande Bharat",
+        "Mumbai-Ahmedabad Vande Bharat"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The Bengaluru-Mangaluru-Madgaon Vande Bharat Express is designated as the longest-duration Vande Bharat service among all 82 services currently operational in the country. It covers a significant route connecting these three major cities.",
+      "background": "The Vande Bharat Express is India's first semi-high-speed train, designed for enhanced passenger comfort and reduced travel time. The launch of new routes and variations in duration reflect the expansion of this modern rail network across India.",
+      "examRelevance": "Bengaluru-Mangaluru-Madgaon Vande Bharat is the longest-duration Vande Bharat service.",
+      "tags": [
+        "Vande Bharat Express",
+        "Longest Duration",
+        "Bengaluru",
+        "Mangaluru",
+        "Madgaon",
+        "Indian Railways"
+      ],
+      "source": {
+        "title": "Bengaluru-Mangaluru-Madgaon Vande Bharat: Route, timings, ticket prices, and more",
+        "url": "https://www.thehindu.com/news/national/vande-bharat-bangalore-goa-mangalore-routes-ticket-price-schedule/article71692299.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q26",
+      "question": "A hijack threat note was recently found on an Air India flight travelling between which two major Indian cities?",
+      "options": [
+        "Delhi and Bengaluru",
+        "Hyderabad and Kolkata",
+        "Mumbai and Chennai",
+        "Kolkata and Mumbai"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "A hijack threat note was recently discovered on an Air India flight destined from Kolkata to Mumbai. Following the discovery, all passengers were deboarded, and the aircraft was moved to an isolation bay for thorough checks.",
+      "background": "Such incidents trigger immediate security protocols in airports and on flights. Investigations typically follow to ascertain the credibility of the threat and identify the perpetrator, as was the case with a passenger being held later.",
+      "examRelevance": "A hijack threat note was found on a Kolkata-Mumbai Air India flight.",
+      "tags": [
+        "Air India",
+        "Hijack Threat",
+        "Kolkata",
+        "Mumbai",
+        "Flight Security",
+        "Aviation"
+      ],
+      "source": {
+        "title": "Hijack threat note found in Kolkata-Mumbai Air India flight; aircraft taken to isolation bay",
+        "url": "https://www.thehindu.com/news/national/hijack-threat-note-found-in-kolkata-mumbai-air-india-flight-aircraft-taken-to-isolation-bay/article71688677.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q27",
+      "question": "Which US agency is reportedly investigating Nvidia CEO Jensen Huang's alleged extramarital relationship amid a spy scandal?",
+      "options": [
+        "FBI",
+        "CIA",
+        "DHS",
+        "NSA"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "U.S. President Donald Trump stated that the FBI is investigating Nvidia CEO Jensen Huang's alleged extramarital relationship. This comes amid a spy scandal involving Chinese executive Alice Huang, with Nvidia's board also launching an internal investigation.",
+      "background": "The alleged spy scandal and the FBI's involvement highlight the intersection of corporate leadership, national security concerns, and international relations, particularly in high-tech industries like semiconductors.",
+      "examRelevance": "The FBI is investigating Nvidia CEO Jensen Huang's alleged relationship amid a spy scandal.",
+      "tags": [
+        "FBI",
+        "Jensen Huang",
+        "Nvidia",
+        "Spy Scandal",
+        "Alice Huang",
+        "US Investigation"
+      ],
+      "source": {
+        "title": "Nvidia's clubby board faces a sticky 'honey pot' test",
+        "url": "https://www.thehindu.com/sci-tech/technology/nvidias-clubby-board-faces-a-sticky-honey-pot-test/article71688202.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q28",
+      "question": "The Vice President of which country recently resigned after questions arose regarding his eligibility and academic credentials, specifically concerning his overseas education documents?",
+      "options": [
+        "Malaysia",
+        "Thailand",
+        "Indonesia",
+        "Philippines"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The Vice President of Indonesia recently resigned from his position after questions were raised regarding his eligibility and academic credentials. The Constitutional Court and Supreme Court had previously ruled that the documents submitted by Gibran Rakabuming Raka concerning his overseas education did not meet election requirements.",
+      "background": "This resignation highlights the importance of electoral eligibility criteria and academic verification in political appointments, especially in a country like Indonesia, which is a significant democratic nation in Southeast Asia.",
+      "examRelevance": "Indonesia's Vice President resigned over eligibility and academic credentials.",
+      "tags": [
+        "Indonesia",
+        "Vice President",
+        "Resignation",
+        "Gibran Rakabuming Raka",
+        "Eligibility",
+        "Academic Credentials"
+      ],
+      "source": {
+        "title": "Indonesia's Vice President resigns as eligibility and academic credentials are questioned",
+        "url": "https://www.thehindu.com/news/international/indonesias-vice-president-resigns-as-eligibility-and-academic-credentials-are-questioned/article71692540.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q29",
+      "question": "A Telugu film on Sonia Gandhi's life is being planned, based on which book?",
+      "options": [
+        "The Accidental Prime Minister",
+        "Belonging: A Journey of Love",
+        "The Red Sari",
+        "Sonia Gandhi: An Extraordinary Life, An Indian Destiny"
+      ],
+      "answerIndex": 1,
+      "category": "Books & Authors",
+      "explanation": "TPCC working president Jagga Reddy is planning a Telugu film based on Sonia Gandhi's life. The film will be inspired by the book 'Belonging: A Journey of Love'. Constituency Congress convenor Julakanti Anjaneyulu has announced a contribution of ₹2 crore towards its production.",
+      "background": "Biographical films often draw inspiration from established literary works to recount the lives of prominent public figures. Sonia Gandhi has been a significant figure in Indian politics, serving as the President of the Indian National Congress for many years.",
+      "examRelevance": "A Telugu film on Sonia Gandhi's life is planned, based on 'Belonging: A Journey of Love'.",
+      "tags": [
+        "Sonia Gandhi",
+        "Telugu Film",
+        "Belonging A Journey of Love",
+        "Jagga Reddy",
+        "Biography"
+      ],
+      "source": {
+        "title": "Jagga Reddy plans Telugu film on Sonia Gandhi’s life based on book ‘Belonging: A Journey of Love’",
+        "url": "https://www.thehindu.com/news/national/telangana/jagga-reddy-plans-telugu-film-on-sonia-gandhis-life/article71690522.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-12-q30",
+      "question": "Who has been appointed to succeed Noel Tata as the Chairperson of Tata Investment Corporation?",
+      "options": [
+        "Bahram Vakil",
+        "N. Chandrasekaran",
+        "Ratan Tata",
+        "Cyrus Mistry"
+      ],
+      "answerIndex": 0,
+      "category": "Appointments",
+      "explanation": "Bahram Vakil has been appointed to succeed Noel Tata as the Chairperson of Tata Investment Corporation. Noel Tata retired from the position and was subsequently appointed 'Chairman Emeritus' with effect from November 12.",
+      "background": "Tata Investment Corporation is a non-banking financial company engaged in the business of investing in long-term investments, including equity shares and other securities. Changes in leadership at such prominent corporate entities are significant business news.",
+      "examRelevance": "Bahram Vakil appointed Chairperson of Tata Investment Corporation, succeeding Noel Tata.",
+      "tags": [
+        "Bahram Vakil",
+        "Noel Tata",
+        "Tata Investment Corporation",
+        "Chairperson",
+        "Appointment",
+        "Business"
+      ],
+      "source": {
+        "title": "Noel Tata retires as Tata Investment chaiperson; Bahram Vakil to succeed him",
+        "url": "https://www.thehindu.com/business/Industry/noel-tata-retires-as-tata-investment-chaiperson-bahram-vakil-to-succeed-him/article71692462.ece"
+      }
+    }
+  ]
+}
