@@ -1,0 +1,653 @@
+{
+  "id": "daily-2026-11-15",
+  "type": "daily",
+  "date": "2026-11-15",
+  "title": "Current Affairs — 15 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-15-q1",
+      "question": "Which region of Saudi Arabia, containing the majority of the kingdom’s oil and gas reserves, has been subject to multiple attacks by Houthis recently?",
+      "options": [
+        "Eastern Province",
+        "Western Province",
+        "Al Jawf Province",
+        "Northern Borders Province"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Saudi Arabia’s Eastern Province, which contains the majority of the kingdom’s oil and gas reserves, has been subject to multiple attacks by Houthis in the past few weeks, prompting the Saudi-led coalition to intercept missiles and drones.",
+      "background": "The Houthis, an Iran-aligned group, have frequently launched missile and drone attacks against targets in Saudi Arabia and the United Arab Emirates since the Saudi-led coalition intervened in Yemen in March 2015 to support the internationally recognized government.",
+      "examRelevance": "Saudi Arabia's Eastern Province has been a target of recent Houthi attacks.",
+      "tags": [
+        "Saudi Arabia",
+        "Houthis",
+        "Eastern Province",
+        "Missile attacks"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q2",
+      "question": "For which sports body were P.T. Usha and Harjinder Singh's nominations recently accepted by the Assistant Returning Officer, despite objections?",
+      "options": [
+        "Indian Hockey Association (IHA)",
+        "Indian Handball Association (IHAI)",
+        "Indian Olympic Association (IOA)",
+        "Indian Athletics Federation (IAF)"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "The Assistant Returning Officer (RO) recently accepted the nominations of P.T. Usha and Harjinder Singh for the Indian Handball Association (IHAI), rejecting objections received on November 13 against their eligibility as members of the IHAI.",
+      "background": "P.T. Usha is a legendary Indian track and field athlete, often called the 'Queen of Indian track and field'. Her involvement and nomination for sports bodies often draw attention, reflecting efforts to bring experienced sports personalities into administration.",
+      "examRelevance": "P.T. Usha and Harjinder Singh's nominations for the Indian Handball Association (IHAI) have been accepted.",
+      "tags": [
+        "P.T. Usha",
+        "Harjinder Singh",
+        "Indian Handball Association",
+        "Sports nominations"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q3",
+      "question": "An Indian student was recently jailed for 30 years for online child sex abuse. In which country was he sentenced?",
+      "options": [
+        "United Kingdom",
+        "United States",
+        "Australia",
+        "Canada"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "An Indian student was recently jailed for 30 years in the United Kingdom for online child sex abuse. The court heard that he pretended to be a teenage boy on social media and gaming platforms to build trust with girls aged between 10 and 15.",
+      "background": "This incident highlights the growing concerns around cybercrime and online child exploitation globally, with international cooperation often required for investigations and prosecutions. The severity of the sentence reflects the gravity of such offenses.",
+      "examRelevance": "An Indian student received a 30-year jail sentence in the UK for online child sex abuse.",
+      "tags": [
+        "Indian student",
+        "UK",
+        "Child sex abuse",
+        "Cybercrime"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q4",
+      "question": "Which city has recently rolled out strict new fuel rules, making a valid PUC (Pollution Under Control) certificate mandatory for obtaining petrol, diesel, or CNG?",
+      "options": [
+        "Ghaziabad",
+        "Faridabad",
+        "Noida",
+        "Gurugram"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Gurugram has recently rolled out strict new fuel rules, making a valid PUC (Pollution Under Control) certificate mandatory for obtaining petrol, diesel, or CNG. Vehicles without a PUC certificate will also face a ₹10,000 fine.",
+      "background": "These measures are implemented to combat air pollution, especially in the National Capital Region (NCR), which frequently experiences poor air quality. The rule aims to ensure vehicles comply with emission standards.",
+      "examRelevance": "Gurugram mandates PUC certificate for fuel purchase.",
+      "tags": [
+        "Gurugram",
+        "PUC certificate",
+        "Fuel rules",
+        "Air pollution"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q5",
+      "question": "In a recent 'digital arrest' scam, a Delhi woman was duped of ₹71 lakh. Where were the three accused arrested for this scam?",
+      "options": [
+        "Delhi",
+        "Bengaluru",
+        "Bhopal",
+        "Mumbai"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Three accused were recently arrested in Bhopal for duping a Delhi woman of ₹71 lakh in a 'digital arrest' scam. The accused impersonated an IPS officer and threatened the victim with arrest in a fake ₹6.5-crore money laundering case.",
+      "background": "'Digital arrest' scams involve fraudsters impersonating law enforcement or government officials to coerce victims into transferring money, often by threatening arrest or legal action. The IFSO (Intelligence Fusion & Strategic Operations) unit uncovered a network of mule bank accounts used in this scam.",
+      "examRelevance": "Accused in a ₹71 lakh 'digital arrest' scam were arrested in Bhopal.",
+      "tags": [
+        "Digital arrest scam",
+        "Bhopal",
+        "Cybercrime",
+        "Fraud"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q6",
+      "question": "A depression over the Bay of Bengal is expected to intensify into a severe cyclonic storm by November 17, bringing rainfall to Tamil Nadu, Puducherry, and Karaikal. Which body of water is this storm forming over?",
+      "options": [
+        "Andaman Sea",
+        "Arabian Sea",
+        "Indian Ocean",
+        "Bay of Bengal"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "A depression is expected to turn into a severe cyclonic storm over the Bay of Bengal by November 17. This weather system is forecast to bring rainfall to north coastal districts in Tamil Nadu, Puducherry, and the Karaikal area.",
+      "background": "The Bay of Bengal is one of the most active regions for cyclonic storm formation, especially during the post-monsoon season (October-December). Cyclones forming here often impact the eastern coast of India and neighboring countries.",
+      "examRelevance": "A severe cyclonic storm is forming over the Bay of Bengal by November 17.",
+      "tags": [
+        "Bay of Bengal",
+        "Cyclonic storm",
+        "Tamil Nadu",
+        "Weather forecast"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q7",
+      "question": "Hindalco's subsidiary, Novelis, recently announced a $265 million sale of two units, paring its presence in which country?",
+      "options": [
+        "Japan",
+        "China",
+        "Brazil",
+        "Germany"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Hindalco's subsidiary, Novelis, recently announced a $265 million sale of two units, paring its presence in China. This step reflects a strategic adjustment in the company's global operations.",
+      "background": "Novelis is a leading producer of flat-rolled aluminum products and the world's largest recycler of aluminum. Its parent company, Hindalco Industries, is an Indian aluminum and copper manufacturing company.",
+      "examRelevance": "Novelis, a Hindalco subsidiary, has pared its presence in China with a $265 million sale of units.",
+      "tags": [
+        "Novelis",
+        "Hindalco",
+        "China",
+        "Business divestment"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q8",
+      "question": "The 'food is medicine' approach to healthcare, gaining new life, considers access to healthy food as essential as medications for patients with which type of illness?",
+      "options": [
+        "Genetic disorders",
+        "Chronic illness",
+        "Autoimmune diseases",
+        "Acute infections"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The 'food is medicine' approach to healthcare, gaining new life, considers access to healthy food as essential as medications for patients with chronic illness. This approach emphasizes the role of nutrition in managing and preventing long-term health conditions.",
+      "background": "This decades-old concept is seeing renewed interest, with experts explaining its potential to integrate nutrition more formally into healthcare systems, particularly for conditions like diabetes, heart disease, and obesity.",
+      "examRelevance": "The 'food is medicine' approach is gaining traction for chronic illness management.",
+      "tags": [
+        "Food is medicine",
+        "Healthcare",
+        "Chronic illness",
+        "Nutrition"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q9",
+      "question": "Flight services between Imphal and Silchar are scheduled to commence on November 24, operated by Alliance Air under the Viability Gap Funding facility. Which two cities will these new flight services connect?",
+      "options": [
+        "Guwahati and Shillong",
+        "Imphal and Silchar",
+        "Agartala and Aizawl",
+        "Dimapur and Kohima"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Flight services between Imphal and Silchar are scheduled to commence on November 24. These services will be operated by Alliance Air under the Viability Gap Funding facility, with a frequency of two days a week.",
+      "background": "The Viability Gap Funding (VGF) scheme is often used to support infrastructure projects that are economically justified but not financially viable, making new routes like this possible to enhance regional connectivity.",
+      "examRelevance": "New flight services will connect Imphal and Silchar starting November 24.",
+      "tags": [
+        "Imphal",
+        "Silchar",
+        "Flight services",
+        "Alliance Air",
+        "Regional connectivity"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q10",
+      "question": "SpaceX recently achieved a first-ever spaceship 'catch' where its Starship was captured by mechanical \"chopstick arms\" upon re-entry. Where did this event take place?",
+      "options": [
+        "Vandenberg Space Force Base, California",
+        "Boca Chica, South Texas",
+        "Cape Canaveral, Florida",
+        "Kennedy Space Center, Florida"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "SpaceX recently pulled off its first-ever spaceship 'catch' at its south Texas Starbase in Boca Chica. The Starship, after surviving re-entry, descended and slipped smoothly between mechanical “chopstick arms” above Launch Pad 2.",
+      "background": "This achievement is a significant step towards SpaceX's goal of making Starship a fully reusable launch system, crucial for its plans for lunar and Martian missions. The ability to catch the booster rather than land it traditionally reduces turnaround time and complexity.",
+      "examRelevance": "SpaceX's Starship was caught by 'chopstick arms' at its South Texas Starbase.",
+      "tags": [
+        "SpaceX",
+        "Starship",
+        "Boca Chica",
+        "Space exploration"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q11",
+      "question": "Air purifier sales have soared in the Delhi-NCR region due to worsening air quality. According to the Centre for Science and Environment (CSE), Delhi's average PM2.5 concentration in the week preceding Deepavali reached what level?",
+      "options": [
+        "305 micrograms per cubic metre",
+        "150 micrograms per cubic metre",
+        "400 micrograms per cubic metre",
+        "236 micrograms per cubic metre"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "According to an analysis by the Centre for Science and Environment (CSE), Delhi’s average PM2.5 concentration in the week preceding Deepavali reached 236 micrograms per cubic metre, which is the highest in three years. This has led to a surge in air purifier sales.",
+      "background": "Delhi and the National Capital Region (NCR) frequently experience severe air pollution, particularly during the winter months, due to factors like stubble burning, vehicular emissions, and industrial pollution. PM2.5 is a fine particulate matter that poses significant health risks.",
+      "examRelevance": "Delhi's average PM2.5 concentration reached 236 micrograms per cubic metre before Deepavali.",
+      "tags": [
+        "Delhi-NCR",
+        "Air pollution",
+        "PM2.5",
+        "CSE",
+        "Air quality"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q12",
+      "question": "The Maharashtra government is urging drought-hit farmers to complete e-KYC and obtain Farmer IDs to access benefits. Which state is taking this measure?",
+      "options": [
+        "Maharashtra",
+        "Gujarat",
+        "Karnataka",
+        "Telangana"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The Maharashtra government is urging drought-hit farmers to complete e-KYC (Know Your Customer) and obtain Farmer IDs to access benefits. This is essential for eligible beneficiaries to receive funds directly in their bank accounts.",
+      "background": "Maharashtra, particularly districts like Beed, has been severely affected by drought, leading to distress migration among farmers and labourers. The government's initiative aims to streamline the distribution of financial aid and support to those impacted.",
+      "examRelevance": "Maharashtra government urges farmers to complete e-KYC for drought benefits.",
+      "tags": [
+        "Maharashtra",
+        "Farmers",
+        "e-KYC",
+        "Drought relief",
+        "Government schemes"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q13",
+      "question": "Which country has recently assured India of a comparative tariff advantage over its competitors, a key condition for India to move ahead with a trade deal?",
+      "options": [
+        "Australia",
+        "United Kingdom",
+        "European Union",
+        "United States"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "In a major breakthrough, the U.S. has recently assured India of a comparative tariff advantage over its competitors. Indian government officials had been maintaining that India would move ahead with a trade deal with the U.S. only if such an advantage was assured.",
+      "background": "Trade negotiations between India and the U.S. have been ongoing, with India seeking better market access and a level playing field for its products. This assurance could pave the way for a more comprehensive trade agreement between the two nations.",
+      "examRelevance": "The U.S. assured India of comparative tariff advantage for a trade deal.",
+      "tags": [
+        "India-US relations",
+        "Trade deal",
+        "Tariff advantage",
+        "International trade"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q14",
+      "question": "Punjab National Bank (PNB) is aiming for a quarterly profit of ₹200 crore each from which two verticals?",
+      "options": [
+        "Retail banking and corporate lending",
+        "Wealth management and digital payments",
+        "Credit card and cash management",
+        "International banking and treasury operations"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Punjab National Bank (PNB) is eyeing a ₹200 crore quarterly profit each from its credit card and cash management verticals. The bank has also launched its premium PNB Metal Credit Card Luxura, which has attracted 27,140 customers.",
+      "background": "Public sector banks are increasingly focusing on non-interest income streams and specialized verticals like credit cards and cash management to boost profitability and diversify their revenue sources.",
+      "examRelevance": "PNB targets ₹200 crore quarterly profit from credit card and cash management verticals.",
+      "tags": [
+        "PNB",
+        "Punjab National Bank",
+        "Credit cards",
+        "Cash management",
+        "Banking profit"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q15",
+      "question": "A recent review found that diabetes is linked with a significantly higher risk of Alzheimer's disease. By what percentage is this risk increased?",
+      "options": [
+        "53%",
+        "38%",
+        "65%",
+        "25%"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "A recent review found that diabetes is linked with a 53% higher risk of Alzheimer's disease. This review specifically focused on type 2 diabetes and Alzheimer's, estimating the frequency of new cases.",
+      "background": "While previous reviews often combined different types of diabetes or dementia, this focused study provides a clearer picture of the strong association between Type 2 diabetes and the development of Alzheimer's, highlighting the importance of diabetes management for cognitive health.",
+      "examRelevance": "Diabetes is linked with a 53% higher risk of Alzheimer's disease.",
+      "tags": [
+        "Diabetes",
+        "Alzheimer's disease",
+        "Health research",
+        "Medical review"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q16",
+      "question": "Which regulatory body is set to issue AI usage guidelines for capital markets, focusing on investor protection and accountability of regulated entities?",
+      "options": [
+        "Pension Fund Regulatory and Development Authority (PFRDA)",
+        "Reserve Bank of India (RBI)",
+        "Insurance Regulatory and Development Authority of India (IRDAI)",
+        "Securities and Exchange Board of India (SEBI)"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Securities and Exchange Board of India (SEBI) is set to issue AI usage guidelines for capital markets. Chairman Tuhin Pandey stated that the proposed guidelines would focus on investor protection, accountability of regulated entities, and a ‘human-in-the-loop’ approach.",
+      "background": "As artificial intelligence becomes more prevalent in financial services, regulatory bodies worldwide are developing frameworks to manage its risks, especially concerning data privacy, algorithmic bias, and market manipulation.",
+      "examRelevance": "SEBI will issue AI usage guidelines for capital markets.",
+      "tags": [
+        "SEBI",
+        "AI guidelines",
+        "Capital markets",
+        "Investor protection",
+        "Financial regulation"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q17",
+      "question": "The Special Cell recently arrested two alleged shooters linked to a foreign-based gangster, foiling a planned attack outside the residence of which Bollywood actor in Mumbai?",
+      "options": [
+        "Shah Rukh Khan",
+        "Amitabh Bachchan",
+        "Salman Khan",
+        "Akshay Kumar"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "The Special Cell recently arrested two alleged shooters linked to a foreign-based gangster in separate operations in Delhi and Mumbai. These arrests foiled a planned shooting at a businessman and an alleged attack outside the Mumbai residence of Bollywood actor Amitabh Bachchan.",
+      "background": "This incident highlights the nexus between organized crime, foreign-based gangs, and attempts to target high-profile individuals for extortion or other motives. Police intelligence and swift action were crucial in preventing the attacks.",
+      "examRelevance": "Police foiled a planned attack on Amitabh Bachchan's residence in Mumbai.",
+      "tags": [
+        "Amitabh Bachchan",
+        "Mumbai",
+        "Extortion plot",
+        "Law & Order",
+        "Special Cell"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q18",
+      "question": "Mahanagar Gas recently hiked CNG prices in Mumbai by ₹1.5/kg. This is the sixth such hike since May, cumulatively increasing prices by what amount per kg?",
+      "options": [
+        "₹7.5 per kg",
+        "₹9.5 per kg",
+        "₹6.0 per kg",
+        "₹11.0 per kg"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Mahanagar Gas recently hiked CNG prices in Mumbai by ₹1.5/kg. This marks the sixth hike since May 14, cumulatively increasing the prices of the vehicular gas by ₹9.5 per kg over this period.",
+      "background": "Rising international gas prices and domestic supply constraints often lead to adjustments in CNG prices. These hikes impact commuters and transport operators in Mumbai, leading to demands for fare revisions.",
+      "examRelevance": "Mahanagar Gas hiked CNG prices by ₹1.5/kg in Mumbai, a cumulative ₹9.5/kg since May.",
+      "tags": [
+        "Mahanagar Gas",
+        "CNG prices",
+        "Mumbai",
+        "Fuel hike",
+        "Economy"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q19",
+      "question": "Akhilesh Yadav recently indicated that the Congress party wants to contest how many seats in the 2027 Uttar Pradesh Assembly polls?",
+      "options": [
+        "181 seats",
+        "200 seats",
+        "165 seats",
+        "150 seats"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Akhilesh Yadav recently indicated that the Congress party wants to contest 181 seats in the 2027 Uttar Pradesh Assembly polls. When asked if the demand was 200 seats, he replied, \"A little less than that,\" and then confirmed 181 when suggested.",
+      "background": "Seat-sharing negotiations are a crucial aspect of alliance politics in India, especially in large and politically significant states like Uttar Pradesh. The Samajwadi Party (SP) and Congress are part of the INDIA bloc, and their seat-sharing agreement will be key for the upcoming elections.",
+      "examRelevance": "Congress seeks to contest 181 seats in the 2027 UP polls.",
+      "tags": [
+        "Akhilesh Yadav",
+        "Congress",
+        "Uttar Pradesh elections",
+        "Seat sharing",
+        "Polity"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q20",
+      "question": "Janjatiya Gaurav Diwas is celebrated on November 15 to mark the birth anniversary of which tribal leader and also the foundation day of Jharkhand?",
+      "options": [
+        "Birsa Munda",
+        "Tilka Manjhi",
+        "Jaipal Singh Munda",
+        "Sidhu Kanhu"
+      ],
+      "answerIndex": 0,
+      "category": "Dates & Days",
+      "explanation": "Janjatiya Gaurav Diwas is celebrated on November 15 to mark the birth anniversary of the revered tribal leader Birsa Munda. This day also coincides with the foundation day of the state of Jharkhand, which was created on November 15, 2000.",
+      "background": "Birsa Munda was an Indian tribal freedom fighter, religious leader, and folk hero who belonged to the Munda tribe. He spearheaded a tribal religious millenarian movement that arose in the Bengal Presidency (now Jharkhand) in the late 19th century, during the British Raj.",
+      "examRelevance": "November 15 is Janjatiya Gaurav Diwas, marking Birsa Munda's birth anniversary and Jharkhand's foundation day.",
+      "tags": [
+        "Janjatiya Gaurav Diwas",
+        "Birsa Munda",
+        "Jharkhand Foundation Day",
+        "Dates & Days",
+        "Tribal leader"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q21",
+      "question": "NATO has announced that it will skip a leaders' summit next year in which country, scaling back high-level meetings?",
+      "options": [
+        "Romania",
+        "Albania",
+        "Poland",
+        "Bulgaria"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "NATO has announced that it will skip a leaders' summit next year in Albania, as high-level meetings are being scaled back. NATO Secretary-General Mark Rutte played down the issue, stating, \"We are flexible with NATO summits.\"",
+      "background": "NATO summits are important gatherings where leaders of member countries discuss key security issues, strategic policies, and future directions for the alliance. Skipping a summit can sometimes be a logistical decision or reflect a shift in meeting frequency.",
+      "examRelevance": "NATO will skip a leaders' summit in Albania next year.",
+      "tags": [
+        "NATO",
+        "Albania",
+        "International relations",
+        "Summit"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q22",
+      "question": "Foreign Portfolio Investors (FPIs) made a net investment of how much amount into Indian equities during the first fortnight of November?",
+      "options": [
+        "₹75,800 crore",
+        "₹91,000 crore",
+        "₹84,290 crore",
+        "₹62,500 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Foreign Portfolio Investors (FPIs) made a net investment of ₹84,290 crore into Indian equities during the first fortnight of November (November 2-13), covering nine trading sessions.",
+      "background": "FPI flows are a significant indicator of foreign investor confidence in the Indian economy and capital markets. Positive inflows often contribute to market liquidity and can influence stock market performance.",
+      "examRelevance": "FPIs invested ₹84,290 crore in Indian equities in the first fortnight of November.",
+      "tags": [
+        "FPIs",
+        "Indian equities",
+        "Foreign investment",
+        "Capital markets"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q23",
+      "question": "Aaryavir Sehwag, son of Virender Sehwag, was recently named Player of the Tournament in the U-19 Asia Cup, where he topped the charts with 361 runs. In which country was this tournament held?",
+      "options": [
+        "UAE",
+        "Bangladesh",
+        "Sri Lanka",
+        "Oman"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Aaryavir Sehwag, son of former cricketer Virender Sehwag, was recently named Player of the Tournament at the U-19 Asia Cup, held in Oman. He finished top of the charts with 361 runs in five matches, with India defeating arch-rival Pakistan in the final.",
+      "background": "The U-19 Asia Cup is a significant platform for young cricketers from Asian nations to showcase their talent and gain international experience. Such tournaments are crucial stepping stones for future national team players.",
+      "examRelevance": "Aaryavir Sehwag was Player of the Tournament at the U-19 Asia Cup in Oman.",
+      "tags": [
+        "Aaryavir Sehwag",
+        "Virender Sehwag",
+        "U-19 Asia Cup",
+        "Cricket",
+        "Oman"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q24",
+      "question": "According to President Volodymyr Zelenskyy, which country suggested that Kyiv cede land to Russia in exchange for joining NATO?",
+      "options": [
+        "Germany",
+        "United States",
+        "United Kingdom",
+        "France"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "President Volodymyr Zelenskyy stated that the U.S. suggested Kyiv cede land to Russia in exchange for joining NATO. He also warned that the Kremlin was “betting everything” on this winter’s military campaign.",
+      "background": "The question of Ukraine's potential NATO membership and territorial integrity has been a central and contentious issue in the ongoing conflict with Russia. Such suggestions highlight the complex diplomatic efforts and proposals made by various international actors.",
+      "examRelevance": "Zelenskyy stated the U.S. suggested Kyiv cede land for NATO membership.",
+      "tags": [
+        "Volodymyr Zelenskyy",
+        "Ukraine",
+        "NATO",
+        "Russia-Ukraine conflict",
+        "United States"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q25",
+      "question": "Which African island nation could elect its first woman President since gaining independence in 1975, with a runoff scheduled for November 29 if no candidate receives more than half the votes?",
+      "options": [
+        "Cape Verde",
+        "Seychelles",
+        "Comoros",
+        "Mauritius"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Cape Verde, an African island nation, could elect its first woman President since gaining independence in 1975. Six candidates are competing, with a runoff scheduled for November 29 if no candidate receives more than half the votes.",
+      "background": "Cape Verde is a stable democracy in West Africa. The potential election of a woman president would be a significant milestone for the country, reflecting a trend towards greater gender representation in leadership positions globally.",
+      "examRelevance": "Cape Verde could elect its first woman President since 1975.",
+      "tags": [
+        "Cape Verde",
+        "Presidential election",
+        "Africa",
+        "Women in leadership"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q26",
+      "question": "NASA's Voyager 1 spacecraft is currently closing in on a new distance record, approaching a \"light-day\" in which region?",
+      "options": [
+        "Oort Cloud",
+        "Kuiper Belt",
+        "Heliosheath",
+        "Interstellar space"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "NASA's Voyager 1 spacecraft is currently closing in on a new distance record, approaching a",
+      "background": "Launched in 1977, Voyager 1 is the farthest human-made object from Earth and the first spacecraft to enter interstellar space. Its mission continues to provide valuable data about the heliosphere and beyond.",
+      "examRelevance": "Voyager 1 is approaching a 'light-day' in interstellar space.",
+      "tags": [
+        "NASA",
+        "Voyager 1",
+        "Interstellar space",
+        "Space exploration"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q27",
+      "question": "India recently voted against a UNGA resolution calling for a global moratorium on the death penalty. Which international body passed this resolution?",
+      "options": [
+        "United Nations General Assembly (UNGA)",
+        "UN Human Rights Council (UNHRC)",
+        "International Criminal Court (ICC)",
+        "UN Security Council (UNSC)"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "India recently voted against a United Nations General Assembly (UNGA) resolution calling for a global moratorium on the death penalty. The resolution expressed deep concern over a significant surge in reported executions in 2025 despite a global trend towards limiting its application.",
+      "background": "India's stance on the death penalty typically upholds its sovereign right to decide on criminal justice matters, emphasizing that it is imposed only in the 'rarest of rare' cases and after due process. Many countries have abolished or have a moratorium on the death penalty, while others like India and China retain it.",
+      "examRelevance": "India voted against a UNGA resolution for a global moratorium on the death penalty.",
+      "tags": [
+        "India",
+        "UNGA",
+        "Death penalty",
+        "International relations",
+        "Human rights"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q28",
+      "question": "The U.S. has reportedly lost its measles-free status after a continued spread of the disease. Which organization's Americas branch reported this decision?",
+      "options": [
+        "Pan American Health Organization (PAHO)",
+        "World Health Organization (WHO)",
+        "United Nations Children's Fund (UNICEF)",
+        "Centers for Disease Control and Prevention (CDC)"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "The U.S. has reportedly lost its measles-free status after the continued spread of the disease. This decision was reported by the Americas branch of the World Health Organization, which is the Pan American Health Organization (PAHO).",
+      "background": "Measles is a highly contagious viral disease that can lead to serious complications. The loss of measles-free status for a developed country like the U.S. highlights challenges in maintaining high vaccination rates and controlling outbreaks, even in regions where the disease was once considered eliminated.",
+      "examRelevance": "The U.S. lost its measles-free status, reported by PAHO.",
+      "tags": [
+        "US",
+        "Measles",
+        "PAHO",
+        "Health status",
+        "Disease outbreak"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q29",
+      "question": "Union Minister Piyush Goyal recently visited Cairo to strengthen trade and investment ties. With which country did he state India's bilateral trade stood at about $6.5 billion?",
+      "options": [
+        "Morocco",
+        "Egypt",
+        "Tunisia",
+        "Algeria"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Union Minister Piyush Goyal, addressing an event organized by the Indian Community Association in Egypt in Cairo, stated that the bilateral trade between India and Egypt stood at about $6.5 billion. His visit aimed to strengthen trade and investment ties between the two nations.",
+      "background": "India and Egypt have historically strong diplomatic and economic relations. Enhancing trade and investment is part of India's broader strategy to deepen its engagement with countries in the Middle East and North Africa (MENA) region.",
+      "examRelevance": "India's bilateral trade with Egypt stands at about $6.5 billion.",
+      "tags": [
+        "India",
+        "Egypt",
+        "Piyush Goyal",
+        "Bilateral trade",
+        "International relations"
+      ]
+    },
+    {
+      "id": "daily-2026-11-15-q30",
+      "question": "Lakshya Sen recently won the Kumamoto Masters Japan Open by defeating Koki Watanabe. In which sport did he achieve this victory?",
+      "options": [
+        "Squash",
+        "Table Tennis",
+        "Tennis",
+        "Badminton"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "Lakshya Sen, the world No. 13, recently won the Kumamoto Masters Japan Open in badminton by defeating Koki Watanabe. Sen bounced back after losing the first game to win the contest 13-21, 21-18, 21-14 in an hour and four minutes.",
+      "background": "Lakshya Sen is a prominent Indian badminton player who has achieved significant success on the international circuit. Winning events like the Kumamoto Masters Japan Open contributes to his ranking and reinforces his position as a top player.",
+      "examRelevance": "Lakshya Sen won the Kumamoto Masters Japan Open in badminton.",
+      "tags": [
+        "Lakshya Sen",
+        "Badminton",
+        "Kumamoto Masters Japan Open",
+        "Sports winner"
+      ]
+    }
+  ]
+}
