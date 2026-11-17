@@ -1,0 +1,785 @@
+{
+  "id": "daily-2026-11-17",
+  "type": "daily",
+  "date": "2026-11-17",
+  "title": "Current Affairs — 17 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-17-q1",
+      "question": "Which of the following leaders are expected to attend the first Quad Summit since 2024, as mentioned in the news?",
+      "options": [
+        "PM Modi, Chinese President Xi, Japanese PM Takaichi, Australian PM Albanese",
+        "PM Modi, U.S. President Biden, Japanese PM Takaichi, Australian PM Morrison",
+        "PM Modi, Russian President Putin, Japanese PM Kishida, Australian PM Albanese",
+        "PM Modi, U.S. President Trump, Japanese PM Takaichi, Australian PM Albanese"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The first Quad Summit since 2024 is expected to include Indian Prime Minister Modi, U.S. President Trump, Japanese Prime Minister Takaichi, and Australian Prime Minister Albanese. This meeting is anticipated to take place after President Trump's arrival for the ASEAN Summit.",
+      "background": "The Quad (Quadrilateral Security Dialogue) is a strategic security dialogue between Australia, India, Japan, and the United States. It has been a significant platform for discussing regional challenges and cooperation in the Indo-Pacific, with summits occurring periodically.",
+      "examRelevance": "The Quad Summit 2026 participants include PM Modi, U.S. President Trump, Japanese PM Takaichi, and Australian PM Albanese.",
+      "tags": [
+        "Quad Summit",
+        "PM Modi",
+        "Donald Trump",
+        "Takaichi",
+        "Albanese"
+      ],
+      "source": {
+        "title": "ASEAN Summit LIVE updates: PM Modi at ASEAN-India Summit; Quad meeting likely after President Trump arrives",
+        "url": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q2",
+      "question": "Which country recently offered ASEAN nations access to energy storage solutions to help address fuel shortages and price hikes in the region?",
+      "options": [
+        "Japan",
+        "India",
+        "South Korea",
+        "China"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Japan recently offered ASEAN (Association of Southeast Asian Nations) member states access to its energy storage solutions. This initiative aims to assist ASEAN nations grappling with fuel shortages and price hikes, which have been exacerbated by the West Asia conflict impacting crude oil flow.",
+      "background": "The West Asia conflict has disrupted global energy supplies, leading to increased fuel costs and shortages in various regions, including Southeast Asia. Japan's offer reflects broader international efforts to enhance energy security and support economic stability in affected regions.",
+      "examRelevance": "Japan offered ASEAN nations access to energy storage solutions.",
+      "tags": [
+        "Japan",
+        "ASEAN",
+        "Energy Storage",
+        "Fuel Shortages"
+      ],
+      "source": {
+        "title": "Japan offers ASEAN nations access to energy storage",
+        "url": "https://www.thehindu.com/news/international/japan-offers-asean-nations-access-to-energy-storage/article71711080.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q3",
+      "question": "In which riverbed in Vellore district were three men recently arrested for illegal sand mining?",
+      "options": [
+        "Thamirabarani River",
+        "Palar River",
+        "Vaigai River",
+        "Cauvery River"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Three individuals were recently arrested for illegal sand mining from the Palar riverbed in Vellore. The arrested individuals reportedly confessed to mining sand from the dry riverbed for sale to retail traders.",
+      "background": "Illegal sand mining is a significant environmental issue in India, leading to riverbed degradation, groundwater depletion, and ecological imbalance. Authorities frequently conduct raids and make arrests to curb such illicit activities, particularly in states like Tamil Nadu where demand for construction sand is high.",
+      "examRelevance": "Illegal sand mining occurred in the Palar riverbed in Vellore.",
+      "tags": [
+        "Illegal Sand Mining",
+        "Palar River",
+        "Vellore",
+        "Tamil Nadu"
+      ],
+      "source": {
+        "title": "Three men arrested for illegal sand mining from Palar riverbed in Vellore",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/three-men-arrested-for-illegal-sand-mining-from-palar-riverbed-in-vellore/article71708001.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q4",
+      "question": "A recent building collapse in Delhi, which resulted in two deaths and four injuries, occurred in which specific area?",
+      "options": [
+        "Jwala Nagar",
+        "Karol Bagh",
+        "Chandni Chowk",
+        "Paharganj"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "A two-storey residential building collapsed in Delhi's Jwala Nagar area, leading to the death of two individuals and injuries to four others. Six tenants were rescued from the debris and transported to Hedgewar Hospital.",
+      "background": "Building collapses are unfortunately common in rapidly urbanizing areas due to factors such as illegal construction, use of substandard materials, structural negligence, and old dilapidated structures. This incident followed another collapse of an under-construction building in Paharganj two days prior, highlighting concerns about construction safety in the capital.",
+      "examRelevance": "A building collapsed in Delhi's Jwala Nagar, killing two and injuring four.",
+      "tags": [
+        "Delhi",
+        "Building Collapse",
+        "Jwala Nagar",
+        "Accident"
+      ],
+      "source": {
+        "title": "Two killed, four injured as building collapses in Delhi’s Jwala Nagar",
+        "url": "https://www.thehindu.com/news/cities/Delhi/two-storey-residential-building-collapsed-in-shahdaras-jwala-nagar-area/article71710607.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q5",
+      "question": "Which state is currently mulling a proposal to lower the teacher-student ratio in government schools, a move that is expected to create an additional financial burden of ₹50 crore a year?",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Karnataka"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Kerala is considering a proposal to lower the teacher-student ratio in government schools, especially due to a fall in student division leading to potential loss of teaching posts. This proposed implementation is estimated to incur an additional financial burden of ₹50 crore annually.",
+      "background": "Teacher-student ratio policies are critical for educational quality and resource allocation. Changes in student enrollment often lead to adjustments in staffing, which can have significant financial implications for state governments. Protests by LPST (Lower Primary School Teacher) candidates highlight the sensitive nature of such policy decisions.",
+      "examRelevance": "Kerala is mulling lowering teacher-student ratio in government schools, costing ₹50 crore annually.",
+      "tags": [
+        "Kerala",
+        "Education Policy",
+        "Teacher-Student Ratio",
+        "Government Schools"
+      ],
+      "source": {
+        "title": "LPST protests: Keralam mulling lowering teacher-student ratio in govt schools with division fall leading to loss of post",
+        "url": "https://www.thehindu.com/news/national/kerala/lpst-protests-keralam-mulling-lowering-teacher-student-ratio-in-govt-schools-with-division-fall-leading-to-loss-of-post/article71710858.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q6",
+      "question": "PM Narendra Modi recently led the foundation stone-laying ceremony for the redevelopment of the oldest gurudwara in which country?",
+      "options": [
+        "Thailand",
+        "Malaysia",
+        "Singapore",
+        "Philippines"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "During his three-day visit to the Philippines, Prime Minister Narendra Modi led the foundation stone-laying ceremony for the redevelopment of Gurudwara Khalsa Diwan in Manila. This gurudwara is over a century old and is considered the oldest in the Philippines.",
+      "background": "PM Modi's visits to foreign nations often include engagements that highlight India's cultural and religious ties with the host country, promoting goodwill and strengthening bilateral relations. Gurudwaras serve as important community and religious centers for the Sikh diaspora globally.",
+      "examRelevance": "PM Modi led the foundation stone-laying ceremony for the oldest gurudwara in the Philippines, Gurudwara Khalsa Diwan in Manila.",
+      "tags": [
+        "PM Modi",
+        "Philippines",
+        "Gurudwara Khalsa Diwan",
+        "Manila",
+        "International Relations"
+      ],
+      "source": {
+        "title": "PM Modi leads foundation stone-laying ceremony for Philippines’ oldest gurudwara’s redevelopment",
+        "url": "https://www.thehindu.com/news/national/pm-modi-leads-foundation-stone-laying-ceremony-for-philippines-oldest-gurudwaras-redevelopment/article71710655.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q7",
+      "question": "Which state's Home Minister, Vangalapudi Anitha, recently put coastal districts on high alert and warned fishermen due to Cyclone Akvan?",
+      "options": [
+        "Odisha",
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "West Bengal"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Andhra Pradesh Home Minister Vangalapudi Anitha recently issued a high alert for the state's coastal districts and advised fishermen against venturing into the sea due to the impending threat of Cyclone Akvan. She also urged the Agriculture Department to assist farmers in protecting their harvest-ready crops.",
+      "background": "Cyclones are a recurring natural disaster along India's eastern coast, particularly in the Bay of Bengal region. State governments, in coordination with national disaster management agencies, regularly issue advisories and implement preparedness measures to minimize loss of life and property when cyclonic storms approach.",
+      "examRelevance": "Andhra Pradesh Home Minister Vangalapudi Anitha put coastal districts on high alert for Cyclone Akvan.",
+      "tags": [
+        "Cyclone Akvan",
+        "Andhra Pradesh",
+        "Vangalapudi Anitha",
+        "Disaster Preparedness"
+      ],
+      "source": {
+        "title": "Cyclone Akvan: Andhra Home Minister Anitha puts coastal districts on high alert, warns fishermen",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-andhra-home-minister-anitha-puts-coastal-districts-on-high-alert-warns-fishermen/article71710830.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q8",
+      "question": "Which state-run refiner recently received government approval for commercial sustainable aviation fuel (SAF) supply from its Panipat refinery?",
+      "options": [
+        "Bharat Petroleum Corporation Limited (BPCL)",
+        "Indian Oil Corporation (IOC)",
+        "Hindustan Petroleum Corporation Limited (HPCL)",
+        "Oil and Natural Gas Corporation (ONGC)"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Indian Oil Corporation (IOC), a state-run refiner, has received government approval for the commercial supply of sustainable aviation fuel (SAF) from its Panipat refinery. IOC plans to secure supply agreements with airlines before committing further investments to additional SAF projects.",
+      "background": "Sustainable aviation fuel (SAF) is a crucial component in the aviation industry's efforts to reduce its carbon footprint. It is produced from sustainable feedstocks and has a significantly lower lifecycle carbon emission compared to conventional jet fuel. This approval marks a step towards India's commitment to green energy and decarbonization goals in the aviation sector.",
+      "examRelevance": "Indian Oil Corporation (IOC) received government nod for commercial sustainable aviation fuel (SAF) supply from Panipat refinery.",
+      "tags": [
+        "Indian Oil Corporation",
+        "IOC",
+        "Sustainable Aviation Fuel",
+        "SAF",
+        "Panipat Refinery"
+      ],
+      "source": {
+        "title": "IOC gets government nod for commercial sustainable aviation fuel supply from Panipat refinery",
+        "url": "https://www.thehindu.com/news/national/ioc-gets-govt-nod-for-commercial-sustainable-aviation-fuel-supply-from-panipat-refinery/article71711051.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q9",
+      "question": "Tamil Nadu Health Minister Arunraj recently inaugurated the Centre for Advanced Genomics in which city?",
+      "options": [
+        "Chennai",
+        "Madurai",
+        "Coimbatore",
+        "Ranipet"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Tamil Nadu Health Minister Arunraj recently inaugurated the Centre for Advanced Genomics at Ranipet CMC. This new facility is designed to offer high-end genetic testing, enabling rapid and accurate diagnosis of various conditions, including complex cancers, rare inherited disorders, infectious diseases, and susceptibility to lifestyle diseases.",
+      "background": "Genomics is a rapidly advancing field in healthcare, offering personalized medicine and improved diagnostic capabilities. Establishing advanced genomics centers is crucial for enhancing a region's medical infrastructure and research capabilities, contributing to better public health outcomes.",
+      "examRelevance": "Tamil Nadu Health Minister Arunraj inaugurated the Centre for Advanced Genomics in Ranipet.",
+      "tags": [
+        "Tamil Nadu",
+        "Arunraj",
+        "Centre for Advanced Genomics",
+        "Ranipet",
+        "Healthcare"
+      ],
+      "source": {
+        "title": "Tamil Nadu Health Minister Arunraj inaugurates Centre for Advanced Genomics at Ranipet CMC",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-health-minister-arunraj-inaugurates-centre-for-advanced-genomics-at-ranipet-cmc/article71708007.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q10",
+      "question": "Ahead of Budget 2027-28, economists have advised Finance Minister Sitharaman to retain the capital gains tax on which type of assets?",
+      "options": [
+        "Real Estate",
+        "Debt Instruments",
+        "Equities",
+        "Gold"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Economists have recommended to Finance Minister Nirmala Sitharaman that the long-term capital gains (LTCG) tax on equities should be retained ahead of the Union Budget 2027-28. This advice comes as the industry has been seeking the abolition of this tax.",
+      "background": "Capital gains tax on equities has been a subject of debate, with industry stakeholders often advocating for its reduction or removal to boost market sentiment and investment. However, economists typically consider the revenue implications and potential for market volatility when advising on such tax policies.",
+      "examRelevance": "Economists advised FM Sitharaman to retain capital gains tax on equities ahead of Budget 2027-28.",
+      "tags": [
+        "Budget 2027-28",
+        "LTCG",
+        "Equities",
+        "Nirmala Sitharaman",
+        "Taxation"
+      ],
+      "source": {
+        "title": "Budget 2027: Economists oppose LTCG tax cut as industry seeks abolition; what they told Sitharaman",
+        "url": "https://www.livemint.com/economy/budget-2027-economists-oppose-ltcg-tax-cut-as-industry-seeks-abolition-what-they-told-sitharaman-11794905927659.html"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q11",
+      "question": "How many 'other' religions were briefly listed under the 'Others' category in the religion drop-down menu on the Census portal before it was removed?",
+      "options": [
+        "200",
+        "150",
+        "350",
+        "287"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The drop-down menu under the 'Others' category for religion on the Census portal briefly listed 287 options, including 'ISKCON', 'Tantric', and 'Gorak Nath'. This extensive list was removed from the portal after a query was raised about its classification.",
+      "background": "The Census of India collects demographic and socio-economic data, including religious affiliation. While there are six major religions recognized, the 'Others' category accounts for diverse smaller religious groups. The temporary listing of a large number of specific options sparked discussion about the classification and representation of various beliefs in official data collection.",
+      "examRelevance": "287 'other' religions were briefly listed on the Census portal's religion drop-down menu.",
+      "tags": [
+        "Census",
+        "Religion",
+        "Census Portal",
+        "Data Classification"
+      ],
+      "source": {
+        "title": "‘ISKCON’, ‘Tantric’, ‘Gorak Nath’: 287 ‘other’ religions briefly listed on Census portal",
+        "url": "https://www.thehindu.com/news/national/census-portal-lists-iskcon-tantric-gorak-nath-among-287-other-religions-removes-menu-later/article71708303.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q12",
+      "question": "Which former DMK Minister is among those accused by the DVAC of being aware of the environmental impact of illegal sand mining in Tamil Nadu?",
+      "options": [
+        "K.N. Nehru",
+        "Udhayanidhi Stalin",
+        "M.K. Stalin",
+        "Duraimurugan"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Directorate of Vigilance and Anti-Corruption (DVAC) has accused former DMK Minister Duraimurugan and other officials and contractors of the Water Resources Department of conspiring to cheat the government in an illegal sand mining case in Tamil Nadu. The FIR states that they were aware of the environmental impact of their actions.",
+      "background": "Illegal sand mining is a persistent issue in Tamil Nadu, often leading to environmental damage and alleged corruption. Investigations into such cases typically involve multiple stakeholders, including political figures and government officials, highlighting the nexus between illicit activities and governance.",
+      "examRelevance": "Former DMK Minister Duraimurugan is accused by DVAC in the Tamil Nadu illegal sand mining case.",
+      "tags": [
+        "Duraimurugan",
+        "DMK",
+        "Illegal Sand Mining",
+        "Tamil Nadu",
+        "DVAC"
+      ],
+      "source": {
+        "title": "Illegal sand mining in Tamil Nadu: Duraimurugan and other accused were aware of environmental impact, says DVAC",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/illegal-sand-mining-in-tamil-nadu-duraimurugan-and-other-accused-were-aware-of-environmental-impact-says-dvac/article71711030.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q13",
+      "question": "What is the total number of voters on the recently published draft electoral roll for Uttar Pradesh?",
+      "options": [
+        "13.58 crore",
+        "12.80 crore",
+        "11.25 crore",
+        "14.10 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The recently published draft electoral roll for Uttar Pradesh lists a total of 13.58 crore voters. This figure represents an increase of over 18 lakh voters during the special summary revision (SSR) that followed the special intensive revision (SIR) published in April.",
+      "background": "Electoral rolls are regularly updated through processes like Special Summary Revision (SSR) to include new eligible voters and remove deceased or shifted voters. Accurate electoral rolls are fundamental to ensuring fair and democratic elections, reflecting the current demographic landscape of the state.",
+      "examRelevance": "The Uttar Pradesh draft electoral roll has 13.58 crore voters, with over 18 lakh added during SSR.",
+      "tags": [
+        "Uttar Pradesh",
+        "Electoral Roll",
+        "Voters",
+        "SSR",
+        "Election Commission"
+      ],
+      "source": {
+        "title": "Uttar Pradesh draft electoral roll published, 13.58 crore voters on list, over 18 lakh added in SSR",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-draft-electoral-roll-published-1358-crore-voters-on-list-over-18-lakh-added-in-ssr/article71710959.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q14",
+      "question": "Which state's Chief Minister recently announced a Tirupati-model mega project for Sabarimala pilgrims and inaugurated the Sabarimala Pilgrim Facilitation Centre at Cochin International Airport?",
+      "options": [
+        "Kerala",
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The Chief Minister of Kerala announced a Tirupati-model mega project aimed at enhancing facilities for Sabarimala pilgrims. This announcement was made during the inauguration of the Sabarimala Pilgrim Facilitation Centre at Cochin International Airport, emphasizing the development of Sabarimala as a part of pilgrimage tourism.",
+      "background": "Sabarimala is one of India's most prominent pilgrimage sites, attracting millions of devotees annually. The 'Tirupati-model' refers to the comprehensive infrastructure and management systems in place at Tirumala Tirupati Devasthanams, known for efficiently handling large pilgrim numbers and providing extensive facilities. Kerala's initiative aims to replicate such success for Sabarimala.",
+      "examRelevance": "Kerala CM announced a Tirupati-model mega project for Sabarimala pilgrims.",
+      "tags": [
+        "Kerala",
+        "Sabarimala",
+        "Pilgrimage Tourism",
+        "Tirupati Model",
+        "Cochin International Airport"
+      ],
+      "source": {
+        "title": "Keralam CM announces Tirupati-model mega project for Sabarimala pilgrims",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-cm-announces-tirupati-model-mega-project-for-sabarimala-pilgrims/article71710853.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q15",
+      "question": "Cyclone Akvan is projected to bring light to moderate rainfall to parts of which of the following Indian states and union territory?",
+      "options": [
+        "Tamil Nadu, Puducherry, Telangana, Andhra Pradesh, Odisha, West Bengal",
+        "Punjab, Haryana, Himachal Pradesh, Uttarakhand, Jammu & Kashmir",
+        "Rajasthan, Madhya Pradesh, Uttar Pradesh, Delhi",
+        "Gujarat, Maharashtra, Goa, Daman & Diu"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The clouds associated with Cyclone Akvan are projected to bring light to moderate rainfall to some parts of Tamil Nadu, Puducherry, Telangana, Andhra Pradesh, Odisha, and West Bengal. The cyclone is expected to intensify into a severe cyclonic storm by November 19.",
+      "background": "Cyclones forming in the Bay of Bengal frequently affect India's eastern and southeastern coastal states, bringing heavy rainfall and strong winds. The India Meteorological Department (IMD) issues regular forecasts and warnings, which are crucial for disaster preparedness and agricultural planning in these regions.",
+      "examRelevance": "Cyclone Akvan is projected to bring rainfall to Tamil Nadu, Puducherry, Telangana, Andhra Pradesh, Odisha, and West Bengal.",
+      "tags": [
+        "Cyclone Akvan",
+        "Rainfall",
+        "Bay of Bengal",
+        "IMD",
+        "Coastal States"
+      ],
+      "source": {
+        "title": "Cyclone 'Akvan' LIVE updates: Akvan likely to become a severe cyclonic storm by November 19",
+        "url": "https://www.thehindu.com/news/national/cyclone-akvan-cyclonic-storm-forms-over-bay-of-bengal-andhra-pradesh-november-17-2026-live-updates/article71710277.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q16",
+      "question": "India is set to unleash a four-pronged pace attack in the upcoming Test series against New Zealand at which venue?",
+      "options": [
+        "Bay Oval, Mount Maunganui",
+        "Hagley Oval, Christchurch",
+        "Basin Reserve, Wellington",
+        "Seddon Park, Hamilton"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "India is preparing to field a four-pronged pace attack in the upcoming Test series against New Zealand, specifically for the match at the Basin Reserve in Wellington. The decision is influenced by the nature of the pitch and the challenging windy conditions prevalent in Wellington.",
+      "background": "The Basin Reserve in Wellington is known for its conditions that often favor fast bowlers, making a pace-heavy attack a strategic choice for visiting teams. India's strategy reflects their intent to leverage these conditions and compete strongly in the World Test Championship (WTC) cycle.",
+      "examRelevance": "India will use a four-pronged pace attack at Basin Reserve, Wellington, in the Test series against New Zealand.",
+      "tags": [
+        "Cricket",
+        "India vs New Zealand",
+        "Test Series",
+        "Basin Reserve",
+        "Wellington"
+      ],
+      "source": {
+        "title": "IND vs NZ Tests: India set to unleash four-pronged pace attack",
+        "url": "https://www.thehindu.com/sport/cricket/captain-gill-faces-good-headache-as-india-line-up-pace-quartet-for-wellington/article71710552.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q17",
+      "question": "The Calcutta High Court recently initiated criminal contempt proceedings against which political leader for remarks made on November 7?",
+      "options": [
+        "Suvendu Adhikari",
+        "Mamata Banerjee",
+        "Abhishek Banerjee",
+        "Dilip Ghosh"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Calcutta High Court recently initiated criminal contempt proceedings against Abhishek Banerjee. Justice Krishna Rao stated that Banerjee's remarks on November 7 constituted criminal contempt of court and an attempt to interfere with the administration of justice.",
+      "background": "Contempt of court proceedings are initiated to protect the dignity and authority of the judiciary and ensure that the administration of justice is not obstructed. Such proceedings against political figures often draw significant public and media attention, highlighting the boundaries between free speech and judicial sanctity.",
+      "examRelevance": "Calcutta High Court issued criminal contempt proceedings against Abhishek Banerjee.",
+      "tags": [
+        "Calcutta High Court",
+        "Abhishek Banerjee",
+        "Criminal Contempt",
+        "Judiciary",
+        "West Bengal"
+      ],
+      "source": {
+        "title": "Calcutta High Court issues criminal contempt proceedings against Abhishek Banerjee",
+        "url": "https://www.thehindu.com/news/cities/kolkata/calcutta-high-court-issues-criminal-contempt-proceedings-against-abhishek-banerjee/article71710835.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q18",
+      "question": "Bilkis Bano recently stated that the Supreme Court did not inform or hear her before granting bail to two convicts in her case, who had undergone more than how many years in prison?",
+      "options": [
+        "15 years",
+        "12 years",
+        "10 years",
+        "17 years"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Bilkis Bano expressed that the Supreme Court neither informed nor heard her before granting bail to two convicts in her case. The court's short order reasoned that the two men had already served over 17 years in prison, and one of them suffered a severe handicap.",
+      "background": "The Bilkis Bano case is a landmark legal battle concerning a gang rape and murder during the 2002 Gujarat riots. The case has seen various legal developments, including the earlier premature release of convicts and subsequent Supreme Court intervention. Her statement highlights concerns about victim's rights and due process in judicial decisions.",
+      "examRelevance": "Bilkis Bano stated that the Supreme Court granted bail to convicts who had served over 17 years without hearing her.",
+      "tags": [
+        "Bilkis Bano",
+        "Supreme Court",
+        "Bail",
+        "Convicts",
+        "Justice"
+      ],
+      "source": {
+        "title": "Bilkis Bano says Supreme Court did not inform or hear her before granting bail to two convicts; vows to fight order",
+        "url": "https://www.thehindu.com/news/national/bilkis-bano-says-supreme-court-did-not-inform-or-hear-her-before-granting-bail-to-two-convicts-vows-to-fight-order/article71710839.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q19",
+      "question": "The Supreme Court is set to hear Rahul Gandhi's application on December 9 regarding the Special Intensive Revision (SIR) exercise, which reportedly excluded approximately how many crore voters?",
+      "options": [
+        "15 crore",
+        "13 crore",
+        "8 crore",
+        "10 crore"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court is scheduled to hear Rahul Gandhi's application on December 9 concerning the Special Intensive Revision (SIR) exercise. An affidavit asserted that this massive exercise, which excluded approximately 13 crore voters, was a unanimous decision by the Election Commission of India (ECI).",
+      "background": "The Special Intensive Revision (SIR) is a process undertaken by the ECI to update electoral rolls. Allegations of large-scale exclusions during such revisions can raise concerns about voter disenfranchisement and the integrity of the electoral process, often leading to legal challenges and political debate.",
+      "examRelevance": "Rahul Gandhi's application in SC concerns the SIR exercise which excluded approximately 13 crore voters.",
+      "tags": [
+        "Rahul Gandhi",
+        "Supreme Court",
+        "Special Intensive Revision",
+        "SIR",
+        "Voters",
+        "Election Commission"
+      ],
+      "source": {
+        "title": "SIR row: Supreme Court to hear Rahul Gandhi’s application on December 9",
+        "url": "https://www.thehindu.com/news/national/sir-row-supreme-court-to-hear-rahul-gandhis-application-on-december-9/article71710964.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q20",
+      "question": "The Supreme Court Bar Association (SCBA) has sought contempt action against a lawyer for derogatory remarks about whom?",
+      "options": [
+        "Union Law Minister",
+        "Solicitor General of India",
+        "Chief Justice of India",
+        "Attorney General of India"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court Bar Association (SCBA) has requested that contempt action be initiated against a lawyer for making derogatory remarks about the Chief Justice of India (CJI). The SCBA office bearers urged the court to tag this petition with other pending contempt pleas against journalist Nikhil Wagle and Rajya Sabha MP Sanjay Raut.",
+      "background": "Contempt of court is a legal mechanism to uphold the authority and dignity of the judiciary. Remarks that undermine the judiciary or its members, especially the Chief Justice, are often viewed seriously by bar associations and the courts themselves, leading to calls for disciplinary action.",
+      "examRelevance": "SCBA sought contempt action against a lawyer for derogatory remarks about the Chief Justice of India.",
+      "tags": [
+        "SCBA",
+        "Chief Justice of India",
+        "CJI",
+        "Contempt of Court",
+        "Judiciary"
+      ],
+      "source": {
+        "title": "SCBA seeks contempt action against lawyer for derogatory remarks about CJI",
+        "url": "https://www.thehindu.com/news/national/scba-seeks-contempt-action-against-lawyer-for-derogatory-remarks-about-cji/article71710680.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q21",
+      "question": "At which summit did PM Modi recently state that New Delhi's commitment to the grouping's unity and centrality 'is and will remain steadfast'?",
+      "options": [
+        "India-ASEAN Summit",
+        "BRICS Summit",
+        "G20 Summit",
+        "SCO Summit"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Prime Minister Modi addressed the India-ASEAN Summit in Manila, where he emphasized New Delhi's unwavering commitment to the unity and centrality of the ASEAN grouping in the partnership. He also stated that the future must be shaped by 'cooperation, not competition'.",
+      "background": "The India-ASEAN Summit is an annual event that strengthens strategic partnership and cooperation between India and the ten member states of ASEAN. India's 'Act East' policy places ASEAN at the core of its engagement with the Indo-Pacific region, focusing on economic, security, and cultural ties.",
+      "examRelevance": "PM Modi affirmed India's commitment to ASEAN's unity and centrality at the India-ASEAN Summit in Manila.",
+      "tags": [
+        "PM Modi",
+        "India-ASEAN Summit",
+        "Manila",
+        "International Relations",
+        "ASEAN"
+      ],
+      "source": {
+        "title": "Our future must be shaped by ‘cooperation, not competition’: PM Modi to ASEAN leaders",
+        "url": "https://www.thehindu.com/news/national/pm-modi-asean-summit-address-india-world-leaders-manila/article71710772.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q22",
+      "question": "Which city in Kerala has recently seen a spurt in dengue cases, with KU's Karyavattom campus and Cliff House compound identified as hotspots?",
+      "options": [
+        "Kozhikode",
+        "Thrissur",
+        "Kochi",
+        "Thiruvananthapuram"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "Thiruvananthapuram, the capital city of Kerala, has recently experienced a spurt in dengue cases. Specific areas identified as hotspots include KU's Karyavattom campus and the Cliff House compound.",
+      "background": "Dengue fever is a mosquito-borne viral infection prevalent in tropical and subtropical regions. Intermittent rainfall followed by hot and humid weather creates ideal breeding conditions for Aedes mosquitoes, leading to outbreaks. Despite a statewide decline in cases since July, localized spikes can occur due to specific environmental factors.",
+      "examRelevance": "Thiruvananthapuram experienced a dengue spurt, with Karyavattom campus and Cliff House compound as hotspots.",
+      "tags": [
+        "Dengue",
+        "Thiruvananthapuram",
+        "Kerala",
+        "Health",
+        "Hotspots"
+      ],
+      "source": {
+        "title": "Dengue spurt in Thiruvananthapuram: KU’s Karyavattom campus, Cliff House compound emerge as hotspots",
+        "url": "https://www.thehindu.com/news/national/kerala/dengue-spurt-in-thiruvananthapuram-kus-karyavattom-campus-cliff-house-compound-emerge-as-hotspots/article71710918.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q23",
+      "question": "Cyclone Akvan is likely to intensify into a very severe cyclonic storm before making landfall on November 20 along the coast of which Indian state and Union Territory?",
+      "options": [
+        "Gujarat and Diu",
+        "Odisha and West Bengal",
+        "Tamil Nadu and Puducherry",
+        "Andhra Pradesh and Yanam"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Cyclone Akvan is forecast to intensify into a very severe cyclonic storm by the evening of November 19 and is expected to make landfall along the 540 km coast of Andhra Pradesh and Yanam on November 20. The IMD has issued warnings regarding its intensity and path.",
+      "background": "The Bay of Bengal is a breeding ground for severe cyclonic storms, especially during the post-monsoon season (October-December). The India Meteorological Department (IMD) continuously monitors these systems and provides critical information for coastal communities to prepare for potential impact.",
+      "examRelevance": "Cyclone Akvan is expected to make landfall on November 20 along the Andhra Pradesh and Yanam coast.",
+      "tags": [
+        "Cyclone Akvan",
+        "Landfall",
+        "Andhra Pradesh",
+        "Yanam",
+        "IMD"
+      ],
+      "source": {
+        "title": "Cyclone Akvan: 540 km of Andhra and Yanam coast braces for November 20 landfall",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-540-km-of-andhra-and-yanam-coast-braces-for-november-20-landfall/article71710410.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q24",
+      "question": "A Delhi Minister recently stated that there is no froth in a 52-km stretch of which river, amidst allegations related to Chhath Puja?",
+      "options": [
+        "Yamuna River",
+        "Betwa River",
+        "Gomti River",
+        "Ganga River"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "A Delhi Minister, addressing a press conference, stated that there is no froth in a 52-km stretch of the Yamuna river. The minister rejected allegations by the Aam Aadmi Party (AAP) that devotees were forced to celebrate Chhath Puja at locations where the river was covered with froth.",
+      "background": "The Yamuna river in Delhi often suffers from severe pollution, including frothing, which becomes particularly visible during festivals like Chhath Puja. This issue frequently leads to political debates and environmental concerns, especially regarding the river's water quality and the safety of devotees performing rituals.",
+      "examRelevance": "A Delhi Minister stated no froth in a 52-km stretch of the Yamuna river.",
+      "tags": [
+        "Yamuna River",
+        "Delhi",
+        "Froth",
+        "Chhath Puja",
+        "Pollution"
+      ],
+      "source": {
+        "title": "Delhi Minister says no froth in 52-km Yamuna stretch, blames AAP for politicising Chhath",
+        "url": "https://www.thehindu.com/news/cities/Delhi/delhi-minister-says-no-froth-in-52-km-yamuna-stretch-blames-aap-for-politicising-chhath/article71710954.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q25",
+      "question": "The head of which Chinese tech company recently warned of an AI 'bubble' ahead of APEC talks?",
+      "options": [
+        "Tencent",
+        "Baidu",
+        "Huawei",
+        "Alibaba"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The head of China's Baidu, a major technology company, recently issued a warning about a potential 'AI bubble' ahead of the Asia-Pacific Economic Cooperation (APEC) talks. This caution comes as AI development continues at a rapid pace globally.",
+      "background": "Baidu is a leading Chinese multinational technology company specializing in Internet-related services and products and artificial intelligence. Discussions about AI bubbles reflect concerns that investments and valuations in the AI sector might be outpacing real-world profitability or sustainable growth, similar to past tech booms.",
+      "examRelevance": "Baidu's head warned of an AI 'bubble' ahead of APEC talks.",
+      "tags": [
+        "Baidu",
+        "AI Bubble",
+        "APEC",
+        "Artificial Intelligence",
+        "China"
+      ],
+      "source": {
+        "title": "Head of China’s Baidu warns of AI ‘bubble’ ahead of APEC talks",
+        "url": "https://www.thehindu.com/news/international/head-of-chinas-baidu-warns-of-ai-bubble-ahead-of-apec-talks/article71710928.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q26",
+      "question": "Which political party recently stated that 'Census 2027 is turning out to be a farce in many respects'?",
+      "options": [
+        "Bahujan Samaj Party (BSP)",
+        "Indian National Congress (INC)",
+        "Bharatiya Janata Party (BJP)",
+        "Aam Aadmi Party (AAP)"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Congress party, through Jairam Ramesh, recently stated that 'Census 2027 is turning out to be a farce in many respects,' and warned that this would have grave implications. This criticism comes amidst various issues raised regarding the census process.",
+      "background": "The Census is a crucial exercise for data collection, policy planning, and resource allocation in India. Political parties often scrutinize its methodology and implementation, especially when issues like data accuracy or procedural irregularities are perceived. The Census 2027 has faced criticism from various quarters.",
+      "examRelevance": "Congress stated that 'Census 2027 is turning out to be a farce'.",
+      "tags": [
+        "Census 2027",
+        "Congress",
+        "Jairam Ramesh",
+        "Polity",
+        "Governance"
+      ],
+      "source": {
+        "title": "Census 2027 turning out to be farce: Congress",
+        "url": "https://www.thehindu.com/news/national/census-2027-turning-out-to-be-farce-congress/article71710420.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q27",
+      "question": "Which prominent political leader recently launched a memoir, which the BJP called a 'self-goal' and politically opportunistic?",
+      "options": [
+        "Priyanka Gandhi Vadra",
+        "Sonia Gandhi",
+        "Mallikarjun Kharge",
+        "Rahul Gandhi"
+      ],
+      "answerIndex": 1,
+      "category": "Books & Authors",
+      "explanation": "Sonia Gandhi, a prominent political leader, recently launched her memoir. The BJP criticized the timing of its release, just ahead of state Assembly elections, calling it a 'self-goal' and an act of 'political opportunism' that exposes the Congress's past misdeeds.",
+      "background": "Memoirs by political figures often provide insights into historical events, political decisions, and personal journeys. Their release, especially during active political seasons, can generate significant public and media attention, often becoming a subject of political commentary and debate among rival parties.",
+      "examRelevance": "Sonia Gandhi launched her memoir, which the BJP criticized.",
+      "tags": [
+        "Sonia Gandhi",
+        "Memoir",
+        "Books",
+        "BJP",
+        "Congress"
+      ],
+      "source": {
+        "title": "BJP calls Sonia Gandhi’s memoir launch a ‘self-goal’, says it exposes Congress’ past misdeeds",
+        "url": "https://www.thehindu.com/news/national/bjp-calls-sonia-gandhis-memoir-launch-a-self-goal-says-it-exposes-congress-past-misdeeds/article71710399.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q28",
+      "question": "Which Indian state is proposing to merge its Board of Intermediate Education with the Department of School Education to streamline its education structure?",
+      "options": [
+        "Andhra Pradesh",
+        "Kerala",
+        "Karnataka",
+        "Telangana"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Telangana is considering a proposal to merge its Board of Intermediate Education with the Department of School Education. Under the proposed new structure, education stages would be standardized to nursery to Class 4 as primary, Classes 5 to 8 as secondary, and Classes 9 to 12 as senior secondary, aligning with systems in several other states.",
+      "background": "Educational reforms often aim to streamline administration, improve curriculum coherence, and enhance learning outcomes. Merging education boards can lead to integrated policy-making and a more uniform educational experience across different stages, reducing administrative complexities. This move by Telangana is part of a broader trend seen in other Indian states.",
+      "examRelevance": "Telangana is merging its Board of Intermediate Education with the Department of School Education.",
+      "tags": [
+        "Telangana",
+        "Education Reform",
+        "Board of Intermediate Education",
+        "School Education",
+        "State Policy"
+      ],
+      "source": {
+        "title": "Why is Telangana merging its Board of Intermediate Education with Department of School Education? | Explained",
+        "url": "https://www.thehindu.com/news/national/telangana/why-is-telangana-merging-its-board-of-intermediate-education-with-department-of-school-education-explained/article71707470.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q29",
+      "question": "Which Indian state's Chief Minister, D.K. Shivakumar, recently inaugurated the 29th Bengaluru Tech Summit and unveiled initiatives to push AI and deep-tech?",
+      "options": [
+        "Gujarat",
+        "Tamil Nadu",
+        "Karnataka",
+        "Maharashtra"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Karnataka Chief Minister D.K. Shivakumar inaugurated the 29th Bengaluru Tech Summit. During the event, he unveiled significant initiatives encompassing infrastructure, funding, and reskilling, with the aim of positioning Karnataka as a global leader in AI and deep-tech innovation.",
+      "background": "Bengaluru, often referred to as India's 'Silicon Valley,' is a major hub for technology and innovation. The Bengaluru Tech Summit is an annual flagship event that brings together global leaders, experts, and startups to discuss emerging technologies and foster collaboration. Karnataka's focus on AI and deep-tech aligns with national and global trends in technological advancement.",
+      "examRelevance": "Karnataka CM D.K. Shivakumar inaugurated the 29th Bengaluru Tech Summit, focusing on AI and deep-tech.",
+      "tags": [
+        "Karnataka",
+        "Bengaluru Tech Summit",
+        "D.K. Shivakumar",
+        "AI",
+        "Deep-Tech",
+        "Science & Technology"
+      ],
+      "source": {
+        "title": "Karnataka charting next tech leap to push AI, deep-tech: CM D.K. Shivakumar",
+        "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-tech-summit-karnataka-charts-next-tech-leap-to-push-ai-deep-tech-cm-dk-shivakumar/article71710810.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-17-q30",
+      "question": "For the Union Budget 2027-28, in addition to economists and other stakeholders, which demographic group will the Finance Minister also invite for pre-Budget consultations?",
+      "options": [
+        "Farmers' Representatives",
+        "Senior Citizens",
+        "Women Entrepreneurs",
+        "Gen Z"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "For the Union Budget 2027-28, Finance Minister Nirmala Sitharaman has initiated pre-Budget consultations, meeting with economists and planning to invite inputs from industry, trade unions, and state governments. Notably, the government will also seek consultations from 'Gen Z' for their perspectives.",
+      "background": "Pre-Budget consultations are a standard practice where the Finance Minister engages with various stakeholders to gather diverse perspectives and suggestions for the upcoming budget. Including 'Gen Z' in these consultations is a new approach, reflecting an effort to incorporate the views of younger generations on economic policies and future development.",
+      "examRelevance": "Gen Z will be invited for pre-Budget consultations for Union Budget 2027-28.",
+      "tags": [
+        "Union Budget 2027-28",
+        "Nirmala Sitharaman",
+        "Gen Z",
+        "Budget Consultations",
+        "Economy"
+      ],
+      "source": {
+        "title": "Budget 2027-28: Govt to invite Gen Z for pre-Budget consultations; Sitharaman meets economists",
+        "url": "https://www.livemint.com/economy/budget-2027-28-govt-to-invite-gen-z-for-pre-budget-consultations-sitharaman-meets-economists-11794901153565.html"
+      }
+    }
+  ]
+}

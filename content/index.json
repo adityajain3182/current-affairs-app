@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-16T08:14:31.387Z",
+  "updatedAt": "2026-11-17T09:31:35.817Z",
   "daily": [
+    {
+      "id": "daily-2026-11-17",
+      "type": "daily",
+      "date": "2026-11-17",
+      "title": "Current Affairs — 17 Nov 2026",
+      "path": "content/daily/2026-11-17.json",
+      "questionCount": 30
+    },
     {
       "id": "daily-2026-11-16",
       "type": "daily",
