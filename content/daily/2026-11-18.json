@@ -1,0 +1,789 @@
+{
+  "id": "daily-2026-11-18",
+  "type": "daily",
+  "date": "2026-11-18",
+  "title": "Current Affairs — 18 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-18-q1",
+      "question": "What triggered the resurgence of measles in the U.S., leading to its loss of elimination status?",
+      "options": [
+        "Increased international travel",
+        "Emergence of a new, resistant measles strain",
+        "Insufficient public health infrastructure",
+        "Decline in vaccine coverage due to hesitancy"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "The United States recently lost its measles elimination status due to a resurgence of the disease. This resurgence was primarily triggered by a decline in vaccine coverage, often attributed to vaccine hesitancy among the population.",
+      "background": "The U.S. had achieved measles elimination status in 2000, a significant public health milestone. The current situation highlights how critical high vaccination rates are for maintaining herd immunity and preventing the re-establishment of diseases previously eradicated.",
+      "examRelevance": "U.S. lost measles elimination status due to vaccine hesitancy and decreased vaccine coverage.",
+      "tags": [
+        "Measles",
+        "Vaccine Hesitancy",
+        "Public Health",
+        "U.S."
+      ],
+      "source": {
+        "title": "Why did the U.S. lose its measles elimination status? | Explained",
+        "url": "https://www.thehindu.com/sci-tech/health/why-the-us-lost-its-measles-elimination-status-explained/article71714981.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q2",
+      "question": "Which Indian state's Industries Minister recently urged companies to retain their corporate headquarters in Mumbai but establish manufacturing units in their state?",
+      "options": [
+        "Gujarat",
+        "Karnataka",
+        "Andhra Pradesh",
+        "Telangana"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Telangana's Industries Minister, Sridhar Babu, recently appealed to companies to maintain their corporate headquarters in Mumbai while setting up manufacturing operations in Telangana. He assured end-to-end assistance from a dedicated officer for every company.",
+      "background": "This initiative is part of Telangana's strategy to attract industrial investment and boost its manufacturing sector. The state aims to leverage its industrial policies and infrastructure to become a preferred manufacturing hub in India.",
+      "examRelevance": "Telangana's Industries Minister Sridhar Babu urged companies to manufacture in Telangana while retaining Mumbai HQs.",
+      "tags": [
+        "Telangana",
+        "Industrial Policy",
+        "Manufacturing",
+        "Sridhar Babu"
+      ],
+      "source": {
+        "title": "Retain corporate HQ in Mumbai, manufacture in Telangana: Sridhar Babu",
+        "url": "https://www.thehindu.com/news/cities/Hyderabad/retain-corporate-hq-in-mumbai-manufacture-in-telangana-sridhar-babu/article71714743.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q3",
+      "question": "According to recent APAC retail rankings, which retail street tops India with a monthly rental of ₹1,875/sft?",
+      "options": [
+        "Himayatnagar, Hyderabad",
+        "Khan Market, Delhi",
+        "Banjara Hills, Hyderabad",
+        "Jubilee Hills, Hyderabad"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Delhi's Khan Market has been identified as India's top retail street in recent APAC retail rankings, boasting a monthly rental of ₹1,875/sft. Globally, it holds the 24th position among the priciest retail streets.",
+      "background": "Three shopping streets from Hyderabad also featured in the APAC retail rankings, with Jubilee Hills leading Hyderabad's areas at ₹250/sft. These rankings highlight the significant rental values and commercial importance of prime retail locations in Indian cities within the Asia-Pacific context.",
+      "examRelevance": "Delhi's Khan Market tops India's retail streets with ₹1,875/sft monthly rental, ranking 24th globally.",
+      "tags": [
+        "Khan Market",
+        "Delhi",
+        "Retail Rankings",
+        "APAC",
+        "Real Estate"
+      ],
+      "source": {
+        "title": "Three Hyderabad shopping streets feature in APAC’s retail rankings, Delhi’s Khan Market tops India’s retail streets with ₹1,875/sft rental",
+        "url": "https://www.thehindu.com/news/cities/Hyderabad/three-hyderabad-shopping-streets-feature-in-apacs-retail-rankings-delhis-khan-market-tops-indias-retail-streets-with-1875sft-rental/article71714808.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q4",
+      "question": "The Central government recently issued guidelines for district-level ombudspersons to strengthen grievance redressal under which scheme?",
+      "options": [
+        "MGNREGA",
+        "VB-G RAM G",
+        "PM-KISAN",
+        "Ayushman Bharat"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The Centre recently issued guidelines for district-level ombudspersons to enhance documentation and transparency in the grievance redressal process under the VB-G RAM G scheme. This includes using geo-tagged and time-stamped photographs during field visits.",
+      "background": "The VB-G RAM G scheme is a government initiative focused on grievance redressal. The new guidelines aim to improve the efficiency and accountability of the system by integrating modern verification methods and standardizing the process for ombudspersons at the district level.",
+      "examRelevance": "Centre issued guidelines for district-level ombudspersons under VB-G RAM G for grievance redressal.",
+      "tags": [
+        "VB-G RAM G",
+        "Grievance Redressal",
+        "Ombudspersons",
+        "Government Scheme"
+      ],
+      "source": {
+        "title": "Grievances under VB-G RAM G: Centre issues guidelines for district-level ombudspersons",
+        "url": "https://www.thehindu.com/news/national/grievances-under-vb-g-ram-g-centre-issues-guidelines-for-district-level-ombudspersons/article71715022.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q5",
+      "question": "The Iranian army recently claimed to have targeted a U.S. military base in which Gulf country?",
+      "options": [
+        "Kuwait",
+        "UAE",
+        "Saudi Arabia",
+        "Qatar"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The Iranian army recently announced that it had targeted a U.S. military base in Kuwait. According to Iran’s state broadcaster, the statement claimed attacks on air defence systems, as well as drone and missile launch platforms.",
+      "background": "This claim comes amidst heightened tensions in the Middle East, with reports of attacks on Bahrain and Kuwait following U.S. strikes on an Iranian island. Such incidents underscore the volatile geopolitical situation in the region.",
+      "examRelevance": "Iran army claimed to target a U.S. military base in Kuwait.",
+      "tags": [
+        "Iran",
+        "U.S.",
+        "Kuwait",
+        "Military Base",
+        "Middle East"
+      ],
+      "source": {
+        "title": "Iran army says it targeted U.S. military base in Kuwait",
+        "url": "https://www.thehindu.com/news/international/iran-army-says-it-targeted-us-military-base-in-kuwait/article71715048.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q6",
+      "question": "Cyclone Akvan, recently strengthened into a severe cyclonic storm, is predicted to cross the coast of which Indian state, specifically between Machilipatnam and Puri?",
+      "options": [
+        "Odisha",
+        "Andhra Pradesh",
+        "West Bengal",
+        "Tamil Nadu"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Cyclone Akvan recently strengthened into a severe cyclonic storm and is predicted by the APSDMA to cross the Andhra Pradesh coast between Machilipatnam and Puri. Earlier predictions suggested it would cross between Nellore and Visakhapatnam.",
+      "background": "Andhra Pradesh is preparing for the cyclone's impact, with 13 NDRF and 11 SDRF teams on standby. Cyclones are a recurring natural disaster for coastal states like Andhra Pradesh and Odisha, necessitating robust disaster preparedness measures.",
+      "examRelevance": "Cyclone Akvan is predicted to cross the Andhra Pradesh coast between Machilipatnam and Puri.",
+      "tags": [
+        "Cyclone Akvan",
+        "Andhra Pradesh",
+        "Machilipatnam",
+        "Puri",
+        "Disaster Preparedness"
+      ],
+      "source": {
+        "title": "Cyclone 'Akvan' LIVE updates: Akvan likely to cross between Machilipatnam and Puri, says APSDMA",
+        "url": "https://www.thehindu.com/news/national/cyclone-akvan-intensify-into-a-severe-cyclonic-storm-imd-weather-forecast-andhra-landfall-november-18-2026-live-updates/article71714340.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q7",
+      "question": "A magnitude-4.1 earthquake recently struck Chamoli district in which Indian state?",
+      "options": [
+        "Sikkim",
+        "Jammu and Kashmir",
+        "Himachal Pradesh",
+        "Uttarakhand"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "A magnitude-4.1 earthquake recently occurred in Uttarakhand, with its epicentre near Jyotirmath in the Chamoli district. Tremors were felt across most parts of the district, though no damage reports have been received so far.",
+      "background": "Uttarakhand is located in a seismically active zone, making it prone to earthquakes. Regular seismic activity necessitates preparedness and adherence to earthquake-resistant construction norms in the region.",
+      "examRelevance": "Magnitude-4.1 earthquake struck Chamoli district in Uttarakhand.",
+      "tags": [
+        "Earthquake",
+        "Uttarakhand",
+        "Chamoli",
+        "Jyotirmath",
+        "Seismic Activity"
+      ],
+      "source": {
+        "title": "Magnitude-4.1 earthquake hits Uttarakhand's Chamoli",
+        "url": "https://www.thehindu.com/news/national/uttarakhand/earthquake-hits-uttarakhands-chamoli/article71714959.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q8",
+      "question": "Who has been recently elected as the new Speaker of the Israeli Parliament (Knesset)?",
+      "options": [
+        "Yair Lapid",
+        "Matan Kahana",
+        "Benjamin Netanyahu",
+        "Gadi Eisenkot"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "Matan Kahana has been recently elected as the new Speaker of the Israeli Parliament, known as the Knesset. He is an ally of Gadi Eisenkot, a party leader working to form the next government.",
+      "background": "The election of a new Knesset Speaker is a significant political development in Israel, often reflecting shifts in parliamentary alliances and the ongoing efforts to form a stable government. The Knesset is Israel's unicameral national legislature.",
+      "examRelevance": "Matan Kahana was elected as the new Speaker of the Israeli Knesset.",
+      "tags": [
+        "Matan Kahana",
+        "Knesset",
+        "Israel",
+        "Speaker",
+        "Parliament"
+      ],
+      "source": {
+        "title": "Israeli Parliament elects new Knesset Speaker backed by Netanyahu's opponents",
+        "url": "https://www.thehindu.com/news/international/israeli-parliament-elects-new-knesset-speaker-backed-by-netanyahus-opponents/article71714379.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q9",
+      "question": "Who has been recently appointed as the new CEO of Air India Express?",
+      "options": [
+        "Rahul Bhatia",
+        "Deepak Rajawat",
+        "Hemant Amin",
+        "Campbell Wilson"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "Deepak Rajawat, previously the Chief Financial Officer (CFO) of Air India Express, has been named as the new Chief Executive Officer (CEO) of the airline. His appointment is effective from December 1.",
+      "background": "Air India Express is a low-cost carrier subsidiary of Air India, which is now part of the Tata Group. Such leadership changes are common in the aviation industry as companies restructure and streamline operations for efficiency and growth.",
+      "examRelevance": "Deepak Rajawat appointed as the new CEO of Air India Express.",
+      "tags": [
+        "Deepak Rajawat",
+        "Air India Express",
+        "CEO",
+        "Appointment",
+        "Aviation"
+      ],
+      "source": {
+        "title": "Air India Express names CFO Deepak Rajawat as CEO",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-india-express-names-cfo-deepak-rajawat-as-ceo-effective-december-1/articleshow/135955653.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q10",
+      "question": "Which pharmaceutical company recently signed generic licensing deals for an experimental Ebola drug currently in late-stage trials?",
+      "options": [
+        "Pfizer",
+        "Moderna",
+        "Johnson & Johnson",
+        "Gilead"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Gilead Sciences recently signed generic licensing deals for an experimental Ebola drug. This drug is currently undergoing a late-stage trial, testing its efficacy in people at high risk after exposure to the virus.",
+      "background": "These deals aim to secure manufacturing and supply capabilities before the trial results are finalized and regulatory filings are made. Such proactive measures are crucial for rapid deployment of potential treatments, especially for diseases like Ebola that require quick responses.",
+      "examRelevance": "Gilead signed generic licensing deals for an experimental Ebola drug.",
+      "tags": [
+        "Gilead",
+        "Ebola Drug",
+        "Pharmaceuticals",
+        "Medical Research",
+        "Generic Licensing"
+      ],
+      "source": {
+        "title": "Gilead signs generic licensing deals for experimental Ebola drug",
+        "url": "https://www.thehindu.com/sci-tech/health/gilead-signs-generic-licensing-deals-for-experimental-ebola-drug/article71712679.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q11",
+      "question": "The Indian Sports Ministry recently formed a 14-member committee to formulate professionally managed leagues in India. Who among the following is a member of this committee?",
+      "options": [
+        "Narinder Batra",
+        "Anurag Thakur",
+        "Hemang Amin",
+        "P.T. Usha"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "The Sports Ministry has constituted a 14-member committee to develop a framework for professionally managed sports leagues in India. Among its notable members are Hemang Amin, who is the CEO of BCCI and COO of IPL, and Rahuram Iyer, CEO of IOA.",
+      "background": "The formation of this committee underscores the government's intent to professionalize and expand the sports ecosystem in the country. Such initiatives aim to boost talent, attract investment, and provide better opportunities for athletes across various disciplines.",
+      "examRelevance": "BCCI CEO Hemang Amin is a member of the Sports Ministry's 14-member committee for professionally managed leagues.",
+      "tags": [
+        "Sports Ministry",
+        "Hemang Amin",
+        "Sports Leagues",
+        "BCCI",
+        "IOA"
+      ],
+      "source": {
+        "title": "Sports Ministry forms 14-member committee to formulate ‘professionally managed’ leagues in India",
+        "url": "https://www.thehindu.com/sport/sports-ministry-forms-14-member-committee-to-formulate-professionally-managed-leagues-in-india/article71715041.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q12",
+      "question": "Indian Defence Minister Rajnath Singh and External Affairs Minister S. Jaishankar recently arrived in Tokyo to review defence ties with which country?",
+      "options": [
+        "Vietnam",
+        "South Korea",
+        "Japan",
+        "Australia"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Indian Defence Minister Rajnath Singh and External Affairs Minister S. Jaishankar recently visited Tokyo to review defence ties with Japan. This two-day visit followed the Quad leaders' summit in Manila, Philippines.",
+      "background": "The visit signifies India's growing strategic partnership with Japan, particularly in defence and security. Both nations are key partners in the Indo-Pacific region and members of the Quad, working towards a free and open Indo-Pacific.",
+      "examRelevance": "India's Defence and External Affairs Ministers visited Tokyo to review defence ties with Japan.",
+      "tags": [
+        "India",
+        "Japan",
+        "Defence Ties",
+        "Rajnath Singh",
+        "S. Jaishankar",
+        "Tokyo"
+      ],
+      "source": {
+        "title": "India, Japan set to review defence ties as Rajnath, Jaishankar arrive in Tokyo",
+        "url": "https://www.thehindu.com/news/international/india-japan-set-to-review-defence-ties-as-rajnath-jaishankar-arrive-in-tokyo/article71714856.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q13",
+      "question": "The Supreme Court recently ruled that the 24-hour custody limit under Article 22(2) of the Indian Constitution begins when a person's liberty is curtailed during detention, and not from which other point?",
+      "options": [
+        "The production before a magistrate",
+        "The filing of FIR",
+        "The recording of statement",
+        "The formal arrest"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently clarified that the 24-hour custody limit stipulated under Article 22(2) of the Indian Constitution commences from the moment a person's liberty is curtailed due to detention, rather than from the point of formal arrest.",
+      "background": "Article 22(2) of the Constitution mandates that every person arrested and detained in custody shall be produced before the nearest magistrate within 24 hours of such arrest, excluding the time necessary for the journey. This ruling provides a crucial interpretation of when this period legally begins.",
+      "examRelevance": "SC ruled 24-hour custody limit under Article 22(2) begins when liberty is curtailed, not from formal arrest.",
+      "tags": [
+        "Supreme Court",
+        "Article 22(2)",
+        "Custody Limit",
+        "Indian Constitution",
+        "Detention"
+      ],
+      "source": {
+        "title": "When does the 24-hour countdown begin after arrest? Supreme Court answers",
+        "url": "https://www.thehindu.com/news/national/when-does-the-24-hour-countdown-begin-after-arrest-supreme-court-answers/article71714859.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q14",
+      "question": "A Pakistani man named Asif Merchant was recently sentenced to over 27 years in prison in the U.S. for plotting to kill which former President?",
+      "options": [
+        "Donald Trump",
+        "George W. Bush",
+        "Barack Obama",
+        "Bill Clinton"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Asif Merchant, a Pakistani man, was recently sentenced in the U.S. to over 27 years in prison. Prosecutors stated that he attempted to recruit individuals in the U.S. for a plot targeting former President Donald Trump and others.",
+      "background": "The plot was reportedly in retaliation for Washington's killing of an Iranian military commander in 2020. This case highlights ongoing international security concerns and the long reach of U.S. law enforcement in addressing threats against its leaders.",
+      "examRelevance": "Pakistani man Asif Merchant sentenced in U.S. for plotting to kill former President Donald Trump.",
+      "tags": [
+        "Asif Merchant",
+        "Donald Trump",
+        "Assassination Plot",
+        "U.S. Law",
+        "International"
+      ],
+      "source": {
+        "title": "Pakistani man convicted of plotting to kill Trump is sentenced to over 27 years in prison",
+        "url": "https://www.thehindu.com/news/international/pakistani-man-convicted-of-plotting-to-kill-trump-is-sentenced-to-over-27-years-in-prison/article71714337.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q15",
+      "question": "The Supreme Court recently ruled that a father can sell his land without the consent of his son, specifically regarding which type of property?",
+      "options": [
+        "Self-acquired property",
+        "Ancestral land",
+        "Commercial property",
+        "Agricultural land"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently delivered a ruling stating that a father has the right to sell his ancestral land without requiring the consent of his son. This decision clarifies property rights within family structures.",
+      "background": "This ruling addresses a long-standing legal question regarding the exclusive share of a son in ancestral property and the father's rights over it. It reinforces the father's discretion in disposing of such property under certain conditions.",
+      "examRelevance": "SC ruled a father can sell ancestral land without son's consent.",
+      "tags": [
+        "Supreme Court",
+        "Ancestral Land",
+        "Property Rights",
+        "Family Law",
+        "Legal Ruling"
+      ],
+      "source": {
+        "title": "Father can sell his land w/o son’s consent: SC",
+        "url": "https://economictimes.indiatimes.com/wealth/legal/will/father-sells-1800-sq-ft-of-ancestral-land-despite-sons-objection-supreme-court-says-son-has-no-right-to-his-exclusive-share/articleshow/135917172.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q16",
+      "question": "Citizens and environmentalists from Teok region in Jorhat district recently urged the Chief Minister of which state to cancel a wetland excavation project?",
+      "options": [
+        "West Bengal",
+        "Assam",
+        "Odisha",
+        "Bihar"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "People from villages in Jorhat district's Teok region in Assam, along with environmentalists, staged a protest in Guwahati. They urged the Chief Minister to halt an ongoing wetland excavation project across 7,598 bighas, citing ecological concerns.",
+      "background": "The protest highlights growing public awareness and concern over environmental degradation caused by development projects. Wetlands are crucial for biodiversity, water regulation, and flood control, making their preservation vital.",
+      "examRelevance": "Citizens urged Assam CM to cancel wetland excavation project in Jorhat district.",
+      "tags": [
+        "Assam",
+        "Wetland",
+        "Jorhat",
+        "Environmental Protest",
+        "Teok"
+      ],
+      "source": {
+        "title": "Cancel wetland excavation project in eastern Assam grazing grounds, CM urged",
+        "url": "https://www.thehindu.com/news/national/assam/cancel-wetland-excavation-project-in-eastern-assam-grazing-grounds-cm-urged/article71715038.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q17",
+      "question": "A recent study by the Centre for Cellular and Molecular Biology (CCMB) in Hyderabad has pointed to a new way of tackling which type of infections?",
+      "options": [
+        "Parasitic infections",
+        "Viral infections",
+        "Fungal infections",
+        "Bacterial infections"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "The Centre for Cellular and Molecular Biology (CCMB) in Hyderabad has conducted a study that suggests a novel approach to combating fungal infections. The research addresses the growing concern of fungi developing resistance to existing antifungal drugs.",
+      "background": "Fungal infections are becoming increasingly difficult to treat due to drug resistance, posing a significant public health challenge. New research pathways like those explored by CCMB are crucial for developing effective future treatments.",
+      "examRelevance": "CCMB study points to a new way of tackling fungal infections.",
+      "tags": [
+        "CCMB",
+        "Fungal Infections",
+        "Hyderabad",
+        "Medical Research",
+        "Antifungal Drugs"
+      ],
+      "source": {
+        "title": "CCMB study points to new way of tackling fungal infections",
+        "url": "https://www.thehindu.com/news/cities/Hyderabad/ccmb-study-points-to-new-way-of-tackling-fungal-infections/article71711826.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q18",
+      "question": "An accident at an NTPC site in which Indian state recently resulted in the death of 3 workers?",
+      "options": [
+        "Bihar",
+        "Jharkhand",
+        "Chhattisgarh",
+        "Odisha"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "An accident at an NTPC site in Jharkhand recently led to the death of three workers and left two others injured. The incident occurred during operations at the power plant site.",
+      "background": "NTPC (National Thermal Power Corporation) is India's largest energy conglomerate. Industrial accidents at large construction or power generation sites highlight the need for stringent safety protocols and continuous monitoring to prevent casualties.",
+      "examRelevance": "3 workers killed in an accident at an NTPC site in Jharkhand.",
+      "tags": [
+        "NTPC",
+        "Jharkhand",
+        "Industrial Accident",
+        "Worker Safety",
+        "Casualties"
+      ],
+      "source": {
+        "title": "3 workers killed in NTPC Jharkhand site accident",
+        "url": "https://economictimes.indiatimes.com/news/india/3-workers-killed-2-injured-in-accident-at-ntpc-site-in-jharkhand/articleshow/135955268.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q19",
+      "question": "An Indian national is reported missing after attacks on a commercial vessel, MT Tara Gas, in which strategically important waterway?",
+      "options": [
+        "Suez Canal",
+        "Strait of Malacca",
+        "Strait of Hormuz",
+        "Bab-el-Mandeb Strait"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "An Indian national is currently missing following attacks on the commercial vessel MT Tara Gas in the Strait of Hormuz. The Ministry of External Affairs (MEA) confirmed that 21 of the 24 Indian nationals on board have been safely evacuated.",
+      "background": "The Strait of Hormuz is a critical chokepoint for global oil shipments and has been a flashpoint for international incidents. Attacks on commercial vessels in this region raise concerns about maritime security and freedom of navigation.",
+      "examRelevance": "Indian national missing after attacks on commercial vessel MT Tara Gas in the Strait of Hormuz.",
+      "tags": [
+        "Strait of Hormuz",
+        "Maritime Security",
+        "Indian National",
+        "Commercial Vessel",
+        "MEA"
+      ],
+      "source": {
+        "title": "Indian national missing after attacks on commercial vessel in Strait of Hormuz",
+        "url": "https://www.thehindu.com/news/national/indian-national-missing-after-attacks-on-commercial-vessel-in-strait-of-hormuz/article71714331.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q20",
+      "question": "The Delhi Police recently informed the Supreme Court that there is no mandate requiring only women personnel to handle women in which specific type of operation?",
+      "options": [
+        "Crowd-control operations",
+        "Interrogation procedures",
+        "Traffic management duties",
+        "Search and seizure operations"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Delhi Police recently conveyed to the Supreme Court that there is no specific mandate dictating that only women police personnel must handle women during crowd-control operations. This statement was made in the context of broader discussions on police procedures.",
+      "background": "This issue often arises in public order situations and legal challenges, prompting clarification on police protocols. The police also noted that it is yet to be determined if 'reel-makers can be elevated to the status of journalists or reporters' in related contexts.",
+      "examRelevance": "Delhi Police told SC no mandate for only women personnel to handle women in crowd-control operations.",
+      "tags": [
+        "Delhi Police",
+        "Supreme Court",
+        "Crowd Control",
+        "Women Police",
+        "Polity"
+      ],
+      "source": {
+        "title": "No mandate only women personnel can ‘handle’ women in crowd-control operations, Delhi Police to SC",
+        "url": "https://www.thehindu.com/news/national/no-mandate-only-women-personnel-can-handle-women-in-crowd-control-operations-delhi-police-to-sc/article71714835.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q21",
+      "question": "The United Democratic Front (UDF) government in Keralam recently completed how many months in office?",
+      "options": [
+        "Nine months",
+        "Six months",
+        "Twelve months",
+        "Three months"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The United Democratic Front (UDF) government in Keralam recently entered its sixth month in office on November 18. This period has seen political discussions about whether the administration's actions align with its stated transformative vision.",
+      "background": "The UDF is a coalition of political parties in Kerala, led by the Indian National Congress. The initial months of any new government are typically scrutinized for policy implementation and administrative effectiveness, often facing criticism from the opposition, such as the LDF in this case.",
+      "examRelevance": "Keralam's UDF government completed six months in office.",
+      "tags": [
+        "UDF",
+        "Keralam",
+        "Kerala Government",
+        "Polity",
+        "State Politics"
+      ],
+      "source": {
+        "title": "Six months of Keralam UDF govt: is the administration lumbering or hitting the ground running?",
+        "url": "https://www.thehindu.com/news/national/kerala/six-months-of-keralam-udf-govt-is-the-administration-lumbering-or-hitting-the-ground-running/article71712180.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q22",
+      "question": "LeT militant Lateef Bhat was recently killed in an encounter in which district of Jammu and Kashmir?",
+      "options": [
+        "Srinagar",
+        "Kulgam",
+        "Pulwama",
+        "Shopian"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "LeT militant Lateef Bhat was recently killed in an encounter in Kulgam district of Jammu and Kashmir. Security forces, tracking Bhat, came under fire from inside a mosque in Kulgam’s Zangalpora around 3 a.m.",
+      "background": "Kulgam district, like other parts of South Kashmir, has been a hotbed of militancy, with frequent anti-terrorism operations by security forces. The elimination of such militants is part of ongoing efforts to maintain peace and security in the region.",
+      "examRelevance": "LeT militant Lateef Bhat killed in an encounter in Kulgam, Jammu and Kashmir.",
+      "tags": [
+        "Lateef Bhat",
+        "LeT",
+        "Kulgam",
+        "Jammu and Kashmir",
+        "Encounter",
+        "Terrorism"
+      ],
+      "source": {
+        "title": "LeT’s Lateef Bhat killed in Kulgam encounter",
+        "url": "https://www.thehindu.com/news/national/fresh-encounter-in-kulgam-lateef-bhat-november-18-2026/article71714380.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q23",
+      "question": "Civil society groups recently urged the scrapping of the Shillong Peak Ropeway Project, arguing it could undermine the water catchment area in which state?",
+      "options": [
+        "Nagaland",
+        "Arunachal Pradesh",
+        "Meghalaya",
+        "Mizoram"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Civil society groups have called for the cancellation of the Rs. 151-crore Shillong Peak Ropeway Project in Meghalaya. They argue that the tourism project could significantly harm the area’s crucial water catchment area.",
+      "background": "Shillong Peak is a popular tourist destination and an important ecological zone. Large-scale infrastructure projects in ecologically sensitive areas often face opposition due to concerns about their environmental impact, particularly on vital natural resources like water sources.",
+      "examRelevance": "Civil society groups urged scrapping of Shillong Peak Ropeway Project in Meghalaya due to environmental concerns.",
+      "tags": [
+        "Shillong Peak",
+        "Meghalaya",
+        "Ropeway Project",
+        "Environmental Concerns",
+        "Water Catchment"
+      ],
+      "source": {
+        "title": "Scrap the Shillong Peak Ropeway Project, say civil society groups",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/scrap-the-shillong-peak-ropeway-project-say-civil-society-groups/article71711915.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q24",
+      "question": "India and Bangladesh are keenly observing a critical deadline approaching regarding the water sharing treaty of which major river?",
+      "options": [
+        "Ganga",
+        "Brahmaputra",
+        "Meghna",
+        "Teesta"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "India and Bangladesh are anticipating a critical deadline related to the water sharing treaty of the Ganga River. The approaching timeline is causing both nations to focus on the future of this bilateral agreement.",
+      "background": "The Ganga water treaty, specifically concerning the Farakka Barrage, is a significant bilateral agreement between India and Bangladesh. Water sharing disputes and renegotiations are common between riparian countries, especially for major rivers that sustain large populations.",
+      "examRelevance": "India and Bangladesh are observing a critical deadline for the Ganga water sharing treaty.",
+      "tags": [
+        "India",
+        "Bangladesh",
+        "Ganga River",
+        "Water Treaty",
+        "Farakka Barrage"
+      ],
+      "source": {
+        "title": "India, B'desh keyed up as Ganga clock ticks away",
+        "url": "https://economictimes.indiatimes.com/news/india/india-bangladesh-stare-at-rough-waters-as-a-critical-deadline-approaches-ganga-water-treaty-farakka-barrage-water-sharing-sheikh-hasina-teesta-river/articleshow/135954641.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q25",
+      "question": "In the recent third ODI between Australia and England, which English cricketer scored 133 runs to help his team to a strong position?",
+      "options": [
+        "Jos Buttler",
+        "Dawid Malan",
+        "Harry Brook",
+        "Ben Duckett"
+      ],
+      "answerIndex": 3,
+      "category": "Sports",
+      "explanation": "In the recent third One Day International (ODI) between Australia and England, English cricketer Ben Duckett scored an impressive 133 runs. His performance significantly contributed to England's strong position in the match.",
+      "background": "England won the third ODI by 135 runs in Adelaide, leveling the series after Australia had won the opener in Perth. Such individual performances are crucial in high-stakes bilateral series, often turning the tide for a team.",
+      "examRelevance": "Ben Duckett scored 133 runs in the third AUS vs ENG ODI.",
+      "tags": [
+        "Ben Duckett",
+        "Cricket",
+        "ODI",
+        "England",
+        "Australia"
+      ],
+      "source": {
+        "title": "AUS vs ENG third ODI: Ben Duckett scores 133, England is in a strong position against Australia",
+        "url": "https://www.thehindu.com/sport/cricket/australia-vs-england-third-and-final-odi-in-hobart/article71714917.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q26",
+      "question": "The CBIC chief recently stated it is too soon to issue a draft framework for centralized assessment of CGST taxpayers. What does CBIC stand for?",
+      "options": [
+        "Central Bureau of Investigation and Customs",
+        "Central Banking and Investment Commission",
+        "Central Bureau of International Commerce",
+        "Central Board of Indirect Taxes and Customs"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The CBIC chief recently indicated that it is premature to release a draft framework for the centralized assessment of Central Goods and Services Tax (CGST) taxpayers. CBIC stands for Central Board of Indirect Taxes and Customs.",
+      "background": "The new framework for centralized assessment is anticipated to be implemented from the next fiscal year, commencing April 1, 2027. The CBIC is a statutory body under the Ministry of Finance, responsible for administering indirect taxes in India.",
+      "examRelevance": "CBIC stands for Central Board of Indirect Taxes and Customs, which handles CGST taxpayer assessment.",
+      "tags": [
+        "CBIC",
+        "CGST",
+        "GST",
+        "Indirect Taxes",
+        "Economy"
+      ],
+      "source": {
+        "title": "Too soon issue draft framework for centralised assessment of CGST taxpayers: CBIC chief",
+        "url": "https://www.thehindu.com/business/too-soon-issue-draft-framework-for-centralised-assessment-of-cgst-taxpayers-cbic-chief/article71714986.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q27",
+      "question": "Which city's mayor recently flagged the targeting of Hindu temples during a Deepavali celebration, urging for politics rooted in tolerance?",
+      "options": [
+        "Sydney",
+        "Toronto",
+        "New York",
+        "London"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The Mayor of New York, Mamdani, recently addressed the targeting of Hindu temples during a Deepavali celebration. He used the occasion to emphasize the need for politics grounded in tolerance and compassion.",
+      "background": "Deepavali celebrations are increasingly recognized globally, and statements from international leaders on religious harmony reflect the multicultural fabric of cities like New York. Such remarks underscore the importance of combating hate and promoting interfaith understanding.",
+      "examRelevance": "New York Mayor flagged targeting of Hindu temples at Deepavali celebration.",
+      "tags": [
+        "New York",
+        "Deepavali",
+        "Hindu Temples",
+        "Tolerance",
+        "International Relations"
+      ],
+      "source": {
+        "title": "At Deepavali celebration, Mamdani flags targeting of Hindu temples",
+        "url": "https://www.thehindu.com/news/international/at-deepavali-celebration-mamdani-flags-targeting-of-hindu-temples-urges-rejection-of-politics-of-hate/article71714862.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q28",
+      "question": "The Supreme Court recently agreed to hear a plea seeking the removal of videos of an Italian politician's comments made at the 'Bharat Summit'. What is the name of this Italian politician?",
+      "options": [
+        "Giacomo Filibeck",
+        "Matteo Salvini",
+        "Giorgia Meloni",
+        "Giuseppe Conte"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court of India recently agreed to hear a petition requesting the removal of videos from social media platforms that feature comments made by Italian politician Giacomo Filibeck at the 'Bharat Summit'. The petitioner questioned the participation of a foreign political representative in Indian politics.",
+      "background": "The plea concerns allegations of Filibeck raising derogatory slogans and making prejudicial political statements. This case highlights legal complexities surrounding foreign interference in domestic politics and freedom of speech on digital platforms.",
+      "examRelevance": "SC to hear plea to remove videos of Italian politician Giacomo Filibeck's comments at Bharat Summit.",
+      "tags": [
+        "Giacomo Filibeck",
+        "Bharat Summit",
+        "Supreme Court",
+        "Italian Politician",
+        "Social Media"
+      ],
+      "source": {
+        "title": "Italian politician’s remark: Supreme Court agrees to hear plea to take down videos of Giacomo Filibeck’s comments at Bharat Summit",
+        "url": "https://www.thehindu.com/news/national/italian-politicians-remark-supreme-court-to-hear-plea-for-removal-of-videos-from-social-media-on-november-20/article71714820.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q29",
+      "question": "The final unit of Telangana's YTPS is expected to begin commercial operations in December 2026, boosting the state's energy sector. What does YTPS stand for?",
+      "options": [
+        "Yanamadri Thermal Project Scheme",
+        "Yadadri Thermal Power Station",
+        "Yellampalli Thermal Power System",
+        "Yeddumailaram Turbine Power Station"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The final unit of Telangana's Yadadri Thermal Power Station (YTPS) is projected to commence commercial operations in December 2026. This will significantly enhance the state's energy production capabilities.",
+      "background": "Telangana-Genco is implementing a comprehensive plan to ensure full-scale generation of 4,000 MW through all five units during the upcoming Rabi and summer seasons. YTPS is a crucial project aimed at making Telangana self-sufficient in power generation.",
+      "examRelevance": "YTPS stands for Yadadri Thermal Power Station, with its final unit commencing operations in December 2026.",
+      "tags": [
+        "YTPS",
+        "Telangana",
+        "Yadadri Thermal Power Station",
+        "Energy Sector",
+        "Power Project"
+      ],
+      "source": {
+        "title": "Telangana’s YTPS final unit commercial operations likely in December 2026, to further boost State’s energy sector",
+        "url": "https://www.thehindu.com/news/national/telangana/telanganas-ytps-final-unit-commercial-operations-likely-in-december-2026-to-further-boost-states-energy-sector/article71712752.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-18-q30",
+      "question": "The Kerch Bridge, recently targeted by Ukraine on November 17, 2026, connects Russia to which annexed territory?",
+      "options": [
+        "Kherson",
+        "Luhansk",
+        "Crimea",
+        "Donetsk"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The Kerch Bridge, which was recently targeted by Ukraine on November 17, 2026, serves as a vital link connecting Russia to the annexed territory of Crimea. Ukraine has targeted this strategic structure multiple times.",
+      "background": "The Kerch Bridge is a critical supply route for Russian military operations in Ukraine and a symbolic connection to Crimea, which Russia annexed in 2014. Its repeated targeting underscores its strategic importance in the ongoing conflict.",
+      "examRelevance": "Kerch Bridge connects Russia to annexed Crimea, targeted by Ukraine.",
+      "tags": [
+        "Kerch Bridge",
+        "Ukraine",
+        "Russia",
+        "Crimea",
+        "Conflict",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "Why Ukraine keeps targeting the Kerch Bridge",
+        "url": "https://www.thehindu.com/news/international/why-ukraine-keeps-targeting-the-kerch-bridge/article71714957.ece"
+      }
+    }
+  ]
+}
