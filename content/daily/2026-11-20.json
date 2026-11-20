@@ -1,0 +1,788 @@
+{
+  "id": "daily-2026-11-20",
+  "type": "daily",
+  "date": "2026-11-20",
+  "title": "Current Affairs — 20 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-20-q1",
+      "question": "The Supreme Court recently dismissed a plea by Tamil Nadu concerning water sharing from which river, alleging that Karnataka withheld water?",
+      "options": [
+        "Cauvery",
+        "Krishna",
+        "Godavari",
+        "Mahanadi"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently dismissed Tamil Nadu's plea alleging that Karnataka failed to implement the binding judgment of the SC to ensure water to Tamil Nadu at Billigundulu on a pro-rata basis during distress years.",
+      "background": "The Cauvery water dispute is a long-standing conflict between Karnataka and Tamil Nadu, as well as Kerala and Puducherry, over the sharing of the Cauvery River water. The Supreme Court had delivered a binding judgment on the issue.",
+      "examRelevance": "SC ruling on Cauvery dispute, states involved.",
+      "tags": [
+        "Cauvery dispute",
+        "Supreme Court",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "source": {
+        "title": "'If we have water, will give to T.N.' says Shivakumar after SC verdict on Cauvery dispute | LIVE",
+        "url": "https://www.thehindu.com/news/national/cauvery-water-sharing-dispute-tamil-nadu-karnataka-supreme-court-judgement-live-updates-november-20-2026/article71723088.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q2",
+      "question": "Telangana Tourism is set to launch a one-day tour package to which place, known for its traditional tie-and-dye weaving process, starting November 22?",
+      "options": [
+        "Pochampally",
+        "Bhongir",
+        "Warangal",
+        "Karimnagar"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "Telangana Tourism is launching a one-day Pochampally tour package from November 22, which includes an opportunity to interact with local weavers and experience the traditional tie-and-dye process through a hands-on workshop.",
+      "background": "Pochampally is a town in the Yadadri Bhuvanagiri district of Telangana, famous for its Ikat weaving, which received a Geographical Indication (GI) tag. The village is often referred to as the \"Silk City of India\".",
+      "examRelevance": "Pochampally tour package, traditional weaving.",
+      "tags": [
+        "Telangana Tourism",
+        "Pochampally",
+        "tie-and-dye",
+        "Ikat"
+      ],
+      "source": {
+        "title": "Telangana’s one-day Pochampally tour package from November 22",
+        "url": "https://www.thehindu.com/news/national/telangana/telanganas-one-day-pochampally-tour-package-from-november-22/article71723508.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q3",
+      "question": "Which cyclone recently made landfall on the Odisha coast with wind speeds of 70-80 kmph, affecting coastal districts of Odisha and Andhra Pradesh?",
+      "options": [
+        "Akvan",
+        "Mocha",
+        "Remal",
+        "Biparjoy"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Cyclone 'Akvan' recently made landfall on the Odisha coast with wind speeds of 70-80 kmph. Coastal districts of Odisha and Andhra Pradesh witnessed rough seas and strong winds, with Ichchapuram in Srikakulam district recording 184.6 mm rainfall in 24 hours.",
+      "background": "Cyclones are frequent occurrences in the Bay of Bengal, especially during the post-monsoon season (October-December), often impacting the eastern coast of India. The India Meteorological Department (IMD) monitors and issues alerts for such events.",
+      "examRelevance": "Recent cyclone name, affected states, wind speed.",
+      "tags": [
+        "Cyclone Akvan",
+        "Odisha",
+        "Andhra Pradesh",
+        "IMD",
+        "Natural Disaster"
+      ],
+      "source": {
+        "title": "Cyclone 'Akvan' LIVE: Odisha's coastal districts witness rough sea and strong winds as landfall begins",
+        "url": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q4",
+      "question": "According to recent reports, what alarming trend are paediatricians observing regarding smartphone use in toddlers?",
+      "options": [
+        "Using them as \"digital pacifiers\"",
+        "Improving motor coordination",
+        "Enhancing social interaction",
+        "Encouraging early coding skills"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Paediatricians are witnessing an alarming trend where smartphones are increasingly used as “digital pacifiers” to appease toddlers during mealtime, soothe tantrums, and keep them engaged while managing household chores.",
+      "background": "The increasing penetration of smartphones and digital content has led to concerns about their impact on child development, with experts highlighting potential negative effects on cognitive, emotional, and social well-being.",
+      "examRelevance": "Impact of smartphones on child development, term \"digital pacifiers\".",
+      "tags": [
+        "Smartphones",
+        "Child development",
+        "Digital pacifiers",
+        "Paediatrics"
+      ],
+      "source": {
+        "title": "The hidden cost of handing a smartphone to a child | Explained",
+        "url": "https://www.thehindu.com/sci-tech/technology/the-hidden-cost-of-handing-a-smartphone-to-a-child-explained/article71723638.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q5",
+      "question": "Which author recently published a collection of 18 forgotten folktales from Kashmir, aiming to introduce its storytelling heritage to young readers?",
+      "options": [
+        "Chitra Banerjee Divakaruni",
+        "Arundhati Roy",
+        "Vinita Zutshi",
+        "Jhumpa Lahiri"
+      ],
+      "answerIndex": 2,
+      "category": "Books & Authors",
+      "explanation": "Author and storyteller Vinita Zutshi has revisited Kashmir’s oral traditions in a new collection of 18 folktales, bringing its characters, customs, and storytelling heritage to a new generation of readers.",
+      "background": "Folktales play a crucial role in preserving cultural heritage and transmitting values across generations. Kashmir has a rich oral tradition, much of which remains undiscovered by a wider audience.",
+      "examRelevance": "Author and their new book, focus on regional folktales.",
+      "tags": [
+        "Vinita Zutshi",
+        "Kashmir",
+        "Folktales",
+        "Books",
+        "Oral Traditions"
+      ],
+      "source": {
+        "title": "Vinita Zutshi brings Kashmir’s forgotten folktales to young readers",
+        "url": "https://www.thehindu.com/books/books-authors/vinita-zutshi-brings-kashmirs-forgotten-folktales-to-young-readers/article71718654.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q6",
+      "question": "The Maharashtra government has sanctioned Rs 64.53 crore for the upgrade of which airport to equip it for night and all-weather landings under Instrument Flight Rules (IFR)?",
+      "options": [
+        "Nashik airport",
+        "Baramati airport",
+        "Kolhapur airport",
+        "Shirdi airport"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The Maharashtra government has sanctioned Rs 64.53 crore to upgrade the Baramati airstrip, equipping the airport for night and all-weather landings under Instrument Flight Rules (IFR).",
+      "background": "The upgrade comes ten months after Deputy Chief Minister Ajit Pawar died in a crash at the Baramati airstrip. The allocation aims to enhance safety and operational capabilities of the airport.",
+      "examRelevance": "Airport upgrade project, location, sanctioned amount.",
+      "tags": [
+        "Baramati airport",
+        "Maharashtra",
+        "Airport upgrade",
+        "IFR",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "Baramati airport gets Rs 64.5 crore upgrade",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/10-months-after-ajit-pawars-plane-crash-baramati-airport-gets-rs-64-5-crore-upgrade/articleshow/136019120.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q7",
+      "question": "The Supreme Court recently emphasized the heritage value of which 135-year-old institution, which houses books dating back to 1702?",
+      "options": [
+        "Asiatic Society Library",
+        "Central Secretariat Library",
+        "National Library of India",
+        "Saraswati Mahal Library"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "The Supreme Court recently told the government that heritage is not just Lutyens' architecture but also includes books at the 135-year-old Central Secretariat Library, which has tomes dating back to 1702.",
+      "background": "The Central Secretariat Library is one of the oldest and largest government libraries in India, serving as a repository of knowledge and historical documents for government officials and researchers.",
+      "examRelevance": "Central Secretariat Library, its age and significance.",
+      "tags": [
+        "Central Secretariat Library",
+        "Supreme Court",
+        "Heritage",
+        "Books",
+        "Lutyens' Delhi"
+      ],
+      "source": {
+        "title": "Heritage is not just Lutyens, but also books at the 135-year-old Central Secretariat Library, SC tells government",
+        "url": "https://www.thehindu.com/news/national/heritage-is-not-just-lutyens-but-also-books-at-the-135-year-old-central-secretariat-library-sc-tells-government/article71723633.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q8",
+      "question": "Which prominent Indian actress recently welcomed a baby boy with Raj Nidimoru?",
+      "options": [
+        "Nayanthara",
+        "Rashmika Mandanna",
+        "Samantha Ruth Prabhu",
+        "Keerthy Suresh"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Actress Samantha Ruth Prabhu and Raj Nidimoru have welcomed a baby boy, sharing the first pictures and revealing his name.",
+      "background": "Samantha Ruth Prabhu is a well-known Indian actress primarily working in Telugu and Tamil cinema. Raj Nidimoru is part of the director duo Raj & DK, known for their work in Hindi cinema and web series.",
+      "examRelevance": "Current news about prominent personalities.",
+      "tags": [
+        "Samantha Ruth Prabhu",
+        "Raj Nidimoru",
+        "Baby boy",
+        "Celebrity"
+      ],
+      "source": {
+        "title": "Samantha Ruth Prabhu welcomes baby boy",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/samantha-ruth-prabhu-and-raj-nidimoru-welcome-baby-boy-share-first-pictures-and-reveal-their-little-ones-beautiful-name/articleshow/136019077.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q9",
+      "question": "Veteran actor Mammootty is making his return to Tamil cinema after seven years with which upcoming Dhanush-starrer film?",
+      "options": [
+        "Karnan",
+        "Vaathi",
+        "Maaran",
+        "O.M Operation Mole"
+      ],
+      "answerIndex": 3,
+      "category": "Art & Culture",
+      "explanation": "Veteran actor Mammootty is making his return to Tamil cinema after seven years with the upcoming Dhanush-starrer film titled ‘O.M Operation Mole’.",
+      "background": "Mammootty is a highly acclaimed Indian actor and producer who primarily works in Malayalam cinema, though he has also appeared in Tamil, Telugu, Kannada, and Hindi films. His return to Tamil cinema after a significant gap is notable.",
+      "examRelevance": "Actor's return to a specific film industry, new film title.",
+      "tags": [
+        "Mammootty",
+        "Dhanush",
+        "O.M Operation Mole",
+        "Tamil cinema",
+        "Film"
+      ],
+      "source": {
+        "title": "‘O.M Operation Mole’: Is Mammootty’s casting in the Dhanush-starrer justified?",
+        "url": "https://www.thehindu.com/entertainment/movies/om-operation-mole-mammootty-dhanush-sai-pallavi-rajkumar-periasamy-sai-abhyankkar/article71723402.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q10",
+      "question": "The Supreme Court recently asked the Central government for its response on bringing in a law concerning which type of marriages?",
+      "options": [
+        "Inter-faith marriages",
+        "Same-sex marriages",
+        "Child marriages",
+        "Marriages between those closely related by blood"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "A Supreme Court Bench of Chief Justice Surya Kant and Justices Joymalya Bagchi and V. Mohana recently asked the Centre for its response on bringing in a law on marriages between those closely related by blood, also known as consanguineous marriages.",
+      "background": "Consanguineous marriages are practiced in various communities in India, but they raise concerns regarding genetic health risks and social implications. The court noted it cannot regulate such marriages directly.",
+      "examRelevance": "SC directive to Centre on a specific type of marriage law.",
+      "tags": [
+        "Supreme Court",
+        "Consanguineous marriages",
+        "Central government",
+        "Law",
+        "Family law"
+      ],
+      "source": {
+        "title": "SC asks Centre for response on bringing in law on marriages between those closely related by blood",
+        "url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-for-response-on-bringing-in-law-on-marriages-between-those-closely-related-by-blood/article71723543.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q11",
+      "question": "What percentage of Andhra Pradesh's coastline is currently experiencing erosion, with a significant portion falling into the 'high erosion' category?",
+      "options": [
+        "25%",
+        "15%",
+        "31%",
+        "40%"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Nearly 31% (318.96 km) of Andhra Pradesh’s coastline is eroding, with about 91.6 km falling into the ‘high erosion’ category. The losses are concentrated in delta districts, and Visakhapatnam is also affected by port development, changing wave patterns, and cyclones.",
+      "background": "Coastal erosion is a significant environmental challenge faced by many coastal states in India, often exacerbated by human activities like port construction and climate change-induced extreme weather events.",
+      "examRelevance": "Coastal erosion statistics for Andhra Pradesh.",
+      "tags": [
+        "Andhra Pradesh",
+        "Coastal erosion",
+        "Visakhapatnam",
+        "Environment",
+        "Ports"
+      ],
+      "source": {
+        "title": "How ports and cyclones are eating away the beaches of Visakhapatnam",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/time-to-protect-eroding-coastlines/article71720476.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q12",
+      "question": "What two key areas did PM Modi emphasize during a recent review meeting with his Council of Ministers, calling for a sustained government drive and stressing prudence?",
+      "options": [
+        "Education policy and healthcare access",
+        "Drug trade and financial prudence",
+        "Border security and internal intelligence",
+        "Agricultural reforms and industrial growth"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "At a recent review meeting with his Council of Ministers, Prime Minister Modi called for a sustained government drive against drug trade and stressed the importance of financial prudence. He also assessed progress in poverty reduction and the elimination of left-wing extremism.",
+      "background": "The Indian government has been actively pursuing various initiatives to curb the drug menace and promote fiscal responsibility, which are critical for national security and economic stability.",
+      "examRelevance": "PM's key directives to his Council of Ministers.",
+      "tags": [
+        "PM Modi",
+        "Drug trade",
+        "Financial prudence",
+        "Council of Ministers",
+        "Governance"
+      ],
+      "source": {
+        "title": "PM Modi calls for sustained government drive against drug trade, stresses financial prudence",
+        "url": "https://www.thehindu.com/news/national/pm-modi-calls-for-sustained-government-drive-against-drug-trade-stresses-financial-prudence/article71716138.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q13",
+      "question": "Savitri Devi, who recently passed away, was the mother of the Chief Minister of which Indian state?",
+      "options": [
+        "Uttar Pradesh",
+        "Himachal Pradesh",
+        "Uttarakhand",
+        "Madhya Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Savitri Devi, the mother of Uttar Pradesh Chief Minister Yogi Adityanath, passed away recently in Uttarakhand.",
+      "background": "Yogi Adityanath has been the Chief Minister of Uttar Pradesh since 2017. This news is a personal event for a prominent political figure.",
+      "examRelevance": "Obituaries of family members of prominent political figures.",
+      "tags": [
+        "Savitri Devi",
+        "Yogi Adityanath",
+        "Uttar Pradesh",
+        "Obituary"
+      ],
+      "source": {
+        "title": "UP CM Yogi's mother Savitri Devi passes away",
+        "url": "https://economictimes.indiatimes.com/news/india/up-cm-yogi-adityanaths-mother-savitri-devi-passes-away-in-uttarakhand/articleshow/136018687.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q14",
+      "question": "Resident doctors at the Government Medical College in which city recently went on an indefinite strike, demanding immediate stipend enhancement and parity for postgraduate doctors?",
+      "options": [
+        "Srinagar",
+        "Anantnag",
+        "Jammu",
+        "Leh"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "Resident doctors at the Government Medical College in Srinagar went on an indefinite strike, with their key demands including immediate stipend enhancement and parity for postgraduate, senior resident, DNB, and MDS doctors across Jammu and Kashmir, along with implementation of maternity leave benefits.",
+      "background": "Strikes by medical professionals for better working conditions and stipends are not uncommon in India. The demands highlight issues related to healthcare infrastructure and the welfare of medical practitioners.",
+      "examRelevance": "Location of significant protests/strikes in the news.",
+      "tags": [
+        "Resident doctors",
+        "Srinagar",
+        "Strike",
+        "Government Medical College",
+        "Jammu & Kashmir"
+      ],
+      "source": {
+        "title": "Resident doctors at Government Medical College in Srinagar go on indefinite strike",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/resident-doctors-at-government-medical-college-in-srinagar-go-on-indefinite-strike/article71723563.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q15",
+      "question": "Petrol pump dealers recently met with the Union Oil Minister to discuss their demand for a hike in which specific area?",
+      "options": [
+        "Fuel subsidy",
+        "Import duty",
+        "Vehicle registration fees",
+        "Dealer margin"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Petrol pump dealers recently met with Union Oil Minister Hardeep Puri, who assured them that the government would look into their demand for a hike in dealer margin.",
+      "background": "Petrol pump operators have been advocating for an increase in their margins, citing rising operational costs and the need for fair compensation for their services in India's fuel distribution network.",
+      "examRelevance": "Key demands of specific industry groups, government's response.",
+      "tags": [
+        "Petrol pump dealers",
+        "Dealer margin",
+        "Oil Minister",
+        "Hardeep Puri",
+        "Economy"
+      ],
+      "source": {
+        "title": "Petrol Pump dealers say govt assured looking into dealer margin hike after meeting with OilMin",
+        "url": "https://www.thehindu.com/business/Industry/petrol-pump-dealers-seek-margin-hike-centre-explores-ways-to-boost-non-fuel-revenues/article71721388.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q16",
+      "question": "An FIR has been registered against writer Ravi Hanj and publisher Vishweshwar Bhat for allegedly making derogatory remarks against which revered historical figure?",
+      "options": [
+        "Adi Shankara",
+        "Ramanujacharya",
+        "Basavanna",
+        "Madhvacharya"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "An FIR has been registered against writer Ravi Hanj and publisher Vishweshwar Bhat over alleged ‘derogatory’ remarks on Basavanna, a 12th-century philosopher, social reformer, and poet.",
+      "background": "Basavanna was a central figure in the Virashaiva movement, which challenged caste discrimination and promoted social equality in Karnataka. He is revered by Lingayats and is a significant cultural icon.",
+      "examRelevance": "Current events involving historical/cultural figures.",
+      "tags": [
+        "Basavanna",
+        "Ravi Hanj",
+        "Vishweshwar Bhat",
+        "FIR",
+        "Karnataka"
+      ],
+      "source": {
+        "title": "Writer and publisher of Basava Mantapa booked over ‘derogatory’ remarks on Basavanna",
+        "url": "https://www.thehindu.com/news/national/karnataka/writer-and-publisher-of-basava-mantapa-booked-over-derogatory-remarks-on-basavanna/article71723361.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q17",
+      "question": "Which Indian state recently urged the Central government to amend the Juvenile Justice Act, citing a rise in violent offences committed by minors?",
+      "options": [
+        "Kerala",
+        "Maharashtra",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Ramesh Chennithala, in letters to Union Minister for Home Affairs Amit Shah and Union Minister for Women and Child Development Annpurna Devi, stated that Kerala has urged the Centre to amend the Juvenile Justice Act amid a rise in violent offences by minors, arguing that existing legislation fails to adequately address the plight of crime victims.",
+      "background": "The Juvenile Justice (Care and Protection of Children) Act, 2015, governs the legal framework for juveniles in conflict with the law. Debates often arise regarding its effectiveness in handling serious crimes committed by minors.",
+      "examRelevance": "State's demand for amendment to a central act, reasons.",
+      "tags": [
+        "Kerala",
+        "Juvenile Justice Act",
+        "Minor offences",
+        "Legal reform",
+        "Central government"
+      ],
+      "source": {
+        "title": "Keralam urges Centre to amend Juvenile Justice Act amid rise in violent offences by minors",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-urges-centre-to-amend-juvenile-justice-act-amid-rise-in-violent-offences-by-minors/article71723369.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q18",
+      "question": "The Rohingya community in Bangladesh recently welcomed a genocide verdict from which international body?",
+      "options": [
+        "UN Court",
+        "International Criminal Court",
+        "ASEAN Tribunal",
+        "European Court of Justice"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The Rohingya community in Bangladesh recently welcomed the UN court’s genocide verdict, expressing their desire to return home to Myanmar. A Rohingya community leader highlighted their distinct culture, language, and land.",
+      "background": "The Rohingya are a stateless ethnic minority, predominantly Muslim, who have faced persecution in Myanmar. Hundreds of thousands have fled to Bangladesh, and their plight has been recognized as a humanitarian crisis.",
+      "examRelevance": "International justice, Rohingya crisis, UN court decisions.",
+      "tags": [
+        "Rohingya",
+        "Bangladesh",
+        "UN Court",
+        "Genocide",
+        "Myanmar",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Rohingya in Bangladesh welcome UN court’s genocide verdict but say they want to go home to Myanmar",
+        "url": "https://www.thehindu.com/news/international/rohingya-in-bangladesh-welcome-un-courts-genocide-verdict-but-say-they-want-to-go-home-to-myanmar/article71723495.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q19",
+      "question": "Which Rajya Sabha MP was recently summoned by the Enforcement Directorate (ED) to verify the nature and purpose of certain transactions?",
+      "options": [
+        "Satnam Singh Sandhu",
+        "Kapil Sibal",
+        "P. Chidambaram",
+        "Abhishek Manu Singhvi"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Rajya Sabha MP Satnam Singh Sandhu was recently summoned by the Enforcement Directorate (ED) to verify the nature and purpose of certain transactions, although officials stated he does not have a direct role in the case.",
+      "background": "The Enforcement Directorate is a law enforcement agency and economic intelligence agency responsible for enforcing economic laws and fighting economic crime in India, including cases related to money laundering and foreign exchange violations.",
+      "examRelevance": "Prominent individuals summoned by investigative agencies.",
+      "tags": [
+        "Satnam Singh Sandhu",
+        "Enforcement Directorate",
+        "ED",
+        "Rajya Sabha",
+        "Summons"
+      ],
+      "source": {
+        "title": "Enforcement Directorate summons RS MP Sandhu",
+        "url": "https://www.thehindu.com/news/national/enforcement-directorate-summons-rs-mp-sandhu/article71723452.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q20",
+      "question": "The Enforcement Directorate (ED) recently arrested the alleged mastermind of the 'cloud particles' fraud, along with his wife, at Delhi's IGI Airport for duping people of what amount?",
+      "options": [
+        "₹3,558 crore",
+        "₹800 crore",
+        "₹1,200 crore",
+        "₹5,000 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Enforcement Directorate (ED) recently arrested the alleged mastermind of the 'cloud particles' scam, along with his wife, at Delhi’s IGI Airport as they were attempting to flee to Nepal. The couple is accused of duping people by taking funds to the tune of ₹3,558 crore through this fraud.",
+      "background": "The 'cloud particles' fraud involved a private firm allegedly selling 'cloud particles' to people and then leasing them back while promising rental income to investors, a classic Ponzi scheme structure.",
+      "examRelevance": "Major financial fraud, amount, agency involved.",
+      "tags": [
+        "Enforcement Directorate",
+        "ED",
+        "Cloud particles scam",
+        "Financial fraud",
+        "IGI Airport"
+      ],
+      "source": {
+        "title": "ED arrests cloud particles scam ‘mastermind’, his wife at Delhi’s IGI Airport",
+        "url": "https://www.thehindu.com/news/national/ed-arrests-cloud-particles-scam-mastermind-his-wife-at-delhis-igi-airport/article69278998.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q21",
+      "question": "The Narcotics Control Bureau (NCB) recently collaborated with which international agency in \"Operation Monsoon Thunder\" to crack down on a drug network supplying the U.S. market?",
+      "options": [
+        "Europol",
+        "FBI",
+        "U.S. DEA",
+        "Interpol"
+      ],
+      "answerIndex": 2,
+      "category": "Defence",
+      "explanation": "The Narcotics Control Bureau (NCB) and the U.S. DEA (Drug Enforcement Administration) collaborated in a crackdown, codenamed \"Operation Monsoon Thunder,\" on a drug network supplying drugs and opioid/NRx medicines to consumers in the U.S. Six individuals were held in India.",
+      "background": "International cooperation is crucial in combating transnational drug trafficking networks. The U.S. DEA is a federal law enforcement agency under the U.S. Department of Justice tasked with combating drug smuggling and distribution within the United States.",
+      "examRelevance": "Joint operations against drug trafficking, involved agencies, operation name.",
+      "tags": [
+        "NCB",
+        "U.S. DEA",
+        "Operation Monsoon Thunder",
+        "Drug trafficking",
+        "International cooperation"
+      ],
+      "source": {
+        "title": "NCB, U.S. DEA crack down on drug network supplying U.S. market; six held",
+        "url": "https://www.thehindu.com/news/national/ncb-us-dea-crack-down-on-drug-network-supplying-us-market-six-held/article71723553.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q22",
+      "question": "Which country's Prime Minister, Balendra Shah, is scheduled to visit India on November 22–23 to inaugurate several energy-related projects and call on President Murmu?",
+      "options": [
+        "Bhutan",
+        "Sri Lanka",
+        "Bangladesh",
+        "Nepal"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Nepal's Prime Minister Balendra Shah is scheduled to visit India on November 22–23. During his official visit, the two Prime Ministers will inaugurate several energy-related projects, and PM Shah will also call on President Murmu.",
+      "background": "India and Nepal share close historical, cultural, and economic ties. High-level visits are crucial for strengthening bilateral relations and fostering cooperation in various sectors, including energy.",
+      "examRelevance": "Upcoming high-level international visits, participating countries, key agenda points.",
+      "tags": [
+        "Nepal",
+        "Balendra Shah",
+        "India visit",
+        "International relations",
+        "Energy projects"
+      ],
+      "source": {
+        "title": "Nepal PM Balendra Shah to visit India on November 22–23",
+        "url": "https://www.thehindu.com/news/national/nepal-pm-balendra-shah-to-visit-india-on-november-2223/article71723493.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q23",
+      "question": "The preliminary written test for Sub-Inspector (SI) and equivalent posts in Telangana is scheduled for November 29, with approximately how many candidates expected to appear?",
+      "options": [
+        "2.5 lakh",
+        "1.0 lakh",
+        "1.6 lakh",
+        "3.0 lakh"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Approximately 1.6 lakh candidates are expected to take the preliminary written test for Telangana SI and equivalent posts on November 29. Hall tickets will be available from November 22 to 28.",
+      "background": "Recruitment examinations for police and other government services are major events in Indian states, attracting a large number of applicants and often reflecting the employment landscape.",
+      "examRelevance": "Key figures related to major state-level examinations.",
+      "tags": [
+        "Telangana",
+        "SI posts",
+        "Recruitment exam",
+        "Candidates",
+        "November 29"
+      ],
+      "source": {
+        "title": "1.6 lakh candidates expected to take preliminary written test for Telangana SI and equivalent posts on November 29",
+        "url": "https://www.thehindu.com/news/national/telangana/16-lakh-candidates-expected-to-take-preliminary-written-test-for-telangana-si-and-equivalent-posts-on-november-29/article71723456.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q24",
+      "question": "Which Indian investigative agency recently secured the deportation of fugitive Mohd Mazin from the UAE, who was involved in the exploitation of 14 women and had an Interpol Red Notice against him?",
+      "options": [
+        "ED",
+        "DRI",
+        "NIA",
+        "CBI"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "The CBI recently secured the deportation of fugitive Mohd Mazin from the UAE. Mazin, who had an Interpol Red Notice against him, was involved in the exploitation of 14 women.",
+      "background": "The Central Bureau of Investigation (CBI) is India's premier investigative agency, handling complex cases including international crimes and those involving Interpol. A Red Notice is a request to law enforcement worldwide to locate and provisionally arrest a person pending extradition, surrender, or similar legal action.",
+      "examRelevance": "Agencies involved in international law enforcement, Interpol Red Notice.",
+      "tags": [
+        "CBI",
+        "Mohd Mazin",
+        "UAE",
+        "Interpol Red Notice",
+        "Human trafficking"
+      ],
+      "source": {
+        "title": "Man involved in exploitation of 14 women deported from UAE: CBI",
+        "url": "https://www.thehindu.com/news/national/man-involved-in-exploitation-of-14-women-deported-from-uae-cbi/article71723431.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q25",
+      "question": "Which Supreme Court-appointed committee's recent report, recommending a three-year roadmap to phase out unsustainable sand extraction, may complicate Kerala’s plan to resume river sand mining?",
+      "options": [
+        "State Environment Impact Assessment Authority (SEIAA)",
+        "Central Empowered Committee (CEC)",
+        "Expert Appraisal Committee (EAC)",
+        "National Green Tribunal (NGT)"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Kerala’s bid to end a decade-long ban on river sand mining is on a collision course with a report by the Supreme Court-appointed Central Empowered Committee (CEC), which recommended a three-year roadmap to phase out unsustainable sand extraction from active river channels across the country.",
+      "background": "Sand mining is a critical environmental issue due to its impact on river ecosystems, groundwater levels, and coastal stability. The CEC is a statutory body constituted by the Supreme Court to assist in matters related to forest and environmental protection.",
+      "examRelevance": "Key committees related to environmental governance, current environmental issues.",
+      "tags": [
+        "Central Empowered Committee",
+        "CEC",
+        "Kerala",
+        "River sand mining",
+        "Environmental regulation"
+      ],
+      "source": {
+        "title": "CEC report may complicate Keralam’s plan to resume river sand mining",
+        "url": "https://www.thehindu.com/news/national/kerala/cec-report-may-complicate-keralams-plan-to-resume-river-sand-mining/article71708178.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q26",
+      "question": "A rare ‘bridal veil’ bamboo mushroom, scientifically known as Phallus indusiatus, was recently spotted near which famous bird sanctuary in Karnataka?",
+      "options": [
+        "Kumarakom Bird Sanctuary",
+        "Ranganathittu Bird Sanctuary",
+        "Vedanthangal Bird Sanctuary",
+        "Salim Ali Bird Sanctuary"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "A rare ‘bridal veil’ bamboo mushroom, scientifically known as Phallus indusiatus, and popularly referred to as “veiled lady” or bamboo pith, was recently spotted near the Ranganathittu Bird Sanctuary in Karnataka.",
+      "background": "Ranganathittu Bird Sanctuary is the largest bird sanctuary in Karnataka, located on the banks of the Kaveri River. The sighting of rare species like this mushroom highlights the rich biodiversity of the region.",
+      "examRelevance": "Rare species sighting, location, scientific name.",
+      "tags": [
+        "Bridal veil mushroom",
+        "Phallus indusiatus",
+        "Ranganathittu Bird Sanctuary",
+        "Karnataka",
+        "Biodiversity"
+      ],
+      "source": {
+        "title": "Rare ‘bridal veil’ bamboo mushroom spotted near Ranganathittu Bird Sanctuary",
+        "url": "https://www.thehindu.com/news/national/karnataka/rare-bridal-veil-bamboo-mushroom-spotted-near-ranganathittu-bird-sanctuary/article71723406.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q27",
+      "question": "The Enforcement Directorate (ED) recently conducted searches at multiple locations in which Indian state as part of a probe into suspected FEMA violations and hawala deals?",
+      "options": [
+        "Goa",
+        "Kerala",
+        "West Bengal",
+        "Punjab"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Enforcement Directorate (ED) recently conducted searches at multiple locations, mainly in Kannur, Kasaragod, Kozhikode, Malappuram, and Palakkad districts of Kerala, as part of a probe into suspected FEMA violations and hawala deals.",
+      "background": "The Foreign Exchange Management Act (FEMA) regulates foreign exchange transactions in India. Hawala is an informal system of transferring money without any actual money movement, often used for illicit transactions.",
+      "examRelevance": "ED actions, FEMA violations, hawala deals, affected state.",
+      "tags": [
+        "Enforcement Directorate",
+        "ED",
+        "Kerala",
+        "FEMA",
+        "Hawala",
+        "Financial crime"
+      ],
+      "source": {
+        "title": "ED conducts searches at multiple locations in Keralam as part of probe into suspected FEMA violations, hawala deals",
+        "url": "https://www.thehindu.com/news/national/kerala/ed-conducts-searches-in-keralam-as-part-of-fema-violations-probe/article71723161.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q28",
+      "question": "Former Indian athlete Padmini Thomas recently quit the BJP and expressed her intention to return to which political party in Kerala?",
+      "options": [
+        "Janata Dal (Secular)",
+        "Indian National Congress",
+        "Communist Party of India (Marxist)",
+        "Aam Aadmi Party"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Former Indian athlete Padmini Thomas recently quit the BJP, stating that party leaders failed to fulfill promises made to her. She is now seeking to return to the Indian National Congress in Kerala.",
+      "background": "Padmini Thomas is a known name in Indian sports, particularly in athletics. Her political move highlights the dynamic nature of party affiliations, especially among public figures.",
+      "examRelevance": "Prominent personalities changing political parties.",
+      "tags": [
+        "Padmini Thomas",
+        "BJP",
+        "Congress",
+        "Kerala",
+        "Athlete",
+        "Politics"
+      ],
+      "source": {
+        "title": "Former Indian athlete Padmini Thomas quits BJP, seeks return to Congress in Keralam",
+        "url": "https://www.thehindu.com/news/national/kerala/former-indian-athlete-padmini-thomas-quits-bjp-to-return-to-congress-in-keralam/article71723375.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q29",
+      "question": "Padmaja, daughter of former Chief Minister K. Karunakaran, recently announced her departure from which political party, regretting her \"hasty\" exit from Congress?",
+      "options": [
+        "Janata Dal (Secular)",
+        "Nationalist Congress Party",
+        "Bharatiya Janata Party (BJP)",
+        "Communist Party of India (Marxist)"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "Padmaja, daughter of former Chief Minister K. Karunakaran, recently quit the BJP, stating that joining the party was a mistake and she could not reconcile with its ideology. She expressed joy in reconnecting with her brother Muraleedharan.",
+      "background": "K. Karunakaran was a prominent Congress leader and former Chief Minister of Kerala. His children's political activities are often noted in state politics.",
+      "examRelevance": "Prominent political family members changing parties.",
+      "tags": [
+        "Padmaja",
+        "K. Karunakaran",
+        "BJP",
+        "Congress",
+        "Kerala",
+        "Politics"
+      ],
+      "source": {
+        "title": "Padmaja quits BJP, says joining party was a mistake",
+        "url": "https://www.thehindu.com/news/national/kerala/padmaja-quits-bjp-says-joining-party-was-a-mistake/article71720112.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-20-q30",
+      "question": "The Parandur airport project was recently abandoned, as informed by the Advocate-General to the Madras High Court, primarily due to concerns regarding what?",
+      "options": [
+        "Environmental clearance",
+        "Air traffic control issues",
+        "Land acquisition costs",
+        "Local community protests"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The Advocate-General informed the Madras High Court that the Parandur airport project has been abandoned over concerns about environmental clearance. This submission was made during the hearing of a PIL petition filed against the government’s decision to abandon the project.",
+      "background": "Large infrastructure projects often face scrutiny regarding their environmental impact and require rigorous environmental clearances. The abandonment of a major project due to such concerns highlights the importance of environmental regulations.",
+      "examRelevance": "Major infrastructure project abandonment, reason, environmental concerns.",
+      "tags": [
+        "Parandur airport",
+        "Environmental clearance",
+        "Madras High Court",
+        "Project abandonment",
+        "Tamil Nadu"
+      ],
+      "source": {
+        "title": "Parandur airport project abandoned over concerns about environmental clearance, A-G tells Madras High Court",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/parandur-airport-project-abandoned-over-concerns-about-environmental-clearance-a-g-tells-madras-high-court/article71723292.ece"
+      }
+    }
+  ]
+}
