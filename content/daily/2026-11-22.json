@@ -1,0 +1,802 @@
+{
+  "id": "daily-2026-11-22",
+  "type": "daily",
+  "date": "2026-11-22",
+  "title": "Current Affairs — 22 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-22-q1",
+      "question": "Who recently won the Las Vegas Grand Prix for the third time in four years?",
+      "options": [
+        "Norris",
+        "Oscar Piastri",
+        "Max Verstappen",
+        "Antonelli"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Max Verstappen won the Las Vegas Grand Prix, marking his third victory in this event in four years. He started from pole position and pulled away from Norris, the 2025 series champion, on the final lap.",
+      "background": "The Las Vegas Grand Prix is a significant event in the Formula 1 calendar. Oscar Piastri finished third, and current champion Antonelli finished fourth in this race.",
+      "examRelevance": "Max Verstappen won the Las Vegas Grand Prix.",
+      "tags": [
+        "Max Verstappen",
+        "Las Vegas Grand Prix",
+        "Formula 1",
+        "Motorsports"
+      ],
+      "source": {
+        "title": "Max Verstappen wins the Las Vegas Grand Prix for the third time in four years",
+        "url": "https://www.thehindu.com/sport/motorsport/max-verstappen-wins-the-las-vegas-grand-prix-for-the-third-time-in-four-years/article71730737.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q2",
+      "question": "Which Chief Minister recently wrote to the Chief Justice of India (CJI) requesting the urgent appointment of a successor for the Jharkhand High Court Chief Justice?",
+      "options": [
+        "Bhupesh Baghel",
+        "Nitish Kumar",
+        "Mamata Banerjee",
+        "Hemant Soren"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Jharkhand Chief Minister Hemant Soren wrote to the Chief Justice of India, emphasizing the need for an urgent appointment of a successor to the Chief Justice of the Jharkhand High Court. He highlighted the issue of short leadership tenures and interim arrangements in the High Court.",
+      "background": "The appointment of High Court Chief Justices in India involves a collegium system. The CM's letter underscores concerns about judicial continuity and stability in the state, which has repeatedly experienced short tenures.",
+      "examRelevance": "Jharkhand CM Hemant Soren requested urgent appointment of Jharkhand HC Chief Justice successor.",
+      "tags": [
+        "Hemant Soren",
+        "Jharkhand",
+        "CJI",
+        "High Court",
+        "Chief Justice"
+      ],
+      "source": {
+        "title": "Hemant Soren writes to CJI to urgently appoint Jharkhand HC Chief Justice successor",
+        "url": "https://www.thehindu.com/news/national/jharkhand/hemant-soren-writes-to-cji-to-urgently-appoint-jharkhand-hc-chief-justice-successor/article71730713.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q3",
+      "question": "In which country did a fire recently break out at the Hartha power station, north of Basra, killing at least four people and injuring 30?",
+      "options": [
+        "Syria",
+        "Iran",
+        "Turkey",
+        "Iraq"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "A fire at the Hartha power station, located north of Basra in Iraq, resulted in the deaths of at least four people and injuries to 30 others. Civil defence teams successfully brought the blaze under control.",
+      "background": "Basra is a major city in southern Iraq, known for its oil industry and strategic importance. Incidents at critical infrastructure like power stations can have significant local and regional impacts on power supply and safety.",
+      "examRelevance": "Fire at Hartha power station in Basra, Iraq.",
+      "tags": [
+        "Iraq",
+        "Basra",
+        "Hartha power station",
+        "Fire",
+        "Accident"
+      ],
+      "source": {
+        "title": "Iraq fire at Basra power station kills at least four, injures 30",
+        "url": "https://www.thehindu.com/news/international/fire-at-basras-hartha-power-station-in-iraq/article71727609.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q4",
+      "question": "Punjab National Bank (PNB) recently stated its requirement for an additional provision of how much amount under the Expected Credit Loss (ECL) framework?",
+      "options": [
+        "₹10,000 crore",
+        "₹2,500 crore",
+        "₹5,000 crore",
+        "₹7,500 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Punjab National Bank (PNB) has indicated a need for an additional ₹5,000 crore in provisions under the Expected Credit Loss (ECL) framework. The bank's CEO foresees a limited impact from this requirement.",
+      "background": "The Expected Credit Loss (ECL) framework is an accounting standard that requires banks to estimate and provision for potential credit losses on their financial assets. This proactive approach aims to reflect the true financial health of banks more accurately.",
+      "examRelevance": "PNB requires ₹5,000 crore extra provisions under ECL.",
+      "tags": [
+        "PNB",
+        "Punjab National Bank",
+        "ECL",
+        "Expected Credit Loss",
+        "Banking",
+        "Provisions"
+      ],
+      "source": {
+        "title": "PNB needs Rs 5,000 cr extra provisions under ECL",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/pnb-needs-rs-5000-crore-extra-provisions-under-ecl-ceo-sees-limited-impact/articleshow/136069636.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q5",
+      "question": "At which port terminal is container movement set to resume on November 23, following the end of a truck drivers' boycott over health risks associated with scanners?",
+      "options": [
+        "Vallarpadam",
+        "Jawaharlal Nehru Port",
+        "Chennai Port",
+        "Mundra Port"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Container movement is scheduled to resume at the Vallarpadam terminal on November 23. This follows the conclusion of a boycott by truck drivers who had raised concerns about health risks from scanners, leading to a pile-up of over 1,800 containers.",
+      "background": "Vallarpadam is home to India's first transshipment container terminal, the International Container Transshipment Terminal (ICTT), located in Kochi, Kerala. The strike had caused significant disruption to export-import activities, including refrigerated containers carrying perishable goods.",
+      "examRelevance": "Container movement resumed at Vallarpadam terminal.",
+      "tags": [
+        "Vallarpadam",
+        "Kochi",
+        "Container terminal",
+        "Truck drivers",
+        "Strike",
+        "Logistics"
+      ],
+      "source": {
+        "title": "Container movement to resume at Vallarpadam on November 23 as truck drivers end scanner boycott over health risks",
+        "url": "https://www.thehindu.com/news/national/kerala/container-movement-to-resume-at-vallarpadam-on-november-23-as-truck-drivers-end-scanner-boycott-over-health-risks/article71730798.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q6",
+      "question": "Ramrao Wadkute, who recently passed away at the age of 72, was a Rajya Sabha MP representing which political party?",
+      "options": [
+        "Congress",
+        "Shiv Sena",
+        "BJP",
+        "NCP"
+      ],
+      "answerIndex": 2,
+      "category": "Obituaries",
+      "explanation": "Ramrao Wadkute, a Rajya Sabha Member of Parliament from the BJP, passed away at the age of 72 due to cardiac arrest in Delhi. He hailed from Parbhani in Maharashtra's Marathwada region and was elected to the Rajya Sabha in April this year.",
+      "background": "Wadkute's recent election to the Rajya Sabha in April 2026 made his demise a significant event in the political landscape of Maharashtra and the national parliament. He was a veteran political figure from the Marathwada region.",
+      "examRelevance": "BJP Rajya Sabha MP Ramrao Wadkute passed away.",
+      "tags": [
+        "Ramrao Wadkute",
+        "BJP",
+        "Rajya Sabha",
+        "Obituary",
+        "Maharashtra"
+      ],
+      "source": {
+        "title": "BJP Rajya Sabha MP Ramrao Wadkute dies of cardiac arrest in Delhi",
+        "url": "https://www.thehindu.com/news/national/bjp-maharashtra-rajya-sabha-mp-ramrao-wadkute-dies-of-cardiac-arrest-in-delhi/article71730872.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q7",
+      "question": "Which automobile manufacturer recently announced a price hike for select models, citing increased cost pressures, following three rounds of price increases in the first half of financial year 2027?",
+      "options": [
+        "Maruti Suzuki",
+        "Tata Motors",
+        "Hyundai",
+        "Mahindra & Mahindra"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Maruti Suzuki has increased the prices of some of its models due to rising cost pressures. This marks the fourth price hike by the company, following three previous increases in the first half of the financial year 2027, which collectively amounted to slightly over 1%.",
+      "background": "Automobile manufacturers frequently adjust prices in response to input costs, supply chain disruptions, and market demand. Maruti Suzuki is India's largest passenger car manufacturer, and its pricing decisions often reflect broader industry trends.",
+      "examRelevance": "Maruti Suzuki hiked select model prices.",
+      "tags": [
+        "Maruti Suzuki",
+        "Automobile",
+        "Price hike",
+        "Economy",
+        "Business"
+      ],
+      "source": {
+        "title": "Maruti Suzuki hikes select model prices amid cost pressures",
+        "url": "https://www.thehindu.com/business/Industry/maruti-suzuki-hikes-select-model-prices-amid-cost-pressures/article71730848.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q8",
+      "question": "The Education Minister of which country recently resigned amid an AI-assisted exam cheating scandal, where a top scorer confessed to using a miniature camera and smartphone?",
+      "options": [
+        "South Korea",
+        "Singapore",
+        "China",
+        "Japan"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "South Korea's Education Minister resigned following an AI-assisted exam cheating scandal. The controversy arose after the top scorer in a national tax accountant exam admitted to using a miniature camera and smartphone to achieve a near-perfect score.",
+      "background": "This incident highlights growing concerns globally about the misuse of artificial intelligence and advanced technology in academic and professional examinations. It has prompted calls for stricter oversight and new security measures to maintain exam integrity.",
+      "examRelevance": "South Korea Education Minister resigned due to AI cheating scandal.",
+      "tags": [
+        "South Korea",
+        "Education Minister",
+        "AI cheating",
+        "Resignation",
+        "Exam scandal"
+      ],
+      "source": {
+        "title": "South Korea Education Minister resigns amid AI cheating scandal",
+        "url": "https://www.thehindu.com/news/international/south-korea-education-minister-resigns-amid-ai-cheating-scandal/article71730601.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q9",
+      "question": "Which major Indian coal producer's Initial Public Offering (IPO) is highlighted as a key economic development for the upcoming week?",
+      "options": [
+        "Singareni Collieries",
+        "Neyveli Lignite Corporation",
+        "Coal India",
+        "Mahanadi Coalfields"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Initial Public Offering (IPO) of Mahanadi Coalfields is identified as one of the key economic developments and market events to watch in the week ahead. This indicates a significant upcoming financial activity in the Indian market.",
+      "background": "Mahanadi Coalfields Limited (MCL) is one of the major coal-producing subsidiaries of Coal India Limited (CIL), a Maharatna Public Sector Undertaking under the Ministry of Coal. IPOs are a common way for companies to raise capital by offering shares to the public.",
+      "examRelevance": "Mahanadi Coalfields IPO is a key upcoming economic event.",
+      "tags": [
+        "Mahanadi Coalfields",
+        "IPO",
+        "Economy",
+        "Business",
+        "Coal India"
+      ],
+      "source": {
+        "title": "Mahanadi Coalfields IPO, credit growth, IFFI event: key highlights in the week ahead",
+        "url": "https://www.livemint.com/economy/market-events-rbi-data-us-gdp-inflation-mahanadi-ipo-11795328633595.html"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q10",
+      "question": "North Korea recently announced the delay of its international marathon, originally scheduled for April, until which month?",
+      "options": [
+        "July",
+        "September",
+        "October",
+        "December"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "North Korea has postponed its international marathon, which was initially planned for April, until October. Last year, the event was held for the first time since the COVID-19 pandemic, but this year's April race was cancelled without a specific reason provided.",
+      "background": "The Pyongyang Marathon, officially known as the Mangyongdae Prize International Marathon, is an annual marathon race held in Pyongyang, North Korea. It is one of the few opportunities for foreign tourists to participate in a sporting event in the country.",
+      "examRelevance": "North Korea delayed its international marathon to October.",
+      "tags": [
+        "North Korea",
+        "International Marathon",
+        "Pyongyang Marathon",
+        "Delay"
+      ],
+      "source": {
+        "title": "North Korea delays international marathon until October: tour agency",
+        "url": "https://www.thehindu.com/news/international/north-korea-delays-international-marathon-until-october-tour-agency/article71730826.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q11",
+      "question": "The final draft document prepared by Turkiye for which upcoming international conference on climate change notably omits the words 'fossil fuels'?",
+      "options": [
+        "COP29",
+        "COP32",
+        "COP30",
+        "COP31"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "Turkiye's final draft for COP31, the 31st Conference of the Parties, has been submitted for review by negotiators. A significant point of contention is the omission of the phrase 'fossil fuels,' which are a primary cause of global warming, from the draft document.",
+      "background": "The Conference of the Parties (COP) is the supreme decision-making body of the United Nations Framework Convention on Climate Change (UNFCCC). These annual meetings are crucial for global climate policy, with discussions often focusing on reducing greenhouse gas emissions and transitioning away from fossil fuels.",
+      "examRelevance": "Turkiye's COP31 draft omits 'fossil fuels'.",
+      "tags": [
+        "COP31",
+        "Turkiye",
+        "Climate Change",
+        "Fossil Fuels",
+        "Environment",
+        "UNFCCC"
+      ],
+      "source": {
+        "title": "COP31: Turkiye's final draft doesn't mention the words ‘fossil fuels’ that cause global warming",
+        "url": "https://www.thehindu.com/news/international/cop31-turkiyes-final-draft-doesnt-mention-the-words-fossil-fuels-that-cause-global-warming/article71730648.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q12",
+      "question": "Which country recently issued an interim final rule blocking data center operators outside its borders, equipped with advanced American AI chips, from providing cloud services to businesses in countries like China, Iran, and Russia?",
+      "options": [
+        "United States",
+        "Germany",
+        "United Kingdom",
+        "Japan"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "The U.S. Commerce Department on November 16 issued an interim final rule that prohibits data center operators outside the U.S., using advanced American AI chips, from offering cloud services to businesses in two dozen countries, including China, Iran, and Russia. This move aims to control the flow of advanced technology.",
+      "background": "This action is part of an ongoing effort by the U.S. to restrict China's access to advanced semiconductor technology and AI capabilities, citing national security concerns. It follows previous measures targeting chip exports and comes amid broader geopolitical competition.",
+      "examRelevance": "U.S. blocked China's remote access to AI chips.",
+      "tags": [
+        "US",
+        "China",
+        "AI Chips",
+        "Technology Control",
+        "Export Restrictions",
+        "Nvidia"
+      ],
+      "source": {
+        "title": "U.S. blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
+        "url": "https://www.thehindu.com/news/international/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711869.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q13",
+      "question": "What was the revenue reported by Reliance Brands for FY26, as per recent RoC filings?",
+      "options": [
+        "₹1,390.89 crore",
+        "₹2,390.89 crore",
+        "₹3,390.89 crore",
+        "₹4,390.89 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Reliance Brands Limited (RBL), a subsidiary of Reliance Retail Ventures Ltd (RRVL), reported a 3.77% increase in revenue to ₹3,390.89 crore for FY26. The company also managed to narrow its loss to ₹137.04 crore for the same fiscal year.",
+      "background": "Reliance Brands operates global fashion and lifestyle brands in India through strategic partnerships, brand ownership, and retail operations. As of March 31, 2026, the company operated 1,085 Points of Sale across India.",
+      "examRelevance": "Reliance Brands FY26 revenue was ₹3,390.89 crore.",
+      "tags": [
+        "Reliance Brands",
+        "Revenue",
+        "FY26",
+        "Economy",
+        "Business",
+        "Retail"
+      ],
+      "source": {
+        "title": "Reliance Brands trims losses in FY26",
+        "url": "https://economictimes.indiatimes.com/industry/services/retail/reliance-brands-trims-losses-in-fy26-adds-stella-mccartney-fabletics-to-portfolio/articleshow/136069090.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q14",
+      "question": "China recently criticized the U.S. ban on its telecom firms' phone number access, specifically mentioning which three state-owned companies as affected entities?",
+      "options": [
+        "Tencent, Alibaba, and Baidu",
+        "Lenovo, Oppo, and Vivo",
+        "China Unicom, China Telecom, and China Mobile",
+        "Huawei, ZTE, and Xiaomi"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "China has condemned the U.S. ban on its telecom firms' phone number access, calling the move 'malicious.' The affected entities specifically include China's three largest state-owned telecom companies: China Unicom, China Telecom, and China Mobile.",
+      "background": "This ban is part of ongoing tensions between the U.S. and China regarding technology, national security, and data privacy. The U.S. has previously taken actions against Chinese tech and telecom companies over concerns about potential espionage and data security risks.",
+      "examRelevance": "China Unicom, China Telecom, China Mobile affected by US ban on phone number access.",
+      "tags": [
+        "China",
+        "US",
+        "Telecom",
+        "China Unicom",
+        "China Telecom",
+        "China Mobile"
+      ],
+      "source": {
+        "title": "China slams ‘malicious’ U.S. ban on telecom firms’ phone number access",
+        "url": "https://www.thehindu.com/news/international/china-slams-malicious-us-ban-on-telecom-firms-phone-number-access/article71730683.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q15",
+      "question": "The PANI project, recently in news, aims to connect which region's eight islands through an undersea cable network?",
+      "options": [
+        "Andaman and Nicobar Islands",
+        "Sri Lanka",
+        "Maldives",
+        "Lakshadweep Islands"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The PANI project is an initiative designed to establish an undersea cable network connecting eight islands of the Andaman and Nicobar Islands. This project is expected to significantly improve mobile and internet connectivity, especially in remote areas, and ensure more reliable communication during emergencies.",
+      "background": "Improved connectivity is crucial for the development, disaster management, and integration of remote island territories. Previous projects, like the Chennai-Andaman and Nicobar Islands Submarine Cable (CANI-SMART) project, have also aimed at enhancing digital infrastructure in the region.",
+      "examRelevance": "PANI project connects Andaman's eight islands via undersea cable.",
+      "tags": [
+        "PANI project",
+        "Andaman and Nicobar Islands",
+        "Undersea cable",
+        "Connectivity",
+        "Digital Infrastructure"
+      ],
+      "source": {
+        "title": "PANI project to connect Andaman's eight islands through undersea cable network",
+        "url": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/pani-project-to-connect-andamans-eight-islands-through-undersea-cable-network/article71730740.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q16",
+      "question": "The State Election Commission recently announced three-phase polling for panchayats in certain districts of Andhra Pradesh on which dates?",
+      "options": [
+        "December 5, 8 and 11",
+        "December 1, 4 and 7",
+        "November 26, 29 and December 2",
+        "November 25, 28 and December 1"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The State Election Commission has announced that three-phase polling for panchayats in districts like Chittoor, Annamayya, and Sri Sathya Sai in Andhra Pradesh will be held on November 26, November 29, and December 2. Police are focusing on 1,500 panchayats in these areas ahead of the polls.",
+      "background": "Panchayat elections are crucial for grassroots democracy and local self-governance in India. They involve significant logistical and security arrangements to ensure fair and peaceful polling, often reflecting local political dynamics.",
+      "examRelevance": "Andhra Pradesh panchayat polls on Nov 26, 29, Dec 2.",
+      "tags": [
+        "Andhra Pradesh",
+        "Panchayat polls",
+        "State Election Commission",
+        "Elections",
+        "Polity"
+      ],
+      "source": {
+        "title": "Police focus on 1,500 panchayats in Chittoor, Annamayya, Sri Sathya Sai districts ahead of polls",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-focus-on-1500-panchayats-in-chittoor-annamayya-sri-sathya-sai-districts-ahead-of-polls/article71728086.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q17",
+      "question": "The Congress party recently criticized proposals by which regulatory body, stating they would open a window to foreign funds with opaque offshore ownership structures?",
+      "options": [
+        "SEBI",
+        "RBI",
+        "IRDAI",
+        "PFRDA"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Congress party has voiced strong opposition to certain proposals put forth by SEBI (Securities and Exchange Board of India). The party argues that these proposals would allow foreign investors with opaque and convoluted offshore ownership structures to operate in India, raising concerns about transparency.",
+      "background": "SEBI is the regulatory body for the securities market in India. Debates around foreign investment rules often involve balancing the need for capital inflow with concerns about regulatory oversight, money laundering, and national security, especially regarding beneficial ownership.",
+      "examRelevance": "Congress criticized SEBI proposals on foreign funds' ownership.",
+      "tags": [
+        "SEBI",
+        "Congress",
+        "Foreign Funds",
+        "Offshore Ownership",
+        "Economy",
+        "Regulation"
+      ],
+      "source": {
+        "title": "SEBI proposals will open window to foreign funds with opaque offshore ownership structures, says Congress",
+        "url": "https://www.thehindu.com/business/markets/sebi-proposals-will-open-window-to-foreign-funds-with-opaque-offshore-ownership-structures-says-congress/article71730702.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q18",
+      "question": "\"Health Wrap Episode 60\" recently discussed key issues including healthcare spending trends in India, regulation of fertility services, and the growing challenge of which global health concern?",
+      "options": [
+        "Polio Vaccination",
+        "Malaria Eradication",
+        "Antimicrobial Resistance",
+        "Tuberculosis Treatment"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "\"Health Wrap Episode 60\" focused on several critical healthcare topics, including trends in healthcare expenditure in India, concerns over the regulation of fertility services, and the escalating challenge of antimicrobial resistance. It also touched upon the impact of environmental and social conditions on public health.",
+      "background": "Antimicrobial resistance (AMR) is a global health and development threat. It occurs when bacteria, viruses, fungi, and parasites change over time and no longer respond to medicines, making infections harder to treat and increasing the risk of disease spread, severe illness, and death.",
+      "examRelevance": "Health Wrap Episode 60 discussed Antimicrobial Resistance.",
+      "tags": [
+        "Health Wrap",
+        "Healthcare",
+        "Antimicrobial Resistance",
+        "AMR",
+        "Public Health",
+        "Science & Tech"
+      ],
+      "source": {
+        "title": "Health Wrap Episode 60 discusses healthcare spending, antimicrobial resistance and more",
+        "url": "https://www.thehindu.com/sci-tech/health/health-wrap-episode-60-discusses-healthcare-spending-reproductive-health-antimicrobial-resistance-and-more/article71730685.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q19",
+      "question": "A new model recently proposed the existence of a celestial body dubbed \"Black Saturn,\" which comprises two black holes and one ring. What is a key characteristic of these two black holes in the model?",
+      "options": [
+        "They must be of equal mass",
+        "They must spin in the same direction",
+        "They can spin in different directions",
+        "They are connected by a wormhole"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "A new scientific model has introduced the concept of \"Black Saturn,\" a theoretical construct featuring two black holes and a ring. This model suggests that the two cosmic giants forming the Black Saturn can spin in different directions, which challenges previous assumptions about spacetime interactions.",
+      "background": "The study of black holes and their interactions is a frontier in astrophysics, often pushing the boundaries of Einstein's theory of relativity. Such theoretical models help scientists explore the bizarre possibilities within the universe and expand our understanding of cosmic phenomena.",
+      "examRelevance": "'Black Saturn' model proposes two black holes spinning in different directions.",
+      "tags": [
+        "Black Saturn",
+        "Black Holes",
+        "Astrophysics",
+        "Spacetime",
+        "Science & Tech"
+      ],
+      "source": {
+        "title": "2 black holes, one ring: Meet the Black Saturn",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/black-hole-inside-black-hole-5d-black-saturn-spacetime-is-making-scientists-question-how-bizarre-einsteins-universe-can-get-new-model-shows-2-cosmic-giants-can-spin-in-different-directions/articleshow/136068551.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q20",
+      "question": "Union Minister Rajiv Ranjan Singh recently reviewed indigenous cattle research at Sri Venkateswara Veterinary University (SVVU) located in which city?",
+      "options": [
+        "Tirupati",
+        "Hyderabad",
+        "Bengaluru",
+        "Chennai"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "Union Minister Rajiv Ranjan Singh visited Sri Venkateswara Veterinary University (SVVU) in Tirupati to review the ongoing indigenous cattle research. The Vice-Chancellor highlighted the institution's contributions to the conservation, multiplication, and genetic improvement of indigenous livestock breeds.",
+      "background": "Promoting indigenous cattle breeds is crucial for sustainable agriculture, rural livelihoods, and preserving genetic diversity. Such research often focuses on improving productivity, disease resistance, and adaptability of local breeds, contributing to food security and economic stability.",
+      "examRelevance": "Union Minister Rajiv Ranjan Singh reviewed indigenous cattle research at SVVU in Tirupati.",
+      "tags": [
+        "Rajiv Ranjan Singh",
+        "SVVU",
+        "Tirupati",
+        "Indigenous Cattle",
+        "Livestock Research",
+        "Agriculture"
+      ],
+      "source": {
+        "title": "Union Minister Rajiv Ranjan Singh reviews indigenous cattle research at SVVU in Tirupati",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/union-minister-rajiv-ranjan-singh-reviews-indigenous-cattle-research-at-svvu-in-tirupati/article71729080.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q21",
+      "question": "India recently recorded its highest ever Test innings total in New Zealand, declaring at 720 for nine. Which country's previous record of 715 for six declared against Bangladesh in 2019 did India surpass?",
+      "options": [
+        "South Africa",
+        "Australia",
+        "New Zealand",
+        "England"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "In the first Test against New Zealand, India declared their innings at a mammoth 720 for nine, which stands as the highest Test innings total ever recorded in New Zealand. This score surpassed New Zealand's own record of 715 for six declared against Bangladesh in Hamilton in 2019.",
+      "background": "Achieving a record-breaking total in Test cricket is a significant milestone for any team, especially when playing away from home. It demonstrates strong batting performance and dominance in the match, setting a challenging target for the opposition.",
+      "examRelevance": "India's 720/9 is the highest Test innings total in New Zealand.",
+      "tags": [
+        "India",
+        "New Zealand",
+        "Test Cricket",
+        "Cricket Record",
+        "Sports"
+      ],
+      "source": {
+        "title": "IND vs NZ 1st Test Day 4 Stumps: New Zealand trail by 233 after India’s mammoth 720/9 declaration",
+        "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-test-day-4-updates-november-22-2026/article71730494.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q22",
+      "question": "The recent Quad, ASEAN-India, and East Asia Summits took place in which city?",
+      "options": [
+        "Kuala Lumpur",
+        "Jakarta",
+        "Bangkok",
+        "Manila"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The recent Quad, ASEAN-India, and East Asia Summits, where Prime Minister Narendra Modi engaged with various groupings, were held in Manila. These engagements highlighted India's growing desire to collaborate more closely with ASEAN nations.",
+      "background": "These summits are key multilateral forums for regional cooperation and diplomacy in the Indo-Pacific. The Quad (Quadrilateral Security Dialogue) involves Australia, India, Japan, and the United States, while ASEAN (Association of Southeast Asian Nations) is a regional intergovernmental organization.",
+      "examRelevance": "Quad, ASEAN-India, East Asia Summits held in Manila.",
+      "tags": [
+        "Quad",
+        "ASEAN",
+        "East Asia Summit",
+        "Manila",
+        "Narendra Modi",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Key takeaways from the Quad, ASEAN-India, and East Asia Summits in Manila | Explained",
+        "url": "https://www.thehindu.com/news/international/key-takeaways-from-the-quad-asean-india-and-east-asia-summitsin-manila-explained/article71727587.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q23",
+      "question": "At the recent SCO Civilisational Forum, a Pakistan Minister invoked the historical figures of Humayun and Sher Shah Suri while referring to which historical structure in Delhi?",
+      "options": [
+        "Qutub Minar",
+        "Humayun's Tomb",
+        "Purana Qila",
+        "Red Fort"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "During the SCO Civilisational Forum, Pakistan Minister Musadik Malik referenced Humayun and Sher Shah Suri in connection with the Purana Qila in Delhi. He described the fort as having its foundation laid by Humayun and further built upon by Sher Shah Suri.",
+      "background": "The Purana Qila (Old Fort) is one of the oldest forts in Delhi, with its origins tracing back to the ancient city of Indraprastha. It has significant historical connections to both the Mughal emperor Humayun and the Suri dynasty founder Sher Shah Suri, representing a blend of architectural styles.",
+      "examRelevance": "Pakistan Minister invoked Humayun, Sher Shah at SCO Civilisational Forum regarding Purana Qila.",
+      "tags": [
+        "SCO Civilisational Forum",
+        "Purana Qila",
+        "Humayun",
+        "Sher Shah Suri",
+        "Pakistan Minister",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "‘Two rulers, one fort’: Pakistan Minister invokes Humayun, Sher Shah at SCO Civilisational Forum",
+        "url": "https://www.thehindu.com/news/international/two-rulers-one-fort-pakistan-minister-invokes-humayun-sher-shah-at-sco-civilisational-forum/article71729569.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q24",
+      "question": "Who is the recently appointed Chief Commissioner of Police for Bengaluru, who stated that the government has asked to reconsider restricting all protests to Freedom Park?",
+      "options": [
+        "Praveen Sood",
+        "Kamal Pant",
+        "R. Hithendra",
+        "Bhaskar Rao"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "R. Hithendra has taken charge as Bengaluru's new Chief Commissioner of Police. He mentioned that one of his first tasks is to reconsider the government's directive to restrict all protests solely to Freedom Park, and to establish a new layer of top-level governance to resolve coordination issues.",
+      "background": "The appointment of a new police chief is a significant administrative change in a major metropolitan city. The issue of protest venues is often a matter of public order management and freedom of expression, frequently debated in democratic societies.",
+      "examRelevance": "R. Hithendra is Bengaluru's new Chief Commissioner of Police.",
+      "tags": [
+        "R. Hithendra",
+        "Bengaluru",
+        "Chief Commissioner of Police",
+        "Appointments",
+        "Policing"
+      ],
+      "source": {
+        "title": "Government has asked us to reconsider restricting all protests to Freedom Park, says Bengaluru’s new Chief Commissioner of Police",
+        "url": "https://www.thehindu.com/news/cities/bangalore/government-has-asked-us-to-reconsider-restricting-all-protests-to-freedom-park-says-bengalurus-new-chief-commissioner-of-police/article71728696.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q25",
+      "question": "Which international court recently ruled that Myanmar committed genocide against the Rohingya people during its 2017 'clearance operations'?",
+      "options": [
+        "Permanent Court of Arbitration (PCA)",
+        "International Court of Justice (ICJ)",
+        "International Criminal Court (ICC)",
+        "International Tribunal for the Law of the Sea (ITLOS)"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The International Court of Justice (ICJ) recently delivered a significant ruling, stating that Myanmar committed genocide against the Rohingya ethnic and religious minority during its 2017 'clearance operations.' This judgment offers a measure of justice for the persecuted people.",
+      "background": "The Rohingya are a stateless Muslim minority in Myanmar, primarily residing in Rakhine State. The 2017 crackdown by the Myanmar military led to a mass exodus of Rohingya to Bangladesh, which the UN and other international bodies have described as ethnic cleansing and genocide.",
+      "examRelevance": "ICJ ruled Myanmar committed genocide against Rohingya.",
+      "tags": [
+        "ICJ",
+        "Myanmar",
+        "Rohingya",
+        "Genocide",
+        "International Court of Justice",
+        "Human Rights"
+      ],
+      "source": {
+        "title": "The Rohingya | Vindication for a persecuted people",
+        "url": "https://www.thehindu.com/news/international/the-rohingya-vindication-for-a-persecuted-people/article71729370.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q26",
+      "question": "The Bay of Bengal recently experienced an uncommon frequency of cyclones, with three occurring within a span of three weeks. What has been the average number of cyclones per year in the post-monsoon period (1982-2022) in this region?",
+      "options": [
+        "Around 2.5 cyclones",
+        "Around 1.0 cyclone",
+        "Around 1.8 cyclones",
+        "Around 3.0 cyclones"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "The Bay of Bengal recently witnessed an unusual frequency of three cyclones within three weeks. While uncommon, this isn't unique, as the average number of cyclones per year in the post-monsoon period between 1982 and 2022 was around 1.8, with an increasing trend observed after 2001.",
+      "background": "The Bay of Bengal is one of the most active basins for tropical cyclones globally. The increasing frequency and intensity of these events are often linked to climate change and warming ocean waters, posing significant threats to coastal communities and marine ecosystems.",
+      "examRelevance": "Bay of Bengal averages 1.8 cyclones/year post-monsoon (1982-2022).",
+      "tags": [
+        "Bay of Bengal",
+        "Cyclones",
+        "Climate Change",
+        "Environment",
+        "Meteorology"
+      ],
+      "source": {
+        "title": "Three cyclones in three weeks: What’s happening in the Bay of Bengal? | Explained",
+        "url": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q27",
+      "question": "Which EV brand is reportedly eyeing growth in the sub-₹1 lakh segment and plans to test sodium-ion batteries starting from December?",
+      "options": [
+        "TVS Motor",
+        "e-Went",
+        "Ola Electric",
+        "Ather Energy"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The EV brand e-Went is focusing on expanding its presence in the mass market, particularly the sub-₹1 lakh segment. The company also announced plans to begin testing sodium-ion batteries from December, aiming for more cost-effective and sustainable energy storage solutions.",
+      "background": "Sodium-ion batteries are seen as a potential alternative to lithium-ion batteries, as sodium is more abundant and less expensive. Their development could significantly impact the affordability and accessibility of electric vehicles, especially in price-sensitive markets.",
+      "examRelevance": "EV brand e-Went to test sodium-ion batteries from December.",
+      "tags": [
+        "e-Went",
+        "EV",
+        "Electric Vehicles",
+        "Sodium-ion batteries",
+        "Science & Tech",
+        "Economy & Business"
+      ],
+      "source": {
+        "title": "An EV maker eyes growth in sub-Rs 1 lakh segment",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/ev-brand-e-went-eyes-mass-market-to-test-sodium-ion-batteries-from-december/articleshow/136067784.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q28",
+      "question": "Which location in Delhi recently recorded the highest Air Quality Index (AQI) at 377, contributing to the city's overall 'poor' air quality?",
+      "options": [
+        "Uttam Nagar",
+        "IGNOU-Maidan Garhi",
+        "Anand Vihar",
+        "RK Puram"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Delhi recently experienced 'poor' air quality, with the minimum temperature settling at 11.8°C. Among the monitoring stations, IGNOU-Maidan Garhi recorded the highest Air Quality Index (AQI) at 377, followed by Uttam Nagar at 340.",
+      "background": "Air pollution remains a persistent environmental challenge in Delhi, particularly during the winter months, often exacerbated by factors like stubble burning, vehicular emissions, and industrial pollution. AQI values in the 'poor' category indicate potential health effects for sensitive groups.",
+      "examRelevance": "IGNOU-Maidan Garhi recorded highest AQI in Delhi at 377.",
+      "tags": [
+        "Delhi",
+        "AQI",
+        "Air Quality Index",
+        "IGNOU-Maidan Garhi",
+        "Air Pollution",
+        "Environment"
+      ],
+      "source": {
+        "title": "Delhi records ‘poor’ AQI, minimum temperature settles at 11.8°C",
+        "url": "https://www.thehindu.com/news/cities/Delhi/delhi-records-poor-aqi-minimum-temperature-settles-at-118c/article71730652.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q29",
+      "question": "A recent fire at the PT Fonusa Agung Mulia factory, which resulted in 3 deaths and dozens unaccounted for, occurred in which country?",
+      "options": [
+        "Indonesia",
+        "Philippines",
+        "Malaysia",
+        "Thailand"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "A major fire broke out at the PT Fonusa Agung Mulia candy factory in Serang district, Banten province, Indonesia. The incident led to three fatalities, with dozens of individuals still unaccounted for.",
+      "background": "Industrial accidents, particularly fires in factories, are unfortunately common in rapidly industrializing nations. Such events often raise concerns about workplace safety standards, emergency response protocols, and the welfare of factory workers.",
+      "examRelevance": "Fire at PT Fonusa Agung Mulia factory in Indonesia.",
+      "tags": [
+        "Indonesia",
+        "Factory Fire",
+        "Serang",
+        "Accident",
+        "International"
+      ],
+      "source": {
+        "title": "Fire at Indonesian candy factory leaves 3 dead, dozens unaccounted for",
+        "url": "https://www.thehindu.com/news/international/rescuers-say-many-missing-after-indonesia-factory-fire/article71730558.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-22-q30",
+      "question": "The post-debut performance of which AI company's stock recently fell about 9% below its closing price, raising questions about the struggling artificial intelligence trade?",
+      "options": [
+        "Google DeepMind",
+        "Anthropic PBC",
+        "Meta AI",
+        "OpenAI"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Anthropic PBC's stock experienced a significant post-debut stumble, trading about 9% below its closing price after its smooth debut. This performance has deepened the gloom over the AI sector and led Wall Street to question the future of the artificial intelligence trade.",
+      "background": "Anthropic is a prominent AI research company, known for developing AI models like Claude. Its listing was highly anticipated as a potential indicator for the broader AI market, but its initial performance has delivered a reality check to investors.",
+      "examRelevance": "Anthropic PBC's stock stumbled post-debut.",
+      "tags": [
+        "Anthropic PBC",
+        "AI",
+        "Artificial Intelligence",
+        "Stock Market",
+        "Economy & Business",
+        "Wall Street"
+      ],
+      "source": {
+        "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade/articleshow/136066633.cms"
+      }
+    }
+  ]
+}
