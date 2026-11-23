@@ -1,0 +1,788 @@
+{
+  "id": "daily-2026-11-23",
+  "type": "daily",
+  "date": "2026-11-23",
+  "title": "Current Affairs — 23 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-23-q1",
+      "question": "What is \"Radio Garden\", recently mentioned in news for its unique functionality?",
+      "options": [
+        "A mobile application for tuning into world radio stations",
+        "A global network of amateur radio operators",
+        "A satellite radio service for remote areas",
+        "A platform for independent music streaming"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Radio Garden is a mobile application that allows users to tune into live radio stations from around the world. It provides access to a diverse range of music and content, enabling listeners to explore different cultures through their local radio broadcasts.",
+      "background": "The app offers a unique way to experience global soundscapes, from futuristic Russian pop to soulful Palestinian songs, by presenting a geographical interface where users can navigate and listen to stations worldwide. It highlights the accessibility of diverse cultural content through technology.",
+      "examRelevance": "Radio Garden is an application that provides access to global radio stations.",
+      "tags": [
+        "Radio Garden",
+        "App",
+        "Global Radio",
+        "Technology"
+      ],
+      "source": {
+        "title": "How to tune into world radio music from a single app",
+        "url": "https://www.thehindu.com/sci-tech/technology/how-to-tune-into-world-radio-music-from-a-single-app/article71733921.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q2",
+      "question": "Who is the current Prime Minister of Nepal, who recently visited India for his first official bilateral foreign visit?",
+      "options": [
+        "Sher Bahadur Deuba",
+        "Balendra Shah",
+        "Pushpa Kamal Dahal 'Prachanda'",
+        "K.P. Sharma Oli"
+      ],
+      "answerIndex": 1,
+      "category": "Appointments",
+      "explanation": "Balendra Shah, the current Prime Minister of Nepal, recently undertook his first official bilateral foreign visit to India. During his visit, he held bilateral talks with PM Modi to discuss trade, investment, and connectivity.",
+      "background": "This visit marked a significant diplomatic engagement, following his taking office in March. Previously, Balendra Shah had travelled to the U.S. in September to attend the United Nations General Assembly.",
+      "examRelevance": "Nepal's Prime Minister Balendra Shah visited India for his first official bilateral foreign trip.",
+      "tags": [
+        "Balendra Shah",
+        "Nepal",
+        "India",
+        "Bilateral Visit",
+        "PM"
+      ],
+      "source": {
+        "title": "Nepal PM India visit LIVE: Saryu-Kamala Express from Ayodhya to Janakpur, Nepal inaugurated today",
+        "url": "https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q3",
+      "question": "The Saryu-Kamala Express, recently inaugurated by PM Modi and Nepal PM Balendra Shah, connects which two cities?",
+      "options": [
+        "Gorakhpur and Pokhara",
+        "Patna and Birgunj",
+        "Ayodhya and Janakpur",
+        "Varanasi and Kathmandu"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "The Saryu-Kamala Express, a new rail link, was recently flagged off by Prime Minister Narendra Modi and Nepal Prime Minister Balendra Shah. This express service connects Ayodhya in India with Janakpur in Nepal.",
+      "background": "This modern rail connectivity aims to further strengthen the centuries-old, unbroken emotional and cultural relationship between India and Nepal. The inauguration was a key highlight of the Nepal PM's bilateral visit to India.",
+      "examRelevance": "Saryu-Kamala Express connects Ayodhya (India) and Janakpur (Nepal).",
+      "tags": [
+        "Saryu-Kamala Express",
+        "Ayodhya",
+        "Janakpur",
+        "India-Nepal",
+        "Rail Link"
+      ],
+      "source": {
+        "title": "PM Modi, Balendra Shah flag off Saryu-Kamala Express",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/railways/india-nepal-rail-link-gets-a-boost-as-pm-modi-balendra-shah-flag-off-saryu-kamala-express-connecting-ayodhya-and-janakpur/articleshow/136089889.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q4",
+      "question": "Which state in India has recently mandated digital-only payments for liquor purchases above ₹1,000?",
+      "options": [
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Tamil Nadu's state-run liquor retail chain, Tasmac, has recently implemented a policy mandating digital-only payments for any liquor purchase exceeding ₹1,000. For transactions above this amount, the cash option will be disabled in the handheld billing devices.",
+      "background": "This move aims to promote digital transactions and streamline financial processes within the state's liquor sales. Tasmac outlets are the primary vendors for alcoholic beverages in Tamil Nadu.",
+      "examRelevance": "Tamil Nadu mandates digital payments for liquor purchases above ₹1,000 at Tasmac outlets.",
+      "tags": [
+        "Tamil Nadu",
+        "Tasmac",
+        "Digital Payments",
+        "Liquor Sales",
+        "Economy"
+      ],
+      "source": {
+        "title": "Tasmac to go digital-only for liquor purchases above ₹1,000",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tasmac-to-go-digital-only-for-liquor-purchases-above-1000/article71732280.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q5",
+      "question": "The Calcutta High Court recently extended interim protection to TMC MP Abhishek Banerjee in six criminal cases until which date?",
+      "options": [
+        "March 31, 2027",
+        "January 15, 2027",
+        "April 10, 2027",
+        "February 26, 2027"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Calcutta High Court recently extended interim protection to Trinamool Congress (TMC) MP Abhishek Banerjee until February 26, 2027, or until further orders, whichever is earlier. This protection applies to six criminal cases against him.",
+      "background": "Abhishek Banerjee is the Member of Parliament from Diamond Harbour constituency in West Bengal. The interim protection provides him relief from coercive action in the ongoing legal proceedings.",
+      "examRelevance": "Calcutta High Court extended interim protection to TMC MP Abhishek Banerjee till February 26, 2027.",
+      "tags": [
+        "Abhishek Banerjee",
+        "TMC",
+        "Calcutta High Court",
+        "Interim Protection",
+        "West Bengal"
+      ],
+      "source": {
+        "title": "Calcutta High Court extends interim protection to TMC MP Abhishek Banerjee till February 26 in six criminal cases",
+        "url": "https://www.thehindu.com/news/national/west-bengal/calcutta-high-court-extends-interim-protection-to-tmc-mp-abhishek-banerjee-till-february-26-in-six-criminal-cases/article71734029.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q6",
+      "question": "According to the HSBC Flash India Purchasing Managers’ Index, India's private sector growth is set to hold up in November, with demand improving at the quickest rate since which month?",
+      "options": [
+        "September",
+        "July",
+        "June",
+        "August"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The HSBC Flash India Purchasing Managers’ Index (PMI) indicates sustained expansion across India's private sector in November. The report highlights that demand improved at the quickest rate since June.",
+      "background": "The Flash PMI provides an early indication of economic conditions, based on data collected from surveyed companies. It serves as a key economic indicator for assessing business activity and sentiment in the private sector.",
+      "examRelevance": "HSBC Flash India PMI shows demand improved at quickest rate since June.",
+      "tags": [
+        "HSBC",
+        "PMI",
+        "India",
+        "Private Sector",
+        "Economy"
+      ],
+      "source": {
+        "title": "India's private sector growth set to hold up in November: HSBC Flash India PMI",
+        "url": "https://www.livemint.com/economy/india-private-sector-growth-november-hsbc-flash-india-pmi-11795412472653.html"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q7",
+      "question": "Delhi Minister Sirsa stated that 60% of the Yamuna is clean and safe to drink, with the entire river targeted to be cleaned by which year?",
+      "options": [
+        "2032",
+        "2030",
+        "2029",
+        "2028"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "Delhi Minister Sirsa announced that 60% of the Yamuna river is currently clean enough to drink. He also stated the ambitious target of cleaning the entire river by the year 2030.",
+      "background": "The cleaning of the Yamuna river has been a long-standing environmental priority for various governments. This statement provides an update on the progress and sets a future timeline for the completion of the cleaning efforts.",
+      "examRelevance": "Yamuna river is targeted to be entirely cleaned by 2030.",
+      "tags": [
+        "Yamuna River",
+        "Delhi",
+        "River Cleaning",
+        "Environment",
+        "2030"
+      ],
+      "source": {
+        "title": "Yamuna 60% clean, water safe to drink; entire river to be cleaned by 2030: Delhi Minister Sirsa",
+        "url": "https://www.thehindu.com/news/cities/Delhi/yamuna-60-clean-water-safe-to-drink-entire-river-to-be-cleaned-by-2030-delhi-minister-sirsa/article71733785.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q8",
+      "question": "Which organization recently assured corrective action and a probe into complaints of blurred text in school textbooks, specifically Class 10?",
+      "options": [
+        "NCERT",
+        "CBSE",
+        "UGC",
+        "NITI Aayog"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The National Council of Educational Research and Training (NCERT) recently stated that it would probe complaints regarding blurred text in school textbooks, particularly those for Class 10. The council assured that strict action would be taken against any printer found responsible for these defects.",
+      "background": "This assurance came after a Supreme Court lawyer flagged printing defects, highlighting concerns about the quality of educational materials provided to students. NCERT is responsible for designing and publishing textbooks for schools in India.",
+      "examRelevance": "NCERT will probe complaints of blurred text in Class 10 school textbooks.",
+      "tags": [
+        "NCERT",
+        "Textbooks",
+        "Education",
+        "Printing Defects",
+        "Class 10"
+      ],
+      "source": {
+        "title": "NCERT to probe complaints of blurred text in school textbooks, assures corrective action",
+        "url": "https://www.thehindu.com/news/national/ncert-to-probe-complaints-of-blurred-text-in-school-textbooks-assures-corrective-action/article71733991.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q9",
+      "question": "The 'LEAP' initiative, launched by the Kozhikode district panchayat, aims to assist which group of students?",
+      "options": [
+        "Students with disabilities for vocational training",
+        "Students pursuing arts and culture for scholarships",
+        "Students from rural areas for primary education",
+        "Students from poor families for higher education"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Kozhikode district panchayat has launched a new initiative named 'LEAP' (Learning, Empowerment, Aspiration, Progress). This programme is designed to help students from poor families pursue higher education by providing them with free training for competitive examinations.",
+      "background": "The initiative addresses the financial barriers faced by economically disadvantaged students in accessing quality coaching for entrance exams, thereby promoting equitable opportunities in higher education. It underscores local government efforts to support educational advancement.",
+      "examRelevance": "Kozhikode district panchayat launched 'LEAP' to provide free competitive exam training for students from poor families.",
+      "tags": [
+        "LEAP",
+        "Kozhikode",
+        "District Panchayat",
+        "Higher Education",
+        "Competitive Exams"
+      ],
+      "source": {
+        "title": "Kozhikode district panchayat launches ‘LEAP’ to help students from poor families pursue higher education",
+        "url": "https://www.thehindu.com/news/cities/kozhikode/kozhikode-district-panchayat-launches-leap-to-help-students-from-poor-families-pursue-higher-education/article71733924.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q10",
+      "question": "The Supreme Court recently barred the Tamil Nadu government from coercive action against which university over a land dispute involving 31.37 acres?",
+      "options": [
+        "Bharathiar University",
+        "Madras University",
+        "Anna University",
+        "SASTRA University"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "A Bench of the Supreme Court, headed by CJI Surya Kant, recently issued an interim order staying any coercive measures against SASTRA University. The dispute involves 31.37 acres of government land in Thanjavur, allegedly encroached upon by the university.",
+      "background": "This ruling provides temporary relief to SASTRA University in a significant land dispute with the Tamil Nadu government. The Supreme Court's intervention prevents immediate action against the institution while the matter is under judicial review.",
+      "examRelevance": "Supreme Court barred Tamil Nadu government from coercive action against SASTRA University over a land dispute.",
+      "tags": [
+        "Supreme Court",
+        "SASTRA University",
+        "Tamil Nadu",
+        "Land Dispute",
+        "CJI Surya Kant"
+      ],
+      "source": {
+        "title": "Supreme Court bars Tamil Nadu government from coercive action against SASTRA University over land dispute",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-bars-tamil-nadu-government-from-coercive-action-against-sastra-university-over-land-dispute/article71733721.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q11",
+      "question": "The third Nature Walk, organized by Telangana Tourism Development Corporation, is scheduled for November 29, 2026, at which Hyderabad heritage park?",
+      "options": [
+        "Qutb Shahi Tombs heritage park",
+        "Botanical Garden",
+        "Lumbini Park",
+        "NTR Gardens"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "The Telangana Tourism Development Corporation announced that the third Nature Walk would be organized on November 29, 2026. This event will take place at Hyderabad’s 106-acre heritage park, located beyond the Qutb Shahi tombs.",
+      "background": "These nature walks aim to encourage people to explore the trees, birds, and ecological relations within the historical and natural landscapes of Hyderabad. The Qutb Shahi tombs complex is a prominent heritage site in the city.",
+      "examRelevance": "Third Nature Walk on Nov 29, 2026, at Hyderabad’s Qutb Shahi Tombs heritage park.",
+      "tags": [
+        "Hyderabad",
+        "Nature Walk",
+        "Qutb Shahi Tombs",
+        "Telangana Tourism",
+        "Heritage Park"
+      ],
+      "source": {
+        "title": "Beyond Qutb Shahi tombs | People explore trees, birds and ecological relations at Hyderabad’s 106-acre heritage park",
+        "url": "https://www.thehindu.com/news/cities/Hyderabad/beyond-qutb-shahi-tombs-people-explore-trees-birds-and-ecological-relations-at-hyderabads-106-acre-heritage-park/article71731314.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q12",
+      "question": "Which Chief Minister recently visited Japan and promised support for Toyota's vehicle manufacturing expansion plans in their state?",
+      "options": [
+        "M.K. Stalin (Tamil Nadu)",
+        "Eknath Shinde (Maharashtra)",
+        "D.K. Shivakumar (Karnataka)",
+        "Basavaraj Bommai (Karnataka)"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Karnataka Chief Minister D.K. Shivakumar recently visited Japan, where he promised support for Toyota's plans to expand its vehicle manufacturing capacity in Karnataka. Toyota aims to scale its production to one million vehicles in the near future.",
+      "background": "During his visit, CM Shivakumar, along with M.B. Patil, also invited Toyota leadership to the Global Investors’ Meet scheduled to be held in Karnataka in 2027. This engagement is part of efforts to boost industrial investment and job creation in the state.",
+      "examRelevance": "Karnataka CM D.K. Shivakumar visited Japan, promising support for Toyota's expansion.",
+      "tags": [
+        "D.K. Shivakumar",
+        "Karnataka",
+        "Japan",
+        "Toyota",
+        "Global Investors Meet"
+      ],
+      "source": {
+        "title": "Karnataka CM’s Japan visit: D.K. Shivakumar promises support for Toyota’s vehicle manufacturing expansion plans in State",
+        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cms-japan-visit-dk-shivakumar-promises-support-for-toyotas-vehicle-manufacturing-expansion-plans-in-state/article71733691.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q13",
+      "question": "The Supreme Court recently ruled that the right to seek correction of an electoral roll entry is personal and cannot be pursued through which legal mechanism?",
+      "options": [
+        "An appeal to the Election Commission",
+        "A public interest litigation (PIL)",
+        "A writ petition",
+        "A civil suit"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "A Supreme Court Bench comprising CJI Surya Kant and Justices Joymalya Bagchi and V. Mohana recently stated that the right to seek correction of an electoral roll entry is a personal matter. Consequently, it cannot be pursued through a Public Interest Litigation (PIL).",
+      "background": "The court was not inclined to entertain a plea seeking such corrections via a PIL, emphasizing that individual grievances related to electoral rolls should be addressed through appropriate personal legal channels rather than broad public interest litigation.",
+      "examRelevance": "Supreme Court ruled that electoral roll correction cannot be pursued through a PIL.",
+      "tags": [
+        "Supreme Court",
+        "Electoral Roll",
+        "PIL",
+        "Personal Right",
+        "CJI Surya Kant"
+      ],
+      "source": {
+        "title": "Supreme Court says, right to seek correction of electoral roll entry is personal, can't be pursued in PIL",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/supreme-court-says-right-to-seek-correction-of-electoral-roll-entry-is-personal-cant-be-pursued-in-pil/article71733841.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q14",
+      "question": "The recent bomb threat email in Hyderabad named which two specific locations as potential targets for 26/11-style attacks?",
+      "options": [
+        "Ramoji Film City and Hussain Sagar Lake",
+        "Rajiv Gandhi International Airport and Falaknuma Palace",
+        "Kacheguda Railway Station and Hotel Tourist Plaza",
+        "Charminar and Golconda Fort"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Cybercrime teams are investigating a recent bomb threat email in Hyderabad that warned of 26/11-style attacks. The email specifically named Kacheguda Railway Station and Hotel Tourist Plaza as targets.",
+      "background": "The sender of the threatening email reportedly used a Europe-based VPN and a temporary email account to conceal their identity. Authorities are working to trace the source of the threat and enhance security measures at the mentioned locations.",
+      "examRelevance": "Hyderabad bomb threat email named Kacheguda Railway Station and Hotel Tourist Plaza as targets.",
+      "tags": [
+        "Hyderabad",
+        "Bomb Threat",
+        "Cybercrime",
+        "Kacheguda Railway Station",
+        "Hotel Tourist Plaza"
+      ],
+      "source": {
+        "title": "Hyderabad bomb threat email sender used Europe-based VPN, temporary email account",
+        "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-bomb-threat-email-sender-used-vpn-temporary-email-account/article71733944.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q15",
+      "question": "The FSSAI recently sanctioned prosecution against Bisleri for elevated levels of which substance in its packaged drinking water?",
+      "options": [
+        "Lead",
+        "Bromate",
+        "Arsenic",
+        "Fluoride"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "The FSSAI (Food Safety and Standards Authority of India) sanctioned prosecution against Bisleri after finding bromate levels in its packaged drinking water to be 20% above the prescribed limit. Bisleri, however, stated that its water is safe for consumption and it has not received any official notice.",
+      "background": "Bromate is a chemical compound that can form in water during the ozonation disinfection process and is considered a potential carcinogen if present above certain limits. This incident highlights ongoing concerns regarding the safety and quality standards of packaged drinking water.",
+      "examRelevance": "FSSAI sanctioned prosecution against Bisleri for elevated bromate levels in water.",
+      "tags": [
+        "Bisleri",
+        "FSSAI",
+        "Bromate",
+        "Packaged Drinking Water",
+        "Food Safety"
+      ],
+      "source": {
+        "title": "Bisleri water safe or not: Possible cancer risk explained",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/bisleri-drinking-water-safe-or-not-fssai-finds-bromate-level-20-above-limit-what-are-the-possible-cancer-risks-heres-what-consumers-need-to-know/articleshow/136093920.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q16",
+      "question": "Bengaluru's Namma Metro recorded a fare revenue jump of 49% to what amount during 2025–26?",
+      "options": [
+        "₹1,125.58 crore",
+        "₹980.25 crore",
+        "₹1,500.00 crore",
+        "₹753.59 crore"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Bengaluru's Namma Metro (BMRCL) recorded a significant increase in fare-box collections, with revenue jumping by 49.36% to ₹1,125.58 crore during the fiscal year 2025–26. This is a substantial rise from ₹753.59 crore in 2024–25.",
+      "background": "The increase in fare revenue is attributed to a 12.29% growth in ridership. This indicates a growing reliance on public transport in Bengaluru and improved financial performance for the metro system.",
+      "examRelevance": "Bengaluru Namma Metro's fare revenue jumped 49% to ₹1,125.58 crore in 2025–26.",
+      "tags": [
+        "Bengaluru",
+        "Namma Metro",
+        "BMRCL",
+        "Fare Revenue",
+        "Economy"
+      ],
+      "source": {
+        "title": "Bengaluru Namma Metro records 12.29% growth in ridership; fare revenue jumps 49% to ₹1,125 crore",
+        "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-namma-metro-records-1229-growth-in-ridership-fare-revenue-jumps-49-to-1125-crore/article71733703.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q17",
+      "question": "The Supreme Court recently sought responses from the Centre and ECI on a PIL for reforms in which specific law, raising concerns over misuse of resignations?",
+      "options": [
+        "Representation of the People Act",
+        "Anti-defection law",
+        "Right to Information Act",
+        "Prevention of Corruption Act"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently sought responses from the Centre and the Election Commission of India (ECI) on a Public Interest Litigation (PIL) that calls for reforms in the anti-defection law. The PIL highlighted concerns over the alleged misuse of resignations by elected representatives to circumvent disqualification proceedings and influence the survival of elected governments.",
+      "background": "The anti-defection law, enshrined in the Tenth Schedule of the Indian Constitution, aims to prevent political defections. However, its implementation has often been debated, with allegations of loopholes being exploited, which this PIL seeks to address.",
+      "examRelevance": "Supreme Court sought responses on PIL for reforms in the anti-defection law.",
+      "tags": [
+        "Supreme Court",
+        "Anti-defection law",
+        "PIL",
+        "Centre",
+        "ECI"
+      ],
+      "source": {
+        "title": "Supreme Court seeks response of Centre, ECI on PIL for reforms in anti-defection law",
+        "url": "https://www.thehindu.com/news/national/supreme-court-seeks-response-of-centre-eci-on-pil-for-reforms-in-anti-defection-law/article71733963.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q18",
+      "question": "The ESIC rules, 2026, recently notified, set the wage ceiling for beneficiaries to receive sickness and maternity benefits at what amount?",
+      "options": [
+        "₹15,000",
+        "₹21,000",
+        "₹18,000",
+        "₹25,000"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The ESIC (Employees' State Insurance Corporation) rules, 2026, have been recently notified, establishing a wage ceiling of ₹21,000 for beneficiaries. This ceiling determines eligibility for various benefits, including sickness and maternity benefits, which can now be availed without filing a claim.",
+      "background": "The ESIC scheme provides socio-economic security to the working population and their dependents. The updated wage ceiling expands the coverage and simplifies the process for eligible individuals to access essential social security benefits.",
+      "examRelevance": "ESIC rules, 2026, set a wage ceiling of ₹21,000 for sickness and maternity benefits.",
+      "tags": [
+        "ESIC",
+        "Wage Ceiling",
+        "Sickness Benefits",
+        "Maternity Benefits",
+        "Social Security"
+      ],
+      "source": {
+        "title": "ESIC rules, ₹21K wage ceiling notified: Who benefits",
+        "url": "https://economictimes.indiatimes.com/wealth/save/esic-regulations-2026-and-rs-21000-wage-ceiling-notified-beneficiaries-can-get-sickness-and-maternity-benefits-without-filing-a-claim/articleshow/136094099.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q19",
+      "question": "Tata Steel recently announced its plan to acquire a 26.6% promoter stake in which company for ₹15,511 crore?",
+      "options": [
+        "Steel Authority of India Ltd.",
+        "Jindal Steel & Power",
+        "JSW Steel",
+        "APL Apollo Tubes"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Tata Steel has announced its intention to acquire a 26.6% promoter stake in APL Apollo Tubes for ₹15,511 crore. This acquisition is part of Tata Steel's strategy to consolidate its pipes and colour steel business under APL Apollo Tubes.",
+      "background": "Following this initial acquisition, Tata Steel also plans to make an open offer for an additional 26% stake, with an estimated value of ₹16,756 crore. This move signals a significant consolidation in the steel and related products sector.",
+      "examRelevance": "Tata Steel will acquire 26.6% promoter stake in APL Apollo Tubes for ₹15,511 crore.",
+      "tags": [
+        "Tata Steel",
+        "APL Apollo Tubes",
+        "Acquisition",
+        "Promoter Stake",
+        "Economy"
+      ],
+      "source": {
+        "title": "Tata Steel to acquire 26.6% promoter stake in APL Apollo; another 26% via open offer",
+        "url": "https://www.thehindu.com/business/Industry/tata-steel-apl-apollo-agreements-promoter-stake-open-offer-stake/article71733521.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q20",
+      "question": "The IG Defence recently test-fired 'JWALA MK-1', which is described as what type of system?",
+      "options": [
+        "A long-range intercontinental ballistic missile",
+        "An advanced anti-aircraft gun system",
+        "A submarine-launched cruise missile",
+        "An anti-drone micro-missile system"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "The IG Defence successfully test-fired 'JWALA MK-1' at Pokhran. This system is described as an anti-drone micro-missile system, powered by AI, capable of detecting and destroying drones within a 5 km range.",
+      "background": "The development and testing of such systems are crucial for modern warfare and national security, addressing the growing threat posed by drone technology. This advancement enhances India's defensive capabilities against unmanned aerial vehicles.",
+      "examRelevance": "IG Defence test-fired JWALA MK-1, an AI-powered anti-drone micro-missile system.",
+      "tags": [
+        "JWALA MK-1",
+        "IG Defence",
+        "Anti-drone",
+        "Micro-missile",
+        "Pokhran"
+      ],
+      "source": {
+        "title": "IG Defence test-fires JWALA MK-1 at Pokhran",
+        "url": "https://economictimes.indiatimes.com/news/defence/jwala-mk-1-anti-drone-micro-missile-system-successfully-tested-at-pokhran-powered-by-ai-indias-new-weapon-can-detect-destroy-drones-within-5-km-range/articleshow/136093443.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q21",
+      "question": "Researchers from Kerala have linked the regular use of fairness creams to nephrotic syndrome, identifying high levels of which heavy metal as the toxic agent?",
+      "options": [
+        "Cadmium",
+        "Lead",
+        "Arsenic",
+        "Mercury"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Researchers from Kerala have reported a series of cases from Malappuram district linking the regular use of fairness creams to nephrotic syndrome, a severe kidney disorder. Heavy metal screening of blood and urine samples from these patients revealed high levels of mercury, which is known for its toxic effects.",
+      "background": "Medical experts are warning against the craze for fairness creams that promise instant action, especially those containing heavy metals. This finding highlights a significant public health concern regarding unregulated cosmetic products and their long-term health implications.",
+      "examRelevance": "Fairness creams linked to kidney damage due to high levels of mercury.",
+      "tags": [
+        "Fairness Creams",
+        "Mercury",
+        "Nephrotic Syndrome",
+        "Kerala",
+        "Health Hazard"
+      ],
+      "source": {
+        "title": "In search of skin lightening creams, kidneys take a hit",
+        "url": "https://www.thehindu.com/sci-tech/health/in-search-of-skin-lightening-creams-kidneys-take-a-hit/article68101560.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q22",
+      "question": "Scientists have reported strong new evidence that specially bred mosquitoes can fend off which disease?",
+      "options": [
+        "Dengue",
+        "Zika Virus",
+        "Chikungunya",
+        "Malaria"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Scientists have recently reported strong new evidence indicating that specially bred mosquitoes possess the ability to fend off dengue. This research comes at a time when Florida is experiencing an unusually large outbreak of the virus, potentially the biggest in any U.S. state since at least the 1940s.",
+      "background": "This breakthrough in mosquito breeding and disease control offers a promising new strategy for managing and potentially eradicating dengue outbreaks. The method involves introducing modified mosquitoes that either do not transmit the virus or reduce the wild mosquito population.",
+      "examRelevance": "Specially bred mosquitoes show strong evidence of fending off dengue.",
+      "tags": [
+        "Mosquitoes",
+        "Dengue",
+        "Science & Tech",
+        "Disease Control",
+        "Health"
+      ],
+      "source": {
+        "title": "Scientists report strong new evidence that specially bred mosquitoes can fend off dengue",
+        "url": "https://www.thehindu.com/sci-tech/health/scientists-report-strong-new-evidence-that-specially-bred-mosquitoes-can-fend-off-dengue/article71733170.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q23",
+      "question": "CJI Surya Kant recently recused himself from hearing a plea related to which major real estate developer's projects?",
+      "options": [
+        "Prestige Group",
+        "DLF",
+        "Godrej Properties",
+        "Supertech"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "CJI Surya Kant recently recused himself from hearing a plea concerning projects by the real estate developer Supertech. He cited an incidental acquaintance with one of the applicants as the reason for his recusal.",
+      "background": "Recusal is a common practice in the judiciary when a judge has a conflict of interest or an acquaintance that could raise questions about impartiality. This ensures the integrity of the judicial process.",
+      "examRelevance": "CJI Surya Kant recused himself from hearing a plea related to Supertech projects.",
+      "tags": [
+        "CJI Surya Kant",
+        "Supertech",
+        "Recusal",
+        "Supreme Court",
+        "Real Estate"
+      ],
+      "source": {
+        "title": "CJI Surya Kant recuses himself from hearing plea related to Supertech projects",
+        "url": "https://www.thehindu.com/news/national/cji-surya-kant-recuses-himself-from-hearing-plea-related-to-supertech-projects/article71733720.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q24",
+      "question": "How many children received polio drops in Telangana's five districts during the recent Pulse Polio immunisation drive?",
+      "options": [
+        "15.0 lakh",
+        "20.1 lakh",
+        "17.21 lakh",
+        "12.5 lakh"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "During the recent Pulse Polio immunisation drive in Telangana, a total of 17.21 lakh children received polio drops across five districts. These districts included Hyderabad, Rangareddy, Medchal Malkajgiri, Sangareddy, and Hanamkonda.",
+      "background": "The drive also featured a house-to-house immunisation campaign in the GHMC (Greater Hyderabad Municipal Corporation) area from November 23 to 25. Such campaigns are vital for maintaining polio-free status and ensuring widespread immunity among children.",
+      "examRelevance": "17.21 lakh children received polio drops in Telangana's five districts.",
+      "tags": [
+        "Telangana",
+        "Pulse Polio",
+        "Immunisation",
+        "Children",
+        "Health Drive"
+      ],
+      "source": {
+        "title": "17.21 lakh children receive polio drops in Telangana’s five district; house-to-house drive in GHMC from November 23 to 25",
+        "url": "https://www.thehindu.com/news/national/telangana/1721-lakh-children-receive-polio-drops-in-telanganas-five-district-house-to-house-drive-in-ghmc-from-november-23-to-25/article71732205.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q25",
+      "question": "Which Tamil Nadu Minister recently faced criticism and a complaint to the National Tiger Conservation Authority for pursuing a tiger in the Mudumalai Tiger Reserve?",
+      "options": [
+        "P.K. Sekar Babu",
+        "Ma Subramanian",
+        "Vanni Arasu",
+        "Udhayanidhi Stalin"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Tamil Nadu Social Justice Minister Vanni Arasu recently faced significant criticism and a complaint lodged with the National Tiger Conservation Authority (NTCA). The complaint sought an investigation into his alleged unauthorized entry and pursuit of a tiger within the Mudumalai Tiger Reserve.",
+      "background": "The incident raised concerns about VIP access and adherence to wildlife protection protocols in ecologically sensitive areas. The Minister claimed he followed the tiger out of curiosity and denied any wrongdoing, attributing the backlash to political reasons.",
+      "examRelevance": "Tamil Nadu Minister Vanni Arasu faced criticism for pursuing a tiger in Mudumalai Tiger Reserve.",
+      "tags": [
+        "Vanni Arasu",
+        "Mudumalai Tiger Reserve",
+        "NTCA",
+        "Wildlife Protection",
+        "Tamil Nadu"
+      ],
+      "source": {
+        "title": "Tamil Nadu Minister Vanni Arasu faces flak for pursuing tiger in Mudumalai Tiger Reserve",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/minister-vanni-arasu-faces-flak-for-pursuing-tiger-in-mudumalai-tiger-reserve/article71704393.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q26",
+      "question": "Congress veteran Digvijaya Singh is currently undertaking a nearly 1,000-kilometre march from Ujjain to which city?",
+      "options": [
+        "Prayagraj",
+        "Haridwar",
+        "Varanasi",
+        "Ayodhya"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Congress veteran Digvijaya Singh is currently undertaking a nearly 1,000-kilometre march on foot from Ujjain in Madhya Pradesh to Ayodhya in Uttar Pradesh. The yatra is reportedly against the alleged embezzlement of donations at the Ram Temple.",
+      "background": "This march by the 79-year-old former Chief Minister of Madhya Pradesh comes at a time when he is perceived to be on the sidelines of the Congress' politics in the state. It is seen as an effort to regain political relevance and highlight specific issues.",
+      "examRelevance": "Digvijaya Singh is marching from Ujjain to Ayodhya against alleged Ram Temple donation embezzlement.",
+      "tags": [
+        "Digvijaya Singh",
+        "Ujjain",
+        "Ayodhya",
+        "March",
+        "Ram Temple"
+      ],
+      "source": {
+        "title": "Digvijaya Singh marches for religion and relevance",
+        "url": "https://www.thehindu.com/news/national/madhya-pradesh/digvijaya-singh-marches-for-religion-and-relevance/article71731202.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q27",
+      "question": "Which Indian cricketer recently questioned the ICC's saliva ban and the quality of the Kookaburra ball?",
+      "options": [
+        "KL Rahul",
+        "Virat Kohli",
+        "Shubman Gill",
+        "Rohit Sharma"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "Indian cricketer Shubman Gill recently voiced his concerns about the International Cricket Council's (ICC) saliva ban and raised questions regarding the quality of the Kookaburra ball. He emphasized these points after a drawn match in Wellington.",
+      "background": "The saliva ban was implemented by the ICC to reduce the risk of COVID-19 transmission, but cricketers have since debated its impact on swing bowling. The quality of cricket balls, particularly Kookaburra, has also been a recurring topic of discussion among players and pundits.",
+      "examRelevance": "Shubman Gill questioned ICC's saliva ban and Kookaburra ball quality.",
+      "tags": [
+        "Shubman Gill",
+        "Cricket",
+        "ICC",
+        "Saliva Ban",
+        "Kookaburra Ball"
+      ],
+      "source": {
+        "title": "Shubman Gill wants ICC to revisit saliva ban, questions quality of Kookaburra ball",
+        "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-test-shubman-gill-on-saliva-ban-and-kookaburra-ball/article71733790.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q28",
+      "question": "NGO Pratham's 'Second Chance Programme' is helping which group of women in 12 states?",
+      "options": [
+        "Women farmers to adopt sustainable agriculture",
+        "Women entrepreneurs to start new businesses",
+        "Women school dropouts to appear for Class X Board exams",
+        "Women in self-help groups for financial literacy"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "NGO Pratham's 'Second Chance Programme' is a 14-year-old initiative operating in 12 states, specifically designed to help women school dropouts. The program assists them in restarting their educational journey by preparing them to appear for their Class X Board exams, ultimately aiming to direct them towards earning a livelihood.",
+      "background": "Recognizing that a significant percentage of older girls and women in India have not completed secondary education, this program focuses on providing them with an opportunity to gain foundational qualifications. It serves as a crucial step towards empowerment and economic independence.",
+      "examRelevance": "Pratham's 'Second Chance Programme' helps women school dropouts appear for Class X Board exams.",
+      "tags": [
+        "Pratham",
+        "Second Chance Programme",
+        "Women Education",
+        "School Dropouts",
+        "Class X Exams"
+      ],
+      "source": {
+        "title": "In 12 states, NGO Pratham’s Second Chance Programme is helping women school dropouts appear for their Class X Board exams",
+        "url": "https://www.thehindu.com/news/national/in-12-states-ngo-prathams-second-chance-programme-is-helping-women-school-dropouts-appear-for-their-class-x-board-exams/article71733510.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q29",
+      "question": "On November 23, elections were held in Andhra Pradesh for the posts of Deputy Mayors of 13 corporations and Vice-Chairpersons of how many municipalities?",
+      "options": [
+        "87 municipalities",
+        "75 municipalities",
+        "80 municipalities",
+        "92 municipalities"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Elections were conducted on November 23 in Andhra Pradesh for the posts of Deputy Mayors in 13 corporations and Vice-Chairpersons in 87 municipalities. The Mayors and Chairpersons for these bodies were elected directly following amendments to the municipal laws.",
+      "background": "These elections are crucial for the local governance structure in Andhra Pradesh, determining key leadership positions in urban local bodies. The amended municipal laws reflect a shift in the election process for top leadership roles.",
+      "examRelevance": "Andhra Pradesh held elections for Deputy Mayors of 13 corporations and Vice-Chairpersons of 87 municipalities on November 23.",
+      "tags": [
+        "Andhra Pradesh",
+        "Deputy Mayors",
+        "Vice-Chairpersons",
+        "Municipal Elections",
+        "Local Governance"
+      ],
+      "source": {
+        "title": "Andhra Deputy Mayors of 13 corporations, Vice-Chairpersons of 87 municipalities to be elected on November 23",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-deputy-mayors-of-13-corporations-vice-chairpersons-of-87-municipalities-to-be-elected-on-november-23/article71731525.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-23-q30",
+      "question": "Which state government recently amended its law to prohibit the display of caste-identifying signage on private vehicles?",
+      "options": [
+        "Maharashtra",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Gujarat"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Gujarat Government recently amended its law to explicitly prohibit the display of caste-identifying signage on private vehicles. This amendment includes such signs within the provisions governing advertising devices and figures displayed on vehicles.",
+      "background": "This legislative change aims to discourage the public display of caste identity, which often leads to social stratification and potential discrimination. It reflects a broader effort to promote social equality and reduce caste-based distinctions in public spaces.",
+      "examRelevance": "Gujarat Government prohibits caste-identifying signage on private vehicles.",
+      "tags": [
+        "Gujarat",
+        "Caste Signage",
+        "Private Vehicles",
+        "Law Amendment",
+        "Social Justice"
+      ],
+      "source": {
+        "title": "Gujarat Government amends law, prohibits display of caste-identifying signage on private vehicles",
+        "url": "https://www.thehindu.com/news/national/gujarat/gujarat-government-amends-law-prohibits-display-of-caste-identifying-signage-on-private-vehicles/article71733456.ece"
+      }
+    }
+  ]
+}
