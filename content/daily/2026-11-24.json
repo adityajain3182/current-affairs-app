@@ -1,0 +1,792 @@
+{
+  "id": "daily-2026-11-24",
+  "type": "daily",
+  "date": "2026-11-24",
+  "title": "Current Affairs — 24 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-24-q1",
+      "question": "An Israeli airstrike recently killed a senior Hamas security official in Gaza. Which two Israeli security services issued a joint statement regarding this strike?",
+      "options": [
+        "Shin Bet and Aman",
+        "Mossad and Aman",
+        "Mossad and Israeli Military",
+        "Shin Bet and Israeli Military"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "The Israeli military and the Shin Bet domestic security service issued a joint statement confirming they had struck a senior Hamas member in Gaza, though without identifying him by name.",
+      "background": "This strike occurred amidst ongoing conflict in the Gaza Strip between Israel and Hamas, with Israeli forces targeting key Hamas figures and infrastructure.",
+      "examRelevance": "Israeli military and Shin Bet involved in a senior Hamas official's killing in Gaza.",
+      "tags": [
+        "Israel",
+        "Hamas",
+        "Gaza",
+        "Shin Bet",
+        "Israeli Military"
+      ],
+      "source": {
+        "title": "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say",
+        "url": "https://www.thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q2",
+      "question": "Which Indian cricketer, a left-handed batsman, has recently made a compelling case for himself at the crucial No. 3 position in Test cricket?",
+      "options": [
+        "Devdutt Padikkal",
+        "Shubman Gill",
+        "Shreyas Iyer",
+        "Rishabh Pant"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Devdutt Padikkal, a lanky left-hander, has reportedly made a strong case for himself at the No. 3 position in Test cricket with his last three outings.",
+      "background": "The No. 3 position in Test cricket is considered vital for setting the innings tone. Padikkal has honed his skills in Rahul Dravid’s cricketing backyard, suggesting a strong foundation for his technique.",
+      "examRelevance": "Devdutt Padikkal is a promising left-handed batsman for India at No. 3 in Test cricket.",
+      "tags": [
+        "Devdutt Padikkal",
+        "Cricket",
+        "Test Cricket",
+        "India",
+        "Sports"
+      ],
+      "source": {
+        "title": "Padikkal fills the void for India at crucial No. 3",
+        "url": "https://www.thehindu.com/sport/cricket/padikkal-fills-the-void-for-india-at-crucial-no-3/article71738129.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q3",
+      "question": "According to the Centre's statement to the Supreme Court, what was the reason cited for the limited scope in securing the return of an Indian man serving in the Russian Army?",
+      "options": [
+        "He was a dual citizen",
+        "He had renounced Indian citizenship",
+        "He held a diplomatic passport",
+        "He was a permanent resident of Russia"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Solicitor General Tushar Mehta informed the Supreme Court that the Centre has limited scope to secure the return of a man serving in the Russian Army because he had reportedly renounced his Indian citizenship and acquired Russian nationality.",
+      "background": "Indian citizenship can be renounced voluntarily, and acquiring foreign nationality typically leads to the cessation of Indian citizenship, as per the Citizenship Act, 1955.",
+      "examRelevance": "Man serving in Russian Army renounced Indian citizenship, limiting Centre's ability to secure his return.",
+      "tags": [
+        "Indian Citizenship",
+        "Russian Army",
+        "Supreme Court",
+        "Citizenship Act",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Centre tells SC it has limited scope to secure return of man serving in Russian Army as he has renounced Indian citizenship",
+        "url": "https://www.thehindu.com/news/national/centre-tells-sc-it-has-limited-scope-to-secure-return-of-man-serving-in-russian-army-as-he-has-renounced-indian-citizenship/article71738216.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q4",
+      "question": "According to technocrat E. Sreedharan, a semi-high-speed rail project would be more cost-effective than constructing what?",
+      "options": [
+        "Elevated expressways",
+        "Underground metro networks",
+        "Additional railway tracks",
+        "New bullet train lines"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Technocrat E. Sreedharan stated that a semi-high-speed rail project would require less funding than what the Railways would need to construct third and fourth tracks parallel to the existing rail corridor.",
+      "background": "E. Sreedharan, often called the 'Metro Man', is known for his expertise in large-scale infrastructure projects, particularly in the Indian railway and metro systems. His insights often guide cost-benefit analyses in such ventures.",
+      "examRelevance": "E. Sreedharan suggests semi-high-speed rail is cheaper than additional railway tracks.",
+      "tags": [
+        "E. Sreedharan",
+        "Railways",
+        "Infrastructure",
+        "Semi-high-speed rail",
+        "Cost-effectiveness"
+      ],
+      "source": {
+        "title": "Semi-high-speed rail project to cost less than additional railway tracks: Sreedharan",
+        "url": "https://www.thehindu.com/news/national/kerala/semi-high-speed-rail-project-to-cost-less-than-additional-railway-tracks-sreedharan/article71735700.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q5",
+      "question": "Who recently returned as the CEO of Nvidia after resigning due to an alleged Chinese spy scandal?",
+      "options": [
+        "Elon Musk",
+        "Sundar Pichai",
+        "Jensen Huang",
+        "Satya Nadella"
+      ],
+      "answerIndex": 2,
+      "category": "Appointments",
+      "explanation": "Jensen Huang, who had resigned on November 12, 2026, due to an alleged Chinese spy scandal, has recently returned as the CEO of Nvidia.",
+      "background": "Nvidia is a global leader in graphics processing units (GPUs) and artificial intelligence technology. Jensen Huang co-founded Nvidia in 1993 and served as its CEO before his temporary resignation.",
+      "examRelevance": "Jensen Huang reinstated as Nvidia CEO after a scandal.",
+      "tags": [
+        "Jensen Huang",
+        "Nvidia",
+        "CEO",
+        "Appointments",
+        "Technology"
+      ],
+      "source": {
+        "title": "Jensen Huang returns as Nvidia CEO: 6 CEOs who reclaimed their top positions",
+        "url": "https://www.thehindu.com/sci-tech/technology/jensen-huang-reinstated-in-nvidia-other-ceos-who-reclaimed-positions/article71737407.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q6",
+      "question": "Union Minister Kishan Reddy announced the Centre's plan to expand de-addiction centres across the country. What is the target number of de-addiction centres to be established?",
+      "options": [
+        "1,500",
+        "500",
+        "2,000",
+        "1,000"
+      ],
+      "answerIndex": 2,
+      "category": "Schemes & Projects",
+      "explanation": "Union Minister Kishan Reddy announced that the Centre plans to expand the number of de-addiction centres from the current 300 to 2,000 across the country.",
+      "background": "This initiative aims to strengthen efforts against drug abuse and provide better support and rehabilitation facilities for individuals struggling with addiction, reflecting a broader government focus on public health and social welfare.",
+      "examRelevance": "Centre plans to expand de-addiction centres from 300 to 2,000.",
+      "tags": [
+        "Kishan Reddy",
+        "De-addiction Centres",
+        "Social Welfare",
+        "Public Health",
+        "Government Schemes"
+      ],
+      "source": {
+        "title": "Centre to strengthen border surveillance, expand de-addiction centres from 300 to 2,000: Kishan Reddy",
+        "url": "https://www.thehindu.com/news/national/telangana/centre-to-strengthen-border-surveillance-expand-de-addiction-centres-from-300-to-2000-kishan-reddy/article71737932.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q7",
+      "question": "A webinar on autoimmune conditions, scheduled for November 28, will focus on which of the following aspects?",
+      "options": [
+        "Challenges in diagnosis",
+        "Economic impact on patients",
+        "Historical prevalence",
+        "Government policy on research funding"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "The webinar on autoimmune conditions, to be held on November 28, will examine how these conditions develop, their common symptoms, the challenges in diagnosis, and current approaches to treatment and long-term management.",
+      "background": "Autoimmune conditions are a group of diseases where the body's immune system mistakenly attacks its own healthy cells. Public webinars like this aim to increase awareness and understanding among affected individuals and the general public.",
+      "examRelevance": "Webinar on November 28 focuses on diagnosis and treatment of autoimmune conditions.",
+      "tags": [
+        "Autoimmune Conditions",
+        "Webinar",
+        "Health Awareness",
+        "Medical Science",
+        "Diagnosis"
+      ],
+      "source": {
+        "title": "Webinar on autoimmune conditions to be held on November 28",
+        "url": "https://www.thehindu.com/sci-tech/health/webinar-on-autoimmune-conditions-to-be-held-on-november-28/article71734895.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q8",
+      "question": "The Kerala High Court recently granted bail to Sri Lankan national Muhammed Asmin, who was part of a transnational conspiracy. What was the objective of this conspiracy?",
+      "options": [
+        "To fund a humanitarian mission",
+        "To establish a new trade route",
+        "To promote cultural exchange",
+        "To revive the LTTE"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Kerala High Court granted bail to Sri Lankan national Muhammed Asmin, who was involved in a 'transnational conspiracy' aimed at reviving the Liberation Tigers of Tamil Eelam (LTTE).",
+      "background": "The LTTE was a Tamil militant organization that fought for an independent Tamil state in northern and eastern Sri Lanka. It was defeated in 2009, but remnants and sympathizers occasionally attempt to regroup.",
+      "examRelevance": "Kerala HC granted bail to Muhammed Asmin involved in a conspiracy to revive LTTE.",
+      "tags": [
+        "Kerala High Court",
+        "LTTE",
+        "Muhammed Asmin",
+        "National Security",
+        "Sri Lanka"
+      ],
+      "source": {
+        "title": "Kerala HC grants bail to Sri Lankan who was part of ‘transnational conspiracy’ to revive LTTE",
+        "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-grants-bail-to-sri-lankan-who-was-part-of-transnational-conspiracy-to-revive-ltte/article71737937.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q9",
+      "question": "Union Minister Amit Shah stated that the Kartarpur Corridor will be reopened once national security concerns are resolved. The corridor connects India to which country?",
+      "options": [
+        "Bangladesh",
+        "Nepal",
+        "Pakistan",
+        "Afghanistan"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Union Minister Amit Shah announced that the Kartarpur Corridor, which connects India to Pakistan, will be reopened once all national security concerns are addressed.",
+      "background": "The Kartarpur Corridor allows Indian Sikh pilgrims to visit the Gurdwara Darbar Sahib in Kartarpur, Pakistan, which is one of the holiest sites in Sikhism. It was inaugurated in 2019 but has faced intermittent closures due to various reasons, including security.",
+      "examRelevance": "Kartarpur Corridor connects India and Pakistan, to reopen after security concerns are resolved.",
+      "tags": [
+        "Kartarpur Corridor",
+        "India-Pakistan",
+        "Amit Shah",
+        "National Security",
+        "Sikh Pilgrimage"
+      ],
+      "source": {
+        "title": "Kartarpur Corridor will be reopened as soon as national security concerns are resolved, says Amit Shah",
+        "url": "https://www.thehindu.com/news/national/kartarpur-corridor-will-be-reopened-as-soon-as-national-security-concerns-are-resolved-says-amit-shah/article71737824.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q10",
+      "question": "The Delhi High Court recently ruled that all pending cases under the Juvenile Justice Act must be transferred to which specialized courts?",
+      "options": [
+        "District Courts",
+        "Family Courts",
+        "High Courts",
+        "Children’s Courts"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "A Bench of Justice Navin Chawla and Justice Arun Bhardwaj of the Delhi High Court ruled on November 23 that all pending cases under the Juvenile Justice Act must be transferred to Children’s Courts.",
+      "background": "The Juvenile Justice (Care and Protection of Children) Act, 2015, provides a framework for the protection, treatment, and rehabilitation of children in conflict with the law and children in need of care and protection. Specialized Children's Courts are crucial for ensuring child-friendly legal processes.",
+      "examRelevance": "Delhi High Court ruled pending Juvenile Justice Act cases must go to Children’s Courts.",
+      "tags": [
+        "Delhi High Court",
+        "Juvenile Justice Act",
+        "Children's Courts",
+        "Judicial Reform",
+        "Polity"
+      ],
+      "source": {
+        "title": "Delhi High Court says pending cases under Juvenile Justice Act must go to Children’s Courts",
+        "url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-says-pending-cases-under-juvenile-justice-act-must-go-to-childrens-courts/article71737917.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q11",
+      "question": "The Supreme Court recently allowed the lighting of a lamp on the 'deepathoon' at Thirupparankundram as a limited one-time arrangement. This event is associated with which festival?",
+      "options": [
+        "Karthigai Deepam",
+        "Navaratri",
+        "Diwali",
+        "Pongal"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "The Supreme Court allowed the lighting of a lamp on the 'deepathoon' at Thirupparankundram as a limited one-time arrangement during the Karthigai Deepam festival.",
+      "background": "Karthigai Deepam is an ancient Hindu festival celebrated primarily in Tamil Nadu, Kerala, and Andhra Pradesh, typically in the Tamil month of Karthigai (November/December). It involves lighting lamps to signify the victory of good over evil.",
+      "examRelevance": "Supreme Court allowed lamp lighting on 'deepathoon' at Thirupparankundram during Karthigai Deepam.",
+      "tags": [
+        "Karthigai Deepam",
+        "Thirupparankundram",
+        "Supreme Court",
+        "Art & Culture",
+        "Tamil Nadu"
+      ],
+      "source": {
+        "title": "Thirupparankundram 'deepathoon' row LIVE: Tamil Nadu BJP chief arrested, tight security in hillock on Karthigai Deepam day",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q12",
+      "question": "Mumbai Police informed the court that a trainee recorded 90 videos of sensitive installations inside which location?",
+      "options": [
+        "Army cantonment",
+        "Air Force base",
+        "Nuclear power plant",
+        "Naval dockyard"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "Mumbai Police informed the court that a trainee recorded 90 videos of sensitive installations inside the Naval dockyard.",
+      "background": "Naval dockyards are critical defence establishments housing warships, submarines, and strategic equipment, making them highly sensitive areas. Unauthorized recording or information sharing from such sites poses a significant national security risk.",
+      "examRelevance": "Trainee recorded 90 videos of sensitive installations inside Mumbai Naval dockyard.",
+      "tags": [
+        "Naval Dockyard",
+        "Mumbai Police",
+        "National Security",
+        "Defence Installations",
+        "Espionage"
+      ],
+      "source": {
+        "title": "Trainee recorded 90 videos of sensitive installations inside Naval dockyard: Mumbai Police tell court",
+        "url": "https://www.thehindu.com/news/national/trainee-recorded-90-videos-of-sensitive-installations-inside-naval-dockyard-mumbai-police-tell-court/article71737911.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q13",
+      "question": "The site of the former Pilot Theatre in Chennai is set for a ₹200-crore residential makeover. In which year was the Pilot Theatre demolished?",
+      "options": [
+        "2017",
+        "2014",
+        "2010",
+        "2020"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "The Pilot Theatre, a former landmark in Chennai, was demolished in February 2017 pursuant to court orders, following its closure in 2014 due to a family dispute. Its site is now slated for a ₹200-crore residential makeover.",
+      "background": "Old single-screen theatres in major Indian cities are increasingly being redeveloped into residential or commercial complexes due to changing entertainment consumption habits and rising real estate values.",
+      "examRelevance": "Pilot Theatre in Chennai, demolished in 2017, is undergoing a ₹200-crore residential makeover.",
+      "tags": [
+        "Pilot Theatre",
+        "Chennai",
+        "Urban Development",
+        "Real Estate",
+        "Residential Makeover"
+      ],
+      "source": {
+        "title": "Pilot Theatre site in Chennai set for ₹200-crore residential makeover",
+        "url": "https://www.thehindu.com/news/cities/chennai/pilot-theatre-site-in-royapettah-set-for-200-crore-residential-makeover/article71738006.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q14",
+      "question": "Tenders worth ₹4,299 crore have been floated for the Bikkavolu-Duvvada rail lines project. This 151-km stretch forms the northern leg of which larger corridor?",
+      "options": [
+        "Chennai-Bengaluru high-speed corridor",
+        "Nidadavolu-Duvvada quadrupling corridor",
+        "Secunderabad-Kazipet tripling corridor",
+        "Vijayawada-Guntur doubling corridor"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "Tenders worth ₹4,299 crore have been floated for the 151-km Bikkavolu-Duvvada rail lines project, which constitutes the northern leg of the Nidadavolu-Duvvada quadrupling corridor.",
+      "background": "Railway quadrupling projects involve adding two more tracks to existing double-track lines, significantly increasing line capacity and easing congestion. This project aims to improve rail connectivity around Visakhapatnam.",
+      "examRelevance": "Bikkavolu-Duvvada rail project (₹4,299 cr) is part of Nidadavolu-Duvvada quadrupling corridor.",
+      "tags": [
+        "Railway Projects",
+        "Andhra Pradesh",
+        "Visakhapatnam",
+        "Nidadavolu-Duvvada",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "Tenders floated for ₹4,299-crore Bikkavolu-Duvvada rail lines to ease congestion around Visakhapatnam",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/tenders-floated-for-4299-crore-bikkavolu-duvvada-rail-lines-to-ease-congestion-around-visakhapatnam/article71737568.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q15",
+      "question": "A delegation led by the Karnataka Chief Minister recently visited a waste-to-energy plant in Osaka. What is the power generation capacity of this plant?",
+      "options": [
+        "50 MW",
+        "25 MW",
+        "32 MW",
+        "40 MW"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "The Karnataka Chief Minister-led delegation visited a waste-to-energy plant in Osaka, Japan, which processes up to 900 tonnes of municipal solid waste per day and has a power generation capacity of 32 MW.",
+      "background": "Waste-to-energy plants convert municipal solid waste into electricity or heat, offering a solution for waste management and renewable energy generation. Such visits by state delegations aim to explore and adopt sustainable technologies.",
+      "examRelevance": "Osaka waste-to-energy plant visited by Karnataka CM has 32 MW power generation capacity.",
+      "tags": [
+        "Waste-to-Energy",
+        "Osaka",
+        "Karnataka CM",
+        "D.K. Shivakumar",
+        "Renewable Energy"
+      ],
+      "source": {
+        "title": "Karnataka Chief Minister-led delegation visits Osaka waste-to-energy plant",
+        "url": "https://www.thehindu.com/news/national/karnataka/dk-shivakumar-japan-visit-karnataka-chief-minister-led-delegation-visits-osaka-waste-to-energy-plant/article71737785.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q16",
+      "question": "During his Japan visit, Karnataka CM D.K. Shivakumar promised support for Toyota's vehicle manufacturing expansion plans in the state. What production capacity is Toyota looking to scale up to in the near future?",
+      "options": [
+        "250,000 vehicles",
+        "One million vehicles",
+        "750,000 vehicles",
+        "500,000 vehicles"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "During his Japan visit, Karnataka CM D.K. Shivakumar promised support for Toyota's plans to scale its vehicle production capacity to one million in the near future in the state.",
+      "background": "Toyota is a major global automotive manufacturer with significant operations in India, particularly in Karnataka. Expansion plans signify increased foreign investment, job creation, and economic growth for the state.",
+      "examRelevance": "Toyota plans to scale vehicle production to one million in Karnataka with CM D.K. Shivakumar's support.",
+      "tags": [
+        "Toyota",
+        "Karnataka",
+        "D.K. Shivakumar",
+        "Manufacturing",
+        "Foreign Investment"
+      ],
+      "source": {
+        "title": "Karnataka CM’s Japan visit: D.K. Shivakumar promises support for Toyota’s vehicle manufacturing expansion plans in State",
+        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cms-japan-visit-dk-shivakumar-promises-support-for-toyotas-vehicle-manufacturing-expansion-plans-in-state/article71733691.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q17",
+      "question": "The APSCHE will hold 10 regional workshops on the All-India Survey on Higher Education (AISHE) data. According to APSCHE Vice-Chairperson K. Ratna Shiela Mani, accurate and timely AISHE data matters for which accreditations and rankings?",
+      "options": [
+        "NAAC and NIRF",
+        "CBSE and ICSE",
+        "UGC and AICTE",
+        "NITI Aayog and RBI"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "The APSCHE (Andhra Pradesh State Council of Higher Education) will hold 10 regional workshops on the All-India Survey on Higher Education (AISHE) data. APSCHE Vice-Chairperson K. Ratna Shiela Mani stated that accurate and timely AISHE data is crucial for accreditation and rankings such as NAAC (National Assessment and Accreditation Council) and NIRF (National Institutional Ranking Framework).",
+      "background": "AISHE is an annual survey conducted by the Ministry of Education to collect detailed information on higher education in India. NAAC and NIRF are key bodies for assessing and ranking higher education institutions, influencing their reputation and funding.",
+      "examRelevance": "APSCHE states AISHE data is crucial for NAAC and NIRF accreditation/rankings.",
+      "tags": [
+        "APSCHE",
+        "AISHE",
+        "NAAC",
+        "NIRF",
+        "Higher Education",
+        "Andhra Pradesh"
+      ],
+      "source": {
+        "title": "APSCHE to hold 10 regional workshops on All-India Survey on Higher Education data",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/apsche-to-hold-10-regional-workshops-on-all-india-survey-on-higher-education-data/article71737701.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q18",
+      "question": "What is the Non-Performing Assets (NPA) figure pegged for Telangana's agriculture sector?",
+      "options": [
+        "₹6,800 crore",
+        "₹5,500 crore",
+        "₹8,100 crore",
+        "₹7,304 crore"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Telangana's agriculture sector has Non-Performing Assets (NPAs) pegged at ₹7,304 crore.",
+      "background": "NPAs in the agriculture sector indicate loans that are not being repaid, posing a challenge to the financial health of banks and the overall agricultural economy. High NPAs can impact credit availability for farmers.",
+      "examRelevance": "Telangana's agriculture sector has NPAs pegged at ₹7,304 crore.",
+      "tags": [
+        "Telangana",
+        "Agriculture",
+        "NPA",
+        "Economy",
+        "Financial Health"
+      ],
+      "source": {
+        "title": "Telangana’s agriculture sector NPAs pegged at ₹7,304 crore",
+        "url": "https://www.thehindu.com/news/national/telangana/telanganas-agriculture-sector-npas-pegged-at-7304-crore/article71737871.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q19",
+      "question": "The BMRCL recently facilitated the transportation of a donor heart between which two locations in Bengaluru?",
+      "options": [
+        "Indiranagar to Jayanagar",
+        "Majestic to Baiyappanahalli",
+        "MG Road to Electronic City",
+        "Goraguntepalya to Bommasandra"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "The Bengaluru Metro Rail Corporation Limited (BMRCL) recently facilitated the transportation of a donor heart from Goraguntepalya to Bommasandra. This was the eighth instance of human-organ transportation by Namma Metro and the fifth time a donor heart was transported.",
+      "background": "Rapid and efficient transportation is critical for organ transplants to ensure the viability of the donor organ. Using metro networks for this purpose helps bypass road traffic, significantly reducing travel time.",
+      "examRelevance": "Bengaluru Metro transported a donor heart from Goraguntepalya to Bommasandra.",
+      "tags": [
+        "Bengaluru Metro",
+        "Organ Transport",
+        "Donor Heart",
+        "Medical Logistics",
+        "Namma Metro"
+      ],
+      "source": {
+        "title": "Bengaluru Metro facilitates transportation of donor heart from Goraguntepalya to Bommasandra",
+        "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-metro-facilitates-transportation-of-donor-heart-from-goraguntepalya-to-bommasandra/article71737996.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q20",
+      "question": "Abhijeet Dipke, representing CJP, recently stated that the CJP will not stand with any political party in the upcoming UP elections. What does CJP stand for in this context?",
+      "options": [
+        "Civic Joint Project",
+        "Citizens' Justice Party",
+        "Central Journalists' Panel",
+        "Cultural Youth Parliament"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Abhijeet Dipke announced that the Citizens' Justice Party (CJP) will not align with any political party in the upcoming Uttar Pradesh elections, hoping for a youth-centric election not tied to caste and religion.",
+      "background": "Uttar Pradesh, with its large electorate, is a politically crucial state in India. Political parties often form alliances or contest independently based on strategic considerations for state assembly elections.",
+      "examRelevance": "Citizens' Justice Party (CJP) will not ally with any party in UP elections.",
+      "tags": [
+        "CJP",
+        "Citizens' Justice Party",
+        "Abhijeet Dipke",
+        "UP Elections",
+        "Political Parties"
+      ],
+      "source": {
+        "title": "CJP won't stand with any political party in upcoming UP elections, says Abhijeet Dipke",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/cjp-wont-stand-with-any-political-party-in-upcoming-up-elections-says-abhijeet-dipke/article71738185.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q21",
+      "question": "A bomb threat email, which ended with the slogan “Khalistan Zindabad”, recently targeted a concert by which artist in Bengaluru?",
+      "options": [
+        "A.R. Rahman",
+        "Shreya Ghoshal",
+        "Diljit Dosanjh",
+        "Badshah"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "A bomb threat email, concluding with the slogan “Khalistan Zindabad”, targeted Diljit Dosanjh’s concert in Bengaluru, also threatening Madavara Metro Station. North Cybercrime Police have registered an FIR.",
+      "background": "Bomb threats, especially those linked to specific slogans, are taken seriously by law enforcement agencies as they can cause public panic and disruption. Khalistan refers to a proposed independent state for Sikhs, which has been associated with extremist movements.",
+      "examRelevance": "Diljit Dosanjh's Bengaluru concert received a bomb threat email with 'Khalistan Zindabad' slogan.",
+      "tags": [
+        "Diljit Dosanjh",
+        "Bengaluru",
+        "Bomb Threat",
+        "Khalistan Zindabad",
+        "Concert Security"
+      ],
+      "source": {
+        "title": "Bomb threat email targets Diljit Dosanjh’s Bengaluru concert; North Cybercrime Police register FIR",
+        "url": "https://www.thehindu.com/news/cities/bangalore/bomb-threat-email-targets-diljit-dosanjhs-bengaluru-concert-north-cybercrime-police-register-fir/article71737622.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q22",
+      "question": "Prohibitory orders under Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) were recently promulgated across Madurai district to tighten security for which festival?",
+      "options": [
+        "Mahamaham",
+        "Thaipusam",
+        "Karthigai Deepam",
+        "Chithirai Festival"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "Security was tightened in Madurai for the Thirupparankundram Karthigai Deepam festival, with prohibitory orders promulgated under Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS) across the district.",
+      "background": "The Bharatiya Nagarik Suraksha Sanhita (BNSS) is a new criminal procedure code in India. Prohibitory orders under such sections are typically issued to prevent unlawful assemblies and maintain public order during sensitive events or festivals.",
+      "examRelevance": "Prohibitory orders under BNSS Section 163 issued in Madurai for Karthigai Deepam festival.",
+      "tags": [
+        "Karthigai Deepam",
+        "Madurai",
+        "BNSS",
+        "Prohibitory Orders",
+        "Festival Security"
+      ],
+      "source": {
+        "title": "Security tightened in Madurai for Thirupparankundram Karthigai Deepam festival",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/security-tightened-in-madurai-amid-tension-over-thirupparankundram-deepam/article71737498.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q23",
+      "question": "The Supreme Court recently ruled that a criminal with a previous conviction cannot be granted bail solely on the strength of the right to speedy trial, particularly when involved in which type of offense?",
+      "options": [
+        "Traffic violation",
+        "Petty theft",
+        "Heinons offense",
+        "Property dispute"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court ruled that while the right to a speedy trial is a facet of Article 21, it cannot be the sole basis for granting bail to a criminal with a previous conviction, especially when the accused is involved in committing a heinous offense.",
+      "background": "Article 21 of the Indian Constitution guarantees the right to life and personal liberty, which includes the right to a speedy trial. However, courts often balance individual rights against societal interests, especially in cases of serious crimes and repeat offenders.",
+      "examRelevance": "Supreme Court ruled bail for criminals with previous convictions in heinous offenses cannot solely rely on speedy trial.",
+      "tags": [
+        "Supreme Court",
+        "Speedy Trial",
+        "Bail",
+        "Heinons Offense",
+        "Article 21",
+        "Criminal Justice"
+      ],
+      "source": {
+        "title": "Criminal with previous conviction can't be given bail only on strength of right to speedy trial: Supreme Court",
+        "url": "https://www.thehindu.com/news/national/criminal-with-previous-conviction-cant-be-given-bail-only-on-strength-of-right-to-speedy-trial-supreme-court/article71737821.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q24",
+      "question": "Iranian singer Parastoo Ahmadi and her team were recently subjected to flogging and banned from artistic activities. This incident occurred in which country?",
+      "options": [
+        "Afghanistan",
+        "Saudi Arabia",
+        "Iran",
+        "United Arab Emirates"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Iranian singer Parastoo Ahmadi and four members of her team were subjected to flogging and handed two-year bans on artistic and musical activities and travel in Iran.",
+      "background": "Iran's legal system is based on Islamic law, and strict interpretations can lead to severe penalties for actions deemed to violate moral or religious codes, including those related to artistic expression. Human rights organizations frequently criticize such punishments.",
+      "examRelevance": "Iranian singer Parastoo Ahmadi and team were flogged and banned from artistic activities in Iran.",
+      "tags": [
+        "Iran",
+        "Parastoo Ahmadi",
+        "Human Rights",
+        "Artistic Freedom",
+        "Flogging"
+      ],
+      "source": {
+        "title": "Iran carries out flogging of singer and her team, Iranian website says",
+        "url": "https://www.thehindu.com/news/international/iran-carries-out-flogging-of-singer-and-her-team-iranian-website-says/article71737731.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q25",
+      "question": "CJP’s Saurav Das was recently stopped at Delhi airport due to a notice from which passport office?",
+      "options": [
+        "Chennai Regional Passport Office",
+        "Kolkata Regional Passport Office",
+        "Bengaluru Regional Passport Office",
+        "Mumbai Regional Passport Office"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "CJP’s Saurav Das was stopped at Delhi airport due to a notice issued by the Chennai Regional Passport Office, which was served to him via email on November 23.",
+      "background": "Passport offices are responsible for issuing and regulating passports. Notices or orders from these offices can lead to travel restrictions, especially if there are ongoing investigations or administrative issues related to an individual's passport.",
+      "examRelevance": "Saurav Das stopped at Delhi airport due to a notice from Chennai Regional Passport Office.",
+      "tags": [
+        "Saurav Das",
+        "CJP",
+        "Passport Office",
+        "Delhi Airport",
+        "Chennai"
+      ],
+      "source": {
+        "title": "Chennai Regional Passport Office notice led to CJP’s Saurav Das being stopped at Delhi airport",
+        "url": "https://www.thehindu.com/news/national/cjp-saurav-das-stopped-delhi-airport-passport-november-24-2026/article71737903.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q26",
+      "question": "The Delhi government has received approval for ₹1,471 crore for two sections of an 8 km elevated corridor, planning 4 flyovers on which traffic-hit road?",
+      "options": [
+        "NH-24",
+        "Outer Ring Road",
+        "Ring Road",
+        "MB Road"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Delhi government has received approval for ₹1,471 crore for two sections of an 8 km elevated corridor, which includes planning 4 flyovers on the traffic-hit MB Road.",
+      "background": "Urban infrastructure projects like flyovers and elevated corridors are crucial for decongesting traffic in metropolitan areas. Delhi frequently undertakes such projects to improve connectivity and reduce commuting times.",
+      "examRelevance": "Delhi government approved ₹1,471 crore for 4 flyovers on MB Road as part of an 8 km elevated corridor.",
+      "tags": [
+        "Delhi",
+        "MB Road",
+        "Flyovers",
+        "Elevated Corridor",
+        "Urban Infrastructure"
+      ],
+      "source": {
+        "title": "4 flyovers planned on Delhi's traffic-hit road",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/roadways/4-flyovers-planned-on-delhis-traffic-hit-mb-road-govt-gets-rs-1471-crore-approval-for-two-sections-of-the-8-km-elevated-corridor/articleshow/136126715.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q27",
+      "question": "VCK chief Thirumavalavan recently visited the razed home of former LTTE chief Prabhakaran in which country?",
+      "options": [
+        "Nepal",
+        "Sri Lanka",
+        "Maldives",
+        "Myanmar"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "VCK chief Thirumavalavan recently visited the razed home of former LTTE chief Prabhakaran in Sri Lanka.",
+      "background": "Velupillai Prabhakaran was the founder and leader of the Liberation Tigers of Tamil Eelam (LTTE), a militant organization that waged a civil war in Sri Lanka. His home, like many sites associated with the conflict, holds symbolic significance.",
+      "examRelevance": "VCK chief Thirumavalavan visited former LTTE chief Prabhakaran's razed home in Sri Lanka.",
+      "tags": [
+        "VCK",
+        "Thirumavalavan",
+        "LTTE",
+        "Prabhakaran",
+        "Sri Lanka"
+      ],
+      "source": {
+        "title": "VCK chief Thirumavalavan visits former LTTE chief Prabhakaran’s razed home in Sri Lanka",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/vck-chief-thirumavalavan-visits-former-ltte-chief-prabhakarans-razed-home-in-sri-lanka/article71732023.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q28",
+      "question": "The de-notification of MSMER-2023 aims to remove overlapping procedures in medical education. What does MSMER stand for in this context?",
+      "options": [
+        "Medical Science Education Review",
+        "Medical Services and Education Reforms",
+        "Medical Standards and Ethical Research",
+        "Medical Students' Regulations"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "The de-notification of MSMER-2023 (Medical Students' Regulations-2023) aims to eliminate overlapping procedures, with the goal of safeguarding standards of medical education.",
+      "background": "Regulations in medical education are crucial for maintaining quality and ensuring standardized training for future healthcare professionals. Changes to these regulations often seek to streamline processes while upholding academic and ethical standards.",
+      "examRelevance": "MSMER-2023 stands for Medical Students' Regulations, de-notified to remove overlapping procedures.",
+      "tags": [
+        "MSMER-2023",
+        "Medical Education",
+        "Regulations",
+        "De-notification",
+        "Science & Tech"
+      ],
+      "source": {
+        "title": "De-notification of MSMER-2023 removes overlapping procedures, but will it safeguard standards of medical education?",
+        "url": "https://www.thehindu.com/education/de-notification-of-msmer-2023-eliminates-overlapping-procedures-but-will-it-safeguard-the-standards-of-medical-education/article71639974.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q29",
+      "question": "A fake paneer factory was recently busted in Raebareli, Uttar Pradesh, for allegedly using what to make adulterated cheese?",
+      "options": [
+        "Plastic",
+        "Detergent",
+        "Sand",
+        "Sawdust"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "A fake paneer factory was recently busted in Raebareli, Uttar Pradesh, where detergent, chemicals, and oil were allegedly used to make adulterated cheese.",
+      "background": "Food adulteration is a serious public health concern, especially with widely consumed dairy products like paneer. Such busts highlight the ongoing efforts by authorities to curb illegal food manufacturing practices.",
+      "examRelevance": "Fake paneer factory busted in Raebareli for using detergent and chemicals.",
+      "tags": [
+        "Fake Paneer",
+        "Raebareli",
+        "Food Adulteration",
+        "Detergent",
+        "Public Health"
+      ],
+      "source": {
+        "title": "Fake paneer factory busted in Raebareli using detergent",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/fake-paneer-factory-raided-in-raebareli-where-detergent-chemicals-and-oil-were-allegedly-used-to-make-adulterated-cheese/articleshow/136118599.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-24-q30",
+      "question": "Union Minister Piyush Goyal announced the dispatch of the first 63-tonne shipment of frozen vegetables from Farrukhabad, Uttar Pradesh, to which country?",
+      "options": [
+        "Qatar",
+        "Oman",
+        "Saudi Arabia",
+        "UAE"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Union Minister Piyush Goyal announced the dispatch of the first 63-tonne shipment of frozen vegetables from Farrukhabad, Uttar Pradesh, to Qatar.",
+      "background": "This development is significant for Uttar Pradesh's food processing industry, indicating growth in agricultural exports and potentially opening new international markets for local produce.",
+      "examRelevance": "First 63-tonne shipment of frozen vegetables from Farrukhabad, UP, dispatched to Qatar.",
+      "tags": [
+        "Piyush Goyal",
+        "Uttar Pradesh",
+        "Frozen Vegetables",
+        "Exports",
+        "Qatar",
+        "Food Processing"
+      ],
+      "source": {
+        "title": "Piyush Goyal shares good news for UP",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/piyush-goyal-has-good-news-for-ups-food-processing-industry-as-first-63-tonne-shipment-of-frozen-vegetables-from-farrukhabad-is-dispatched-to-qatar/articleshow/136126177.cms"
+      }
+    }
+  ]
+}
