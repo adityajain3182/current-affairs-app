@@ -1,0 +1,779 @@
+{
+  "id": "daily-2026-11-25",
+  "type": "daily",
+  "date": "2026-11-25",
+  "title": "Current Affairs — 25 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-25-q1",
+      "question": "According to leaked documents, FIFA President Gianni Infantino proposed a 96-year private equity plan for which major event?",
+      "options": [
+        "Asian Games",
+        "Commonwealth Games",
+        "Olympic Games",
+        "World Cup"
+      ],
+      "answerIndex": 3,
+      "category": "International",
+      "explanation": "Leaked FIFA documents, including an in-house risk assessment, revealed FIFA President Gianni Infantino's proposal for a 96-year private equity plan for the World Cup.",
+      "background": "This plan involves private equity investment for the football World Cup, raising concerns among FIFA's own finance officials who were not directly privy to its construction.",
+      "examRelevance": "FIFA President Gianni Infantino proposed a 96-year private equity plan for the World Cup.",
+      "tags": [
+        "FIFA",
+        "Gianni Infantino",
+        "World Cup",
+        "Private Equity"
+      ],
+      "source": {
+        "title": "Leaked FIFA documents show Infantino’s 96-year private equity plan for World Cup",
+        "url": "https://www.thehindu.com/sport/football/leaked-fifa-documents-show-infantinos-96-year-private-equity-plan-for-world-cup/article71741829.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q2",
+      "question": "Which Ministry released the provisional Service Producer Price Indices (PPI) for the second quarter of 2026-27, reporting a 35% inflation in air passenger services?",
+      "options": [
+        "Ministry of Civil Aviation",
+        "Ministry of Commerce and Industry",
+        "Ministry of Statistics and Programme Implementation",
+        "Ministry of Finance"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "The Commerce and Industry Ministry released the provisional Service Producer Price Indices (PPI) for the second quarter (Q2) of 2026-27, indicating a 35% inflation in air passenger services.",
+      "background": "The Service Producer Price Indices (PPI) measure the average change over time in the selling prices received by domestic producers for their output. The report also noted deflation in banking and securities transactions.",
+      "examRelevance": "Ministry of Commerce and Industry released Service Producer Price Indices (PPI); air passenger services saw 35% inflation in Q2 2026-27.",
+      "tags": [
+        "Service Producer Price Indices",
+        "PPI",
+        "Commerce and Industry Ministry",
+        "Inflation"
+      ],
+      "source": {
+        "title": "Air passenger services see 35% inflation in Q2; banking, securities transaction witness deflation",
+        "url": "https://www.thehindu.com/business/Economy/air-passenger-services-see-35-inflation-in-q2-banking-securities-transaction-witness-deflation/article71741711.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q3",
+      "question": "Who is set to step down as the CEO of Flipkart, with Chief Product and Technology Officer Balaji Thiagarajan overseeing operations in the interim?",
+      "options": [
+        "Binny Bansal",
+        "Sudarshan Venu",
+        "Sachin Bansal",
+        "Kalyan Krishnamurthy"
+      ],
+      "answerIndex": 3,
+      "category": "Appointments",
+      "explanation": "Kalyan Krishnamurthy is set to step down as the Chief Executive Officer (CEO) of Flipkart. In the interim, Chief Product and Technology Officer Balaji Thiagarajan and the Flipkart board will oversee operations.",
+      "background": "Flipkart is an Indian e-commerce company, headquartered in Bengaluru, Karnataka, India. It was founded by Sachin Bansal and Binny Bansal in 2007. This leadership change marks a significant development for the company.",
+      "examRelevance": "Kalyan Krishnamurthy is stepping down as Flipkart CEO.",
+      "tags": [
+        "Flipkart",
+        "Kalyan Krishnamurthy",
+        "CEO",
+        "Balaji Thiagarajan"
+      ],
+      "source": {
+        "title": "Kalyan Krishnamurthy to step down as Flipkart CEO",
+        "url": "https://www.thehindu.com/business/Industry/kalyan-krishnamurthy-to-step-down-as-flipkart-ceo/article71741751.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q4",
+      "question": "The upcoming Khelo India event is scheduled to be held in which Indian state from December 11 to 22?",
+      "options": [
+        "Karnataka",
+        "Kerala",
+        "Telangana",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "The Khelo India event is being set to be held in Telangana from December 11 to 22. Telangana Chief Minister Revanth Reddy has appointed district in-charges for the sports event.",
+      "background": "Khelo India is a national programme for the development of sports in India. It aims to revive the sports culture at the grass-root level by building a strong framework for all sports played in the country and establish India as a great sporting nation.",
+      "examRelevance": "Khelo India event to be held in Telangana from December 11 to 22.",
+      "tags": [
+        "Khelo India",
+        "Telangana",
+        "Sports Event",
+        "Revanth Reddy"
+      ],
+      "source": {
+        "title": "Stage being set for Khelo India in Telangana from December 11 to 22",
+        "url": "https://www.thehindu.com/news/national/telangana/stage-being-set-for-khelo-india-in-telangana-from-december-11-to-22/article71741820.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q5",
+      "question": "The Madras High Court recently passed a 'John Doe' order regarding the lighting of a lamp on a hillock, restraining anyone from violating a Supreme Court order. This pertains to which temple town?",
+      "options": [
+        "Kanchipuram",
+        "Madurai",
+        "Chidambaram",
+        "Rameshwaram"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Madras High Court passed a 'John Doe' order, restraining anyone from violating the November 20 Supreme Court order which allowed the lighting of the lamp on the Thirupparankundram hillock as a 'limited one-time arrangement' only. Thirupparankundram is near Madurai.",
+      "background": "The 'John Doe' order is a legal injunction used to prevent infringement of rights by unknown persons. The controversy revolves around the traditional lamp-lighting ceremony at Thirupparankundram hill.",
+      "examRelevance": "Madras High Court issued 'John Doe' order regarding Thirupparankundram lamp lighting.",
+      "tags": [
+        "Madras High Court",
+        "John Doe Order",
+        "Thirupparankundram",
+        "Supreme Court"
+      ],
+      "source": {
+        "title": "Thirupparankundram Deepathoon row: What does John Doe order passed by Madras HC mean?",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/thriupparankundram-deepathoon-tamil-nadu-john-doe-order-explained/article71741283.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q6",
+      "question": "The Kerala High Court recently extended a stay on a probe against Chief Minister Pinarayi Vijayan and his kin in which case?",
+      "options": [
+        "Palmolein import case",
+        "SNC-Lavalin case",
+        "Solar Panel Scam",
+        "CMRL-Exalogic payoff case"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Kerala High Court extended the stay on a probe against Chief Minister Pinarayi Vijayan, his daughter T. Veena, and son-in-law and former Public Works Minister P.A. Mohamed Riyas in the CMRL-Exalogic payoff case.",
+      "background": "The court was considering appeals by Vijayan and his family members against a Single Bench order that had directed the registration of an FIR in the case. The case involves allegations of illicit payments.",
+      "examRelevance": "Kerala HC extended stay on probe in CMRL-Exalogic payoff case against Pinarayi Vijayan and kin.",
+      "tags": [
+        "Kerala High Court",
+        "Pinarayi Vijayan",
+        "CMRL-Exalogic",
+        "Corruption Probe"
+      ],
+      "source": {
+        "title": "CMRL-Exalogic payoff case: Kerala HC extends stay on probe against Pinarayi Vijayan, kin",
+        "url": "https://www.thehindu.com/news/national/kerala/cmrl-exalogic-payoff-case-kerala-hc-extends-stay-on-probe-against-pinarayi-vijayan-kin/article71741575.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q7",
+      "question": "The Samajwadi Party (SP) recently announced a list of five candidates for the upcoming elections in which Indian state?",
+      "options": [
+        "Bihar",
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Hours after a meeting between the Congress and the Samajwadi Party (SP) on November 24, 2026, the SP announced its list of five candidates for the elections in Uttar Pradesh (U.P.).",
+      "background": "This move by the SP, a member of the INDIA bloc, came as a surprise to the Congress, which expressed that it 'should have avoided' such an announcement while alliance talks were ongoing.",
+      "examRelevance": "Samajwadi Party announced candidates for Uttar Pradesh elections.",
+      "tags": [
+        "Samajwadi Party",
+        "Uttar Pradesh",
+        "State Elections",
+        "INDIA bloc"
+      ],
+      "source": {
+        "title": "‘Should have avoided’: Congress on SP declaring list of five candidates for U.P. polls",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/should-have-avoided-congress-on-sp-declaring-list-of-five-candidates-for-up-polls/article71741782.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q8",
+      "question": "Primary Ciliary Dyskinesia (PCD) is a rare genetic disorder that primarily affects which part of the human body?",
+      "options": [
+        "Cilia in the respiratory tract",
+        "Nervous system",
+        "Digestive system",
+        "Cardiovascular system"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "Primary Ciliary Dyskinesia (PCD) is a rare genetic disorder that affects the cilia, which are tiny hair-like structures that help move mucus and other particles out of the respiratory tract. When cilia do not function effectively, mucus builds up, increasing the risk of recurrent infections.",
+      "background": "Cilia are essential for protecting the lungs from inhaled pathogens and irritants. Dysfunction of cilia in PCD can lead to chronic respiratory problems, including bronchiectasis and recurrent sinus infections.",
+      "examRelevance": "Primary Ciliary Dyskinesia (PCD) is a genetic disorder affecting cilia in the respiratory tract.",
+      "tags": [
+        "Primary Ciliary Dyskinesia",
+        "PCD",
+        "Genetic Disorder",
+        "Cilia",
+        "Respiratory System"
+      ],
+      "source": {
+        "title": "All you need to know about: Primary ciliary dyskinesia",
+        "url": "https://www.thehindu.com/sci-tech/health/all-you-need-to-know-about-primary-ciliary-dyskinesia/article71727755.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q9",
+      "question": "The Supreme Court recently set aside an order for CBI and ED enquiries into a DA complaint against Rahul Gandhi, which was issued by which High Court?",
+      "options": [
+        "Calcutta High Court",
+        "Allahabad High Court",
+        "Delhi High Court",
+        "Bombay High Court"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court set aside an order issued by the Allahabad High Court that called for CBI and ED enquiries into a disproportionate assets (DA) complaint against Congress leader Rahul Gandhi. The top court also directed that Rahul Gandhi be impleaded as a party in the High Court case.",
+      "background": "The case involves allegations of disproportionate assets against Rahul Gandhi. The Supreme Court's decision means that the High Court's directive for federal agency probes is overturned, and the legal process will now involve Gandhi as a direct party.",
+      "examRelevance": "Supreme Court set aside Allahabad High Court order for CBI, ED enquiries into DA complaint against Rahul Gandhi.",
+      "tags": [
+        "Supreme Court",
+        "Allahabad High Court",
+        "Rahul Gandhi",
+        "CBI",
+        "ED"
+      ],
+      "source": {
+        "title": "Supreme Court sets aside Allahabad High Court order for CBI, ED enquiries into DA complaint against Rahul Gandhi",
+        "url": "https://www.thehindu.com/news/national/supreme-court-sets-aside-allahabad-high-court-order-for-cbi-ed-enquiries-into-da-complaint-against-rahul-gandhi/article71741683.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q10",
+      "question": "According to the DGP, 30 missing terrorists exfiltrated to Pakistan for arms training from which district in Jammu & Kashmir?",
+      "options": [
+        "Poonch",
+        "Reasi",
+        "Rajouri",
+        "Kathua"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "The DGP stated that 30 missing terrorists hailing from Mahore and Chassana in Reasi district, missing since 1991 to 2003, had crossed over to Pakistan for arms training with the intent to disturb peace in India.",
+      "background": "This information was received by the Mahore Police Station through reliable sources. Such exfiltration for arms training is a recurring security concern in the region, highlighting cross-border terrorism threats.",
+      "examRelevance": "30 missing terrorists from Reasi district exfiltrated to Pakistan.",
+      "tags": [
+        "Reasi",
+        "Terrorists",
+        "Pakistan",
+        "Jammu & Kashmir",
+        "Cross-border Terrorism"
+      ],
+      "source": {
+        "title": "30 missing terrorists from Reasi exfiltrated to Pakistan for arms training, disturb peace in India: DGP",
+        "url": "https://www.thehindu.com/news/national/30-missing-terrorists-from-reasi-exfiltrated-to-pakistan-for-arms-training-disturb-peace-in-india-dgp/article71741783.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q11",
+      "question": "What does 'SIR' stand for, in the context of recent issues raised by the INDIA bloc, protests, and concerns over denial of basic facilities?",
+      "options": [
+        "State Infrastructure Reforms",
+        "Systematic Information Registry",
+        "Special Intensive Revision",
+        "Standard Industrial Regulations"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "In the context of recent political and social issues, 'SIR' stands for Special Intensive Revision. This refers to an exercise, particularly in West Bengal, where names have been deleted from lists, leading to denial of basic facilities and questions from political parties.",
+      "background": "The INDIA bloc has posed 48 questions to the Election Commission over SIR, and there have been protests and concerns, including an infant being denied a birth certificate due to the father's name being deleted in SIR. The Jharkhand Assembly also moved a resolution against SIR.",
+      "examRelevance": "SIR stands for Special Intensive Revision in the context of electoral rolls/citizenship.",
+      "tags": [
+        "SIR",
+        "Special Intensive Revision",
+        "INDIA bloc",
+        "Election Commission",
+        "West Bengal"
+      ],
+      "source": {
+        "title": "Why has the INDIA bloc posed 48 questions to the Election Commission over SIR?",
+        "url": "https://www.thehindu.com/news/national/why-has-the-india-bloc-posed-48-questions-to-the-election-commission-over-sir/article71718779.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q12",
+      "question": "For the 2027 IPL auction, how many overseas players from how many different countries have registered?",
+      "options": [
+        "320 players from 20 countries",
+        "281 players from 17 countries",
+        "300 players from 18 countries",
+        "250 players from 15 countries"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "In total, 281 overseas players from 17 countries have registered for the 2027 IPL auction. Along with 939 Indian players, the total number of registered players stands at 1,220.",
+      "background": "Australia and South Africa lead the overseas registrations, indicating a strong international presence in the upcoming Indian Premier League season. The IPL auction is a major annual event where franchises bid for players to form their teams.",
+      "examRelevance": "281 overseas players from 17 countries registered for 2027 IPL auction.",
+      "tags": [
+        "IPL Auction",
+        "Cricket",
+        "Overseas Players",
+        "IPL 2027"
+      ],
+      "source": {
+        "title": "2027 IPL auction: Australia, South Africa lead overseas registrations",
+        "url": "https://www.thehindu.com/sport/cricket/indian-premier-league-2027-auction-players-registration/article71741569.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q13",
+      "question": "The Supreme Court recently deferred the interim bail pleas of Umar Khalid and Sharjeel Imam, pending a larger Bench ruling on bail curbs under which act?",
+      "options": [
+        "Maharashtra Control of Organised Crime Act (MCOCA)",
+        "Narcotic Drugs and Psychotropic Substances Act (NDPS Act)",
+        "Unlawful Activities (Prevention) Act (UAPA)",
+        "Prevention of Money Laundering Act (PMLA)"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court deferred the interim bail pleas of activists Umar Khalid and Sharjeel Imam, awaiting a larger Bench ruling on bail curbs imposed under the Unlawful Activities (Prevention) Act (UAPA).",
+      "background": "Both activists have challenged a Delhi High Court ruling that rejected their fresh bail pleas, arguing that their case is still at the stage of framing charges and the trial has not yet commenced. The UAPA is a stringent anti-terrorism law.",
+      "examRelevance": "SC deferred bail pleas of Umar Khalid, Sharjeel Imam pending ruling on UAPA bail curbs.",
+      "tags": [
+        "Supreme Court",
+        "Umar Khalid",
+        "Sharjeel Imam",
+        "UAPA",
+        "Bail Pleas"
+      ],
+      "source": {
+        "title": "SC defers Umar Khalid, Sharjeel Imam’s interim bail pleas pending larger Bench ruling on UAPA bail curbs",
+        "url": "https://www.thehindu.com/news/national/sharjeel-imam-umar-khalid-bail-supreme-court-notice-to-delhi-police-on-pleas-in-uapa-delhi-riots-case/article71741295.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q14",
+      "question": "Who recently scored 112 runs off 56 balls, including 7 fours and 9 sixes, for Railways against Jammu & Kashmir in a match?",
+      "options": [
+        "Priyansh Arya",
+        "Ravi Singh",
+        "Vaibhav Sooryavanshi",
+        "Matt Henry"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Railways' Ravi Singh struck an impressive 112 runs off just 56 balls, which included 7 fours and 9 sixes, against Jammu & Kashmir in a match. Despite his strong performance, Railways ended up losing the game.",
+      "background": "This individual achievement by Ravi Singh stood out even though his team's collective struggles overshadowed his efforts. The match also saw record-breaking performances from Vaibhav Sooryavanshi and Priyansh Arya for other teams.",
+      "examRelevance": "Ravi Singh scored 112 runs off 56 balls for Railways against J&K.",
+      "tags": [
+        "Ravi Singh",
+        "Railways Cricket",
+        "Jammu & Kashmir Cricket",
+        "Cricket"
+      ],
+      "source": {
+        "title": "Railways’ collective struggles leave Ravi Singh’s efforts in shadows",
+        "url": "https://www.thehindu.com/sport/cricket/railways-collective-struggles-leave-ravi-singhs-efforts-in-shadows/article71741770.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q15",
+      "question": "What is the approaching deadline for submitting the Digital Life Certificate (DLC), also known as Jeevan Pramaan?",
+      "options": [
+        "December 15",
+        "November 15",
+        "November 30",
+        "December 31"
+      ],
+      "answerIndex": 2,
+      "category": "Dates & Days",
+      "explanation": "The deadline for submitting the Digital Life Certificate (DLC), commonly known as Jeevan Pramaan, is November 30. This certificate is crucial for pensioners to continue receiving their pension.",
+      "background": "Jeevan Pramaan is a biometric-enabled digital service for pensioners of Central Government, State Government, and other government organizations. It aims to streamline the process of submitting life certificates, eliminating the need for pensioners to physically appear before the pension disbursing agency.",
+      "examRelevance": "November 30 is the deadline for submitting Jeevan Pramaan (Digital Life Certificate).",
+      "tags": [
+        "Jeevan Pramaan",
+        "Digital Life Certificate",
+        "DLC",
+        "Pensioners",
+        "Deadline"
+      ],
+      "source": {
+        "title": "Who is not allowed to submit DLC (Jeevan Pramaan)?",
+        "url": "https://economictimes.indiatimes.com/wealth/save/jeevan-pramaans-november-30-deadline-approaches-who-is-not-allowed-to-submit-digital-life-certificate-dlc-check-here/articleshow/136155046.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q16",
+      "question": "Indian chess grandmaster D. Gukesh is currently competing against which opponent in the World Chess Championship?",
+      "options": [
+        "Fabiano Caruana",
+        "Javokhir Sindarov",
+        "Hikaru Nakamura",
+        "Magnus Carlsen"
+      ],
+      "answerIndex": 1,
+      "category": "Sports",
+      "explanation": "Indian chess grandmaster D. Gukesh is competing against Javokhir Sindarov in the World Chess Championship. This matchup is highlighted as the youngest-ever battle for the chess crown.",
+      "background": "D. Gukesh is an Indian prodigy who became the third-youngest grandmaster in history. His match against Sindarov is drawing significant attention in the chess world, with discussions around strategy, preparation, and the role of seconds.",
+      "examRelevance": "D. Gukesh is competing against Javokhir Sindarov in the World Chess Championship.",
+      "tags": [
+        "D Gukesh",
+        "Javokhir Sindarov",
+        "World Chess Championship",
+        "Chess"
+      ],
+      "source": {
+        "title": "World Chess Championship: I thought I was always under control in the game, says Gukesh",
+        "url": "https://www.thehindu.com/sport/world-chess-championship-i-thought-i-was-always-under-control-in-the-game-says-gukesh/article71741625.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q17",
+      "question": "What is the November full moon, which appears larger and brighter than usual due to its proximity to Earth, known as?",
+      "options": [
+        "Flower Moon",
+        "Harvest Moon",
+        "Wolf Moon",
+        "Beaver Supermoon"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "The November full moon, which appears larger and brighter than usual due to its proximity to Earth, is known as the Beaver Supermoon.",
+      "background": "A supermoon occurs when a full moon coincides with the Moon's closest approach to Earth in its elliptical orbit. The 'Beaver Moon' is a traditional name for the November full moon, named by Native Americans and colonial Europeans for the time of year when beavers are active building winter dams.",
+      "examRelevance": "November full moon appearing larger and brighter is known as the Beaver Supermoon.",
+      "tags": [
+        "Beaver Supermoon",
+        "Full Moon",
+        "Astronomy",
+        "Supermoon"
+      ],
+      "source": {
+        "title": "What is Beaver Supermoon, when is the next supermoon and more",
+        "url": "https://www.thehindu.com/sci-tech/science/what-is-beaver-supermoon-november-2026-next-full-moon/article71741634.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q18",
+      "question": "Which Indian state recently passed new legislation imposing a 3-year jail term for those who neglect their parents after taking their property?",
+      "options": [
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "Kerala Chief Minister announced a new legislation passed by the State Assembly that imposes a 3-year jail term for individuals who neglect their parents after taking their property. This new law is for the care and protection of senior citizens.",
+      "background": "This legislation aims to strengthen the legal framework for protecting senior citizens from abandonment and exploitation by their children or legal heirs, especially after properties have been transferred to them. It reflects a growing concern for elder care and rights.",
+      "examRelevance": "Kerala passed legislation imposing 3-year jail for neglecting parents after taking property.",
+      "tags": [
+        "Kerala",
+        "Senior Citizens",
+        "Legislation",
+        "Parental Neglect",
+        "Property Rights"
+      ],
+      "source": {
+        "title": "3-year jail term for those who neglect parents after taking their property: Keralam CM",
+        "url": "https://www.thehindu.com/news/national/kerala/3-year-jail-term-for-those-who-neglect-parents-after-taking-their-property-keralam-cm/article71737793.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q19",
+      "question": "Which organization recently outlined a plan for Hyderabad to be pedestrian and road user friendly by 2050, identifying 120 locations for skywalks and FoBs?",
+      "options": [
+        "Greater Hyderabad Municipal Corporation (GHMC)",
+        "Hyderabad Unified Metropolitan Transport Authority (HUMTA)",
+        "Hyderabad Metro Rail Limited (HMRL)",
+        "Telangana State Road Transport Corporation (TSRTC)"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "The Hyderabad Unified Metropolitan Transport Authority (HUMTA) has outlined a plan to make Hyderabad pedestrian and other road user friendly by 2050. The plan includes identifying 120 locations for skywalks, Foot over Bridges (FoBs), and other pedestrian infrastructure, including a 1-km skywalk connecting Secunderabad Railway Station, Metro Stations, and bus stations.",
+      "background": "This long-term vision aims to improve urban mobility and safety for pedestrians in Hyderabad, addressing challenges posed by increasing traffic and urban expansion. Such infrastructure projects are crucial for sustainable urban development.",
+      "examRelevance": "HUMTA outlined Hyderabad's 2050 plan for pedestrians, including 120 skywalk/FoB locations.",
+      "tags": [
+        "Hyderabad",
+        "HUMTA",
+        "Pedestrian Infrastructure",
+        "Urban Planning",
+        "Skywalks"
+      ],
+      "source": {
+        "title": "Hyderabad for pedestrians, other road users by 2050: HUMTA’s plan",
+        "url": "https://www.thehindu.com/news/cities/Hyderabad/space-for-pedestrians-other-road-users-in-hyderabad-by-2050-promises-humta/article71741392.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q20",
+      "question": "The Tamil Nadu government is set to ink 70 MoUs for investments to the tune of over how much amount?",
+      "options": [
+        "₹25,000 crore",
+        "₹35,000 crore",
+        "₹40,000 crore",
+        "₹50,000 crore"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The Tamil Nadu government is preparing to ink 70 Memoranda of Understanding (MoUs) for investments exceeding ₹50,000 crore. These investments are expected to cover sectors such as manufacturing, clean energy, textiles, aerospace, and defence.",
+      "background": "This initiative aims to boost the state's industrial growth and create employment opportunities across various sectors. Tamil Nadu consistently seeks to attract significant investments to strengthen its economy and manufacturing base.",
+      "examRelevance": "Tamil Nadu government to ink 70 MoUs for investments over ₹50,000 crore.",
+      "tags": [
+        "Tamil Nadu",
+        "Investments",
+        "MoUs",
+        "Economy",
+        "Manufacturing"
+      ],
+      "source": {
+        "title": "Tamil Nadu government set to ink 70 MoUs for investments to the tune of over ₹50,000 crore",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-set-to-ink-70-mous-for-investments-to-the-tune-of-over-50000-crore/article71739635.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q21",
+      "question": "Which High Court recently restrained the Kolkata Municipal Corporation (KMC) polls until a challenge on ward delimitation is decided?",
+      "options": [
+        "Madras High Court",
+        "Delhi High Court",
+        "Calcutta High Court",
+        "Bombay High Court"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The Calcutta High Court recently restrained the Kolkata Municipal Corporation (KMC) polls until a challenge on ward delimitation is decided. The West Bengal government had increased the number of KMC wards from 144 to 209 through a delimitation exercise.",
+      "background": "The petitioner argued that the State government resorted to gerrymandering to gain partisan advantage. The Supreme Court is 'inclined' to stay the Calcutta High Court order, indicating further legal developments.",
+      "examRelevance": "Calcutta High Court restrained KMC polls over ward delimitation challenge.",
+      "tags": [
+        "Calcutta High Court",
+        "KMC polls",
+        "Delimitation",
+        "West Bengal",
+        "Kolkata"
+      ],
+      "source": {
+        "title": "Calcutta High Court restrains KMC polls until challenge on delimitation decided",
+        "url": "https://www.thehindu.com/news/cities/kolkata/calcutta-high-court-restrains-kmc-polls-until-challenge-on-delimitation-decided/article71675339.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q22",
+      "question": "Six fishermen from which Indian state went missing off the Odisha coast, prompting a search operation that reached Bangladesh and Myanmar waters?",
+      "options": [
+        "West Bengal",
+        "Tamil Nadu",
+        "Kerala",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "Six fishermen from Subbampeta village in Uppada of Kakinada district, Andhra Pradesh, went missing off the Paradip coast in Odisha after their boat set sail on November 4. A search operation was intensified and reached Bangladesh and Myanmar waters.",
+      "background": "Seven other Andhra fishermen were found safe, but the search for the remaining six continues. The State government has sought the Centre's help in the search efforts for the missing fishermen, highlighting the dangers faced by fishing communities at sea.",
+      "examRelevance": "Six fishermen from Andhra Pradesh went missing off Odisha coast.",
+      "tags": [
+        "Andhra Pradesh",
+        "Fishermen",
+        "Odisha",
+        "Missing Persons",
+        "Maritime Search"
+      ],
+      "source": {
+        "title": "Seven Andhra fishermen safe; search for six missing off Odisha reaches Bangladesh, Myanmar waters",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/seven-andhra-fishermen-safe-search-for-six-missing-off-odisha-reaches-bangladesh-myanmar-waters/article71741233.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q23",
+      "question": "Who recently moved the Delhi High Court over being stopped at the immigration counter from flying to the U.K.?",
+      "options": [
+        "Rahul Gandhi",
+        "Umar Khalid",
+        "Sharjeel Imam",
+        "Saurav Das"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Saurav Das of CJP (Citizens for Justice and Peace) moved the Delhi High Court, alleging that he was stopped at the immigration counter at the Delhi airport before boarding his flight to London. The hearing for his plea is scheduled for November 26.",
+      "background": "This incident raises questions about fundamental rights, including the right to travel abroad. Such cases often involve scrutiny of government actions related to travel restrictions on individuals.",
+      "examRelevance": "CJP's Saurav Das moved Delhi High Court over being stopped from flying to U.K.",
+      "tags": [
+        "Saurav Das",
+        "Delhi High Court",
+        "Travel Ban",
+        "CJP",
+        "Immigration"
+      ],
+      "source": {
+        "title": "CJP’s Saurav Das moves Delhi High Court over being stopped from flying to U.K.; hearing on November 26",
+        "url": "https://www.thehindu.com/news/national/cjps-saurav-das-moves-delhi-high-court-over-being-stopped-from-flying-to-uk-hearing-on-november-26/article71741451.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q24",
+      "question": "A recent study highlighted that the cost of living is significantly higher than the minimum wage in Bengaluru, Mysuru, and which other city in Karnataka?",
+      "options": [
+        "Belagavi",
+        "Mangaluru",
+        "Davanagere",
+        "Hubballi"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "A study found that the cost of living is significantly higher than the minimum wage in Bengaluru, Mysuru, and Mangaluru in Karnataka. For instance, the monthly cost of living in Bengaluru is calculated at ₹41,752, while 59.9% to 74.6% of employed residents earn less.",
+      "background": "This stark income gap highlights economic disparities and the challenges faced by workers in major cities. Such studies are crucial for policy-making related to minimum wage adjustments and affordable living initiatives.",
+      "examRelevance": "Study found high cost of living vs. minimum wage in Bengaluru, Mysuru, and Mangaluru.",
+      "tags": [
+        "Cost of Living",
+        "Minimum Wage",
+        "Bengaluru",
+        "Mysuru",
+        "Mangaluru",
+        "Karnataka"
+      ],
+      "source": {
+        "title": "Study finds cost of living way higher than minimum wage in Bengaluru, Mysuru and Mangaluru",
+        "url": "https://www.thehindu.com/news/national/karnataka/study-finds-cost-of-living-way-higher-than-minimum-wage-in-bengaluru-mysuru-and-mangaluru/article71738555.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q25",
+      "question": "An entrepreneur from which Indian city recently joined the Nasdaq Closing Bell ceremony in New York?",
+      "options": [
+        "Coimbatore",
+        "Chennai",
+        "Bengaluru",
+        "Hyderabad"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "An entrepreneur from Coimbatore joined the Nasdaq Closing Bell ceremony in New York. The entrepreneur is associated with iCliniq, a global health decisions platform that started in Coimbatore in 2010 and is now headquartered in New York.",
+      "background": "iCliniq has evolved into a significant player in healthcare technology, boasting over 80,000 AI-powered healthcare tools. Participating in the Nasdaq ceremony is a recognition of the company's growth and success on an international stage.",
+      "examRelevance": "Coimbatore entrepreneur joined Nasdaq Closing Bell ceremony.",
+      "tags": [
+        "Coimbatore",
+        "Nasdaq",
+        "Entrepreneur",
+        "iCliniq",
+        "New York"
+      ],
+      "source": {
+        "title": "Coimbatore entrepreneur joins Nasdaq Closing Bell ceremony in New York",
+        "url": "https://www.thehindu.com/business/Industry/coimbatore-entrepreneur-joins-nasdaq-closing-bell-ceremony-in-new-york/article71741336.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q26",
+      "question": "An FIR was registered against TVK MLA Arul Vignesh for 'misbehaving' with a woman IAS officer. He represents which constituency?",
+      "options": [
+        "Coimbatore",
+        "Kallakurichi",
+        "Madurai",
+        "Tiruppur"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "An FIR was registered against Kallakurichi TVK MLA Arul Vignesh for allegedly 'misbehaving' with a woman IAS officer. The Madras High Court ordered Tiruppur Superintendent of Police Shristi Singh to be the investigating officer, with IGP N. Kamini monitoring the probe.",
+      "background": "The police had served summons to the MLA at his residence in Kallakurichi. This incident underscores issues of public conduct by elected representatives and the protection of public servants.",
+      "examRelevance": "FIR registered against Kallakurichi TVK MLA Arul Vignesh.",
+      "tags": [
+        "Kallakurichi",
+        "Arul Vignesh",
+        "TVK MLA",
+        "IAS Officer",
+        "FIR"
+      ],
+      "source": {
+        "title": "FIR registered against Kallakurichi TVK MLA for ‘misbehaving’ with woman IAS officer, Madras High Court told",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-police-register-fir-against-kallakurichi-tvk-mla-for-misbehaving-with-woman-ias-officer-madras-hc-told/article71737381.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q27",
+      "question": "On which date will the Congress party hold 'Samvidhan Raksha' marches across states to read the Preamble and take an oath to protect the Constitution?",
+      "options": [
+        "January 26",
+        "August 15",
+        "October 2",
+        "November 26"
+      ],
+      "answerIndex": 3,
+      "category": "Dates & Days",
+      "explanation": "The Congress party will hold 'Samvidhan Raksha' (Constitution Protection) marches across states on November 26, 2026, which is Constitution Day. These marches will begin at statues of Ambedkar or Mahatma Gandhi, followed by a reading of the Preamble and an oath to protect the Constitution.",
+      "background": "Constitution Day, also known as Samvidhan Divas, is celebrated on November 26 each year to commemorate the adoption of the Constitution of India. It was on this day in 1949 that the Constituent Assembly adopted the Constitution, which came into effect on January 26, 1950.",
+      "examRelevance": "Congress to hold 'Samvidhan Raksha' marches on November 26 (Constitution Day).",
+      "tags": [
+        "Constitution Day",
+        "Samvidhan Raksha",
+        "Congress",
+        "November 26",
+        "Preamble"
+      ],
+      "source": {
+        "title": "Congress to hold ‘Samvidhan Raksha’ marches across States on Constitution Day, Kharge to join programme in Lucknow",
+        "url": "https://www.thehindu.com/news/national/congress-to-hold-samvidhan-raksha-marches-across-states-on-constitution-day-kharge-to-join-programme-in-lucknow/article71741430.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q28",
+      "question": "Which political party recently reunited with the National Democratic Alliance (NDA) after severing ties with the BJP six years ago over farm laws?",
+      "options": [
+        "Telugu Desam Party (TDP)",
+        "Shiromani Akali Dal (SAD)",
+        "Shiv Sena (UBT)",
+        "Janata Dal (United)"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Shiromani Akali Dal (SAD) recently reunited with the National Democratic Alliance (NDA). The SAD had severed ties with the BJP-led NDA six years ago, in 2020, amid widespread protests against the Centre’s farm laws.",
+      "background": "This reunification is seen as a significant development in Punjab politics, potentially putting both parties back in strong contention for upcoming polls. Their split in 2020 had altered the political landscape in the state.",
+      "examRelevance": "Shiromani Akali Dal (SAD) reunited with NDA after 6 years.",
+      "tags": [
+        "Shiromani Akali Dal",
+        "SAD",
+        "NDA",
+        "BJP",
+        "Punjab Politics"
+      ],
+      "source": {
+        "title": "NDA-SAD reunion: Why the Akali Dal severed ties with BJP 6 years ago",
+        "url": "https://www.thehindu.com/news/national/punjab/nda-sad-reunion-why-did-akali-dal-broke-alliance-with-bjp-6-years-ago/article71741205.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q29",
+      "question": "World One Health Day, emphasizing the interconnectedness of human, animal, and environmental health, is observed on which date?",
+      "options": [
+        "October 31",
+        "November 3",
+        "November 1",
+        "November 26"
+      ],
+      "answerIndex": 1,
+      "category": "Dates & Days",
+      "explanation": "World One Health Day, which highlights that life is epidemiologically indivisible and emphasizes the interconnectedness of human, animal, and environmental health, is observed on November 3.",
+      "background": "The One Health concept recognizes that the health of people is closely connected to the health of animals and our shared environment. It promotes a collaborative, multi-sectoral, and trans-disciplinary approach to address health threats.",
+      "examRelevance": "World One Health Day is observed on November 3.",
+      "tags": [
+        "World One Health Day",
+        "One Health",
+        "Environment",
+        "Health",
+        "November 3"
+      ],
+      "source": {
+        "title": "The cow, the flea and the genome: One Health and the statecraft of prevention",
+        "url": "https://www.thehindu.com/sci-tech/health/the-cow-the-flea-and-the-genome-one-health-and-the-statecraft-of-prevention/article71630249.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-25-q30",
+      "question": "Which state government recently sanctioned ₹2.22 crore for a drive to vaccinate workers in high-risk jobs against rabies?",
+      "options": [
+        "Kerala",
+        "Andhra Pradesh",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "The Tamil Nadu government has sanctioned ₹2.22 crore for a drive to vaccinate workers in high-risk jobs against rabies. This initiative targets sanitation workers, dog catchers, animal handlers, and others involved in veterinary activities.",
+      "background": "Rabies is a viral disease that is nearly always fatal once clinical symptoms appear. Vaccinating high-risk occupational groups is a crucial public health measure to prevent the disease and ensure the safety of those frequently exposed to animals.",
+      "examRelevance": "Tamil Nadu sanctioned ₹2.22 crore for rabies vaccination for high-risk workers.",
+      "tags": [
+        "Tamil Nadu",
+        "Rabies Vaccination",
+        "Public Health",
+        "High-risk workers",
+        "Animal Handlers"
+      ],
+      "source": {
+        "title": "Workers in high-risk jobs to receive shots against rabies in Tamil Nadu",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/workers-in-high-risk-jobs-to-receive-shots-against-rabies-in-tamil-nadu/article71738738.ece"
+      }
+    }
+  ]
+}
