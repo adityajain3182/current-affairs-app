@@ -1,0 +1,781 @@
+{
+  "id": "daily-2026-11-26",
+  "type": "daily",
+  "date": "2026-11-26",
+  "title": "Current Affairs — 26 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-26-q1",
+      "question": "Polling for 23 urban local bodies and 3,240 gram panchayats recently concluded in which Indian state?",
+      "options": [
+        "Karnataka",
+        "Telangana",
+        "Odisha",
+        "Andhra Pradesh"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "Polling for 23 urban local bodies and 3,240 gram panchayats, involving around 25 lakh voters in 964 wards with 2,968 candidates, recently concluded in Andhra Pradesh. The counting of votes is scheduled for November 30.",
+      "background": "Urban local body and gram panchayat elections are crucial for local self-governance in India, determining local administration and development. These elections ensure democratic participation at the grassroots level.",
+      "examRelevance": "Andhra Pradesh = State where ULB and Gram Panchayat polls were held for 23 urban local bodies and 3,240 gram panchayats.",
+      "tags": [
+        "Andhra Pradesh",
+        "Elections",
+        "Local Bodies",
+        "Gram Panchayats"
+      ],
+      "source": {
+        "title": "Polling under way in 23 urban local bodies and 3,240 gram panchayats in Andhra Pradesh | LIVE",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/urban-local-bodies-polls-andhra-pradesh-tdp-ysrcp-live-updates-november-26-2026/article71745216.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q2",
+      "question": "Under which act has the Enforcement Directorate (ED) filed a prosecution complaint in connection with the KPSC recruitment scam in Karnataka?",
+      "options": [
+        "Companies Act",
+        "Prevention of Money Laundering Act (PMLA)",
+        "Prevention of Corruption Act",
+        "Indian Penal Code"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Enforcement Directorate (ED) has filed a prosecution complaint under the Prevention of Money Laundering Act (PMLA) against former KPSC Chairman Shivashankarappa Sahukar, member B.V. Geetha Shivamurthy, Controller of Examinations Gyanendra Kumar Gangwar, and his associate Basavaraj Kannale in the KPSC recruitment scam.",
+      "background": "The Prevention of Money Laundering Act (PMLA) is an Act of the Parliament of India enacted to prevent money laundering and to provide for confiscation of property derived from, or involved in, money laundering. It is frequently invoked in cases of financial fraud and corruption.",
+      "examRelevance": "KPSC recruitment scam = ED filed complaint under Prevention of Money Laundering Act (PMLA).",
+      "tags": [
+        "KPSC",
+        "Scam",
+        "PMLA",
+        "Enforcement Directorate",
+        "Karnataka"
+      ],
+      "source": {
+        "title": "KPSC recruitment scam in Karnataka: How question papers and answer keys reached candidates ahead of exams | Explained",
+        "url": "https://www.thehindu.com/news/national/karnataka/kpsc-recruitment-scam-in-karnataka-how-question-papers-and-answer-keys-reached-candidates-ahead-of-exams-explained/article71741790.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q3",
+      "question": "What was the total investment value of the 78 MoUs signed at the second edition of the VETTRI Tamil Nadu Investment and Conversion Conclave?",
+      "options": [
+        "₹70,120 crore",
+        "₹45,800 crore",
+        "₹58,214 crore",
+        "₹32,500 crore"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "At the second edition of the VETTRI Tamil Nadu Investment and Conversion Conclave, 78 MoUs were signed, involving investments worth ₹58,214 crore. These investments have the potential to generate 65,786 jobs across various sectors.",
+      "background": "Investment conclaves are vital for states to attract capital, foster industrial growth, and create employment opportunities. The VETTRI conclave is part of Tamil Nadu's ongoing efforts to boost its economic landscape.",
+      "examRelevance": "VETTRI Conclave = 78 MoUs signed, ₹58,214 crore investments.",
+      "tags": [
+        "Tamil Nadu",
+        "Investment",
+        "MoUs",
+        "VETTRI Conclave",
+        "Economy"
+      ],
+      "source": {
+        "title": "78 MoUs signed at second edition of VETTRI Tamil Nadu Investment and Conversion Conclave",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/78-mous-signed-at-second-edition-of-vettri-tamil-nadu-investment-and-conversion-conclave/article71741815.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q4",
+      "question": "The World Tennis League, set to open on December 17, will be headlined by players like Kyrgios, Bublik, Svitolina, and Pliskova in which Indian city?",
+      "options": [
+        "Mumbai",
+        "Chennai",
+        "Bengaluru",
+        "Delhi"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "The World Tennis League, featuring star players like Nick Kyrgios, Alexander Bublik, Elina Svitolina, and Karolína Plíšková, is scheduled to open on December 17 in Bengaluru. The championship final is slated for December 20.",
+      "background": "India has increasingly become a host for international sporting events, aiming to promote sports and attract global talent. This league brings top tennis players to the country, boosting its profile in the sport.",
+      "examRelevance": "World Tennis League = To be held in Bengaluru.",
+      "tags": [
+        "Tennis",
+        "World Tennis League",
+        "Bengaluru",
+        "Sports"
+      ],
+      "source": {
+        "title": "Kyrgios, Bublik, Svitolina and Pliskova to headline World Tennis League in Bengaluru",
+        "url": "https://www.thehindu.com/sport/tennis/kyrgios-bublik-svitolina-and-pliskova-to-headline-world-tennis-league-in-bengaluru/article71745951.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q5",
+      "question": "Tamil Nadu CM M.K. Stalin recently inaugurated 148 houses for Sri Lankan Tamils in a rehabilitation camp located in which district?",
+      "options": [
+        "Tiruchirappalli",
+        "Coimbatore",
+        "Madurai",
+        "Krishnagiri"
+      ],
+      "answerIndex": 3,
+      "category": "Schemes & Projects",
+      "explanation": "Tamil Nadu CM M.K. Stalin recently inaugurated 148 houses for Sri Lankan Tamils in a rehabilitation camp located in Krishnagiri. He also launched the disbursal of enhanced monthly cash assistance to 56,638 Sri Lankan Tamils belonging to 19,710 families living in camps.",
+      "background": "Tamil Nadu has a long history of housing Sri Lankan Tamil refugees, providing various welfare measures and rehabilitation support. These initiatives aim to improve the living conditions and well-being of the refugee population.",
+      "examRelevance": "Krishnagiri = Location of rehabilitation camp for Sri Lankan Tamils where 148 houses were inaugurated.",
+      "tags": [
+        "Tamil Nadu",
+        "Sri Lankan Tamils",
+        "Rehabilitation",
+        "Krishnagiri"
+      ],
+      "source": {
+        "title": "CM Vijay inaugurates 148 houses for Sri Lankan Tamils in Krishnagiri rehabilitation camp",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-inaugurates-148-houses-for-sri-lankan-tamils-in-krishnagiri-rehabilitation-camp/article71745731.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q6",
+      "question": "The Tamil Nadu government has recently introduced how many days of paternity leave for married government employees?",
+      "options": [
+        "15 days",
+        "10 days",
+        "30 days",
+        "20 days"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Tamil Nadu government has introduced 15 days of paternity leave for married male government employees. This leave can be availed either 15 days before the birth of the child or within six months from the date of birth.",
+      "background": "Paternity leave is a policy designed to allow fathers to take time off work around the birth or adoption of a child, promoting gender equality in childcare and supporting family well-being. Several states and central government bodies have introduced such provisions.",
+      "examRelevance": "Tamil Nadu = Introduced 15 days of paternity leave for male government employees.",
+      "tags": [
+        "Tamil Nadu",
+        "Paternity Leave",
+        "Government Policy",
+        "Employees"
+      ],
+      "source": {
+        "title": "Tamil Nadu introduces 15 days of paternity leave for married government employees",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-introduces-15-days-of-paternity-leave-for-married-government-employees/article71745892.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q7",
+      "question": "The Defence Space Agency (DSA) is seeking Indian partners for developing technologies in which of the following areas?",
+      "options": [
+        "Agricultural biotechnology",
+        "Textile manufacturing",
+        "AI, anti-jamming, and space surveillance",
+        "Automotive engineering"
+      ],
+      "answerIndex": 2,
+      "category": "Defence",
+      "explanation": "The Defence Space Agency (DSA) is actively seeking Indian partners for developing advanced technologies, specifically in Artificial Intelligence (AI), anti-jamming solutions, and space surveillance technology. This initiative aims to enhance India's capabilities in space as it has become a contested military theatre.",
+      "background": "The Defence Space Agency is an Indian military agency tasked with operating the space-based assets of the Indian Armed Forces and safeguarding India's interests in space. Its establishment underscores the growing importance of space in modern warfare and national security.",
+      "examRelevance": "Defence Space Agency = Seeks Indian partners for AI, anti-jamming, and space surveillance technologies.",
+      "tags": [
+        "Defence Space Agency",
+        "AI",
+        "Space Surveillance",
+        "Anti-jamming",
+        "Defence Tech"
+      ],
+      "source": {
+        "title": "Defence Space Agency seeks Indian partners for AI, anti-jamming and space surveillance tech",
+        "url": "https://www.thehindu.com/business/defence-space-agency-seeks-indian-partners-for-ai-anti-jamming-and-space-surveillance-tech/article71745735.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q8",
+      "question": "India and China recently concluded a second round of Corps Commander-level talks aimed at easing tensions along the Line of Actual Control (LAC) in which Indian state?",
+      "options": [
+        "Arunachal Pradesh",
+        "Uttarakhand",
+        "Sikkim",
+        "Himachal Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "India and China concluded a second round of Corps Commander-level talks on November 24, 2026, aimed at easing tensions along the Line of Actual Control (LAC) in Arunachal Pradesh. China stated that the situation in India-China border areas remains 'generally stable'.",
+      "background": "Corps Commander-level talks are a series of military-diplomatic engagements between India and China to de-escalate tensions and discuss disengagement along the LAC, particularly after the Galwan Valley clashes in 2020. These talks are crucial for maintaining peace and stability in the border regions.",
+      "examRelevance": "India-China Corps Commander-level talks = Held in Arunachal Pradesh sector.",
+      "tags": [
+        "India-China",
+        "LAC",
+        "Arunachal Pradesh",
+        "Border Dispute",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Situation in India-China border areas remain ‘generally stable’, says China",
+        "url": "https://www.thehindu.com/news/international/situation-in-india-china-border-areas-remain-generally-stable-says-china/article71745929.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q9",
+      "question": "Union Minister Nitin Gadkari recently announced road projects worth ₹1 lakh crore for which Indian state?",
+      "options": [
+        "Bihar",
+        "West Bengal",
+        "Assam",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "Union Minister Nitin Gadkari announced road projects worth ₹1 lakh crore for West Bengal. He stated that the Centre is committed to strengthening road infrastructure in the state and accelerating projects that would improve connectivity with neighbouring states.",
+      "background": "Infrastructure development, particularly in roads, is a key focus of the Indian government to boost economic growth, improve connectivity, and facilitate trade. Such projects are part of national initiatives like the Bharatmala Pariyojana.",
+      "examRelevance": "Nitin Gadkari = Announced ₹1 lakh crore road projects for West Bengal.",
+      "tags": [
+        "Nitin Gadkari",
+        "West Bengal",
+        "Road Projects",
+        "Infrastructure",
+        "National Highways"
+      ],
+      "source": {
+        "title": "Gadkari announces ₹1 lakh crore road projects for Bengal",
+        "url": "https://www.thehindu.com/news/national/west-bengal/gadkari-announces-1-lakh-crore-road-projects-for-bengal/article71745900.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q10",
+      "question": "Which Chinese smartphone maker recently launched its first smartwatch, the Watch GT2, in India?",
+      "options": [
+        "Oppo",
+        "Realme",
+        "Vivo",
+        "Xiaomi"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "Chinese smartphone maker Vivo recently launched its first smartwatch, the Vivo Watch GT2, in India. It features a 2.07-inch display and boasts up to 25-day claimed battery life. They also launched the X500 Pro Max, X500, and X500 smartphones.",
+      "background": "The smartwatch market in India is rapidly expanding, with many smartphone manufacturers entering the segment to offer a complete ecosystem of connected devices. Wearable technology is a growing trend.",
+      "examRelevance": "Vivo = Launched its first smartwatch, Watch GT2, in India.",
+      "tags": [
+        "Vivo",
+        "Smartwatch",
+        "Watch GT2",
+        "Technology",
+        "Gadgets"
+      ],
+      "source": {
+        "title": "Vivo launches X500 Pro Max, X500 and X500 along with Watch GT2",
+        "url": "https://www.thehindu.com/sci-tech/technology/gadgets/vivo-launches-x500-pro-max-x500-and-x500-along-with-watch-gt2/article71745760.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q11",
+      "question": "Vardhman Jain, a Chennai-based businessman, recently donated 121 kg of gold to which famous temple?",
+      "options": [
+        "Kashi Vishwanath Temple",
+        "Siddhivinayak Temple",
+        "Tirumala Tirupati Devasthanams",
+        "Meenakshi Amman Temple"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Vardhman Jain, a Chennai-based businessman, recently donated 121 kg of gold, worth approximately ₹160 crore, to the Tirumala Tirupati Devasthanams. This significant donation highlights the deep devotion of individuals towards religious institutions.",
+      "background": "The Tirumala Tirupati Devasthanams (TTD) manages the Venkateswara Temple at Tirumala, Andhra Pradesh, one of the richest and most visited temples in the world. It regularly receives large donations from devotees.",
+      "examRelevance": "Vardhman Jain = Donated 121 kg gold to Tirumala Tirupati Devasthanams.",
+      "tags": [
+        "Vardhman Jain",
+        "Tirupati",
+        "Gold Donation",
+        "Temples",
+        "Philanthropy"
+      ],
+      "source": {
+        "title": "Who is Vardhman Jain donating 121 kg gold to Tirupati?",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/tirumala-tirupati-donation-who-is-chennais-vardhman-jain-donating-121-kg-gold-worth-rs-160-crore/articleshow/136184579.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q12",
+      "question": "The Staff Selection Commission (SSC) plans to use which indigenous examination devices to conduct computer-based tests beyond private centres?",
+      "options": [
+        "Examination tablets",
+        "Secure cloud servers",
+        "Virtual reality headsets",
+        "Biometric scanners"
+      ],
+      "answerIndex": 0,
+      "category": "Science & Tech",
+      "explanation": "The Staff Selection Commission (SSC) plans to use indigenous examination tablets to take computer-based tests beyond private centres. The SSC has floated an RFP for these devices, attracting interest from over 25 bidders, and is also exploring edge-based CCTV systems.",
+      "background": "The move towards indigenous examination devices is aimed at enhancing the security, accessibility, and reliability of competitive examinations across India, reducing dependence on private infrastructure and promoting local manufacturing.",
+      "examRelevance": "SSC = Plans to use indigenous examination tablets for computer-based tests.",
+      "tags": [
+        "SSC",
+        "Examination Devices",
+        "Indigenous Technology",
+        "Computer-Based Tests"
+      ],
+      "source": {
+        "title": "SSC plans to use indigenous examination devices to take computer-based tests beyond private centres",
+        "url": "https://www.thehindu.com/news/national/ssc-plans-to-use-indigenous-examination-devices-to-take-computer-based-tests-beyond-private-centres/article71745706.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q13",
+      "question": "Which entity has decided to move the Bombay High Court challenging N. Chandrasekaran’s reappointment as Executive Chairman of Tata Sons?",
+      "options": [
+        "Reliance Industries",
+        "Tata Trusts",
+        "Mahindra Group",
+        "Aditya Birla Group"
+      ],
+      "answerIndex": 1,
+      "category": "Economy & Business",
+      "explanation": "Tata Trusts has decided to move the Bombay High Court challenging N. Chandrasekaran’s reappointment as Executive Chairman of Tata Sons. The Trusts termed this reappointment “illegal,” stating it violated the company’s Articles of Association.",
+      "background": "Tata Sons is the principal investment holding company and promoter of Tata companies. Tata Trusts, as the largest shareholder in Tata Sons, plays a significant role in its governance, and disputes over leadership appointments can have major implications for the conglomerate.",
+      "examRelevance": "Tata Trusts = Challenging N. Chandrasekaran’s reappointment as Executive Chairman of Tata Sons.",
+      "tags": [
+        "Tata Trusts",
+        "N Chandrasekaran",
+        "Tata Sons",
+        "Bombay High Court",
+        "Corporate Governance"
+      ],
+      "source": {
+        "title": "Tata Trusts decides to move Bombay High Court challenging N. Chandrasekaran’s reappointment",
+        "url": "https://www.thehindu.com/business/Industry/tata-trusts-to-move-high-court-against-reappointment-of-n-chandrasekaran-as-executive-chairman-of-tata-sons/article71745407.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q14",
+      "question": "Apple is set to open its first store in Hyderabad on December 10 in which specific locality?",
+      "options": [
+        "Gachibowli",
+        "Madhapur",
+        "Banjara Hills",
+        "Kukatpally"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "Apple is set to open its first store in Hyderabad on December 10, specifically in Kukatpally. The iPhone-maker announced that 'Apple Kukatpally' will open on Thursday, December 10 at 5 PM.",
+      "background": "Apple's expansion of its retail presence in India reflects the growing importance of the Indian market for global tech giants. Hyderabad is a major IT hub, making it a strategic location for such a store.",
+      "examRelevance": "Apple = Opening its first store in Hyderabad at Kukatpally.",
+      "tags": [
+        "Apple",
+        "Hyderabad",
+        "Kukatpally",
+        "Retail Store",
+        "Technology"
+      ],
+      "source": {
+        "title": "Apple to open first store in Hyderabad on December 10",
+        "url": "https://www.thehindu.com/sci-tech/technology/apple-to-open-first-store-in-hyderabad-on-december-10/article71745814.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q15",
+      "question": "After how many years has the Jagannath Temple in Puri resumed the inventory of its Ratna Bhandar (treasure house)?",
+      "options": [
+        "36 years",
+        "24 years",
+        "48 years",
+        "60 years"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "The Jagannath Temple in Puri has resumed the inventory of its Ratna Bhandar (treasure house) after a gap of 48 years. This process involves documenting the temple's valuable ornaments and other treasures.",
+      "background": "The Ratna Bhandar of the Jagannath Temple is a highly revered and secretive vault containing immense wealth, including gold, silver, and precious jewels. Its inventory is a significant event, often surrounded by public interest and historical importance.",
+      "examRelevance": "Jagannath Temple = Resumed Ratna Bhandar inventory after 48 years.",
+      "tags": [
+        "Jagannath Temple",
+        "Puri",
+        "Ratna Bhandar",
+        "Odisha",
+        "Temple Inventory"
+      ],
+      "source": {
+        "title": "Jagannath Temple resumes inventory of Ratna Bhandar",
+        "url": "https://economictimes.indiatimes.com/news/india/puri-jagannath-temple-resumes-inventory-of-ratna-bhandar-after-48-years/articleshow/136184550.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q16",
+      "question": "Elon Musk recently stated that every child in the U.S. will receive how many shares of SpaceX?",
+      "options": [
+        "Three",
+        "One",
+        "Two",
+        "Four"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Elon Musk recently announced that every child in the U.S. will receive two shares of SpaceX. SpaceX did not immediately respond to a request for comment on whether these donations would be linked to specific accounts or come with a lockup period.",
+      "background": "SpaceX, founded by Elon Musk, is a leading private aerospace manufacturer and space transport services company. Such a large-scale share distribution would be an unprecedented move, potentially aiming to involve the public more directly in space exploration.",
+      "examRelevance": "Elon Musk = Announced every U.S. child will get two SpaceX shares.",
+      "tags": [
+        "Elon Musk",
+        "SpaceX",
+        "Shares",
+        "US Children",
+        "Business"
+      ],
+      "source": {
+        "title": "Elon Musk says every child in U.S. will get two SpaceX shares",
+        "url": "https://www.thehindu.com/news/international/elon-musk-says-every-child-in-us-will-get-two-spacex-shares/article71745692.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q17",
+      "question": "A new ₹21 crore travelator bridge in Hyderabad will link the Nampally Railway Station with which other major transport hub?",
+      "options": [
+        "Secunderabad Railway Station",
+        "Hyderabad Metro Station",
+        "Mahatma Gandhi Bus Station",
+        "Rajiv Gandhi International Airport"
+      ],
+      "answerIndex": 1,
+      "category": "Schemes & Projects",
+      "explanation": "A new ₹21 crore travelator bridge in Hyderabad is being constructed to link the century-old Nampally Railway Station with the Hyderabad Metro Station. Ten of the 20 foundations for the bridge have already been completed.",
+      "background": "Nampally Railway Station, opened in 1907, handles around 60 trains and nearly 25,000 passengers daily. This travelator bridge aims to provide seamless connectivity and improve intermodal transport for commuters in Hyderabad, a rapidly growing metropolitan area.",
+      "examRelevance": "Hyderabad travelator bridge = Links Nampally Railway Station and Hyderabad Metro Station.",
+      "tags": [
+        "Hyderabad",
+        "Nampally Railway Station",
+        "Metro Station",
+        "Travelator",
+        "Infrastructure"
+      ],
+      "source": {
+        "title": "21-cr travelator bridge to link Nampally Railway Station, Hyderabad Metro Station; 10 of 20 foundations completed",
+        "url": "https://www.thehindu.com/news/cities/Hyderabad/21-cr-travelator-bridge-to-link-nampally-railway-station-hyderabad-metro-station/article71745578.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q18",
+      "question": "What is the first prize amount for the Keralam Christmas-New Year Bumper Lottery, recently launched by the Chief Minister?",
+      "options": [
+        "₹20 crore",
+        "₹25 crore",
+        "₹15 crore",
+        "₹10 crore"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "The Keralam Chief Minister recently launched the Christmas-New Year Bumper Lottery with a first prize of ₹25 crore. The sale of tickets, priced at ₹450, will commence on November 28, and the draw will be held on February 1, 2027.",
+      "background": "State lotteries are a significant source of revenue for many Indian states, often used to fund various welfare and development schemes. Bumper lotteries with large prize amounts are popular during festive seasons.",
+      "examRelevance": "Kerala Christmas-New Year Bumper Lottery = First prize of ₹25 crore.",
+      "tags": [
+        "Kerala",
+        "Lottery",
+        "Christmas-New Year Bumper",
+        "Prize Money"
+      ],
+      "source": {
+        "title": "Keralam CM launches Christmas-New Year Bumper Lottery with ₹25-crore first prize",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-cm-launches-christmas-new-year-bumper-lottery-with-25-crore-first-prize/article71745577.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q19",
+      "question": "Constitution Day, also known as Samvidhan Divas, is celebrated annually on which date in India?",
+      "options": [
+        "November 26",
+        "January 26",
+        "December 10",
+        "August 15"
+      ],
+      "answerIndex": 0,
+      "category": "Dates & Days",
+      "explanation": "Constitution Day, also known as Samvidhan Divas, is celebrated annually on November 26 in India. This day commemorates the adoption of the Constitution of India by the Constituent Assembly on November 26, 1949.",
+      "background": "The Constitution of India came into effect on January 26, 1950, marking India's transition to a republic. Constitution Day highlights the significance of the Constitution and its core values, with leaders often reflecting on its importance for democracy and justice.",
+      "examRelevance": "Constitution Day = Celebrated on November 26.",
+      "tags": [
+        "Constitution Day",
+        "Samvidhan Divas",
+        "Indian Constitution",
+        "Dates & Days"
+      ],
+      "source": {
+        "title": "Constitution Day: CJI Surya Kant says lawyers must not masquerade political agendas as professional duty",
+        "url": "https://www.thehindu.com/news/national/constitution-day-cji-surya-kant-says-lawyers-must-not-masquerade-political-agendas-as-professional-duty/article71745492.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q20",
+      "question": "The 'Little Stint', a tiny Siberian traveller, is a type of shorebird known for visiting which region in India?",
+      "options": [
+        "Indian wetlands",
+        "Thar Desert",
+        "Deccan Plateau",
+        "Himalayan peaks"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "The 'Little Stint' is a tiny Siberian traveller, a type of shorebird that travels thousands of kilometres from its Arctic breeding grounds to Indian wetlands. It visits these wetlands for feeding and resting, but its habitats are threatened by shrinking mudflats and changing landscapes.",
+      "background": "Migratory birds like the Little Stint are crucial indicators of ecosystem health. Their long-distance migrations highlight the interconnectedness of global environments and the importance of conserving wetlands as vital stopover and wintering grounds.",
+      "examRelevance": "Little Stint = Tiny Siberian shorebird visiting Indian wetlands.",
+      "tags": [
+        "Little Stint",
+        "Migratory Bird",
+        "Wetlands",
+        "Environment",
+        "Siberia"
+      ],
+      "source": {
+        "title": "Meet the little stint: The tiny Siberian traveller visiting India’s wetlands",
+        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/meet-the-little-stint-the-tiny-siberian-traveller-visiting-indias-wetlands/article71719477.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q21",
+      "question": "How many diyas (earthen lamps) illuminated Varanasi during the recent Dev Deepavali celebrations?",
+      "options": [
+        "25 lakh",
+        "21 lakh",
+        "15 lakh",
+        "10 lakh"
+      ],
+      "answerIndex": 1,
+      "category": "Art & Culture",
+      "explanation": "During the recent Dev Deepavali celebrations in Varanasi, 21 lakh diyas illuminated the city. Additionally, 2,100 Made-in-India drones depicted Shiv Tandav and Ganga Avtaran, attracting lakhs of devotees for deepdaan and Ganga Aarti.",
+      "background": "Dev Deepavali is a major Hindu festival celebrated in Varanasi, Uttar Pradesh, on the Purnima (full moon) of the Kartik month. It involves lighting lamps on the ghats of the Ganges, creating a spectacular visual display to honour the gods.",
+      "examRelevance": "Varanasi Dev Deepavali = 21 lakh diyas illuminated the city.",
+      "tags": [
+        "Dev Deepavali",
+        "Varanasi",
+        "Diyas",
+        "Ganga Aarti",
+        "Festivals"
+      ],
+      "source": {
+        "title": "21 lakh diyas, 2,100 drones light up Varanasi on Dev Deepavali",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/21-lakh-diyas-2100-drones-light-up-varanasi-on-dev-deepavali/article71745558.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q22",
+      "question": "Who recently became the first Indian to win the Crucible Cup in Snooker 900?",
+      "options": [
+        "Pankaj Advani",
+        "Saina Nehwal",
+        "Viswanathan Anand",
+        "Leander Paes"
+      ],
+      "answerIndex": 0,
+      "category": "Sports",
+      "explanation": "Pankaj Advani, the reigning world billiard champion, recently became the first Indian to win the Crucible Cup in Snooker 900. He achieved this by beating defending champion and former world snooker champion Neil Robertson of Australia 5-2 in his first match.",
+      "background": "Pankaj Advani is one of India's most decorated athletes, with multiple world titles in both billiards and snooker. His consistent performance at the international level has brought significant recognition to cue sports in India.",
+      "examRelevance": "Pankaj Advani = First Indian to win Crucible Cup (Snooker 900).",
+      "tags": [
+        "Pankaj Advani",
+        "Snooker",
+        "Crucible Cup",
+        "Sports",
+        "Cue Sports"
+      ],
+      "source": {
+        "title": "Snooker 900: Pankaj Advani becomes first Indian to win Crucible Cup",
+        "url": "https://www.thehindu.com/sport/snooker-900-pankaj-advani-becomes-first-indian-to-win-crucible-cup/article71745627.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q23",
+      "question": "The U.S. Army recently declared success in the detonation of a lead-based explosives stockpile in which state?",
+      "options": [
+        "Florida",
+        "California",
+        "Texas",
+        "Iowa"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "The U.S. Army and the U.S. Environmental Protection Agency declared success in the detonation of a lead-based explosives stockpile in Iowa. Emission monitors detected zero levels of airborne lead in the surrounding region immediately after the explosion.",
+      "background": "The safe disposal of old or hazardous munitions is a critical aspect of military operations and environmental safety. Such controlled detonations are carried out to mitigate risks associated with unstable explosives and environmental contamination.",
+      "examRelevance": "U.S. Army = Detonated lead-based explosives stockpile in Iowa.",
+      "tags": [
+        "U.S. Army",
+        "Explosives",
+        "Detonation",
+        "Iowa",
+        "Defence"
+      ],
+      "source": {
+        "title": "U.S. Army declares success in detonation of lead-based explosives stockpile in Iowa",
+        "url": "https://www.thehindu.com/news/international/us-army-declares-success-in-detonation-of-lead-based-explosives-stockpile-in-iowa/article71745045.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q24",
+      "question": "The government has taken up fresh proposals worth ₹1,300 crore for the asset sale plans of which two public sector telecom companies?",
+      "options": [
+        "BSNL and MTNL",
+        "Airtel and BSNL",
+        "Tata Communications and VSNL",
+        "Reliance Jio and Vodafone Idea"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The government has taken up fresh proposals worth ₹1,300 crore for the asset sale plans of public sector telecom companies BSNL and MTNL. These plans aim to monetize non-core assets to improve the financial health of the companies.",
+      "background": "BSNL (Bharat Sanchar Nigam Limited) and MTNL (Mahanagar Telephone Nigam Limited) are state-owned telecommunications companies in India. Asset monetization is part of a broader government strategy to revive these companies and reduce their financial burden.",
+      "examRelevance": "BSNL and MTNL = Government taking up ₹1,300 crore asset sale plans.",
+      "tags": [
+        "BSNL",
+        "MTNL",
+        "Asset Sale",
+        "Government",
+        "Economy & Business"
+      ],
+      "source": {
+        "title": "Govt takes up Rs 1,300 cr BSNL, MTNL asset sale plans",
+        "url": "https://economictimes.indiatimes.com/news/economy/finance/bsnl-mtnl-asset-monetisation-govt-takes-up-fresh-proposals-worth-rs-1300-crore/articleshow/136183188.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q25",
+      "question": "The Indian government recently warned which streaming platform regarding the 2025 advisory banning Pakistani-origin content?",
+      "options": [
+        "Netflix",
+        "Amazon Prime Video",
+        "JioCinema",
+        "Disney+ Hotstar"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Indian government recently warned Netflix that the 2025 advisory banning Pakistani-origin content from streaming platforms was still in effect. This warning was issued in response to a Pakistani series available on the platform.",
+      "background": "The Indian government has, at various times, implemented advisories and regulations concerning content from neighbouring countries, particularly Pakistan, on cultural and political grounds. Streaming platforms are expected to comply with these directives.",
+      "examRelevance": "Netflix = Warned by government regarding ban on Pakistani-origin content.",
+      "tags": [
+        "Netflix",
+        "Pakistani Content",
+        "Government Advisory",
+        "Streaming Platforms"
+      ],
+      "source": {
+        "title": "Jo Bachay… government warns Netflix on Pakistani series",
+        "url": "https://www.thehindu.com/news/national/jo-bachay...-government-warns-netflix-on-pakistani-series/article71745740.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q26",
+      "question": "Which country's president, Cyril Ramaphosa, recently won a court bid to overturn an impeachment report against him?",
+      "options": [
+        "South Africa",
+        "Egypt",
+        "Kenya",
+        "Nigeria"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Cyril Ramaphosa, the President of South Africa, recently won a court bid to overturn an impeachment report against him. He was accused of hiding from police and tax authorities a 2020 break-in and theft of $580,000 stashed in furniture at his Phala Phala farmhouse.",
+      "background": "Cyril Ramaphosa has served as the President of South Africa since 2018. The Phala Phala scandal, involving alleged undeclared foreign currency, has been a significant political challenge during his presidency.",
+      "examRelevance": "Cyril Ramaphosa = President of South Africa, won court bid to overturn impeachment report.",
+      "tags": [
+        "Cyril Ramaphosa",
+        "South Africa",
+        "Impeachment",
+        "Phala Phala Scandal",
+        "International Politics"
+      ],
+      "source": {
+        "title": "Cyril Ramaphosa wins court bid to overturn impeachment report",
+        "url": "https://www.thehindu.com/news/international/cyril-ramaphosa-wins-court-bid-to-overturn-impeachment-report/article71745568.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q27",
+      "question": "Whose portrait at the Kolkata Municipal Corporation headquarters recently sparked a political controversy?",
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Savarkar",
+        "Subhas Chandra Bose"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "A portrait of Savarkar at the Kolkata Municipal Corporation headquarters recently sparked a political controversy. Opposition parties criticized the decision, while the BJP MLA Sajal Ghosh defended it as an unfortunate move to reap political benefits.",
+      "background": "Historical figures like Savarkar often become subjects of political debate in India, particularly concerning their legacy and representation in public spaces. Such controversies reflect differing ideological perspectives on national history and heroes.",
+      "examRelevance": "Savarkar = Portrait at Kolkata Municipal Corporation headquarters sparked controversy.",
+      "tags": [
+        "Savarkar",
+        "Kolkata Municipal Corporation",
+        "Controversy",
+        "Polity",
+        "West Bengal"
+      ],
+      "source": {
+        "title": "Savarkar’s portrait at Kolkata Municipal Corporation headquarters sparks row",
+        "url": "https://www.thehindu.com/news/national/west-bengal/savarkars-portrait-at-kolkata-municipal-corporation-headquarters-sparks-row/article71742731.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q28",
+      "question": "Which association recently projected a decline in India's sugar production for the 2026-27 marketing year, leading to a rally in sugar stocks?",
+      "options": [
+        "Agricultural and Processed Food Products Export Development Authority (APEDA)",
+        "National Federation of Cooperative Sugar Factories (NFCSF)",
+        "Indian Sugar Mills Association (ISMA)",
+        "Federation of Indian Chambers of Commerce & Industry (FICCI)"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "Sugar stocks rallied up to 15% in early trade after the Indian Sugar & Bio-Energy Manufacturers Association (ISMA) projected a decline in India's sugar production for the 2026-27 marketing year. Companies like Dhampur Sugar Mills and Uttam Sugar Mills saw significant gains.",
+      "background": "Projections by industry associations like ISMA are closely watched by markets as they provide insights into future supply and demand dynamics, directly impacting commodity prices and stock performance. Sugar production is influenced by weather patterns and policy decisions.",
+      "examRelevance": "Indian Sugar & Bio-Energy Manufacturers Association (ISMA) = Projected decline in India's sugar production for 2026-27.",
+      "tags": [
+        "ISMA",
+        "Sugar Production",
+        "Economy",
+        "Stock Market",
+        "Agriculture"
+      ],
+      "source": {
+        "title": "Sugar stocks rally up to 15% as ISMA projects drop in 2026-27 output; Dhampur Sugar, Uttam Sugar lead gains",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sugar-stocks-rally-up-to-15-as-isma-projects-drop-in-2026-27-output-dhampur-sugar-uttam-sugar-lead-gains/articleshow/136182663.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q29",
+      "question": "The U.S. recently announced new tariffs of what percentage on India, the second-highest among 14 countries targeted?",
+      "options": [
+        "10%",
+        "17%",
+        "25%",
+        "20%"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "The U.S. recently announced new 25% tariffs on India, which is the second-highest percentage among the 14 countries against which action has been taken. The order by the U.S. Trade Representative also allows for a lower 17% tariff if India and the U.S. sign a trade deal.",
+      "background": "Tariffs are taxes imposed on imported goods, often used as a tool in international trade negotiations to protect domestic industries or address trade imbalances. Such actions can significantly impact bilateral trade relations and global supply chains.",
+      "examRelevance": "U.S. Tariffs on India = New 25% tariffs announced.",
+      "tags": [
+        "U.S.",
+        "India",
+        "Tariffs",
+        "Trade War",
+        "International Trade"
+      ],
+      "source": {
+        "title": "U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken",
+        "url": "https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-26-q30",
+      "question": "Which company recently launched the OmniBook Ultra 16 AI laptop for creators?",
+      "options": [
+        "Lenovo",
+        "Acer",
+        "Dell",
+        "HP"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "HP recently launched the OmniBook Ultra 16 AI laptop, specifically designed for creators. This new laptop features a 3K OLED touch display with up to a 120Hz variable refresh rate and 100% DCI-P3 colour coverage.",
+      "background": "The integration of AI capabilities into personal computing devices is a growing trend, offering enhanced performance for demanding tasks like content creation, video editing, and complex graphic design. Laptops for creators often prioritize high-resolution displays and powerful processors.",
+      "examRelevance": "HP = Launched OmniBook Ultra 16 AI laptop for creators.",
+      "tags": [
+        "HP",
+        "OmniBook Ultra 16",
+        "AI Laptop",
+        "Technology",
+        "Gadgets"
+      ],
+      "source": {
+        "title": "HP launches OmniBook Ultra 16 AI laptop for creators",
+        "url": "https://www.thehindu.com/sci-tech/technology/gadgets/hp-launches-omnibook-ultra-16-ai-laptop-for-creators/article71745619.ece"
+      }
+    }
+  ]
+}
