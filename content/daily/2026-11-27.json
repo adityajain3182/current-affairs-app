@@ -1,0 +1,812 @@
+{
+  "id": "daily-2026-11-27",
+  "type": "daily",
+  "date": "2026-11-27",
+  "title": "Current Affairs — 27 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-27-q1",
+      "question": "In a recent ruling, the Supreme Court suspended the Board of Trustees of which temple for wilfully disobeying court orders in the 'deepathoon' row?",
+      "options": [
+        "Thirupparankundram Temple",
+        "Ramanathaswamy Temple",
+        "Meenakshi Amman Temple",
+        "Kapaleeshwarar Temple"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court declared that authorities had \"wilfully disobeyed\" court orders concerning the Thirupparankundram 'deepathoon' row and consequently suspended the Board of Trustees of the temple. Show cause notices for contempt were also issued to the Tamil Nadu Chief Secretary, DGP, HR&CE Commissioner, and the Board of Trustees Chairperson and Trustees.",
+      "background": "The 'deepathoon' (lamp post) row at Thirupparankundram temple involves disputes over the installation and lighting of a lamp, leading to previous court directives that were reportedly not followed. This incident highlights the Supreme Court's role in enforcing its orders and overseeing the administration of religious institutions.",
+      "examRelevance": "Supreme Court rulings on temple administration and contempt of court proceedings are important for Polity and Governance sections.",
+      "tags": [
+        "Supreme Court",
+        "Thirupparankundram Temple",
+        "Tamil Nadu",
+        "Contempt of Court",
+        "Temple Administration"
+      ],
+      "source": {
+        "title": "Thirupparankundram 'deepathoon' row LIVE: Supreme Court declares authorities 'wilfully disobeyed' court orders, suspends Board of Trustees",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-27-2026/article71749336.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q2",
+      "question": "A suspected Jaish-e-Mohammed (JeM) operative, allegedly planning to attack an IAF station, was recently apprehended in which Indian city?",
+      "options": [
+        "Vadodara",
+        "Surat",
+        "Rajkot",
+        "Ahmedabad"
+      ],
+      "answerIndex": 0,
+      "category": "Defence",
+      "explanation": "A suspected Jaish-e-Mohammed (JeM) operative, believed to be planning an attack on an Indian Air Force (IAF) station, was apprehended in Vadodara by the ATS team. An assault rifle, 23 live cartridges, two empty cartridges, a JeM flag, mobile phones, and SIM cards were recovered from his possession.",
+      "background": "This arrest underscores ongoing national security concerns and the vigilance of anti-terrorism squads against extremist groups. Such operations are critical in preventing potential terror attacks and maintaining internal security.",
+      "examRelevance": "Location of major security operations and details of apprehended operatives are relevant for national security and defence awareness.",
+      "tags": [
+        "JeM",
+        "Vadodara",
+        "IAF station",
+        "ATS",
+        "National Security"
+      ],
+      "source": {
+        "title": "Suspected JeM operative held in Vadodara; planned to attack IAF station, says ATS",
+        "url": "https://www.thehindu.com/news/national/suspected-jem-operative-held-in-vadodara-planned-to-attack-iaf-station-says-ats/article71749977.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q3",
+      "question": "Which state recently launched the Smart Ration Card Scheme, aiming to benefit 10 lakh beneficiaries with 5 kg of free wheat per family member per month after e-KYC completion?",
+      "options": [
+        "Punjab",
+        "Rajasthan",
+        "Haryana",
+        "Uttar Pradesh"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The Chief Minister of Punjab recently launched the Smart Ration Card Scheme. This scheme is designed to benefit 10 lakh beneficiaries by providing them with five kg of free wheat per family member per month, contingent upon the completion of e-KYC.",
+      "background": "The Smart Ration Card Scheme is part of the state government's efforts to enhance food security and streamline the public distribution system, ensuring that essential food grains reach eligible beneficiaries efficiently.",
+      "examRelevance": "State government schemes, particularly those related to food security and public welfare, are important for competitive exams.",
+      "tags": [
+        "Punjab",
+        "Smart Ration Card Scheme",
+        "Food Security",
+        "e-KYC",
+        "Wheat Distribution"
+      ],
+      "source": {
+        "title": "Punjab CM launches Smart Ration Card Scheme to benefit 10 lakh beneficiaries",
+        "url": "https://www.thehindu.com/news/national/punjab/punjab-cm-lunches-smart-ration-card-scheme-to-benefit-10-lakh-beneficiaries/article71750004.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q4",
+      "question": "Pakistan is set to host trilateral defence pact talks focusing on West Asia and Houthi attacks. Which two other countries will participate in these talks?",
+      "options": [
+        "Egypt and UAE",
+        "Qatar and Oman",
+        "Iran and China",
+        "Saudi Arabia and Turkey"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "Pakistan is preparing to host trilateral defence talks in Islamabad. These talks will involve Saudi Arabia and Turkey, and will focus on regional security issues in West Asia, specifically addressing the Houthi attacks on Saudi Arabia. Pakistan’s Defence and Foreign Ministers and army chief are expected to attend.",
+      "background": "This trilateral engagement indicates a growing strategic alignment among these nations on defence and regional stability, particularly in response to evolving geopolitical challenges in the Middle East.",
+      "examRelevance": "International defence pacts, participating countries, and their strategic focus are key topics for International Relations and Defence sections.",
+      "tags": [
+        "Pakistan",
+        "Saudi Arabia",
+        "Turkey",
+        "Trilateral Defence Pact",
+        "West Asia",
+        "Houthi attacks"
+      ],
+      "source": {
+        "title": "Pakistan set to host talks with Saudi Arabia, Turkey under trilateral defence pact",
+        "url": "https://www.thehindu.com/news/international/pakistan-set-to-host-talks-with-saudi-arabia-turkey-under-trilateral-defence-pact/article71750047.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q5",
+      "question": "The DMK has set conditions to support the Delimitation Bill. One key demand is that Tamil Nadu's share in Lok Sabha should not be reduced and the existing proportional strength of all States must remain frozen based on which Census?",
+      "options": [
+        "1981 Census",
+        "2001 Census",
+        "1971 Census",
+        "1991 Census"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The DMK has reiterated its stance that it will support the Delimitation Bill only if certain conditions are met. A primary demand is that Tamil Nadu's share in the Lok Sabha should not be reduced, and the existing proportional strength of all states must remain frozen based on the 1971 Census for another 25 years.",
+      "background": "Delimitation is the process of redrawing boundaries of Lok Sabha and state assembly constituencies. The freezing of seats based on the 1971 Census was done to encourage population control measures without penalizing states that successfully controlled their population growth.",
+      "examRelevance": "Delimitation process, constitutional provisions related to census and representation, and political stands on significant bills are crucial for Polity.",
+      "tags": [
+        "DMK",
+        "Delimitation Bill",
+        "Lok Sabha",
+        "1971 Census",
+        "Tamil Nadu",
+        "State Representation"
+      ],
+      "source": {
+        "title": "DMK sets conditions to support Delimitation Bill",
+        "url": "https://www.thehindu.com/news/national/dmk-sets-conditions-to-support-delimitation-bill/article71749941.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q6",
+      "question": "Tamil Nadu Chief Minister Vijay recently honoured former Ministers V.V. Swaminathan and H.V. Hande. What occasion prompted this honour?",
+      "options": [
+        "Their contributions to education",
+        "Their centenaries",
+        "Their 50 years in public service",
+        "Their significant legislative reforms"
+      ],
+      "answerIndex": 1,
+      "category": "Awards & Honours",
+      "explanation": "Tamil Nadu Chief Minister Vijay recently honoured former Ministers V.V. Swaminathan and H.V. Hande. This recognition was specifically for their centenaries, celebrating their 100th birth anniversaries. Dr. Hande expressed pride in being honoured by the Tamil Nadu government and Legislative Assembly.",
+      "background": "Such honours by state governments recognize the contributions of political veterans and public figures to the state's development and governance, often marking significant milestones in their lives or careers.",
+      "examRelevance": "Recognition of prominent political figures and significant anniversaries by state governments are relevant for General Awareness and State PSC exams.",
+      "tags": [
+        "Tamil Nadu",
+        "CM Vijay",
+        "V.V. Swaminathan",
+        "H.V. Hande",
+        "Centenaries",
+        "Political Figures"
+      ],
+      "source": {
+        "title": "CM Vijay honours former Ministers V.V. Swaminathan, H.V. Hande on their centenaries",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijay-honours-former-ministers-vv-swaminathan-hv-hande-on-their-centenaries/article71749883.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q7",
+      "question": "A recent study suggests that elevated blood sugar during adulthood is linked with worse outcomes in which aspect during midlife?",
+      "options": [
+        "Physical strength",
+        "Cognition",
+        "Bone density",
+        "Cardiovascular health"
+      ],
+      "answerIndex": 1,
+      "category": "Science & Tech",
+      "explanation": "A recent study has found a link between elevated blood sugar levels during adulthood and worse cognition in midlife. The findings suggest that changes in glucose metabolism may affect brain health earlier in adulthood than previously understood.",
+      "background": "This research contributes to the understanding of metabolic health's long-term impact on brain function and cognitive decline, potentially informing earlier interventions for maintaining brain health.",
+      "examRelevance": "Health-related scientific studies and their findings, especially concerning common conditions like elevated blood sugar, are important for Science & Tech sections.",
+      "tags": [
+        "Blood Sugar",
+        "Cognition",
+        "Midlife",
+        "Brain Health",
+        "Glucose Metabolism",
+        "Health Study"
+      ],
+      "source": {
+        "title": "Elevated blood sugar during adulthood linked with worse cognition in midlife: study",
+        "url": "https://www.thehindu.com/sci-tech/health/elevated-blood-sugar-during-adulthood-linked-with-worse-cognition-in-midlife-study/article71750048.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q8",
+      "question": "External Affairs Minister S. Jaishankar recently urged enhanced collaboration among the 23-member grouping that India currently chairs. What is the name of this grouping?",
+      "options": [
+        "Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC)",
+        "South Asian Association for Regional Cooperation (SAARC)",
+        "Indian Ocean Rim Association (IORA)",
+        "Shanghai Cooperation Organisation (SCO)"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "External Affairs Minister S. Jaishankar emphasized the need for enhanced collaboration among the 23-member Indian Ocean Rim Association (IORA) nations. India currently holds the chair of this grouping and seeks to strengthen its collective voice amidst geopolitical changes.",
+      "background": "IORA is an intergovernmental organization comprising coastal states bordering the Indian Ocean. It aims to strengthen regional cooperation and sustainable development within the Indian Ocean region. India's chairmanship highlights its strategic focus on maritime diplomacy and regional partnerships.",
+      "examRelevance": "International organizations, India's role in them, and statements by key ministers are crucial for International Relations and Current Affairs.",
+      "tags": [
+        "IORA",
+        "EAM Jaishankar",
+        "Indian Ocean",
+        "International Cooperation",
+        "Regional Grouping",
+        "India's Chairmanship"
+      ],
+      "source": {
+        "title": "IORA nations must enhance collaboration: EAM Jaishankar",
+        "url": "https://www.thehindu.com/news/national/iora-nations-must-enhance-collaboration-eam-jaishankar/article71749923.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q9",
+      "question": "India's 'Champagne of teas', known for its cultivation 600-2000 metres above sea level, is currently being discussed for fetching premium prices in global markets. Which tea is referred to by this moniker?",
+      "options": [
+        "Darjeeling Tea",
+        "Nilgiri Tea",
+        "Dooars Tea",
+        "Assam Tea"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "India's 'Champagne of teas', a moniker widely used for Darjeeling Tea due to its unique flavour and aroma, is being championed by Union Minister Piyush Goyal to fetch premium prices in global markets. This tea is cultivated at altitudes of 600-2000 metres above sea level.",
+      "background": "Darjeeling Tea holds a Geographical Indication (GI) tag, signifying its origin and unique qualities. Efforts to secure premium prices aim to enhance its global standing and benefit the tea growers in the region.",
+      "examRelevance": "Geographical Indications, important agricultural products, and economic initiatives related to exports are relevant for Economy & Business.",
+      "tags": [
+        "Darjeeling Tea",
+        "Champagne of Teas",
+        "Premium Prices",
+        "Piyush Goyal",
+        "Global Markets",
+        "GI Tag"
+      ],
+      "source": {
+        "title": "India's 'Champagne of teas' eyes premium prices",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/champagne-of-teas-piyush-goyal-wants-worlds-best-tea-grown-600-2000-metres-above-sea-level-to-fetch-premium-prices-in-global-markets/articleshow/136215351.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q10",
+      "question": "Which country recently barred entry to UN rapporteur Francesca Albanese, citing her alleged 'links to terrorist acts'?",
+      "options": [
+        "Honduras",
+        "Costa Rica",
+        "Panama",
+        "Nicaragua"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Costa Rica recently denied entry to Francesca Albanese, a UN Special Rapporteur, upon her arrival at the airport serving the capital, San Jose. The country cited her alleged 'links to terrorist acts' as the reason for barring her entry. She was scheduled to receive an honorary degree from the University of Costa Rica.",
+      "background": "This incident highlights diplomatic tensions and challenges faced by UN officials in their work, especially when their activities or perceived affiliations are contested by member states.",
+      "examRelevance": "International relations, UN officials, and specific country actions are important for International Affairs.",
+      "tags": [
+        "Costa Rica",
+        "Francesca Albanese",
+        "UN Rapporteur",
+        "Terrorist Acts",
+        "International Relations"
+      ],
+      "source": {
+        "title": "Costa Rica bars entry to UN rapporteur over ‘links to terrorist acts’",
+        "url": "https://www.thehindu.com/news/international/costa-rica-bars-entry-to-un-rapporteur-over-links-to-terrorist-acts/article71749582.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q11",
+      "question": "Which university recently organized a one-day national conference through its Dr. B. R. Ambedkar Study Chair, discussing Dr. B.R. Ambedkar’s vision for modern Indian democracy?",
+      "options": [
+        "Kittur Rani Channamma University",
+        "Mysore University",
+        "Mangalore University",
+        "Bangalore University"
+      ],
+      "answerIndex": 0,
+      "category": "Art & Culture",
+      "explanation": "Kittur Rani Channamma University, through its Dr. B. R. Ambedkar Study Chair, recently organized a one-day national conference. The conference focused on discussing Dr. B. R. Ambedkar’s vision and his contributions to shaping modern Indian democracy.",
+      "background": "Such conferences play a vital role in academic discourse, promoting understanding of key figures in Indian history and their ideologies, which are fundamental to the nation's democratic framework.",
+      "examRelevance": "Important personalities, educational initiatives, and their contributions to Indian polity and culture are relevant for General Awareness.",
+      "tags": [
+        "Dr. B.R. Ambedkar",
+        "Kittur Rani Channamma University",
+        "Indian Democracy",
+        "National Conference",
+        "Study Chair"
+      ],
+      "source": {
+        "title": "Dr. B.R. Ambedkar’s vision shaped modern Indian democracy, says scholar",
+        "url": "https://www.thehindu.com/news/national/karnataka/dr-br-ambedkars-vision-shaped-modern-indian-democracy-says-scholar/article71749872.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q12",
+      "question": "The top court of which country recently ruled on a landmark case concerning a secularism law passed by its province of Quebec in 2019?",
+      "options": [
+        "Canada",
+        "United Kingdom",
+        "Australia",
+        "United States"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Canada's top court recently delivered a ruling on a landmark case regarding Quebec's secularism law, which was originally passed by the provincial government in 2019. This law has been the subject of intense legal debate since its inception.",
+      "background": "Quebec's secularism law, known as Bill 21, bans public sector workers in positions of authority (like teachers and police officers) from wearing religious symbols. The ruling has significant implications for religious freedom and the concept of secularism in Canada.",
+      "examRelevance": "International legal developments, constitutional law, and issues of secularism in different countries are important for International Relations and Polity.",
+      "tags": [
+        "Canada",
+        "Quebec",
+        "Secularism Law",
+        "Top Court",
+        "Religious Freedom",
+        "Bill 21"
+      ],
+      "source": {
+        "title": "Canada’s top court rules on Quebec secularism law in landmark case",
+        "url": "https://www.thehindu.com/news/international/canadas-top-court-rules-on-quebec-secularism-law-in-landmark-case/article71749545.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q13",
+      "question": "Border Security Force (BSF) troops recently shot dead a Pakistan intruder along the International Border (IB) in which Indian state?",
+      "options": [
+        "Rajasthan",
+        "Jammu and Kashmir",
+        "Gujarat",
+        "Punjab"
+      ],
+      "answerIndex": 3,
+      "category": "Defence",
+      "explanation": "BSF troops recently shot dead a Pakistan intruder along the International Border (IB) in Punjab. The intruder was challenged and asked to stop but continued moving towards the border, leading to the BSF troops opening fire.",
+      "background": "This incident is part of ongoing efforts by Indian border forces to prevent infiltration and maintain security along the sensitive International Border with Pakistan, particularly in the Punjab sector which is often used for smuggling and cross-border attempts.",
+      "examRelevance": "Border security, BSF operations, and incidents along international borders are relevant for Defence and National Security.",
+      "tags": [
+        "BSF",
+        "Pakistan Intruder",
+        "International Border",
+        "Punjab",
+        "Border Security",
+        "Defence Operations"
+      ],
+      "source": {
+        "title": "Pakistan intruder shot dead by BSF troops along IB in Punjab",
+        "url": "https://www.thehindu.com/news/national/pakistan-intruder-shot-dead-by-bsf-troops-along-ib-in-punjab/article71749531.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q14",
+      "question": "According to a recent government report, AI agents were successfully used in several cyber attacks in which European country?",
+      "options": [
+        "Sweden",
+        "Germany",
+        "Switzerland",
+        "France"
+      ],
+      "answerIndex": 2,
+      "category": "Science & Tech",
+      "explanation": "The Swiss government recently reported that AI agents were used in five cyber attacks in Switzerland, with four of these attacks being successful and compromising systems. This marks a notable instance of AI's application in malicious cyber activities.",
+      "background": "The increasing sophistication of cyber threats now includes the use of artificial intelligence to enhance attack capabilities, posing new challenges for cybersecurity defenses globally.",
+      "examRelevance": "Cybersecurity developments, applications of AI (both beneficial and malicious), and international reports on technology are important for Science & Tech.",
+      "tags": [
+        "AI Agents",
+        "Cyber Attacks",
+        "Switzerland",
+        "Cybersecurity",
+        "Artificial Intelligence",
+        "Technology"
+      ],
+      "source": {
+        "title": "AI agents used in five cyber attacks in Switzerland, government says",
+        "url": "https://www.thehindu.com/sci-tech/technology/ai-agents-used-in-five-cyber-attacks-in-switzerland-government-says/article71749266.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q15",
+      "question": "A recent study has found that sugar restriction during the first 1000 days of life significantly reduces the incidence of cancer and slows down the pace of what?",
+      "options": [
+        "Cardiovascular disease",
+        "Diabetes onset",
+        "Weight gain",
+        "Ageing"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "Researchers have found that sugar restriction during the first 1000 days of life can reduce cancer incidence and slow the pace of ageing. This is attributed to healthier eating habits later in life and a longer leukocyte telomere length, a protective DNA–protein cap.",
+      "background": "This study provides crucial insights into the long-term health benefits of early nutritional interventions, highlighting the critical window of the first 1000 days for influencing lifelong health outcomes.",
+      "examRelevance": "Health research, medical science, and findings related to diet and disease prevention are important for Science & Tech.",
+      "tags": [
+        "Sugar Restriction",
+        "Early Life",
+        "Cancer",
+        "Ageing",
+        "Health Study",
+        "Nutrition"
+      ],
+      "source": {
+        "title": "Sugar restriction during first 1000 days of life reduces cancer incidence, pace of ageing: study",
+        "url": "https://www.thehindu.com/sci-tech/health/sugar-restriction-during-first-1000-days-of-life-reduces-cancer-incidence-pace-of-ageing-study/article71749630.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q16",
+      "question": "The government has called for a special sitting of Parliament beginning November 30, 2026. What is the primary legislation expected to be tabled during this session, according to opposition parties?",
+      "options": [
+        "Farm Laws Repeal Bill",
+        "Uniform Civil Code Bill",
+        "An amended Delimitation Bill",
+        "Women's Reservation Bill"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "The government has scheduled a special sitting of Parliament starting November 30, 2026. According to opposition parties, including the Congress, the primary agenda for this session is likely to be the tabling of an amended Delimitation Bill, which they have vowed to oppose.",
+      "background": "Special parliamentary sessions are typically convened for urgent or significant legislative business. The Delimitation Bill, which aims to redraw electoral boundaries, is a contentious issue, especially for states that fear a reduction in their representation.",
+      "examRelevance": "Parliamentary procedures, significant legislation, and political dynamics are core to Polity and Governance.",
+      "tags": [
+        "Parliament",
+        "Special Session",
+        "Delimitation Bill",
+        "Indian Polity",
+        "Congress",
+        "Opposition"
+      ],
+      "source": {
+        "title": "Parliament's special sitting not for women’s quota but delimitation, will be resisted with all might: Congress",
+        "url": "https://www.thehindu.com/news/national/pm-hm-jodi-lying-special-sitting-not-for-womens-quota-but-delimitation-congress/article71749507.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q17",
+      "question": "Which airline recently announced a delay in staff salary payments, stating that payments during a five-month period would be made on the 30th of each month or the last day of February?",
+      "options": [
+        "AirAsia",
+        "IndiGo",
+        "SpiceJet",
+        "Vistara"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "AirAsia recently informed its staff via an internal email about a delay in salary payments. For a five-month period, salaries would be disbursed on the 30th of each month or the last day of February, instead of the usual schedule.",
+      "background": "Delays in salary payments can indicate financial challenges faced by airlines, often stemming from operational costs, market competition, or broader economic pressures affecting the aviation industry.",
+      "examRelevance": "Business news, aviation industry developments, and financial challenges of major companies are relevant for Economy & Business.",
+      "tags": [
+        "AirAsia",
+        "Salary Payments",
+        "Aviation Industry",
+        "Financial News",
+        "Business Operations"
+      ],
+      "source": {
+        "title": "AirAsia delays staff salary payments to end of month, internal email shows",
+        "url": "https://www.thehindu.com/news/international/airasia-delays-staff-salary-payments-to-end-of-month-internal-email-shows/article71749725.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q18",
+      "question": "The RBI Governor recently urged MSMEs to engage more with free-trade deals to improve market access and specialize in global value chains. He also flagged low adoption of which technology by MSMEs?",
+      "options": [
+        "Internet of Things (IoT)",
+        "Blockchain Technology",
+        "Cloud Computing",
+        "Artificial Intelligence (AI)"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "The RBI Governor urged Micro, Small, and Medium Enterprises (MSMEs) to leverage free-trade deals for better market access and specialization in global value chains. He also highlighted the low adoption of Artificial Intelligence (AI) by MSMEs as a concern.",
+      "background": "Promoting AI adoption in MSMEs is crucial for enhancing their competitiveness, efficiency, and integration into the digital economy, aligning with broader national goals of technological advancement and economic growth.",
+      "examRelevance": "RBI statements, policies for MSMEs, and technological adoption trends in the Indian economy are important for Economy & Business.",
+      "tags": [
+        "RBI Governor",
+        "MSMEs",
+        "Free Trade Deals",
+        "Artificial Intelligence",
+        "AI Adoption",
+        "Economy"
+      ],
+      "source": {
+        "title": "RBI governor urges MSMEs to free-trade deals; flags low AI adoption",
+        "url": "https://www.livemint.com/economy/rbi-governor-msmes-free-trade-deals-exports-ai-adoption-11795763118058.html"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q19",
+      "question": "On November 26, 2026, Arvind Kejriwal marked the 14th Foundation Day of which political party?",
+      "options": [
+        "Janata Dal (United) (JDU)",
+        "Biju Janata Dal (BJD)",
+        "Trinamool Congress (TMC)",
+        "Aam Aadmi Party (AAP)"
+      ],
+      "answerIndex": 3,
+      "category": "Dates & Days",
+      "explanation": "Arvind Kejriwal, the AAP chief, marked the 14th Foundation Day of the Aam Aadmi Party (AAP) on November 26, 2026. He highlighted the party's growth from Delhi to establish governments in Delhi and Punjab and gain support across India.",
+      "background": "The Aam Aadmi Party was founded on November 26, 2012, emerging from the India Against Corruption movement. It has since grown to become a significant political force, emphasizing anti-corruption, education, and healthcare.",
+      "examRelevance": "Foundation days of major political parties and key political figures are relevant for Polity and General Awareness.",
+      "tags": [
+        "Aam Aadmi Party",
+        "AAP",
+        "Arvind Kejriwal",
+        "Foundation Day",
+        "Political Party",
+        "Delhi"
+      ],
+      "source": {
+        "title": "We changed politics, but much remains to be done: Kejriwal on AAP’s 14th foundation day",
+        "url": "https://www.thehindu.com/news/cities/Delhi/we-changed-politics-but-much-remains-to-be-done-kejriwal-on-aaps-14th-foundation-day/article71748145.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q20",
+      "question": "A 200-year-old marble slab with floral patterns, believed to be from the Taj Mahal, is estimated to fetch between 20,000 and 30,000 pounds at an upcoming auction in which country?",
+      "options": [
+        "France",
+        "United States",
+        "Germany",
+        "United Kingdom"
+      ],
+      "answerIndex": 3,
+      "category": "Art & Culture",
+      "explanation": "A 200-year-old rectangular marble slab, adorned with floral patterns and believed to be from the Taj Mahal, is set to be auctioned in the United Kingdom. It is estimated to fetch between 20,000 and 30,000 pounds (approximately ₹24-36 lakh).",
+      "background": "Artifacts from historical Indian monuments often surface in international auctions, raising questions about their provenance and the preservation of national heritage. The Taj Mahal is a UNESCO World Heritage site and a symbol of India's rich architectural legacy.",
+      "examRelevance": "Cultural heritage, international auctions of historical artifacts, and significant monuments are relevant for Art & Culture and General Awareness.",
+      "tags": [
+        "Taj Mahal",
+        "Marble Slab",
+        "Auction",
+        "United Kingdom",
+        "Indian Heritage",
+        "Art & Culture"
+      ],
+      "source": {
+        "title": "200-year-old Taj Mahal marble slab to be auctioned in U.K.",
+        "url": "https://www.thehindu.com/news/national/floral-patterned-marble-slab-from-taj-mahal-set-for-uk-auction/article71749836.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q21",
+      "question": "ESCOMs in which Indian state plan to pass on profits to consumers via lower power bills, subject to regulatory approval, starting from April 2027?",
+      "options": [
+        "Karnataka",
+        "Kerala",
+        "Andhra Pradesh",
+        "Tamil Nadu"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "Electricity Supply Companies (ESCOMs) in Karnataka are planning to pass on their profits to consumers in the form of lower power bills. This proposal, if approved by the Karnataka Electricity Regulatory Commission (KERC), would take effect for electricity consumption from April 2027.",
+      "background": "This initiative aims to benefit consumers by reducing their electricity costs and demonstrates a move towards more consumer-friendly policies in the state's power sector, potentially setting a precedent for other states.",
+      "examRelevance": "State economic policies, power sector reforms, and consumer welfare initiatives are important for Economy & Business and State PSC exams.",
+      "tags": [
+        "Karnataka",
+        "ESCOMs",
+        "Power Bills",
+        "Consumer Benefits",
+        "KERC",
+        "Electricity Sector"
+      ],
+      "source": {
+        "title": "Karnataka’s Escoms plan to pass profits to consumers via lower power bills from April 2027",
+        "url": "https://www.thehindu.com/news/national/karnataka/karnatakas-escoms-plan-to-pass-profits-to-consumers-via-lower-power-bills-from-april-2027/article71747329.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q22",
+      "question": "In a significant drug bust, two individuals were recently arrested with charas worth ₹12.20 crore at which major railway station in Mumbai?",
+      "options": [
+        "Lokmanya Tilak Terminus",
+        "Dadar Railway Station",
+        "Bandra Terminus",
+        "Chhatrapati Shivaji Maharaj Terminus"
+      ],
+      "answerIndex": 0,
+      "category": "Miscellaneous",
+      "explanation": "Two individuals were arrested with charas valued at ₹12.20 crore at Lokmanya Tilak Terminus in Mumbai. The Anti-Narcotics Cell has dispatched a team to Uttar Pradesh to investigate suspected links in the drug supply network.",
+      "background": "Major drug busts at transportation hubs like railway stations highlight the ongoing challenges of drug trafficking and the continuous efforts of law enforcement agencies to curb the illicit trade.",
+      "examRelevance": "Major law enforcement operations, locations of significant events, and details of seized contraband are relevant for General Awareness and security sections.",
+      "tags": [
+        "Mumbai",
+        "Lokmanya Tilak Terminus",
+        "Charas",
+        "Drug Bust",
+        "Anti-Narcotics Cell",
+        "Law Enforcement"
+      ],
+      "source": {
+        "title": "Two arrested with charas worth ₹12.20 crore at Lokmanya Tilak Terminus in Mumbai",
+        "url": "https://www.thehindu.com/news/cities/mumbai/two-arrested-with-charas-worth-1220-crore-at-lokmanya-tilak-terminus-in-mumbai/article71749499.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q23",
+      "question": "Which Indian creator recently became the first globally to cross 1 million YouTube channel members, following his comeback on 'India's Got Latent'?",
+      "options": [
+        "BB Ki Vines",
+        "Samay Raina",
+        "Ashish Chanchlani",
+        "CarryMinati"
+      ],
+      "answerIndex": 1,
+      "category": "Miscellaneous",
+      "explanation": "Samay Raina, an Indian creator, recently achieved the milestone of becoming the first globally to cross 1 million YouTube channel members. This achievement follows his comeback on the show 'India's Got Latent'.",
+      "background": "This milestone underscores the growing influence and reach of Indian digital creators on global platforms, reflecting changing trends in entertainment consumption and content creation.",
+      "examRelevance": "Achievements of prominent digital personalities and trends in online media are relevant for General Awareness and current affairs.",
+      "tags": [
+        "Samay Raina",
+        "YouTube",
+        "Channel Members",
+        "India's Got Latent",
+        "Digital Creator",
+        "Social Media"
+      ],
+      "source": {
+        "title": "Samay Raina crosses 1M YouTube channel members",
+        "url": "https://economictimes.indiatimes.com/industry/media/entertainment/samay-raina-becomes-first-creator-globally-to-cross-1-million-youtube-channel-members-after-indias-got-latent-comeback/articleshow/136214181.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q24",
+      "question": "Which two political parties recently announced a re-alliance in Punjab, with the state BJP chief stating it is \"to rescue Punjab from collapse\"?",
+      "options": [
+        "Indian National Congress (INC) and Aam Aadmi Party (AAP)",
+        "Shiromani Akali Dal (SAD) and Bharatiya Janata Party (BJP)",
+        "Bahujan Samaj Party (BSP) and Shiromani Akali Dal (SAD)",
+        "Bharatiya Janata Party (BJP) and Aam Aadmi Party (AAP)"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Shiromani Akali Dal (SAD) and the Bharatiya Janata Party (BJP) recently announced a re-alliance in Punjab. Kewal Singh Dhillon, the state's BJP chief, stated that this alliance was forged with a commitment to \"Punjab First\" and aimed \"to rescue Punjab from collapse.\"",
+      "background": "The SAD and BJP had a long-standing alliance that broke down over the farm laws in 2020. Their re-alliance signifies a significant shift in Punjab's political landscape ahead of upcoming elections, aiming to consolidate votes.",
+      "examRelevance": "State political alliances, key political parties, and election-related developments are important for Polity and State PSC exams.",
+      "tags": [
+        "Punjab",
+        "SAD",
+        "BJP",
+        "Political Alliance",
+        "Shiromani Akali Dal",
+        "Bharatiya Janata Party"
+      ],
+      "source": {
+        "title": "‘SAD-BJP re-alliance is to rescue Punjab from collapse,’ says the State’s BJP chief",
+        "url": "https://www.thehindu.com/news/national/punjab/sad-bjp-re-alliance-is-to-rescue-punjab-from-collapse-says-the-states-bjp-chief/article71746351.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q25",
+      "question": "During a recent meeting in China, which former US President urged Vladimir Putin to end \"military aggression\" in Europe, hoping it would lead to a deal to end the war in Ukraine?",
+      "options": [
+        "George W. Bush",
+        "Bill Clinton",
+        "Donald Trump",
+        "Barack Obama"
+      ],
+      "answerIndex": 2,
+      "category": "International",
+      "explanation": "Former US President Donald Trump recently met with Vladimir Putin in China and urged the Russian President to end \"military aggression\" in Europe. Trump expressed his belief that this appeal could help lead to a deal to conclude Moscow's ongoing war in Ukraine.",
+      "background": "This interaction highlights the continued international efforts and varying diplomatic approaches to address the conflict in Ukraine, involving key global political figures.",
+      "examRelevance": "International diplomacy, statements by prominent global leaders, and ongoing conflicts are crucial for International Relations.",
+      "tags": [
+        "Donald Trump",
+        "Vladimir Putin",
+        "Military Aggression",
+        "Ukraine War",
+        "China Meeting",
+        "International Diplomacy"
+      ],
+      "source": {
+        "title": "Donald Trump urges Vladimir Putin to end ‘military aggression’ in Europe",
+        "url": "https://www.thehindu.com/news/international/donald-trump-urges-vladimir-putin-to-end-military-aggression-in-europe/article71749343.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q26",
+      "question": "The Supreme Court recently granted bail to former AAP MLA Naresh Balyan in a case filed under which act?",
+      "options": [
+        "Prevention of Money Laundering Act (PMLA)",
+        "Maharashtra Control of Organised Crime Act (MCOCA)",
+        "Unlawful Activities (Prevention) Act (UAPA)",
+        "Narcotic Drugs and Psychotropic Substances Act (NDPS)"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court granted bail to former Aam Aadmi Party (AAP) MLA Naresh Balyan in a case filed under the Maharashtra Control of Organised Crime Act (MCOCA). A bench of Justices Vikram Nath and Aparesh Kumar Singh passed the order, overturning a Delhi High Court order that had denied him bail.",
+      "background": "MCOCA is a stringent law primarily aimed at combating organized crime and terrorism. Cases under MCOCA often involve complex legal proceedings and strict bail conditions.",
+      "examRelevance": "Supreme Court judgments, specific legal acts (like MCOCA), and cases involving public figures are important for Polity and Law.",
+      "tags": [
+        "Supreme Court",
+        "Naresh Balyan",
+        "AAP MLA",
+        "MCOCA",
+        "Bail",
+        "Organised Crime Act"
+      ],
+      "source": {
+        "title": "Supreme Court grants bail to former AAP MLA Naresh Balyan in MCOCA case",
+        "url": "https://www.thehindu.com/news/cities/Delhi/supreme-court-grants-bail-to-former-aap-mla-naresh-balyan-in-mcoca-case/article71749634.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q27",
+      "question": "Which traditional martial art from Telangana is set to be showcased for the first time at a national event like Khelo India, with CM Revanth Reddy keen to promote it?",
+      "options": [
+        "Thang-Ta",
+        "Kalaripayattu",
+        "Karra samu",
+        "Silambam"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "'Karra samu', a traditional stick-fighting martial art from Telangana, is slated to take centre stage for the first time at a national event like Khelo India. Chief Minister Revanth Reddy is keen to give it a significant push, with demonstrations planned at Hakimpet Sports School.",
+      "background": "Promoting traditional martial arts at national platforms like Khelo India helps preserve cultural heritage, encourages sports development, and provides national recognition to indigenous sports forms.",
+      "examRelevance": "Traditional Indian martial arts, state cultural heritage, and national sports initiatives like Khelo India are important for Art & Culture and Sports.",
+      "tags": [
+        "Karra samu",
+        "Telangana",
+        "Khelo India",
+        "Traditional Martial Art",
+        "CM Revanth Reddy",
+        "Sports Promotion"
+      ],
+      "source": {
+        "title": "Telangana’s traditional martial art ‘Karra samu’ to take centre stage at Khelo India; CM Revanth keen to give it a push",
+        "url": "https://www.thehindu.com/news/national/telangana/telanganas-traditional-martial-art-karra-samu-to-take-centre-stage-at-khelo-india/article71749370.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q28",
+      "question": "Which Indian city's civic body recently issued an order imposing a ₹500 penalty for feeding pigeons at specific locations like Dadar and Mahim beaches?",
+      "options": [
+        "Kolkata",
+        "Mumbai",
+        "Delhi",
+        "Chennai"
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The Brihanmumbai Municipal Corporation (BMC) in Mumbai recently issued an order imposing a ₹500 penalty on individuals caught feeding pigeons at designated locations such as Dadar and Mahim beaches. This measure aims to address public health and environmental concerns.",
+      "background": "Uncontrolled feeding of pigeons can lead to overpopulation, spread of diseases, and accumulation of droppings, posing health risks and environmental challenges in urban areas. Such civic rules are implemented to manage urban wildlife.",
+      "examRelevance": "City-specific environmental regulations, public health measures, and civic administration decisions are important for Miscellaneous and State PSC exams.",
+      "tags": [
+        "Mumbai",
+        "Pigeons",
+        "Penalty",
+        "BMC",
+        "Dadar",
+        "Mahim"
+      ],
+      "source": {
+        "title": "Rs 500 penalty for feeding pigeons in Mumbai",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/rs-500-fine-for-feeding-pigeons-at-dadar-and-mahim-beaches-bmc-issues-order-violators-to-face-penalty/articleshow/136213421.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q29",
+      "question": "Peerzada Mohammad Sayeed, a four-time MLA and former Minister in Jammu and Kashmir coalition governments, recently passed away at the age of 73. He was a prominent leader of which political party?",
+      "options": [
+        "Indian National Congress",
+        "Jammu and Kashmir Peoples Democratic Party",
+        "Jammu & Kashmir National Conference",
+        "Bharatiya Janata Party"
+      ],
+      "answerIndex": 0,
+      "category": "Obituaries",
+      "explanation": "Peerzada Mohammad Sayeed, a veteran Congress leader from Jammu and Kashmir, passed away at the age of 73. He was a four-time MLA and served as a Minister in both PDP-Congress and NC-Congress coalition governments between 2002 and 2014.",
+      "background": "Sayeed was a significant political figure in Jammu and Kashmir, contributing to the region's governance during a crucial period. His passing marks the end of an era for a prominent political voice in the state.",
+      "examRelevance": "Obituaries of important political figures and their affiliations are important for General Awareness and Polity.",
+      "tags": [
+        "Peerzada Mohammad Sayeed",
+        "Obituary",
+        "Jammu and Kashmir",
+        "Indian National Congress",
+        "Former Minister",
+        "MLA"
+      ],
+      "source": {
+        "title": "J&K Congress leader Peerzada Mohammad Sayeed dies at 73",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-congress-leader-peerzada-mohammad-sayeed-dies-at-73/article71749324.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-27-q30",
+      "question": "President Droupadi Murmu recently embarked on a two-day visit to which Indian state to attend various events and visit religious places?",
+      "options": [
+        "Andhra Pradesh",
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "President Droupadi Murmu recently arrived in Kerala for a two-day visit. During her visit, she is scheduled to attend various events and make visits to religious places across the state.",
+      "background": "Presidential visits are significant events that highlight the importance of states and regions, often involving engagements with state leadership, participation in public functions, and interaction with local communities.",
+      "examRelevance": "Presidential visits, their locations, and associated events are important for Polity and General Awareness.",
+      "tags": [
+        "President Droupadi Murmu",
+        "Kerala",
+        "Presidential Visit",
+        "State Events",
+        "Religious Places"
+      ],
+      "source": {
+        "title": "President Droupadi Murmu arrives in Keralam on two-day visit",
+        "url": "https://www.thehindu.com/news/national/kerala/president-droupadi-murmu-arrives-in-keralam-on-two-day-visit/article71749691.ece"
+      }
+    }
+  ]
+}
