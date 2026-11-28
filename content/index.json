@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-27T09:53:28.558Z",
+  "updatedAt": "2026-11-28T09:05:35.692Z",
   "daily": [
+    {
+      "id": "daily-2026-11-28",
+      "type": "daily",
+      "date": "2026-11-28",
+      "title": "Current Affairs — 28 Nov 2026",
+      "path": "content/daily/2026-11-28.json",
+      "questionCount": 30
+    },
     {
       "id": "daily-2026-11-27",
       "type": "daily",
@@ -711,14 +719,6 @@
       "date": "2026-08-07",
       "title": "Current Affairs — 07 Aug 2026",
       "path": "content/daily/2026-08-07.json",
-      "questionCount": 30
-    },
-    {
-      "id": "daily-2026-08-05",
-      "type": "daily",
-      "date": "2026-08-05",
-      "title": "Current Affairs — 05 Aug 2026",
-      "path": "content/daily/2026-08-05.json",
       "questionCount": 30
     }
   ],

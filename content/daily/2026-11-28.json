@@ -1,0 +1,790 @@
+{
+  "id": "daily-2026-11-28",
+  "type": "daily",
+  "date": "2026-11-28",
+  "title": "Current Affairs — 28 Nov 2026",
+  "questionCount": 30,
+  "questions": [
+    {
+      "id": "daily-2026-11-28-q1",
+      "question": "Who recently received the Ezhuthachan Award, Keralam’s highest literary honour, from Chief Minister Satheesan?",
+      "options": [
+        "Methil Radhakrishnan",
+        "M. T. Vasudevan Nair",
+        "O. N. V. Kurup",
+        "Sugathakumari"
+      ],
+      "answerIndex": 0,
+      "category": "Awards & Honours",
+      "explanation": "Methil Radhakrishnan, an original writer, recently received the Ezhuthachan Award, Keralam’s highest literary honour, from Chief Minister Satheesan in Kozhikode.",
+      "background": "The Ezhuthachan Award is the highest literary honour given by the Kerala Sahitya Akademi, named after Thunchaththu Ezhuthachan, the father of the Malayalam language. It recognizes outstanding contributions to Malayalam literature.",
+      "examRelevance": "Methil Radhakrishnan = Recipient of Ezhuthachan Award, 2026.",
+      "tags": [
+        "Methil Radhakrishnan",
+        "Ezhuthachan Award",
+        "Kerala",
+        "Literary Honour"
+      ],
+      "source": {
+        "title": "Methil Radhakrishnan receives Ezhuthachan Award, Keralam’s highest literary honour",
+        "url": "https://www.thehindu.com/news/national/kerala/methil-radhakrishnan-receives-ezhuthachan-award-keralams-highest-literary-honour/article71753774.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q2",
+      "question": "In which state is Thirupparankundram, where the 'Deepathoon' lamp lighting ceremony is taking place under tight security and Supreme Court oversight?",
+      "options": [
+        "Andhra Pradesh",
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The 'Deepathoon' lamp lighting ceremony is taking place at Thirupparankundram in Tamil Nadu, with security taken over by central forces and arrangements reviewed by two former Madras High Court judges appointed as receivers. The Supreme Court had previously noted wilful disobedience of its orders regarding the ritual.",
+      "background": "The 'Deepathoon' lamp lighting at Thirupparankundram is a ceremonial Karthigai Deepam ritual at a disputed stone pillar. The Supreme Court appointed former Madras High Court judges Justice S. Vaidyanathan and Justice V. Parthiban as receivers to oversee the temple's affairs and ensure the ritual is conducted without obstruction.",
+      "examRelevance": "Thirupparankundram = Location of 'Deepathoon' lamp lighting, Tamil Nadu.",
+      "tags": [
+        "Thirupparankundram",
+        "Deepathoon",
+        "Tamil Nadu",
+        "Supreme Court",
+        "CRPF"
+      ],
+      "source": {
+        "title": "Former High Court judges review arrangements at Thirupparankundrum ahead of ‘Deepathoon’ lamp lighting; CRPF takes over security",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/former-high-court-judges-review-arrangements-at-thirupparankundrum-ahead-of-deepathoon-lamp-lighting-crpf-takes-over-security/article71753979.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q3",
+      "question": "Which of the following is a key objective of the new Constitutional Amendment Bill on delimitation, as highlighted in recent discussions?",
+      "options": [
+        "To mandate a uniform number of assembly seats for all states.",
+        "To reduce the total number of Lok Sabha seats.",
+        "To link Lok Sabha seat distribution exclusively to the 2001 Census.",
+        "To extend the population freeze for Lok Sabha seats to 2051."
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The revised Constitutional Amendment Bill on delimitation aims to extend the population freeze for Lok Sabha seats to 2051. It also removes the link between population stability and Lok Sabha share, and narrows Parliament’s discretion on delimitation.",
+      "background": "Delimitation is the act of redrawing boundaries of Lok Sabha and state assembly constituencies to represent changes in population. Previously, the distribution of seats was frozen based on the 1971 Census to encourage population stabilization, a link that the 132nd Constitutional Amendment Bill now removes.",
+      "examRelevance": "New Delimitation Bill = Extends population freeze to 2051.",
+      "tags": [
+        "Delimitation Bill",
+        "Lok Sabha",
+        "Population Freeze",
+        "Constitutional Amendment",
+        "Polity"
+      ],
+      "source": {
+        "title": "Delimitation Bill LIVE: This Bill is dangerous to democracy, says Kharge; DMK announces support for Centre's proposal",
+        "url": "https://www.thehindu.com/news/national/delimitation-bill-special-parliament-session-india-bloc-meeting-opposition-bjp-live-updates-november-28-2026/article71753535.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q4",
+      "question": "Which state's assembly is specifically mentioned to benefit from the Union Cabinet's revised delimitation bill by expanding its membership to 605 without dividing the state?",
+      "options": [
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Bihar",
+        "Madhya Pradesh"
+      ],
+      "answerIndex": 1,
+      "category": "Polity & Governance",
+      "explanation": "The Union Cabinet’s revised delimitation bill allows the Uttar Pradesh assembly to expand to 605 members. This is achieved by raising the constitutional ceiling on State assemblies from 500 to 650 seats, ensuring the state's representation without division.",
+      "background": "The delimitation exercise aims to redraw constituency boundaries based on population changes. By increasing the constitutional ceiling, the bill addresses concerns about potential loss of representation for states that have successfully controlled population growth, while allowing for expansion in states like Uttar Pradesh.",
+      "examRelevance": "Uttar Pradesh Assembly = Can expand to 605 members under new delimitation bill.",
+      "tags": [
+        "Uttar Pradesh",
+        "Delimitation Bill",
+        "Assembly Seats",
+        "Polity",
+        "Yogi Adityanath"
+      ],
+      "source": {
+        "title": "Centre’s delimitation fix steadies Yogi Adityanath’s nerves ahead of polls",
+        "url": "https://www.thehindu.com/news/national/uttar-pradesh/centres-delimitation-fix-steadies-yogi-adityanaths-nerves-ahead-of-polls/article71753568.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q5",
+      "question": "Which financial instrument allows an investor to withdraw a certain amount of money at regular intervals from their initial mutual fund investment, providing a regular income flow?",
+      "options": [
+        "Systematic Transfer Plan (STP)",
+        "Dividend Reinvestment Plan (DRP)",
+        "Systematic Investment Plan (SIP)",
+        "Systematic Withdrawal Plan (SWP)"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "A Systematic Withdrawal Plan (SWP) allows an investor to withdraw a certain amount of money at regular intervals, such as monthly, quarterly, or yearly, from their initial investment amount in mutual funds. This method is particularly useful for retirees needing a regular income.",
+      "background": "Mutual funds offer various systematic plans to manage investments. While SIPs focus on regular investments, SWPs focus on regular withdrawals, making them a popular choice for generating post-retirement income or for those with a fixed corpus.",
+      "examRelevance": "SWP = Systematic Withdrawal Plan for regular income from mutual funds.",
+      "tags": [
+        "SWP",
+        "Mutual Funds",
+        "Financial Planning",
+        "Retirement Income",
+        "Investment"
+      ],
+      "source": {
+        "title": "Explained: Want regular income from mutual funds? Understand the ABCD of SWPs",
+        "url": "https://economictimes.indiatimes.com/mf/analysis/explained-want-regular-income-from-mutual-funds-understand-the-abcd-of-swps/articleshow/136242277.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q6",
+      "question": "Which Indian organization has recently invited domestic industry to develop a human space flight analog simulation facility by issuing an Expression of Interest (EoI)?",
+      "options": [
+        "Defence Research and Development Organisation (DRDO)",
+        "Bharat Electronics Limited (BEL)",
+        "Hindustan Aeronautics Limited (HAL)",
+        "Indian Space Research Organisation (ISRO)"
+      ],
+      "answerIndex": 3,
+      "category": "Science & Tech",
+      "explanation": "The Indian Space Research Organisation (ISRO), specifically its Human Space Flight Centre (HSFC) in Bengaluru, issued an Expression of Interest (EoI) on November 26, 2026, inviting Indian industry to develop a human space flight analog simulation facility.",
+      "background": "Analog simulation facilities are crucial for training astronauts and testing equipment in conditions that mimic space environments on Earth, preparing for future human space missions like Gaganyaan. This initiative aims to leverage domestic industrial capabilities for advanced space projects.",
+      "examRelevance": "ISRO HSFC = Invited industry for human space flight analog simulation facility.",
+      "tags": [
+        "ISRO",
+        "Human Space Flight",
+        "Simulation Facility",
+        "Space Technology",
+        "Indian Industry"
+      ],
+      "source": {
+        "title": "ISRO invites Indian industry to develop human space flight analog simulation facility",
+        "url": "https://www.thehindu.com/sci-tech/science/isro-invites-indian-industry-to-develop-human-space-flight-analog-simulation-facility/article71751015.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q7",
+      "question": "What plea did the Supreme Court recently refuse to entertain?",
+      "options": [
+        "A plea to reduce the minimum age for contesting elections.",
+        "A plea to increase the retirement age of judges.",
+        "A plea to introduce mandatory voting in elections.",
+        "A plea to allow online voting for overseas citizens."
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently refused to entertain a plea that sought to reduce the minimum age for contesting elections. The bench observed that it was not an appropriate petition.",
+      "background": "The minimum age for contesting elections in India is generally 25 years for Lok Sabha and State Assemblies, 30 years for Rajya Sabha and State Legislative Councils, and 35 years for the President and Vice-President. This ruling reaffirms the existing constitutional provisions.",
+      "examRelevance": "Supreme Court = Refused plea to reduce minimum age for contesting elections.",
+      "tags": [
+        "Supreme Court",
+        "Elections",
+        "Minimum Age",
+        "Polity",
+        "Judiciary"
+      ],
+      "source": {
+        "title": "Supreme Court refuses to entertain plea to reduce minimum age for contesting elections",
+        "url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-entertain-plea-to-reduce-minimum-age-for-contesting-elections/article71753945.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q8",
+      "question": "Which regulatory body is exploring the establishment of a separate trading exchange for pre-IPO shares and plans to issue a consultation paper soon?",
+      "options": [
+        "Securities and Exchange Board of India (Sebi)",
+        "Reserve Bank of India (RBI)",
+        "Insurance Regulatory and Development Authority of India (IRDAI)",
+        "Pension Fund Regulatory and Development Authority (PFRDA)"
+      ],
+      "answerIndex": 0,
+      "category": "Economy & Business",
+      "explanation": "The Securities and Exchange Board of India (Sebi) is exploring setting up a separate trading exchange for pre-IPO shares. Sebi Chairman Tuhin Kanta Pandey announced that the market regulator is working on this proposal and plans to issue a consultation paper soon.",
+      "background": "The proposal for a pre-IPO share exchange comes amid significant expansion in India's IPO market over the past few years. Such an exchange could provide liquidity for early investors and employees holding shares before a company goes public.",
+      "examRelevance": "Sebi = Exploring new exchange for pre-IPO shares.",
+      "tags": [
+        "Sebi",
+        "Pre-IPO Shares",
+        "Stock Market",
+        "Market Regulation",
+        "Tuhin Kanta Pandey"
+      ],
+      "source": {
+        "title": "Sebi working on new exchange for pre-IPO shares, consultation paper out soon: Tuhin Kanta Pandey",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-working-on-new-exchange-for-pre-ipo-shares-consultation-paper-out-soon-tuhin-kanta-pandey/articleshow/136242080.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q9",
+      "question": "An explosion recently occurred at a middle school, reportedly killing and wounding several students, in which eastern province of Afghanistan?",
+      "options": [
+        "Helmand",
+        "Kunar",
+        "Kandahar",
+        "Nangarhar"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "An explosion at a middle school in the eastern Kunar province of Afghanistan reportedly killed and wounded several students. There was no immediate information on the cause of the explosion.",
+      "background": "Such incidents in Afghanistan often highlight the fragile security situation and the impact of conflict or unrest on civilian populations, particularly children and educational institutions.",
+      "examRelevance": "Kunar Province = Location of recent school explosion in Afghanistan.",
+      "tags": [
+        "Afghanistan",
+        "Kunar Province",
+        "School Explosion",
+        "International News",
+        "Conflict"
+      ],
+      "source": {
+        "title": "Several students reportedly killed, wounded in explosion at a middle school in eastern Afghanistan",
+        "url": "https://www.thehindu.com/news/international/several-students-reportedly-killed-wounded-in-explosion-at-a-middle-school-in-eastern-afghanistan/article71753929.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q10",
+      "question": "Which regulatory body recently found coliform bacteria in a second Bisleri water sample, leading the company to seek a review of the test results?",
+      "options": [
+        "Central Pollution Control Board (CPCB)",
+        "Ministry of Health and Family Welfare",
+        "Bureau of Indian Standards (BIS)",
+        "Food Safety and Standards Authority of India (FSSAI)"
+      ],
+      "answerIndex": 3,
+      "category": "Miscellaneous",
+      "explanation": "The Food Safety and Standards Authority of India (FSSAI) found coliform bacteria in a second Bisleri water sample. Bisleri stated it had recalled West Bengal Batch PB201 in August on FSSAI's direction but claimed two independent laboratories found the sample met the applicable standard.",
+      "background": "FSSAI is responsible for protecting and promoting public health through the regulation and supervision of food safety. Findings of coliform bacteria indicate potential contamination and pose health risks, prompting regulatory action and industry response.",
+      "examRelevance": "FSSAI = Found coliform bacteria in Bisleri water sample.",
+      "tags": [
+        "FSSAI",
+        "Bisleri",
+        "Coliform Bacteria",
+        "Food Safety",
+        "Public Health"
+      ],
+      "source": {
+        "title": "FSSAI finds coliform bacteria in second Bisleri water sample; company seeks review of ‘conflicting’ test results",
+        "url": "https://www.thehindu.com/news/national/india-finds-bacteria-in-second-unsafe-bisleri-water-sample-document-shows/article71753671.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q11",
+      "question": "President Droupadi Murmu recently addressed the passing-out parade of the Indian Naval Academy at Ezhimala. In which state is Ezhimala located?",
+      "options": [
+        "Goa",
+        "Kerala",
+        "Andhra Pradesh",
+        "Maharashtra"
+      ],
+      "answerIndex": 1,
+      "category": "Defence",
+      "explanation": "President Droupadi Murmu addressed the passing-out parade of the Indian Naval Academy at Ezhimala, which is located in Kerala. She emphasized that the security of maritime routes is closely linked to the economic well-being of nations.",
+      "background": "The Indian Naval Academy (INA) at Ezhimala, Kerala, is the premier officer training establishment of the Indian Navy. The President's visit highlights the strategic importance of maritime security and the role of the Indian Navy in an interconnected world.",
+      "examRelevance": "Ezhimala = Location of Indian Naval Academy, Kerala.",
+      "tags": [
+        "President Droupadi Murmu",
+        "Indian Naval Academy",
+        "Ezhimala",
+        "Kerala",
+        "Defence"
+      ],
+      "source": {
+        "title": "President Murmu says maritime domain increasingly important in interconnected world",
+        "url": "https://www.thehindu.com/news/national/kerala/president-murmu-says-maritime-domain-increasingly-important-in-interconnected-world/article71753670.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q12",
+      "question": "The Hindu recently published an article reflecting on the legacy of a legendary artist,",
+      "options": [
+        "Kishore Kumar",
+        "R. D. Burman",
+        "Bhupen Hazarika",
+        "Manna Dey"
+      ],
+      "answerIndex": 2,
+      "category": "Art & Culture",
+      "explanation": "The article in The Hindu reflects on the legacy of Bhupen Hazarika, describing him as 'The voice that gave philosophy a song,' a hundred years after his birth. His songs are noted for their unforgettable melodies and profound messages about humanity and justice.",
+      "background": "Bhupen Hazarika (1926–2011) was an Indian playback singer, lyricist, musician, poet, and filmmaker from Assam, widely known as Sudhakantha. He was awarded the Bharat Ratna, India's highest civilian award, posthumously in 2019.",
+      "examRelevance": "Bhupen Hazarika = Referred to as 'The voice that gave philosophy a song'.",
+      "tags": [
+        "Bhupen Hazarika",
+        "Music",
+        "Art & Culture",
+        "Assam",
+        "Legendary Artist"
+      ],
+      "source": {
+        "title": "Bhupen Hazarika: The voice that gave philosophy a song",
+        "url": "https://www.thehindu.com/entertainment/music/bhupen-hazarika-the-voice-that-gave-philosophy-a-song/article71753911.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q13",
+      "question": "Which Indian business group recently stated its plans to invest in airlines if the government allows, either by backing an existing carrier, financing a startup, or backing an entrepreneur?",
+      "options": [
+        "Tata Group",
+        "Reliance Group",
+        "Adani Group",
+        "Mahindra Group"
+      ],
+      "answerIndex": 2,
+      "category": "Economy & Business",
+      "explanation": "The Adani Group's CFO stated on November 27 that plans are in the making to put money in an airline if the government allows. The group has sought government permission to invest in airlines, either by backing an existing carrier, financing a startup, or backing an entrepreneur.",
+      "background": "The Adani Group already has a significant presence in the aviation sector, primarily through airport operations. This move indicates a potential expansion into airline ownership, which would mark a major shift in its aviation strategy amid flux in India's skies.",
+      "examRelevance": "Adani Group = Seeking permission to invest in airlines.",
+      "tags": [
+        "Adani Group",
+        "Aviation",
+        "Airline Investment",
+        "Business Expansion",
+        "Economy"
+      ],
+      "source": {
+        "title": "How Adani’s next aviation move is taking shape",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/from-airports-to-airlines-how-adanis-next-aviation-move-is-taking-shape-gautam-adani-indigo-air-india/articleshow/136240830.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q14",
+      "question": "Which state's Chief Minister has threatened to launch a 'Delhi Chalo' protest if the Centre fails to release drought relief funds?",
+      "options": [
+        "Karnataka",
+        "Gujarat",
+        "Tamil Nadu",
+        "Maharashtra"
+      ],
+      "answerIndex": 0,
+      "category": "Polity & Governance",
+      "explanation": "Karnataka Chief Minister D.K. Shivakumar has threatened to launch a 'Delhi Chalo' protest if the Union government fails to release financial assistance for drought relief. The CM stated that the state has not received any assistance despite providing all necessary data.",
+      "background": "Drought relief funds are crucial for states facing agricultural distress due to insufficient rainfall. Such protests highlight the ongoing fiscal federalism challenges and the demands from states for timely central assistance in times of crisis.",
+      "examRelevance": "Karnataka CM D.K. Shivakumar = Threatened 'Delhi Chalo' protest for drought relief.",
+      "tags": [
+        "Karnataka",
+        "Delhi Chalo",
+        "Drought Relief",
+        "D.K. Shivakumar",
+        "Centre-State Relations"
+      ],
+      "source": {
+        "title": "Karnataka to launch ‘Delhi Chalo’ protest if Centre fails to release drought relief: Karnataka CM D.K. Shivakumar",
+        "url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-launch-delhi-chalo-protest-if-centre-fails-to-release-drought-relief-karnataka-cm-dk-shivakumar/article71753746.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q15",
+      "question": "Maria Machado is leading an initiative to gather proposals for democratic reform in which South American nation?",
+      "options": [
+        "Venezuela",
+        "Chile",
+        "Argentina",
+        "Colombia"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Maria Machado is leading an initiative in Venezuela to gather proposals from across the nation and its diaspora for democratic reform. This comes 11 months after Washington ousted president Nicolas Maduro.",
+      "background": "Venezuela has been experiencing a prolonged political and economic crisis. Maria Machado is a prominent opposition figure, and her initiative aims to build a consensus for a democratic transition and address the country's challenges.",
+      "examRelevance": "Maria Machado = Leading democratic reform initiative in Venezuela.",
+      "tags": [
+        "Maria Machado",
+        "Venezuela",
+        "Democratic Reform",
+        "International Politics",
+        "Nicolas Maduro"
+      ],
+      "source": {
+        "title": "Cheers, tears as Maria Machado seeks ideas for Venezuela reform",
+        "url": "https://www.thehindu.com/news/international/cheers-tears-as-maria-machado-seeks-ideas-for-venezuela-reform/article71753627.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q16",
+      "question": "In which state were two senior executives of Oasis Fertility recently held in connection with an alleged oocyte racket, involving financial transactions worth ₹487.82 crore?",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Telangana",
+        "Maharashtra"
+      ],
+      "answerIndex": 2,
+      "category": "Miscellaneous",
+      "explanation": "Two senior Oasis Fertility executives were recently held in Telangana in connection with an alleged oocyte racket. Police investigation uncovered alleged recruitment of women from multiple states, unauthorised medical procedures, and financial transactions worth ₹487.82 crore in the company's bank account over eight months.",
+      "background": "Oocyte rackets involve illegal procurement and sale of human eggs, often exploiting vulnerable women. The significant financial transactions under scanner highlight the scale of the alleged illicit operation.",
+      "examRelevance": "Oocyte racket = Oasis Fertility executives held in Telangana.",
+      "tags": [
+        "Oocyte Racket",
+        "Oasis Fertility",
+        "Telangana",
+        "Crime",
+        "Medical Ethics"
+      ],
+      "source": {
+        "title": "Oocyte racket: Two senior Oasis Fertility executives held, ₹487 crore transactions under scanner",
+        "url": "https://www.thehindu.com/news/national/telangana/oocyte-racket-two-senior-oasis-fertility-executives-held-487-crore-transactions-under-scanner/article71753824.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q17",
+      "question": "The recent trade of attacks between Saudi Arabia and Houthis is related to the civil war in which country?",
+      "options": [
+        "Iraq",
+        "Yemen",
+        "Syria",
+        "Lebanon"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "The recent trade of attacks between Saudi Arabia and Houthis is related to the civil war in Yemen. A Saudi-led coalition has been backing Yemen's internationally recognised government and regularly bombing areas controlled by the Iran-backed Houthi group since the civil war reignited.",
+      "background": "The conflict in Yemen, which began in late 2014, is widely seen as a proxy war between Saudi Arabia and Iran. The Houthi movement controls significant territory, including the capital Sana'a, while the Saudi-led coalition supports the internationally recognized government.",
+      "examRelevance": "Saudi Arabia-Houthis conflict = Linked to Yemen civil war.",
+      "tags": [
+        "Saudi Arabia",
+        "Houthis",
+        "Yemen Civil War",
+        "International Relations",
+        "Middle East"
+      ],
+      "source": {
+        "title": "Saudi Arabia, Houthis trade attacks on rival capitals",
+        "url": "https://www.thehindu.com/news/international/saudi-arabia-houthis-trade-attacks-on-rival-capitals/article71753601.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q18",
+      "question": "Who is the current Chief of Defence Staff (CDS) who recently stated that",
+      "options": [
+        "General N.S. Raja Subramani",
+        "General Manoj Pande",
+        "General Anil Chauhan",
+        "General Bipin Rawat"
+      ],
+      "answerIndex": 0,
+      "category": "Defence",
+      "explanation": "Chief of Defence Staff (CDS) General N.S. Raja Subramani recently stated that 'A nation’s military power is as good as its industrial power.' He also noted that the war and peace distinction is blurring, and India faces a continuous state of contestation.",
+      "background": "The Chief of Defence Staff is the head of the Indian Armed Forces and the primary military advisor to the Minister of Defence. This statement underscores the importance of a strong domestic industrial base for national security and strategic autonomy.",
+      "examRelevance": "General N.S. Raja Subramani = Current CDS, stated 'military power is as good as industrial power'.",
+      "tags": [
+        "CDS",
+        "N.S. Raja Subramani",
+        "Defence",
+        "Military Power",
+        "Industrial Power"
+      ],
+      "source": {
+        "title": "War and peace distinction blurring, India faces continuous state of contestation: CDS",
+        "url": "https://www.thehindu.com/news/national/war-and-peace-distinction-blurring-india-faces-continuous-state-of-contestation-cds/article71751530.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q19",
+      "question": "According to Techarc, what was the approximate percentage surge in smartphone prices in the last 12 months?",
+      "options": [
+        "20%",
+        "10%",
+        "13%",
+        "17%"
+      ],
+      "answerIndex": 3,
+      "category": "Economy & Business",
+      "explanation": "According to Techarc, smartphone prices surged around 17% in the last 12 months. Additionally, laptops and tablets saw price increases of 13.5% and 13.3% respectively. Techarc projects cost pressures on memory-intensive electronics to persist through 2027.",
+      "background": "The rise in prices for electronic goods like smartphones, laptops, and tablets is attributed to various factors, including supply chain issues, increased demand, and projected memory demand exceeding supply through 2030, as projected by chipmaker SK hynix.",
+      "examRelevance": "Smartphone prices = Surged ~17% in last 12 months.",
+      "tags": [
+        "Smartphone Prices",
+        "Inflation",
+        "Electronics",
+        "Techarc",
+        "Economy"
+      ],
+      "source": {
+        "title": "Smartphone prices surged around 17% in last 12 months, laptops and tablets rose 13.5% and 13.3%",
+        "url": "https://www.thehindu.com/sci-tech/technology/smartphone-prices-surged-around-17-in-last-12-months-laptops-and-tablets-rose-135-and-133/article71753854.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q20",
+      "question": "Which country's President recently urged the U.S. to apply more pressure on Russia to stop the invasion of Ukraine, during an interview with BBC?",
+      "options": [
+        "Ukraine",
+        "Germany",
+        "France",
+        "Poland"
+      ],
+      "answerIndex": 0,
+      "category": "International",
+      "explanation": "Ukrainian President Zelenskyy recently urged the U.S. to apply more pressure on Russia to stop the invasion of Ukraine. He made this appeal in an interview broadcast by BBC.",
+      "background": "Since the full-scale invasion in February 2022, Ukraine has consistently sought international support, particularly from Western allies like the U.S., in terms of military aid, financial assistance, and diplomatic pressure against Russia.",
+      "examRelevance": "Zelenskyy = Ukrainian President, urged U.S. to pressure Russia.",
+      "tags": [
+        "Zelenskyy",
+        "Ukraine",
+        "Russia",
+        "US Relations",
+        "International Conflict"
+      ],
+      "source": {
+        "title": "Zelenskyy urges U.S. to pressure Russia and questions Trump referring Putin as ‘friend’",
+        "url": "https://www.thehindu.com/news/international/zelenskyy-urges-us-to-pressure-russia-and-questions-trump-referring-putin-as-friend/article71753434.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q21",
+      "question": "President Droupadi Murmu is scheduled to visit the Ropuiliani Tribal Freedom Fighters’ Museum at Kelsih as part of her three-day visit to which state?",
+      "options": [
+        "Tripura",
+        "Manipur",
+        "Mizoram",
+        "Nagaland"
+      ],
+      "answerIndex": 2,
+      "category": "Polity & Governance",
+      "explanation": "President Droupadi Murmu is scheduled to begin a three-day visit to Mizoram on November 28. On November 29, she will visit the Ropuiliani Tribal Freedom Fighters’ Museum at Kelsih and also participate in Mizoram University's 21st convocation and the closing ceremony of its Silver Jubilee celebrations on November 30.",
+      "background": "Presidential visits to states often include engagements that highlight local culture, history, and educational institutions. The Ropuiliani Tribal Freedom Fighters’ Museum honours tribal leaders and their contributions to India's independence struggle. The visit also coincides with the 27th Hornbill Festival.",
+      "examRelevance": "President Murmu = Visiting Mizoram, Ropuiliani Tribal Freedom Fighters’ Museum.",
+      "tags": [
+        "President Droupadi Murmu",
+        "Mizoram",
+        "Ropuiliani Museum",
+        "Tribal Freedom Fighters",
+        "State Visit"
+      ],
+      "source": {
+        "title": "President Murmu to begin three-day Mizoram visit on November 28",
+        "url": "https://www.thehindu.com/news/president-droupadi-murmu-three-day-mizoram-visit-for-27th-hornbill-festival/article71753800.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q22",
+      "question": "On September 20, the ozone hole covered 27.3 million sq. km. What is significant about this size, according to recent reports?",
+      "options": [
+        "It indicates a complete recovery of the ozone layer.",
+        "It is the largest size recorded in a decade.",
+        "It signifies a new record low for ozone-depleting substances.",
+        "It is the smallest size recorded in a decade."
+      ],
+      "answerIndex": 1,
+      "category": "Environment",
+      "explanation": "The ozone hole covered 27.3 million sq. km on September 20, which is reported as the largest size in a decade. Despite this, the world remains on track to shrinking it, as levels of substances that harm the ozone layer have been coming down thanks to the Montreal Protocol.",
+      "background": "The ozone layer protects Earth from harmful ultraviolet (UV) radiation. The ozone hole is a seasonal thinning, primarily over Antarctica. While its size can fluctuate due to meteorological conditions, the long-term trend of ozone recovery is positive due to international efforts to phase out ozone-depleting substances.",
+      "examRelevance": "Ozone hole = Covered 27.3 million sq. km on Sep 20, largest in a decade.",
+      "tags": [
+        "Ozone Hole",
+        "Environment",
+        "Climate Change",
+        "Montreal Protocol",
+        "Ozone Layer"
+      ],
+      "source": {
+        "title": "Ozone hole largest in a decade — yet world remains on track to shrinking it",
+        "url": "https://www.thehindu.com/sci-tech/science/ozone-hole-largest-in-a-decade-yet-world-remains-on-track-to-shrinking-it/article71753776.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q23",
+      "question": "During which monsoon season does pollution from northern India, including stubble burning from Punjab, typically travel over the Bay of Bengal to affect Sri Lanka’s air quality?",
+      "options": [
+        "Southwest Monsoon",
+        "Post-Monsoon Season",
+        "Northeast Monsoon",
+        "Pre-Monsoon Season"
+      ],
+      "answerIndex": 2,
+      "category": "Environment",
+      "explanation": "Pollution from northern India, including crop burning in Punjab, travels over the Bay of Bengal to Sri Lanka during the northeast monsoon. This seasonal wind pattern carries atmospheric pollutants across the region.",
+      "background": "Air pollution is a transboundary issue, with wind patterns playing a crucial role in its dispersion. Stubble burning in agricultural regions of northern India is a significant source of air pollution, impacting not only domestic air quality but also that of neighbouring regions and countries during specific seasons.",
+      "examRelevance": "Northeast Monsoon = Carries Punjab stubble burning pollution to Sri Lanka.",
+      "tags": [
+        "Stubble Burning",
+        "Air Quality",
+        "Punjab",
+        "Sri Lanka",
+        "Northeast Monsoon",
+        "Pollution"
+      ],
+      "source": {
+        "title": "Is stubble burning in Punjab affecting Sri Lanka’s air quality?",
+        "url": "https://www.thehindu.com/sci-tech/science/is-stubble-burning-in-punjab-affecting-sri-lankas-air-quality/article71750848.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q24",
+      "question": "Which political party's government in West Bengal has undertaken a delimitation exercise of civic bodies in Kolkata and Howrah, increasing the number of wards in both municipal corporations?",
+      "options": [
+        "Communist Party of India (Marxist)",
+        "Indian National Congress",
+        "Trinamool Congress (TMC)",
+        "Bharatiya Janata Party (BJP)"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The BJP government in West Bengal has taken up a delimitation exercise of civic bodies of the twin cities of Kolkata and Howrah. This exercise has resulted in an increase in the number of wards in both municipal corporations, with opposition parties claiming gerrymandering.",
+      "background": "Delimitation of civic bodies involves redrawing ward boundaries, which can significantly influence local elections. Such exercises often draw scrutiny and accusations of political manipulation (gerrymandering) from opposition parties, especially when undertaken by the ruling party.",
+      "examRelevance": "BJP West Bengal = Undertaking delimitation of Kolkata and Howrah civic bodies.",
+      "tags": [
+        "BJP",
+        "West Bengal",
+        "Kolkata",
+        "Howrah",
+        "Delimitation",
+        "Civic Bodies"
+      ],
+      "source": {
+        "title": "In Kolkata, the BJP redraws power lines",
+        "url": "https://www.thehindu.com/news/cities/kolkata/in-kolkata-the-bjp-redraws-power-lines/article71749683.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q25",
+      "question": "Which bird species, found dead near the Sanganoor channel in Coimbatore, recently tested positive for avian influenza?",
+      "options": [
+        "Egret",
+        "Pelican",
+        "Kingfisher",
+        "Pond heron"
+      ],
+      "answerIndex": 3,
+      "category": "Environment",
+      "explanation": "A pond heron found dead on the side of the Sanganoor channel near Ganapathy in Coimbatore recently tested positive for avian influenza. Forest Department sources reported that eight pond herons were found dead in the area on November 18.",
+      "background": "Avian influenza, or bird flu, is a viral infection that can affect both domestic and wild birds. Its detection in wild bird populations is a concern for wildlife health and potential spillover risks to other animals or humans.",
+      "examRelevance": "Pond heron = Tested positive for avian influenza in Coimbatore.",
+      "tags": [
+        "Pond Heron",
+        "Avian Influenza",
+        "Bird Flu",
+        "Coimbatore",
+        "Wildlife Disease"
+      ],
+      "source": {
+        "title": "Pond heron found dead in Coimbatore tests positive for avian influenza",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/pond-heron-found-dead-in-coimbatore-tests-positive-for-avian-influenza/article71753630.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q26",
+      "question": "In the recent second Test match between India and New Zealand, which two New Zealand bowlers were highlighted for their impactful performance against India?",
+      "options": [
+        "Neil Wagner and Lockie Ferguson",
+        "Tim Southee and Trent Boult",
+        "Kyle Jamieson and Jacob Duffy",
+        "Kyle Jamieson and Matt Henry"
+      ],
+      "answerIndex": 2,
+      "category": "Sports",
+      "explanation": "In the second Test between India and New Zealand in Christchurch, Kyle Jamieson and Jacob Duffy were highlighted for running riot against India, contributing to India crumbling to 116 for 6. Their disciplined pace attack and superb catching left India in a difficult position.",
+      "background": "Test cricket is the longest format of the sport, often characterized by prolonged battles between bat and ball. Strong bowling performances, especially from fast bowlers, are crucial for gaining an advantage in such matches.",
+      "examRelevance": "Kyle Jamieson, Jacob Duffy = New Zealand bowlers impactful in IND vs NZ Test.",
+      "tags": [
+        "Cricket",
+        "India vs New Zealand",
+        "Test Cricket",
+        "Kyle Jamieson",
+        "Jacob Duffy"
+      ],
+      "source": {
+        "title": "IND vs NZ second Test: Jamieson, Duffy run riot; India crumbles to 116 for 6",
+        "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-second-test-in-christchurch-day-2/article71753429.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q27",
+      "question": "The Rishikesh-Karnaprayag rail project, which recently achieved a breakthrough, is known for tackling challenging terrain in which mountain range?",
+      "options": [
+        "Himalayan Range",
+        "Western Ghats",
+        "Eastern Ghats",
+        "Aravalli Range"
+      ],
+      "answerIndex": 0,
+      "category": "Schemes & Projects",
+      "explanation": "The Rishikesh-Karnaprayag rail project recently achieved a breakthrough, tackling one of its toughest Himalayan stretches. The 125 km line aims to connect Rishikesh with Karnaprayag, traversing challenging mountainous terrain.",
+      "background": "This project is a critical infrastructure development in Uttarakhand, aiming to improve connectivity to the Char Dham pilgrimage sites and other remote areas in the Himalayas. It involves extensive tunnelling and bridge construction in difficult geological conditions.",
+      "examRelevance": "Rishikesh-Karnaprayag rail project = Tackles Himalayan terrain.",
+      "tags": [
+        "Rishikesh-Karnaprayag",
+        "Rail Project",
+        "Himalayan Range",
+        "Infrastructure",
+        "Uttarakhand"
+      ],
+      "source": {
+        "title": "Breakthrough in Karnaprayag rail project",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/railways/breakthrough-in-rishikesh-karnaprayag-project-railways-tackles-one-of-its-toughest-himalayan-stretches-how-close-is-the-125-km-line-to-becoming-operational/articleshow/136239857.cms"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q28",
+      "question": "What is the title of the ten-pillar vision document issued during Prime Minister Balendra Shah’s visit, enhancing the partnership between India and Nepal?",
+      "options": [
+        "'Indo-Nepal: A Shared Future'",
+        "'Viksit Bharat-Samunnat Nepal: Reimagining the Partnership'",
+        "'Himalayan Harmony: India-Nepal Cooperation'",
+        "'New Horizons: India-Nepal Strategic Alliance'"
+      ],
+      "answerIndex": 1,
+      "category": "International",
+      "explanation": "Indian and Nepali delegations issued a ten-pillar vision document titled ‘Viksit Bharat-Samunnat Nepal: Reimagining the Partnership’ during Prime Minister Balendra Shah’s visit. This document aims to enhance the partnership between the two nations.",
+      "background": "Vision documents like this outline strategic objectives and areas of cooperation between countries, providing a framework for future bilateral relations. The title suggests a focus on development and a renewed approach to the long-standing India-Nepal relationship.",
+      "examRelevance": "'Viksit Bharat-Samunnat Nepal: Reimagining the Partnership' = India-Nepal vision statement title.",
+      "tags": [
+        "India-Nepal",
+        "Vision Statement",
+        "International Relations",
+        "Balendra Shah",
+        "Bilateral Partnership"
+      ],
+      "source": {
+        "title": "Ten pillars of Nepal-India vision statement issued during Prime Minister Balendra Shah’s visit",
+        "url": "https://www.thehindu.com/news/national/ten-pillars-of-nepal-india-vision-statement-issued-during-prime-minister-balendra-shahs-visit/article71753492.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q29",
+      "question": "Which regulatory body has the Supreme Court directed to introduce a single-phase front-of-pack nutrition labelling (FoPNL) regime for unhealthy packaged foods?",
+      "options": [
+        "Consumer Affairs Ministry",
+        "Bureau of Indian Standards (BIS)",
+        "Ministry of Food Processing Industries",
+        "Food Safety and Standards Authority of India (FSSAI)"
+      ],
+      "answerIndex": 3,
+      "category": "Polity & Governance",
+      "explanation": "The Supreme Court recently directed the Food Safety and Standards Authority of India (FSSAI) to introduce a single-phase front-of-pack nutrition labelling (FoPNL) regime. The FSSAI has been given four months to finalise the draft regulations for this initiative aimed at unhealthy packaged foods.",
+      "background": "Front-of-pack nutrition labelling helps consumers make informed choices about food products by providing clear, concise information about their nutritional content, especially regarding high levels of sugar, salt, and fat. This directive underscores the judiciary's role in public health matters.",
+      "examRelevance": "Supreme Court directed FSSAI = To introduce single-phase FoPNL regime.",
+      "tags": [
+        "Supreme Court",
+        "FSSAI",
+        "FoPNL",
+        "Nutrition Labelling",
+        "Public Health"
+      ],
+      "source": {
+        "title": "Why the Supreme Court wants red warning labels on unhealthy packaged foods | Explained",
+        "url": "https://www.thehindu.com/sci-tech/health/why-the-supreme-court-wants-red-warning-labels-on-unhealthy-packaged-foods-explained/article71753487.ece"
+      }
+    },
+    {
+      "id": "daily-2026-11-28-q30",
+      "question": "Who is known as the",
+      "options": [
+        "Rajendra Singh",
+        "Anil Agarwal",
+        "M. C. Mehta",
+        "Sunita Narain"
+      ],
+      "answerIndex": 0,
+      "category": "Environment",
+      "explanation": "Rajendra Singh, also known as the 'Water man of India' and a Magsaysay awardee, recently advised against adopting the Sabarmati model for the Musi river. He advocated for planting banks instead of concretising them, speaking at the curtain-raiser event for the Telangana Climate Conclave.",
+      "background": "Rajendra Singh is an Indian water conservationist and environmentalist who won the Magsaysay Award in 2001 for his pioneering work in community-based water harvesting. He is known for his efforts in reviving traditional water management systems in Rajasthan.",
+      "examRelevance": "Rajendra Singh = 'Water man of India', advised on Musi river.",
+      "tags": [
+        "Rajendra Singh",
+        "Water Man of India",
+        "Musi River",
+        "Water Conservation",
+        "Environment"
+      ],
+      "source": {
+        "title": "Water man of India Rajendra Singh advises against Sabarmati model for Musi river",
+        "url": "https://www.thehindu.com/news/cities/Hyderabad/water-man-of-india-rajendra-singh-advises-against-sabarmati-model-for-musi-river/article71752356.ece"
+      }
+    }
+  ]
+}
